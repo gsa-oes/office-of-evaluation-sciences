@@ -11,7 +11,7 @@ Do you have an idea for a project at your agency that you'd like to discuss with
 
 [Register now >](https://docs.google.com/a/gsa.gov/forms/d/1Ho5LmjXDGwrxwnLE3MVIA7yNv9LdQmeKBcbSRHqK0AQ/viewform)
 
-## Interested Academic Affiliates
+## Interested Researchers
 
 Are you interested in supporting a project in your area of expertise? Tell us a bit about yourself, and if an opportunity arises, we'll notify you.
 
