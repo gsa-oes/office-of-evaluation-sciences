@@ -4,5 +4,7 @@
   permalink: '/approach/'
 - name: Work
   permalink: '/work/'
+- name: Resources
+  permalink: '/resources/'
 - name: Connect
   permalink: '/connect/'
