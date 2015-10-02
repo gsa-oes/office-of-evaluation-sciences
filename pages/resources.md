@@ -23,5 +23,3 @@ OSTP Blog from September 15th 2015 https://www.whitehouse.gov/blog/2015/09/15/de
 OSTP Blog from February 9th 2015 https://www.whitehouse.gov/blog/2015/02/09/behavioral-science-insights-make-government-more-effective-simpler-and-more-user-fri
 
 OIRA / OSTP Forms Guidance https://www.whitehouse.gov/sites/default/files/omb/inforeg/memos/2015/behavioral-science-insights-and-federal-forms.pdf
-
-## 
