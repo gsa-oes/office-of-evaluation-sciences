@@ -14,7 +14,7 @@ On September 15, 2015, President Obama signed an Executive Order directing Feder
 
 [Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
 
-\[Launch Event Agenda\]({{ '/assets/files/launch-event-agenda.pdf' | prepend: site.baseurl }})
+[Launch Event Agenda]({{ '/assets/files/launch-event-agenda.pdf' | prepend: site.baseurl }})
 
 [SBST 2015 Annual Report](https://sbst.gov/2015-annual-report/)
 
