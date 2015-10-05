@@ -8,13 +8,13 @@ image: /assets/img/about.jpg
 
 On September 15, 2015, President Obama signed an Executive Order directing Federal agencies to use behavioral science insights to better serve the American people. To learn more about the Executive Order, the work of the Social and Behavioral Sciences Team, and related initiatives, please see below:
 
-[Executive Order on WhiteHouse.gov](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american)  https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american
+[Executive Order on WhiteHouse.gov](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american)  
 
-[Executive Order in Federal Register]( https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people)  https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people
+[Executive Order in Federal Register](https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people) 
 
-[Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)  
+[Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
 
-[Launch Event Agenda]({{ '/assets/files/launch-event-agenda.pdf' | prepend: site.baseurl }})
+\[Launch Event Agenda\]({{ '/assets/files/launch-event-agenda.pdf' | prepend: site.baseurl }})
 
 [SBST 2015 Annual Report](https://sbst.gov/2015-annual-report/)
 
