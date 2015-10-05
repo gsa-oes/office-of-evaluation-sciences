@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources/
-image: /assets/img/about.jpg
+image: /assets/img/resources.jpg
 ---
 ## Quick Links
 
@@ -10,7 +10,7 @@ On September 15, 2015, President Obama signed an Executive Order directing Feder
 
 [Executive Order on WhiteHouse.gov](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american)  
 
-[Executive Order in Federal Register](https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people) 
+[Executive Order in Federal Register](https://www.federalregister.gov/articles/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people)
 
 [Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
 
