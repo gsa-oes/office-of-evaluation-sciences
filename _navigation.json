@@ -16,22 +16,29 @@
       "children": [
 
         {% for project in site.data.projects %}
-        {
-          {% for page in site.pages %}
-            {% if page.permalink == project.link %}
-              {% assign h = page.path %}
-            {% endif %}
-          {% endfor %}
-          "title": "{{ project.title }}",
-          "href": "{{ h }}"
-        }
-        {% if forloop.rindex != 1 %}, {% endif %}
+          {
+            {% for page in site.pages %}
+              {% if page.permalink == project.link %}
+                {% assign h = page.path %}
+              {% endif %}
+            {% endfor %}
+            "title": "{{ project.title }}",
+            "href": "{{ h }}"
+          }
+          {% if forloop.rindex != 1 %}, {% endif %}
         {% endfor %}
-
       ]
       {% endif %}
 
     }
     {% if forloop.rindex != 1 %}, {% endif %}
-  {% endfor %}
+  {% endfor %},
+  {
+    "title": "Navbar structure",
+    "href": "_data/navbar.yml"
+  },
+  {
+    "title": "Projects",
+    "href": "_data/projects.yml"
+  }
 ]
