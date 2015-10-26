@@ -1,0 +1,37 @@
+---
+---
+
+[
+  {% for nav in site.data.navbar %}
+    {
+      {% for page in site.pages %}
+        {% if nav.permalink == page.permalink %}
+          {% assign href = page.path %}
+        {% endif %}
+      {% endfor %}
+      "title": "{{ nav.name }}",
+      "href": "{{ href }}"
+
+      {% if nav.permalink == '/work/' %},
+      "children": [
+
+        {% for project in site.data.projects %}
+        {
+          {% for page in site.pages %}
+            {% if page.permalink == project.link %}
+              {% assign h = page.path %}
+            {% endif %}
+          {% endfor %}
+          "title": "{{ project.title }}",
+          "href": "{{ h }}"
+        }
+        {% if forloop.rindex != 1 %}, {% endif %}
+        {% endfor %}
+
+      ]
+      {% endif %}
+
+    }
+    {% if forloop.rindex != 1 %}, {% endif %}
+  {% endfor %}
+]
