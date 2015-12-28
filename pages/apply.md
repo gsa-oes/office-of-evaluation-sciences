@@ -66,7 +66,7 @@ The primary responsibilities of both Fellows and Associate Fellows include:
 
 * Representing the team by attending and presenting at internal government and external talks, conferences, and workshops.
 
-* Compensation for Fellows and Associate Fellows is determined based on qualifications and experience.
+Compensation for Fellows and Associate Fellows is determined based on qualifications and experience.
 
 ### Application Details
 
