@@ -70,7 +70,7 @@ The primary responsibilities of both Fellows and Associate Fellows include:
 
 ### Application Details
 
-Applicants may apply online at the link below. 
+Applicants may apply online at the link below.
 
 #### **The deadline to submit is 11:59 PM Sunday, January 24, 2016**.
 
