@@ -73,7 +73,4 @@ The primary responsibilities of both Fellows and Associate Fellows include:
 
 Applicants may apply online at the link below. The deadline to submit is 11:59 PM Sunday, January 24, 2016.
 
-Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates between late February and mid-March.
-
-\
- 
+Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates between late February and mid-March.\
