@@ -4,5 +4,4 @@ title: Apply
 permalink: /apply/
 image: /assets/img/about.jpg
 ---
-
-Ipsum lorem
+Ipsum lorem test.
