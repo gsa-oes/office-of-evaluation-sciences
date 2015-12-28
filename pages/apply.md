@@ -4,13 +4,13 @@ title: Apply
 permalink: /apply/
 image: /assets/img/about.jpg
 ---
-# \*\*SBST Spring 2016 Recruitment \*\*
+## SBST Spring 2016 Recruitment
 
 Based at the General Services Administration, the Office of Evaluation Sciences (OES) maintains the institutional home for the team of experts dedicated to driving and delivering the work of the White House Social and Behavioral Sciences Team. Since our inception in 2014, we have completed over 15 field experiments with a diverse set of agency collaborators. Please see the About, Work, and Resources tabs to learn more about our recent activities.
 
 We are currently seeking new team members to join us in Washington, D.C. for a one-year fellowship beginning in October 2016. Fellows and Associate Fellows translate insights from the social and behavioral sciences into concrete recommendations on how to improve Federal programs, policies, and operations. We work closely with agency collaborators to identify the opportunities for improvement and evaluate the relative efficiency and effectiveness of proposed interventions.
 
-## Applicant Profile
+### Applicant Profile
 
 Fellows and Associate Fellows must possess a unique set of technical and professional skills. This includes knowledge of at least one field within the social and behavioral sciences, the ability to creatively apply research knowledge within the federal government setting, the ability to design and manage the day-to-day operations of a field trial, and exceptional communication and interpersonal skills.
 
@@ -46,7 +46,7 @@ Preferred qualifications include:
 
 * Advanced statistical skills, including experience handling large administrative data sets.
 
-## Fellowship Details
+### Fellowship Details
 
 The primary responsibilities of both Fellows and Associate Fellows include:
 
@@ -68,8 +68,10 @@ The primary responsibilities of both Fellows and Associate Fellows include:
 
 * Compensation for Fellows and Associate Fellows is determined based on qualifications and experience.
 
-## Application Details
+### Application Details
 
-Applicants may apply online at the link below. **The deadline to submit is 11:59 PM Sunday, January 24, 2016**.
+Applicants may apply online at the link below. 
 
-Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates between late February and mid-March.\\
+#### **The deadline to submit is 11:59 PM Sunday, January 24, 2016**.
+
+Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates between late February and mid-March.
