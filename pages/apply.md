@@ -6,7 +6,7 @@ image: /assets/img/about.jpg
 ---
 ## SBST Spring 2016 Recruitment
 
-Based at the General Services Administration, the Office of Evaluation Sciences (OES) maintains the institutional home for the team of experts dedicated to driving and delivering the work of the White House Social and Behavioral Sciences Team. Since our inception in 2014, we have completed over 15 field experiments with a diverse set of agency collaborators. Please see the About, Work, and Resources tabs to learn more about our recent activities.
+Based at the General Services Administration, the Office of Evaluation Sciences (OES) maintains the institutional home for the team of experts dedicated to driving and delivering the work of the White House Social and Behavioral Sciences Team. Since our inception in 2014, we have completed over 15 field experiments with a diverse set of agency collaborators. Please see the [About](https://sbst.gov/about), [Work](https://sbst.gov/work), and [Resources](https://sbst.gov/resources) tabs to learn more about our recent activities.
 
 We are currently seeking new team members to join us in Washington, D.C. for a one-year fellowship beginning in October 2016. Fellows and Associate Fellows translate insights from the social and behavioral sciences into concrete recommendations on how to improve Federal programs, policies, and operations. We work closely with agency collaborators to identify the opportunities for improvement and evaluate the relative efficiency and effectiveness of proposed interventions.
 
