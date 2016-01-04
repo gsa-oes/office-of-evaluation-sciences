@@ -12,7 +12,7 @@ We are currently seeking new team members to join us in Washington, D.C. for a o
 
 ### Applicant Profile
 
-Fellows and Associate Fellows must possess a unique set of technical and professional skills. This includes knowledge of at least one field within the social and behavioral sciences, the ability to creatively apply research knowledge within the federal government setting, the ability to design and manage the day-to-day operations of a field trial, and exceptional communication and interpersonal skills.
+Fellows and Associate Fellows must possess a unique set of technical and professional skills. This includes knowledge of at least one field within the social and behavioral sciences, the ability to creatively apply research knowledge within the federal government setting, the ability to design and manage the day-to-day operations of a field trial, and exceptional communication and interpersonal skills. 
 
 * Fellows have substantial expertise in a social or behavioral science field. Typically they are researchers with a PhD in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, etc.) and on leave or coming to SBST from positions at universities, government agencies, or other research organizations.
 
@@ -45,6 +45,8 @@ Preferred qualifications include:
 * Experience working with Federal, municipal, state, or city governments.
 
 * Advanced statistical skills, including experience handling large administrative data sets.
+
+Applicants do not need to be U.S. citizens. 
 
 ### Fellowship Details
 
