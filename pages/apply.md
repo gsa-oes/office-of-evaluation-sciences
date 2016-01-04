@@ -70,7 +70,7 @@ Compensation for Fellows and Associate Fellows is determined based on qualificat
 
 ### Application Details
 
-Applicants may apply online at the link below.
+Applicants may apply online at the link below. Applicants will be asked to complete an application form and upload a Cover Letter, CV/Resume, Writing Sample, and provide contact information for two references. 
 
 Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates between late February and mid-March.
 
