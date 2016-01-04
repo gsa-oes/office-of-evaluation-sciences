@@ -46,7 +46,7 @@ Preferred qualifications include:
 
 * Advanced statistical skills, including experience handling large administrative data sets.
 
-Applicants do not need to be U.S. citizens. 
+Applicants do not need to be U.S. citizens.
 
 ### Fellowship Details
 
