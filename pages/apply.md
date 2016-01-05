@@ -12,17 +12,17 @@ We are currently seeking new team members to join us in Washington, D.C. for a o
 
 ### Applicant Profile
 
-Fellows and Associate Fellows must possess a unique set of technical and professional skills. This includes knowledge of at least one field within the social and behavioral sciences, the ability to creatively apply research knowledge within the federal government setting, the ability to design and manage the day-to-day operations of a field trial, and exceptional communication and interpersonal skills.
+Fellows and Associate Fellows must possess a unique set of technical and professional skills. These include knowledge of at least one field within the social and behavioral sciences, the ability to creatively apply research knowledge within the Federal government setting, the ability to design and manage the day-to-day operations of a field trial, and exceptional communication and interpersonal skills.
 
 * Fellows have substantial expertise in a social or behavioral science field. Typically they are researchers with a PhD in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, etc.) and on leave or coming to SBST from positions at universities, government agencies, or other research organizations.
 
-* Associate Fellows are typically pursuing a PhD in a social and behavioral sciences field, have recently completed a PhD or post-doc, or have a Master’s Degree plus two or more years of relevant experience.
+* Associate Fellows are typically pursuing a PhD in a social or behavioral sciences field, have recently completed a PhD or post-doc, or have a Master’s Degree plus two or more years of relevant experience.
 
 Additionally, applicants must possess:
 
-* General knowledge of applied social and behavioral sciences and specialized knowledge of at least one domain of a study within the social and behavioral sciences.
+* General knowledge of applied social and behavioral sciences and specialized knowledge of at least one domain of study within the social and behavioral sciences.
 
-* Ability to think creatively about how insights from the social and behavioral sciences can be translated into concrete interventions that are practically feasible within specific Federal programs, policies or organizations.
+* Ability to think creatively about how insights from the social and behavioral sciences can be translated into concrete interventions that are feasible within specific Federal programs, policies or organizations.
 
 * Statistical competency in at least one programming language (e.g., R, Stata, Matlab, SAS).
 
@@ -36,7 +36,7 @@ Additionally, applicants must possess:
 
 * Flexibility, self-motivation, and the ability to manage multiple tasks efficiently as a team player.
 
-* Curiosity and willingness to learn about federal agencies and their unique practical and regulatory constraints.
+* Curiosity and willingness to learn about Federal agencies and their unique practical and regulatory constraints.
 
 Preferred qualifications include:
 
@@ -56,7 +56,7 @@ The primary responsibilities of both Fellows and Associate Fellows include:
 
 * Working directly with agency collaborators to design and rigorously test interventions.
 
-* Driving project implementation, including communicating regularly with agency partners and any outside collaborators to ensure: the intervention and study design meet agency goals; evaluations are implemented as planned; timely and accurate data analyses and interpretation, and findings are distilled into project reports and policy memos for academic, agency, and public audiences.
+* Implementing projects, including communicating regularly with agency partners and any outside collaborators to ensure: the intervention and study design meet agency goals; evaluations are implemented as planned; timely and accurate data analyses and interpretation; and findings are distilled into project reports and policy memos for academic, agency, and public audiences.
 
 * Assisting, as needed, on additional projects being managed by other team members.
 
@@ -73,5 +73,3 @@ Finalists will be invited to an interview process that will include a writing ex
 **The deadline to submit is 11:59 PM Sunday, January 24, 2016**.
 
 [Apply Now](https://sbst.fluidreview.com/){: class="usa-button"}
-
-#### 
