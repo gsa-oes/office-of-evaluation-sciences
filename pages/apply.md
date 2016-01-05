@@ -22,7 +22,7 @@ Additionally, applicants must possess:
 
 * General knowledge of applied social and behavioral sciences and specialized knowledge of at least one domain of study within the social and behavioral sciences.
 
-* Ability to think creatively about how insights from the social and behavioral sciences can be translated into concrete interventions that are feasible within specific Federal programs, policies or organizations.
+* Ability to think creatively about how insights from the social and behavioral sciences can be translated into concrete interventions that are feasible within specific Federal programs.
 
 * Statistical competency in at least one programming language (e.g., R, Stata, Matlab, SAS).
 
@@ -46,6 +46,8 @@ Preferred qualifications include:
 
 * Advanced statistical skills, including experience handling large administrative data sets.
 
+Fellowship start and end dates will be discussed in more detail with finalists on a case-by-case basis. 
+
 Applicants do not need to be U.S. citizens.
 
 ### Fellowship Details
@@ -56,7 +58,7 @@ The primary responsibilities of both Fellows and Associate Fellows include:
 
 * Working directly with agency collaborators to design and rigorously test interventions.
 
-* Implementing projects, including communicating regularly with agency partners and any outside collaborators to ensure: the intervention and study design meet agency goals; evaluations are implemented as planned; timely and accurate data analyses and interpretation; and findings are distilled into project reports and policy memos for academic, agency, and public audiences.
+* Implementing projects, including communicating regularly with agency partners and any outside collaborators to ensure: the intervention and study designs meet agency goals; evaluations are implemented as planned; timely and accurate data analyses and interpretation; and findings are distilled into project reports and policy memos for academic, agency, and public audiences.
 
 * Assisting, as needed, on additional projects being managed by other team members.
 
