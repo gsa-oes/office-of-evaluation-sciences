@@ -8,3 +8,5 @@
   permalink: '/resources/'
 - name: Connect
   permalink: '/connect/'
+- name: Apply
+  permalink: '/apply/'
