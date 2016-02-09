@@ -4,6 +4,8 @@ title: Apply
 permalink: /apply/
 image: /assets/img/about.jpg
 ---
+**Thank you for your interest in SBST. Our application deadline has now passed, but information regarding our Fellowship is below**.
+
 ## SBST Spring 2016 Recruitment
 
 Based at the General Services Administration, the Office of Evaluation Sciences (OES) maintains the institutional home for the team of experts dedicated to driving and delivering the work of the White House Social and Behavioral Sciences Team (SBST). Since our inception in 2014, we have completed over 15 randomized evaluations with a diverse set of agency collaborators. Please see the [About](https://sbst.gov/about), [Work](https://sbst.gov/work), and [Resources](https://sbst.gov/resources) tabs to learn more about our recent activities.
