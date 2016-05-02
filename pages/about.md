@@ -24,4 +24,4 @@ See [Our Work]({{site.baseurl}}/work/) for examples.
 
 ## Who We Are
 
-The Social & Behavioral Sciences Team includes leading behavioral scientists and innovators from across the country. SBST is organized under the National Science and Technology Council, and receives particular support from the Office of Evaluation Sciences (OES) at the General Services Administration (GSA).
+The Social and Behavioral Sciences Team includes leading behavioral scientists and innovators from across the country. SBST is organized under the National Science and Technology Council, and receives particular support from the Office of Evaluation Sciences (OES) at the General Services Administration (GSA).
