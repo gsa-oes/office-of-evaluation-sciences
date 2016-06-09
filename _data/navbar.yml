@@ -1,12 +1,19 @@
-- name: About
-  permalink: '/about/'
-- name: Approach
-  permalink: '/approach/'
-- name: Work
-  permalink: '/work/'
-- name: Resources
-  permalink: '/resources/'
-- name: Connect
-  permalink: '/connect/'
-- name: Apply
-  permalink: '/apply/'
+assigned:
+  - text: About
+    permalink: '/about/'
+    href: '/pages/about.md'
+  - text: Approach
+    permalink: '/approach/'
+    href: '/pages/approach.md'
+  - text: Work
+    permalink: '/work/'
+    href: '/pages/work.md'
+  - text: Resources
+    permalink: '/resources/'
+    href: '/pages/resources.md'
+  - text: Connect
+    permalink: '/connect/'
+    href: '/pages/contact.md'
+  - text: Apply
+    permalink: '/apply/'
+    href: '/pages/apply.md'

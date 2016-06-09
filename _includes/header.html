@@ -22,11 +22,11 @@
         </a>
       </div>
       <ul class="usa-nav-list usa-unstyled-list">
-        {% assign navs = site.data.navbar %}
+        {% assign navs = site.data.navbar.assigned %}
 
         {% for nav in navs %}
           <li class="usa-menu-item">
-            <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.name }}</a>
+            <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.text }}</a>
           </li>
         {% endfor %}
       </ul>
