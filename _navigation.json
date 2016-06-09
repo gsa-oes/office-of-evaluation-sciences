@@ -2,43 +2,29 @@
 ---
 
 [
-  {% for nav in site.data.navbar %}
-    {
-      {% for page in site.pages %}
-        {% if nav.permalink == page.permalink %}
-          {% assign href = page.path %}
-        {% endif %}
+  {% for nav in site.data.navbar.assigned %}
+  {
+    "title": "{{ nav.text }}",
+    "permalink": "{{ nav.permalink }}",
+    "href": "{{ nav.href }}"
+
+    {% if nav.children %},
+    "children": [
+      {% for child in nav.children %}
+      {
+        "title": "{{ child.text }}",
+        "permalink": "{{ child.permalink }}",
+        "href": "{{ child.href }}"
+
+      } {% if forloop.rindex != 1 %}, {% endif %}
       {% endfor %}
-      "title": "{{ nav.name }}",
-      "href": "{{ href }}"
+    ]
+    {% endif %}
 
-      {% if nav.permalink == '/work/' %},
-      "children": [
-
-        {% for project in site.data.projects %}
-          {
-            {% for page in site.pages %}
-              {% if page.permalink == project.link %}
-                {% assign h = page.path %}
-              {% endif %}
-            {% endfor %}
-            "title": "{{ project.title }}",
-            "href": "{{ h }}"
-          }
-          {% if forloop.rindex != 1 %}, {% endif %}
-        {% endfor %}
-      ]
-      {% endif %}
-
-    }
-    {% if forloop.rindex != 1 %}, {% endif %}
-  {% endfor %},
-  {
-    "title": "Navbar structure",
-    "href": "_data/navbar.yml"
   },
+  {% endfor %}
   {
-    "title": "Projects",
-    "href": "_data/projects.yml"
+    "title": "Navigation bar data",
+    "href": "_data/navbar.yml"
   }
 ]
