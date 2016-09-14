@@ -4,9 +4,13 @@ title: Resources
 permalink: /resources/
 image: /assets/img/resources.jpg
 ---
-## Quick Links
+## 2016 Resources
 
-On September 15, 2015, President Obama signed an Executive Order directing Federal agencies to use behavioral science insights to better serve the American people. To learn more about the Executive Order, the work of the Social and Behavioral Sciences Team, and related initiatives, please see below:
+On September 15, 2016, the Social and Behavioral Sciences Team released their second annual report demonstrating measurable progress, in areas ranging from military retirement security to school-meals access for low-income students, in implementing the President's Executive Order, "Using Behavioral Science Insights to Better Serve the Nation” over the past year.
+
+## 2015 Resources
+
+On September 15, 2015, President Obama signed an Executive Order directing Federal agencies to use behavioral science insights to better serve the American people. 
 
 [Executive Order on WhiteHouse.gov](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american)  
 
