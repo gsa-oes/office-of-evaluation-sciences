@@ -6,7 +6,7 @@ image: /assets/img/about.jpg
 ---
 ## Interested in supporting this work?
 
-**We are not currently accepting applications, but information regarding our Fellowship and ideal applicant profile is below. We will likely begin searching for our next cohort of Fellows and Associate Fellows in Jan. 2017.**.
+**We are not currently accepting applications, but information regarding our Fellowship and ideal applicant profile is below. We will likely begin searching for our next cohort of Fellows and Associate Fellows in Jan. 2017**.
 
 Based at the General Services Administration, the Office of Evaluation Sciences (OES) maintains the institutional home for the team of experts dedicated to driving and delivering the work of the Social and Behavioral Sciences Team (SBST). Since our inception in 2014, we have completed over 15 randomized evaluations with a diverse set of agency collaborators. Please see the [About](https://sbst.gov/about), [Work](https://sbst.gov/work), and [Resources](https://sbst.gov/resources) tabs to learn more about our recent activities.
 
