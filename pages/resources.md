@@ -6,7 +6,7 @@ image: /assets/img/resources.jpg
 ---
 ## 2016 Resources
 
-On September 15, 2016, the Social and Behavioral Sciences Team released their second annual report demonstrating measurable progress, in areas ranging from military retirement security to school-meals access for low-income students, in implementing the President's Executive Order, "Using Behavioral Science Insights to Better Serve the Nation” over the past year.
+On September 15, 2016, the Social and Behavioral Sciences Team released their second annual report demonstrating measurable progress, in areas ranging from military retirement security to school-meals access for low-income students, in implementing the President's Executive Order, "Using Behavioral Science Insights to Better Serve the Nation.” 
 
 ## 2015 Resources
 
