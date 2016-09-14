@@ -4,9 +4,9 @@ title: Apply
 permalink: /apply/
 image: /assets/img/about.jpg
 ---
-## SBST Spring 2016 Recruitment
+## Interested in supporting this work?
 
-**Thank you for your interest in SBST. Our application deadline has now passed, but information regarding our Fellowship is below**.
+**We are not currently accepting applications, but information regarding our Fellowship and ideal applicant profile is below. We will likely begin searching for our next cohort of Fellows and Associate Fellows in Jan. 2017.**.
 
 Based at the General Services Administration, the Office of Evaluation Sciences (OES) maintains the institutional home for the team of experts dedicated to driving and delivering the work of the Social and Behavioral Sciences Team (SBST). Since our inception in 2014, we have completed over 15 randomized evaluations with a diverse set of agency collaborators. Please see the [About](https://sbst.gov/about), [Work](https://sbst.gov/work), and [Resources](https://sbst.gov/resources) tabs to learn more about our recent activities.
 
@@ -76,4 +76,4 @@ Finalists will be invited to an interview process that will include a writing ex
 
 **The deadline to submit is 11:59 PM Sunday, January 24, 2016**.
 
-[Apply Now](https://sbst.fluidreview.com/){: class="usa-button"}
+
