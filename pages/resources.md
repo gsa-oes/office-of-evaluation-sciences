@@ -4,11 +4,11 @@ title: Resources
 permalink: /resources/
 image: /assets/img/resources.jpg
 ---
-## 2016 Resources
+## 2016 
 
 On September 15, 2016, the Social and Behavioral Sciences Team released their second annual report demonstrating measurable progress, in areas ranging from military retirement security to school-meals access for low-income students, in implementing the President's Executive Order, "Using Behavioral Science Insights to Better Serve the Nation.” 
 
-## 2015 Resources
+## 2015 
 
 On September 15, 2015, President Obama signed an Executive Order directing Federal agencies to use behavioral science insights to better serve the American people. 
 
@@ -18,7 +18,7 @@ On September 15, 2015, President Obama signed an Executive Order directing Feder
 
 [Fact Sheet](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces)
 
-[Launch Event Agenda]({{ '/assets/files/launch-event-agenda.pdf' | prepend: site.baseurl }})
+[September 15 2015 Event Agenda]({{ '/assets/files/launch-event-agenda.pdf' | prepend: site.baseurl }})
 
 [SBST 2015 Annual Report](https://sbst.gov/2015-annual-report/)
 
