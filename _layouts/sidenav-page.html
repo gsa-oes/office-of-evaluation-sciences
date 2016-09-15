@@ -6,6 +6,7 @@ layout: base
   <aside class="usa-width-one-fourth">
     <ul class="usa-sidenav-list">
       {% for project in site.data.projects %}
+        {% if project.featured %}
           <li>
             {{ project.permalink }}
             {% if page.permalink == project.link %}
@@ -14,6 +15,7 @@ layout: base
               <a href="{{ project.link | prepend: site.baseurl }}">{{ project.title }}</a>
             {% endif %}
           </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </aside>
