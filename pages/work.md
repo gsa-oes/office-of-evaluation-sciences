@@ -7,7 +7,7 @@ permalink: /work/
 
 The 2016 Annual Report presents the results of completed projects and describes ongoing efforts in eight key policy areas: promoting retirement security, advancing economic opportunity, improving college access and affordability, responding to climate change, supporting criminal justice reform, assisting job seekers, helping families get health coverage and stay healthy, and improving the effectiveness and efficiency of Government operations. 
 
-[View 2016 Annual Report\]({{ '/2016-annual-report.pdf' | prepend: site.baseurl }}){: .usa-button }
+[View 2016 Annual Report]({{ '/2016-annual-report.pdf' | prepend: site.baseurl }}){: .usa-button }
 
 ## Select Projects from 2015 Annual Report
 
