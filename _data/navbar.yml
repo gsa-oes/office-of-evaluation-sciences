@@ -2,9 +2,6 @@ assigned:
   - text: About
     permalink: '/about/'
     href: '/pages/about.md'
-  - text: Approach
-    permalink: '/approach/'
-    href: '/pages/approach.md'
   - text: Work
     permalink: '/work/'
     href: '/pages/work.md'
