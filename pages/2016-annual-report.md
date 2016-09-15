@@ -4,7 +4,7 @@ title: 2016 Annual Report
 permalink: /2016-annual-report/
 ---
 
-[View 2016 Annual Report - PDF (currently embargoed)]({{ '/assets/files/2016-annual-report.pdf' | prepend: site.baseurl }}){: .usa-button }
+[View 2016 Annual Report - PDF]({{ '/assets/files/2016 SBST Annual Report.pdf' | prepend: site.baseurl }}){: .usa-button }
 
 Building on SBST’s [first year of results](https://www.whitehouse.gov/the-press-office/2015/09/15/fact-sheet-president-obama-signs-executive-order-white-house-announces), on September 15th, 2015, President Obama issued an [executive order](https://www.whitehouse.gov/the-press-office/2015/09/15/executive-order-using-behavioral-science-insights-better-serve-american) directing Federal Government agencies to apply behavioral science insights to their programs to better serve the American people. Results from 2016 initiatives, highlighted in SBST's second annual report, showcase the impact of this approach. SBST’s portfolio has included more than 40 different collaborations with agency partners and has tracked three major themes:
 
