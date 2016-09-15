@@ -12,6 +12,9 @@ banner-text: We are unified by our commitment to use what research tells us abou
 banner-button-text: Our Approach
 banner-button-link: /approach/
 ---
-## “A growing body of evidence demonstrates that behavioral science insights — research findings from fields such as behavioral economics and psychology about how people make decisions and act on them — can be used to design government policies to better serve the American people...” — President Barack Obama
+## “A growing body of evidence demonstrates that behavioral science insights — research findings from fields such as behavioral economics and psychology about how people make decisions and act on them — can be used to design government policies to better serve the American people...” 
+
+# <center>President Barack Obama</center>
+
 
 
