@@ -8,6 +8,8 @@ image: /assets/img/resources.jpg
 
 On September 15, 2016, the Social and Behavioral Sciences Team released their second annual report demonstrating measurable progress, in areas ranging from military retirement security to school-meals access for low-income students, in implementing the President's Executive Order, "Using Behavioral Science Insights to Better Serve the Nation.” 
 
+[OSTP Blog from September 15 2016](https://www.whitehouse.gov/blog/2016/09/15/learn-how-behavioral-science-being-used-better-serve-american-people)
+
 [Fact Sheet]({{ '/assets/files/2016 Behavioral-Science-EO-Anniversary-Fact-Sheet.pdf' | prepend: site.baseurl }})
 
 [September 15 2016 Event Agenda]({{ '/assets/files/SBST 9-15-16 Agenda.pdf' | prepend: site.baseurl }})
