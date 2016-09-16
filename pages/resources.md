@@ -36,8 +36,8 @@ On September 15, 2015, President Obama signed an Executive Order directing Feder
 
 [SBST 2015 Executive Summary]({{ '/uploads/2015-exec-summary.pdf' | prepend: site.baseurl }})
 
-[OSTP Blog from September 15th 2015](https://www.whitehouse.gov/blog/2015/09/15/designing-federal-programs-american-people-mind)
+[OSTP Blog from September 15 2015](https://www.whitehouse.gov/blog/2015/09/15/designing-federal-programs-american-people-mind)
 
-[OSTP Blog from February 9th 2015](https://www.whitehouse.gov/blog/2015/02/09/behavioral-science-insights-make-government-more-effective-simpler-and-more-user-fri)
+[OSTP Blog from February 9 2015](https://www.whitehouse.gov/blog/2015/02/09/behavioral-science-insights-make-government-more-effective-simpler-and-more-user-fri)
 
 [OIRA / OSTP Forms Guidance](https://www.whitehouse.gov/sites/default/files/omb/inforeg/memos/2015/behavioral-science-insights-and-federal-forms.pdf)
