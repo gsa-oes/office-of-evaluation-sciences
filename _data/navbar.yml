@@ -4,4 +4,4 @@ assigned:
     - {text: Work, permalink: /work/, href: /pages/work.md}
     - {text: Resources, permalink: /resources/, href: /pages/resources.md}
     - {text: Connect, permalink: /connect/, href: /pages/contact.md}
-    - {text: Apply, permalink: /apply/, href: /pages/apply.md}
+
