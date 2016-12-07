@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 2016 Annual Report
-permalink: /2016-annual-report/
+title: 2016 Projects
+permalink: /2016-projects/
 ---
 
 [View 2016 Annual Report - PDF]({{ '/assets/files/2016 SBST Annual Report.pdf' | prepend: site.baseurl }}){: .usa-button }
