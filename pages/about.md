@@ -4,24 +4,30 @@ title: About
 permalink: /about/
 image: /assets/img/about.jpg
 ---
+## Why are Evaluation Sciences important?
 
-## Why We're Here
+The Federal Government has made major strides applying and testing the impact of behavioral insights to improve federal programs, learning that small changes can make a major impact. Dozens of agencies have joined this effort, creating innovative partnerships to tackle some of the most pressing challenges in the United States and abroad. Recently completed randomized evaluations have measured the impact of low-cost behavioral insights on a range of agency priorities, such as student loan repayment, strengthening Servicemember retirement security, improving small-business loan access for farmers, and certifying school meal access for low-income children.
 
-We believe that government works best when it’s designed from the perspective of the American people.
+## What is the Office of Evaluation Sciences?
 
-Accessing and using programs should be intuitive. Information and choices among program options should be clear. Forms should be simple and easy to complete.
+Central to this work, the Office of Evaluation Sciences (OES) is a team of applied researchers tasked with incorporating behavioral insights to federal programs, and testing and learning what works. OES partners with federal agencies to evaluate the effectiveness of new evidence-based interventions on program outcomes and provides agencies evidence to make informed programmatic decisions. 
 
-Behavioral science provides us with tools for designing the kind of government Americans deserve.
+Based at the General Services Administration,  OES combines academic expertise with experience implementing and evaluating evidence-based interventions in complex settings.   
+OES aims to:
+- Bring diverse scientific expertise to Federal agencies 
+- Apply insights about human behavior to improve Government’s interactions with people 
+- Test and learn what works using rigorous methods
 
-## Why the Social and Behavioral Sciences Matter for Americans
+OES sits within the Office of Government-wide policy (OGP), contributing to OGP’s mission of supporting agencies to use the most cost effective management practices for their programs, and  identifying and evaluating best practices with agency partners. 
 
-The Federal government administers a wide array of programs on behalf of the American people: financial aid to assist with college access, social insurance programs and tax incentives to promote retirement security, health insurance programs to ensure access to healthcare and financial protection for families, disclosure requirements to help people obtain safer mortgages, and others.
+## What does OES look for in a potential project?
 
-But Americans can only realize the  benefits of these programs if the programs are easy to access, understand, and use. Research from behavioral science demonstrates that seemingly small barriers to engagement, such as pages of unstructured information, burdensome applications, or poorly presented choices, can prevent programs from effectively reaching the people they are intended to serve. An effective and efficient government must, therefore, reflect our best understanding of human behavior — how people engage with, participate in, and respond to policies and programs.
+In general, a project may be a good fit if it contains:
+- A clear touchpoint (e.g., a communication channel, a signup point, etc.) between the Federal agency program and an individual
+- An outcome of interest depends in part on people’s actions (e.g., individuals taking up a program, making a payment, choosing among alternative health insurance plans, etc.)
+- An outcome of interest that is reflected in data that is currently collected (or could be easily collected) by the Federal agency (relevant administrative data sets exist)
+- A program population size that is large enough to be statistically and policy relevant
+- The ability to assign groups of people to different versions of an intervention in order to compare outcomes and learn what works best (e.g., half of program recipients receive information presented in a standard way, and half in a modified, behaviorally-informed format)
+An agency partner willing to work alongside OES and to share results across government
 
-See [Our Work]({{site.baseurl}}/work/) for examples.
 
-
-## Who We Are
-
-The Social and Behavioral Sciences Team includes leading behavioral scientists and innovators from across the country. SBST is organized under the National Science and Technology Council, and receives particular support from the Office of Evaluation Sciences (OES) at the General Services Administration (GSA).
