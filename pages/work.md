@@ -2,6 +2,7 @@
 layout: project-list
 title: Work
 permalink: /work/
+image: /assets/img/work1.jpg
 ---
 ## Our Approach
 
