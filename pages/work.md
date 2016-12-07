@@ -3,12 +3,11 @@ layout: project-list
 title: Work
 permalink: /work/
 ---
-## 2016 Annual Report
+## Our Approach
 
-The 2016 Annual Report presents the results of completed projects and describes ongoing efforts in eight key policy areas: promoting retirement security, advancing economic opportunity, improving college access and affordability, responding to climate change, supporting criminal justice reform, assisting job seekers, helping families get health coverage and stay healthy, and improving the effectiveness and efficiency of Government operations. 
+We enable federal agencies to bridge the gap between program objectives and implementation by bringing diverse scientific expertise to work alongside civil servants, applying insights about human behavior to improve our government’s interactions with people, and testing to learn what works, what works best, and what does not work.
 
-[View 2016 Annual Report]({{ '/2016-annual-report' | prepend: site.baseurl }}){: .usa-button }
+Team members partner with agency collaborators to identify opportunities to improve and evaluate the efficiency and effectiveness of new interventions.  Based at the General Services Administration, the OES team combines technical expertise with experience implementing and evaluating evidence-based interventions in complex settings.
 
-## Select Projects from 2015 Annual Report
+We aim to publicly share the findings of each of our projects. This section includes detailed project abstracts from our 2015 and 2016 portfolios. 
 
-As a result of SBST projects in 2015, more Servicemembers are saving for retirement, more students are going to college and better managing their student loans, more Veterans are taking advantage of education and career counseling benefits, more small farms are gaining access to credit, and more families are securing health insurance coverage. And improvements in government program integrity and efficiency are saving taxpayer dollars.
