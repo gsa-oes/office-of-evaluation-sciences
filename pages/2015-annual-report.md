@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 2015 Annual Report
-permalink: /2015-annual-report/
+title: 2015 Projects
+permalink: /2015-projects/
 ---
 
 [View 2015 Annual Report - PDF]({{ '/assets/files/2015-annual-report.pdf' | prepend: site.baseurl }}){: .usa-button }
