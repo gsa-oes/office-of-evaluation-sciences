@@ -8,7 +8,7 @@ hero-button-link: /work/
 content-button-text: Join our team
 content-button-link: /apply/
 ---
-## Are you a passionate about applying your expertise to improving outcomes for the public? We are now accepting applications for the OES 2017 Fellowship cohort. 
+## # <center>Are you a passionate about applying your expertise to improving outcomes for the public? We are now accepting applications for the OES 2017 Fellowship cohort.</center> 
 
 
 
