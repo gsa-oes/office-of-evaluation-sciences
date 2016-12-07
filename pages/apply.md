@@ -4,9 +4,9 @@ title: Apply
 permalink: /apply/
 image: /assets/img/apply.jpg
 ---
-## Call for 2017 Applicants
+## Join our 2017 Cohort
 
-The Office of Evaluation Sciences (OES) is currently accepting applications for a fellowship beginning in October 2017 in Washington, D.C.. Based the General Services Administration, OES is a team of applied researchers tasked with incorporating behavioral insights into federal programs, and testing and learning what works. OES partners with federal agencies to evaluate the effectiveness of new evidence-based interventions on program outcomes and  provides agencies evidence to make informed programmatic decisions. 
+The Office of Evaluation Sciences (OES) is currently accepting applications for a fellowship beginning in October 2017 in Washington, D.C. Based at the General Services Administration at 1800 F St. NW, OES is a team of applied researchers tasked with incorporating behavioral insights into federal programs, and testing and learning what works. OES partners with federal agencies to evaluate the effectiveness of new evidence-based interventions on program outcomes and  provides agencies evidence to make informed programmatic decisions. 
 
 Over the past two years, OES has completed over 30 randomized evaluations with agency partners. OES has made major strides serving agencies and improving federal programs by applying and testing the impact of behavioral insights on a diverse range of agency outcomes.  Dozens of agencies have joined this effort, creating innovative partnerships to tackle some of the most pressing challenges in the United States and abroad. OES has rigorously tested insights on diverse agencies priorities such as promoting retirement security, responding to climate change, supporting criminal justice reform, assisting job seekers, helping families get health coverage and stay healthy, and improving the effectiveness and efficiency of Government operations. 
 
