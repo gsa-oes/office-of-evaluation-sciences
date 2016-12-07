@@ -4,7 +4,7 @@ title: Apply
 permalink: /apply/
 image: /assets/img/apply.jpg
 ---
-## Join our 2017 Cohort
+## Join our 2017 Fellowship Cohort
 
 The Office of Evaluation Sciences (OES), based at the General Services Administration at 1800 F St. NW, is currently accepting applications for a one-year fellowship in Washington, D.C. beginning in October 2017. 
 
