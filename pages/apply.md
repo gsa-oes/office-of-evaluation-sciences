@@ -2,7 +2,7 @@
 layout: page
 title: Apply
 permalink: /apply/
-image: /assets/img/about.jpg
+image: /assets/img/apply.jpg
 ---
 ## Call for 2017 Applicants
 
