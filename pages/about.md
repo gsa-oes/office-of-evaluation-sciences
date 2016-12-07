@@ -10,7 +10,7 @@ The Federal Government has made great strides applying and testing the impact of
 
 ## What is the Office of Evaluation Sciences?
 
-Central to this work, the Office of Evaluation Sciences (OES) is a team of applied experts from diverse fields such as economics, psychology, public health, and advanced statistical methods. OES team members work directly with federal agencies to evaluate the effectiveness of new evidence-based interventions on program outcomes and enable government to make informed decisions. 
+Central to this work, the Office of Evaluation Sciences (OES) is a team of applied experts from diverse fields such as economics, psychology, public health, and statistics. OES team members work directly with federal agencies to evaluate the effectiveness of new evidence-based interventions on program outcomes and enable government to make informed decisions. 
 
 Based at the General Services Administration,  OES combines academic expertise with experience implementing and evaluating evidence-based interventions in complex settings.  
 
