@@ -6,7 +6,7 @@ permalink: /2016-projects/
 
 In 2016, team members from the Office of Evaluation Sciences collaborated with agencies across government to deliver the following projects: 
 
-- On-Base Active Choice for TSP
+- [On-Base Active Choice for TSP]({{ '/assets/files/On-base Active Choice for TSP.pdf' | prepend: site.baseurl }})
 - Anchoring & TSP Enrollment 
 - Military Retiree myPay Reactivation 
 - National School Lunch Program Verification 
