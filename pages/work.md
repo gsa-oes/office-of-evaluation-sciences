@@ -10,7 +10,7 @@ We strive to enable federal agencies to bridge the gap between ultimate program 
 
 We do this by bringing diverse scientific expertise to work alongside civil servants, identifying opportunities to improve our government's interactions with people, applying insights about human behavior, and testing to learn what works, what works best, and what does not work.
 
-We aim to publicly share the findings of each of our projects. This section includes detailed project abstracts from our 2015 and 2016 portfolios. 
+We aim to publicly share the findings of each of our projects. Below are selected project summaries, and individual abstracts can be found on the tabs at the left. 
 
 ## Project Highlights
 
