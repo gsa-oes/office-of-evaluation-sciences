@@ -1,8 +1,10 @@
 ---
 layout: project
-title: 2016 Project Abstracts
+title: 2016 Projects
 permalink: /2016-projects/
 ---
+
+##Individual Project Abstracts
 
 In 2016, team members from the Office of Evaluation Sciences collaborated with agencies across government to deliver the following projects: 
 
