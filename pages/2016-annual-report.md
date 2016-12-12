@@ -1,12 +1,12 @@
 ---
 layout: project
-title: 2016 Projects
+title: 2016 Project Abstracts
 permalink: /2016-projects/
 ---
 
 In 2016, team members from the Office of Evaluation Sciences collaborated with agencies across government to deliver the following projects: 
 
-- <b>[On-Base Active Choice for TSP]({{site.baseurl}}/assets/files/On-Base Active Choice for TSP.pdf)</b>
+- [On-Base Active Choice for TSP]({{site.baseurl}}/assets/files/On-Base Active Choice for TSP.pdf)
 - [Military Retiree myPay Reactivation]({{site.baseurl}}/assets/files/Military Retiree myPay Reactivation.pdf) 
 - [National School Lunch Program Verification]({{site.baseurl}}/assets/files/National School Lunch Program Verification.pdf)  
 - [Farm Service County Committee Elections]({{site.baseurl}}/assets/files/Farm Service County Committee Elections.pdf)  
