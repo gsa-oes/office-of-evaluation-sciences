@@ -48,6 +48,8 @@ Preferred qualifications include one or more of the following:
 
 ## Application Details
 
-Applicants may apply online via the link below. The deadline to submit is 5pm ET Monday, January 16, 2017. 
+Applicants may apply online by creating an account and submitting an application at https://oes.fluidreview.com/. 
+
+The deadline to submit is 5pm ET Monday, January 16, 2017. 
 
 Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates by mid-March. 
