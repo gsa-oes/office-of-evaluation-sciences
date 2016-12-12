@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2016 Projects
+title: 2016 Portfolio
 permalink: /2016-projects/
 ---
 
