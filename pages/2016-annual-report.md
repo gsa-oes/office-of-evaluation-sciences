@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 2016 Portfolio
-permalink: /2016-projects/
+permalink: /2016-portfolio/
 ---
 
 ## Individual Abstracts
