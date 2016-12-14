@@ -11,7 +11,7 @@ In 2015, the Task Force on 21st Century Policing generated 59 recommendations wi
 
 This tool was developed to empower individuals to identify concrete actions that can be taken locally to address issues facing their communities, and connect them to available Federal resources and real-world examples of how these actions have successfully been implemented. A set of 30 cards outlines discussion topics drawn from the final report, focusing on strategies to advance the recommendations. Blank card templates can be used for communities to create their own action steps.
 
-To download the report, report implementation guide, and learn more about the work of the Community Oriented Policing Services (COPS) Office at DOJ, please visit: [https://cops.usdoj.gov/policingtaskforce]({{https://cops.usdoj.gov/policingtaskforce}})
+To download the report, report implementation guide, and learn more about the work of the Community Oriented Policing Services (COPS) Office at the Department of Justice, please visit: [https://cops.usdoj.gov/policingtaskforce]({{https://cops.usdoj.gov/policingtaskforce}})
 
 <a class="usa-button" href="{{site.baseurl}}/assets/files/Community Action Deck_12132016.pdf">Download the Deck</a>
 
