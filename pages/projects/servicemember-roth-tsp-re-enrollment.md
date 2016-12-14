@@ -5,17 +5,17 @@ permalink: /projects/servicemember-roth-tsp/
 tags: project
 image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
-abstract: /assets/files/roth-tsp-re-enrollment.pdf
+abstract: /assets/files/roth tsp re-enrollment.pdf
 ---
-## What is the issue?
+## What was the challenge?
 
 Because of a change in the military pay system, 139,273 active duty members of the Armed Forces needed to re-enroll in their Roth Thrift Savings Plans (TSP) in January 2015 to avoid having their contributions suspended indefinitely. To re-enroll, Servicemembers needed to log in to the Department of Defense’s (DOD) MyPay website and select a contribution percentage.
 
-## What is the insight?
+## What was the insight?
 
 These Servicemembers had previously enrolled in Roth TSP accounts, and so DOD and SBST worked together to redesign the email encouraging actions to make the actions as simple and easy to follow as possible. The redesigned outreach email emphasized the New Year as a fresh start, laid out the three steps needed to complete the re-enrollment process, and encouraged action in order to avoid losing the chance to contribute savings.
 
-## What was the intervention?
+## What was the pilot?
 
 The 139,273 Servicemembers who needed to re-enroll were assigned to two groups based on the last two digits of their Social Security Number (SSN), with those with SSNs ending in 0–49 (n = 69,318) sent the standard email, and Servicemembers with SSNs ending in 50–99 (n = 69,955) sent the redesigned email. After sending the emails on January 2, 2015, DFAS tracked re-enrollment requests.
 
