@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Income-Driven Repayment
-permalink: /projects/income-driven-repayment/
+permalink: /projects/income-driven repayment/
 tags: project
 image: /assets/img/project-images/income-driven-repayment.jpg
 image-credit: https://www.flickr.com/photos/timetrax/
