@@ -4,7 +4,7 @@ title: Servicemember TSP Enrollment
 permalink: /projects/tsp-enrollment/
 tags: project
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
-abstract: /assets/files/servicemember tsp enrollment.pdf
+abstract: /assets/files/Servicemember TSP Enrollment.pdf
 ---
 ## What was the challenge?
 
