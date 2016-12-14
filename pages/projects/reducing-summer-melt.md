@@ -5,17 +5,17 @@ permalink: /projects/reducing-summer-melt/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
-abstract: /assets/files/reducing-summer-melt.pdf
+abstract: /assets/files/Summer Melt.pdf
 ---
-## What is the issue?
+## What was the challenge?
 
 Every year 20 to 30 percent of college-accepted high school graduates in urban districts fail to matriculate in college in the fall—a phenomenon known as “summer melt.”
 
-## What is the insight?
+## What was the insight?
 
 Sending students text message reminders about key tasks related to college matriculation, such as completing financial aid paperwork, have been found to increase first-year enrollment. By delivering these messages at times when students can take action, each reminder prompts direct action that supports college enrollment.
 
-## What was the intervention?
+## What was the pilot?
 
 Personalized text messages were designed for students and parents, reminding them of critical tasks. The text messages also provided recipients with a connection to individualized college and financial aid advising.
 
