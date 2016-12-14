@@ -48,7 +48,7 @@ Preferred qualifications include one or more of the following:
 
 ## Application Details
 
-Applicants may apply online by creating an account and submitting an application [here](https://oes.fluidreview.com/). 
+Applicants may apply online by creating an account and submitting an application [here](https://oes.fluidreview.com/)(https://oes.fluidreview.com/). 
 
 The deadline to submit is 5pm ET Monday, January 16, 2017. 
 
