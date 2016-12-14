@@ -5,7 +5,7 @@ permalink: /projects/servicemember-roth-tsp/
 tags: project
 image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
-abstract: /assets/files/roth tsp re-enrollment.pdf
+abstract: /assets/files/Servicemember Roth TSP Re-Enrollment.pdf
 ---
 ## What was the challenge?
 
