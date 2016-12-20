@@ -26,5 +26,6 @@ In 2016, team members from the Office of Evaluation Sciences collaborated with a
 - [Accountable Care Organization Voluntary Alignment]({{site.baseurl}}/assets/files/Financial Aid for HUD-Assisted Youth.pdf) 
 - [Tax Filing and EITC Take-up]({{site.baseurl}}/assets/files/Tax Filing and EITC Take-up.pdf) 
 - [Military OneSource Subscription]({{site.baseurl}}/assets/files/Military OneSource Subscription.pdf)
+- [21st Century Policing Report Community Action Deck]({{site.baseurl}}/projects/community-action-deck/)
 
 
