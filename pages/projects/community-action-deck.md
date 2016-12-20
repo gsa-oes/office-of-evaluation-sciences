@@ -13,7 +13,7 @@ This community action deck was developed to empower individual community members
 
 To download the report, report implementation guide, and learn more about the work of the Community Oriented Policing Services (COPS) Office at the Department of Justice, please visit: [https://cops.usdoj.gov/policingtaskforce]({{https://cops.usdoj.gov/policingtaskforce}})
 
-<a class="usa-button" href="{{site.baseurl}}/assets/files/Community Action Deck_12132016.pdf">Download the Deck</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/files/Community Action Deck_12202016.pdf">Download the Deck</a>
 
 Printing note: Cards are designed to print on 4 x 6 inch paper.
 
