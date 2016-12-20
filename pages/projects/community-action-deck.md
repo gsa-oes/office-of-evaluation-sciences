@@ -15,6 +15,8 @@ To download the report, report implementation guide, and learn more about the wo
 
 <a class="usa-button" href="{{site.baseurl}}/assets/files/Community Action Deck_12202016.pdf">Download the Deck</a>
 
-Printing note: Cards are designed to print on 4 x 6 inch paper.
+Notes: 
+- For hyperlinked resources to work, be sure the full link is being pulled into your browser with no spaces
+- Cards are designed to print on 4 x 6 inch paper.
 
 
