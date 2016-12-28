@@ -4,7 +4,7 @@ description: The Office of Evaluation Sciences (OES) brings diverse scientific e
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://oes.gsa.gov" # the base hostname & protocol for your site
 logo: /assets/img/logos/logo-name.png
-feature_image: /assets/img/potus.jpg
+feature_image: /assets/img/Kites-small.jpg
 
 colors:
   background: '#fdfdfd'
