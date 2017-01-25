@@ -4,11 +4,15 @@ title: Apply
 permalink: /apply/
 image: /assets/img/apply.jpg
 ---
-## Join our 2017 Fellowship Cohort
+## OES Recruitment Status
 
-The Office of Evaluation Sciences (OES), based at the General Services Administration at 1800 F St. NW, is currently accepting applications for a one-year fellowship in Washington, D.C. beginning in October 2017. 
+Our office is not currently accepting applications for our fellowship. To be notified of opportunities to join the team, please submit your email address here. 
 
-## Fellowship Details
+Please find details below if you are interested in learning more about roles on the team and requirements of applicants. 
+
+## Fellowship Detials
+
+The Office of Evaluation Sciences (OES) is based at the General Services Administration at 1800 F St. NW. Fellows spend one year in Washington D.C., often beginning the first week of October. 
 
 OES is a diverse team of applied reseachers committed to improving the way government serves the public. Most team members join OES on-loan from other offices in government, academic institutions, or nonprofit organizations on either a reimbursable or non-reimbursable basis. Team members have joined from a variety of universities, non-profits, and federal departments (e.g. Department of Education, Department of Agriculture, Housing and Urban Development Department). Other types of federal appointments may be offered on a limited basis.
 
@@ -46,10 +50,4 @@ Preferred qualifications include one or more of the following:
 - Professional design skills e.g. interaction design, visual communication design, etc.
 - Expertise in one or more U.S domestic policy sectors.
 
-## Application Details
 
-Applicants may apply online by creating an account and submitting an application [here](https://oes.fluidreview.com/) (https://oes.fluidreview.com/). 
-
-The deadline to submit is 11:59pm ET Sunday, January 15, 2017. 
-
-Finalists will be invited to an interview process that will include a writing exercise, up to two stages of interviews, and an in-person research presentation. We expect that final decisions will be communicated to candidates by mid-March. 
