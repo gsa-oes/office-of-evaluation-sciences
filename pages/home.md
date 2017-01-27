@@ -8,7 +8,7 @@ hero-button-link: /about/
 content-button-text: 2016 Abstracts
 content-button-link: /2016-portfolio/
 ---
-# <center> In September of 2016, OES released more than a dozen rigorous evaluations.</center> 
+# <center> In September of 2016, OES released results from more than a dozen rigorous evaluations.</center> 
 
 
 
