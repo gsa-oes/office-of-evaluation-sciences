@@ -8,7 +8,7 @@ image: /assets/img/apply.jpg
 
 Our office is not currently accepting applications for our fellowship. To be notified of opportunities to join the team, [please submit your contact information](https://goo.gl/forms/pVBi1UqQ29B3gqHy1). 
 
-Please find details below if you are interested in learning more about roles on the team and requirements of applicants. 
+If you are interested in learning more about roles on the team and requirements of applicants, details are provided below. 
 
 ## Fellowship Detials
 
