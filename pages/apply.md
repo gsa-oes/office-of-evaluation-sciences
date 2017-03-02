@@ -10,7 +10,7 @@ Our office is not currently accepting applications for our fellowship. To be not
 
 If you are interested in learning more about roles on the team and requirements of applicants, details are provided below. 
 
-## Fellowship Detials
+## Fellowship Details
 
 The Office of Evaluation Sciences (OES) is based at the General Services Administration at 1800 F St. NW. Fellows spend one year in Washington D.C., often beginning the first week of October. 
 
