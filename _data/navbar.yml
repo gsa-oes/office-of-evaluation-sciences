@@ -2,6 +2,6 @@
 assigned:
     - {text: About, permalink: /about/, href: /pages/about.md}
     - {text: Work, permalink: /work/, href: /pages/work.md}
-    - {text: Work with us, permalink: /workwithus/, href: /pages/apply.md}
+    - {text: Join us, permalink: /joinus/, href: /pages/apply.md}
 
 
