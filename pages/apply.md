@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work with us
-permalink: /workwithus/
+title: Join us
+permalink: /joinus/
 image: /assets/img/apply.jpg
 ---
 ## OES Recruitment Status
