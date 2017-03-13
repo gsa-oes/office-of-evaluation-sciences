@@ -6,20 +6,18 @@ image: /assets/img/about.jpg
 ---
 ## What is the Office of Evaluation Sciences?
 
-OES is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program improvements to quickly learn what works, what works best, and what does not work. 
-
-OES recruits top talent in diverse scientific fields such as economics, psychology, public health, and statistics from academic institutions and non-profit organizations into government to complete a one-year, in-person Fellowship. OES also accepts subject matter experts from other Federal agencies on detail to build capacity governmentwide in designing and implementing rapid, low-cost evaluations.
+OES is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program improvements. The private sector quickly learns what quickly learn what does not work,  what works best, and what works most cost-effectively - government should, too.  OES supports GSA’s Office of Government-wide Policy’s mission to “use policies, evidence, and analysis to help agencies drive efficiency, savings, and improved mission performance.” 
 
 ## What does OES do?
 
-The private sector quickly learns what works, and what works most cost-effectively - government should, too.  OES supports GSA’s Office of Government-wide Policy’s mission to “use policies, evidence, and analysis to help agencies drive efficiency, savings, and improved mission performance.” 
+OES recruits top talent in diverse scientific fields such as economics, psychology, public health, and statistics from academic institutions and non-profit organizations into government to complete a one-year, in-person Fellowship. OES also accepts subject matter experts from other Federal agencies on detail to build capacity governmentwide in designing and implementing rapid, low-cost evaluations.
 
-OES team members do this by:
-- Enabling agencies to use existing administrative data to measure outcomes that matter
-- Designing operationally feasible, no- or low-cost changes to improve agency outcomes using proven insights 
-- Integrating rigorous evaluations within current program implementation and agency constraints, to learn quickly what works and doesn’t, and what is cost-effective to improve agency outcomes 
-- Providing technical services and capacity building on how to implement and analyze rigorous evaluations
-- Disseminating results and learnings to agencies and the public
+OES work directly with agency collaborators across government to:
+- Use existing administrative data to measure outcomes that matter
+- Design operationally feasible, no- or low-cost changes to improve agency outcomes using proven insights 
+- Integrate rigorous evaluations within current program implementation and agency constraints, to learn quickly what works and doesn’t, and what is cost-effective to improve agency outcomes 
+- Provide technical services and capacity building on how to implement and analyze rigorous evaluations
+- Disseminate results and learnings to government and the public
 
 ## What does OES look for in a potential project?
 
