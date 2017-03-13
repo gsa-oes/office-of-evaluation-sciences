@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Join us
-permalink: /joinus/
+title: Work with us
+permalink: /workwithus/
 image: /assets/img/apply.jpg
 ---
 ## Working with OES
