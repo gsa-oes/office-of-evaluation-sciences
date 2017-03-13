@@ -4,9 +4,11 @@ title: Work with us
 permalink: /workwithus/
 image: /assets/img/apply.jpg
 ---
-## Working with OES
+## Joining OES
 
-Our office is not currently accepting applications for our fellowship. To be notified of opportunities to join the team, or if you are interested in working with us as an Academic Affilitate (a researcher that partners with us on a specific project in your area of expertise) [please submit your contact information](https://goo.gl/forms/HZCoGs47qKnBImEO2). If you are interested in learning more about roles on the team and requirements of applicants, details are provided below.
+Our office is not currently accepting applications for our fellowship. To be notified of opportunities to join the team, or if you are interested in serving as an Academic Affilitate (a researcher that partners with us on a specific project in your area of expertise) [please submit your contact information](https://goo.gl/forms/HZCoGs47qKnBImEO2). If you are interested in learning more about roles on the team and requirements of applicants, details are provided below.
+
+## Collaborating with OES
 
 If you work in the Federal government and are interested in collaborating with OES on a project at your agency, please email as at oes@gsa.gov and tell us more about your idea. We'll explore if the opportunity is a good fit for our skillset, and discuss the nuts and bolts of potentially setting up an inter-agency agreement. 
 
