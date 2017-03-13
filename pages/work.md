@@ -1,7 +1,7 @@
 ---
 layout: project-list
-title: Work
-permalink: /work/
+title: Projects
+permalink: /projects/
 image: /assets/img/work1.jpg
 ---
 ## Our Approach
