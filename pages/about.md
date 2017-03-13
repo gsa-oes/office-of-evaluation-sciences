@@ -6,7 +6,7 @@ image: /assets/img/about.jpg
 ---
 ## What is the Office of Evaluation Sciences?
 
-OES is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program improvements. The private sector quickly learns what does not work,  what works best, and what works most cost-effectively - government should, too.  OES supports GSA’s Office of Government-wide Policy’s mission to “use policies, evidence, and analysis to help agencies drive efficiency, savings, and improved mission performance.” 
+OES is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program improvements. The private sector quickly learns what does not work,  what works, and what works most cost-effectively - government should, too.  OES supports GSA’s Office of Government-wide Policy’s mission to “use policies, evidence, and analysis to help agencies drive efficiency, savings, and improved mission performance.” 
 
 ## What does OES do?
 
