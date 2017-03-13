@@ -1,7 +1,7 @@
 
 assigned:
     - {text: About, permalink: /about/, href: /pages/about.md}
-    - {text: Work, permalink: /work/, href: /pages/work.md}
-    - {text: Join us, permalink: /joinus/, href: /pages/apply.md}
+    - {text: Projects, permalink: /projects/, href: /pages/projects.md}
+    - {text: Work with us, permalink: /joinus/, href: /pages/workwithus.md}
 
 
