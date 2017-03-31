@@ -6,6 +6,7 @@ tags: project
 image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/files/Servicemember Roth TSP Re-Enrollment.pdf
+year: 2015
 ---
 ## What was the challenge?
 

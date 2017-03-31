@@ -6,6 +6,7 @@ tags: project
 image: /assets/img/project-images/income-driven-repayment.jpg
 image-credit: https://www.flickr.com/photos/timetrax/
 abstract: /assets/files/Income-Driven Repayment.pdf
+year: 2016
 ---
 ## What was the challenge?
 

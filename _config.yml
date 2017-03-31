@@ -1,10 +1,28 @@
 # Site settings
 title: Office of Evaluation Sciences
 description: The Office of Evaluation Sciences (OES) brings diverse scientific expertise to Federal agencies to apply insights about human behavior to improve Government’s interactions with people, test and learn what works using rigorous methods.
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://oes.gsa.gov" # the base hostname & protocol for your site
 logo: /assets/img/logos/logo-name.png
 feature_image: /assets/img/Kites-small.jpg
+
+# Site theme
+theme: jekyll-uswds
+
+# Styles
+styles:
+  - /assets/css/main.css
+
+# Collections
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: project
 
 colors:
   background: '#fdfdfd'
@@ -53,13 +71,14 @@ footer:
   email: oes@gsa.gov
   twitter:
     - usgsa
-  text:  
+  text:
 
 # Build settings
-markdown: kramdown
 include:
   - _navigation.json
 exclude:
   - CONTRIBUTING.md
   - LICENSE.md
   - README.md
+  - Gemfile
+  - Gemfile.lock

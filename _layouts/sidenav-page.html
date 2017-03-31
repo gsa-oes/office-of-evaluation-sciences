@@ -5,17 +5,18 @@ layout: base
 <div class="usa-grid sidenav">
   <aside class="usa-width-one-fourth">
     <ul class="usa-sidenav-list">
-      {% for project in site.data.projects %}
-        {% if project.featured %}
-          <li>
-            {{ project.permalink }}
-            {% if page.permalink == project.link %}
-              <a class="usa-current-page" href="{{ project.link | prepend: site.baseurl }}">{{ project.title }}</a>
-            {% else %}
-              <a href="{{ project.link | prepend: site.baseurl }}">{{ project.title }}</a>
-            {% endif %}
-          </li>
-        {% endif %}
+      {% assign project_years = site.projects | group_by: 'year' %}
+      {% for project_year in project_years %}
+        <li>
+          <a href="{{ site.baseurl }}/{{ project_year.name }}-portfolio/">{{ project_year.name }}</a>
+          <ul class="usa-sidenav-sub_list">
+            {% for project in project_year.items %}
+            <li>
+              <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
       {% endfor %}
     </ul>
   </aside>

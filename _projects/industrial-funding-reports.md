@@ -5,6 +5,7 @@ permalink: /projects/industrial-funding-fee-reports/
 tags: project
 image: /assets/img/project-images/funding-fee-reports.png
 abstract: /assets/files/Industrial Funding Fee Reports.pdf
+year: 2015
 ---
 ## What was the challenge?
 
