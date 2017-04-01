@@ -2,28 +2,40 @@
 layout: base
 ---
 
-<section>
-  <div id="main" tabindex="-1" class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
-    <div class="usa-grid">
-      <div class="usa-width-whole hero-content">
-        <h1>{{ page.hero-text }}</h1>
-        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
-      </div>
-    </div>
+
+
+{% assign hero = page.hero %}
+{% include components/hero.html %}
+
+{% if page.tagline and page.intro %}
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-third">
+    <h2>{{ page.tagline }}</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    {{ page.intro | markdownify }}
   </div>
 </section>
+{% endif %}
 
-<section class="content">
+{% capture _graphics %}
+  {% include graphic-list.html graphics=page.graphics %}
+{% endcapture %}
+{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
+
+<section class="usa-section">
   <div class="usa-grid">
-    <div class="usa-width-one-whole usa-end-row">
-      {{ content }}
-      {% if page.content-button-link %}
-        <div class="center-content">
-          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-        </div>
-      {% endif %}
-    </div>
+    {{ content }}
+
+    {% if page.content-button-link %}
+      <div class="center-content">
+        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+      </div>
+    {% endif %}
+
   </div>
 </section>
 
+<section class="usa-section usa-section-alt background-medium">
 {% include contact.html %}
+</section>

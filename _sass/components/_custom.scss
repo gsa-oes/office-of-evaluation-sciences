@@ -5,16 +5,97 @@
   }
 }
 
-:not(.page-home) {
+// Add top + bottom padding to main's
+body:not(.page-home) {
   main {
     @include padding(6rem null);
   }
 }
 
-.project:nth-child(3n) {
-  margin-right: 0;
+// Allows 3 column project grid to display in a row
+.project {
+  &:nth-child(3n) {
+    margin-right: 0;
+  }
 }
 
+// Sets a height on projects so they're the same height and don't break the grid
 .project {
   min-height: 300px;
+}
+
+.usa-display-alt {
+  color: $color-primary-darker;
+  font-family: $font-sans;
+  font-size: 40px;
+  line-height: 1.3;
+  text-align: center;
+}
+
+.usa-hero-callout {
+  max-width: 31rem;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.usa-section-alt {
+  background-color: $color-primary-darkest;
+}
+
+.background-medium,
+.background-dark {
+  color: $color-white;
+  -webkit-font-smoothing: antialiased;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $color-primary-alt;
+  }
+
+  p {
+    color: $color-white;
+  }
+
+  .section-heading {
+    color: $color-primary-alt;
+    letter-spacing: 0.5px;
+  }
+
+  h2 {
+    letter-spacing: 0.5px;
+  }
+
+  a
+   {
+    color: $color-primary-alt;
+
+    &:hover {
+      color: $color-primary-alt-dark;
+    }
+  }
+
+  input,
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="url"],
+  input[type="tel"],
+  input[type="number"],
+  input[type="search"],
+  input[type="file"],
+  input[type="date"],
+  input[type="datetime-local"],
+  input[type="month"],
+  input[type="time"],
+  input[type="week"],
+  textarea,
+  select {
+    border-color: $color-white;
+  }
 }

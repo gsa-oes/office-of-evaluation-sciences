@@ -1,7 +1,13 @@
-.usa-logo-text a {
-  padding-left: 1.25em;
-  background-image: url($logo-url);
-  background-position: left center;
-  background-repeat: no-repeat;
-  background-size: 1em;
+.usa-logo-text {
+  a {
+    @include media($nav-width) {
+      @include padding(12px 0 12px 80px);
+      background-size: 68px;
+    }
+    @include padding(8px 0 8px 36px);
+    background-image: url($logo-url);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+  }
 }

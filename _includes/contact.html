@@ -1,4 +1,4 @@
-<section class="banner contact">
+<div class="banner contact">
   <div class="usa-grid">
   {% for form in site.forms %}
     {% if form.type == 'newsletter' %}
@@ -7,8 +7,7 @@
   {% endfor %}
 
   <form id="contact" action="{{ f.url }}" method="POST">
-    <fieldset>
-      <legend>Sign up to receive updates from OES</legend>
+      <h2>Sign up to receive updates from OES</h2>
       <div class="usa-width-one-half">
         {% for field in f.fields %}
           {% unless field.type == 'hidden' %}<label for="contact-{{ field.name }}">{{ field.label }}</label>{% endunless %}
@@ -17,20 +16,17 @@
             {% if field.value %} value="{{ field.value }}" {% endif %}>
         {% endfor %}
         <div class="usa-input-buttons-inline">
-          <input type="submit" value="{{ f.button }}">
+          <input class="usa-button-primary-alt" type="submit" value="{{ f.button }}">
         </div>
       </div>
       <div class="usa-width-one-half" style="margin-top: 3rem;">
         {% if f.privacypolicy %}
-          <p>Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a></p>
+          <p>Your privacy and security are important to us. We'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
         {% else %}
           <p></p>
         {% endif %}
       </div>
 
-
-    </fieldset>
-
   </form>
   </div>
-</section>
+</div>

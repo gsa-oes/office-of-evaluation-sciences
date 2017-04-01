@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: home
 permalink: /
 hero:
   image: /assets/img/Kites-small.jpg
@@ -13,6 +13,4 @@ content-button-link: /2016-portfolio/
 class: page-home
 ---
 
-# <center> In 2016, OES conducted more than a dozen rigorous evaluations aimed at improving government effectiveness and efficiency.</center>
-
-
+<p class="usa-display-alt">In 2016, OES conducted more than a dozen rigorous evaluations aimed at improving government effectiveness and efficiency.</p>
