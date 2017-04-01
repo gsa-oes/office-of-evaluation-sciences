@@ -10,5 +10,5 @@ $font-path: '../uswds/fonts';
 $image-path: '../uswds/img';
 $logo-url: "{{ site.baseurl }}{{ site.logo }}";
 
-@import 'all';
 @import 'uswds/all';
+@import 'all';
