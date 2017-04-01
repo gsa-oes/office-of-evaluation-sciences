@@ -10,6 +10,7 @@ hero:
     href: /about/
 content-button-text: 2016 Abstracts
 content-button-link: /2016-portfolio/
+class: page-home
 ---
 
 # <center> In 2016, OES conducted more than a dozen rigorous evaluations aimed at improving government effectiveness and efficiency.</center>

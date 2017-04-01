@@ -1,0 +1,20 @@
+// Single column page
+.page-single-column {
+  .usa-content {
+    max-width: 62.5rem;
+  }
+}
+
+:not(.page-home) {
+  main {
+    @include padding(6rem null);
+  }
+}
+
+.project:nth-child(3n) {
+  margin-right: 0;
+}
+
+.project {
+  min-height: 300px;
+}
