@@ -21,7 +21,9 @@ body:not(.page-home) {
 
 // Sets a height on projects so they're the same height and don't break the grid
 .project {
-  min-height: 300px;
+  @include media($medium-screen) {
+    min-height: 330px;
+  }
 }
 
 .usa-display-alt {
@@ -73,10 +75,10 @@ body:not(.page-home) {
 
   a
    {
-    color: $color-primary-alt;
+    color: $color-gray-light;
 
     &:hover {
-      color: $color-primary-alt-dark;
+      color: $color-white;
     }
   }
 
@@ -97,5 +99,17 @@ body:not(.page-home) {
   textarea,
   select {
     border-color: $color-white;
+  }
+}
+
+.contact {
+  h2 {
+    margin-top: 0;
+  }
+
+  .usa-input-buttons-inline {
+    input {
+      margin-bottom: 0;
+    }
   }
 }
