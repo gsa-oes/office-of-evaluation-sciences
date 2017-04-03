@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/18F/jekyll-uswds.git
-  revision: 69d737f102316eaa2467c68f086df7802e02e4d7
+  remote: https://github.com/18F/uswds-jekyll.git
+  revision: 0cdb819e6f49854ecb11acb4a5fb8a57b11b3937
   specs:
-    jekyll-uswds (0.4.0)
+    uswds-jekyll (1.0.0)
       jekyll (~> 3.4)
 
 GEM
@@ -47,7 +47,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll-uswds!
+  uswds-jekyll!
 
 BUNDLED WITH
    1.12.5
