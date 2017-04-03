@@ -113,3 +113,22 @@ body:not(.page-home) {
     }
   }
 }
+
+// Add correct current nav link style
+.usa-nav {
+  a {
+    &.usa-current {
+      @include media($medium-screen) {
+        border-left: 0;
+      }
+    }
+  }
+
+  .usa-current {
+    > span {
+      @include media($medium-screen) {
+        @include nav-border;
+      }
+    }
+  }
+}
