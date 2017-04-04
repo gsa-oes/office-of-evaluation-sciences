@@ -132,3 +132,8 @@ body:not(.page-home) {
     }
   }
 }
+
+// Fix navigation close button layout on mobile
+.usa-nav-primary {
+  display: inline-block;
+}
