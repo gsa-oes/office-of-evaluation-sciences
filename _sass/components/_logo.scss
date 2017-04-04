@@ -1,7 +1,7 @@
 .usa-logo-text {
   a {
     @include media($nav-width) {
-      @include padding(12px 0 12px 80px);
+      @include padding(20px 0 20px 80px);
       background-size: 68px;
     }
     @include padding(8px 0 8px 36px);

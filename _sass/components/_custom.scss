@@ -194,3 +194,16 @@ body:not(.page-home) {
     }
   }
 }
+
+.usa-navbar {
+  @include media($nav-width) {
+    height: 85px;
+    margin-bottom: 8px;
+  }
+}
+
+.usa-nav {
+  @include media($nav-width) {
+    padding-top: 3rem;
+  }
+}
