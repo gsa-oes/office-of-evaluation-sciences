@@ -1,3 +1,23 @@
+// Typography ------------- //
+
+.usa-display-alt {
+  color: $color-primary-darker;
+  font-family: $font-sans;
+  font-size: 40px;
+  line-height: 1.3;
+  text-align: center;
+}
+
+
+// Utillities ------------- //
+
+.center-content {
+  text-align: center;
+}
+
+
+// Layout ------------- //
+
 // Single column page
 .page-single-column {
   .usa-content {
@@ -12,32 +32,8 @@ body:not(.page-home) {
   }
 }
 
-.usa-display-alt {
-  color: $color-primary-darker;
-  font-family: $font-sans;
-  font-size: 40px;
-  line-height: 1.3;
-  text-align: center;
-}
-
-.usa-hero-callout {
-  max-width: 31rem;
-
-  h2 {
-    color: $color-white;
-  }
-}
-
-.center-content {
-  text-align: center;
-}
-
-.usa-section-alt {
-  background-color: $color-primary-darkest;
-}
-
-.background-medium,
 .background-dark {
+  background-color: $color-primary-darkest;
   color: $color-white;
   -webkit-font-smoothing: antialiased;
 
@@ -73,34 +69,33 @@ body:not(.page-home) {
   }
 
   input,
-  input[type="text"],
-  input[type="email"],
-  input[type="password"],
-  input[type="url"],
-  input[type="tel"],
-  input[type="number"],
-  input[type="search"],
-  input[type="file"],
-  input[type="date"],
-  input[type="datetime-local"],
-  input[type="month"],
-  input[type="time"],
-  input[type="week"],
   textarea,
   select {
     border-color: $color-white;
   }
 }
 
-.contact {
-  h2 {
-    margin-top: 0;
-  }
 
-  .usa-input-buttons-inline {
-    input {
-      margin-bottom: 0;
+// Navigation ------------- //
+
+.usa-header-basic {
+  .usa-navbar {
+    @include media($nav-width) {
+      width: 400px;
     }
+  }
+}
+
+.usa-navbar {
+  @include media($nav-width) {
+    height: 85px;
+    margin-bottom: 8px;
+  }
+}
+
+.usa-nav {
+  @include media($nav-width) {
+    padding-top: 3rem;
   }
 }
 
@@ -128,6 +123,34 @@ body:not(.page-home) {
   display: inline-block;
 }
 
+
+// Hero feature ------------- //
+
+.usa-hero-callout {
+  max-width: 31rem;
+
+  h2 {
+    color: $color-white;
+  }
+}
+
+// Contact ------------- //
+
+.contact {
+  h2 {
+    margin-top: 0;
+  }
+
+  .usa-input-buttons-inline {
+    input {
+      margin-bottom: 0;
+    }
+  }
+}
+
+
+// Project page ------------- //
+
 .page--banner {
   background-size: cover;
   background-repeat: no-repeat;
@@ -135,6 +158,9 @@ body:not(.page-home) {
   min-height: 300px;
   width: 100%;
 }
+
+
+// Project card ------------- //
 
 // Sets a height on projects so they're the same height and don't break the grid
 .project--card {
@@ -189,25 +215,4 @@ body:not(.page-home) {
   color: $color-primary;
   font-weight: bold;
   padding-bottom: 3rem;
-}
-
-.usa-header-basic {
-  .usa-navbar {
-    @include media($nav-width) {
-      width: 400px;
-    }
-  }
-}
-
-.usa-navbar {
-  @include media($nav-width) {
-    height: 85px;
-    margin-bottom: 8px;
-  }
-}
-
-.usa-nav {
-  @include media($nav-width) {
-    padding-top: 3rem;
-  }
 }
