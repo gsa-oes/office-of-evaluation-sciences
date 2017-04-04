@@ -22,6 +22,10 @@ body:not(.page-home) {
 
 .usa-hero-callout {
   max-width: 31rem;
+
+  h2 {
+    color: $color-white;
+  }
 }
 
 .center-content {
