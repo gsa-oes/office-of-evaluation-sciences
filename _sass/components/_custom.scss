@@ -137,3 +137,11 @@ body:not(.page-home) {
 .usa-nav-primary {
   display: inline-block;
 }
+
+.page--banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 300px;
+  width: 100%;
+}
