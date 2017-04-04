@@ -7,6 +7,7 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/files/Microloans for Farmers.pdf
 year: 2015
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nisl vitae libero pulvinar tempor.
 ---
 ## What was the challenge?
 

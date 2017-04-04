@@ -1,12 +1,16 @@
 <div class="project-container">
 {% for project in site.projects %}
   {% unless project.featured %}
-    <div class="usa-width-one-third project">
-      <a href="{{ project.url | prepend: site.baseurl }}">
-        <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
-        <h3 class="project--description"><span>{{ project.title }}&nbsp;&gt;</span></h3>
-      </a>
-    </div>
+    <a class="project--card usa-width-one-third" href="{{ project.url | prepend: site.baseurl }}">
+      <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
+      <div class="project--banner">
+        <h3 class="project--description">
+          <span>{{ project.title }}&nbsp;&gt;</span>
+        </h3>
+        <p class="project--summary">{{ project.summary }}</p>
+      </div>
+      <p class="project--read">Read more</p>
+    </a>
   {% endunless %}
 {% endfor %}
 </div>

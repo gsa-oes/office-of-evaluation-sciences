@@ -7,6 +7,7 @@ image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/files/Servicemember Roth TSP Re-Enrollment.pdf
 year: 2015
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nisl vitae libero pulvinar tempor.
 ---
 ## What was the challenge?
 

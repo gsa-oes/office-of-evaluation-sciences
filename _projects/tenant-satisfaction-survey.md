@@ -7,6 +7,7 @@ image: /assets/img/project-images/tenant-statisfaction.jpg
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 abstract: /assets/files/Tenant Satisfaction Survey Response- Time of Day.pdf
 year: 2015
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nisl vitae libero pulvinar tempor.
 ---
 ## What was the challenge?
 
