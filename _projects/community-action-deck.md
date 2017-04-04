@@ -4,6 +4,9 @@ title: 21st Century Policing Community Action Deck
 permalink: /projects/community-action-deck/
 image: /assets/img/project-images/IMG_2920.jpg
 year: 2016
+domain:
+agency:
+impact:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nisl vitae libero pulvinar tempor.
 ---
 

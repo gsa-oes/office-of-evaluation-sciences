@@ -6,6 +6,9 @@ tags: project
 image: /assets/img/project-images/funding-fee-reports.png
 abstract: /assets/files/Industrial Funding Fee Reports.pdf
 year: 2015
+domain:
+agency:
+impact:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nisl vitae libero pulvinar tempor.
 ---
 ## What was the challenge?
