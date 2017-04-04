@@ -187,3 +187,10 @@ body:not(.page-home) {
   padding-bottom: 3rem;
 }
 
+.usa-header-basic {
+  .usa-navbar {
+    @include media($nav-width) {
+      width: 400px;
+    }
+  }
+}
