@@ -175,8 +175,12 @@ body:not(.page-home) {
     color: $color-white;
   }
 
+  .usa-button {
+    font-size: inherit;
+  }
+
   @include media($medium-screen) {
-    min-width: 350px;
+    max-width: 350px;
     padding-right: 5rem;
   }
 
