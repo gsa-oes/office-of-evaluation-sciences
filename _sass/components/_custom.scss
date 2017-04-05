@@ -193,12 +193,25 @@ body:not(.page-home) {
 
 // Project card ------------- //
 
+.project-container {
+  @include media($medium-screen) {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
 // Sets a height on projects so they're the same height and don't break the grid
 .project--card {
   box-shadow: 0 0 0 1px $color-gray-lighter;
   display: block;
   margin-bottom: 3rem;
   text-decoration: none;
+
+  @include media($medium-screen) {
+    display: flex;
+    flex-direction: column;
+    min-height: 450px;
+  }
 
   &:nth-child(3n) {
     margin-right: 0;
@@ -211,17 +224,13 @@ body:not(.page-home) {
   &:active {
     box-shadow: $focus-shadow;
   }
-
-  @include media($medium-screen) {
-    min-height: 450px;
-  }
 }
 
 .project--banner {
-  @include margin(null 3rem);
+  @include margin(3rem);
 
   @include media($medium-screen) {
-    height: 200px;
+    flex: 1 0 auto;
   }
 }
 
@@ -235,14 +244,16 @@ body:not(.page-home) {
 
 .project--description.project--description {
   color: $color-primary;
+  margin-top: 0;
 }
 
 .project--summary {
   color: $color-base;
+  margin-bottom: 0;
 }
 
 .project--read {
-  @include margin(null 3rem);
+  @include margin(0 3rem null 3rem);
   color: $color-primary;
   font-size: $small-font-size;
   font-weight: bold;
