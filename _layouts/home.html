@@ -21,19 +21,17 @@ layout: base
 {% endcapture %}
 {% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
 
-<section class="usa-section">
+<section class="usa-section billboard">
   <div class="usa-grid">
     {{ content }}
 
     {% if page.content-button-link %}
-      <div class="center-content">
-        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-      </div>
+      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
     {% endif %}
 
   </div>
 </section>
 
-<section class="usa-section background-dark">
+<section class="usa-section background-light">
 {% include contact.html %}
 </section>

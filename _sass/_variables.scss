@@ -2,4 +2,14 @@ $nav-width: 860px;
 
 $helvetica: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 $font-sans: "Lato", $helvetica; // note: should this be $font-body?
-$font-serif: "Lato", $helvetica; // note: should this be $font-headings?
+// $font-serif: "Lato", $helvetica; // note: should this be $font-headings?
+
+$font-headings: $font-sans;
+$font-body: $font-serif;
+
+$color-primary-darkest: #205493;
+
+$color-brand: #2FCFC4;
+$color-brand-tint: #94B8B4;
+$color-brand-light: #F2FBFA;
+$color-brand-dark: #38756F;
