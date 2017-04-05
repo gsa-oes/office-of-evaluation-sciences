@@ -1,37 +1,5 @@
 // Typography ------------- //
 
-// Variables
-$font-sans: "Lato", $helvetica;
-$font-body: $font-sans;
-$font-headings: $font-sans;
-
-html {
-  font-family: $font-body;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: $font-headings;
-}
-
-// Override the sidenav list mixin font which used Source Sans Pro
-// TODO: see if it can be fixed in the Standards, maybe remove from mixin
-.usa-nav-primary {
-  a {
-    font-family: $font-body;
-  }
-}
-
-// Set all usa-button* to use $font-doct font
-// TODO: Fix in the Standards so I don't have to do this
-[class*="usa-button"] {
-  font-family: $font-body;
-}
-
 .usa-display-alt {
   color: $color-primary-darker;
   font-family: $font-sans;
@@ -276,6 +244,7 @@ body:not(.page-home) {
 .project--read {
   @include margin(null 3rem);
   color: $color-primary;
+  font-size: $small-font-size;
   font-weight: bold;
   padding-bottom: 3rem;
 }
