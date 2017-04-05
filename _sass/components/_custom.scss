@@ -1,5 +1,8 @@
 // Typography ------------- //
 
+$font-body: $font-serif;
+$font-headings: $font-sans;
+
 p {
   font-family: $font-body;
 }
@@ -12,28 +15,6 @@ h5,
 h6 {
   font-family: $font-headings;
 }
-
-.billboard {
-  .usa-grid {
-    max-width: 656px;
-  }
-}
-
-.billboard-callout {
-  color: #81848B;
-  font-family: $font-sans;
-  font-size: 38px;
-  font-weight: bold;
-  line-height: 1.3;
-
-  em {
-    color: $color-base;
-    font-style: normal;
-  }
-}
-
-
-// Utillities ------------- //
 
 
 // Layout ------------- //
@@ -52,8 +33,17 @@ body:not(.page-home) {
   }
 }
 
+.background-medium {
+  background-color: $color-brand-medium;
+}
+
 .background-dark {
-  background-color: $color-primary-darkest;
+  background-color: $color-gray-dark;
+}
+
+.background-medium,
+.background-dark {
+
   color: $color-white;
   -webkit-font-smoothing: antialiased;
 
@@ -164,7 +154,7 @@ body:not(.page-home) {
     color: $color-white;
   }
 
-  .usa-button.usa-button-secondary {
+  .usa-button {
     background-color: $color-white;
     color: $color-primary-darkest;
     font-size: inherit;
@@ -172,6 +162,28 @@ body:not(.page-home) {
 
   @include media($medium-screen) {
     max-width: 350px;
+  }
+}
+
+
+// Billboard ------------- //
+
+.billboard {
+  .usa-grid {
+    max-width: 656px;
+  }
+}
+
+.billboard-callout {
+  color: #81848B;
+  font-family: $font-sans;
+  font-size: 38px;
+  font-weight: bold;
+  line-height: 1.3;
+
+  em {
+    color: $color-base;
+    font-style: normal;
   }
 }
 
