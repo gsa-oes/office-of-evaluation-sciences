@@ -158,11 +158,37 @@ body:not(.page-home) {
 
 // Hero feature ------------- //
 
+.usa-hero {
+  padding: 0;
+
+  .usa-grid {
+    padding-right: 0;
+  }
+}
+
 .usa-hero-callout {
-  max-width: 31rem;
+  @include padding(5rem 1.5rem 5rem 0);
+  max-width: initial;
+  position: relative;
 
   h2 {
     color: $color-white;
+  }
+
+  @include media($medium-screen) {
+    min-width: 350px;
+    padding-right: 5rem;
+  }
+
+  &::before {
+    background-color: $color-primary-darkest;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 1000%;
+    right: 100%;
   }
 }
 
