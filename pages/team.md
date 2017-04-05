@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: team
 title: Team
 permalink: /team/
 image:
