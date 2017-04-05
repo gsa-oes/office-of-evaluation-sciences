@@ -26,6 +26,12 @@ h6 {
   }
 }
 
+// Set all usa-button* to use $font-doct font
+// TODO: Fix in the Standards so I don't have to do this
+[class*="usa-button"] {
+  font-family: $font-body;
+}
+
 .usa-display-alt {
   color: $color-primary-darker;
   font-family: $font-sans;
