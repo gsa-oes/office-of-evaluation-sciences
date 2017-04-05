@@ -3,7 +3,7 @@
 $font-body: $font-serif;
 $font-headings: $font-sans;
 
-p {
+html {
   font-family: $font-body;
 }
 
@@ -12,7 +12,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.usa-logo,
+.usa-banner {
   font-family: $font-headings;
 }
 
