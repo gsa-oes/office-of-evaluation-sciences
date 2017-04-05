@@ -5,11 +5,15 @@
       <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
       <div class="project--banner">
         <h3 class="project--description">
-          <span>{{ project.title }}&nbsp;&gt;</span>
+          <span>{{ project.title }}</span>
         </h3>
         <p class="project--summary">{{ project.summary }}</p>
       </div>
-      <p class="project--read">Read more</p>
+      <p class="project--read">
+        Read more
+        <span class="usa-sr-only">about {{ project.title }}</span>
+        {% include icons/arrow-right.svg %}
+      </p>
     </a>
   {% endunless %}
 {% endfor %}

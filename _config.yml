@@ -25,24 +25,7 @@ defaults:
       layout: project
 
 colors:
-  background: '#fdfdfd'
-  button:
-    background: '#126ca7'
-    hover: '#134050'
-    text: '#fff'
-  headers: '#126ca7'
-  text: '#000000'
-  projects:
-    accent: 'rgb(249, 131, 74)'
-  contact:
-    background: '#126ca7'
-    text: '#fff'
-    button:
-      background: '#f2c446'
-      text: '#134050'
-  footer:
-    background: '#999999'
-    text: '#fff'
+  primary: '#0071bc'
 
 analytics:
   google:
