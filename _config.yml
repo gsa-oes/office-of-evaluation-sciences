@@ -44,7 +44,7 @@ forms:
   fields:
     - type: email
       name: entry.1440502332
-      label: Email Address
+      label: Enter you email address
     - type: hidden
       name: fbzx
       value: -7861934959779167198

@@ -5,28 +5,29 @@
       {% assign f = form %}
     {% endif %}
   {% endfor %}
-
-  <form id="contact" action="{{ f.url }}" method="POST">
-      <h2>Sign up to receive updates from OES</h2>
-      <div class="usa-width-one-half">
+    <div class="usa-width-two-thirds contact-form">
+      <form id="contact" action="{{ f.url }}" method="POST">
+        <h2>See what we’re up to.</h2>
+        <p>Sign up to keep informed about OES and find out what we plan to do next. You’ll get no more than X emails per month from us.</p>
         {% for field in f.fields %}
-          {% unless field.type == 'hidden' %}<label for="contact-{{ field.name }}">{{ field.label }}</label>{% endunless %}
-          <input id="contact-{{ field.name }}"
+          {% unless field.type == 'hidden' %}
+            <label for="contact-{{ field.name }}">{{ field.label }}</label>
+          {% endunless %}
+          <input class="contact-input" id="contact-{{ field.name }}"
             name="{{ field.name }}" type="{{ field.type }}"
             {% if field.value %} value="{{ field.value }}" {% endif %}>
         {% endfor %}
-        <div class="usa-input-buttons-inline">
           <input class="usa-button" type="submit" value="{{ f.button }}">
-        </div>
       </div>
-      <div class="usa-width-one-half" style="margin-top: 3rem;">
+      <div class="usa-width-one-third privacy-policy">
         {% if f.privacypolicy %}
-          <p>Your privacy and security are important to us. We'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
+          {% include icons/privacy.svg %}
+          <h3 class="h4">Your privacy and security are important to us.</h3>
+          <p class="font-small">We'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
         {% else %}
           <p></p>
         {% endif %}
-      </div>
-
-  </form>
+      </form>
+    </div>
   </div>
 </div>

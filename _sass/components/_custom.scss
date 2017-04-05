@@ -18,6 +18,13 @@ h6,
   font-family: $font-headings;
 }
 
+.font-small {
+  font-size: $small-font-size;
+}
+
+.h4 {
+  font-size: $h4-font-size;
+}
 
 // Layout ------------- //
 
@@ -196,6 +203,41 @@ body:not(.page-home) {
       margin-bottom: 0;
     }
   }
+}
+
+// Privacy policy
+
+.contact-form {
+  .usa-button {
+    @include media($medium-screen) {
+      margin-bottom: 0;
+      margin-top: 0.2em;
+    }
+  }
+}
+
+.contact-input {
+  @include media($medium-screen) {
+    float: left;
+    margin-right: 10px;
+    width: calc(100% - 186px);
+  }
+}
+
+.privacy-policy {
+  @include media($medium-screen) {
+    border-left: 1px solid $color-brand-tint;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+  }
+
+  * {
+    color: $color-brand-dark;
+  }
+}
+
+.icon-privacy {
+  margin-top: 3rem;
 }
 
 
