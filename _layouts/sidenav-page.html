@@ -8,11 +8,11 @@ layout: base
       {% assign project_years = site.projects | group_by: 'year' %}
       {% for project_year in project_years %}
         <li>
-          <a href="{{ site.baseurl }}/{{ project_year.name }}-portfolio/">{{ project_year.name }}</a>
+          <a {% if page.year == project_year.name %}class="usa-current"{% endif %} href="{{ site.baseurl }}/{{ project_year.name }}-portfolio/">{{ project_year.name }}</a>
           <ul class="usa-sidenav-sub_list">
             {% for project in project_year.items %}
             <li>
-              <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+              <a {% if project.url == page.permalink %}class="usa-current"{% endif %} href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
             </li>
             {% endfor %}
           </ul>

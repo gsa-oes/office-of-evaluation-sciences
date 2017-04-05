@@ -1,5 +1,6 @@
 ---
 title: Reducing Summer Melt
+permalink: /projects/reducing-summer-melt/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
