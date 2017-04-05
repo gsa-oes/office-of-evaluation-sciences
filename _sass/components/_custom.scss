@@ -158,6 +158,10 @@ body:not(.page-home) {
     background-color: $color-white;
     color: $color-primary-darkest;
     font-size: inherit;
+
+    &:hover {
+      background-color: $color-brand-dark;
+    }
   }
 
   @include media($medium-screen) {
@@ -227,6 +231,10 @@ body:not(.page-home) {
     @include media($medium-screen) {
       margin-bottom: 0;
       margin-top: 0.2em;
+    }
+
+    &:hover {
+      background-color: darken($color-brand-dark, 10%);
     }
   }
 }
