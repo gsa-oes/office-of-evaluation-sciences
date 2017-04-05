@@ -61,10 +61,7 @@ body:not(.page-home) {
   h3,
   h4,
   h5,
-  h6 {
-    color: $color-primary-alt;
-  }
-
+  h6,
   p {
     color: $color-white;
   }
@@ -209,6 +206,17 @@ body:not(.page-home) {
     input {
       margin-bottom: 0;
     }
+  }
+}
+
+.icon-twitter {
+  margin-right: 10px;
+}
+
+.usa-footer-logo-img {
+  @include media($medium-screen) {
+    float: right;
+    margin-top: -60px;
   }
 }
 
