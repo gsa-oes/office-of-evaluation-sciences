@@ -1,13 +1,45 @@
-.usa-logo-text {
-  a {
+.usa-header-basic {
+  .usa-logo {
+    width: calc(100% - 58px - 1.5rem);
+
     @include media($nav-width) {
-      @include padding(20px 0 20px 80px);
-      background-size: 68px;
+      bottom: 12px;
+      width: 100%;
     }
-    @include padding(8px 0 8px 36px);
-    background-image: url($logo-url);
-    background-position: left center;
-    background-repeat: no-repeat;
-    background-size: 30px;
+
+    a {
+      @include media($nav-width) {
+        display: flex;
+      }
+    }
   }
+}
+
+
+.logo-icon {
+  float: left;
+  margin-right: 8px;
+  margin-top:-4px;
+  width: 30px;
+
+  @include media($nav-width) {
+    width: 44px;
+  }
+}
+
+.usa-logo-text {
+  @include media($nav-width) {
+    margin-top: 4px;
+  }
+  // a {
+  //   @include media($nav-width) {
+  //     @include padding(20px 0 20px 80px);
+  //     background-size: 68px;
+  //   }
+  //   @include padding(8px 0 8px 36px);
+  //   background-image: url($logo-url);
+  //   background-position: left center;
+  //   background-repeat: no-repeat;
+  //   background-size: 30px;
+  // }
 }

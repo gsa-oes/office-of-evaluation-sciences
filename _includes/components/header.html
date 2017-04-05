@@ -7,11 +7,13 @@
     <div class="usa-navbar">
       <button class="usa-menu-btn">Menu</button>
       <div class="usa-logo" id="logo">
-        <em class="usa-logo-text">
+
           <a href="{{ header.href | default: site.baseurl }}/" title="Home">
-            {{ header.title | default: site.title }}
+            {% include icons/oes.svg %}
+            <em class="usa-logo-text">
+              {{ header.title | default: site.title }}
+            </em>
           </a>
-        </em>
       </div>
     </div>
 
