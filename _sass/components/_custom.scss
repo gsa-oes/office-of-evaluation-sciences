@@ -166,7 +166,8 @@ body:not(.page-home) {
     font-size: inherit;
 
     &:hover {
-      background-color: $color-brand-dark;
+      background-color: $color-brand;
+      color: $color-primary-darkest;
     }
   }
 
