@@ -173,7 +173,7 @@ body:not(.page-home) {
 
 .billboard {
   .usa-grid {
-    max-width: 656px;
+    // max-width: 656px;
   }
 }
 
@@ -190,7 +190,14 @@ body:not(.page-home) {
   }
 }
 
+.icon-gears {
+  display: none;
 
+  @include media($medium-screen) {
+    display: block;
+    float: right;
+  }
+}
 // Contact ------------- //
 
 .contact {
