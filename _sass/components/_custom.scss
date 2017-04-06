@@ -26,12 +26,20 @@ h6,
   font-size: $h4-font-size;
 }
 
+.usa-content {
+  p {
+    &:not(.usa-font-lead) {
+      max-width: 66ch;
+    }
+  }
+}
+
 // Layout ------------- //
 
 // Single column page
 .page-single-column {
   .usa-content {
-    max-width: 62.5rem;
+    max-width: 66ch;
   }
 }
 
