@@ -124,14 +124,13 @@ body:not(.page-home) {
   }
 }
 
+
+// Add correct current nav link style
 .usa-nav {
   @include media($nav-width) {
     padding-top: 3rem;
   }
-}
 
-// Add correct current nav link style
-.usa-nav {
   a {
     &.usa-current {
       @include media($nav-width) {
@@ -142,9 +141,21 @@ body:not(.page-home) {
 
   .usa-current {
     > span {
+      color: $color-base;
+
       @include media($nav-width) {
         @include nav-border;
+        border-bottom-color: $color-brand;
       }
+    }
+  }
+}
+
+.usa-nav-link {
+  &:hover {
+    span {
+      border-bottom-color: $color-brand;
+      color: $color-base;
     }
   }
 }
