@@ -23,11 +23,13 @@ layout: base
 
 <section class="usa-section billboard">
   <div class="usa-grid">
-    <div class="usa-width-one-sixth">
+    <div class="usa-media_block-img">
       {% include icons/gears.svg %}
     </div>
-    <div class="usa-width-two-thirds">
-    {{ content }}
+    <div class="usa-media_block-body">
+    <div class="billboard-message">
+      {{ content }}
+    </div>
     {% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
     {% endif %}

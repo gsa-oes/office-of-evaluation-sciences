@@ -180,21 +180,33 @@ body:not(.page-home) {
 // Billboard ------------- //
 
 .billboard {
-  .usa-grid {
-    // max-width: 656px;
+  .usa-media_block-img {
+    margin-right: 26px;
+    margin-top: 25px;
   }
 }
 
-.billboard-callout {
+.billboard-message {
   color: #81848B;
   font-family: $font-sans;
   font-size: 38px;
-  font-weight: bold;
+  font-weight: $font-bold;
   line-height: 1.3;
+  max-width: 656px;
+
+  p {
+    margin-top: 0;
+  }
 
   em {
     color: $color-base;
     font-style: normal;
+  }
+}
+
+.billboard-img {
+  @include media($medium-screen) {
+    @include span-columns(2);
   }
 }
 
@@ -204,8 +216,11 @@ body:not(.page-home) {
   @include media($medium-screen) {
     display: block;
     float: right;
+    width: 100%;
   }
 }
+
+
 // Contact ------------- //
 
 .contact {
