@@ -8,7 +8,7 @@ class: page-team
 <section class="usa-section usa-graphic_list">
 {% for team in site.team %}
   <div class="usa-width-one-half usa-media_block">
-    <img class="usa-media_block-img" src="{{ site.baseurl }}/assets/img/circle-124.png" alt="{{ team.name }}">
+    <img class="usa-media_block-img" src="{{ site.baseurl }}{{ team.image }}" alt="{{ team.name }}">
     <div class="usa-media_block-body">
       <a href="{{ site.baseurl }}{{ team.permalink }}">
         <h3>{{ team.name }}</h3>
