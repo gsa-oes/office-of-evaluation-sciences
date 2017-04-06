@@ -367,3 +367,25 @@ body:not(.page-home) {
     margin-left: 4px;
   }
 }
+
+// Team ------------- //
+
+.page-team {
+  .usa-graphic_list {
+    .usa-media_block {
+      margin-bottom: 6rem;
+
+      &:nth-child(2n) {
+        margin-right: 0;
+      }
+
+      &:nth-last-child(-n+2) {
+        margin-bottom: 0;
+      }
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+}

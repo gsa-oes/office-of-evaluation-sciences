@@ -16,6 +16,8 @@ styles:
 collections:
   projects:
     output: true
+  team:
+    output: true
 
 defaults:
   - scope:
