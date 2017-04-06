@@ -8,7 +8,7 @@
     <div class="usa-width-two-thirds contact-form">
       <form id="contact" action="{{ f.url }}" method="POST">
         <h2>See what we’re up to.</h2>
-        <p>Sign up to keep informed about OES and find out what we plan to do next. You’ll get no more than X emails per month from us.</p>
+        <p>Sign up to stay informed about OES and find out what we plan to do next. You’ll get no more than X emails per month from us.</p>
         {% for field in f.fields %}
           {% unless field.type == 'hidden' %}
             <label for="contact-{{ field.name }}">{{ field.label }}</label>
