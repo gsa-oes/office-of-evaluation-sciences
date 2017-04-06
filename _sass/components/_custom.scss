@@ -380,6 +380,20 @@ body:not(.page-home) {
   }
 }
 
+.page-project-single {
+  aside {
+    @include media($medium-screen) {
+      width: 250px;
+    }
+  }
+
+  .usa-content {
+    @include media($medium-screen) {
+      width: calc(100% - 250px - 4.82916%);
+    }
+  }
+}
+
 // Team ------------- //
 
 .page-team {
