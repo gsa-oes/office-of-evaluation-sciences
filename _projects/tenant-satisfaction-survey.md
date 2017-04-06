@@ -16,11 +16,11 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nis
 
 The General Service Administration (GSA)’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over a million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which help determine Federal facilities strategy.
 
-## What was the insight?
+## What was the program change?
 
 Small details of program administration, like the framing or timing of an email, can matter more for program outcomes than might be expected. Varying the time of day of workplace email requests can affect email open and click-through rates.
 
-## What was the pilot?
+## How did the evaluation work?
 
 In 2014, PBS collaborated with SBST to simplify the survey and test different messages and methods for launching the survey, with the goal of increasing response rates. In one project, PBS spread out the emails among the intended 873,755 recipients over the course of Thursday, July 10, 2014. In order to reduce burden on the survey site contractor and ensure the site operated, the same email was scheduled to be sent to randomly selected groups of 96,000 federal employees every hour over the course of the day, starting at 8:55 a.m.
 
