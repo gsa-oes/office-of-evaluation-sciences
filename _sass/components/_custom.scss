@@ -2,6 +2,7 @@
 
 $font-body: $font-serif;
 $font-headings: $font-sans;
+$color-brand-dark-hover: darken($color-brand-dark, 10%);
 
 html {
   font-family: $font-body;
@@ -278,7 +279,7 @@ body:not(.page-home) {
     }
 
     &:hover {
-      background-color: darken($color-brand-dark, 10%);
+      background-color: $color-brand-dark-hover;
     }
   }
 }
@@ -454,12 +455,82 @@ body:not(.page-home) {
 
 // Filter ------------- //
 .filter {
+  > li {
+    background-color: $color-brand-light;
+  }
 
+  .usa-accordion-button {
+    background-color: $color-brand-light;
+    border-bottom: 2px solid $color-white;
+    color: $color-brand-dark;
+
+    p {
+      margin: 0;
+    }
+
+    &:hover {
+      background-color: $color-brand-dark;
+
+      p {
+        color: $color-white;
+      }
+    }
+  }
+
+  .usa-accordion-content {
+    background-color: $color-brand-light;
+    padding: 0;
+  }
+
+  button {
+    background-color: $color-brand-dark;
+
+    &:hover {
+      background-color: $color-brand-dark-hover;
+    }
+  }
+
+  .usa-button-outline {
+    background-color: transparent;
+    box-shadow: inset 0 0 0 2px $color-brand-dark;
+    color: $color-brand-dark;
+
+    &:hover {
+      background-color: transparent;
+      box-shadow: inset 0 0 0 2px $color-brand-dark-hover;
+      color: $color-brand-dark-hover;
+    }
+  }
+}
+
+.filter-button-title {
+  font-size: 24px;
+}
+
+.filter-button-message {
+  color: $color-base;
+  font-family: $font-serif;
+  font-weight: $font-normal;
+  font-size: $small-font-size;
+}
+
+.filter-section {
+  border-bottom: 2px solid $color-white;
+  clear: left;
+  padding: 2.1rem 3rem;
 }
 
 .filter-category {
+  font-weight: $font-bold;
+  margin-top: 12px;
+
   @include media($medium-screen) {
     display: inline-block;
-    width: 30%;
+    float: left;
+    width: 240px;
   }
+}
+
+.filter-selection {
+  overflow: hidden;
 }
