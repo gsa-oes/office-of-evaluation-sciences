@@ -173,7 +173,7 @@ body:not(.page-home) {
     }
   }
 
-  @include media($medium-screen) {
+  @include media($small-screen) {
     max-width: 350px;
   }
 }
@@ -183,8 +183,13 @@ body:not(.page-home) {
 
 .billboard {
   .usa-media_block-img {
+    display: none;
     margin-right: 26px;
     margin-top: 25px;
+
+    @include media($medium-screen) {
+      display: block;
+    }
   }
 
   .usa-button {
@@ -217,8 +222,6 @@ body:not(.page-home) {
 }
 
 .icon-gears {
-  display: none;
-
   @include media($medium-screen) {
     display: block;
     float: right;
