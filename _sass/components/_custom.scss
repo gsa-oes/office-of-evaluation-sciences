@@ -421,8 +421,11 @@ body:not(.page-home) {
         margin-right: 0;
       }
 
-      &:nth-last-child(-n+2) {
-        margin-bottom: 0;
+      &:last-child,
+      &:nth-last-child(2):nth-child(odd) {
+        @include media($medium-screen) {
+          margin-bottom: 0;
+        }
       }
     }
 
