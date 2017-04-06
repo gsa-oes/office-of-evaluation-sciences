@@ -4,7 +4,7 @@ permalink: /
 hero:
   image: /assets/img/kites.jpg
   callout:
-    text: "We believe that government works best when it's built for people."
+    text: "We believe that government works best when it’s built for people."
   button:
     text: Learn more
     href: /about/
