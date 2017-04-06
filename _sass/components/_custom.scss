@@ -60,7 +60,6 @@ body:not(.page-home) {
 
 .background-medium,
 .background-dark {
-
   color: $color-white;
   -webkit-font-smoothing: antialiased;
 
@@ -83,12 +82,15 @@ body:not(.page-home) {
     letter-spacing: 0.5px;
   }
 
-  a
-   {
-    color: $color-gray-light;
+  a {
+    color: $color-white;
 
     &:hover {
-      color: $color-white;
+      color: $color-gray-light;
+
+      path {
+        fill: $color-gray-light;
+      }
     }
   }
 
