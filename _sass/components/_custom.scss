@@ -415,6 +415,8 @@ body:not(.page-home) {
 .page-team {
   .usa-graphic_list {
     .usa-media_block {
+      clip-path: circle(62px at center);
+      height: 124px;
       margin-bottom: 6rem;
 
       &:nth-child(2n) {
@@ -429,5 +431,24 @@ body:not(.page-home) {
     h3 {
       margin-top: 0;
     }
+  }
+}
+
+.page-team-single {
+  .team-img {
+    clip-path: circle(175px at center);
+    height: 350px;
+  }
+}
+
+// Filter ------------- //
+.filter {
+
+}
+
+.filter-category {
+  @include media($medium-screen) {
+    display: inline-block;
+    width: 30%;
   }
 }
