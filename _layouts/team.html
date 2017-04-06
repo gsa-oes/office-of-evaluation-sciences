@@ -4,51 +4,52 @@ class: page-team
 ---
 
 {{ content }}
-  <ul class="usa-accordion filter">
-    <li>
-      <button class="usa-accordion-button"
-        aria-expanded="true" aria-controls="filter">
-        Filter the team listing
-        <p>By year, domain, agency collaborator, and skill/specialty</p>
-      </button>
-      <div id="filter" class="usa-accordion-content">
-        <div class="filter-section">
-          <p class="filter-category">Year</p>
-          <button>All</button>
-          <button class="usa-button-outline">2000</button>
-          <button class="usa-button-outline">2001</button>
-        </div>
-        <div class="filter-section">
-          <p class="filter-category">Domain</p>
-          <button>All</button>
-          <button class="usa-button-outline">All</button>
-          <button class="usa-button-outline">All</button>
-        </div>
-        <div class="filter-section">
-          <p class="filter-category">Agency collaborator</p>
-          <button>All</button>
-          <button class="usa-button-outline">All</button>
-          <button class="usa-button-outline">All</button>
-        </div>
-        <div class="filter-section">
-          <p class="filter-category">Skill/Specialty</p>
-          <button>All</button>
-          <button class="usa-button-outline">All</button>
-          <button class="usa-button-outline">All</button>
-        </div>
+
+<ul class="usa-accordion filter">
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="true" aria-controls="filter">
+      Filter the team listing
+      <p>By year, domain, agency collaborator, and skill/specialty</p>
+    </button>
+    <div id="filter" class="usa-accordion-content">
+      <div class="filter-section">
+        <p class="filter-category">Year</p>
+        <button>All</button>
+        <button class="usa-button-outline">2000</button>
+        <button class="usa-button-outline">2001</button>
       </div>
-    </li>
-  </ul>
+      <div class="filter-section">
+        <p class="filter-category">Domain</p>
+        <button>All</button>
+        <button class="usa-button-outline">All</button>
+        <button class="usa-button-outline">All</button>
+      </div>
+      <div class="filter-section">
+        <p class="filter-category">Agency collaborator</p>
+        <button>All</button>
+        <button class="usa-button-outline">All</button>
+        <button class="usa-button-outline">All</button>
+      </div>
+      <div class="filter-section">
+        <p class="filter-category">Skill/Specialty</p>
+        <button>All</button>
+        <button class="usa-button-outline">All</button>
+        <button class="usa-button-outline">All</button>
+      </div>
+    </div>
+  </li>
+</ul>
 
 <section class="usa-section usa-graphic_list">
 {% for team in site.team %}
   <div class="usa-width-one-half usa-media_block">
-    <img class="usa-media_block-img" src="{{ site.baseurl }}{{ team.image }}" alt="{{ team.name }}">
+    <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
     <div class="usa-media_block-body">
       <a href="{{ site.baseurl }}{{ team.permalink }}">
         <h3>{{ team.name }}</h3>
       </a>
-      <p>{{ team.summary }}</p>
+      <p>{{ team.title }}</p>
     </div>
   </div>
 {% endfor %}

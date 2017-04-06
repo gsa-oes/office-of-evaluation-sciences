@@ -1,12 +1,13 @@
 ---
 layout: base
+class: page-team-single
 ---
 
 <div class="usa-grid usa-content" id="main">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.name }}</h1>
+  <h2>{{ page.title }}</h2>
   {% if page.image %}
-    <img src="{{ page.image | prepend: site.baseurl }}">
+    <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="image" aria-label="{{ page.name }}"></div>
   {% endif %}
   {{ content }}
-  {{ team.year }}
 </div>

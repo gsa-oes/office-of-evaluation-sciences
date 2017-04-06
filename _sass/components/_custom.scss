@@ -430,17 +430,22 @@ body:not(.page-home) {
       margin-top: 0;
     }
   }
+}
 
-  .usa-media_block-img {
-    clip-path: circle(62px at center);
-    height: 124px;
-  }
+.team-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  clip-path: circle(62px at center);
+  height: 124px;
+  width: 124px;
 }
 
 .page-team-single {
-  .team-img {
-    clip-path: circle(175px at center);
-    height: 350px;
+  .team-image {
+    clip-path: circle(150px at center);
+    height: 300px;
+    width: 300px;
   }
 }
 

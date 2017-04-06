@@ -7,7 +7,7 @@ year: 2016
 domain:
 agency:
 skills:
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus nisl vitae libero pulvinar tempor.
+title: Director
 ---
 
 John is the best.
