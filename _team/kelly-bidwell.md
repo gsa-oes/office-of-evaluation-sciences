@@ -3,10 +3,19 @@ layout: team-single
 name: Kelly Bidwell
 permalink: /team/kelly-bidwell/
 image: /assets/img/bidwell_kelly.jpg
-year: 2014, 2015, 2016, 2017
+year: 
+  - 2014
+  - 2015
+  - 2016
+  - 2017
 domain:
-agency: Department of State, Department of Veterans' Affairs  
-skills: Randomized Control Trials, International Development, Impact Evaluations
+agency: 
+  - Department of State
+  - Department of Veterans' Affairs  
+skills: 
+  - Randomized Control Trials
+  - International Development
+  - Impact Evaluations
 title: Director
 ---
 
