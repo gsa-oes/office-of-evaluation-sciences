@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-single
 title: Income-Driven Repayment
 permalink: /projects/income-driven-repayment/
 tags: project

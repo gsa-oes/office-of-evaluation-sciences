@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-single
 title: 21st Century Policing Community Action Deck
 permalink: /projects/community-action-deck/
 image: /assets/img/project-images/IMG_2920.jpg

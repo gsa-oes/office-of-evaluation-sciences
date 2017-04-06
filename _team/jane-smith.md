@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: team-single
 name: Jane Smith
 permalink: /team/jane-smith/
 image: /assets/img/circle-124.png

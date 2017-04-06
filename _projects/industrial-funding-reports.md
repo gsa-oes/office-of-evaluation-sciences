@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-single
 title: Industrial Funding Fee Reports
 permalink: /projects/industrial-funding-fee-reports/
 tags: project

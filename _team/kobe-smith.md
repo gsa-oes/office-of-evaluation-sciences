@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: team-single
 name: Kobe Smith
 permalink: /team/kobe-smith/
 image: /assets/img/circle-124.png

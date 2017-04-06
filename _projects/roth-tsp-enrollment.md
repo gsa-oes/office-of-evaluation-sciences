@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-single
 title: Servicemember TSP Enrollment
 permalink: /projects/tsp-enrollment/
 tags: project

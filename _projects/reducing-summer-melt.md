@@ -1,4 +1,5 @@
 ---
+layout: project-single
 title: Reducing Summer Melt
 permalink: /projects/reducing-summer-melt/
 tags: project
