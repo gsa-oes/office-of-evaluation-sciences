@@ -1,10 +1,9 @@
 ---
 layout: team
-title: Team
+title: The team
 permalink: /team/
 image:
 class:
 ---
-## The team
 
-Here's our team.
+Donec facilisis tortor ut augue lacinia, at viverra est semper. Sed sapien metus, scelerisque nec pharetra id, tempor a tortor. Pellentesque non dignissim neque. Ut porta viverra est, ut dignissim elit elementum ut. Nunc vel rhoncus nibh, ut tincidunt turpis.
