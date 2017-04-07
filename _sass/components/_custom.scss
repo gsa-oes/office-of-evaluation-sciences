@@ -19,6 +19,10 @@ h6,
   font-family: $font-headings;
 }
 
+h1 {
+  font-weight: $font-heavy;
+}
+
 .font-small {
   font-size: $small-font-size;
 }
@@ -190,7 +194,7 @@ body:not(.page-home) {
 .usa-hero-callout {
   h2 {
     color: $color-white;
-    font-weight: 900;
+    font-weight: $font-heavy;
     letter-spacing: -0.4px;
   }
 
@@ -214,10 +218,12 @@ body:not(.page-home) {
 // Billboard ------------- //
 
 .billboard {
+  @include margin(2rem null);
+
   .usa-media_block-img {
     display: none;
     margin-right: 26px;
-    margin-top: 25px;
+    margin-top: 21px;
 
     @include media($medium-screen) {
       display: block;
@@ -234,7 +240,8 @@ body:not(.page-home) {
   font-family: $font-sans;
   font-size: 38px;
   font-weight: $font-bold;
-  max-width: 656px;
+  letter-spacing: -0.4px;
+  max-width: 720px;
 
   p {
     line-height: 1.3;
@@ -273,6 +280,12 @@ body:not(.page-home) {
     input {
       margin-bottom: 0;
     }
+  }
+
+  label {
+    font-family: $font-sans;
+    font-size: 17px;
+    font-weight: $font-bold;
   }
 }
 
@@ -396,6 +409,7 @@ body:not(.page-home) {
 
 .project--summary {
   color: $color-base;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -427,6 +441,10 @@ body:not(.page-home) {
       width: calc(100% - 250px - 4.82916%);
     }
   }
+}
+
+.caption {
+  font-size: $small-font-size;
 }
 
 // Team ------------- //
@@ -540,7 +558,7 @@ body:not(.page-home) {
 
 .filter-category {
   font-weight: $font-bold;
-  margin-top: 12px;
+  margin-top: 7px;
 
   @include media($medium-screen) {
     display: inline-block;
@@ -551,4 +569,8 @@ body:not(.page-home) {
 
 .filter-selection {
   overflow: hidden;
+
+  button {
+    @include margin(5px null);
+  }
 }
