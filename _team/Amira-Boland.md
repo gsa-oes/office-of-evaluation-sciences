@@ -7,7 +7,6 @@ year:
   - 2015
   - 2016
   - 2017
-domain:
 agency: 
   - Department of Justice
   - Census
