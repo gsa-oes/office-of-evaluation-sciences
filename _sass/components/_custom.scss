@@ -127,6 +127,10 @@ body:not(.page-home) {
   }
 }
 
+@mixin nav-border {
+  border-bottom: 0.4rem solid $color-brand;
+  padding-bottom: 1rem;
+}
 
 // Add correct current nav link style
 .usa-nav {
@@ -150,7 +154,6 @@ body:not(.page-home) {
 
       @include media($nav-width) {
         @include nav-border;
-        border-bottom-color: $color-brand;
       }
     }
   }
@@ -159,8 +162,11 @@ body:not(.page-home) {
 .usa-nav-link {
   &:hover {
     span {
-      border-bottom-color: $color-brand;
       color: $color-base;
+
+      @include media($nav-width) {
+        @include nav-border;
+      }
     }
   }
 }
@@ -168,6 +174,14 @@ body:not(.page-home) {
 // Fix navigation close button layout on mobile
 .usa-nav-primary {
   display: inline-block;
+
+  > li {
+    > a {
+      @include media($nav-width) {
+        padding-bottom: 1.4rem;
+      }
+    }
+  }
 }
 
 
