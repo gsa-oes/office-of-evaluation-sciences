@@ -8,7 +8,6 @@ year:
   - 2015
   - 2016
   - 2017
-domain:
 agency:
   - Department of State
   - Department of Veterans' Affairs  
