@@ -3,6 +3,7 @@
 $font-body: $font-serif;
 $font-headings: $font-sans;
 $color-brand-dark-hover: darken($color-brand-dark, 10%);
+$display-kerning: -0.4px;
 
 html {
   font-family: $font-body;
@@ -195,7 +196,7 @@ body:not(.page-home) {
   h2 {
     color: $color-white;
     font-weight: $font-heavy;
-    letter-spacing: -0.4px;
+    letter-spacing: $display-kerning;
   }
 
   .usa-button {
@@ -240,7 +241,7 @@ body:not(.page-home) {
   font-family: $font-sans;
   font-size: 38px;
   font-weight: $font-bold;
-  letter-spacing: -0.4px;
+  letter-spacing: $display-kerning;
   max-width: 720px;
 
   p {
