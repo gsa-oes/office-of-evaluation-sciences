@@ -136,6 +136,8 @@ body:not(.page-home) {
 
   a {
     &.usa-current {
+      border-left-color: $color-brand;
+
       @include media($nav-width) {
         border-left: 0;
       }
@@ -456,12 +458,11 @@ body:not(.page-home) {
 // Filter ------------- //
 .filter {
   > li {
-    background-color: $color-brand-light;
+    background-color: $color-white;
   }
 
   .usa-accordion-button {
     background-color: $color-brand-light;
-    border-bottom: 2px solid $color-white;
     color: $color-brand-dark;
 
     p {
@@ -479,6 +480,7 @@ body:not(.page-home) {
 
   .usa-accordion-content {
     background-color: $color-brand-light;
+    margin-top: 2px;
     padding: 0;
   }
 
