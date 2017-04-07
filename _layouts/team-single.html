@@ -1,9 +1,19 @@
 ---
 layout: base
-class: page-team-single
+class: page-single-column
 ---
 
+
 <div class="usa-grid usa-content" id="main">
+  <h1>{{ page.name }}</h1>
+  <p>{{ page.title }}</p>
+  {% if page.image %}
+    <img src="{{ page.image | prepend: site.baseurl }}">
+  {% endif %}
+  {{ content }}
+</div>
+
+<!-- <div class="usa-grid usa-content" id="main">
   <h1>{{ page.name }}</h1>
   <h2>{{ page.title }}</h2>
   {% if page.image %}
@@ -11,3 +21,4 @@ class: page-team-single
   {% endif %}
   {{ content }}
 </div>
+ -->
