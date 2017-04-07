@@ -572,6 +572,6 @@ body:not(.page-home) {
   overflow: hidden;
 
   button {
-    @include margin(5px null);
+    @include margin(5px 6px 5px null);
   }
 }
