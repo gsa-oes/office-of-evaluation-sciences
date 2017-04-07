@@ -3,10 +3,18 @@ layout: team-single
 name: Amira Choueiki Boland
 permalink: /team/amira-boland/
 image: /assets/img/team/choueiki_amira.jpg
-year: 2015, 2016, 2017
+year: 
+  - 2015
+  - 2016
+  - 2017
 domain:
-agency: Department of Justice, Census
-skills: Government Operations, Citizen Experience, Impact Measurement
+agency: 
+  - Department of Justice
+  - Census
+skills: 
+  - Government Operations
+  - Citizen Experience
+  - Impact Measurement
 Title: Deputy Director
 ---
 
