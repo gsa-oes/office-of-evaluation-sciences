@@ -190,6 +190,8 @@ body:not(.page-home) {
 .usa-hero-callout {
   h2 {
     color: $color-white;
+    font-weight: 900;
+    letter-spacing: -0.4px;
   }
 
   .usa-button {
