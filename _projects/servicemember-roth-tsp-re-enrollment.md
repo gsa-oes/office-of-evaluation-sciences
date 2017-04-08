@@ -1,5 +1,4 @@
 ---
-layout: project-single
 title: Servicemember Roth TSP Re-Enrollment
 permalink: /projects/servicemember-roth-tsp/
 tags: project

@@ -1,5 +1,4 @@
 ---
-layout: project-single
 title: Microloans for Farmers
 permalink: /projects/microloans-for-farmers/
 tags: project

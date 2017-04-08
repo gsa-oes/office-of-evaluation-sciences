@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work with us
-permalink: /workwithus/
+permalink: /work-with-us/
 image: /assets/img/apply.jpg
 class: page-single-column
 ---

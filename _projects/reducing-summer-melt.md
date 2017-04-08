@@ -1,5 +1,4 @@
 ---
-layout: project-single
 title: Reducing Summer Melt
 permalink: /projects/reducing-summer-melt/
 tags: project
@@ -18,7 +17,7 @@ Every year 20 to 30 percent of college-accepted high school graduates in urban d
 
 ## What was the program change?
 
-Sending students text message reminders about key tasks related to college matriculation, such as completing financial aid paperwork, have been found to increase first-year enrollment. OES designed personalized text messages for students and parents to remind them of critical tasks, and connect them to individualized college and financial aid advising. 
+Sending students text message reminders about key tasks related to college matriculation, such as completing financial aid paperwork, have been found to increase first-year enrollment. OES designed personalized text messages for students and parents to remind them of critical tasks, and connect them to individualized college and financial aid advising.
 
 ## How did the evaluation work?
 

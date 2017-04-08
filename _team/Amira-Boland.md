@@ -1,17 +1,15 @@
 ---
-layout: team-single
 name: Amira Choueiki Boland
-permalink: /team/amira-boland/
 image: /assets/img/team/choueiki_amira.jpg
-year: 
+year:
   - 2015
   - 2016
   - 2017
 domain:
-agency: 
+agency:
   - Department of Justice
   - Census
-skills: 
+skills:
   - Government Operations
   - Citizen Experience
   - Impact Measurement

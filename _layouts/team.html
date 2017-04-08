@@ -56,7 +56,7 @@ class: page-team
   <div class="usa-width-one-half usa-media_block">
     <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
     <div class="usa-media_block-body">
-      <a href="{{ site.baseurl }}{{ team.permalink }}">
+      <a href="{{ site.baseurl }}{{ team.url | downcase }}">
         <h3>{{ team.name }}</h3>
       </a>
       <p>{{ team.title }}</p>

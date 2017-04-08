@@ -1,5 +1,4 @@
 ---
-layout: project-single
 title: Tenant Satisfaction Survey
 permalink: /projects/tenant-satisfaction-survey/
 tags: project

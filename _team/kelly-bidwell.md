@@ -1,7 +1,5 @@
 ---
-layout: team-single
 name: Kelly Bidwell
-permalink: /team/kelly-bidwell/
 image: /assets/img/team/bidwell_kelly.jpg
 year:
   - 2014
