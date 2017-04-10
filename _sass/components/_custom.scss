@@ -578,14 +578,14 @@ body:not(.page-home) {
 }
 
 .filter-category {
-  font-size: 1em;
+  font-size: $base-font-size;
   font-weight: $font-bold;
   margin-top: 7px;
 
   @include media($medium-screen) {
     display: inline-block;
     float: left;
-    width: 240px;
+    width: 26%;
   }
 }
 
