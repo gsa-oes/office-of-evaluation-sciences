@@ -1,6 +1,11 @@
 ---
 layout: page
 class: page-team
+filters:
+  - key: year
+    title: Year
+  - key: title
+    title: Title
 ---
 
 {{ content }}
@@ -13,26 +18,36 @@ class: page-team
       <p class="filter-button-message">By year, agency collaborator, and skill/specialty</p>
     </button>
     <div id="filter" class="usa-accordion-content">
+      {% for filter in layout.filters %}
       <div class="filter-section">
-        <p class="filter-category">Year</p>
-        <div class="filter-selection" data-filter-group="year">
-          <button data-filter>All</button>
-          <button class="usa-button-outline" data-filter="2000">2000</button>
-          <button class="usa-button-outline" data-filter="2000">2001</button>
-          <button class="usa-button-outline" data-filter="2000">2000</button>
-          <button class="usa-button-outline" data-filter="2000">2001</button>
-          <button class="usa-button-outline" data-filter="2000">2000</button>
-          <button class="usa-button-outline" data-filter="2000">2001</button>
-          <button class="usa-button-outline" data-filter="2000">2000</button>
-          <button class="usa-button-outline" data-filter="2000">2001</button>
-          <button class="usa-button-outline" data-filter="2000">2000</button>
-          <button class="usa-button-outline" data-filter="2000">2001</button>
-          <button class="usa-button-outline" data-filter="2000">2000</button>
-          <button class="usa-button-outline" data-filter="2000">2001</button>
-        </div>
+<!--         <p class="filter-category">Year</p>
+        <div class="filter-selection" data-filter-group="year"> -->
+        <fieldset class="usa-fieldset-inputs usa-sans">
+          <legend>{{ filter.title }}</legend>
+          <ul class="usa-unstyled-list">
+            <li>
+              <input id="{{ filter.key }}-all" type="radio" checked name="{{ filter.key }}">
+              <label for="{{ filter.key }}-all">All</label>
+            </li>
+            {% assign values = '' | split: '' %}
+            {% for member in site.team %}
+              {% for value in member[filter.key] %}
+              {% assign values = values | push: value %}
+              {% endfor %}
+            {% endfor %}
+            {% assign values = values | uniq | sort %}
+            {% for value in values %}
+            <li>
+              <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value='{{ value | jsonify }}'>
+              <label for="{{ filter.key }}-{{ value }}">{{ value }}</label>
+            </li>
+            {% endfor %}
+          </ul>
+        </fieldset>
       </div>
+      {% endfor %}
       <div class="filter-section">
-        <p class="filter-category">Agency collaborator</p>
+        <p class="filter-category">Title</p>
         <div class="filter-selection" data-filter-group="agency">
           <button>All</button>
           <button class="usa-button-outline" data-filter>All</button>
@@ -53,14 +68,46 @@ class: page-team
 
 <section class="usa-section usa-graphic_list">
 {% for team in site.team %}
-  <div class="usa-width-one-half usa-media_block">
+  <div class="usa-width-one-half usa-media_block js-filterable" {% for filter in layout.filters %}
+    data-{{ filter.key }}='{{ team[filter.key] | jsonify }}'{% endfor %}>
     <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
     <div class="usa-media_block-body">
       <a href="{{ site.baseurl }}{{ team.url | downcase }}">
         <h3>{{ team.name }}</h3>
       </a>
       <p>{{ team.title }}</p>
+      <p>{{ team.year | join: ', ' }}</p>
     </div>
   </div>
 {% endfor %}
 </div>
+
+<script>
+var form = document.querySelector('#filter');
+var filterables = document.querySelectorAll('.js-filterable');
+
+var update = function() {
+  [].forEach.call(filterables, function(el) {
+    el.hidden = false;
+  });
+
+  var inputs = document.querySelectorAll('#filter input[value]:checked');
+  [].forEach.call(inputs, function(input) {
+    var key = input.name;
+    var val = JSON.parse(input.value || '""');
+    console.warn('checked:', key, val);
+    var selector = '.js-filterable[data-' + key + ']:not([hidden])';
+    var members = document.querySelectorAll(selector);
+    [].forEach.call(members, function(member) {
+      var value = JSON.parse(member.getAttribute('data-' + key) || 'null');
+      member.hidden = Array.isArray(value)
+        ? value.indexOf(val) === -1
+        : (value !== val);
+      console.log(member.hidden, member.dataset);
+    });
+  });
+};
+
+form.addEventListener('change', update);
+</script>
+
