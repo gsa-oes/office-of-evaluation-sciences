@@ -1,7 +1,20 @@
 ---
 layout: page
+filters:
+  - key: year
+    title: Year
+  - key: domain
+    title: Domain
+  - key: agency
+    title: Agency
+  - key: impact
+    title: Impact
+scripts:
+  - src: /assets/js/filters.js
 ---
 
 {{ content }}
+
+{% include filter.html items=site.projects filters=layout.filters %}
 
 {% include projects.html %}
