@@ -9,11 +9,11 @@
       {% for filter in include.filters %}
       <div class="filter-section">
         <fieldset class="usa-fieldset-inputs">
-          <legend>{{ filter.title }}</legend>
+          <legend class="filter-category">{{ filter.title }}</legend>
           <ul class="usa-unstyled-list">
             <li>
               <input id="{{ filter.key }}-all" type="radio" checked name="{{ filter.key }}">
-              <label for="{{ filter.key }}-all">All</label>
+              <label class="usa-button usa-button-outline" for="{{ filter.key }}-all">All</label>
             </li>
             {% assign values = '' | split: '' %}
             {% for item in include.items %}
@@ -31,21 +31,13 @@
             {% for value in values %}
             <li>
               <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value='{{ value | jsonify }}'>
-              <label for="{{ filter.key }}-{{ value }}">{{ value }}</label>
+              <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value }}</label>
             </li>
             {% endfor %}
           </ul>
         </fieldset>
       </div>
       {% endfor %}
-      <div class="filter-section">
-        <p class="filter-category">Title</p>
-        <div class="filter-selection" data-filter-group="agency">
-          <button>All</button>
-          <button class="usa-button-outline" data-filter>All</button>
-          <button class="usa-button-outline" data-filter="test">All</button>
-        </div>
-      </div>
     </div>
   </li>
 </ul>

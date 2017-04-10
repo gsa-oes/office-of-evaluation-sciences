@@ -14,7 +14,7 @@ scripts:
 {{ content }}
 {% include filter.html items=site.team filters=layout.filters %}
 
-<section class="usa-section usa-graphic_list">
+<section class="usa-graphic_list">
 {% for team in site.team %}
   <div class="usa-width-one-half usa-media_block js-filterable" {% for filter in layout.filters %}
     data-{{ filter.key }}='{{ team[filter.key] | jsonify }}'{% endfor %}>

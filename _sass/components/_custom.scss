@@ -493,8 +493,16 @@ body:not(.page-home) {
 
 // Filter ------------- //
 .filter {
+  margin-bottom: 6rem;
+
   > li {
     background-color: $color-white;
+  }
+
+  li {
+    @include media($small-screen) {
+      display: inline-block;
+    }
   }
 
   .usa-accordion-button {
@@ -520,24 +528,35 @@ body:not(.page-home) {
     padding: 0;
   }
 
-  button {
-    background-color: $color-brand-dark;
-
-    &:hover {
-      background-color: $color-brand-dark-hover;
-    }
-  }
-
   .usa-button-outline {
     background-color: transparent;
     box-shadow: inset 0 0 0 2px $color-brand-dark;
     color: $color-brand-dark;
+    font-weight: $font-bold;
 
     &:hover {
       background-color: transparent;
       box-shadow: inset 0 0 0 2px $color-brand-dark-hover;
       color: $color-brand-dark-hover;
     }
+  }
+
+  [type=radio]:checked + label {
+    background-color: $color-brand-dark;
+    color: $color-white;
+
+    &:hover {
+      background-color: $color-brand-dark-hover;
+    }
+  }
+
+  label:before {
+    display: none;
+  }
+
+  input {
+    height: 0;
+    position: relative;
   }
 }
 
@@ -559,6 +578,7 @@ body:not(.page-home) {
 }
 
 .filter-category {
+  font-size: 1em;
   font-weight: $font-bold;
   margin-top: 7px;
 
