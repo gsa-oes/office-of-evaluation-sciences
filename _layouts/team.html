@@ -20,9 +20,7 @@ filters:
     <div id="filter" class="usa-accordion-content">
       {% for filter in layout.filters %}
       <div class="filter-section">
-<!--         <p class="filter-category">Year</p>
-        <div class="filter-selection" data-filter-group="year"> -->
-        <fieldset class="usa-fieldset-inputs usa-sans">
+        <fieldset class="usa-fieldset-inputs">
           <legend>{{ filter.title }}</legend>
           <ul class="usa-unstyled-list">
             <li>
@@ -68,7 +66,6 @@ filters:
         <h3>{{ team.name }}</h3>
       </a>
       <p>{{ team.title }}</p>
-      <p>{{ team.year | join: ', ' }}</p>
     </div>
   </div>
 {% endfor %}
@@ -87,7 +84,6 @@ var update = function() {
   [].forEach.call(inputs, function(input) {
     var key = input.name;
     var val = JSON.parse(input.value || '""');
-    console.warn('checked:', key, val);
     var selector = '.js-filterable[data-' + key + ']:not([hidden])';
     var members = document.querySelectorAll(selector);
     [].forEach.call(members, function(member) {
@@ -95,7 +91,6 @@ var update = function() {
       member.hidden = Array.isArray(value)
         ? value.indexOf(val) === -1
         : (value !== val);
-      console.log(member.hidden, member.dataset);
     });
   });
 };
