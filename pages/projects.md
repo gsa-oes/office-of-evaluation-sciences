@@ -3,6 +3,8 @@ layout: projects
 title: Projects
 permalink: /projects/
 image:
+filter_button_title: Filter the project listing
+filter_button_message: By year, domain, agency collaborator, and impact
 ---
 ## Our Approach
 

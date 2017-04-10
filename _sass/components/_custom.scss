@@ -366,6 +366,7 @@ body:not(.page-home) {
   @include media($medium-screen) {
     display: flex;
     flex-wrap: wrap;
+    width: 102.5%;
   }
 }
 
@@ -379,11 +380,9 @@ body:not(.page-home) {
   @include media($medium-screen) {
     display: flex;
     flex-direction: column;
+    margin-right: 2.3%;
     min-height: 450px;
-  }
-
-  &:nth-child(3n) {
-    margin-right: 0;
+    width: 31%;
   }
 
   &:hover {
@@ -463,15 +462,9 @@ body:not(.page-home) {
     .usa-media_block {
       margin-bottom: 6rem;
 
-      &:nth-child(2n) {
+      @include media($medium-screen) {
         margin-right: 0;
-      }
-
-      &:last-child,
-      &:nth-last-child(2):nth-child(odd) {
-        @include media($medium-screen) {
-          margin-bottom: 0;
-        }
+        width: 50%;
       }
     }
 
