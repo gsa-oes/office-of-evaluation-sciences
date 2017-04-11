@@ -581,12 +581,6 @@ body:not(.page-home) {
   font-size: $base-font-size;
   font-weight: $font-bold;
   margin-top: 7px;
-
-  @include media($medium-screen) {
-    display: inline-block;
-    float: left;
-    width: 26%;
-  }
 }
 
 .filter-selection {
