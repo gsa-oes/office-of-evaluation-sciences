@@ -250,6 +250,7 @@ body:not(.page-home) {
   font-size: 38px;
   font-weight: $font-bold;
   letter-spacing: $display-kerning;
+  line-height: $heading-line-height;
   max-width: 720px;
 
   p {
@@ -419,6 +420,10 @@ body:not(.page-home) {
   color: $color-base;
   font-size: 16px;
   margin-bottom: 0;
+
+  em {
+    font-style: normal;
+  }
 }
 
 .project--read {
@@ -437,22 +442,12 @@ body:not(.page-home) {
   }
 }
 
-.page-project-single {
-  aside {
-    @include media($medium-screen) {
-      width: 250px;
-    }
-  }
+// Single project page ------------- //
 
-  .usa-content {
-    @include media($medium-screen) {
-      width: calc(100% - 250px - 4.82916%);
-    }
-  }
-}
-
-.caption {
-  font-size: $small-font-size;
+.image-credit {
+  color: $color-gray-medium;
+  font-size: 1.2rem;
+  margin-top: 4px;
 }
 
 // Team ------------- //
@@ -580,6 +575,7 @@ body:not(.page-home) {
 .filter-category {
   font-size: $base-font-size;
   font-weight: $font-bold;
+  margin-bottom: 7px;
   margin-top: 7px;
 }
 
