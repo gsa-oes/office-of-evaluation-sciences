@@ -8,7 +8,7 @@ year:
   - 2017
 agency:
   - Department of State
-  - Department of Veterans' Affairs
+  - Department of Veterans’ Affairs
 skills:
   - Randomized Control Trials
   - International Development
