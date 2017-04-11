@@ -5,13 +5,15 @@ layout: base
 <div class="usa-grid usa-content" id="main">
   <h1>{{ page.title }}</h1>
   {% if page.image and page.image_full %}
-    <img src="{{ page.image | prepend: site.baseurl }}">
+    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }">
   {% elsif page.image %}
-    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-labelledby="caption">
+      <p class="usa-sr-only" id="caption">{{ page.image_alt_text }</p>
+    </div>
   {% endif %}
   {% if page.image-credit %}
     <p class="caption">
-      <a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)
+      <a href="{{ page.image-credit }}" target="_blank">Photo credit</a> (Creative Commons)
     </p>
   {% endif %}
   {{ content }}
