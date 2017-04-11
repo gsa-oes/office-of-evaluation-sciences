@@ -444,14 +444,10 @@ body:not(.page-home) {
 
 // Single project page ------------- //
 
-.project-tagline {
-  font-family: $font-sans;
-  font-size: $h2-font-size;
-  line-height: $heading-line-height;
-}
-
 .caption {
-  font-size: $small-font-size;
+  color: $color-gray-medium;
+  font-size: 1.2rem;
+  margin-top: 4px;
 }
 
 // Team ------------- //
