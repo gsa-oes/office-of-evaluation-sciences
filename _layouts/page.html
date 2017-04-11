@@ -7,8 +7,10 @@ layout: base
   {% if page.image and page.image_full %}
     <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }">
   {% elsif page.image %}
-    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-labelledby="caption">
+    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption"{% endif %}>
+    {% if page.image_alt_text %}
       <p class="usa-sr-only" id="caption">{{ page.image_alt_text }</p>
+    {% endif %}
     </div>
   {% endif %}
   {% if page.image-credit %}
