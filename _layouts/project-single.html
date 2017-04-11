@@ -1,12 +1,28 @@
 ---
-layout: sidenav-page
+layout: page
 class: page-project-single
 ---
 
-{{ content }}
+<p class="billboard-message iproject-tagline">{{ page.summary }}</p>
+<div class="usa-width-three-fourths">
+  {{ content }}
+</div>
 
-{% if page.abstract %}
-<a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
+<div class="usa-width-one-fourth">
+{% if page.year %}
+  <h3>Year</h3>
+  <p>{{ page.year }}</p>
 {% endif %}
-
-<p><br></p>
+{% if page.agency %}
+  <h3>Agency</h3>
+  <p>{{ page.agency }}</p>
+{% endif %}
+{% if page.domain %}
+  <h3>Domain</h3>
+  <p>{{ page.domain }}</p>
+{% endif %}
+{% if page.abstract %}
+  <h3>Resources</h3>
+  <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
+{% endif %}
+</div>

@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/about.jpg
+image_full: true
 class: page-single-column
 ---
 ## What is the Office of Evaluation Sciences?

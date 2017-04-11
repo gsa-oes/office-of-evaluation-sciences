@@ -4,8 +4,10 @@ layout: base
 
 <div class="usa-grid usa-content" id="main">
   <h1>{{ page.title }}</h1>
-  {% if page.image %}
+  {% if page.image and page.image_full %}
     <img src="{{ page.image | prepend: site.baseurl }}">
+  {% elsif page.image %}
+    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
   {% endif %}
   {{ content }}
 </div>

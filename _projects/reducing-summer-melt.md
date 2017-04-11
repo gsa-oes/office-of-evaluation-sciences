@@ -9,7 +9,7 @@ year: 2015
 domain: Education
 agency: Department of Education
 impact:
-summary: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment
+summary: Eight personalized text messages to low-income students resulted in a nearly <em>9% increase in college enrollment</em>
 ---
 ## What was the challenge?
 
