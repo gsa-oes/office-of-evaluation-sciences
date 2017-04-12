@@ -8,7 +8,7 @@ class: page-single-column
   <h1>{{ page.name }}</h1>
   <p>{{ page.title }}</p>
   {% if page.image %}
-    <img src="{{ page.image | prepend: site.baseurl }}">
+    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.name }}">
   {% endif %}
   {{ content }}
 </div>
