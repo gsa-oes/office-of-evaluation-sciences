@@ -3,26 +3,26 @@ layout: page
 class: page-project-single
 ---
 
-<p class="billboard-message">{{ page.summary }}</p>
-<div class="usa-width-three-fourths">
+<div class="usa-width-two-thirds">
+  <p class="billboard-message">{{ page.summary }}</p>
   {{ content }}
 </div>
 
-<div class="usa-width-one-fourth">
+<div class="usa-width-one-third project-single-sidebar">
 {% if page.year %}
-  <h3>Year</h3>
+  <h3 class="h4">Year</h3>
   <p>{{ page.year }}</p>
 {% endif %}
 {% if page.agency %}
-  <h3>Agency</h3>
+  <h3 class="h4">Agency</h3>
   <p>{{ page.agency }}</p>
 {% endif %}
 {% if page.domain %}
-  <h3>Domain</h3>
+  <h3 class="h4">Domain</h3>
   <p>{{ page.domain }}</p>
 {% endif %}
 {% if page.abstract %}
-  <h3>Resources</h3>
+  <h3 class="h4">Resources</h3>
   <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
 {% endif %}
 </div>
