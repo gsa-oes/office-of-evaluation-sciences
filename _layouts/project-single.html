@@ -3,6 +3,12 @@ layout: page
 class: page-project-single
 ---
 
+<p class="image-credit">
+  {% if page.image-credit %}
+  <a href="{{ page.image-credit }}" target="_blank">Photo credit</a> (Creative Commons)
+  {% endif %}
+</p>
+
 <div class="usa-width-two-thirds">
   <p class="billboard-message">{{ page.summary }}</p>
   {{ content }}

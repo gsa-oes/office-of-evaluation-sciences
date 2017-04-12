@@ -3,6 +3,7 @@
 $font-body: $font-serif;
 $font-headings: $font-sans;
 $color-brand-dark-hover: darken($color-brand-dark, 10%);
+$color-brand-dark-active: darken($color-brand-dark, 20%);
 $display-kerning: -0.4px;
 
 html {
@@ -326,6 +327,10 @@ body:not(.page-home) {
     &:hover {
       background-color: $color-brand-dark-hover;
     }
+
+    &:active {
+      background-color: $color-brand-dark-active;
+    }
   }
 }
 
@@ -452,6 +457,7 @@ body:not(.page-home) {
   color: $color-gray-medium;
   font-size: 1.2rem;
   margin-top: 4px;
+  min-height: 14px;
 }
 
 .project-single-sidebar {
@@ -546,6 +552,10 @@ body:not(.page-home) {
       box-shadow: inset 0 0 0 2px $color-brand-dark-hover;
       color: $color-brand-dark-hover;
     }
+
+    &:active {
+      box-shadow: inset 0 0 0 2px $color-brand-dark-active;
+    }
   }
 
   [type=radio]:checked + label {
@@ -554,6 +564,10 @@ body:not(.page-home) {
 
     &:hover {
       background-color: $color-brand-dark-hover;
+    }
+
+    &:active {
+      background-color: $color-brand-dark-active;
     }
   }
 
