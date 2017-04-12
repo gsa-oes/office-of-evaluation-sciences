@@ -1,0 +1,74 @@
+// Layout ------------- //
+
+// Single column page
+.page-single-column {
+  .usa-content {
+    max-width: 66ch;
+  }
+}
+
+// Add top + bottom padding to main's
+body:not(.page-home) {
+  main {
+    @include padding(6rem null);
+  }
+}
+
+.background-medium {
+  background-color: $color-brand-medium;
+}
+
+.background-dark {
+  background-color: $color-gray-dark;
+}
+
+.background-medium,
+.background-dark {
+  color: $color-white;
+  -webkit-font-smoothing: antialiased;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    color: $color-white;
+  }
+
+  .section-heading {
+    color: $color-primary-alt;
+    letter-spacing: 0.5px;
+  }
+
+  h2 {
+    letter-spacing: 0.5px;
+  }
+
+  a {
+    color: $color-white;
+
+    &:hover {
+      color: $color-gray-light;
+
+      path {
+        fill: $color-gray-light;
+      }
+    }
+  }
+
+  input,
+  textarea,
+  select {
+    border-color: $color-white;
+  }
+}
+
+.background-light {
+  background-color: $color-brand-light;
+
+  .usa-button {
+    background-color: $color-brand-dark;
+  }
+}

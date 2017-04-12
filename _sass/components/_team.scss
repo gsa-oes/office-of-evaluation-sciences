@@ -1,0 +1,35 @@
+// Team ------------- //
+
+.page-team {
+  .usa-graphic_list {
+    .usa-media_block {
+      margin-bottom: 6rem;
+
+      @include media($medium-screen) {
+        margin-right: 0;
+        width: 50%;
+      }
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
+
+.team-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  clip-path: circle(62px at center);
+  height: 124px;
+  width: 124px;
+}
+
+.page-team-single {
+  .team-image {
+    clip-path: circle(150px at center);
+    height: 300px;
+    width: 300px;
+  }
+}

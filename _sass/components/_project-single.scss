@@ -1,0 +1,19 @@
+// Single project page ------------- //
+
+.image-credit {
+  color: $color-gray-medium;
+  font-size: 1.2rem;
+  margin-top: 4px;
+
+  @include media($medium-screen) {
+    min-height: 14px;
+  }
+}
+
+.project-single-sidebar {
+  font-family: $font-sans;
+
+  h3 + p {
+    margin-top: 0;
+  }
+}

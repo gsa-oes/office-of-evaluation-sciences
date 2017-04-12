@@ -1,0 +1,73 @@
+// Navigation ------------- //
+
+.usa-header-basic {
+  .usa-navbar {
+    @include media($nav-width) {
+      width: 370px;
+    }
+  }
+}
+
+.usa-navbar {
+  @include media($nav-width) {
+    height: 85px;
+    margin-bottom: 8px;
+  }
+}
+
+@mixin nav-border {
+  border-bottom: 0.4rem solid $color-brand;
+  padding-bottom: 1rem;
+}
+
+// Add correct current nav link style
+.usa-nav {
+  @include media($nav-width) {
+    padding-top: 3rem;
+  }
+
+  a {
+    &.usa-current {
+      border-left-color: $color-brand;
+
+      @include media($nav-width) {
+        border-left: 0;
+      }
+    }
+  }
+
+  .usa-current {
+    > span {
+      color: $color-base;
+
+      @include media($nav-width) {
+        @include nav-border;
+      }
+    }
+  }
+}
+
+.usa-nav-link {
+  &:hover {
+    span {
+      color: $color-base;
+
+      @include media($nav-width) {
+        @include nav-border;
+      }
+    }
+  }
+}
+
+// Fix navigation close button layout on mobile
+.usa-nav-primary {
+  display: inline-block;
+
+  > li {
+    > a {
+      @include media($nav-width) {
+        padding-bottom: 1.4rem;
+      }
+    }
+  }
+}
