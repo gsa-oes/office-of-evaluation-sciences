@@ -538,10 +538,6 @@ body:not(.page-home) {
     }
   }
 
-  input:focus + .usa-button-outline {
-      box-shadow: inset 0 0 0 2px $color-brand-dark-active, $focus-shadow;
-  }
-
   .usa-accordion-content {
     background-color: $color-brand-light;
     margin-top: 2px;
@@ -561,13 +557,12 @@ body:not(.page-home) {
     }
 
     &:focus {
-      // background-color: $color-brand-dark-hover;
-//      box-shadow: inset 0 0 0 2px $color-brand-dark, $focus-shadow;
+     box-shadow: inset 0 0 0 2px $color-brand-dark, $focus-shadow;
     }
 
-    // &:active {
-    //   box-shadow: inset 0 0 0 2px $color-brand-dark-active;
-    // }
+    &:active {
+     box-shadow: inset 0 0 0 2px $color-brand-dark-hover, $focus-shadow;
+    }
   }
 
   [type=radio]:checked + label {
@@ -577,10 +572,10 @@ body:not(.page-home) {
     &:hover {
       background-color: $color-brand-dark-hover;
     }
+  }
 
-    &:active {
-      background-color: $color-brand-dark-active;
-    }
+  input:focus + .usa-button-outline {
+      box-shadow: $focus-shadow;
   }
 
   label:before {
