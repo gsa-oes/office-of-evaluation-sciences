@@ -23,9 +23,11 @@ scripts:
     data-{{ filter.key }}='{{ team[filter.key] | jsonify }}'{% endfor %}>
     <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
     <div class="usa-media_block-body">
-      <a href="{{ site.baseurl }}{{ team.url | downcase }}">
-        <h3>{{ team.name }}</h3>
-      </a>
+      <h3>
+        <a href="{{ site.baseurl }}{{ team.url | downcase }}">
+          {{ team.name }}
+        </a>
+      </h3>
       <p>{{ team.title }}</p>
     </div>
   </div>
