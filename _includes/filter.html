@@ -29,9 +29,10 @@
             {% endfor %}
             {% assign values = values | uniq | sort %}
             {% for value in values %}
+            {% assign slug = value | append: '' | slugify %}
             <li>
-              <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value='{{ value | jsonify }}'>
-              <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value }}</label>
+              <input id="{{ filter.key }}-{{ slug }}" type="radio" name="{{ filter.key }}" value='{{ value | jsonify }}'>
+              <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ slug }}">{{ value }}</label>
             </li>
             {% endfor %}
           </ul>

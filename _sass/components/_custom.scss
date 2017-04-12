@@ -560,13 +560,14 @@ body:not(.page-home) {
       color: $color-brand-dark-hover;
     }
 
-    &:active {
-      box-shadow: inset 0 0 0 2px $color-brand-dark-active;
+    &:focus {
+      // background-color: $color-brand-dark-hover;
+//      box-shadow: inset 0 0 0 2px $color-brand-dark, $focus-shadow;
     }
 
-    &:focus {
-      box-shadow: inset 0 0 0 2px $color-brand-dark-active, $focus-shadow;
-    }
+    // &:active {
+    //   box-shadow: inset 0 0 0 2px $color-brand-dark-active;
+    // }
   }
 
   [type=radio]:checked + label {
