@@ -213,8 +213,12 @@ body:not(.page-home) {
     font-size: inherit;
 
     &:hover {
-      background-color: $color-brand;
-      color: $color-primary-darkest;
+      background-color: rgba($color-white, 0.8);
+      color: $color-base;
+    }
+
+    &:active {
+      background-color: rgba($color-white, 0.6);
     }
   }
 
