@@ -1,13 +1,5 @@
 // Project card ------------- //
 
-.page--banner {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  min-height: 300px;
-  width: 100%;
-}
-
 .project-container {
   @include media($medium-screen) {
     display: flex;
