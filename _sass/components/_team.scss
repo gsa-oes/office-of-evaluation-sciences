@@ -23,8 +23,6 @@
 
 .page-team-single {
   .team-image {
-    clip-path: circle(150px at center);
-    height: 300px;
-    width: 300px;
+    @include image-circle(270px);
   }
 }
