@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/img/about.jpg
+image:
 image_full: true
 class: page-single-column
 ---
