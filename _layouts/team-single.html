@@ -1,6 +1,6 @@
 ---
 layout: base
-class: page-single-column
+class: page-team-single
 ---
 
 <div class="usa-section background-brand-dark">
@@ -14,7 +14,7 @@ class: page-single-column
   </div>
   <div class="usa-width-one-third single-sidebar">
   {% if page.image %}
-    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.name }}">
+    <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-label="{{ page.name }}"alt="{{ page.name }}"></div>
   {% endif %}
   {% if page.title %}
     <h3 class="h4">Title</h3>

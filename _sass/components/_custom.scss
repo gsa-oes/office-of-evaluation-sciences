@@ -1,2 +1,7 @@
 // Custom styles --------- //
 
+.page-team-single {
+  .team-img {
+    @include image-circle(290px);
+  }
+}

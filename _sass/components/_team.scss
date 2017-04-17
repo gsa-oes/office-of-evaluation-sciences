@@ -18,12 +18,7 @@
 }
 
 .team-image {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  clip-path: circle(62px at center);
-  height: 124px;
-  width: 124px;
+  @include image-circle(124px);
 }
 
 .page-team-single {
