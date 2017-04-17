@@ -38,11 +38,9 @@ h1 {
 }
 
 .usa-content {
-  p,
-  ul {
-    &:not(.usa-font-lead) {
+  p:not(.usa-font-lead),
+  ul:not(.usa-accordion) {
       max-width: 66ch;
-    }
   }
 }
 
