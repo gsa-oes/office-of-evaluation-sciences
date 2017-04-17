@@ -10,8 +10,12 @@
 // Add top + bottom padding to main's
 body:not(.page-home) {
   main {
-    @include padding(6rem null);
+//    @include padding(6rem null);
   }
+}
+
+.main-content {
+  @include padding(6rem null);
 }
 
 .page--banner {
@@ -22,16 +26,7 @@ body:not(.page-home) {
   width: 100%;
 }
 
-.background-medium {
-  background-color: $color-brand-medium;
-}
-
-.background-dark {
-  background-color: $color-gray-dark;
-}
-
-.background-medium,
-.background-dark {
+@mixin background-dark {
   color: $color-white;
   -webkit-font-smoothing: antialiased;
 
@@ -66,6 +61,21 @@ body:not(.page-home) {
   select {
     border-color: $color-white;
   }
+}
+
+.background-medium {
+  @include background-dark;
+  background-color: $color-brand-medium;
+}
+
+.background-gray-dark {
+  @include background-dark;
+  background-color: $color-gray-dark;
+}
+
+.background-brand-dark {
+  @include background-dark;
+  background-color: $color-brand-dark;
 }
 
 .background-light {
