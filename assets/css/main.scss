@@ -10,6 +10,6 @@ $font-path: '../uswds/fonts';
 $image-path: '../uswds/img';
 $logo-url: "{{ site.baseurl }}{{ site.logo }}";
 
-@import 'variables';
+@import 'core/variables';
 @import 'uswds/all';
 @import 'all';

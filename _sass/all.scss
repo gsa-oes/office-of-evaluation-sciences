@@ -1,5 +1,5 @@
-// Mixins ------------- //
-@import "components/mixins";
+// Core --------- //
+@import "core/typography";
 
 // Components --------- //
 @import "components/billboard";
@@ -13,7 +13,6 @@
 @import "components/project-card";
 @import "components/project-single";
 @import "components/team";
-@import "components/typography";
 
 // Custom ------------ //
 @import "components/custom";
