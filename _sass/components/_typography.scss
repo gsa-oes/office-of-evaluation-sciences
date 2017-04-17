@@ -38,7 +38,8 @@ h1 {
 }
 
 .usa-content {
-  p {
+  p,
+  ul {
     &:not(.usa-font-lead) {
       max-width: 66ch;
     }

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 image:
 image_full: true
-class: page-single-column
+class:
 ---
 ## What is the Office of Evaluation Sciences?
 

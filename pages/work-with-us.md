@@ -3,7 +3,7 @@ layout: page
 title: Work with us
 permalink: /work-with-us/
 image:
-class: page-single-column
+class:
 ---
 ## Collaborating with OES
 
