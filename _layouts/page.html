@@ -8,6 +8,9 @@ layout: base
   </div>
 </div>
 <div class="usa-grid usa-content main-content" id="main">
+  {% if page.summary %}
+    <p class="billboard-message">{{ page.summary }}</p>
+  {% endif %}
   {% if page.image and page.image_full %}
     <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
   {% elsif page.image %}
