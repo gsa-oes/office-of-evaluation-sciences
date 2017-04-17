@@ -3,11 +3,30 @@ layout: base
 class: page-single-column
 ---
 
-<div class="usa-grid usa-content" id="main">
-  <h1>{{ page.name }}</h1>
-  <p>{{ page.title }}</p>
+<div class="usa-section background-brand-dark">
+  <div class="usa-grid">
+    <h1>{{ page.name }}</h1>
+  </div>
+</div>
+<div class="usa-grid main-content" id="main">
+  <div class="usa-width-two-thirds">
+    {{ content }}
+  </div>
+  <div class="usa-width-one-third single-sidebar">
   {% if page.image %}
     <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.name }}">
   {% endif %}
-  {{ content }}
+  {% if page.title %}
+    <h3 class="h4">Title</h3>
+    <p>{{ page.title }}</p>
+  {% endif %}
+  {% if page.year %}
+    <h3 class="h4">Year</h3>
+    <p>{{ page.year | join: ', ' }}</p>
+  {% endif %}
+  {% if page.agency %}
+    <h3 class="h4">Agency</h3>
+    <p>{{ page.agency | join: ', ' }}</p>
+  {% endif %}
+  </div>
 </div>
