@@ -2,6 +2,7 @@
 layout: page
 class: page-project-single
 ---
+<p class="billboard-message">{{ page.summary }}</p>
 
 <p class="image-credit">
   {% if page.image-credit %}
@@ -10,7 +11,6 @@ class: page-project-single
 </p>
 
 <div class="usa-width-two-thirds">
-  <p class="billboard-message">{{ page.summary }}</p>
   {{ content }}
 </div>
 <div class="usa-width-one-third single-sidebar">
