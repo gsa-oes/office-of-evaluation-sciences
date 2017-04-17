@@ -2,7 +2,7 @@
 title: Increasing Patient Use of Health IT
 permalink: /projects/patient-health-it/
 tags: project
-image:/assets/img/project-images/health it.jpg
+image:/assets/img/project-images/health-it.jpg
 image-credit: https://www.flickr.com/photos/armymedicine/
 abstract: /assets/files/Increasing Patient Use of Health IT.pdf
 year: 2016
@@ -13,7 +13,7 @@ summary: Revising patient instructions following appointments led to 9.98% incre
 ---
 ## What was the challenge?
 
-The use of electronic health records (EHRs) has the potential to yield benefits both patients and healthcare providers, and the Centers for Medicare and Medicaid Services (CMS) oversees Medicare and Medicaid EHR Incentive Programs to provide incentives for providers to adopt and demonstrate “meaningful use” of EHRs. 
+The use of electronic health records (EHRs) has the potential to yield benefits both patients and healthcare providers, and the Centers for Medicare and Medicaid Services (CMS) oversees Medicare and Medicaid EHR Incentive Programs to provide incentives for providers to adopt and demonstrate “meaningful use” of EHRs.
 
 ## What was the program change?
 

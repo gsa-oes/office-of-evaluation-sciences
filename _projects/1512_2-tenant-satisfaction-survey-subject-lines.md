@@ -2,7 +2,7 @@
 title: Increasing Satisfaction Survey Response Rate from Federal Tenants - Subject Lines and Day of Week
 permalink: /projects/tenant-satisfaction-survey-subject-lines/
 tags: project
-image: /assets/img/project-images/gsa tenant 2.jpg
+image: /assets/img/project-images/gsa-tenant2.jpg
 image-credit: https://gsablogs.gsa.gov/gsablog/2012/11/08/gsa-completes-restoration-of-hipolito-federal-building/
 abstract: /assets/files/Tenant Satisfaction Survey Response- Subject Lines and Day of Week.pdf
 year: 2015
@@ -26,4 +26,3 @@ An announcement email was sent to two randomly assigned groups of approximately 
 ## What was the impact?
 
 Sending emails near lunchtime on Tuesdays and Wednesdays resulted in higher responses than other days and times. Also, results indicated that including “please” in subject lines increased response rates, while adding an exclamation point reduced response rates.*
-

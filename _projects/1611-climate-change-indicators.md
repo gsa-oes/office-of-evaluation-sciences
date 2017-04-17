@@ -2,7 +2,7 @@
 title: Increasing Public Understanding of Climate Change Indicators
 permalink: /projects/climate-change-indicators/
 tags: project
-image:/assets/img/project-images/climate change.jpg
+image:/assets/img/project-images/climate-change.jpg
 image-credit: https://www.flickr.com/photos/departmentofenergy/
 abstract: /assets/files/Climate Indicators.pdf
 year: 2016
@@ -13,7 +13,7 @@ summary: Simplifying visual graphics increases comprehension of climate change i
 ---
 ## What was the challenge?
 
-USGCRP makes climate change data publicly available, including a set of indicators. The effectiveness of indicators for informing the public and decision makers about climate change depends in part on how easy it is to understand those indicators. 
+USGCRP makes climate change data publicly available, including a set of indicators. The effectiveness of indicators for informing the public and decision makers about climate change depends in part on how easy it is to understand those indicators.
 
 ## What was the program change?
 

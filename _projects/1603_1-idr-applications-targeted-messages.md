@@ -2,7 +2,7 @@
 title: Increasing IDR Applications Among Eligible Student Loan Borrowers through Targeted Messages
 permalink: /projects/idr-applications-targeted-messages/
 tags: project
-image: /assets/img/project-images/pslf 1.jpg
+image: /assets/img/project-images/pslf1.jpg
 image-credit: https://www.flickr.com/photos/pagedooley/
 abstract: /assets/files/Income-Driven Repayment - Targeted Messages.pdf
 year: 2016
@@ -17,12 +17,12 @@ Student loan borrowers have over $1.26 trillion dollars in outstanding Federal s
 
 ## What was the program change?
 
-OES worked with ED’s Office of Federal Student Aid (FSA) to design and test social science-informed emails sent to a number of different borrower groups eligible for IDR plans. 
+OES worked with ED’s Office of Federal Student Aid (FSA) to design and test social science-informed emails sent to a number of different borrower groups eligible for IDR plans.
 
 ## How did the evaluation work?
 
-A total of 460,000 borrowers were randomly selected to receive either one of a series of emails or no emails. 
+A total of 460,000 borrowers were randomly selected to receive either one of a series of emails or no emails.
 
 ## What was the impact?
 
-All emails sent to borrowers who had shown interest in IDR or were in financial hardship resulted in significantly more submitted IDR applications compared to the control group. 
+All emails sent to borrowers who had shown interest in IDR or were in financial hardship resulted in significantly more submitted IDR applications compared to the control group.

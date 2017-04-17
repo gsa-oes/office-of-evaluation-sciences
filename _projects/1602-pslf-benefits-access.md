@@ -2,7 +2,7 @@
 title: Increasing Access to PSLF Benefits Among Eligible Population
 permalink: /projects/pslf-benefits-access/
 tags: project
-image:/assets/img/project-images/student loans 2.jpg
+image:/assets/img/project-images/student-loans2.jpg
 image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/files/Public Service Loan Forgiveness Pilot.pdf
 year: 2016
@@ -13,7 +13,7 @@ summary: Emails increased Public Service Loan Forgiveness form submissios three-
 ---
 ## What was the challenge?
 
-The Public Service Loan Forgiveness Program (PSLF) forgives borrowers the remainder of their outstanding loan balance after making 10 years of qualifying payments while working for a qualifying employer. To track progress towards loan forgiveness, the Office of Federal Student Aid (FSA) encourages borrowers to submit Employer Certification Forms (ECFs) in order to verify that their employment qualifies under the program. 
+The Public Service Loan Forgiveness Program (PSLF) forgives borrowers the remainder of their outstanding loan balance after making 10 years of qualifying payments while working for a qualifying employer. To track progress towards loan forgiveness, the Office of Federal Student Aid (FSA) encourages borrowers to submit Employer Certification Forms (ECFs) in order to verify that their employment qualifies under the program.
 
 ## What was the program change?
 

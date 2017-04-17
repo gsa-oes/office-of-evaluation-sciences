@@ -2,7 +2,7 @@
 title: Increasing Post-Grace Period Loan Payments by Student Borrowers
 permalink: /projects/grace-period-student-borrowers/
 tags: project
-image: /assets/img/project-images/student loans 2.jpg
+image: /assets/img/project-images/student-loans2.jpg
 image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/files/Missed Student Loan Payments.pdf
 year: 2015
@@ -13,7 +13,7 @@ summary: Emails sent to student loan borrowers at risk of default increased paym
 ---
 ## What was the challenge?
 
-Federal student loan borrowers who miss initial loan payments are in danger of defaulting on their loans. 
+Federal student loan borrowers who miss initial loan payments are in danger of defaulting on their loans.
 
 ## What was the program change?
 

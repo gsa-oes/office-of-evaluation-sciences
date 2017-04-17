@@ -2,7 +2,7 @@
 title: Decreasing Non-responses to NSLP Income Verification Requests
 permalink: /projects/nslp-income-verification/
 tags: project
-image:/assets/img/project-images/school lunch.jpg
+image:/assets/img/project-images/school-lunch.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/files/National School Lunch Program Verification.pdf
 year: 2016
@@ -25,4 +25,4 @@ Ultimately it was impossible to implement each of the planned changes at once, s
 
 ## What was the impact?
 
-Using a difference-in-difference estimator, we estimate that the new letters increased response by 2.1%, though this is imprecisely estimated. 
+Using a difference-in-difference estimator, we estimate that the new letters increased response by 2.1%, though this is imprecisely estimated.

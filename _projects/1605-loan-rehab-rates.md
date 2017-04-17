@@ -2,14 +2,14 @@
 title: Increasing Student Loan Rehabilitation Rates for Defaulted Borrowers
 permalink: /projects/loan-rehab-rates/
 tags: project
-image:/assets/img/project-images/loan rehab.jpg
+image:/assets/img/project-images/loan-rehab.jpg
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/files/Defaulted Student Loan Borrowers.pdf
 year: 2016
 domain: Education
 agency: Department of Education
 impact:
-summary: Emphasizing the negative consequences of loan default increases entry into loan rehabilitation programs. 
+summary: Emphasizing the negative consequences of loan default increases entry into loan rehabilitation programs.
 ---
 ## What was the challenge?
 
@@ -17,11 +17,11 @@ Each month, roughly 125,000 Federal student loan borrowers who have not made a p
 
 ## What was the program change?
 
-OES developed emails with four different social science-informed subject lines prompting eligible borrowers to enter a loan rehabilitation agreement. 
+OES developed emails with four different social science-informed subject lines prompting eligible borrowers to enter a loan rehabilitation agreement.
 
 ## How did the evaluation work?
 
-An iterative randomized control trial was conducted, sending emails to three separate cohorts of borrowers in default, where the most effective email from the previous cohort was tested against a new intervention in the next cohort. 
+An iterative randomized control trial was conducted, sending emails to three separate cohorts of borrowers in default, where the most effective email from the previous cohort was tested against a new intervention in the next cohort.
 
 ## What was the impact?
 
