@@ -3,9 +3,16 @@
 .image-credit {
   color: $color-gray-medium;
   font-size: 1.2rem;
+  margin-bottom: 3rem;
   margin-top: 4px;
 
   @include media($medium-screen) {
     min-height: 14px;
+  }
+}
+
+.page-project-single {
+  .main-content {
+    padding-top: 3rem;
   }
 }
