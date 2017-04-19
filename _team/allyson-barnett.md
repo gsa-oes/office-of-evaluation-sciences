@@ -9,7 +9,8 @@ agency:
   - United States Postal Service
   - Department of the Treasury
 skills:
-  - Health Economics
+  - Health
+  - Economics
   - Voting
 title: Associate Fellow
 ---
