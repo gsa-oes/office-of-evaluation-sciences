@@ -13,7 +13,7 @@ agency:
   - US Department of Agriculture
 skills: 
   - Political Science
-  - Applied Statistics
+  - Experimental and Statistical Methods
   - Randomized Control Trials
 title: Fellow
 ---
