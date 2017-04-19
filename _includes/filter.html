@@ -22,6 +22,8 @@
               {% if filter.multiple %}
                 {% for value in item_value %}
                   {% assign values = values | push: value %}
+                {% else %}
+                  {% assign values = values | push: item_value %}
                 {% endfor %}
               {% else %}
                 {% assign values = values | push: item_value %}
