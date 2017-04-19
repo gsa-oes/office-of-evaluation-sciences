@@ -8,7 +8,7 @@ agency:
   - US Department of Agriculture
   - Health and Human Services
   - General Services Administration
-  - U.S. Global Change Research Program
+  - US Global Change Research Program
   - Department of the Interior
   - Federal Emergency Management Agency
 skills:
