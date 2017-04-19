@@ -2,7 +2,7 @@
 {% for project in site.projects %}
   {% unless project.featured %}
     <a class="project--card usa-width-one-third js-filterable" href="{{ project.url | downcase | prepend: site.baseurl }}" role="article" {% for filter in layout.filters %}
-    data-{{ filter.key }}='{{ project[filter.key] | jsonify }}'{% endfor %}>
+    data-{{ filter.key }}="{{ project[filter.key] | jsonify | xml_escape }}"{% endfor %}>
       <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
       <div class="project--banner">
         <h3 class="project--description">

@@ -30,7 +30,7 @@
             {% assign values = values | uniq | sort %}
             {% for value in values %}
             <li>
-              <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value='{{ value | jsonify }}'>
+              <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value="{{ value | jsonify | xml_escape }}">
               <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value }}</label>
             </li>
             {% endfor %}
