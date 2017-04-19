@@ -2,7 +2,7 @@
 title: Increasing Patient Use of Health IT
 permalink: /projects/patient-health-it/
 tags: project
-image:/assets/img/project-images/health-it.jpg
+image: /assets/img/project-images/health-it.jpg
 image-credit: https://www.flickr.com/photos/armymedicine/
 abstract: /assets/files/Increasing Patient Use of Health IT.pdf
 year: 2016
