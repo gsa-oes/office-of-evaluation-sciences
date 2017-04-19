@@ -2,7 +2,7 @@
 title: Increasing Access to PSLF Benefits Among Eligible Population
 permalink: /projects/pslf-benefits-access/
 tags: project
-image:/assets/img/project-images/student-loans2.jpg
+image: /assets/img/project-images/student-loans2.jpg
 image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/files/Public Service Loan Forgiveness Pilot.pdf
 year: 2016
