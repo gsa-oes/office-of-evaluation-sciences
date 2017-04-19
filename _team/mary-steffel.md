@@ -8,7 +8,7 @@ agency:
   - United States Postal Service
   - Health and Human Services
   - Department of Veterans' Affairs
-  - Defense Health Agency
+  - Department of Defense
 skills:
   - Marketing
   - Decision-Making
