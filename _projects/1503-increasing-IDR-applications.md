@@ -9,7 +9,7 @@ year: 2016
 domain: Education
 agency: Department of Education
 impact:
-summary:A collaboration between OES and the Department of Education
+summary: A collaboration between OES and the Department of Education
 ---
 ## What was the challenge?
 
