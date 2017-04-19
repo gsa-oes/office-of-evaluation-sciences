@@ -1,5 +1,5 @@
 ---
-title: Increasing IDR Applications Among Eligible Student Loan Borrowers: Scale Up
+title: Increasing IDR Applications Among Eligible Student Loan Borrowers - Scale Up
 permalink: /projects/idr-applications-scale-up/
 tags: project
 image: /assets/img/project-images/student-loans3.jpg
