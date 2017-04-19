@@ -8,7 +8,7 @@ year:
 domain:
 agency:
   - Department of Justice
-  - Census
+  - Census Bureau
 skills:
   - Government Operations
   - Citizen Experience
