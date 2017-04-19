@@ -2,8 +2,8 @@
 title: Increasing Newsletter Subscription Rates of Active Duty Servicemembers
 permalink: /projects/onesource-subscription/
 tags: project
-image:
-image-credit: 
+image: /assets/img/project-images/military5.jpg
+image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/files/Military OneSource Subscription.pdf
 year: 2016
 domain: Benefits Utilization
