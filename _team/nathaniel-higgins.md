@@ -12,9 +12,10 @@ agency:
   - Department of Energy
   - Housing and Urban Development
 skills:
-  - Experimental Economics
+  - Experimental and Statistical Methods
   - International Economics
   - Market Design
+  - Economics
   - Energy and Environment
 title: 
  - Fellow
