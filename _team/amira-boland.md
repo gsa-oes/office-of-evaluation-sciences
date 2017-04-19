@@ -12,7 +12,7 @@ agency:
 skills:
   - Government Operations
   - Citizen Experience
-  - Impact Measurement
+  - Evaluation
 title: Deputy Director
 ---
 
