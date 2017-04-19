@@ -7,6 +7,7 @@ filters:
     multiple: true
   - key: title
     title: Title
+    multiple: true
   - key: agency
     title: Agency collaborator
     multiple: true
@@ -20,8 +21,8 @@ scripts:
 <section class="usa-graphic_list">
 {% for team in site.team %}
   <div class="usa-width-one-half usa-media_block js-filterable" {% for filter in layout.filters %}
-    data-{{ filter.key }}='{{ team[filter.key] | jsonify }}'{% endfor %}>
-    <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="img" aria-label="{{ team.name }}"></div>
+    data-{{ filter.key }}="{{ team[filter.key] | jsonify | xml_escape }}"{% endfor %}>
+    <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
     <div class="usa-media_block-body">
       <h3>
         <a href="{{ site.baseurl }}{{ team.url | downcase }}">

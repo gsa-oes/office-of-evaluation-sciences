@@ -7,11 +7,11 @@ year:
   - 2017
 agency:
   - Department of Justice
-  - Census
+  - Census Bureau
 skills:
   - Government Operations
   - Citizen Experience
-  - Impact Measurement
+  - Evaluation
 title: Deputy Director
 ---
 

@@ -15,6 +15,7 @@
               <input id="{{ filter.key }}-all" type="radio" checked name="{{ filter.key }}">
               <label class="usa-button usa-button-outline" for="{{ filter.key }}-all">All</label>
             </li>
+            {% capture void %}
             {% assign values = '' | split: '' %}
             {% for item in include.items %}
               {% assign item_value = item[filter.key] %}
@@ -22,17 +23,20 @@
               {% if filter.multiple %}
                 {% for value in item_value %}
                   {% assign values = values | push: value %}
+                {% else %}
+                  {% assign values = values | push: item_value %}
                 {% endfor %}
               {% else %}
                 {% assign values = values | push: item_value %}
               {% endif %}
             {% endfor %}
             {% assign values = values | uniq | sort %}
+            {% endcapture %}
             {% for value in values %}
             {% assign slug = value | append: '' | slugify %}
             <li>
-              <input id="{{ filter.key }}-{{ slug }}" type="radio" name="{{ filter.key }}" value='{{ value | jsonify }}'>
-              <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ slug }}">{{ value }}</label>
+              <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value="{{ value | jsonify | xml_escape }}">
+              <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value }}</label>
             </li>
             {% endfor %}
           </ul>
