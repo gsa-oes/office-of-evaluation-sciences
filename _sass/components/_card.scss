@@ -1,18 +1,11 @@
 // Project card ------------- //
 
-.card-link {
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0;
-  position: absolute;
-}
-
 // Sets a height on projects so they're the same height and don't break the grid
 .card {
   box-shadow: 0 0 0 1px $color-gray-lighter;
   display: block;
   margin-bottom: 3rem;
+  padding-bottom: 3rem;
   position: relative;
   text-decoration: none;
 
@@ -31,6 +24,14 @@
   &:active {
     box-shadow: $focus-shadow;
   }
+}
+
+.card-link {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
 }
 
 .card-banner {
@@ -69,7 +70,11 @@
   color: $color-primary;
   font-size: $small-font-size;
   font-weight: bold;
-  padding-bottom: 3rem;
+  text-decoration: none;
+
+  &:visited {
+    color: $color-primary;
+  }
 
   svg {
     display: inline-block;
