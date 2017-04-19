@@ -29,7 +29,7 @@ scripts:
           {{ team.name }}
         </a>
       </h3>
-      <p>{{ team.title }}</p>
+      <p>{{ team.title | join: ", " }}</p>
     </div>
   </div>
 {% endfor %}
