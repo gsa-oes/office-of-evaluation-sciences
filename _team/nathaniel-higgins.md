@@ -1,21 +1,24 @@
 ---
-name: Michael Hand
-image: /assets/img/team/hand_michael.jpg
+name: Nathaniel Higgins
+image: /assets/img/team/higgins_nathaniel.jpg
 year:
+  - 2015 
   - 2016
   - 2017
 agency:
   - US Department of Agriculture
-  - Health and Human Services
-  - General Services Administration
-  - U.S. Global Change Research Program
-  - Department of the Interior
-  - Federal Emergency Management Agency
+  - Department of the Treasury
+  - Environmental Protection Agency
+  - Department of Energy
+  - Housing and Urban Development
 skills:
-  - Economics
+  - Experimental Economics
+  - International Economics
+  - Market Design
   - Energy and Environment
-  - Government Operations
-title: Fellow
+title: 
+ - Fellow
+ - Science Advisor 
 ---
 
-Michael Hand is a Fellow with OES and a Research Economist with the USDA Forest Service, Rocky Mountain Research Station in Missoula, MT. His work with the team primarily focuses on projects to improve energy efficiency and environmental sustainability, and on improving the cost effectiveness of Government operations. His research interests include the benefits people derive from forests, the economics of wildfire suppression, and risk perception and preferences of public managers. Prior to joining RMRS, Michael was a Research Economist at the USDA Economic Research Service in Washington, DC, studying participation in working-lands conservation programs and the development of local food supply chains.	
+Nathaniel Higgins, Ph.D., is a an economist specializing in market design and experimental economics an adjunct professor in the Department of International Economics at the Johns Hopkins School of Advanced International Studies and in the Department of Economics at the University of Maryland. He works on market-focused interventions in public policy, such as the design of auctions for conservation services and government contracts. Nathaniel is also a research economist at the United States Department of Agriculture, focusing on issues related to the environment and conservation. He received his B.A. in Mathematics and Economics from Ithaca College and his Ph.D. in Agricultural and Resource Economics from the University of Maryland.	
