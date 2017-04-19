@@ -11,7 +11,7 @@ agency:
   - US Department of Agriculture
   - Social Security Administration
   - Department of the Treasury
-  - Defense Health Agency
+  - Department of Defense
 skills:
   - International Development
   - Health
