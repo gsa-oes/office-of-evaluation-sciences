@@ -12,10 +12,11 @@ agency:
   - Department of Veterans' Affairs
   - Office of Personnel Management
 skills:
-  - Development Economics
-  - Health Economics
-  - Poilitical Economy
+  - Economics
+  - International Development
+  - Poilitical Science
   - Gender
+  - Health
   - Randomized Control Trials
   - Survey Analysis
 title: Fellow 
