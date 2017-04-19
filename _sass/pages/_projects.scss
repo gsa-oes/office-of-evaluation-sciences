@@ -1,0 +1,7 @@
+.project-container {
+  @include media($medium-screen) {
+    display: flex;
+    flex-wrap: wrap;
+    width: 102.5%;
+  }
+}

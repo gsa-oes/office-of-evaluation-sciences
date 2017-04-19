@@ -3,6 +3,7 @@
 
 // Components --------- //
 @import "components/billboard";
+@import "components/card";
 @import "components/contact";
 @import "components/filter";
 @import "components/hero";
@@ -10,9 +11,11 @@
 @import "components/filter";
 @import "components/logo";
 @import "components/navigation";
-@import "components/project-card";
 @import "components/project-single";
-@import "components/team";
+
+// Pages --------- //
+@import "pages/projects";
+@import "pages/team";
 
 // Custom ------------ //
 @import "custom";
