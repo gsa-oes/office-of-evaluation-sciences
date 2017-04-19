@@ -2,8 +2,8 @@
 title: Increasing TSP Enrollment Rates through Active Choice
 permalink: /projects/active-choice-tsp/
 tags: project
-image:
-image-credit:
+image: /assets/img/project-images/navy-paperwork.jpg
+image-credit: https://www.flickr.com/photos/navyjagcorps/
 abstract: /assets/files/On-Base Active Choice for TSP.pdf
 year: 2016
 domain: Benefits Utilization
