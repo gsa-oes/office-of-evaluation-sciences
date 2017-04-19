@@ -17,7 +17,7 @@ skills:
   - Market Design
   - Economics
   - Energy and Environment
-title: 
+title:
  - Fellow
  - Science Advisor 
 ---
