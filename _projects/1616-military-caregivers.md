@@ -2,8 +2,8 @@
 title: Encouraging Engagement of Military Caregivers
 permalink: /projects/military-caregivers/
 tags: project
-image:
-image-credit: 
+image: /assets/img/project-images/mil-caregivers.jpg
+image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/files/Process Improvements for Virtual PEER Forums.pdf
 year: 2016
 domain: Benefits Utilization
