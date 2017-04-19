@@ -1,7 +1,9 @@
 ---
 name: Jake Bowers
 image: /assets/img/bowers_jake.png
-year: 2016, 2017
+year: 
+  - 2016
+  - 2017
 agency:
   - Census Bureau
   - Department of Homeland Security
