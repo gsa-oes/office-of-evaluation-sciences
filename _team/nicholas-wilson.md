@@ -11,7 +11,7 @@ agency:
   - Social Security Administration
 skills:
   - Economics
-  - Development Economics
+  - International Development
   - Health
   - Randomized Control Trials
   - Geo-spatial Data
