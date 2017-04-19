@@ -7,7 +7,7 @@ year:
 agency:
   - Government Accountability Office
   - Department of Transportation
-  - Defense Health Agency
+  - Department of Defense
 skills:
   - Cognitive Psychology
   - Judgement and Decisionmaking
