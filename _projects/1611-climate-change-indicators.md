@@ -2,7 +2,7 @@
 title: Increasing Public Understanding of Climate Change Indicators
 permalink: /projects/climate-change-indicators/
 tags: project
-image:/assets/img/project-images/climate-change.jpg
+image: /assets/img/project-images/climate-change.jpg
 image-credit: https://www.flickr.com/photos/departmentofenergy/
 abstract: /assets/files/Climate Indicators.pdf
 year: 2016
