@@ -1,6 +1,6 @@
 ---
 name: Nicholas Wilson
-image: /assets/img/team/tucker-will.jpg
+image: /assets/img/team/nicholas_wilson.jpg
 year: 
   - 2016
   - 2017

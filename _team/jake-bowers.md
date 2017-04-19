@@ -1,6 +1,6 @@
 ---
 name: Jake Bowers
-image: /assets/img/bowers_jake.png
+image: /assets/img/team/bowers_jake.jpg
 year: 
   - 2016
   - 2017

@@ -1,6 +1,6 @@
 ---
 name: Will Tucker
-image: /assets/img/team/tucker-will.jpg
+image: /assets/img/team/tucker_will.jpg
 year: 
   - 2015
   - 2016
