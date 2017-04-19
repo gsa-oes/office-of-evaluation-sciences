@@ -2,7 +2,7 @@
 title: Reducing Inappropriate Prescribing of Schedule II Substances in Medicare Part D
 permalink: /projects/reducing-inappropriate-prescribing/
 tags: project
-image:/assets/img/project-images/prescribe.jpg
+image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/files/Prescriber Letters.pdf
 year: 2015
