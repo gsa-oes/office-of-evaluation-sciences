@@ -9,10 +9,10 @@ agency:
   - Department of Transportation
   - Department of Defense
 skills:
-  - Cognitive Psychology
-  - Judgement and Decisionmaking
-  - Research Design and Methods
-  - Survey Research
+  - Psychology
+  - Decision Science
+  - Experimental and Statistical Methods
+  - Survey Analysis
 title: Research Integrity Fellow
 ---
 
