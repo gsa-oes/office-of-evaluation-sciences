@@ -1,21 +1,22 @@
 <div class="project-container">
 {% for project in site.projects %}
   {% unless project.featured %}
-    <a class="project--card usa-width-one-third js-filterable" href="{{ project.url | downcase | prepend: site.baseurl }}" role="article" {% for filter in layout.filters %}
+    <article class="card usa-width-one-third js-filterable" {% for filter in layout.filters %}
     data-{{ filter.key }}='{{ project[filter.key] | jsonify }}'{% endfor %}>
-      <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
-      <div class="project--banner">
-        <h3 class="project--description">
+      <a class="card-link" href="{{ project.url | downcase | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      <div class="card-image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
+      <div class="card-banner">
+        <h3 class="card-description">
           <span>{{ project.title }}</span>
         </h3>
-        <p class="project--summary">{{ project.summary }}</p>
+        <p class="card-summary">{{ project.summary }}</p>
       </div>
-      <p class="project--read">
+      <a class="card-read" href="{{ project.url | downcase | prepend: site.baseurl }}">
         Read more
         <span class="usa-sr-only">about {{ project.title }}</span>
         {% include icons/arrow-right.svg %}
-      </p>
-    </a>
+      </a>
+    </article>
   {% endunless %}
 {% endfor %}
 </div>

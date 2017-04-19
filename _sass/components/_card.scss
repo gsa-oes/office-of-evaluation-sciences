@@ -1,0 +1,81 @@
+// Project card ------------- //
+
+.card-link {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
+}
+
+// Sets a height on projects so they're the same height and don't break the grid
+.card {
+  box-shadow: 0 0 0 1px $color-gray-lighter;
+  display: block;
+  margin-bottom: 3rem;
+  position: relative;
+  text-decoration: none;
+
+  @include media($medium-screen) {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2.3%;
+    min-height: 450px;
+    width: 31%;
+  }
+
+  &:hover {
+    box-shadow: 0 0 0 1px $color-primary;
+  }
+
+  &:active {
+    box-shadow: $focus-shadow;
+  }
+}
+
+.card-banner {
+  @include margin(3rem);
+
+  @include media($medium-screen) {
+    flex: 1 0 auto;
+  }
+}
+
+.card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 200px;
+  width: 100%;
+}
+
+.card-description.card-description {
+  color: $color-primary;
+  margin-top: 0;
+}
+
+.card-summary {
+  color: $color-base;
+  font-size: 16px;
+  margin-bottom: 0;
+
+  em {
+    font-style: normal;
+  }
+}
+
+.card-read {
+  @include margin(0 3rem null 3rem);
+  color: $color-primary;
+  font-size: $small-font-size;
+  font-weight: bold;
+  padding-bottom: 3rem;
+
+  svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-bottom: -1px;
+    width: 1.2rem;
+    margin-left: 4px;
+  }
+}
