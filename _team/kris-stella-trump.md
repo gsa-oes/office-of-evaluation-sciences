@@ -8,8 +8,8 @@ agency:
   - Health and Human Services
 skills:
   - Political Science
-  - Political Psychology
-  - Attitude Change
+  - Psychology
+  - Behavior Change
 title: Research Specialist 
 ---
 
