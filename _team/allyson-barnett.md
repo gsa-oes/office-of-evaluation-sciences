@@ -1,7 +1,9 @@
 ---
 name: Allyson Barnett
 image: /assets/img/team/allyson-barnett.jpg
-year: 2017
+year: 
+  - 2016
+  - 2017
 domain:
 agency:
   - Health and Human Services
