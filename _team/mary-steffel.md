@@ -11,7 +11,7 @@ agency:
   - Department of Defense
 skills:
   - Marketing
-  - Decision-Making
+  - Decision Science
 title: Fellow 
 ---
 
