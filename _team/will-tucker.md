@@ -15,7 +15,7 @@ agency:
 skills:
   - Health
   - Economic Opportunity
-  - Information Collection
+  - Government Operations
 title: Fellow
 ---
 
