@@ -18,7 +18,7 @@ class: page-team-single
   {% endif %}
   {% if page.title %}
     <h3 class="h4">Title</h3>
-    <p>{{ page.title }}</p>
+    <p>{{ page.title | join: ', ' }}</p>
   {% endif %}
   {% if page.year %}
     <h3 class="h4">Year</h3>
