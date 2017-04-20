@@ -10,7 +10,7 @@ If you work in the Federal government and are interested in collaborating with O
 
 ## Joining OES
 
-Our office is not currently accepting applications for our fellowship. To be notified of opportunities to join the team, or if you are interested in serving as an Academic Affilitate (a researcher that partners with us on a specific project in your area of expertise) [please submit your contact information](https://goo.gl/forms/HZCoGs47qKnBImEO2). If you are interested in learning more about roles on the team and requirements of applicants, details are provided below.
+Our office is not currently accepting applications for our fellowship. To be notified of opportunities to join the team, or if you are interested in serving as an Academic Affiliate (a researcher that partners with us on a specific project in your area of expertise) [please submit your contact information](https://goo.gl/forms/HZCoGs47qKnBImEO2). If you are interested in learning more about roles on the team and requirements of applicants, details are provided below.
 
 ## Fellowship Overview
 
