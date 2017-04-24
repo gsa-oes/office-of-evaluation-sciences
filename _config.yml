@@ -52,7 +52,7 @@ forms:
   fields:
     - type: email
       name: entry.1440502332
-      label: Enter you email address
+      label: Enter your email address
     - type: hidden
       name: fbzx
       value: -7861934959779167198
