@@ -46,7 +46,7 @@ forms:
 - type: newsletter
   button:
     content-button-text: Sign up
-    content-button-link: https://goo.gl/forms/R5GABc7qkB35JMkH2
+    content-button-link: https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform
   privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
