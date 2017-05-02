@@ -7,7 +7,7 @@ image-credit: https://unsplash.com/@helloquence
 abstract: /assets/files/Defaulted Student Loan Borrowers.pdf
 year: 2016
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: Emphasizing the negative consequences of loan default increases entry into loan rehabilitation programs.
 ---
