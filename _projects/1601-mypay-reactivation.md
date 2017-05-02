@@ -6,8 +6,8 @@ image: /assets/img/project-images/military6.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys/
 abstract: /assets/files/Military Retiree myPay Reactivation.pdf
 year: 2016
-domain: Benefits Utilization
-agency: Department of Defense
+domain: Retirement Security
+agency: Defense
 impact:
 summary: Emails increased myPay account reactivation by military retirees.
 ---
