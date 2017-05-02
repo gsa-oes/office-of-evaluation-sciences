@@ -44,7 +44,6 @@ analytics:
 
 forms:
 - type: newsletter
-  button:
     content-button-text: Sign up
     content-button-link: https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform
   privacypolicy:
