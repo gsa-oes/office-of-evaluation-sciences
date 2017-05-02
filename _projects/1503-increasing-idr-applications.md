@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/timetrax/
 abstract: /assets/files/Income-Driven Repayment.pdf
 year: 2016
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: A collaboration between OES and the Department of Education
 ---
