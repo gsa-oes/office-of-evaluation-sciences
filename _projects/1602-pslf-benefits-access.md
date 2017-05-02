@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/files/Public Service Loan Forgiveness Pilot.pdf
 year: 2016
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: Emails increased Public Service Loan Forgiveness form submissios three-fold without increasing the error rate.
 ---
