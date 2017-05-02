@@ -9,7 +9,7 @@ hero:
     text: Learn more
     href: /about/
 content-button-text: View the projects
-content-button-link: /projects/
+content-button-link: /work/
 class: page-home
 ---
 In 2016, OES conducted more than a dozen <em>rigorous evaluations</em> aimed at improving government <em>effectiveness</em> and <em>efficiency</em>.
