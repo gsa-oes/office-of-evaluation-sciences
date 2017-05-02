@@ -6,10 +6,10 @@ image: /assets/img/project-images/fafsa.jpg
 image-credit: https://www.flickr.com/photos/btreenews/
 abstract: /assets/files/Financial Aid for HUD-Assisted Youth.pdf
 year: 2016
-domain: Benefits Utilization
+domain: Education
 agency: 
-  - Department of Housing and Urban Development
-  - Department of Education
+  - Housing and Urban Development
+  - Education
 impact:
 summary: Sending letters to HUD-assisted youth had no significant effect on FAFSA completion rates.
 ---
