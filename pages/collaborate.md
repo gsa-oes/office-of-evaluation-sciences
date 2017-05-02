@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work with us
-permalink: /work-with-us/
+title: Collaborate
+permalink: /collaborate/
 image:
 class:
 ---
