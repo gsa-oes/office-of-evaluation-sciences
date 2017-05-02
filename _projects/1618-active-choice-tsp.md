@@ -6,8 +6,8 @@ image: /assets/img/project-images/navy-paperwork.jpg
 image-credit: https://www.flickr.com/photos/navyjagcorps/
 abstract: /assets/files/On-Base Active Choice for TSP.pdf
 year: 2016
-domain: Benefits Utilization
-agency: Department of Defense
+domain: Retirement Security
+agency: Defense
 impact:
 summary: Presenting TSP enrollment as an active choice during in-processing increased enrollment by 6-7%.
 ---
