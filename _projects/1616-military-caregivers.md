@@ -6,8 +6,8 @@ image: /assets/img/project-images/mil-caregivers.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/files/Process Improvements for Virtual PEER Forums.pdf
 year: 2016
-domain: Benefits Utilization
-agency: Department of Defense
+domain: Communications
+agency: Defense
 impact:
 summary: Emails to caregivers of ill or wounded servicemembers increased awareness of available benefits.
 ---
