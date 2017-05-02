@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/pulpolux/
 abstract: /assets/files/Tax Filing and EITC Take-up.pdf
 year: 2016
 domain: Economic Opportunity
-agency: Department of the Treasury
+agency: Treasury
 impact:
 summary: Sending postcards effectively increased uptake of Earned Income Tax Credit among eligible population.
 ---
