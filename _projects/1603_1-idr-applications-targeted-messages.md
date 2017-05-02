@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/pagedooley/
 abstract: /assets/files/Income-Driven Repayment - Targeted Messages.pdf
 year: 2016
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: Emails increase application submissions for income driven repayment plans.
 ---
