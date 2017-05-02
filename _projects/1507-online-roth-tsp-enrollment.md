@@ -6,7 +6,7 @@ image: /assets/img/project-images/roth-tsp-enrollment.jpg
 abstract: /assets/files/Servicemember TSP Enrollment.pdf
 year: 2015
 domain: Retirement Security
-agency: Department of Defense
+agency: Defense
 impact:
 summary: A single email to military Servicemembers nearly doubled the rate of savings plan enrollment.
 ---
