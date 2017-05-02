@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/whatcouldgowrong/
 abstract: /assets/files/Missed Student Loan Payments.pdf
 year: 2015
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: Emails sent to student loan borrowers at risk of default increased payments.
 ---
