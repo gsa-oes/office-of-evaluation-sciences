@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/kevlar/
 abstract: /assets/files/Delinquent Debt Repayment.pdf
 year: 2015
 domain: Government Operations
-agency: Department of the Treasury
+agency: Treasury
 impact:
 summary: A modified letter sent to delinquent borrowers increased utilization of online payments.
 ---
