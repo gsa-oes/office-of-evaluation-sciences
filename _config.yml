@@ -44,11 +44,18 @@ analytics:
 
 forms:
 - type: newsletter
-     url: https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform
-     button: Sign up
+  url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
+  button: Subscribe
   privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
+  fields:
+    - type: email
+      name: entry.1440502332
+      label: Email Address
+    - type: hidden
+      name: fbzx
+      value: -7861934959779167198
 
 footer:
   image: /assets/img/icons/gsa-white.svg
