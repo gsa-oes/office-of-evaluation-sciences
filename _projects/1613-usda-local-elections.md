@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/files/Farm Service County Committee Elections.pdf
 year: 2016
 domain: Government Operations
-agency: United States Department of Agriculture
+agency: Agriculture
 impact:
 summary: Sending redesigned ballot materials to eligible farmers increased voter participation by 2.9%.
 ---
