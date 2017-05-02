@@ -44,8 +44,9 @@ analytics:
 
 forms:
 - type: newsletter
-  url: https://goo.gl/forms/R5GABc7qkB35JMkH2
-  button: Sign up
+  button:
+    text: Sign up
+     url: https://goo.gl/forms/R5GABc7qkB35JMkH2
   privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
