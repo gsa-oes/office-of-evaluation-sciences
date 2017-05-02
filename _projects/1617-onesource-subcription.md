@@ -6,8 +6,8 @@ image: /assets/img/project-images/military5.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/files/Military OneSource Subscription.pdf
 year: 2016
-domain: Benefits Utilization
-agency: Department of Defense
+domain: Communications
+agency: Defense
 impact:
 summary: Clear communications emphasizing active choice increase subscription rates. 
 ---
