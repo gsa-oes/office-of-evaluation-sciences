@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/files/Summer Melt.pdf
 year: 2015
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: Eight personalized text messages to low-income students resulted in a nearly <em>9% increase</em> in college enrollment
 ---
