@@ -4,12 +4,12 @@ permalink: /
 hero:
   image: /assets/img/kites.jpg
   callout:
-    text: "We believe that government works best when it’s built for people."
+    text: "We help government work better for people."
   button:
     text: Learn more
     href: /about/
-content-button-text: View the projects
+content-button-text: Explore our results
 content-button-link: /work/
 class: page-home
 ---
-In 2016, OES conducted more than a dozen <em>rigorous evaluations</em> aimed at improving government <em>effectiveness</em> and <em>efficiency</em>.
+OES collaborates with agencies to use evidence and evaluations to improve how government works.
