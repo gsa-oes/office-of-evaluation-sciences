@@ -6,7 +6,7 @@ image: /assets/img/project-images/climate-change.jpg
 image-credit: https://www.flickr.com/photos/departmentofenergy/
 abstract: /assets/files/Climate Indicators.pdf
 year: 2016
-domain: Environment
+domain: Communications
 agency: US Global Change Research Program
 impact:
 summary: Simplifying visual graphics increases comprehension of climate change indicators.
