@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/featheredtar/
 abstract: /assets/files/Double-Sided Printing.pdf
 year: 2015
 domain: Government Operations
-agency: US Department of Agriculture
+agency: Agriculture
 impact:
 summary: A digital pop up significantly lowers office-wide printing costs
 ---
