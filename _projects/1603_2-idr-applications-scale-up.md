@@ -7,7 +7,7 @@ image-credit: https://unsplash.com/@tfaustin
 abstract: /assets/files/Income-Driven Repayment - Scale-Up.pdf
 year: 2016
 domain: Education
-agency: Department of Education
+agency: Education
 impact:
 summary: Email scale-up resulted in more than 6,000 borrowers signing up for income driven repayment plans.
 ---
