@@ -6,8 +6,8 @@ image: /assets/img/project-images/school-lunch.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/files/National School Lunch Program Verification.pdf
 year: 2016
-domain: Benefits Utilization
-agency: United States Department of Agriculture
+domain: Economic Opportunity
+agency: Agriculture
 impact:
 summary: Simplifying the income verification letter for National School Lunch Program recipients increased response rate by 2.1%.
 ---
