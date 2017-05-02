@@ -6,8 +6,8 @@ image: /assets/img/project-images/ch36.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/files/Education and Career Counseling Benefit for Veterans.pdf
 year: 2015
-domain: Benefits Utilization
-agency: Department of Veterans' Affairs
+domain: Economic Opportunity
+agency: Veterans Affairs
 impact:
 summary: Emails informing veterans about education and career benefits increased applications.
 ---
