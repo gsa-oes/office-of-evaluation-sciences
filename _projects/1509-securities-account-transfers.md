@@ -7,7 +7,7 @@ image-credit: https://www.flickr.com/photos/71380981@N06/
 abstract: /assets/files/Legacy Treasury Direct Accounts.pdf
 year: 2015
 domain: Government Operations
-agency: Department of the Treasury
+agency: Treasury
 impact:
 summary: Scheduling appointments to transfer securities increased call-in rates by 2.37%.
 ---
