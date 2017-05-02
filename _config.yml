@@ -1,6 +1,6 @@
 # Site settings
 title: Office of Evaluation Sciences
-description: The Office of Evaluation Sciences (OES) brings diverse scientific expertise to Federal agencies to apply insights about human behavior to improve Government’s interactions with people, test and learn what works using rigorous methods.
+description: The Office of Evaluation Sciences (OES) is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program changes to quickly learn what works, what works best, and what does not work.
 url: "https://oes.gsa.gov" # the base hostname & protocol for your site
 logo: /assets/img/logos/logo-name.png
 feature_image: /assets/img/Kites-small.jpg
@@ -45,7 +45,7 @@ analytics:
 forms:
 - type: newsletter
   url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
-  button: Subscribe
+  button: Sign up
   privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
