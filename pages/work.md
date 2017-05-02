@@ -1,10 +1,10 @@
 ---
 layout: projects
-title: Projects
-permalink: /projects/
+title: Work
+permalink: /work/
 image:
 filter_button_title: Filter the project listing
-filter_button_message: By year, domain, agency collaborator, and government impact
+filter_button_message: By year, domain, agency collaborator
 ---
 ## Our Approach
 
