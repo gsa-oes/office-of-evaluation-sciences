@@ -50,8 +50,7 @@ footer:
   text:
 
 forms:
-- type: newsletter
-  privacypolicy:
+- privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
 
