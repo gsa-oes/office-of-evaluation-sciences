@@ -1,7 +1,6 @@
 .usa-header-basic {
   .usa-logo {
     width: calc(100% - 58px - 1.5rem);
-    color: #81848B;
 
     @include media($nav-width) {
       bottom: 12px;
@@ -16,6 +15,7 @@
   }
   .usa-logo a {
     color: #81848B;
+  }
 }
 
 .logo-icon {
