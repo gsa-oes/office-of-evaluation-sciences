@@ -9,9 +9,8 @@ summary: Our team is passionate about bringing evidence and a fresh perspective 
 ---
 ## Academic Affiliate 
 
-We identify opportunities to work with agencies on an ongoing basis, and often need additional subject matter expertise. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. Tell us about your area of expertise, and we may reach out to you to collaborate on a specific project. 
+We identify opportunities to work with agencies on an ongoing basis, and often need additional subject matter expertise. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqnuRSZNKZt9bVLAGw6G64i5oUNDqsGcrX7dvgGpvlac9Cog/viewform?usp=sf_link">Tell us about your area of expertise</a>, and we may reach out to you to collaborate on a specific project. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeqnuRSZNKZt9bVLAGw6G64i5oUNDqsGcrX7dvgGpvlac9Cog/viewform?usp=sf_link">Share your expertise</a>
 
 ## OES Fellowship Program
 
