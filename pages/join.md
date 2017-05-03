@@ -5,16 +5,17 @@ permalink: /join/
 image:
 image_full: true
 class:
+summary: Our team is passionate about bringing evidence and a fresh perspective to government challenges. 
 ---
-## Join our team 
+## Academic Affiliate 
 
-OES is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program improvements. The private sector quickly learns what does not work,  what works, and what works most cost-effectively - government should, too.  OES supports GSA’s Office of Government-wide Policy’s mission to “use policies, evidence, and analysis to help agencies drive efficiency, savings, and improved mission performance.”
+We identify opportunities to work with agencies on an ongoing basis, and often need additional subject matter expertise. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. Tell us about your area of expertise, and we may reach out to you to collaborate on a specific project. 
 
-OES work directly with agency collaborators across government to:
-- Use existing administrative data to measure outcomes that matter
-- Design operationally feasible, no- or low-cost changes to improve agency outcomes using proven insights
-- Integrate rigorous evaluations within current program implementation and agency constraints, to learn quickly what works and doesn’t, and what is cost-effective to improve agency outcomes
-- Provide technical services and capacity building on how to implement and analyze rigorous evaluations
-- Disseminate results and learnings to government and the public
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeqnuRSZNKZt9bVLAGw6G64i5oUNDqsGcrX7dvgGpvlac9Cog/viewform?usp=sf_link">Share your expertise</a>
 
-## What does OES look for in a potential project?
+## OES Fellowship Program
+
+Full time OES team members are selected annually for our Fellowship program. These individuals come to the team for one year on loan from a variety of home institutions such as a university or another Federal agency and are based in Washington, D.C. 
+
+We are not currently recruiting Associate Fellows or Fellows at this time. To learn more about what we look for in our Fellows, view the 
+<a href="/assets/files/GSA-OES-SolicitationFY17.docx.pdf">2017 Fellowship Solicitation</a>.
