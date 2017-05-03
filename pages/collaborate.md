@@ -24,12 +24,12 @@ OES is partly a cost-recoverable office, which means we don’t receive appropri
 
 Here’s how to get started:
 
-<ol type="1"> Send us your initial responses to the questions above  in an email to oes@gsa.gov to start the conversation
-<ol type="2"> If your project seems like a good fit, someone from our office will reach out to you to learn more
-<ol type="3"> Work with an OES team member to identify an area of collaboration
-<ol type="4"> OES will draft IAA forms for you to review and complete with agency info
-<ol type="5"> OES will work with you to finalize the IAA forms
-<ol type="6"> Get to the fun part!
+ 1 Send us your initial responses to the questions above  in an email to oes@gsa.gov to start the conversation
+ 2 If your project seems like a good fit, someone from our office will reach out to you to learn more
+ 3 Work with an OES team member to identify an area of collaboration
+ 4 OES will draft IAA forms for you to review and complete with agency info
+ 5 OES will work with you to finalize the IAA forms
+ 6 Get to the fun part!
 
 We know that you may not be an IAA wizard - our team is able to make this as painless as possible! Have specific questions? Let us know, we are happy to chat more.
 
