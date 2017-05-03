@@ -1,63 +1,12 @@
-<nav class="footer-desktop">
-  <div class="footer-logo-links">
-    <a class="footer-logo media_link" href="{{ site.url }}">
-      <img src="{{ site.baseurl }}/assets/img/logos/18f-logo.svg" alt="18F">
-    </a>
-    <a class="footer-logo media_link" href="http://www.gsa.gov/">
-      <img src="{{ site.baseurl }}/assets/img/logos/gsa-logo.svg" alt="GSA">
-    </a>
+<footer class="usa-footer usa-footer-medium usa-section background-gray-dark" role="contentinfo">
+  <div class="usa-grid">
+    <h2>Drop us a line.</h2>
+    <p>To share your thoughts, email us any time at <a href="mailto:{{ site.footer.email }}">{{ site.footer.email }}</a>.</p>
+    <p>
+      <a href="https://twitter.com/{{ site.footer.twitter }}">{% include icons/twitter.svg %}Follow us</a>
+    </p>
+    {% if site.footer.image %}
+      <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA">
+    {% endif %}
   </div>
-  <div class="footer-links-wrapper">
-  <div class="footer-links">
-    <ul>
-    {% for item in include.nav_items %}
-      <li>
-        {% if item.permalink %}
-          {% assign item_link = item.permalink | prepend: site.baseurl %}
-        {% else %}
-          {% assign item_link = item.text | slugify | hash_link | prepend: site.baseurl %}
-        {% endif %}
-        <a href="{{ item_link }}">{{ item.text }}</a>
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class="footer-links">
-    <h2 class="footer-links-heading">Policies and Standards</h2>
-    <ul>
-      <li>
-        <a href="{{ site.baseurl }}/developer">/developer</a>
-      </li>
-      <li>
-        <a href="{{ site.baseurl }}/linking-policy/">Linking policy</a>
-      </li>
-      <li>
-        <a href="{{ site.baseurl }}/open-source-policy/">Open source policy</a>
-      </li>
-      <li>
-        <a href="{{ site.baseurl }}/vulnerability-disclosure-policy/">Vulnerability disclosure</a>
-      </li>
-      <li>
-        <a href="{{ site.baseurl }}/code-of-conduct/">Code of conduct</a>
-      </li>
-    </ul>
-  </div>
-  <div class="footer-links">
-    <h2 class="footer-links-heading">Contact us</h2>
-    <ul>
-      <li>
-        <a href="{{ site.baseurl }}/about/#for-press">Press</a>
-      </li>
-      <li>
-        <a href="https://twitter.com/18F">@18F</a>
-      </li>
-      <li>
-        <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>
-      </li>
-      <li>
-        <a href="https://github.com/18F/18f.gsa.gov/issues/new">Report a bug</a>
-      </li>
-    </ul>
-  </div>
-  </div>
-</nav>
+</footer>
