@@ -50,9 +50,16 @@ footer:
   text:
 
 forms:
+- type: newsletter
+  url: https://goo.gl/forms/VgSGvpAZZn61oxy62
+  button: Sign up
   privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
+  fields:
+    - type: hidden
+      name: fbzx
+      value: -7861934959779167198
 
 
 # Build settings
