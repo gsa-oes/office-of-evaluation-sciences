@@ -4,7 +4,7 @@
 footer[role=contentinfo] {
   @include padding($site-margins null);
   background-color: $color-gray-lightest;
-  font-size: $tiny-font-size;
+  //font-size: $tiny-font-size;
 
   ul {
     @include unstyled-list;
