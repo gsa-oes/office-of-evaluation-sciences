@@ -38,13 +38,14 @@ layout: base
 </section>
 
 <section class="usa-section background-brand-dark">
-  <div class="videoWrapper" align="center">
+  <div class="usa-grid" align="center">
+    <div class="videoWrapper">
       <iframe src="https://drive.google.com/file/d/0BxayWw6MbOYbTE8tSktGRFNlNGM/preview" width="640" height="480"></iframe>
-    <br>
+    </div>
     {% if page.content-button-link %}
       <a href="{{ page.video-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.video-button-text }}</a>
     {% endif %}
-   </div>
+  </div>
 </section>
 
 <section class="usa-section background-light">
