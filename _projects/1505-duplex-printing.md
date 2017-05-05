@@ -4,7 +4,7 @@ permalink: /projects/duplex-printing/
 tags: project
 image: /assets/img/project-images/duplex-printing.jpg
 image-credit: https://www.flickr.com/photos/featheredtar/
-abstract: /assets/files/Double-Sided Printing.pdf
+abstract: /assets/abstracts/1505-Double-Sided-Printing.pdf
 year: 2015
 domain: Government Operations
 agency: Agriculture
