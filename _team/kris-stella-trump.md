@@ -6,11 +6,7 @@ year:
   - 2017
 agency:
   - Health and Human Services
-skills:
-  - Political Science
-  - Psychology
-  - Behavior Change
-  - Health
+home: Non-profit
 title: Research Specialist 
 ---
 
