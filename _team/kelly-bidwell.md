@@ -8,11 +8,8 @@ year:
   - 2017
 agency:
   - US Agency for International Development
-  - Department of Veterans' Affairs
-skills:
-  - Randomized Control Trials
-  - International Development
-  - Impact Evaluations
+  - Veterans Affairs
+home: Government
 title: Director
 ---
 
