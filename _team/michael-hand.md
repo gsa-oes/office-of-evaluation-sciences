@@ -5,16 +5,13 @@ year:
   - 2016
   - 2017
 agency:
-  - US Department of Agriculture
+  - Agriculture
   - Health and Human Services
   - General Services Administration
   - US Global Change Research Program
-  - Department of the Interior
+  - Interior
   - Federal Emergency Management Agency
-skills:
-  - Economics
-  - Energy and Environment
-  - Government Operations
+home: Government
 title: Fellow
 ---
 
