@@ -5,13 +5,10 @@ year:
   - 2016
   - 2017
 agency:
-  - Department of Labor
+  - Labor
   - Housing and Urban Development
-  - Department of Education
-skills:
-  - Student Loans
-  - Political Science
-  - Evaluation
+  - Education
+home: Government
 title: Fellow
 ---
 
