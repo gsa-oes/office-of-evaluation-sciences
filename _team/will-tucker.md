@@ -7,16 +7,12 @@ year:
   - 2017
 domain:
 agency:
-  - Department of Defense
-  - Department of the Treasury
+  - Defense
+  - Treasury
   - General Services Administration
   - Health and Human Services
-  - Department of Veterans' Affairs
-skills:
-  - Health
-  - Economic Opportunity
-  - Government Operations
-  - Retirement Security
+  - Veterans Affairs
+home: Non-profit
 title: Fellow
 ---
 
