@@ -9,7 +9,7 @@ year: 2016
 domain: Education
 agency: Education
 impact:
-summary: A collaboration between OES and the Department of Education
+summary: Sending emails to delinquent borrowers positively impacted IDR application completion.
 ---
 ## What was the challenge?
 
