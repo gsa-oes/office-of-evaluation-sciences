@@ -10,7 +10,7 @@ agency:
   - Federal Emergency Management Agency
   - United States Postal Service
   - Treasury
-home institution: University
+home: University
 title: Associate Fellow
 ---
 
