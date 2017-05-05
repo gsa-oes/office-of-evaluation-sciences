@@ -4,7 +4,7 @@ permalink: /projects/securities-account-transfers/
 tags: project
 image: /assets/img/project-images/treasury2.jpg
 image-credit: https://www.flickr.com/photos/71380981@N06/
-abstract: /assets/files/Legacy Treasury Direct Accounts.pdf
+abstract: /assets/abstracts/1509-Legacy-Treasury-Direct-Accounts.pdf
 year: 2015
 domain: Government Operations
 agency: Treasury
