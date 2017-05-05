@@ -4,7 +4,7 @@ permalink: /projects/climate-change-indicators/
 tags: project
 image: /assets/img/project-images/climate-change.jpg
 image-credit: https://www.flickr.com/photos/departmentofenergy/
-abstract: /assets/files/Climate Indicators.pdf
+abstract: /assets/abstracts/1611-Climate-Indicators.pdf
 year: 2016
 domain: Communications
 agency: US Global Change Research Program
