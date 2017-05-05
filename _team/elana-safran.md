@@ -6,16 +6,13 @@ year:
   - 2017
 agency:
   - US Agency for International Development
-  - Department of Veterans' Affairs
+  - Veterans Affairs
   - Health and Human Services
-  - US Department of Agriculture
+  - Agriculture
   - Social Security Administration
-  - Department of the Treasury
-  - Department of Defense
-skills:
-  - International Development
-  - Health
-  - Evaluation
+  - Treasury
+  - Defense
+home: Government
 title: Fellow 
 ---
 
