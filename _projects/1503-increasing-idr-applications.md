@@ -4,7 +4,7 @@ permalink: /projects/increasing-IDR-applications/
 tags: project
 image: /assets/img/project-images/income-driven-repayment.jpg
 image-credit: https://www.flickr.com/photos/timetrax/
-abstract: /assets/files/Income-Driven Repayment.pdf
+abstract: /assets/abstracts/1503-Income-Driven-Repayment.pdf
 year: 2016
 domain: Education
 agency: Education
