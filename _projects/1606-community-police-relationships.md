@@ -6,7 +6,7 @@ year: 2016
 domain: Justice
 agency: Justice
 impact:
-summary: A collaboration between OES and DOJ
+summary: Materials enable citizens to facilitate conversations and action planning around better community policing.
 ---
 
 ## What was the challenge?
@@ -33,3 +33,4 @@ Notes:
 - Cards are designed to print on 4 x 6 inch paper
 
 
+t
