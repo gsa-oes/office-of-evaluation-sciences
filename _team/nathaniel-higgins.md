@@ -8,7 +8,7 @@ year:
 agency:
   - Agriculture
   - Treasury
-  - Environmental Protection Agency
+  - Environmental Protection
   - Energy
   - Housing and Urban Development
 home: Government
