@@ -5,7 +5,7 @@ year:
   - 2016
   - 2017
 agency:
-  - United States Postal Service
+  - Postal Service
   - Health and Human Services
   - Veterans Affairs
   - Defense
