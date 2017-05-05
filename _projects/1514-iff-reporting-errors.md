@@ -4,7 +4,7 @@ permalink: /projects/iff-reporting-errors/
 tags: project
 image: /assets/img/project-images/IFF.jpg
 image-credit: https://www.flickr.com/photos/el_paulio/
-abstract: /assets/files/Industrial Funding Fee Reports.pdf
+abstract: /assets/abstracts/1514-Industrial-Funding-Fee-Reports.pdf
 year: 2015
 domain: Government Operations
 agency: General Services Administration
