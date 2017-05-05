@@ -4,7 +4,7 @@ permalink: /projects/idr-applications-scale-up/
 tags: project
 image: /assets/img/project-images/student-loans3.jpg
 image-credit: https://unsplash.com/@tfaustin
-abstract: /assets/files/Income-Driven Repayment - Scale-Up.pdf
+abstract: /assets/abstracts/1603-2-Income-Driven Repayment-Scale-Up.pdf
 year: 2016
 domain: Education
 agency: Education
