@@ -6,12 +6,9 @@ year:
   - 2016
   - 2017
 agency:
-  - Department of Justice
+  - Justice
   - Census Bureau
-skills:
-  - Government Operations
-  - Citizen Experience
-  - Evaluation
+home institution: Government
 title: Deputy Director
 ---
 
