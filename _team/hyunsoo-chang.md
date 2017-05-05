@@ -8,17 +8,13 @@ agency:
   - Health and Human Services
   - Social Security Administration
   - United States Postal Service
-  - US Department of Agriculture
-  - Department of Defense
+  - Agriculture
+  - Defense
   - Office of Personnel Management
-  - Department of Education
-  - Department of Transportation
-  - Department of the Treasury
-skills:
-  - Economics
-  - Political Science
-  - Retirement Security
-  - Health
+  - Education
+  - Transportation
+  - Treasury
+home: Non-profit
 title: Associate Fellow
 ---
 
