@@ -4,7 +4,7 @@ permalink: /projects/microloans-for-farmers-1/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
-abstract: /assets/files/Microloans for Farmers.pdf
+abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
 year: 2015
 domain: Economic Opportunity
 agency: Agriculture
