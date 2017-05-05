@@ -25,8 +25,8 @@ This set of 30 cards outlines discussion topics drawn from the final report, foc
 
 The Community Action Deck has been made available for download across government for any interested party to use. To download the report, report implementation guide, and learn more about the work of the Community Oriented Policing Services (COPS) Office at the Department of Justice, please visit: [https://cops.usdoj.gov/policingtaskforce](https://cops.usdoj.gov/policingtaskforce)
 
-<a class="usa-button" href="{{site.baseurl}}/assets/files/Community Action Deck_12202016.pdf">Download the Deck</a>
-<a class="usa-button" href="{{site.baseurl}}/assets/files/Community Action Deck_Card Template.pptx">Download the Card Template</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-1-Community-Action-Deck.pdf">Download the Deck</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-2-Community-Action-Deck-Card-Template.pptx">Download the Card Template</a>
 
 Notes:
 - For hyperlinked resources to work, be sure the full link is being pulled into your browser with no spaces
