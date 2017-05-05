@@ -6,15 +6,10 @@ year:
   - 2017
 domain:
 agency:
-  - Department of Defense
+  - Defense
   - US Agency for International Development
   - Social Security Administration
-skills:
-  - Economics
-  - International Development
-  - Health
-  - Randomized Control Trials
-  - Geo-spatial Data
+home: University
 title: Fellow
 ---
 
