@@ -4,7 +4,7 @@ permalink: /projects/idr-applications-targeted-messages/
 tags: project
 image: /assets/img/project-images/pslf1.jpg
 image-credit: https://www.flickr.com/photos/pagedooley/
-abstract: /assets/files/Income-Driven Repayment - Targeted Messages.pdf
+abstract: /assets/abstracts/1603-1-Income-Driven Repayment-Targeted-Messages.pdf
 year: 2016
 domain: Education
 agency: Education
