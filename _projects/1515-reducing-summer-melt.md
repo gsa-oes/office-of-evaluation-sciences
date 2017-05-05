@@ -4,7 +4,7 @@ permalink: /projects/reducing-summer-melt/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
-abstract: /assets/files/Summer Melt.pdf
+abstract: /assets/abstracts/1515-Summer-Melt.pdf
 year: 2015
 domain: Education
 agency: Education
