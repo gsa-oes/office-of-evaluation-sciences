@@ -17,4 +17,4 @@ We identify opportunities to work with agencies on an ongoing basis, and often n
 Full time OES team members are selected annually for our Fellowship program. These individuals come to the team for one year on loan from a variety of home institutions such as a university or another Federal agency and are based in Washington, D.C. 
 
 We are not currently recruiting Associate Fellows or Fellows at this time. To learn more about what we look for in our Fellows, view the 
-<a href="https://github.com/gsa-oes/office-of-evaluation-sciences/blob/update-uswds/assets/files/GSA-OES-SolicitationFY17.pdf.pdf">2017 Fellowship Solicitation</a>.
+<a href="office-of-evaluation-sciences/assets/files/GSA-OES-SolicitationFY17.pdf.pdf">2017 Fellowship Solicitation</a>.
