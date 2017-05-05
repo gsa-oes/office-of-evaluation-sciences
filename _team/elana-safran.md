@@ -9,7 +9,7 @@ agency:
   - Veterans Affairs
   - Health and Human Services
   - Agriculture
-  - Social Security Administration
+  - Social Security
   - Treasury
   - Defense
 home: Government
