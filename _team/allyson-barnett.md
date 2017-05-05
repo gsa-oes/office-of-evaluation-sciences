@@ -9,12 +9,8 @@ agency:
   - Health and Human Services
   - Federal Emergency Management Agency
   - United States Postal Service
-  - Department of the Treasury
-skills:
-  - Decision Science
-  - Health
-  - Economics
-  - Voting
+  - Treasury
+home institution: university
 title: Associate Fellow
 ---
 
