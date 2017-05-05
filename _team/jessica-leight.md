@@ -8,7 +8,7 @@ agency:
   - US Agency for International Development
   - Labor
   - Treasury
-  - Social Security Administration
+  - Social Security
   - Veterans Affairs
   - Office of Personnel Management
 home: University
