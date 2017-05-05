@@ -6,15 +6,12 @@ year:
   - 2017
 agency:
   - Census Bureau
-  - Department of Homeland Security
+  - Homeland Security
   - General Services Administration
   - Health and Human Services
-  - Department of Labor
-  - US Department of Agriculture
-skills: 
-  - Political Science
-  - Experimental and Statistical Methods
-  - Randomized Control Trials
+  - Labor
+  - Agriculture
+home: University
 title: Fellow
 ---
 
