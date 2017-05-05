@@ -8,7 +8,7 @@ domain:
 agency:
   - Health and Human Services
   - Federal Emergency Management
-  - United States Postal Service
+  - Postal Service
   - Treasury
 home: University
 title: Associate Fellow
