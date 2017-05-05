@@ -6,13 +6,9 @@ year:
   - 2017
 agency:
   - Health and Human Services
-  - Department of Justice
-  - Department of Education
-skills:
-  - Decision Science
-  - Psychology
-  - Economic Opportunity
-  - Health
+  - Justice
+  - Education
+home: University
 title: Fellow
 ---
 
