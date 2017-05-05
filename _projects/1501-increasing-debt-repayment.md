@@ -17,7 +17,7 @@ The Department of the Treasury’s Debt Management Services (DMS) was seeking to
 
 ## What was the program change?
 
-OES modified the DMS collection letter using social science insights, such as simplification, personalization, social comparison, and emphasizing the total debt owed, to increase the rate of debt recovery. 
+OES modified the DMS collection letter using insights such as simplification, personalization, social comparison, and emphasizing the total debt owed, to increase the rate of debt recovery. 
 
 ## How did the evaluation work?
 
