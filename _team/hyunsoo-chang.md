@@ -6,8 +6,8 @@ year:
   - 2017
 agency:
   - Health and Human Services
-  - Social Security Administration
-  - United States Postal Service
+  - Social Security 
+  - Postal Service
   - Agriculture
   - Defense
   - Office of Personnel Management
