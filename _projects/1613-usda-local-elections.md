@@ -4,7 +4,7 @@ permalink: /projects/usda-local-elections/
 tags: project
 image: /assets/img/project-images/usda.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
-abstract: /assets/files/Farm Service County Committee Elections.pdf
+abstract: /assets/abstracts/1613-Local-USDA-Elections.pdf
 year: 2016
 domain: Government Operations
 agency: Agriculture
