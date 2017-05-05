@@ -4,7 +4,7 @@ permalink: /projects/patient-health-it/
 tags: project
 image: /assets/img/project-images/health-it.jpg
 image-credit: https://www.flickr.com/photos/armymedicine/
-abstract: /assets/files/Increasing Patient Use of Health IT.pdf
+abstract: /assets/abstracts/1607-Increasing-Patient-Use-of-Health-IT.pdf
 year: 2016
 domain: Health
 agency: Health and Human Services
