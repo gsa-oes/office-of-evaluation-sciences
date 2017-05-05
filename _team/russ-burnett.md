@@ -5,7 +5,6 @@ year:
   - 2016
   - 2017
 agency:
-  - Government Accountability Office
   - Transportation
   - Defense
 home: Government
