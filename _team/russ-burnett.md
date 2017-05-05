@@ -6,13 +6,9 @@ year:
   - 2017
 agency:
   - Government Accountability Office
-  - Department of Transportation
-  - Department of Defense
-skills:
-  - Psychology
-  - Decision Science
-  - Experimental and Statistical Methods
-  - Survey Analysis
+  - Transportation
+  - Defense
+home: Government
 title: 
  - Fellow
  - Research Integrity
