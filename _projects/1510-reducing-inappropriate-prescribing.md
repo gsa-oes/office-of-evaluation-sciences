@@ -4,7 +4,7 @@ permalink: /projects/reducing-inappropriate-prescribing/
 tags: project
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
-abstract: /assets/files/Prescriber Letters.pdf
+abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
 year: 2015
 domain: Health
 agency: Health and Human Services
