@@ -4,7 +4,7 @@ permalink: /projects/health-insurance-enrollment-2/
 tags: project
 image: /assets/img/project-images/enrollment2.jpg
 image-credit: https://www.flickr.com/photos/dmc_heals/
-abstract: /assets/files/Federal Health Insurance Marketplace Enrollment.pdf
+abstract: /assets/abstracts/1504-Federal-Health-Insurance-Marketplace-Enrollment.pdf
 year: 2015
 domain: Health
 agency: Health and Human Services
