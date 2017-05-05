@@ -8,7 +8,7 @@ year:
 agency:
   - Justice
   - Census Bureau
-home institution: Government
+home: Government
 title: Deputy Director
 ---
 
