@@ -8,7 +8,7 @@ domain:
 agency:
   - Defense
   - US Agency for International Development
-  - Social Security Administration
+  - Social Security
 home: University
 title: Fellow
 ---
