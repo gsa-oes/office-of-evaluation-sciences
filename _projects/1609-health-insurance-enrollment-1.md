@@ -4,7 +4,7 @@ permalink: /projects/health-insurance-enrollment-1/
 tags: project
 image: /assets/img/project-images/healthcare-gov.PNG
 image-credit: https://www.healthcare.gov/
-abstract: /assets/files/Federal Health Insurance Marketplace Enrollment Emails.pdf
+abstract: /assets/abstracts/1609-Federal-Health-Insurance-Marketplace-Enrollment-Emails.pdf
 year: 2016
 domain: Health
 agency: Health and Human Services
