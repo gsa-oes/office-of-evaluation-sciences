@@ -4,7 +4,7 @@ permalink: /projects/loan-rehab-rates/
 tags: project
 image: /assets/img/project-images/loan-rehab.jpg
 image-credit: https://unsplash.com/@helloquence
-abstract: /assets/files/Defaulted Student Loan Borrowers.pdf
+abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
 year: 2016
 domain: Education
 agency: Education
