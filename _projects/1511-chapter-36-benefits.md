@@ -4,7 +4,7 @@ permalink: /projects/chapter-36-benefits/
 tags: project
 image: /assets/img/project-images/ch36.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
-abstract: /assets/files/Education and Career Counseling Benefit for Veterans.pdf
+abstract: /assets/abstracts/1511-Chapter 36-Benefits-for Veterans.pdf
 year: 2015
 domain: Economic Opportunity
 agency: Veterans Affairs
