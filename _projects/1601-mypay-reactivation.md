@@ -4,7 +4,7 @@ permalink: /projects/mypay-reactivation/
 tags: project
 image: /assets/img/project-images/military6.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys/
-abstract: /assets/files/Military Retiree myPay Reactivation.pdf
+abstract: /assets/abstracts/1601-Military-Retiree-myPay-Reactivation.pdf
 year: 2016
 domain: Retirement Security
 agency: Defense
