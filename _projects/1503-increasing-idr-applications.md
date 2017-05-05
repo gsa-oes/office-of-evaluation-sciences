@@ -13,7 +13,7 @@ summary: A collaboration between OES and the Department of Education
 ---
 ## What was the challenge?
 
-As student loan balances have risen in recent years, an increasing numbers of borrowers struggle to stay on track with payments. The Office of Federal Student Aid (FSA) within ED offers income-driven repayment (IDR) options, which link monthly payment amounts to incomes, and can make repayment more manageable. Because enrolling in an IDR plan requires borrowers to learn of and apply for such a plan, uptake is low.
+As student loan balances have risen in recent years, an increasing numbers of borrowers struggle to stay on track with payments. The Office of Federal Student Aid (FSA) within the Department of Education offers income-driven repayment (IDR) options, which link monthly payment amounts to incomes, and can make repayment more manageable. Because enrolling in an IDR plan requires borrowers to learn of and apply for such a plan, uptake is low.
 
 ## What was the program change?
 
