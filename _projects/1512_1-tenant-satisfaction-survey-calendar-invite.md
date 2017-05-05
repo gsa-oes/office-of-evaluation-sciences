@@ -4,7 +4,7 @@ permalink: /projects/tenant-satisfaction-survey-calendar-invite/
 tags: project
 image: /assets/img/project-images/gsa-tenant1.jpg
 image-credit: https://www.gsa.gov/portal/content/163627
-abstract: /assets/files/Tenant Satisfaction Survey Response- Calendar Invite.pdf
+abstract: /1512-1-Tenant-Satisfaction-Survey-Response-Calendar-Invite.pdf
 year: 2015
 domain: Government Operations
 agency: General Services Administration
