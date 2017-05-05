@@ -6,17 +6,12 @@ year:
   - 2016
   - 2017
 agency:
-  - US Department of Agriculture
-  - Department of the Treasury
+  - Agriculture
+  - Treasury
   - Environmental Protection Agency
-  - Department of Energy
+  - Energy
   - Housing and Urban Development
-skills:
-  - Experimental and Statistical Methods
-  - International Economics
-  - Market Design
-  - Economics
-  - Energy and Environment
+home: Government
 title:
  - Fellow
  - Science Advisor 
