@@ -4,7 +4,7 @@ permalink: /projects/grace-period-student-borrowers/
 tags: project
 image: /assets/img/project-images/student-loans4.jpg
 image-credit: https://www.flickr.com/photos/whatcouldgowrong/
-abstract: /assets/files/Missed Student Loan Payments.pdf
+abstract: /assets/abstracts/1513-Missed-Student-Loan-Payments.pdf
 year: 2015
 domain: Education
 agency: Education
