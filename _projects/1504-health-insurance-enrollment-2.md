@@ -13,12 +13,11 @@ summary: A letter increased health insurance enrollment by 7.15%.
 ---
 ## What was the challenge?
 
-As the open enrollment period for purchasing health insurance through the Federal Health Insurance Marketplace (FHIM) neared its end, many people had visited HealthCare.gov and started an online account,
-but had not yet selected a plan.
+As the open enrollment period for purchasing health insurance through the Federal Health Insurance Marketplace (FHIM) neared its end, many people had visited HealthCare.gov and started an online account, but had not yet selected a plan.
 
 ## What was the program change?
 
-OES developed eight different letters to assist these individuals with completing their FHIM application before the end of open enrollment. The eight letters contained varied social science insights, including action language, an implementation intention prompt, a picture, social norm messaging, a pledge, and loss aversion - with the core content held constant across each of the eight letters.
+OES developed eight different letters to assist these individuals with completing their FHIM application before the end of open enrollment. The eight letters contained varied insights, including action language, an implementation intention prompt, a picture, social norm messaging, a pledge, and loss aversion - with the core content held constant across each of the eight letters.
 
 ## How did the evaluation work?
 
