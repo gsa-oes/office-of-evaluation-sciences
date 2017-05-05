@@ -7,11 +7,9 @@ year:
 agency:
   - United States Postal Service
   - Health and Human Services
-  - Department of Veterans' Affairs
-  - Department of Defense
-skills:
-  - Marketing
-  - Decision Science
+  - Veterans Affairs
+  - Defense
+home: University
 title: Fellow 
 ---
 
