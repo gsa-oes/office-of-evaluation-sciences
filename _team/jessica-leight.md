@@ -6,19 +6,12 @@ year:
   - 2017
 agency:
   - US Agency for International Development
-  - Department of Labor
-  - Department of the Treasury
+  - Labor
+  - Treasury
   - Social Security Administration
-  - Department of Veterans' Affairs
+  - Veterans Affairs
   - Office of Personnel Management
-skills:
-  - Economics
-  - International Development
-  - Poilitical Science
-  - Gender
-  - Health
-  - Randomized Control Trials
-  - Survey Analysis
+home: University
 title: Fellow 
 ---
 
