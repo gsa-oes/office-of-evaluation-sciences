@@ -4,7 +4,7 @@ permalink: /projects/pslf-benefits-access/
 tags: project
 image: /assets/img/project-images/student-loans2.jpg
 image-credit: https://www.flickr.com/photos/dhsgov/
-abstract: /assets/files/Public Service Loan Forgiveness Pilot.pdf
+abstract: /assets/abstracts/1602-Public-Service-Loan-Forgiveness-Pilot.pdf
 year: 2016
 domain: Education
 agency: Education
