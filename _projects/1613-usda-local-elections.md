@@ -17,7 +17,7 @@ USDA’s Farm Service Agency (FSA) operates programs that impact the lives of fa
 
 ## What was the program change?
 
-OES redesigned ballot materials using social science research, including clarifying information delivery and adding reminders.
+OES redesigned ballot materials applying research insights, including clarifying information delivery and adding reminders.
 
 ## How did the evaluation work?
 
