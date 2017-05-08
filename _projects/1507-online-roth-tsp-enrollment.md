@@ -16,7 +16,7 @@ The Federal Government operates a workplace savings program called the Thrift Sa
 
 ## What was the program change?
 
-OES developed eight different email messages that utilized different combinations of social science insights: clear action steps, fresh-start messaging, presentation of the decision to enroll in TSP as a choice between two options, and emphasis on short- and long-term benefits.
+OES developed eight different email messages that utilized different combinations of proven insights: clear action steps, fresh-start messaging, presentation of the decision to enroll in TSP as a choice between two options, and emphasis on short- and long-term benefits.
 
 ## How did the evaluation work?
 
