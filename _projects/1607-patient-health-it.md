@@ -25,4 +25,4 @@ CMS implemented the redesigned AVS for all primary care clinics within the local
 
 ## What was the impact?
 
-Initial analysis and estimates suggest that the revised AVS instructions lead to a 9.98% increase in the probability that patients would activate their online portal account upon receiving their AVS, .
+Initial analysis and estimates suggest that the revised AVS instructions lead to a 9.98% increase in the probability that patients would activate their online portal account upon receiving their AVS.
