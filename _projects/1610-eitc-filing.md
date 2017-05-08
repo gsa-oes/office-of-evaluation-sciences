@@ -25,4 +25,4 @@ OES identified a total sample of 360,352 eligible individuals who had not filed 
 
 ## What was the impact?
 
-The notices lead to an increase in the rates of individuals filing a 2013 tax return between 0.6 and 1.0 percentage points. The notices were effective at modestly increasing the rate of tax filing among the targeted population; while they did not increase the rates at which individuals claimed the EITC, they did increase the amount of EITC dollars paid to treatment individuals.
+The notices lead to an increase in the rates of individuals filing a 2013 tax return between 0.6 and 1.0 percentage points. The notices were effective at modestly increasing the rate of tax filing among the targeted population; while they did not increase the rates at which individuals claimed the EITC, they did increase the amount of EITC dollars paid to individuals that received a postcard.
