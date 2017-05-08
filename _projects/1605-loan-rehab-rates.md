@@ -13,11 +13,11 @@ summary: Emphasizing the negative consequences of loan default increases entry i
 ---
 ## What was the challenge?
 
-Each month, roughly 125,000 Federal student loan borrowers who have not made a payment in 360 days enter into default. If a borrowers fail to act, their loans are transferred to a private collections agency, and they face serious penalties. To avoid these penalties, ED offers a loan rehabilitation agreement that allows them to exit default if they make nine out of 10 payments based on income (payments can be as low as $5).
+Each month, roughly 125,000 Federal student loan borrowers who have not made a payment in 360 days enter into default. If a borrower fails to act, their loans are transferred to a private collections agency, and they face serious penalties. To avoid these penalties, ED offers a loan rehabilitation agreement that allows them to exit default if they make nine out of 10 payments based on income (payments can be as low as $5).
 
 ## What was the program change?
 
-OES developed emails with four different social science-informed subject lines prompting eligible borrowers to enter a loan rehabilitation agreement.
+OES developed emails with four different subject lines informed by research insights prompting eligible borrowers to enter a loan rehabilitation agreement.
 
 ## How did the evaluation work?
 
