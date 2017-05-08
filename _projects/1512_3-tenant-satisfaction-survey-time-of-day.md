@@ -17,7 +17,7 @@ GSA’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with mo
 
 ## What was the program change?
 
-Small details, like the framing or timing of an email, can matter more than might be expected. Varying the time of workplace email requests can affect email open and click-through rates. Using this research, OES redesigned and reconfigured the TSS to assess what time of day resulted in the highest open and click-through rates.
+Small details, like the framing or timing of an email, can matter more than might be expected. Varying the time of workplace email requests can affect email open and click-through rates. Using this research, OES reconfigured the TSS "send out" to assess what time of day resulted in the highest open and click-through rates.
 
 ## How did the evaluation work?
 
