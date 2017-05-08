@@ -17,7 +17,7 @@ DOD maintains an online platform called myPay to help military retirees manage t
 
 ## What was the program change?
 
-OES designed nine different emails to encourage reactivation of myPay accounts prior to the beginning of tax season. OES created a baseline email template that added clear action steps to the existing myPay language. Eight additional email variants used additional social science insights, including: signature variants, emphasizing security, social proofs, and framing.
+OES designed nine different emails to encourage reactivation of myPay accounts prior to the beginning of tax season. OES created a baseline email template that added clear action steps to the existing myPay language. Eight additional email variants applied proven insights including: signature variants, emphasizing security, social proofs, and framing.
 
 ## How did the evaluation work?
 
