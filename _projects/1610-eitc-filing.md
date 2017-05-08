@@ -17,11 +17,11 @@ The Earned Income Tax Credit (EITC) is one of the largest Federal government pro
 
 ## What was the program change?
 
-OES designed six postcard variations using social science research, such as highlighting the recipient’s potential eligibility for the EITC.
+OES designed six postcard variations using research insights, such as highlighting the recipient’s potential eligibility for the EITC.
 
 ## How did the evaluation work?
 
-A total sample of 360,352 eligible individuals who had not filed for EITC in previous years. Of this group, 199,910 were randomly assigned to receive one of six postcards, and 160,442 were in the control group.
+OES identified a total sample of 360,352 eligible individuals who had not filed for EITC in previous years. Of this group, 199,910 were randomly assigned to receive one of six postcards, and 160,442 were in the control group.
 
 ## What was the impact?
 
