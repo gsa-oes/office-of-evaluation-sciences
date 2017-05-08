@@ -17,11 +17,11 @@ The Federal Government operates a workplace savings program called the Thrift Sa
 
 ## What was the program change?
 
-OES developed several interventions based in social science research to be used at in-processing events and orientations on bases. The interventions included a form prompting active choice, an in-person activity prompting immediate action, an informational cover sheet, and a video.
+OES developed several interventions applying research insights to be used at in-processing events and orientations on bases. The interventions included a form prompting active choice, an in-person activity prompting immediate action, an informational cover sheet, and a video.
 
 ## How did the evaluation work?
 
-OES ran two pilots at large Army installations—Fort Bragg, and Fort Lewis —testing active choice interventions during the orientations that occur as service members are newly assigned to a base.
+OES ran two pilots at large Army installations — Fort Bragg and Fort Lewis — testing active choice interventions during the orientations that occur as service members are newly assigned to a base.
 
 ## What was the impact?
 
