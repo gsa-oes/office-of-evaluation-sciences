@@ -19,7 +19,7 @@ Research shows that low-income students attend college at rates lower than their
 
 ## What was the program change?
 
-OES developed nine mail interventions using social science research to encourage HUD-assisted youth to complete the FAFSA. The nine variations tested both the messenger and format of the mailing.
+OES developed nine mail interventions applying research insights to encourage HUD-assisted youth to complete the FAFSA. The nine variations tested both the messenger and format of the mailing.
 
 ## How did the evaluation work?
 
