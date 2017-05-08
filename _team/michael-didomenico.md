@@ -2,6 +2,7 @@
 name: Michael DiDomenico
 image: /assets/img/team/didomenico_michael.jpg
 year:
+  - 2015
   - 2016
   - 2017
 agency:
