@@ -13,11 +13,11 @@ summary: Simplifying visual graphics increases comprehension of climate change i
 ---
 ## What was the challenge?
 
-USGCRP makes climate change data publicly available, including a set of indicators. The effectiveness of indicators for informing the public and decision makers about climate change depends in part on how easy it is to understand those indicators.
+The US Global Change Research Program (USGCRP) makes climate change data publicly available, including a set of indicators. The effectiveness of indicators for informing the public and decision makers about climate change depends in part on how easy it is to understand those indicators.
 
 ## What was the program change?
 
-Using a representative online survey, OES identified the two  USGCRP indicators that had the lowest understandability rates - the Annual Greenhouse Gas Index, and the Annual Heating and Cooling Degree Days. OES then redesigned these two indicators by eliminating axes, changing titles, and modifying the graphs.
+Using a representative online survey, OES identified the two USGCRP indicators that had the lowest understandability rates - the Annual Greenhouse Gas Index, and the Annual Heating and Cooling Degree Days. OES then redesigned these two indicators by eliminating axes, changing titles, and modifying the graphs.
 
 ## How did the evaluation work?
 
