@@ -1,5 +1,5 @@
 ---
-name: Crystall Hall
+name: Crystal Hall
 image: /assets/img/team/hall_crystal.jpg
 year:
   - 2016
