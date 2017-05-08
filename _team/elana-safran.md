@@ -2,6 +2,7 @@
 name: Elana Safran
 image: /assets/img/team/safran_elana.jpg
 year: 
+  - 2015
   - 2016
   - 2017
 agency:
