@@ -25,4 +25,4 @@ To address the issue of turnover in ACO patient populations, the Center for Medi
 
 ## What was the impact?
 
-The overall response rate to the letter was 37.2%; from those respondents, the confirmation rate was 94%. There were not substantial differences in response rates across the letter designs. The project indicated the operational feasibility and potential for voluntary alignment of ACO patient populations
+The overall response rate to the letter was 37.2%; from those respondents, the confirmation rate was 94%. There were not substantial differences in response rates across the letter designs. The project indicated the operational feasibility and potential for voluntary alignment of ACO patient populations.
