@@ -25,4 +25,4 @@ OES redesigned ballot materials applying research insights, including clarifying
 
 ## What was the impact?
 
-Households that received either an enhanced ballot or postcard showed a 2.9% increase in participation in COC elections. With a treatment effect of 2.9% and a postcard cost of approximately $0.05 per unit, this translates to one extra ballot cast for every $1.72 spent.
+Households that received either an enhanced ballot or postcard showed a 2.9% increase in participation in COC elections. .
