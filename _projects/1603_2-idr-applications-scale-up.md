@@ -17,7 +17,7 @@ Student loan borrowers have over $1.26 trillion dollars in outstanding Federal s
 
 ## What was the program change?
 
-OES worked with ED’s Office of Federal Student Aid (FSA) to design and test behaviorally-informed emails sent to a number of different borrower groups eligible for IDR plans.
+OES worked with ED’s Office of Federal Student Aid (FSA) to design and test the application of proven insights in updated emails sent to a number of different borrower groups eligible for IDR plans.
 
 ## How did the evaluation work?
 
