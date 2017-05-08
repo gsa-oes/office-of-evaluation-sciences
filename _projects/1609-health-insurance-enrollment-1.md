@@ -25,4 +25,4 @@ OES developed, sent, and tested email variations that utilize framing approaches
 
 ## What was the impact?
 
-Variations in framing an email about health insurance enrollment can make individuals more likely to open their email and click through. However, even precisely estimated differences in open and click rates do not translate into large differences in health insurance enrollment rates, which may reflect some of the limitations of email campaigns. That is, email may have a limited impact on behaviors like enrollment
+Variations in framing an email about health insurance enrollment can make individuals more likely to open their email and click through. However, even precisely estimated differences in open and click rates do not translate into large differences in health insurance enrollment rates, which may reflect some of the limitations of email campaigns. That is, email may have a limited impact on behaviors like enrollment.
