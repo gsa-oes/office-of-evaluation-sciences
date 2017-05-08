@@ -2,6 +2,7 @@
 name: Jake Bowers
 image: /assets/img/team/bowers_jake.jpg
 year: 
+  - 2015
   - 2016
   - 2017
 agency:
