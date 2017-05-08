@@ -17,7 +17,7 @@ The Department of the Treasury’s Legacy Treasury Direct (LTD) program allowed 
 
 ## What was the program change?
 
-OES developed two letters for LTD account holders using the social science research finding that individuals are more likely to follow through on plans that identify specific moments of action, such as appointments.
+OES developed two letters for LTD account holders applying the research insight that individuals are more likely to follow through on plans that identify specific moments of action, such as appointments.
 
 ## How did the evaluation work?
 
@@ -25,4 +25,4 @@ OES developed two letters for LTD account holders using the social science resea
 
 ## What was the impact?
 
-Creating a moment of action to call in resulted in more investors calling in to discuss account options with Treasury Representatives - the letter including the appointment resulted in a 2.37% increase in call-in rates. However, the mailings did not result in significant customer account changes from LTD to TreasuryDirect
+Creating a moment of action to call in resulted in more investors calling in to discuss account options with Treasury Representatives - the letter including the appointment resulted in a 2.37% increase in call-in rates. However, the mailings did not result in significant customer account changes from LTD to TreasuryDirect.
