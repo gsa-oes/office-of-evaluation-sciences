@@ -17,7 +17,7 @@ Military OneSource is a DOD-funded program that provides information on military
 
 ## What was the program change?
 
-OES designed six email variants using social science research to be sent to active duty servicemembers. Email variations included opt-in requirements, active choice subscription, and differing formats including lists and quizzes. 
+OES designed six email variants applying research insights to be sent to active duty servicemembers. Email variations included opt-in requirements, active choice subscription, and differing formats including lists and quizzes. 
 
 ## How did the evaluation work?
 
