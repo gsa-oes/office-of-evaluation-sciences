@@ -25,4 +25,4 @@ An announcement email was sent to two randomly assigned groups of approximately 
 
 ## What was the impact?
 
-Sending emails near lunchtime on Tuesdays and Wednesdays resulted in higher responses than other days and times. Also, results indicated that including “please” in subject lines increased response rates, while adding an exclamation point reduced response rates.*
+Sending emails near lunchtime on Tuesdays and Wednesdays resulted in higher responses than other days and times. Also, results indicated that including “please” in subject lines increased response rates, while adding an exclamation point reduced response rates.
