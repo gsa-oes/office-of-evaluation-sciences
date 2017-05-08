@@ -13,11 +13,11 @@ summary: Emails increase application submissions for income driven repayment pla
 ---
 ## What was the challenge?
 
-Student loan borrowers have over $1.26 trillion dollars in outstanding Federal student loan debt. Income- driven repayment (IDR) plans can help Americans manage this debt by limiting their monthly payments to a percentage of their discretionary income and providing loan forgiveness. Despite these benefits, fewer than 24% of eligible student loan borrowers are in IDR repayment plans.
+Student loan borrowers have over $1.26 trillion dollars in outstanding Federal student loan debt. Income-driven repayment (IDR) plans can help Americans manage this debt by limiting their monthly payments to a percentage of their discretionary income and providing loan forgiveness. Despite these benefits, fewer than 24% of eligible student loan borrowers are in IDR repayment plans.
 
 ## What was the program change?
 
-OES worked with ED’s Office of Federal Student Aid (FSA) to design and test social science-informed emails sent to a number of different borrower groups eligible for IDR plans.
+OES worked with ED’s Office of Federal Student Aid (FSA) to design and test the application of proven insights in updated emails sent to a number of different borrower groups eligible for IDR plans.
 
 ## How did the evaluation work?
 
