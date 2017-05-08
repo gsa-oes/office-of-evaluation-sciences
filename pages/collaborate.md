@@ -26,7 +26,7 @@ Here’s how to get started:
 
 <ol>
 <li>Send us your initial responses to the questions above  in an email to oes@gsa.gov to start the conversation</li>
-<li>If your project seems like a good fit, someone from our office will reach out to you to learn more</li>
+<li>Someone from our office will reach out to you to learn more</li>
 <li>Work with an OES team member to identify an area of collaboration</li>
 <li>(If applicable) OES will draft IAA forms for you to review and complete with agency info</li>
 <li>OES will work with you to finalize the IAA forms</li>
