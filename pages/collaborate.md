@@ -8,7 +8,7 @@ summary: Let's learn what works.
 ---
 ## Collaborating with OES
 
-OES team members are passionate about using proven insights and rigorous evaluations to improve outcomes and cost effectiveness. Is your office interested in exploring a collaboration with OES?
+Is your office interested in exploring a collaboration with OES?
 
 Below is a list of questions that can help you start to think about whether your agency challenge may be a good fit for the types of projects our skills are best suited for:
 
