@@ -14,4 +14,4 @@ video-button-text: Collaborate with us
 video-button-link: /collaborate/
 class: page-home
 ---
-OES collaborates with agencies to rapidly and rigorously learn what works.
+OES translates research insights into concrete recommendations for how to improve government, and works with agencies to rapidly and rigorously test their impact.
