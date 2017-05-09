@@ -6,9 +6,7 @@ year:
   - 2015
 domain:
 agency:
-  - Health and Human Services
-  - Defense
-  - Veterans Affairs
+  - Education
 home: Government
 title: Fellow
 ---
