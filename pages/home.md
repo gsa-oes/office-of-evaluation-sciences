@@ -14,4 +14,4 @@ video-button-text: Collaborate with us
 video-button-link: /collaborate/
 class: page-home
 ---
-OES collaborates with agencies to rapidly learn what works.
+OES collaborates with agencies to rapidly and rigorously learn what works.
