@@ -8,4 +8,4 @@ filter_button_title: Filter the project listing
 filter_button_message: By year, domain, agency collaborator
 ---
 
-We strive to work alongside agency collaborators, enabling federal agencies to bridge the gap between ultimate program objectives and on-the-ground implementation. These projects reflect the work of the OES team and dedicated civil servants across the federal government.
+These projects reflect the work of the OES team and dedicated civil servants across the federal government.
