@@ -6,8 +6,8 @@ year:
   - 2016
 domain:
 agency:
-  - Labor
   - Education
+  - Labor
 home: Government
 title: Associate Fellow
 ---
