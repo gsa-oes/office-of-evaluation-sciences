@@ -1,3 +1,4 @@
+---
 name: Mona Siddiqui
 image: /assets/img/team/siddiqui_mona.jpg
 year: 
@@ -5,8 +6,8 @@ year:
   - 2015
 domain:
 agency:
-  - Health and Human Services
   - Defense
+  - Health and Human Services
   - Veterans Affairs
 home: Government
 title: Fellow
