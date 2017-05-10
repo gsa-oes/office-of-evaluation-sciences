@@ -6,9 +6,12 @@ year:
   - 2017
 domain:
 agency:
+  - Agriculture
   - Defense
-  - US Agency for International Development
+  - General Services Administration
   - Social Security
+  - US Agency for International Development
+  - Veterans Affairs
 home: University
 title: Fellow
 ---
