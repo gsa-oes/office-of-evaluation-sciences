@@ -22,7 +22,7 @@ OES team members follow three guiding principles:
 
 In addition to making our own research as rigorous, reliable, and reproducible as possible, we are committed to making our research tools available for others to apply or adapt to their own work. Below are some of these tools, which are continuously under development as we refine our methods and learn from our own projects. 
 
-Find these useful? Have suggestions for improvement? We look forward to hearing from you! 
+Find these useful? Have suggestions for improvement? We look forward to <a href="mailto:oes@gsa.gov?subject=Approach">hearing from you</a>! 
 
 <i>Resources coming soon!</i>
 
