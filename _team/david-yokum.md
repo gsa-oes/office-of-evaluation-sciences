@@ -8,9 +8,9 @@ year:
   - 2016
 domain:
 agency:
-  - Health and Human Services
-  - General Services Administration
   - Education
+  - General Services Administration
+  - Health and Human Services
 home: Government
 title: Fellow
 ---
