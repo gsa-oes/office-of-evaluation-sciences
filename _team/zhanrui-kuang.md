@@ -6,9 +6,9 @@ year:
   - 2016
 domain:
 agency:
-  - Health and Human Services
-  - Defense
   - Agriculture
+  - Defense
+  - Health and Human Services
 home: Non-profit
 title: Associate Fellow
 ---
