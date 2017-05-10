@@ -26,7 +26,8 @@ class: page-team-single
   {% endif %}
   {% if page.agency %}
     <h3 class="h4">Agency</h3>
-    <p>{{ page.agency | join.type="a": ', ' }}</p>
+    <p>{{ page.agency |tinysort('.submenu > li', {
+    charOrder: 'abcçdefgğhıijklmnoöprsştuüvyz'}}</p>
   {% endif %}
   </div>
 </div>
