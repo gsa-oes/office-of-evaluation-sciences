@@ -6,13 +6,13 @@ year:
   - 2016
 domain:
 agency:
+  - Defense
   - Education
   - Health and Human Services
-  - Social Security
-  - US Global Change Research Program
-  - Treasury
-  - Defense
   - Labor
+  - Social Security
+  - Treasury
+  - US Global Change Research Program
 home: Non-profit
 title: Fellow
 ---
