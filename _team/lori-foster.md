@@ -6,8 +6,8 @@ year:
   - 2015
 domain:
 agency:
-  - Labor
   - Defense
+  - Labor
 home: University
 title: Fellow
 ---
