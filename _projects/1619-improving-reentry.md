@@ -4,7 +4,7 @@ title: Improving Re-entry to Reduce Recidivism
 permalink: /projects/improving-reentry/
 tags: project
 image: /assets/img/project-images/navy-paperwork.jpg
-image-credit: https://www.flickr.com/photos/navyjagcorps/
+image-credit: https://commons.wikimedia.org/wiki/File:Federal_Prison_(855127147).jpg#filelinks
 abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf
 year: 2016
 domain: Justice
