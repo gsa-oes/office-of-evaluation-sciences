@@ -3,8 +3,8 @@ title: Improving Re-entry to Reduce Recidivism
 permalink: /projects/improving-reentry/
 tags: project
 image: /assets/img/project-images/federal-prison.jpg
-image-credit:
-abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf
+image-credit: https://www.flickr.com/photos/8126271@N04/855127147
+abstract: 
 year: 2016
 domain: Justice
 agency: Justice
