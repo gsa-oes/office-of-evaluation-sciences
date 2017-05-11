@@ -1,4 +1,3 @@
-
 ---
 title: Improving Re-entry to Reduce Recidivism
 permalink: /projects/improving-reentry/
@@ -10,7 +9,7 @@ year: 2016
 domain: Justice
 agency: Justice
 impact:
-summary: Empowering the re-entry population to thrive in their communities by developing a handbook that articulates concrete steps for individuals to take before and after their release. 
+summary: Empowering the re-entry population to thrive in their communities by developing a handbook that articulates concrete steps. 
 ---
 ## What was the challenge?
 
