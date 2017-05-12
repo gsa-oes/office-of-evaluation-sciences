@@ -30,7 +30,7 @@
                 {% assign values = values | push: item_value %}
               {% endif %}
             {% endfor %}
-            {% assign values = values | uniq | sort %}
+            {% assign values = values | uniq | sort() %}
             {% endcapture %}
             {% for value in values %}
             {% assign slug = value | append: '' | slugify %}
