@@ -29,7 +29,7 @@ Here’s how to get started:
 <li>Work with an OES team member to identify an area of collaboration</li>
 </ol>
 
-<i>OES is partly a cost-recoverable office, which means we don’t receive appropriated funds from Congress for all of the work we do. We often use Inter-Agency Agreements (IAAs) under the Economy Act to set up the terms of some projects and determine the cost of reimbursing our experts’ time.  IAAs help us to more accurately plan to ensure you  are getting the relevant staff your project requires and dedicated support to be held to our high standard of evaluation rigor and research integrity. We know that not everyone has experience executing IAAs - our team can help make this as painless as possible!</i>
+<i>OES is partly a cost-recoverable office. We often use Inter-Agency Agreements (IAAs) under the Economy Act to set up the terms of some projects and determine the cost of reimbursing our experts’ time.  IAAs help us to more accurately plan to ensure you  are getting the relevant staff your project requires and dedicated support to be held to our high standard of evaluation rigor and research integrity. We know that not everyone has experience executing IAAs - our team can help make this as painless as possible!</i>
 
 If applicable:
 <ol>
