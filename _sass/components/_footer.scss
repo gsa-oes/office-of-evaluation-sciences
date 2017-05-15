@@ -1,0 +1,22 @@
+// Footer ------------- //
+
+footer {
+  font-size: 12px;
+
+  a {
+    font-family: $font-sans;
+    font-weight: $font-bold !important;
+    text-decoration: none;
+  }
+}
+
+.icon-twitter {
+  margin-right: 10px;
+}
+
+.usa-footer-logo-img {
+  @include media($medium-screen) {
+    // float: right;
+    margin-top: -60px;
+  }
+}
