@@ -16,6 +16,18 @@ footer {
   }
 }
 
+.footer-logo-links {
+  @include media($medium-screen) {
+    @include span-columns(6);
+  }
+}
+
+.footer-links {
+  @include media($medium-screen) {
+    @include span-columns(2);
+  }
+}
+
 .footer-links-heading {
   font-size: 1.2rem;
   font-weight: 400;
