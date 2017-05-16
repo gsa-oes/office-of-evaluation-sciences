@@ -25,3 +25,56 @@ $color-brand-dark-active: darken($color-brand-dark, 20%);
 
 $nav-width: 892px;
 $display-kerning: -0.4px;
+
+// from 18f.gsa.gov
+
+$tiny-font-size:     1.2rem;
+
+$paragraph-line-height: 1.5;
+
+$banner-font-size:	 3rem;
+$banner-line-height: 1.4;
+
+$icon-small:         1rem;
+$icon:				 1.3rem;
+
+$font-sans:          'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+$font-monospace:     Consolas, Monaco, "Andale Mono", monospace;
+
+
+// Color
+$color-light:        #b3efff; // $color-light / $color-secondary-light
+$color-bright:       #00cfff; // $color-bright / $color-secondary
+$color-medium:       #046b99; // $color-medium / $color-primary
+$color-dark:         #1C304A; // $color-dark / $color-primary-dark
+$color-base:         #1F2E4A;
+$color-black:		 #000000;
+$color-inverse:		 #ffffff;
+
+$color-bright-hover: #00A7CE;
+$color-medium-hover: #00547A;
+
+$color-gray-lightest: #f1f1f1; // Adding bc used in our $border-light in this file.
+$color-gray-hover   : #fafafa;
+
+// Spacing
+$spacer-margins:  0.5rem;
+$grid-margins:       100px;
+$section-margins:    5rem;
+$paragraph-margins:  1.5rem;
+$paragraph-margins-thick: 3rem;
+$nav-width-extra:    88px; // width needed to add so nav doesn't break on medium-screen size
+$text-max-width:     60.6rem;
+
+// Miscellaneous
+$border-accent-height: 1rem;
+$border-accent:        $border-accent-height solid $color-bright;
+$border-light:         1px solid $color-gray-lightest;
+$border-thick:       4px solid $color-gray-lightest;
+
+// Grid breakpoints
+$tablet-screen: 768px;
+$tablet: new-breakpoint(min-width $tablet-screen 6);
+
+// Icons
+$icon-diameter: 30px;

@@ -1,0 +1,143 @@
+// Footer
+// ==========================
+
+footer[role=contentinfo] {
+  @include padding($site-margins null);
+  background-color: $color-gray-lightest;
+  font-size: $tiny-font-size;
+
+  ul {
+    @include unstyled-list;
+  }
+
+  li {
+    font-weight: $font-bold;
+    line-height: 2.1rem;
+  }
+
+  a {
+    text-decoration: none;
+
+    &:visited {
+      color: $color-medium;
+    }
+
+    &:hover {
+      color: $color-medium-hover;
+    }
+  }
+
+  .usa-sidenav-list {
+    @include unstyled-list;
+
+    > li {
+      border-top-color: $color-gray-lighter;
+      color: $color-medium;
+    }
+
+    a {
+      @include padding(1.25rem null);
+      color: $color-medium;
+      font-size: $h6-font-size;
+
+      &:hover {
+        background-color: $color-gray-lighter;
+      }
+    }
+  }
+
+  .usa-accordion {
+    button {
+      @include padding(1.4rem null 1.4rem 0);
+      background-position: right 0 center;
+    }
+
+    [aria-expanded=false] {
+      background-image: url("../img/global/plus-alt.png");
+      background-image: url("../img/global/plus-alt.svg");
+    }
+
+    [aria-expanded=true] {
+      background-image: url("../img/global/minus-alt.png");
+      background-image: url("../img/global/minus-alt.svg");
+    }
+  }
+
+  button {
+    font-size: $h6-font-size;
+    font-family: $font-sans;
+    font-weight: $font-normal;
+    text-align: left;
+  }
+
+  .usa-accordion-content {
+    background-color: $color-gray-lightest;
+
+    li {
+      border-top: 1px solid $color-gray-lighter;
+    }
+  }
+}
+
+.footer-mobile {
+  @include media($medium-screen) {
+    display: none;
+  }
+
+  button,
+  a,
+  a:hover {
+    padding-left: 0;
+  }
+}
+
+.footer-desktop {
+  display: none;
+
+  @include media($medium-screen) {
+    display: block;
+  }
+}
+
+.footer-logo-links {
+  @include media($medium-screen) {
+    @include span-columns(2);
+  }
+}
+
+
+.footer-links-wrapper {
+  @include media($medium-screen) {
+    @include span-columns(10);
+    @include omega();
+
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.footer-links {
+  margin-top: 1em;
+
+  @include media($medium-screen) {
+    margin-top: 0;
+
+    @include span-columns(2.5);
+  }
+}
+
+.footer-links-heading {
+  font-size: $tiny-font-size;
+  font-weight: $font-normal;
+  margin: 0;
+}
+
+.footer-logo {
+  &:first-child {
+    margin-right: 0.7rem;
+  }
+
+  img {
+    width: 4.4rem;
+  }
+}
