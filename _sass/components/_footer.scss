@@ -31,8 +31,10 @@ footer {
 .footer-links-heading {
   font-size: 1.2rem;
   font-weight: 400;
-  line-height: $lead-line-height;
-  margin: 0;
+
+  @include media($medium-screen) {
+    margin-top: 0;
+  }
 }
 
 .icon-twitter {
