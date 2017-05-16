@@ -1,14 +1,15 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: 0cdb819e6f49854ecb11acb4a5fb8a57b11b3937
+  revision: 1a8a3d68729282992249d55b25fe67d6ac0e9c6d
   specs:
-    uswds-jekyll (1.0.0)
+    uswds-jekyll (1.1.1)
       jekyll (~> 3.4)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.4.0)
+    addressable (2.5.1)
+      public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
@@ -35,6 +36,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)

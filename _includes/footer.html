@@ -1,37 +1,44 @@
-<footer class="usa-footer usa-footer-medium usa-section background-gray-dark" role="contentinfo">
+<footer class="usa-footer usa-section background-medium" role="contentinfo">
   <div class="usa-grid">
     <div class="usa-width-one-half">
+    {% include icons/oes.svg %}
     {% if site.footer.image %}
       <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA">
     {% endif %}
     </div>
     <div class="usa-width-one-sixth">
+      <h2 class="footer-links-heading">Navigate</h2>
       <ul class="usa-unstyled-list">
         <li>
-          <a href="#">link</a>
+          <a href="{{ site.baseurl }}/about/">About</a>
         </li>
         <li>
-          <a href="#">link</a>
+          <a href="{{ site.baseurl }}/approach/">Approach</a>
         </li>
+        <li>
+          <a href="{{ site.baseurl }}/work/">Work</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/team/">Team</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/collaborate/">Collaborate</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/join/">Join</a>
+        </li>
+      </ul>
+    </div>
+    <div class="usa-width-one-sixth">
+      <h2 class="footer-links-heading">Policies</h2>
+      <ul class="usa-unstyled-list">
         <li>
           <a href="#">link</a>
         </li>
       </ul>
     </div>
     <div class="usa-width-one-sixth">
-      <ul class="usa-unstyled-list">
-        <li>
-          <a href="#">link</a>
-        </li>
-        <li>
-          <a href="#">link</a>
-        </li>
-        <li>
-          <a href="#">link</a>
-        </li>
-      </ul>
-    </div>
-    <div class="usa-width-one-sixth">
+      <h2 class="footer-links-heading">Contact</h2>
       <ul class="usa-unstyled-list">
         <li>
           <a href="#">link</a>

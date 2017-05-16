@@ -1,13 +1,25 @@
 // Footer ------------- //
 
 footer {
-  font-size: 12px;
+  font-size: 1.2rem;
 
   a {
     font-family: $font-sans;
     font-weight: $font-bold !important;
     text-decoration: none;
   }
+
+  .logo-icon {
+    float: initial;
+    height: 61px;
+    width: 61px;
+  }
+}
+
+.footer-links-heading {
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0;
 }
 
 .icon-twitter {
