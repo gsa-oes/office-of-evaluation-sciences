@@ -10,7 +10,7 @@ summary: Let's learn what works.
 
 Is your office interested in exploring a collaboration with OES?
 
-Below is a list of questions that can help you start to think about whether your agency challenge may be a good fit for the types of projects our skills are best suited for:
+Below is a list of questions that can help you start to think about whether the challenge you're working on may be a good fit for the types of projects our skills are best suited for:
 
  - Does the program have an outcome of interest that depends in part on people’s actions (e.g., individuals taking up a program, adhering to appointments, providing accurate information)?
  - Does the program contain a clear touchpoint between the individual and program (e.g., a communication channel, a signup point)?
