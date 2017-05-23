@@ -19,7 +19,8 @@
   border-bottom: 0.4rem solid $color-brand;
   padding-bottom: 1rem;
 }
-
+// .usa-nav-primary a.usa-current span
+// .usa-nav .usa-current > span
 // Add correct current nav link style
 .usa-nav {
   @include media($nav-width) {
@@ -33,15 +34,13 @@
       @include media($nav-width) {
         border-left: 0;
       }
-    }
-  }
 
-  .usa-current {
-    > span {
-      color: $color-base;
+      > span {
+        color: $color-base;
 
-      @include media($nav-width) {
-        @include nav-border;
+        @include media($nav-width) {
+          @include nav-border;
+        }
       }
     }
   }

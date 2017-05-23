@@ -1,0 +1,49 @@
+// Footer ------------- //
+
+footer {
+  font-size: 1.2rem;
+
+  a {
+    font-family: $font-sans;
+    font-weight: $font-bold !important;
+    text-decoration: none;
+  }
+
+  .logo-icon {
+    float: initial;
+    height: 61px;
+    width: 61px;
+  }
+}
+
+.footer-logo-links {
+  @include media($medium-screen) {
+    @include span-columns(6);
+  }
+}
+
+.footer-links {
+  @include media($medium-screen) {
+    @include span-columns(2);
+  }
+}
+
+.footer-links-heading {
+  font-size: 1.2rem;
+  font-weight: 400;
+
+  @include media($medium-screen) {
+    margin-top: 0;
+  }
+}
+
+.icon-twitter {
+  margin-right: 10px;
+}
+
+.usa-footer-logo-img {
+  @include media($medium-screen) {
+    // float: right;
+    margin-top: -60px;
+  }
+}
