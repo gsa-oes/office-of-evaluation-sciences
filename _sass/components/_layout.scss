@@ -10,12 +10,12 @@
 // Add top + bottom padding to main's
 body:not(.page-home) {
   main {
-//    @include padding(6rem null);
+//    @include padding(3rem null);
   }
 }
 
 .main-content {
-  @include padding(6rem null);
+  @include padding(3rem null);
 }
 
 .page--banner {
