@@ -8,7 +8,7 @@ domain:
 agency:
   - Environmental Protection
   - US Global Change Research Program
-home: Government
+home: Non-profit
 title: Fellow
 ---
 
