@@ -7,7 +7,7 @@ domain:
 agency:
   - Agriculture
   - Health and Human Services
-home: Government
+home: University
 title: Fellow
 ---
 
