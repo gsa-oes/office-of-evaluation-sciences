@@ -9,7 +9,7 @@ agency:
   - Defense
   - Health and Human Services
   - Veterans Affairs
-home: Government
+home: Non-profit
 title: Fellow
 ---
 
