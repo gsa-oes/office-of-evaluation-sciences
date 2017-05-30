@@ -31,6 +31,6 @@ Find these useful? Have suggestions for improvement? We look forward to <a href=
   - OES Guide to Research Integrity
   - OES Project Review Document
   - OES Project Design Document
-  - OES Project Analysis
+  - OES Project Analysis Document
   - OES Abstract Template
   - Minimum Detectable Effect Calculator
