@@ -1,0 +1,13 @@
+primary:
+  - text: About
+    href: /about/
+  - text: Approach
+    href: /approach/
+  - text: Work
+    href: /work/
+  - text: Team
+    href: /team/
+  - text: Collaborate
+    href: /collaborate/
+  - text: Join
+    href: /join/  

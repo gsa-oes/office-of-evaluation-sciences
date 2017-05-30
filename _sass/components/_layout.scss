@@ -1,0 +1,100 @@
+// Layout ------------- //
+
+// Single column page
+.page-single-column {
+  .usa-content {
+    max-width: 66ch;
+  }
+}
+
+// Add top + bottom padding to main's
+body:not(.page-home) {
+  main {
+//    @include padding(3rem null);
+  }
+}
+
+.main-content {
+  @include padding(3rem null);
+}
+
+.page--banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 300px;
+  width: 100%;
+}
+
+@mixin background-dark {
+  color: $color-white;
+  -webkit-font-smoothing: antialiased;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    color: $color-white;
+  }
+
+  .section-heading {
+    color: $color-primary-alt;
+  }
+
+  a {
+    color: $color-white;
+
+    &:hover {
+      color: $color-gray-light;
+
+      path {
+        fill: $color-gray-light;
+      }
+    }
+  }
+
+  input,
+  textarea,
+  select {
+    border-color: $color-white;
+  }
+}
+
+.background-medium {
+  @include background-dark;
+  background-color: $color-brand-medium;
+}
+
+.background-gray-dark {
+  @include background-dark;
+  background-color: $color-gray-dark;
+}
+
+.background-brand-dark {
+  @include background-dark;
+  background-color: $color-brand-dark;
+}
+
+.background-light {
+  background-color: $color-brand-light;
+
+  .usa-button {
+    background-color: $color-brand-dark;
+  }
+}
+
+.single-sidebar {
+  font-family: $font-sans;
+
+  h3 + p {
+    margin-top: 0;
+  }
+
+  h3 {
+    color: $color-primary-darker;
+  }
+}
+

@@ -1,36 +1,33 @@
-<section class="banner contact">
+<div class="banner contact">
   <div class="usa-grid">
   {% for form in site.forms %}
     {% if form.type == 'newsletter' %}
       {% assign f = form %}
     {% endif %}
   {% endfor %}
-
-  <form id="contact" action="{{ f.url }}" method="POST">
-    <fieldset>
-      <legend>Sign up to receive updates from OES</legend>
-      <div class="usa-width-one-half">
+    <div class="usa-width-two-thirds contact-form">
+      <form id="contact" action="{{ f.url }}">
+        <h2>What's new at OES?</h2>
+        <p>Sign up to receive updates on results released and opportunities to work with the team by filling out our interest form.</p>
         {% for field in f.fields %}
-          {% unless field.type == 'hidden' %}<label for="contact-{{ field.name }}">{{ field.label }}</label>{% endunless %}
-          <input id="contact-{{ field.name }}"
+          {% unless field.type == 'hidden' %}
+            <label for="contact-{{ field.name }}">{{ field.label }}</label>
+          {% endunless %}
+          <input class="contact-input" id="contact-{{ field.name }}"
             name="{{ field.name }}" type="{{ field.type }}"
             {% if field.value %} value="{{ field.value }}" {% endif %}>
         {% endfor %}
-        <div class="usa-input-buttons-inline">
-          <input type="submit" value="{{ f.button }}">
-        </div>
+          <input class="usa-button" type="submit" value="{{ f.button }}">
       </div>
-      <div class="usa-width-one-half" style="margin-top: 3rem;">
+      <div class="usa-width-one-third privacy-policy">
         {% if f.privacypolicy %}
-          <p>Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a></p>
+          {% include icons/privacy.svg %}
+          <h3 class="h4">Your privacy and security are important to us.</h3>
+          <p class="font-small">We’ll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
         {% else %}
           <p></p>
         {% endif %}
-      </div>
-
-
-    </fieldset>
-
-  </form>
+      </form>
+    </div>
   </div>
-</section>
+</div>

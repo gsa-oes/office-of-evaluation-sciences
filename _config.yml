@@ -1,65 +1,73 @@
 # Site settings
 title: Office of Evaluation Sciences
-description: The Office of Evaluation Sciences (OES) brings diverse scientific expertise to Federal agencies to apply insights about human behavior to improve Government’s interactions with people, test and learn what works using rigorous methods.
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: The Office of Evaluation Sciences (OES) is a team of applied experts based at the General Services Administration (GSA) that combines academic expertise with experience implementing and evaluating evidence-based program changes to quickly learn what works, what works best, and what does not work.
 url: "https://oes.gsa.gov" # the base hostname & protocol for your site
 logo: /assets/img/logos/logo-name.png
 feature_image: /assets/img/Kites-small.jpg
+permalink: pretty
+
+# Site theme
+theme: uswds-jekyll
+
+# Styles
+styles:
+  - /assets/css/main.css
+
+# Collections
+collections:
+  projects:
+    output: true
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: project-single
+  - scope:
+      path: ''
+      type: team
+    values:
+      layout: team-single
 
 colors:
-  background: '#fdfdfd'
-  button:
-    background: '#126ca7'
-    hover: '#134050'
-    text: '#fff'
-  headers: '#126ca7'
-  text: '#000000'
-  projects:
-    accent: 'rgb(249, 131, 74)'
-  contact:
-    background: '#126ca7'
-    text: '#fff'
-    button:
-      background: '#f2c446'
-      text: '#134050'
-  footer:
-    background: '#999999'
-    text: '#fff'
+  primary: '#0071bc'
 
 analytics:
   google:
     code: 'UA-67580537-1'
   dap:
     agency: GSA
-    subagency: SBST
+    subagency: OES
+
+footer:
+  image: /assets/img/icons/gsa-white.svg
+  email: oes@gsa.gov
+  twitter:
+    - usgsa
+  text:
 
 forms:
 - type: newsletter
-  url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
-  button: Subscribe
+  url: https://goo.gl/forms/VgSGvpAZZn61oxy62
+  button: Sign up
   privacypolicy:
     name: GSA Privacy and Security Notice
     url: https://gsa.gov
   fields:
-    - type: email
-      name: entry.1440502332
-      label: Email Address
     - type: hidden
       name: fbzx
       value: -7861934959779167198
 
-footer:
-  image: /assets/img/gsa-logo-dark.jpg
-  email: oes@gsa.gov
-  twitter:
-    - usgsa
-  text:  
 
 # Build settings
-markdown: kramdown
 include:
   - _navigation.json
 exclude:
   - CONTRIBUTING.md
   - LICENSE.md
   - README.md
+  - Gemfile
+  - Gemfile.lock

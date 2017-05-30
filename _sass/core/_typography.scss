@@ -1,0 +1,55 @@
+// Typography ------------- //
+
+$font-body: $font-serif;
+
+html {
+  font-family: $font-body;
+}
+
+body {
+  font-size: 1.5rem;
+
+  @include media($medium-screen) {
+    font-size: $base-font-size;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.usa-logo,
+.usa-banner {
+  font-family: $font-headings;
+}
+
+h1 {
+  font-weight: $font-heavy;
+}
+
+.font-small {
+  font-size: $small-font-size;
+}
+
+.h4 {
+  font-size: $h4-font-size;
+}
+
+.usa-content {
+  p:not(.usa-font-lead),
+  ul:not(.usa-accordion) {
+      max-width: 66ch;
+  }
+}
+
+.usa-content {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $color-primary-darker;
+  }
+}

@@ -1,0 +1,17 @@
+---
+name: Russ Burnett
+image: /assets/img/team/russ_burnett.jpg
+year:
+  - 2016
+  - 2017
+agency:
+   - Defense
+   - Transportation
+   - Veterans Affairs
+home: Government
+title: 
+ - Fellow
+ - Research Integrity
+---
+
+Russ Burnett divides his time between project work and serving as OES’s Research Integrity Fellow, supporting the team’s commitment to reliable, reproducible, and transparent methods. He is a cognitive psychologist with a research background in judgment and decision making, causal reasoning, and culture and cognition. Prior to joining OES, he worked as a general social scientist at the Government Accountability Office (GAO), where he advised on research design and methods and conducted analysis for projects on a variety of federal programs and policies. Russ has also worked as a survey methodologist for government and private-sector clients. He has a Ph.D. in cognitive psychology from Northwestern University and has also worked as a postdoctoral researcher at Yale University and Hebrew University. 

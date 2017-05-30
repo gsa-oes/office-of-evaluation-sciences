@@ -1,0 +1,31 @@
+---
+layout: page
+class: page-project-single
+---
+<p class="image-credit">
+  {% if page.image-credit %}
+  <a href="{{ page.image-credit }}" target="_blank">Photo credit</a> (Creative Commons)
+  {% endif %}
+</p>
+
+<div class="usa-width-two-thirds">
+  {{ content }}
+</div>
+<div class="usa-width-one-third single-sidebar">
+{% if page.year %}
+  <h3 class="h4">Year</h3>
+  <p>{{ page.year }}</p>
+{% endif %}
+{% if page.agency %}
+  <h3 class="h4">Agency</h3>
+  <p>{{ page.agency }}</p>
+{% endif %}
+{% if page.domain %}
+  <h3 class="h4">Domain</h3>
+  <p>{{ page.domain }}</p>
+{% endif %}
+{% if page.abstract %}
+  <h3 class="h4">Resources</h3>
+  <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
+{% endif %}
+</div>
