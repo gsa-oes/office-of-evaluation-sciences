@@ -3,7 +3,7 @@ title: Improving Capacity of Federal Managers through Project Management
 permalink: /projects/project-management/
 tags: project
 image: /assets/img/project-images/project-management.png
-image-credit: Jen Lin, Communications Specialist, People Operations, Google (Hyperlink https://www.forbes.com/sites/meghancasserly/2013/07/17/google-management-is-evil-harvard-study-startups/#1e9b47e95ddb)
+image-credit: <a href="https://www.forbes.com/sites/meghancasserly/2013/07/17/google-management-is-evil-harvard-study-startups/#1e9b47e95ddb">Jen Lin, Communications Specialist, People Operations</a>
 abstract: /assets/abstracts/1702-Project-MGMT.pdf
 year: 2017
 domain: Government Efficiency
