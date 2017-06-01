@@ -1,5 +1,5 @@
 ---
-title: Improving Capacity of Federal Managers through Project Managemente
+title: Improving Capacity of Federal Managers through Project Management
 permalink: /projects/project-management/
 tags: project
 image: /assets/img/project-images/project-management.png
