@@ -13,7 +13,7 @@ summary: A 16-week training course for Federal Supervisors shows potential to im
 ---
 ## What was the challenge?
 
-Responses to OPM's 2015 Federal Employee Viewpoint Survey (FEVS) suggest that improvement is still needed to achieve high employee engagement and satisfaction. Improving the quality of first-level supervision and the direct relationship between an employee and manager is one of the most effective ways to improve organizational culture and performance. The PIC designed a 16-week self-paced training course for Federal managers based off of best practices including Google’s tested <a href="https://rework.withgoogle.com/subjects/managers/"> Project Oxygen</a>.
+Responses to OPM's 2015 Federal Employee Viewpoint Survey (FEVS) suggest that improvement is still needed to achieve high employee engagement and satisfaction. Improving the quality of first-level supervision and the direct relationship between an employee and manager is one of the most effective ways to improve organizational culture and performance. The <a href="https://www.pic.gov/"> Performance Improvement Council</a> (PIC) designed a 16-week self-paced training course for Federal managers based off of best practices including Google’s tested <a href="https://rework.withgoogle.com/subjects/managers/"> Project Oxygen</a>.
 
 ## What was the program change?
 
