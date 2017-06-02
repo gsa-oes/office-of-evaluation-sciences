@@ -16,7 +16,7 @@ class: page-project-single
   <h3 class="h4">Year</h3>
   <p>{{ page.year }}</p>
 {% endif %}
-{% if page.agency %}
+{% if page.agency | join: ', ' %}
   <h3 class="h4">Agency</h3>
   <p>{{ page.agency }}</p>
 {% endif %}
