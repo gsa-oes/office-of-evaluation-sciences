@@ -16,9 +16,9 @@ class: page-project-single
   <h3 class="h4">Year</h3>
   <p>{{ page.year }}</p>
 {% endif %}
-{% if page.agency | join: ', ' %}
+{% if page.agency %}
   <h3 class="h4">Agency</h3>
-  <p>{{ page.agency }}</p>
+  <p>{{ page.agency  | join: ', ' }}</p>
 {% endif %}
 {% if page.domain %}
   <h3 class="h4">Domain</h3>
