@@ -12,9 +12,9 @@ TO CREATE A PAGE
   - a shorthand project title, with any words separated by dashes (not spaces)
   - ".md" to ensure the page formats correctly
   - EXAMPLE: 1619-active-choice-tsp.md
-6) copy and paste in the text below, being sure to include the three dashes (---) in line 1. the text following the colons (:) below has been maintained as an example, and additional notes have been provided following the arrows <<--.
+6) copy and paste the text below the numbered list (beginning with ---, being sure to include the three dashes (---) in line 1) into the new page you created in the separate tab. NOTE: the text following the colons (:) below has been maintained as an example, and additional notes have been provided following the arrows <<--.
 7) Per instructions next to the arrows (<<--), update information for your project and paste in content from project slide where instructed
-8) remove all notes pasted in to the form
+8) remove all notes pasted in to the form (including <<-- and comments)
 9) scroll down to the radio buttons and select "Create a new branch"
 10) name the branch with your project number
 11) commit changes
