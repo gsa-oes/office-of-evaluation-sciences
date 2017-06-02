@@ -1,0 +1,51 @@
+Steps to create a new project and post to the website:
+
+TO CREATE A PAGE
+1) choose a picture that will be the thumbnail and header phonto on Government owned or creative commons flickr sites, save it, save the image credit (link to the photographer's flickr site), name it as the project number, upload into assets/img/project-images/
+  - leave this window open in a separate tab for easy copy/pasting later
+2) upload abstract into /assets/abstracts/, name it beginning with the project number and the project title, with dashes (-) between words - DO NOT use spaces
+  - leave this window open in a separate tab for easy copy/pasting later
+3) have two windows/tabs open - this instructional readme, and then the _projects folder on github
+4) click "create new file" in the uper right corner
+5) in the text box following /assets/_projects/, enter in:
+  - the project number (all four digits), followed by a dash
+  - a shorthand project title, with any words separated by dashes (not spaces)
+  - ".md" to ensure the page formats correctly
+  - EXAMPLE: 1619-active-choice-tsp.md
+6) copy and paste in the text below, being sure to include the three dashes (---) in line 1. the text following the colons (:) below has been maintained as an example, and additional notes have been provided following the arrows <<--.
+7) Per instructions next to the arrows (<<--), update information for your project and paste in content from project slide where instructed
+8) remove all notes pasted in to the form
+9) scroll down to the radio buttons and select "Create a new branch"
+10) name the branch with your project number
+11) commit changes
+12) email Amira and Mo to let us know you have built the page for our review
+
+
+---
+title: Increasing TSP Enrollment Rates through Active Choice <<-- full title, can include spaces
+permalink: /projects/active-choice-tsp/ <<-- what you want the end of the hyperlink to appear as on the real website
+tags: project  <<-- do not remove
+image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
+abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
+year: 2016  <<-- update the year
+domain: Retirement Security  <<-- update the project domain from the Project Tracker
+agency: Defense  <<-- update the agency from the project tracker, but check the OES website on the work page to see how we have chosen to abbreviate for the purpose of filters (e.g., USDA is Agriculture)
+summary: Presenting TSP enrollment as an active choice during in-processing increased enrollment by 6-7%.  <<-- develop short teaser of project impact to become the intro on the main page, and header on the project page
+---
+## What was the challenge?
+
+[PASTE IN FROM PROJECT SLIDE]
+
+## What was the program change?
+
+[PASTE IN FROM PROJECT SLIDE]
+
+## How did the evaluation work?
+
+[PASTE IN FROM PROJECT SLIDE]
+
+## What was the impact?
+
+[PASTE IN FROM PROJECT SLIDE]
+
