@@ -9,7 +9,7 @@ year: 2016
 domain: Education
 agency: Education
 impact:
-summary: Emails increased Public Service Loan Forgiveness form submissios three-fold without increasing the error rate.
+summary: Emails increased Public Service Loan Forgiveness form submissions three-fold without increasing the error rate.
 ---
 ## What was the challenge?
 
