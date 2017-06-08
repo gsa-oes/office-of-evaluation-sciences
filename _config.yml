@@ -37,7 +37,7 @@ colors:
 
 analytics:
   google:
-    code: 'UA-67580537-1'
+    code: 
   dap:
     agency: GSA
     subagency: OES
