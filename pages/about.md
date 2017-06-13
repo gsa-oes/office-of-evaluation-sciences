@@ -5,7 +5,7 @@ permalink: /about/
 image:
 image_full: true
 class:
-summary: The private sector quickly learns what does not work, what works, and what works most cost-effectively - government should, too.
+summary: We help the government learn what works, what does not work, and what works most cost-effectively.
 ---
 ## What is the Office of Evaluation Sciences?
 
