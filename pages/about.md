@@ -11,7 +11,7 @@ summary: We help the government learn what works, what does not work, and what w
 
 The Office of Evaluation Sciences (OES) brings diverse scientific expertise to Federal agencies and translates research insights into concrete recommendations for how to improve Federal programs, policies, and operations. OES then collaborates with agencies to implement, rigorously test, and evaluate the impact of these changes.
 
-Based at the General Services Administration (GSA), OES supports GSA’s Office of Government-wide Policy’s mission to serve agencies by helping them to “use policies, evidence, and analysis to drive efficiency, savings, and improved mission performance.”
+Based at the General Services Administration (GSA), OES supports GSA’s Office of Government-wide Policy’s mission to serve agencies by helping them to use policies, evidence, and analysis to drive efficiency, savings, and improved mission performance.
 
 ## What does OES do?
 
