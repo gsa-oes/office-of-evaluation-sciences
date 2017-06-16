@@ -21,8 +21,8 @@ OES redesigned ballot materials applying research insights, including clarifying
 
 ## How did the evaluation work?
 
-1,399,307 voters received one of the two redesigned ballot materials, or received no mailings. 
+1,399,307 voters received postcard reminders, redesigned ballots and envelopes listing the names of the candidates, or the older versions of the envelopes and ballots (and no postcards).
 
 ## What was the impact?
 
-Households that received either an enhanced ballot or postcard showed a 2.9% increase in participation in COC elections. .
+Households that received both an enhanced ballot and postcards showed a 2.9% increase in participation in COC elections over the older envelopes and ballots.
