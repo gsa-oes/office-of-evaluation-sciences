@@ -1,24 +1,31 @@
 Steps to create a new project and post to the website:
 
 TO CREATE A PAGE
-1) choose a picture that will be the thumbnail and header phonto on Government owned or creative commons flickr sites, save it, save the image credit (link to the photographer's flickr site), name it as the project number, upload into assets/img/project-images/
+1) Search on Flickr.com (using only "US Government work" or "No known copyrights" as the license filter in the top left corner
+   to choose a picture that will be the thumbnail and header phonto, save the image to your desktop with your project number as
+   the file name, note the image credit (link to the photographer's flickr site) for later use, and then upload the saved image
+   into assets/img/project-images/ on this github site.
+   - leave this window open in a separate tab for easy copy/pasting later
+2) upload abstract into /assets/abstracts/, name it beginning with the project number and the project title, with dashes (-)
+   between words - DO NOT use spaces in the file name
   - leave this window open in a separate tab for easy copy/pasting later
-2) upload abstract into /assets/abstracts/, name it beginning with the project number and the project title, with dashes (-) between words - DO NOT use spaces
-  - leave this window open in a separate tab for easy copy/pasting later
-3) have two windows/tabs open - this instructional readme, and then the _projects folder on github
-4) click "create new file" in the uper right corner
-5) in the text box following /assets/_projects/, enter in:
+3) In a new tab, open the _projects folder on github from the main oes repository
+4) In the _projects folder, click "create new file" in the uper right corner
+5) Once the new page opens, in the text box after "/assets/_projects/", type in:
   - the project number (all four digits), followed by a dash
   - a shorthand project title, with any words separated by dashes (not spaces)
   - ".md" to ensure the page formats correctly
   - EXAMPLE: 1619-active-choice-tsp.md
-6) copy and paste the text below the numbered list (beginning with ---, being sure to include the three dashes (---) in line 1) into the new page you created in the separate tab. NOTE: the text following the colons (:) below has been maintained as an example, and additional notes have been provided following the arrows <<--.
-7) Per instructions next to the arrows (<<--), update information for your project and paste in content from project slide where instructed
-8) remove all notes pasted in to the form (including <<-- and comments)
-9) scroll down to the radio buttons and select "Create a new branch"
-10) name the branch with your project number
-11) commit changes
-12) email Amira and Mo to let us know you have built the page for our review
+6) In the blank text box of the new page you created, copy and paste the text below, beginning with line 31-line 58 (be sure to include the ---,
+   into the new page you created in the separate tab. ((( NOTE: the text following the colons (:) below has been maintained as an
+   example, and additional notes have been provided following the arrows <<--. This text will need to be removed in your new page.)))
+7) Per instructions given to the right of the arrows (<<--), update information for your project and paste in content from project
+   slide where instructed (the headers are the same, so the body content will need to be inserted).
+8) Eemove all notes pasted in to the form (including <<-- and comments)
+9) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
+10) Name the branch with your project number
+11) Commit changes
+12) Email Amira and Mo to let us know you have built the page for our review
 
 
 ---
