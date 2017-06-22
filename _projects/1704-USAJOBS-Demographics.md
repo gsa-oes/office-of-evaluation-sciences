@@ -1,0 +1,26 @@
+title: Increasing Voluntary Submission of Demographics Information with USAJOBS Applications
+permalink: /projects/USAJOBS-demographics/
+tags: project 
+image: /assets/img/project-images/1704.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image-credit: https://www.flickr.com/photos/usdagov/32720043080/
+abstract: /assets/abstracts/1704-Increasing-Voluntary-Submission-of-Demographics-Information-with-USAJOBS-Applications.pdf
+year: 2017
+domain: Government Operations
+agency: Office of Personnel Management
+summary: Combination of default settings and simplified language increases voluntary submission of demographics information by 19%.
+---
+## What was the challenge?
+
+The Federal hiring platform USAJOBS does not require applicants to submit demographic information. This lack of data leads to knowledge gaps regarding Federal hiring and diversity and inclusion. Increased knowledge of applicant demographics received via USAJOBS would enable agencies to better meet hiring needs.
+
+## What was the program change?
+
+OPM and OES implemented two main structural changes to USAJOBS: 1) applicants are prompted to voluntarily opt-out of submitting demographic information instead of voluntarily opting-in to submit demographic information, and 2) applicants receive simplified language about why USAJOBS collects demographic info.
+
+## How did the evaluation work?
+
+Roughly 2.6 million applicants were randomly assigned to one of four variants: V1- No change (Control), V2- Voluntary opt-out of demographics submission, V3- Voluntary opt-in + simplified language, and V4- Voluntary opt-out + simplified language
+
+## What was the impact?
+
+Variants that allowed applicants to voluntarily opt-out of providing demographics were most effective in increasing the submission of demographic information. Additionally, providing simplified language on how this information was used in V4 proved most effective. On average, users in V1 submitted demographics with 59.3% of their applications: this number was 9.4 percentage points higher for the average applicant in V2, and 11.3 percentage points higher for the average applicant in V4.
