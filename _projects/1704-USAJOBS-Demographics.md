@@ -25,3 +25,4 @@ Roughly 2.6 million applicants were randomly assigned to one of four variants: V
 ## What was the impact?
 
 Variants that allowed applicants to voluntarily opt-out of providing demographics were most effective in increasing the submission of demographic information. Additionally, providing simplified language on how this information was used in V4 proved most effective. On average, users in V1 submitted demographics with 59.3% of their applications: this number was 9.4 percentage points higher for the average applicant in V2, and 11.3 percentage points higher for the average applicant in V4.
+
