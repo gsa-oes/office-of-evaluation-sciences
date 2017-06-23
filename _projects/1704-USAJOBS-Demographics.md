@@ -4,7 +4,7 @@ permalink: /projects/USAJOBS-demographics/
 tags: project 
 image: /assets/img/project-images/1704.jpg 
 image-credit: https://www.flickr.com/photos/usdagov/32720043080/
-abstract: /assets/abstracts/1704-Increasing-Voluntary-Submission-of-Demographics-Information-with-USAJOBS-Applications.pdf
+abstract: /assets/abstracts/1704_Abstract_website.pdf
 year: 2017
 domain: Government Operations
 agency: Office of Personnel Management
