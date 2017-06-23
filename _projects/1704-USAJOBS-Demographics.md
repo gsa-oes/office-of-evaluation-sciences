@@ -1,13 +1,14 @@
+---
 title: Increasing Voluntary Submission of Demographics Information with USAJOBS Applications
 permalink: /projects/USAJOBS-demographics/
 tags: project 
-image: /assets/img/project-images/1704.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image: /assets/img/project-images/1704.jpg 
 image-credit: https://www.flickr.com/photos/usdagov/32720043080/
 abstract: /assets/abstracts/1704-Increasing-Voluntary-Submission-of-Demographics-Information-with-USAJOBS-Applications.pdf
 year: 2017
 domain: Government Operations
 agency: Office of Personnel Management
-summary: Combination of default settings and simplified language increases voluntary submission of demographics information by 19%.
+summary: The combination of default settings and simplified language increases voluntary submission of demographics information by 19%.
 ---
 ## What was the challenge?
 
