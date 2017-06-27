@@ -12,7 +12,11 @@ class: page-library-single
   {{ content }}
 </div>
 <div class="usa-width-one-third single-sidebar">
-{% if page.bottlenecks %}
+{% if page.year %}
+  <h3 class="h4">Year</h3>
+  <p>{{ page.year }}</p>
+{% endif %}
+  {% if page.bottlenecks %}
   <h3 class="h4">Behavioral Bottlenecks</h3>
   <p>{{ page.bottlenecks }}</p>
 {% endif %}
