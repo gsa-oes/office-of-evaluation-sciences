@@ -1,13 +1,53 @@
 ---
 title: 
-permalink: /library/
+permalink: /template/
 tags: library 
-bottlenecks: Attention Motivation Comprehension Choice Implementation
-delivery: Email Letter Text Phone Form Website Label In-person Structural
-interventions: Simplification Visual-format Framing Anchoring Choice-design Action-steps Reminders Timing Commitment Social-Norms Messenger Personalization Cost/Benefit Education Incentives
-outcomes: Engagement Action Accuracy Chouice 
-domain: Health Retirement-Security Environment Education Economic-Opportunity Government-Operations International-Development Justice
-
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Comprehension 
+  - Choice 
+  - Implementation
+delivery: 
+  - Email 
+  - Letter 
+  - Text 
+  - Phone 
+  - Form 
+  - Website 
+  - Label 
+  - In-person 
+  - Structural Change
+interventions: 
+  - Simplification 
+  - Visual Format 
+  - Framing 
+  - Anchoring 
+  - Choice Design 
+  - Action Steps 
+  - Reminders 
+  - Timing 
+  - Commitment 
+  - Social-Norms 
+  - Messenger 
+  - Personalization 
+  - Cost/Benefit 
+  - Education 
+  - Incentives
+outcomes: 
+  - Engagement 
+  - Action 
+  - Accuracy 
+  - Choice 
+domain: 
+  - Health 
+  - Retirement Security 
+  - Environment 
+  - Education 
+  - Economic Opportunity
+  - Government Operations
+  - International Development 
+  - Justice
 ---
 ## Abstract Summary
 
