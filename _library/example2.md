@@ -28,7 +28,7 @@ interventions:
   - Reminders 
   - Timing 
   - Commitment 
-  - Social-Norms 
+  - Social Norms 
   - Messenger 
   - Personalization 
   - Cost/Benefit 
