@@ -3,7 +3,7 @@ title:
 permalink: /library/
 tags: project (UPDATE THIS)
 bottlenecks: Attention Motivation Comprehension Choice Implementation
-delivery-mechanism: Email Letter Text Phone Form Website Label In-person Structural
+delivery: Email Letter Text Phone Form Website Label In-person Structural
 interventions: Simplification Visual-format Framing Anchoring Choice-design Action-steps Reminders Timing Commitment Social-Norms Messenger Personalization Cost/Benefit Education Incentives
 outcomes: Engagement Action Accuracy Chouice 
 domain: Health Retirement-Security Environment Education Economic-Opportunity Government-Operations International-Development Justice
