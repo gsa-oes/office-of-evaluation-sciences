@@ -19,6 +19,8 @@ collections:
     output: true
   team:
     output: true
+  library:
+    output: true
 
 defaults:
   - scope:
@@ -31,6 +33,11 @@ defaults:
       type: team
     values:
       layout: team-single
+  - scope:
+      path: ''
+      type: library
+    values:
+      layout: library-single
 
 colors:
   primary: '#0071bc'
