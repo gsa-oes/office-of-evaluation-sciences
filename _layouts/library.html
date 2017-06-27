@@ -1,0 +1,27 @@
+---
+layout: page
+filters:
+  - key: bottlenecks
+    title: Behavioral Bottlenecks
+    multiple: true
+  - key: delivery
+    title: Delivery Mechanism
+    multiple: true
+  - key: interventions
+    title: Interventions
+    multiple: true
+  - key: outcomes
+    title: Outcomes
+    multiple: true
+  - key: domain
+    title: Domain
+    multiple: true
+scripts:
+  - src: /assets/js/filters.js
+---
+
+{{ content }}
+
+{% include filter.html items=site.projects filters=layout.filters %}
+
+{% include projects.html %}
