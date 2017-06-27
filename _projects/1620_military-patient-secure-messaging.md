@@ -3,7 +3,7 @@ title: Increasing Military Patient Use of Secure Messaging
 permalink: /projects/militar-secure-messaging/
 tags: project
 image: /assets/img/project-images/1620.jpg 
-image-credit: https://www.flickr.com/photos/usnavy/5781685267/
+image-credit: https://pixabay.com/photo-1149148/
 abstract: /assets/abstracts/1620_DHASecureMessagingAbstract-Intervention1.pdf
 year: 2016 
 domain: Health 
