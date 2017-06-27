@@ -13,7 +13,7 @@
     display: flex;
     flex-direction: column;
     margin-right: 2.3%;
-    min-height: 450px;
+    min-height: 350px;
     width: 31%;
   }
 
@@ -40,14 +40,6 @@
   @include media($medium-screen) {
     flex: 1 0 auto;
   }
-}
-
-.library-card-image {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  min-height: 200px;
-  width: 100%;
 }
 
 .library-card-description.library-card-description {
