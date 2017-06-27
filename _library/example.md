@@ -1,5 +1,6 @@
 ---
 title: example
+summary: examples
 tags: library
 image: 
 permalink: /example/ 
