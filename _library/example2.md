@@ -2,6 +2,7 @@
 title: example 2, all available tags
 permalink: /template/
 tags: library 
+year: 2017
 bottlenecks: 
   - Attention 
   - Motivation
@@ -54,10 +55,6 @@ domain:
 [Paste in from abstract]
 
 ## Author(s)
-
-[Paste in from abstract]
-
-## Year Published
 
 [Paste in from abstract]
 
