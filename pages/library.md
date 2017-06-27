@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: library
 title: Library
 permalink: /library/
 image:
