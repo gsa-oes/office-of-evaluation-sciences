@@ -12,15 +12,15 @@ summary: The combination of default settings and simplified language increases v
 ---
 ## What was the challenge?
 
-The Federal hiring platform USAJOBS does not require applicants to submit demographic information. This lack of data leads to knowledge gaps regarding Federal hiring and diversity and inclusion. Increased knowledge of applicant demographics received via USAJOBS would enable agencies to better meet hiring needs.
+The Federal hiring platform USAJOBS does not require applicants to submit demographic information. This lack of data can lead to knowledge gaps regarding Federal hiring, diversity and inclusion. Increased knowledge of applicant demographics received via USAJOBS would enable agencies to better meet hiring needs.
 
 ## What was the program change?
 
-OPM and OES implemented two main structural changes to USAJOBS: 1) applicants are prompted to voluntarily opt-out of submitting demographic information instead of voluntarily opting-in to submit demographic information, and 2) applicants receive simplified language about why USAJOBS collects demographic info.
+OPM and OES implemented two main structural changes to USAJOBS: 1) applicants were prompted to voluntarily opt-out of submitting demographic information instead of voluntarily opting-in to submit demographic information, and 2) applicants receive simplified language about why USAJOBS collects demographic information.
 
 ## How did the evaluation work?
 
-Roughly 2.6 million applicants were randomly assigned to one of four variants: V1- No change (Control), V2- Voluntary opt-out of demographics submission, V3- Voluntary opt-in + simplified language, and V4- Voluntary opt-out + simplified language
+Roughly 2.6 million applicants were randomly assigned to one of four variants: V1- No change (Control), V2- Voluntary opt-out of demographics submission, V3- Voluntary opt-in + simplified language, and V4- Voluntary opt-out + simplified language.
 
 ## What was the impact?
 
