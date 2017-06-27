@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: /library/
-tags: project (UPDATE THIS)
+tags: library 
 bottlenecks: Attention Motivation Comprehension Choice Implementation
 delivery: Email Letter Text Phone Form Website Label In-person Structural
 interventions: Simplification Visual-format Framing Anchoring Choice-design Action-steps Reminders Timing Commitment Social-Norms Messenger Personalization Cost/Benefit Education Incentives
