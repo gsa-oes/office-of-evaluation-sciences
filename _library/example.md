@@ -3,7 +3,8 @@ title: example
 summary: examples
 tags: library
 image: 
-permalink: /example/ 
+permalink: /example/
+year: 2017
 bottlenecks: 
   - Attention 
 delivery: 
@@ -21,10 +22,6 @@ domain:
 [Paste in from abstract]
 
 ## Author(s)
-
-[Paste in from abstract]
-
-## Year Published
 
 [Paste in from abstract]
 
