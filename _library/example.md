@@ -1,5 +1,6 @@
 ---
 title: example
+tags: library
 permalink: /example/ 
 bottlenecks: 
   - Attention 
