@@ -18,11 +18,11 @@ class: page-library-single
 {% endif %}
   {% if page.bottlenecks %}
   <h3 class="h4">Behavioral Bottlenecks</h3>
-  <p>{{ page.bottlenecks }}</p>
+  <p>{{ page.bottlenecks  | join: ', ' }}</p>
 {% endif %}
 {% if page.delivery %}
   <h3 class="h4">Delivery Mechanism</h3>
-  <p>{{ page.delivery }}</p>
+  <p>{{ page.delivery  | join: ', ' }}</p>
 {% endif %}
 {% if page.interventions %}
   <h3 class="h4">Interventions</h3>
@@ -30,10 +30,10 @@ class: page-library-single
 {% endif %}
 {% if page.outcomes %}
   <h3 class="h4">Outcomes</h3>
-  <p>{{ page.outcome }}</p>
+  <p>{{ page.outcomes  | join: ', ' }}</p>
 {% endif %}
 {% if page.domain %}
   <h3 class="h4">Domain</h3>
-  <p>{{ page.domain }}</p>
+  <p>{{ page.domain  | join: ', ' }}</p>
 {% endif %}
 </div>
