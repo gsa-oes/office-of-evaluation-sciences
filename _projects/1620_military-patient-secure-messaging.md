@@ -25,5 +25,5 @@ Patient registration for secure messaging at the NHCL Family Medicine Clinic was
 
 ## What was the impact?
 
-We estimate that the intervention was associated with an additional 224 patients registering in the secure messaging system per month  (p < .001, 95% CI = [188, 260]), compared to a background growth in registrations of 48 per month across all of the sites -- a greater than five-fold increase in the rate at which registrations grew.
+We estimate that the intervention was associated with an additional 224 patients registering in the secure messaging system per month, compared to a background growth in registrations of 48 per month across all of the sites -- a greater than five-fold increase in the rate at which registrations grew.
 
