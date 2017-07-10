@@ -1,5 +1,5 @@
 ---
-title: Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions
+title: Cognitive Load Theory and Complex Learning-Recent Developments and Future Directions
 permalink: /cognitive-load-2005/
 tags: library 
 year: 2005
@@ -39,11 +39,11 @@ evolution. The article discusses recent developments in CLT related to the
 current view in instructional design that real-life tasks should be the driving
 force for complex learning. First, the complexity, or intrinsic cognitive load,
 of such tasks is often high so that new methods are needed to manage cognitive
-load. Second, complex learning is a lengthy process requiring learners’
+load. Second, complex learning is a lengthy process requiring learnersâ€™
 motivational states and levels of expertise development to be taken into account.
 Third, this perspective requires more advanced methods to measure
 expertise and cognitive load so that instruction can be flexibly adapted to individual
-learners’ needs. Experimental studies are reviewed to illustrate these
+learnersâ€™ needs. Experimental studies are reviewed to illustrate these
 recent developments. Guidelines for future research are provided.
 
 ## Author(s)
