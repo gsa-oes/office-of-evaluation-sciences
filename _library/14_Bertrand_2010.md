@@ -1,6 +1,6 @@
 ---
 title: What's Advertising Content Worth? Evidence From a Consumer Credit Marketing Field Experiment
-permalink: /template/
+permalink: /bertrand-evidence-2010/
 tags: library 
 year: 2010
 bottlenecks: 
