@@ -28,8 +28,8 @@ to boost household saving out of income tax refunds. Households that
 filed income tax returns with an online tax preparer and chose to
 receive their refund electronically were randomized into eight treatment
 groups, which received different combinations of motivational
-saving prompts and suggested shares of the refund to save—25% and
-75%—and a control group, which received neither. In treatment conditions
+saving prompts and suggested shares of the refund to saveâ€”25% and
+75%â€”and a control group, which received neither. In treatment conditions
 where they were presented, motivational prompts focused on various
 savings goals: general, retirement, or emergency. Analysis reveals
 that higher suggested that allocations generated increased allocations
