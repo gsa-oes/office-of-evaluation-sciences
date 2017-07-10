@@ -1,5 +1,5 @@
 ---
-title: Working Mechanisms of Computer-Tailored Health Education--Evidence from Smoking Cessation
+title: Working Mechanisms of Computer-Tailored Health Education -- Evidence from Smoking Cessation
 permalink: /Dijikstra-health-2005/
 tags: library 
 year: 2005
