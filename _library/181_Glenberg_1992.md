@@ -1,5 +1,5 @@
 ---
-title: Comprehension of illustrated text-Pictures help to build mental models
+title: Comprehension of Illustrated Text -- Pictures Help to Build Mental Models
 permalink: /glenberg-pictures-1992/
 tags: library 
 year: 1992
