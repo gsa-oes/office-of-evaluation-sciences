@@ -1,5 +1,5 @@
 ---
-title: Cognitive Load Theory and Complex Learning-Recent Developments and Future Directions
+title: Cognitive Load Theory and Complex Learning -- Recent Developments and Future Directions
 permalink: /cognitive-load-2005/
 tags: library 
 year: 2005
