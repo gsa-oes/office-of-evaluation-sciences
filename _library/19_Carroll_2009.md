@@ -27,7 +27,7 @@ domain:
 
 Defaults often have a large in?uence on consumer decisions. We identify an overlooked
 but practical alternative to defaults: requiring individuals to make an explicit choice
-for themselves. We study such ?ìactive decisions?î in the context of 401(k) saving.
+for themselves. We study such ?‚Äúactive decisions?‚Äù in the context of 401(k) saving.
 We ?nd that compelling new hires to make active decisions about 401(k) enrollment
 raises the initial fraction that enroll by 28 percentage points relative to a standard
 opt-in enrollment procedure, producing a savings distribution three months after hire
