@@ -1,5 +1,5 @@
 ---
-title: The Behavioralist As Tax Collector-Using Natural Field Experiments to Enhance Tax Compliance
+title: The Behavioralist As Tax Collector -- Using Natural Field Experiments to Enhance Tax Compliance
 permalink: /hallsworth-tax-compliance-2016/
 tags: library 
 year: 2016
