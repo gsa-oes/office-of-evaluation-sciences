@@ -1,5 +1,5 @@
 ---
-title: UNDERSTANDING MAIL SURVEY RESPONSE BEHAVIOR-A META-ANALYSIS
+title: Understanding Mail Survey Response Behavior -- A Meta-Analysis
 permalink: /yammarino-mail-survey-1991/
 tags: library 
 year: 1991
