@@ -30,7 +30,7 @@ domain:
 ---
 ## Abstract Summary
 
-We address the role of ìpsychological frictionsî in the incomplete
+We address the role of ‚Äúpsychological frictions‚Äù in the incomplete
 take-up of EITC benefits with an IRS field experiment. We specifically
 assess the influence of program confusion, informational complexity,
 and stigma by evaluating response to experimental mailings
@@ -52,4 +52,4 @@ RCT
 
 ## Source
 
-<a href="https://www.cmu.edu/dietrich/sds/docs/bhargava/Bhargava_Takeup%20AER%202015.pdf">Psychological Frictions and the Incomplete Take-Up of Social Benefits: Evidence from an IRS Field ExperimentÜ</a>
+<a href="https://www.cmu.edu/dietrich/sds/docs/bhargava/Bhargava_Takeup%20AER%202015.pdf">Psychological Frictions and the Incomplete Take-Up of Social Benefits: Evidence from an IRS Field Experiment‚Ä†</a>
