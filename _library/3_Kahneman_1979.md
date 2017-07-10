@@ -13,7 +13,6 @@ interventions:
 outcomes: 
   - Choice 
 domain: 
-  - all
 ---
 ## Abstract Summary
 
