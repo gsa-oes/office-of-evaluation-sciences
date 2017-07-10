@@ -1,5 +1,5 @@
 ---
-title: The ‘Ostrich Effect’--Selective Attention to Information about Investments
+title: The ‘Ostrich Effect’ -- Selective Attention to Information about Investments
 permalink: /karlsson-ostrich-2005/
 tags: library 
 year: 2005
