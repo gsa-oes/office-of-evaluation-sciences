@@ -1,5 +1,5 @@
 ---
-title: Prospect Theory-An Analysis of Decision under Risk
+title: Prospect Theory -- An Analysis of Decision Under Risk
 permalink: /Kahneman-1979-prospect-theory/
 tags: library 
 year: 1979
