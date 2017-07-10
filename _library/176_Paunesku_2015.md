@@ -30,7 +30,7 @@ achievement on a large scale remains unknown. We therefore delivered brief growt
 interventions through online modules to 1,594 students in 13 geographically diverse high schools. Both interventions
 were intended to help students persist when they experienced academic difficulty; thus, both were predicted to be
 most beneficial for poorly performing students. This was the case. Among students at risk of dropping out of high
-school (one third of the sample), each intervention raised students’ semester grade point averages in core academic
+school (one third of the sample), each intervention raised studentsâ€™ semester grade point averages in core academic
 courses and increased the rate at which students performed satisfactorily in core courses by 6.4 percentage points. We
 discuss implications for the pipeline from theory to practice and for education reform.
 
