@@ -1,5 +1,5 @@
 ---
-title: Working Mechanisms of Computer-Tailored Health Education: Evidence from Smoking Cessation
+title: Working Mechanisms of Computer-Tailored Health Education--Evidence from Smoking Cessation
 permalink: /Dijikstra-health-2005/
 tags: library 
 year: 2005
@@ -19,7 +19,7 @@ domain:
 ## Abstract Summary
 
 To further develop tailored interventions, their working mechanisms must be identi ed. In the present study, three
-tailored messages that each contained one potential working mechanism—personalization, adaptation or feedback—
+tailored messages that each contained one potential working mechanismâ€”personalization, adaptation or feedbackâ€”
 were compared with a standard information condition. Two hundred and two students who smoked tobacco daily
 were randomly divided over four conditions. After the computer pre-test questionnaire, they read the information in
 their condition and lled in the immediate post-test. After 4 months, they were sent a follow-up questionnaire
