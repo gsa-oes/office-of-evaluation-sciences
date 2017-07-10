@@ -1,5 +1,5 @@
 ---
-title: Implementation Intentions and Goal Achievement--A Meta-analysis of Effects and Processes
+title: Implementation Intentions and Goal Achievement -- A Meta-analysis of Effects and Processes
 permalink: /gollwitzer-implementation-2006/
 tags: library 
 year: 2006
