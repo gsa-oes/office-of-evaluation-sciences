@@ -1,5 +1,5 @@
 ---
-title: WHAT’S ADVERTISING CONTENT WORTH? EVIDENCE FROM A CONSUMER CREDIT MARKETING FIELD EXPERIMENT
+title: What's Advertising Content Worth? Evidence From a Consumer Credit Marketing Field Experiment
 permalink: /template/
 tags: library 
 year: 2010
