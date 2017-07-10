@@ -1,5 +1,5 @@
 ---
-title: The ëOstrich Effectí: Selective Attention to Information about Investments
+title: The ‚ÄòOstrich Effect‚Äô--Selective Attention to Information about Investments
 permalink: /karlsson-ostrich-2005/
 tags: library 
 year: 2005
@@ -20,10 +20,10 @@ We develop a model of selective attention to information and apply it to investo
 about whether to obtain information about the value of their portfolio. In our model investors
 receive information about the aggregate level of the market and then decide whether to look up
 the value of their personal portfolio. Doing so not only provides additional information, but also
-increases the psychological impact of information on utility ñ an impact effect ñ and increases
-the speed of a utility reference point adjustment ñ a reference point updating effect. The main
+increases the psychological impact of information on utility ‚Äì an impact effect ‚Äì and increases
+the speed of a utility reference point adjustment ‚Äì a reference point updating effect. The main
 prediction of the model is that investors will check the value of their portfolios more frequently
-in rising markets but will ìput their heads in the sandî when markets are flat or falling. We test
+in rising markets but will ‚Äúput their heads in the sand‚Äù when markets are flat or falling. We test
 and find support for this prediction with three Scandinavian data sets.
 
 ## Author(s)
@@ -36,4 +36,4 @@ Data Analysis
 
 ## Source
 
-<a href="https://weatherhead.case.edu/departments/banking-and-finance/Documents/Seppipaper.pdf">The ëOstrich Effectí: Selective Attention to Information about Investments</a>
+<a href="https://weatherhead.case.edu/departments/banking-and-finance/Documents/Seppipaper.pdf">The ‚ÄòOstrich Effect‚Äô: Selective Attention to Information about Investments</a>
