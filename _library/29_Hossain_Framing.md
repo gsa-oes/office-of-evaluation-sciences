@@ -1,5 +1,5 @@
 ---
-title: The Behavioralist Visits the Factory-Increasing Productivity Using Simple Framing Manipulations
+title: The Behavioralist Visits the Factory -- Increasing Productivity Using Simple Framing Manipulations
 permalink: /Hossain-Framing-2012/
 tags: library 
 year: 2012
