@@ -46,4 +46,4 @@ RCT
 
 ## Source
 
-<a href="http://s3.amazonaws.com/fieldexperiments-papers/papers/00391.pdf">The Behavioralist As Tax Collector: Using Natural Field Experiments to Enhance Tax Compliance*</a>
+<a href="http://s3.amazonaws.com/fieldexperiments-papers/papers/00391.pdf">The Behavioralist As Tax Collector: Using Natural Field Experiments to Enhance Tax Compliance</a>
