@@ -1,0 +1,51 @@
+---
+title: Social norms and energy conservation
+permalink: /hunt-norms-energy-2011/
+tags: library 
+year: 2011
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Comprehension 
+  - Choice 
+delivery: 
+  - Letter 
+interventions: 
+  - Simplification 
+  - Visual Format 
+  - Action Steps 
+  - Social Norms 
+  - Personalization 
+  - Cost/Benefit 
+  - Education 
+outcomes: 
+  - Action 
+  - Choice 
+domain: 
+  - Environment
+---
+## Abstract Summary
+
+This paper evaluates a series of programs run by a company called OPOWER to send Home Energy Report
+letters to residential utility customers comparing their electricity use to that of their neighbors. Using data
+from randomized natural field experiments at 600,000 treatment and control households across the United
+States, I estimate that the average program reduces energy consumption by 2.0%. The program provides
+additional evidence that non-price interventions can substantially and cost effectively change consumer
+behavior: the effect is equivalent to that of a short-run electricity price increase of 11 to 20%, and the cost
+effectiveness compares favorably to that of traditional energy conservation programs. Perhaps because the
+treatment included descriptive social norms, effects are heterogeneous: households in the highest decile of
+pre-treatment consumption decrease usage by 6.3%, while consumption by the lowest decile decreases by
+only 0.3%. A regression discontinuity design shows that different categories of “injunctive norms” played an
+insignificant role in encouraging relatively low users not to increase usage.
+
+## Author(s)
+
+Hunt Allcott
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="http://www.sciencedirect.com/science/article/pii/S0047272711000478">Social norms and energy conservation</a>

@@ -1,0 +1,52 @@
+---
+title: Teaching the Tax Code:Earnings Responses to an Experiment with EITC Claimants
+permalink: /Chetty-EITC-2009/
+tags: library 
+year: 2009
+bottlenecks: 
+  - Motivation
+  - Comprehension 
+delivery: 
+  - Letter 
+  - In-person 
+interventions: 
+  - Simplification 
+  - Visual Format 
+  - Personalization 
+outcomes: 
+  - Action  
+  - Choice 
+domain: 
+  - Economic Opportunity
+---
+## Abstract Summary
+
+This paper tests whether providing information about the Earned Income Tax Credit
+(EITC) ampli?es the program?s e¤ects on labor supply. We conducted a randomized ex-
+periment with 43,000 EITC claimants at H&R Block in which tax preparers gave simple,
+personalized information about the EITC schedule to half of their clients. Tracking subse-
+quent earnings behavior, we ?nd substantial heterogeneity in treatment e¤ects across the
+1,300 tax professionals who assisted the clients involved in the experiment. Half of the tax
+professionals, whom we term ?compliers,? induced treated clients to increase their EITC
+refunds by choosing an earnings level closer to the peak of the EITC schedule. Clients
+treated by complying tax professionals are 10% less likely to have very low incomes than
+control group clients. The remaining tax preparers generate insigni?cant changes in EITC
+amounts but increase the probability that their clients have incomes high enough to reach
+the phase-out region. Treatment e¤ects are stronger among the self-employed, but are also
+substantial among wage earners, suggesting that information provision induced real labor
+supply responses. When compared with other policy instruments, information has large
+e¤ects: complying tax preparers generate the same labor supply response along the inten-
+sive margin as a 33% expansion of the EITC program, while non-complying tax preparers
+induce the same response as a 5% tax rate cut.
+
+## Author(s)
+
+Raj Chetty and Emmanuel Saez
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="https://www.bus.umich.edu/otpr/papers/Chetty_Saez.pdf">Teaching the Tax Code:Earnings Responses to an Experiment with EITC Claimants</a>

@@ -1,0 +1,72 @@
+---
+title: SMSaude: Evaluating Mobile Phone Text Reminders to Improve Retention in HIV Care for Patients on Antiretroviral Therapy in Mozambique
+permalink: /Davey-text-reminder-2016/
+tags: library 
+year: 2016
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Implementation
+delivery:  
+  - Text 
+interventions:  
+  - Action Steps 
+  - Reminders 
+  - Social Norms  
+  - Education 
+outcomes: 
+  - Action 
+domain: 
+  - Health 
+  - International Development 
+---
+## Abstract Summary
+
+Objective: We evaluated whether regular mobile phone text
+reminders improved patients’ retention in antiretroviral therapy
+(ART) care in Mozambique.
+
+Design: SMSaúde was a randomized control trial of HIV-infected
+patients on ART who received regular text message reminder vs.
+standard of care at 3 public health facilities in Maputo Province,
+Mozambique. The primary outcome was retention in HIV care.
+Between November 2011 and March 2012, 830 eligible HIVinfected
+patients on ART were randomized 1:1 to the text reminder
+intervention or standard of care.
+
+Methods: We used Kaplan–Meier estimators and log-rank tests to
+compare proportions of patients who received SMS reminders who were
+retained in HIV care compared to the control group who received
+standard of care. Post hoc analyses were performed using Cox
+proportional hazards models stratified by urban/rural facility and when
+initiated ART (#3months vs..3 months). Hazard ratios and confidence
+intervals (CIs) are reported. Analysis was with intention to treat.
+
+Results: Patients who received text messages had lower attrition
+from HIV care at 12 months, though the difference was nonsignificant
+(RR: 0.68, 95% CI: 0.41 to 1.13). Among urban patients,
+text messages improved retention in HIV care (RR: 0.54, 95% CI:
+0.31 to 0.95). Intervention patients newly initiated on ART (,3
+months) had lower attrition than control patients (HR: 0.54; 95% CI:
+0.23 to 0.91), especially urban newly initiated patients (HR: 0.20,
+95% CI: 0.06 to 0.64). Text messages had no effect on retention
+among rural patients.
+
+Conclusions: Text messages did not improve retention in HIV care
+for all patients on ART but improved retention in care of urban
+patients and those who recently started ART and received text
+reminders compared with standard of care.
+
+## Author(s)
+
+Dvora Joseph Davey, MPH, PhD, José António Nhavoto, PhD,
+Orvalho Augusto, MD, Walter Ponce, MPH, Daila Traca, MSc,
+Alexandre Nguimfack, MD, and Cesar Palha de Sousa, MD, PhD
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="https://www.researchgate.net/profile/Dvora_Joseph_Davey/publication/304185465_SMSaude_Evaluating_Mobile_Phone_Text_Reminders_to_Improve_Retention_in_HIV_Care_for_Patients_on_Antiretroviral_Therapy_in_Mozambique/links/579726c908ae33e89faea408.pdf">SMSaude: Evaluating Mobile Phone Text Reminders to Improve Retention in HIV Care for Patients on Antiretroviral Therapy in Mozambique</a>

@@ -1,0 +1,53 @@
+---
+title: Retail Pharmacies With Questionable Part D Billing
+permalink: /HHS-Part-D-Billing-2012/
+tags: library 
+year: 2012
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Comprehension 
+delivery: 
+  - Email 
+  - Letter  
+  - Form 
+  - In-person 
+  - Structural Change
+interventions: 
+  - Education 
+outcomes: 
+  - Accuracy 
+  - Awareness
+domain: 
+  - Health 
+  - Government Operations
+---
+## Abstract Summary
+
+WHY WE DID THIS STUDY
+
+Under the Medicare Part D program, the Centers for Medicare & Medicaid Services (CMS) contracts with private insurance companies, known as sponsors, to provide prescription drug coverage to beneficiaries who choose to enroll. In the 6 years since Part D began, the Office of Inspector General (OIG) has issued several reports that found that Part D had limited safeguards in place.
+
+HOW WE DID THIS STUDY
+
+We based this study on an analysis of prescription drug event records. Sponsors submit these records to CMS for each prescription dispensed to beneficiaries enrolled in their plans. Each record contains information about the pharmacy, prescriber, beneficiary, and drug. We analyzed all of the records for prescriptions billed by retail pharmacies in 2009. We developed eight measures to describe Part D billing and to identify pharmacies with questionable billing.
+
+WHAT WE FOUND
+
+Retail pharmacies each billed Part D an average of nearly $1 million for prescriptions in 2009. Over 2,600 of these pharmacies had questionable billing. These pharmacies had extremely high billing for at least one of the eight measures we developed. For example, many pharmacies billed extremely high dollar amounts or numbers of prescriptions per beneficiary or per prescriber. This could mean that a pharmacy is billing for drugs that are not medically necessary or were never provided to the beneficiary. Although some of this billing may be legitimate, pharmacies that bill for extremely high amounts warrant further scrutiny. The Miami, Los Angeles, and Detroit areas were the most likely to have pharmacies with questionable billing.
+
+WHAT WE RECOMMEND
+
+Together, the findings of this report and prior OIG reports call for a strong response to improve Part D oversight. Therefore, we recommend that CMS: (1) strengthen the Medicare Drug Integrity Contractor’s monitoring of pharmacies and ability to identify pharmacies for further review, (2) provide additional guidance to sponsors on monitoring pharmacy billing, (3) require sponsors to refer potential fraud and abuse incidents that may warrant further investigation, (4) develop risk scores for pharmacies, (5) further strengthen its compliance plan audits, and (6) follow up on the pharmacies identified as having questionable billing. CMS concurred with four of the recommendations and partially concurred with the other two.
+
+## Author(s)
+
+United States Department of Health and Human Services, Office of Inspector General; Daniel R. Levinson, Inspector General
+
+## Design Type
+
+Qualitative
+
+## Source
+
+<a href="https://oig.hhs.gov/oei/reports/oei-02-09-00600.pdf">Retail Pharmacies With Questionable Part D Billing</a>

@@ -1,0 +1,34 @@
+---
+title: Nudges and Learning: Evidence from Informational Interventions for Low-Income Taxpayers
+permalink: /manoli-nudging-2014/
+tags: library 
+year: 2014
+bottlenecks: 
+  - Attention 
+delivery: 
+  - Letter 
+interventions: 
+  - Simplification 
+  - Action Steps 
+  - Reminders  
+  - Education 
+outcomes:  
+  - Action 
+domain: 
+  - Economic Opportunity
+---
+## Abstract Summary
+
+Do informational interventions create one-time nudges or permanent changes in behavior? We study how taxpayers respond to informational interventions that alert them of their eligibility for the Earned Income Tax Credit using population-level administrative tax data. The empirical analysis is based on a natural experiment in 2005, a randomized experiment in 2009, and quasi-random audits between 2006 and 2009. The evidence from each of these settings indicates that the informational interventions cause economically significant increases in EITC take-up in the short-term, but there are little to no long-term increases in EITC take-up.
+
+## Author(s)
+
+Dayanand S. Manoli and Nicholas Turner
+
+## Design Type
+
+RCT, Lab Study, Data Analysis
+
+## Source
+
+<a href="http://www.daymanoli.com/wp-content/uploads/2015/03/Manoli_Turner.pdf">Nudges and Learning: Evidence from Informational Interventions for Low-Income Taxpayers</a>

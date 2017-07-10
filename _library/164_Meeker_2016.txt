@@ -1,0 +1,78 @@
+---
+title: Effect of Behavioral Interventions on Inappropriate Antibiotic Prescribing among Primary Care Practices: A Randomized Clinical Trial
+permalink: /template/
+tags: library 
+year: 2016
+bottlenecks: 
+  - Choice 
+delivery: 
+  - Email 
+  - Website 
+interventions: 
+  - Reminders 
+  - Timing 
+  - Commitment 
+  - Social Norms  
+  - Personalization 
+  - Education 
+outcomes: 
+  - Choice 
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+IMPORTANCE: Interventions based on behavioral science might reduce inappropriate
+antibiotic prescribing.
+
+OBJECTIVE: To assess effects of behavioral interventions and rates of inappropriate (not
+guideline-concordant) antibiotic prescribing during ambulatory visits for acute respiratory
+tract infections.
+
+DESIGN, SETTING, AND PARTICIPANTS: Cluster randomized clinical trial conducted among 47
+primary care practices in Boston and Los Angeles. Participants were 248 enrolled clinicians
+randomized to receive 0, 1, 2, or 3 interventions for 18 months. All clinicians received
+education on antibiotic prescribing guidelines on enrollment. Interventions began between
+November 1, 2011, and October 1, 2012. Follow-up for the latest-starting sites ended on April 1,
+2014. Adult patients with comorbidities and concomitant infections were excluded.
+
+INTERVENTIONS: Three behavioral interventions, implemented alone or in combination:
+suggested alternatives presented electronic order sets suggesting nonantibiotic treatments;
+accountable justification prompted clinicians to enter free-text justifications for prescribing
+antibiotics into patients’ electronic health records; peer comparison sent emails to clinicians
+that compared their antibiotic prescribing rates with those of “top performers” (those with
+the lowest inappropriate prescribing rates).
+
+MAIN OUTCOMES AND MEASURES: Antibiotic prescribing rates for visits with
+antibiotic-inappropriate diagnoses (nonspecific upper respiratory tract infections, acute
+bronchitis, and influenza) from 18 months preintervention to 18 months afterward, adjusting
+each intervention’s effects for co-occurring interventions and preintervention trends, with
+random effects for practices and clinicians.
+
+RESULTS: There were 14,753 visits (mean patient age, 47 years; 69% women) for
+antibiotic-inappropriate acute respiratory tract infections during the baseline period and 16 959
+visits (mean patient age, 48 years; 67%women) during the intervention period. Mean
+antibiotic prescribing rates decreased from 24.1%at intervention start to 13.1% at intervention
+month 18 (absolute difference, -11.0%) for control practices; from 22.1% to 6.1% (absolute
+difference, -16.0%) for suggested alternatives (difference in differences, -5.0%[95%CI, -7.8%
+to 0.1%]; P = .66 for differences in trajectories); from 23.2%to 5.2%(absolute difference,
+-18.1%) for accountable justification (difference in differences, -7.0%[95%CI, -9.1%to -2.9%];
+P < .001); and from 19.9%to 3.7%(absolute difference, -16.3%) for peer comparison
+(difference in differences, -5.2%[95%CI, -6.9%to -1.6%]; P < .001). Therewere no
+statistically significant interactions (neither synergy nor interference) between interventions.
+
+CONCLUSIONS AND RELEVANCE: Among primary care practices, the use of accountable
+justification and peer comparison as behavioral interventions resulted in lower rates of
+inappropriate antibiotic prescribing for acute respiratory tract infections.
+
+## Author(s)
+
+Daniella Meeker, Jeffrey A. Linder, Craig R. Fox, Mark W. Friedberg, Stephen D. Persell, Noah J. Goldstein, Tara K. Knight, Joel W. Hay, and Jason N. Doctor
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="http://jamanetwork.com/journals/jama/fullarticle/2488307">Effect of Behavioral Interventions on Inappropriate Antibiotic Prescribing among Primary Care Practices: A Randomized Clinical Trial</a>

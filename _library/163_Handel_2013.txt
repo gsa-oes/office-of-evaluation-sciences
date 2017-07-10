@@ -1,0 +1,49 @@
+---
+title: Adverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts
+permalink: /handel-inertia-2013/
+tags: library 
+year: 2013
+bottlenecks: 
+  - Attention 
+  - Comprehension 
+  - Choice 
+  - Implementation
+delivery: 
+  - Email 
+  - Letter  
+  - Structural Change
+interventions: 
+  - Choice Design 
+  - Action Steps 
+  - Reminders  
+  - Education 
+outcomes: 
+  - Action 
+  - Choice 
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+This paper investigates consumer inertia in health insurance markets,
+where adverse selection is a potential concern. We leverage a major
+change to insurance provision that occurred at a large firm to
+identify substantial inertia, and develop and estimate a choice model
+that also quantifies risk preferences and ex ante health risk. We use
+these estimates to study the impact of policies that nudge consumers
+toward better decisions by reducing inertia. When aggregated,
+these improved individual-level choices substantially exacerbate
+adverse selection in our setting, leading to an overall reduction in
+welfare that doubles the existing welfare loss from adverse selection.
+
+## Author(s)
+
+Benjamin R. Handel
+
+## Design Type
+
+Data Analysis
+
+## Source
+
+<a href="https://eml.berkeley.edu/~bhandel/wp/Handel_ASIN_2013.pdf">Adverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts</a>

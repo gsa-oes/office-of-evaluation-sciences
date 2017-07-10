@@ -1,0 +1,46 @@
+---
+title: The Fresh Start Effect: Temporal Landmarks Motivate
+Aspirational Behavior
+permalink: /Dai-2014-Fresh-start/
+tags: library 
+year: 2014
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Implementation
+delivery: 
+  - Form 
+  - Website 
+interventions: 
+  - Timing 
+  - Commitment 
+  - Social Norms 
+  - Incentives
+outcomes:  
+  - Action 
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+The popularity of New Year’s resolutions suggests that people are more likely to tackle their goals immediately
+following salient temporal landmarks. If true, this little-researched phenomenon has the potential to help
+people overcome important willpower problems that often limit goal attainment. Across three archival field studies,
+we provide evidence of a “fresh start effect.” We show that Google searches for the term “diet” (Study 1), gym
+visits (Study 2), and commitments to pursue goals (Study 3) all increase following temporal landmarks (e.g., the
+outset of a new week, month, year, or semester; a birthday; a holiday). We propose that these landmarks demarcate
+the passage of time, creating many new mental accounting periods each year, which relegate past imperfections to
+a previous period, induce people to take a big-picture view of their lives, and thus motivate aspirational behaviors.
+
+## Author(s)
+
+Hengchen Dai, Katherine L. Milkman, Jason Riis
+
+## Design Type
+
+Data Analysis
+
+## Source
+
+<a href="https://faculty.wharton.upenn.edu/wp-content/uploads/2014/06/Dai_Fresh_Start_2014_Mgmt_Sci.pdf">The Fresh Start Effect: Temporal Landmarks Motivate
+Aspirational Behavior</a>

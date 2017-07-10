@@ -1,0 +1,35 @@
+---
+title: Green Defaults: Information Presentation and Pro-Environmental Behaviour
+permalink: /Pichert-defaults-2008/
+tags: library 
+year: 2008
+bottlenecks: 
+  - Comprehension 
+  - Choice 
+  - Implementation
+delivery: 
+  - In-person 
+  - Structural Change
+interventions: 
+  - Framing 
+  - Choice Design 
+outcomes: 
+  - Choice 
+domain: 
+  - Environment 
+---
+## Abstract Summary
+
+There is inconsistency in many people's choice of electricity. When asked, they say they prefer a ‘green’ (i.e., environmentally friendly) source for this energy. Yet, although green electricity is available in many markets, people do not generally buy it. Why not? Motivated by behavioural decision research, we argue that the format of information presentation drastically affects the choice of electricity. Specifically, we hypothesise that people use the kind of electricity that is offered to them as the default. We present two natural studies and two experiments in the laboratory that support this hypothesis. In the two real-world situations, there was a green default, and most people used it. In the first laboratory experiment, more participants chose the green utility when it was the default than when ‘grey’ electricity was the default. In the second laboratory experiment, participants asked for more money to give up green electricity than they were willing to pay for it. We argue that changing defaults can be used to promote pro-environmental behaviour. Potential policy-making applications of this work are discussed. 
+
+## Author(s)
+
+Daniel Pichert and Konstantinos V. Katsikopoulos
+
+## Design Type
+
+Lab Study
+
+## Source
+
+<a href="https://www.researchgate.net/publication/222676531_Green_Defaults_Information_Presentation_and_Pro-environmental_Behaviour">Green Defaults: Information Presentation and Pro-Environmental Behaviour</a>

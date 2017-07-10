@@ -1,0 +1,50 @@
+---
+title: New Medicaid Enrollees In Oregon Report Health Care Successes And Challenges
+permalink: /2014-Allen-Medicaid/
+tags: library 
+year: 2014
+bottlenecks: 
+  - Motivation
+  - Comprehension 
+delivery: 
+  - Letter 
+  - Phone 
+  - In-person 
+interventions: 
+  - Action Steps 
+outcomes: 
+  - Awareness
+domain: 
+  - Health 
+  - Economic Opportunity
+---
+## Abstract Summary
+
+Medicaid expansions will soon cover millions of new enrollees, but insurance alone may not ensure that they receive high-quality care.
+This study examines health care interactions and the health perceptions
+of an Oregon cohort three years after they gained Medicaid coverage.
+During in-depth qualitative interviews, 120 enrollees reported a wide
+range of interactions with the health care system. Forty percent of the
+new enrollees sought care infrequently because they were confused about
+coverage, faced access barriers, had bad interactions with providers, or
+felt that care was unnecessary. For the 60 percent who had multiple
+health care interactions, continuity and ease of the provider-patient
+relationship were critical to improved health. Some newly insured
+Medicaid enrollees recounted rapid improvements in health. However,
+most reported that gains came after months or years of working closely
+and systematically with a provider. Our findings suggest that improving
+communication with beneficiaries and increasing the availability of
+coordinated care across settings could reduce the barriers that new
+enrollees are likely to face.
+
+## Author(s)
+
+Heidi Allen, Bill J. Wright and Katherine Baicker
+
+## Design Type
+
+Qualitative
+
+## Source
+
+<a href="http://content.healthaffairs.org/content/33/2/292">New Medicaid Enrollees In Oregon Report Health Care Successes And Challenges</a>

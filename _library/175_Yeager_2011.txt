@@ -1,0 +1,60 @@
+---
+title: Social-Psychological Interventions in Education: They’re Not Magic
+permalink: /yeager-education-2011/
+tags: library 
+year: 2011
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Implementation
+delivery: 
+  - Letter 
+  - In-person 
+interventions: 
+  - Action Steps  
+  - Timing 
+  - Commitment 
+  - Social Norms 
+  - Messenger 
+  - Personalization 
+outcomes: 
+  - Engagement 
+  - Action 
+  - Education
+domain: 
+  - Education 
+---
+## Abstract Summary
+
+Recent randomized experiments have found that seemingly “small” socialpsychological
+interventions in education—that is, brief exercises that target
+students’ thoughts, feelings, and beliefs in and about school—can lead to
+large gains in student achievement and sharply reduce achievement gaps
+even months and years later. These interventions do not teach students academic
+content but instead target students’ psychology, such as their beliefs
+that they have the potential to improve their intelligence or that they belong
+and are valued in school. When social-psychological interventions have lasting
+effects, it can seem surprising and even “magical,” leading people either
+to think of them as quick fixes to complicated problems or to consider them
+unworthy of serious consideration. The present article discourages both
+responses. It reviews the theoretical basis of several prominent social-psychological
+interventions and emphasizes that they have lasting effects
+because they target students’ subjective experiences in school, because they
+use persuasive yet stealthy methods for conveying psychological ideas, and
+because they tap into recursive processes present in educational environments.
+By understanding psychological interventions as powerful but context-
+dependent tools, educational researchers will be better equipped to take
+them to scale. This review concludes by discussing challenges to scaling psychological
+interventions and how these challenges may be overcome.
+
+## Author(s)
+
+David S. Yeager and Gregory M. Walton
+
+## Design Type
+
+Review
+
+## Source
+
+<a href="https://oig.hhs.gov/oei/reports/oei-02-09-00600.pdf">Social-Psychological Interventions in Education: They’re Not Magic</a>

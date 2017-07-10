@@ -1,0 +1,57 @@
+---
+title: Improving Quality Improvement Using Achievable Benchmarks For Physician Feedback: A Randomized Controlled Trial
+permalink: /Kiefe-quality-improvement-2001/
+tags: library 
+year: 2001
+bottlenecks: 
+  - Motivation
+  - Comprehension 
+delivery: 
+  - Letter 
+interventions: 
+  - Social Norms 
+  - Personalization 
+outcomes: 
+  - Action 
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+Context: Performance feedback and benchmarking, common tools for health care improvement, are rarely studied in randomized trials. Achievable Benchmarks of Care (ABCs) are standards of excellence attained by top performers in a peer group and are easily and reproducibly calculated from existing performance data.
+
+
+Objective: To evaluate the effectiveness of using achievable benchmarks to enhance typical physician performance feedback and improve care.
+
+
+Design: Group-randomized controlled trial conducted in December 1996, with follow-up through 1998.
+
+
+Setting and Participants: Seventy community physicians and 2978 fee-for-service Medicare patients with diabetes mellitus who were part of the Ambulatory Care Quality Improvement Project in Alabama.
+
+
+Intervention: Physicians were randomly assigned to receive a multimodal improvement intervention, including chart review and physician-specific feedback (comparison group; n = 35) or an identical intervention plus achievable benchmark feedback (experimental group; n = 35).
+
+
+Main Outcome Measure: Preintervention (1994-1995) to postintervention (1997-1998) changes in the proportion of patients receiving influenza vaccination; foot examination; and each of 3 blood tests measuring glucose control, cholesterol level, and triglyceride level, compared between the 2 groups.
+
+
+Results: The proportion of patients who received influenza vaccine improved from 40% to 58% in the experimental group (P<.001) vs from 40% to 46% in the comparison group (P = .02). Odds ratios (ORs) for patients of achievable benchmark physicians vs comparison physicians who received appropriate care after the intervention, adjusted for preintervention care and nesting of patients within physicians, were 1.57 (95% confidence interval [CI], 1.26-1.96) for influenza vaccination, 1.33 (95% CI, 1.05-1.69) for foot examination, and 1.33 (95% CI, 1.04-1.69) for long-term glucose control measurement. For serum cholesterol and triglycerides, the achievable benchmark effect was statistically significant only after additional adjustment for physician characteristics (OR, 1.40 [95% CI, 1.08-1.82] and OR, 1.40 [95% CI, 1.09-1.79], respectively).
+
+
+Conclusion: Use of achievable benchmarks significantly enhances the effectiveness of physician performance feedback in the setting of a multimodal quality improvement intervention.
+
+
+## Author(s)
+
+Catarina I. Kiefe, PhD, MD; Jeroan J. Allison, MD, MS; O. Dale Williams, PhD; Sharina D. Person, PhD; Michael T. Weaver, PhD; Norman W. Weissman, PhD
+
+
+## Design Type
+
+RCT
+
+
+## Source
+
+<a href="http://jamanetwork.com/journals/jama/fullarticle/193913">Improving Quality Improvement Using Achievable Benchmarks For Physician Feedback: A Randomized Control Trial</a>

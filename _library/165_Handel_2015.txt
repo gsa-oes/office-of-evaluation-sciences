@@ -1,0 +1,48 @@
+---
+title: Health Insurance for ‘Humans’: Information Frictions, Plan Choice, and Consumer Welfare
+permalink: /handel-choice-2015/
+tags: library 
+year: 2015
+bottlenecks: 
+  - Comprehension 
+  - Choice 
+  - Implementation
+delivery: 
+  - Email 
+  - Form 
+interventions: 
+  - Simplification 
+  - Choice Design 
+  - Cost/Benefit 
+  - Education 
+outcomes: 
+  - Choice 
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+Traditional models of insurance choice are predicated on fully
+informed and rational consumers protecting themselves from exposure
+to financial risk. In practice, choosing an insurance plan is a
+complicated decision often made without full information. In this
+paper we combine new administrative data on health plan choices
+and claims with unique survey data on consumer information to
+identify risk preferences, information frictions, and hassle costs. Our
+additional friction measures are important predictors of choices and
+meaningfully impact risk preference estimates. We study the implications
+of counterfactual insurance allocations to illustrate the importance
+of distinguishing between these micro-foundations for welfare
+analysis. 
+
+## Author(s)
+
+Benjamin R. Handel and Jonathan T. Kolstad
+
+## Design Type
+
+Data Analysis, Survey Research
+
+## Source
+
+<a href="http://faculty.haas.berkeley.edu/jkolstad/HIFH_HandelKolstad.pdf">Health Insurance for ‘Humans’: Information Frictions, Plan Choice, and Consumer Welfare</a>

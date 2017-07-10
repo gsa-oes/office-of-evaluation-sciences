@@ -1,0 +1,51 @@
+---
+title: Would People Behave Differently If They Better Understood Social Security? Evidence from a Field Experiment
+permalink: /liebman-social-security-2015/
+tags: library 
+year: 2015
+bottlenecks: 
+  - Motivation
+  - Comprehension 
+delivery: 
+  - Letter  
+  - Form 
+  - Website 
+interventions: 
+  - Simplification 
+  - Visual Format 
+  - Framing 
+  - Social Norms 
+  - Messenger 
+  - Personalization 
+  - Education 
+outcomes: 
+  - Engagement 
+  - Action 
+  - Awareness
+domain: 
+  - Retirement Security 
+---
+## Abstract Summary
+
+This paper presents the results of a randomized field experiment that
+provided information about key Social Security features to older
+workers. The experiment was designed to examine whether it is
+possible to affect individual behavior using a relatively inexpensive
+informational intervention about the provisions of a public program
+and to explore the mechanisms underlying the behavior change. We
+find that our relatively mild intervention (sending an informational
+brochure and an invitation to a web-tutorial) increased labor force
+participation one year later by 4 percentage points relative to the
+control group mean of 74 percent.
+
+## Author(s)
+
+Jeffrey B. Liebman and Erzo F. P. Luttmer
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="http://users.nber.org/~luttmer/ssexperiment_paper.pdf">Would People Behave Differently If They Better Understood Social Security? Evidence from a Field Experiment</a>

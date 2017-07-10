@@ -1,0 +1,46 @@
+---
+title: Getting to the Top of Mind: How Reminders Increase Saving
+permalink: /Karlan-reminders-2014/
+tags: library 
+year: 2014
+bottlenecks: 
+  - Attention 
+delivery: 
+  - Letter 
+  - Text
+  - Form 
+  - In-person 
+interventions: 
+  - Reminders 
+  - Timing 
+  - Commitment 
+  - Cost/Benefit 
+  - Incentives
+outcomes:  
+  - Action 
+domain: 
+  - Economic Opportunity
+  - International Development 
+---
+## Abstract Summary
+
+We provide evidence from eld experiments with three dierent banks, that
+reminder messages increase commitment attainment for clients who recently opened commitment
+savings accounts. Messages that mention both savings goals and nancial incentives are par-
+ticularly eective, while other content variations such as gain versus loss framing do not have
+signicantly dierent eects. Nor do we nd evidence that receiving additional late reminders has
+an additive eect. These empirical results do not map neatly into existing models, so we provide
+a simple model where limited attention to exceptional expenses can generate under-saving that
+is in turn mitigated by reminders.
+
+## Author(s)
+
+Dean Karlan, Margaret McConnell, Sendhil Mullainathan, and Jonathan Zinman
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="Getting to the Top of Mind: How Reminders Increase Saving">Getting to the Top of Mind: How Reminders Increase Saving</a>

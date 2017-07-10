@@ -1,0 +1,83 @@
+---
+title: REMINDERS TO PAY: Using Behavioral Economics to Increase Child Support Payments
+permalink: /baird-reminders-2015/
+tags: library 
+year: 2015
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Comprehension 
+  - Choice 
+  - Implementation
+delivery: 
+  - Letter 
+  - Phone 
+interventions: 
+  - Simplification 
+  - Visual Format 
+  - Framing 
+  - Action Steps 
+  - Reminders 
+  - Timing 
+  - Commitment 
+  - Messenger 
+outcomes: 
+  - Action 
+domain: 
+  - Economic Opportunity
+  - Government Operations
+---
+## Abstract Summary
+
+This report presents findings from two behavioral interventions designed to
+increase the collection of child support payments in Franklin County, Ohio. The
+interventions were intended to increase the number of parents who made a child
+support payment, as well as increase the dollar amount of total collections per
+parent. In particular, the Franklin County Child Support Enforcement Agency
+(FCCSEA) was focused on noncustodial parents who do not have their child support
+payments automatically deducted from their paychecks, as these parents
+need to take action each month to make a payment. Using a process of behavioral
+diagnosis and design, the BIAS team found that over half of the parents who
+owed child support did not have a recent history of making payments via income
+withholding, and moreover, that many of these parents were not being sent
+regular payment reminders. The BIAS team hypothesized that reminding these
+parents to pay their child support could increase the occurrence and amount of
+their payments.
+
+The BIAS team, in collaboration with FCCSEA, tested two low-cost payment
+reminder interventions for parents who did not have income withholding,
+using random assignment experiments over four months. The first test targeted
+parents to whom payment reminder notices were not being sent. The second
+test targeted parents who were already being mailed monthly payment reminder
+notices. This second test compared the effectiveness of a new payment reminder
+notice that incorporated behavioral principles with the current payment reminder
+notice being sent by Ohio’s Child Support Payment Central (CSPC) — the
+state’s payment processing center.
+
+The first test found that reminders produced a modest but statistically significant
+increase of 2.9 percentage points in the number of parents who made at
+least one child support payment over four months. Compared with the control
+group payment rate of 48.5 percent, 51.5 percent of noncustodial parents who
+were sent a payment reminder made a payment. However, there was no statistically
+significant increase in total collections per person, suggesting that these
+additional payments were small. In the second test, the redesigned payment
+reminder notice and current CSPC payment reminder performed comparably,
+and no statistically significant differences in the number of parents paying or the
+dollar amount of payments were found. The findings reviewed in this report are
+consistent with the existing behavioral science literature, which demonstrates
+that reminders can influence people’s actions. However, the modest findings
+suggest that the targeted noncustodial parents may have a limited ability to pay,
+or that the behavioral bottlenecks they face were not adequately addressed by
+the interventions.
+
+## Author(s)
+
+Peter Baird, Leigh Reardon, Dan Cullinan, Drew McDermott, Patrick Landers
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="https://www.mdrc.org/sites/default/files/BIAS_Ohio-Franklin_County_2015_FR.pdf">REMINDERS TO PAY: Using Behavioral Economics to Increase Child Support Payments</a>

@@ -1,0 +1,44 @@
+---
+title: Small Cues Change Savings Choices
+permalink: /choi-cues-2016/
+tags: library 
+year: 2016
+bottlenecks: 
+  - Attention 
+  - Motivation
+  - Comprehension 
+  - Choice 
+delivery: 
+  - Email 
+interventions: 
+  - Anchoring 
+  - Commitment 
+outcomes:  
+  - Action 
+  - Choice 
+domain: 
+  - Retirement Security 
+---
+## Abstract Summary
+
+We present evidence from randomized field experiments that 401(k)
+savings choices are significantly affected by one- to two-sentence anchoring,
+goal-setting, or savings threshold cues embedded in emails sent to employees
+about their 401(k) plan. Even though these cues contain little to no marginal
+information, cues that make high savings rates salient increased 401(k)
+contribution rates by up to 2.9% of income in a pay period, and cues that make
+low savings rates salient decreased 401(k) contribution rates by up to 1.4% of
+income in a pay period. Cues affected 401(k) contribution rates for up to a year
+after the email.
+
+## Author(s)
+
+James J. Choi, Emily Haisley, Jennifer Kurkoski, and Cade Massey
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="https://oig.hhs.gov/oei/reports/oei-02-09-00600.pdf">Small Cues Change Savings Choices</a>

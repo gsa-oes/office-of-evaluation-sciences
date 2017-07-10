@@ -1,0 +1,51 @@
+---
+title: Can Consumers Make Affordable Care Affordable? The Value of Choice Architecture
+permalink: /johnson-choice-2013/
+tags: library 
+year: 2013
+bottlenecks: 
+  - Attention 
+  - Comprehension 
+  - Choice 
+delivery: 
+  - Form 
+  - Website 
+interventions: 
+  - Simplification 
+  - Choice Design 
+  - Cost/Benefit 
+  - Education 
+  - Incentives
+outcomes: 
+  - Accuracy 
+  - Choice
+  - Awareness
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+Starting this October, tens of millions will be choosing health coverage on a state or federal
+health insurance exchange as part of the Patient Protection and Affordable Care Act. We
+examine how well people make these choices, how well they think they do, and what can be
+done to improve these choices. We conducted 6 experiments asking people to choose the most
+cost-effective policy using websites modeled on current exchanges. Our results suggest there is
+significant room for improvement. Without interventions, respondents perform at near chance
+levels and show a significant bias, overweighting out-of-pocket expenses and deductibles.
+Financial incentives do not improve performance, and decision-makers do not realize that they
+are performing poorly. However, performance can be improved quite markedly by providing
+calculation aids, and by choosing a “smart” default. Implementing these psychologically-based
+principles could save purchasers of policies and taxpayers approximately 10 billion dollars every
+year.
+
+## Author(s)
+
+Eric J. Johnson, Ran Hassin, Tom Baker, Allison T. Bajger, and Galen Treuer
+
+## Design Type
+
+Lab Study
+
+## Source
+
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081521&version=meter+at+null&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click">Can Consumers Make Affordable Care Affordable? The Value of Choice Architecture</a>

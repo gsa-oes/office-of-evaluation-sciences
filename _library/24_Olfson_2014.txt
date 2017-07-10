@@ -1,0 +1,71 @@
+---
+title: Benzodiazepine Use in the United States
+permalink: /Olfson-Benzodiazepine-2014/
+tags: library 
+year: 2014
+bottlenecks: 
+  - Comprehension 
+  - Choice 
+delivery: 
+  - Email 
+  - Letter 
+  - In-person 
+  - Structural Change
+interventions:  
+  - Action Steps 
+  - Cost/Benefit 
+  - Education 
+outcomes: 
+  - Action 
+  - Choice 
+  - Awareness
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+IMPORTANCE: Although concern exists regarding the rate of benzodiazepine use, especially
+long-term use by older adults, little information is available concerning patterns of
+benzodiazepine use in the United States.
+
+OBJECTIVE: To describe benzodiazepine prescription patterns in the United States focusing
+on patient age and duration of use.
+
+DESIGN, SETTING, AND PARTICIPANTS: A retrospective descriptive analysis of benzodiazepine
+prescriptions was performed with the 2008 LifeLink LRx Longitudinal Prescription database
+(IMS Health Inc), which includes approximately 60%of all retail pharmacies in the United
+States. Denominators were adjusted to generalize estimates to the US population.
+
+MAIN OUTCOMES AND MEASURES: The percentage of adults filling 1 or more benzodiazepine
+prescriptions during the study year by sex and age group (18-35 years, 36-50 years, 51-64
+years, and 65-80 years) and among individuals receiving benzodiazepines, the corresponding
+percentages with long-term (120 days) benzodiazepine use, prescription of a long-acting
+benzodiazepine, and benzodiazepine prescriptions from a psychiatrist.
+
+RESULTS: In 2008, approximately 5.2%of US adults aged 18 to 80 years used
+benzodiazepines. The percentage who used benzodiazepines increased with age from 2.6%
+(18-35 years) to 5.4%(36-50 years) to 7.4%(51-64 years) to 8.7%(65-80 years).
+Benzodiazepine use was nearly twice as prevalent in women as men. The proportion of
+benzodiazepine use that was long term increased with age from 14.7%(18-35 years) to 31.4%
+(65-80 years), while the proportion that received a benzodiazepine prescription from a
+psychiatrist decreased with age from 15.0%(18-35 years) to 5.7%(65-80 years). In all age
+groups, roughly one-quarter of individuals receiving benzodiazepine involved long-acting
+benzodiazepine use.
+
+CONCLUSIONS AND RELEVANCE: Despite cautions concerning risks associated with long-term
+benzodiazepine use, especially in older patients, long-term benzodiazepine use remains
+common in this age group. More vigorous clinical interventions supporting judicious
+benzodiazepine use may be needed to decrease rates of long-term benzodiazepine use in
+older adults.
+
+## Author(s)
+
+Mark Olfson, MD, MPH; Marissa King, PhD; Michael Schoenbaum, PhD
+
+## Design Type
+
+Data Analysis
+
+## Source
+
+<a href="http://jamanetwork.com/journals/jamapsychiatry/fullarticle/2019955?;resultClick=3">Benzodiazepine Use in the United States</a>

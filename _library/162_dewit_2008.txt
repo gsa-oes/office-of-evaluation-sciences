@@ -1,0 +1,52 @@
+---
+title: What Works Best: Objective Statistics or a Personal Testimonial? An Assessment of the Persuasive Effects of Different Types of Message Evidence on Risk Perception
+permalink: /dewit-messager-2008/
+tags: library 
+year: 2008
+bottlenecks: 
+  - Attention 
+  - Motivation
+delivery: 
+  - Form 
+  - Website 
+interventions: 
+  - Messenger 
+  - Personalization 
+  - Education 
+outcomes: 
+  - Engagement 
+  - Awareness 
+domain: 
+  - Health 
+---
+## Abstract Summary
+
+[Paste in from abstract]
+
+## Author(s)
+
+Objective: In an experimental online study we compared the effects of different types of persuasive
+evidence in promoting the acceptance of a personal health risk. 
+
+Design: 118 men who have sex with men (MSM) at-risk for infection with the hepatitis B virus (HBV) were recruited via a range of websites and
+randomly assigned to one of 4 conditions (2 experimental and 2 control): narrative evidence (i.e., a
+personal account), statistical evidence (i.e., abstract prevalence data), mere assertion of increased risk,
+and no risk information. 
+
+Main Outcome Measures: Narrative evidence was expected to more effective
+than statistical evidence in increasing MSM’s perceived risk of infection with HBV an intention to obtain
+vaccination. 
+
+Results and Conclusion: As predicted, perceptions of personal risk and intention to obtain
+vaccination against HBV were highest after presentation of narrative evidence, and risk perception mediated
+the effect of type of message evidence on intention. We propose that narrative evidence effectively promotes
+a sense of personal risk because it is less affected by defensive message processing resulting from the threat
+to important self-beliefs that seems inherent in health risk communication.
+
+## Design Type
+
+RCT
+
+## Source
+
+<a href="https://www.researchgate.net/profile/John_Wit/publication/5621918_What_Works_Best_Objective_Statistics_or_a_Personal_Testimonial_An_Assessment_of_the_Persuasive_Effects_of_Different_Types_of_Message_Evidence_on_Risk_Perception/links/00b7d520e245642206000000/What-Works-Best-Objective-Statistics-or-a-Personal-Testimonial-An-Assessment-of-the-Persuasive-Effects-of-Different-Types-of-Message-Evidence-on-Risk-Perception.pdf">What Works Best: Objective Statistics or a Personal Testimonial? An Assessment of the Persuasive Effects of Different Types of Message Evidence on Risk Perception</a>
