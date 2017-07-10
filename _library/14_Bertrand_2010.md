@@ -1,5 +1,5 @@
 ---
-title: WHATíS ADVERTISING CONTENT WORTH? EVIDENCE FROM A CONSUMER CREDIT MARKETING FIELD EXPERIMENT
+title: WHAT‚ÄôS ADVERTISING CONTENT WORTH? EVIDENCE FROM A CONSUMER CREDIT MARKETING FIELD EXPERIMENT
 permalink: /template/
 tags: library 
 year: 2010
@@ -40,7 +40,7 @@ most in this context, the features that do matter have large effects. Showing fe
 example loans, not suggesting a particular use for the loan, or including a photo
 of an attractive woman increases loan demand by about as much as a 25% reduction
 in the interest rate. The evidence also suggests that advertising content
-persuades by appealing ìperipherallyî to intuition rather than reason. Although
+persuades by appealing ‚Äúperipherally‚Äù to intuition rather than reason. Although
 the advertising content effects point to an important role for persuasion and related
 psychology, our deadline results do not support the psychological prediction
 that shorter deadlines may help overcome time-management problems; instead,
@@ -56,4 +56,4 @@ RCT
 
 ## Source
 
-<a href="https://www.povertyactionlab.org/sites/default/files/publications/13%20Marketing%20Feb%2010.pdf">WHATíS ADVERTISING CONTENT WORTH? EVIDENCE FROM A CONSUMER CREDIT MARKETING FIELD EXPERIMENT</a>
+<a href="https://www.povertyactionlab.org/sites/default/files/publications/13%20Marketing%20Feb%2010.pdf">WHAT‚ÄôS ADVERTISING CONTENT WORTH? EVIDENCE FROM A CONSUMER CREDIT MARKETING FIELD EXPERIMENT</a>
