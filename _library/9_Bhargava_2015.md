@@ -1,5 +1,5 @@
 ---
-title: Psychological Frictions and the Incomplete Take-Up of Social Benefits-Evidence from an IRS Field Experiment
+title: Psychological Frictions and the Incomplete Take-Up of Social Benefits -- Evidence from an IRS Field Experiment
 permalink: /bhargava-benefit-takeup-2015/
 tags: library 
 year: 2015
