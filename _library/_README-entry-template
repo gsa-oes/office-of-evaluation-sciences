@@ -2,7 +2,7 @@ Use this as a baseline for creating each entry
 
 ---
 title: 
-permalink: /template/
+permalink: /authorlastname-onewordfromtitle-year/
 tags: library 
 year: 2017
 bottlenecks: 
@@ -31,7 +31,7 @@ interventions:
   - Reminders 
   - Timing 
   - Commitment 
-  - Social Norms 
+  - Social Norms
   - Messenger 
   - Personalization 
   - Cost/Benefit 
@@ -41,7 +41,8 @@ outcomes:
   - Engagement 
   - Action 
   - Accuracy 
-  - Choice 
+  - Choice
+  - Awareness
 domain: 
   - Health 
   - Retirement Security 
