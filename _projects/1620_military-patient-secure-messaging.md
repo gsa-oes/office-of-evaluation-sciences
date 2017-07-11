@@ -13,7 +13,7 @@ summary: Provider encouragement and on-the-spot assistance increased patient reg
 ---
 ## What was the challenge?
 
-The US Military Health System (MHS), through the Defense Health Agency, provides secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of enrollees register, and only 6% use the portal.
+The US Military Health System (MHS), through the Defense Health Agency (DHA), provides secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of enrollees register, and only 6% use the portal.
 
 ## What was the program change?
 
