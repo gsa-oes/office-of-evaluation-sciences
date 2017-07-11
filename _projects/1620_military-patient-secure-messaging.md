@@ -5,7 +5,7 @@ tags: project
 image: /assets/img/project-images/1620.jpg 
 image-credit: https://pixabay.com/photo-1149148/
 abstract: /assets/abstracts/1620_DHASecureMessagingAbstract-Intervention1.pdf
-year: 2016 
+year: 2017 
 domain: Health 
 agency: Defense 
 summary: Provider encouragement and on-the-spot assistance increased patient registrations for secure messaging
