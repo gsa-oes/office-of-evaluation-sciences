@@ -50,3 +50,8 @@ Data Analysis
 ## Source
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2798815/">Optimal Defaults and Active Decisions</a>
+
+## OES Project(s) that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/on-base-tsp-enrollment/">Increasing Servicemember On-Base TSP Enrollment</a>, <a href="https://oes.gsa.gov/projects/active-choice-tsp/">Increasing TSP Enrollment Rates through Active Choice</a>
+
