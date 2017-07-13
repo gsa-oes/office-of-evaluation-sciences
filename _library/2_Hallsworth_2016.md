@@ -47,3 +47,9 @@ RCT
 ## Source
 
 <a href="http://s3.amazonaws.com/fieldexperiments-papers/papers/00391.pdf">The Behavioralist As Tax Collector: Using Natural Field Experiments to Enhance Tax Compliance</a>
+
+## OES Projects That Cite this Research
+
+<a href="https://oes.gsa.gov/projects/increasing-debt-repayment/">Increasing Debt Repayment by Delinquent Lenders</a>, <a href="https://oes.gsa.gov/projects/reducing-inappropriate-prescribing/">Reducing Inappropriate Prescribing of Schedule II Substances in Medicare Part D</a>
+
+
