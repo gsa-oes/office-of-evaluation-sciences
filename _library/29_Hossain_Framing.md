@@ -30,3 +30,8 @@ Field Study
 ## Source
 
 <a href="http://pubsonline.informs.org/doi/abs/10.1287/mnsc.1120.1544">The Behavioralist Visits the Factory: Increasing Productivity Using Simple Framing Manipulations</a>
+
+## OES Project(s) that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/chapter-36-benefits/">Increasing Chapter 36 Benefits Uptake by Veterans</a>
+
