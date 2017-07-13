@@ -1,7 +1,16 @@
-Use this as a baseline for creating each entry after you have entered the information for the citation/coding in
+**Use this as dccument as a baseline for creating each entry after you have entered the information for the citation/coding in
 the Team Drive spreadsheet ( https://docs.google.com/spreadsheets/d/1gsnSRCWQblFqce0XSDll_huqB2YYvJ1rLtqldG5KFXc/edit#gid=0 )
 
-The format for naming the page is: authorlastname-onewordfromtitle-year.md  ((do not forget the .md at the end or it will not work!)
+1) Copy and paste everything from line 9 down into a new file (create new file) in the /_library/ folder. 
+  Make sure you are operating within the library branch, or this will not work! (you can double check this in the upper left corner of 
+  the page)
+2) Give your page a title using the naming format shown here: authorlastname-onewordfromtitle-year.md  
+   (do not forget the .md at the end or it will not work!)
+3) Using the instructions shown below (with the <<-- text), complete the entry as you noted it in the spreadsheet for each category
+4) Once you are done adding in the content, delete all instructions (<<-- text)
+5) Double check that you are committing directly to the library branch (first radio bubble)
+6) Click the green button "commit new file"
+7) Have Mo/Amira check your entry to make sure that it worked correctly
 
 ---
 title: <<---- Paste in title here. If there are colons (":"), replace with "--" or the page will not work. Make sure the entry is on a single line
