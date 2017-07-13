@@ -1,0 +1,43 @@
+---
+title: Challenges to Replication and Iteration in Field Experiments -- Evidence from Two Direct Mail Shots
+permalink: /bowers-higgins-replication-2017/
+tags: library 
+year: 2017
+bottlenecks: 
+  - Attention 
+  - Comprehension 
+delivery:  
+  - Letter 
+interventions: 
+  - Simplification 
+  - Visual Format 
+  - Action Steps 
+  - Social Norms
+  - Messenger 
+outcomes: 
+  - Action 
+domain: 
+  - Economic Opportunity
+author: 
+  - Jake Bowers
+  - Nathaniel Higgins
+---
+## Abstract Summary
+
+We conducted an experiment marketing microloans to farmers in the USA during Spring 2015 and found a simple direct mail letter increased borrowing from a government program. The subsequent spring, we built on this finding and enriched the design to test for information spillovers. The direct effect result did not replicate in the second year, thus lowering the likelihood that spillovers would be present and detectable. These results add to recent evidence on how (seemingly subtle) differences in context and treatment content affect consumer responses.
+
+## Author(s)
+
+<a href="https://oes.gsa.gov/team/jake-bowers/">Jake Bowers</a>, <a href="https://oes.gsa.gov/team/nathaniel-higgins/">Nathaniel Higgins</a>, Dean Karlan, Sarah Tulman, and Jonathan Zinman
+
+## OES Projects Cited 
+
+<a href="https://oes.gsa.gov/projects/microloans-for-farmers-1/">Increasing Farmer Microloan Applications</a>
+
+## Design Type
+
+RCT, Review
+
+## Source
+
+<a href="https://doi.org/10.1257/aer.p20171060">Challenges to Replication and Iteration in Field Experiments -- Evidence from Two Direct Mail Shots</a>
