@@ -5,7 +5,6 @@ year:
   - 2017
   - 2018
 agency:  
-  - Education
 home: University
 title: Fellow
 ---
