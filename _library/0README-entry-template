@@ -1,19 +1,20 @@
-Use this as a baseline for creating each entry.
+Use this as a baseline for creating each entry after you have entered the information for the citation/coding in
+the Team Drive spreadsheet ( https://docs.google.com/spreadsheets/d/1gsnSRCWQblFqce0XSDll_huqB2YYvJ1rLtqldG5KFXc/edit#gid=0 )
 
-The format for naming the page is: authorlastname-onewordfromtitle-year.md
+The format for naming the page is: authorlastname-onewordfromtitle-year.md  ((do not forget the .md at the end or it will not work!)
 
 ---
-title: 
-permalink: /authorlastname-onewordfromtitle-year/
-tags: library 
-year: 2017
-bottlenecks: 
+title: <<---- Paste in title here. If there are colons (":"), replace with "--" or the page will not work. Make sure the entry is on a single line
+permalink: /authorlastname-onewordfromtitle-year/  <<-- update the link according to the formula shown here
+tags: library <<-- Do NOT update
+year: 2017 <<-- Update Year
+bottlenecks: <<-- Remove any of the following tags that  do not apply to the article you are completeing the entry for; multiple tags are allowed for each entry
   - Attention 
   - Motivation
   - Comprehension 
   - Choice 
   - Implementation
-delivery: 
+delivery: <<-- Remove any of the following tags that  do not apply to the article you are completeing the entry for; multiple tags are allowed for each entry
   - Email 
   - Letter 
   - Text 
@@ -23,7 +24,7 @@ delivery:
   - Label 
   - In-person 
   - Structural Change
-interventions: 
+interventions: <<-- Remove any of the following tags that  do not apply to the article you are completeing the entry for; multiple tags are allowed for each entry
   - Simplification 
   - Visual Format 
   - Framing 
@@ -39,13 +40,13 @@ interventions:
   - Cost/Benefit 
   - Education 
   - Incentives
-outcomes: 
+outcomes: <<-- Remove any of the following tags that  do not apply to the article you are completeing the entry for; multiple tags are allowed for each entry
   - Engagement 
   - Action 
   - Accuracy 
   - Choice
   - Awareness
-domain: 
+domain: <<-- Remove any of the following tags that  do not apply to the article you are completeing the entry for; multiple tags are allowed for each entry
   - Health 
   - Retirement Security 
   - Environment 
@@ -54,6 +55,7 @@ domain:
   - Government Operations
   - International Development 
   - Justice
+author: <<-- If the paper has an author that is an OES Team Member/Alumni, add them in here; if not, leave blank
 ---
 ## Abstract Summary
 
@@ -65,8 +67,8 @@ domain:
 
 ## Design Type
 
-RCT, Review, Data Analysis, Field Study/Lab Study, Qualitative
+[RCT, Review, Data Analysis, Field Study/Lab Study, Qualitative] <<-- Remove any of the following tags that  do not apply to the article you are completeing the entry for; multiple tags are allowed for each entry
 
 ## Source
 
-<a href="WEBSITE">TITLE</a>
+<a href="WEBSITE">TITLE</a>   <<--insert the hyperlink where it says WEBSITE (be sure to keep the "" on the outside); paste in title where it says "TITLE"
