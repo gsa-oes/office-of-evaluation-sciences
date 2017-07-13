@@ -43,3 +43,7 @@ Qualitative
 ## Source
 
 <a href="http://nrs.harvard.edu/urn-3:HUL.InstRepos:2907437">A Behavioral Economics View of Poverty</a>
+
+## OES Project(s) that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/duplex-printing/">Increasing Duplex Printing Among Federal Workforce</a>
