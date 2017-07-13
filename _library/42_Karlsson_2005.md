@@ -37,3 +37,8 @@ Data Analysis
 ## Source
 
 <a href="https://weatherhead.case.edu/departments/banking-and-finance/Documents/Seppipaper.pdf">The ‘Ostrich Effect’: Selective Attention to Information about Investments</a>
+
+## OES Project(s) that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/hud-youth-fafsa/">Increasing FAFSA Completion by HUD-Assisted Youth</a>, <a href="https://oes.gsa.gov/projects/idr-applications-targeted-messages/">Increasing IDR Applications Among Eligible Student Loan Borrowers through Targeted Messages</a>, <a href="https://oes.gsa.gov/projects/idr-applications-scale-up/">Increasing IDR Applications Among Eligible Student Loan Borrowers - Scale Up</a>,
+
