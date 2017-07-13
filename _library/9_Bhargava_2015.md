@@ -54,8 +54,7 @@ RCT
 
 <a href="https://www.cmu.edu/dietrich/sds/docs/bhargava/Bhargava_Takeup%20AER%202015.pdf">Psychological Frictions and the Incomplete Take-Up of Social Benefits: Evidence from an IRS Field Experiment†</a>
 
-## OES Projects that Cite this Research
+## OES Project(s) that Cite this Research
 
-<a href="https://oes.gsa.gov/projects/increasing-IDR-applications/">Increasing IDR Applications Among Delinquent Student Borrowers
-</a>
+<a href="https://oes.gsa.gov/projects/increasing-IDR-applications/">Increasing IDR Applications Among Delinquent Student Borrowers</a>
 
