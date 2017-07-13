@@ -1,5 +1,5 @@
 ---
-name: Will Tucker
+name: Will Tucker-Ray
 image: /assets/img/team/tucker_will.jpg
 year: 
   - 2015
