@@ -36,7 +36,7 @@ RCT
 
 <a href="http://www.hbs.edu/faculty/Pages/item.aspx?num=45361">Using Implementation Intentions Prompts to Enhance Influenza Vaccination Rates</a>
 
-## OES Projects that Cite this Research
+## OES Project(s) that Cite this Research
 
 <a href="https://oes.gsa.gov/projects/health-insurance-enrollment-2/">Increasing Health Insurance Enrollment Among Uninsured Americans</a>
 
