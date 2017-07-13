@@ -40,3 +40,7 @@ Data Analysis
 ## Source
 
 <a href="http://www.sciencedirect.com/science/article/pii/S0167268112000583">Simplification and Saving</a>
+
+## OES Project(s) that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/online-tsp-enrollment/">Increasing Online TSP Enrollment by Servicemembers</a>
