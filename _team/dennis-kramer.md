@@ -1,15 +1,15 @@
+---
 name: Dennis Kramer
-image: /assets/img/team/allyson-barnett.jpg <<-- copy and paste this line in from the header of where you uploaded your headshot
-year: <<-- for each year you have been with the team (calendar year, not FY), enter the years below, being sure to separate with a new line and a dash as shown below
-  - 2016
+image: /assets/img/team/Kramer_II_Dennis.jpg
+year: 
   - 2017
-agency:  <<-- List all agencies you have collaborated with on projects with OES. Please review the team page at oes.gsa.gov/team/ to make sure you list the agencies as we have used them on the website (e.g., USDA is "Agriculture")
-  - Federal Emergency Management 
-  - Health and Human Services
-  - Postal Service
-  - Treasury
-home: University <<-- depending on where you came from, choose from either "University": you are on-loan from a university; "Government": you are a full-time government employee; or "Non-profit": you are on-loan from a non-profit)
-title: Associate Fellow <<-- Enter your title here
+  - 2018
+agency:  
+  - Education
+home: University
+title: Fellow
 ---
 
-[INSERT BIO TEXT HERE] <<-- If you need inspiration, review bio styles and content at oes.gsa.gov/team/
+Dennis Kramer is an Assistant Professor of Education Policy and Director of the Education Policy Research Center at the University of Florida. Kramer’s research focuses on the use of behavioral insights to understand education-based decision-making, the antecedents and outcomes of federal, state, and local policies, and economics of education. Kramer is a Co-PI on a funded study that examines the impact of informational “nudges” and fiscal incentives as mechanisms to increase student re-enrollment in community colleges. Additionally, he is leading a field-based experiment that examines the role of structural default choice settings on student loan take-up and disbursement.
+ 
+Kramer holds a B.S. in Psychology from San Diego State University, a M.Ed. in Postsecondary Administration from the University of Southern California, and a Ph.D. in Higher Education from the Institute of Higher Education at the University of Georgia.
