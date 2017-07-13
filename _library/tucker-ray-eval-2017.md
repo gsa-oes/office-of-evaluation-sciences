@@ -39,6 +39,10 @@ message emphasized a high contribution rate, or no rate at all.
 
 Jacob Goldin, <a href="https://oes.gsa.gov/team/tatiana-homonoff/">Tatiana Homonoff</a>, and <a href="https://oes.gsa.gov/team/will-tucker/">Will Tucker-Ray</a>
 
+## OES Projects Cited 
+
+<a href="https://oes.gsa.gov/projects/online-tsp-enrollment/">Increasing Online TSP Enrollment by Servicemembers</a>
+
 ## Design Type
 
 RCT
