@@ -57,3 +57,7 @@ RCT
 ## Source
 
 <a href="https://www.povertyactionlab.org/sites/default/files/publications/13%20Marketing%20Feb%2010.pdf">WHAT’S ADVERTISING CONTENT WORTH? EVIDENCE FROM A CONSUMER CREDIT MARKETING FIELD EXPERIMENT</a>
+
+## OES Projects that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/health-insurance-enrollment-2/">Increasing Health Insurance Enrollment Among Uninsured Americans</a>
