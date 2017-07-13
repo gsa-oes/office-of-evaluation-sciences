@@ -33,3 +33,7 @@ Lab Study
 ## Source
 
 <a href="http://www.anderson.ucla.edu/faculty/keith.chen/negot.%20papers/KahnKnetThal_ExpTestsOfEndEffect90.pdf">Experimental Tests of the Endowment Effect and the Coase Theorem</a>
+
+## OES Project(s) that Cite this Research
+
+<a href="https://oes.gsa.gov/projects/chapter-36-benefits/">Increasing Chapter 36 Benefits Uptake by Veterans</a>
