@@ -1,6 +1,6 @@
 ---
 title: Should Governments Invest More in Nudging?
-permalink: /authorlastname-onewordfromtitle-year/
+permalink: /congdon-tucker-ray-gov-nudging-2017/
 tags: library 
 year: 2017
 bottlenecks: 
@@ -12,25 +12,20 @@ bottlenecks:
 delivery: 
   - Email 
   - Letter 
-  - Text 
-  - Phone 
   - Form 
   - Website 
-  - Label 
   - In-person 
   - Structural Change
 interventions: 
   - Simplification 
   - Visual Format 
   - Framing 
-  - Anchoring 
   - Choice Design 
   - Action Steps 
   - Reminders 
   - Timing 
   - Commitment 
-  - Social Norms
-  - Messenger 
+  - Social Norms 
   - Personalization 
   - Cost/Benefit 
   - Education 
@@ -38,19 +33,17 @@ interventions:
 outcomes: 
   - Engagement 
   - Action 
-  - Accuracy 
   - Choice
-  - Awareness
 domain: 
   - Health 
   - Retirement Security 
   - Environment 
   - Education 
-  - Economic Opportunity
   - Government Operations
   - International Development 
-  - Justice
-author: Will Tucker-Ray
+author: 
+  - Will Tucker-Ray
+  - William J. Congdon
 ---
 ## Abstract Summary
 
@@ -67,10 +60,14 @@ determine the relative effectiveness of nudging.
 Shlomo Benartzi, John Beshears, Katherine L. Milkman,
 Cass R. Sunstein, Richard H. Thaler, Maya Shankar, <a href="https://oes.gsa.gov/team/will-tucker/">Will Tucker-Ray</a>,  <a href="https://oes.gsa.gov/team/william-congdon/">William J. Congdon</a>, and Steven Galing
 
+## OES Projects Cited 
+
+<a href="https://oes.gsa.gov/projects/online-tsp-enrollment/">Increasing Online TSP Enrollment by Servicemembers</a>
+
 ## Design Type
 
-RCT
+Review
 
 ## Source
 
-[Evaluating Behavioral Policy Applications Using Administrative Data Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment]({{site.baseurl}}/assets/abstracts/tucker-ray-eval-policy-2017.pdf)
+<a href="http://journals.sagepub.com/doi/10.1177/0956797617702501">Should Governments Invest More in Nudging?</a>
