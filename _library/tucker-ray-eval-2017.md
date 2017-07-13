@@ -1,5 +1,5 @@
 ---
-title: Evaluating Behavioral Policy Applications Using Administrative Data | Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment
+title: Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment
 permalink: /tucker-ray-evaluating-admin-2017/
 tags: library 
 year: 2017
@@ -37,7 +37,7 @@ message emphasized a high contribution rate, or no rate at all.
 
 ## Author(s)
 
-Jacob Goldin, [Tatiana Homonoff]({{site.baseurl}}/_team/tatiana-homonoff.md), and [Will Tucker-Ray]({{site.baseurl}}/_team/will-tucker.md)
+Jacob Goldin, <a href="https://oes.gsa.gov/team/tatiana-homonoff/">Tatiana Homonoff</a>, and <a href="https://oes.gsa.gov/team/will-tucker/">Will Tucker-Ray</a>
 
 ## Design Type
 
@@ -45,4 +45,4 @@ RCT
 
 ## Source
 
-[Evaluating Behavioral Policy Applications Using Administrative Data | Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment]({{site.baseurl}}/assets/abstracts/tucker-ray-eval-policy-2017.pdf)
+[Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment]({{site.baseurl}}/assets/abstracts/tucker-ray-eval-policy-2017.pdf)
