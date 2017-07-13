@@ -65,8 +65,7 @@ determine the relative effectiveness of nudging.
 ## Author(s)
 
 Shlomo Benartzi, John Beshears, Katherine L. Milkman,
-Cass R. Sunstein, Richard H. Thaler, Maya Shankar,
-[Will Tucker-Ray]({{site.baseurl}}/team/will-tucker/), [William J. Congdon]({{site.baseurl}}/_team/william-congdon.md, and Steven Galing
+Cass R. Sunstein, Richard H. Thaler, Maya Shankar, <a href="https://oes.gsa.gov/team/will-tucker/">Will Tucker-Ray</a>,  <a href="https://oes.gsa.gov/team/william-congdon/">William J. Congdon</a>, and Steven Galing
 
 ## Design Type
 
@@ -74,4 +73,4 @@ RCT
 
 ## Source
 
-[Evaluating Behavioral Policy Applications Using Administrative Data | Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment]({{site.baseurl}}/assets/abstracts/tucker-ray-eval-policy-2017.pdf)
+[Evaluating Behavioral Policy Applications Using Administrative Data Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment]({{site.baseurl}}/assets/abstracts/tucker-ray-eval-policy-2017.pdf)
