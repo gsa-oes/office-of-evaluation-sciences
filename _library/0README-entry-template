@@ -13,7 +13,7 @@ the Team Drive spreadsheet ( https://docs.google.com/spreadsheets/d/1gsnSRCWQblF
 7) Have Mo/Amira check your entry to make sure that it worked correctly
 
 ---
-title: <<---- Paste in title here. If there are colons (":"), replace with "--" or the page will not work. Make sure the entry is on a single line
+title: <<---- Paste in title here. If there are colons (":"), replace with "--" or the page will not work. Make sure the title is on a single line
 permalink: /authorlastname-onewordfromtitle-year/  <<-- update the link according to the formula shown here
 tags: library <<-- Do NOT update
 year: 2017 <<-- Update Year
