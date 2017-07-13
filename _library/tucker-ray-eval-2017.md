@@ -49,4 +49,4 @@ RCT
 
 ## Source
 
-[Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment]({{site.baseurl}}/assets/abstracts/tucker-ray-eval-policy-2017.pdf)
+<a href="https://doi.org/10.1257/aer.p20171059">Retirement Contribution Rate Nudges and Plan Participation -- Evidence from a Field Experiment</a>
