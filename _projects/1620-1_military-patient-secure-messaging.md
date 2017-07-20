@@ -1,5 +1,5 @@
 ---
-title: Increasing Military Patient Use of Secure Messaging
+title: Increasing Military Patient Use of Secure Messaging through Personal Appeal and Assistance
 permalink: /projects/military-secure-messaging/
 tags: project
 image: /assets/img/project-images/1620.jpg 
