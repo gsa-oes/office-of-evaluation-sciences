@@ -17,7 +17,7 @@ The Defense Health Agency's (DHA) military treatment facilities (MTFs) provide s
 
 ## What was the program change?
 
-DHA, Naval Medical Center Camp Lejeune (NMCCL), and OES designed an intervention involving follow-up emails send by providers to patients who had already both received in-person encouragement from their provider and been offered on-the-spot assistance in registering in the secure messaging system.
+DHA, Naval Medical Center Camp Lejeune (NMCCL), and OES designed an intervention involving follow-up emails sent by providers to patients who had already both received in-person encouragement from their provider and been offered on-the-spot assistance in registering in the secure messaging system.
 
 ## How did the evaluation work?
 
