@@ -13,15 +13,15 @@ summary: Provider encouragement and on-the-spot assistance increased patient reg
 ---
 ## What was the challenge?
 
-The US Military Health System (MHS), through the Defense Health Agency (DHA), provides secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of enrollees register, and only 6% use the portal.
+The Defense Health Agency’s (DHA) military treatment facilities (MTFs) provide secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of MTF enrollees register, and only 6% use the portal.
 
 ## What was the program change?
 
-DHA, Naval Hospital Camp Lejeune (NHCL), and OES designed an intervention added to family medicine appointments that consisted of: 1) providers making a personal appeal regarding registration during patient visits, 2) on-site staff assisting patients with signup, and 3) staff providing a checkout sheet to patients with registration instructions to complete later.
+DHA, Naval Medical Center Camp Lejeune (NMCCL), and OES designed an intervention added to family medicine appointments that consisted of: 1) providers making a personal appeal regarding registration during patient visits, 2) on-site staff assisting patients with signup, and 3) staff providing a checkout sheet to patients with registration instructions to complete later.
 
 ## How did the evaluation work?
 
-Patient registration for secure messaging at the NHCL Family Medicine Clinic was compared to registration at seven other, demographically similar military treatment facilities selected by DHA over six and a half months.
+Patient registration for secure messaging at the NMCCL Family Medicine Clinic was compared to registration at seven other, demographically similar military treatment facilities selected by DHA over six and a half months.
 
 
 ## What was the impact?
