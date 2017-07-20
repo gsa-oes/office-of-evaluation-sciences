@@ -13,7 +13,7 @@ summary: Emails sent after an appointment-based intervention had no statisticall
 ---
 ## What was the challenge?
 
-The Defense Health Agency's (DHA) Military treatment facilities (MTFs) provide secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of MTF enrollees register, and only 6% use the portal.
+The Defense Health Agency's (DHA) military treatment facilities (MTFs) provide secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of MTF enrollees register, and only 6% use the portal.
 
 ## What was the program change?
 
