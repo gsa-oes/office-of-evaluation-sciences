@@ -2,9 +2,9 @@
 title: Increasing Military Patient Use of Secure Messaging Using Email Reminders
 permalink: /projects/military-patient-messaging-emails/
 tags: project 
-image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image: /assets/img/project-images/1620-2.jpg
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
-abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
+abstract: /assets/abstracts/1620-2_DHA Secure Messaging Abstract.pdf
 year: 2017
 domain: Health
 agency: Defense 
