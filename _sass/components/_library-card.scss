@@ -39,6 +39,13 @@
   }
 }
 
+.card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100px;
+  width: 100%;
+}
 .library-card-description.library-card-description {
   color: $color-primary;
   margin-top: 0;
