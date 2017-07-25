@@ -76,19 +76,14 @@ body:not(.page-home) {
 .background-brand-dark {
   @include background-dark;
   background-color: $color-brand-dark;
-  .card {
-    background-color: $color-white;
-    .card-summary {
-      color: initial;
-    }
-    .card-read {
-      color: $color-primary;
-    }
-  }
 }
 
 .background-light {
   background-color: $color-brand-light;
+
+  .card {
+    background-color: $color-white;
+  }
 
   .usa-button {
     background-color: $color-brand-dark;
