@@ -5,3 +5,9 @@
     width: 102.5%;
   }
 }
+
+.library-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

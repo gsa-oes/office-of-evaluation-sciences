@@ -10,10 +10,7 @@
   text-decoration: none;
 
   @include media($medium-screen) {
-    display: flex;
-    flex-direction: column;
     margin-right: 2.3%;
-    min-height: 350px;
     width: 31%;
   }
 
