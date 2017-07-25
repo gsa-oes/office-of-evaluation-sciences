@@ -20,10 +20,14 @@ layout: base
   {% include graphic-list.html graphics=page.graphics %}
 {% endcapture %}
 {% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
-
+<section class="usa-section featured background-brand-dark">
+  <div class="usa-grid">
+      <h2>Title Here</h2>
+    {% include projects-feature.html %}
+  </div>
+</section>
 <section class="usa-section billboard">
   <div class="usa-grid">
-    {% include projects-feature.html %}
     <div class="usa-media_block-img">
       {% include icons/gears.svg %}
     </div>
