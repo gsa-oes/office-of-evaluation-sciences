@@ -8,8 +8,8 @@ abstract: /assets/abstracts/1702-Project-MGMT.pdf
 year: 2017
 domain: Government Efficiency
 agency: General Services Administration
-impact:
 summary: A 16-week training course for Federal Supervisors shows potential to improve organizational culture and performance. 
+featured: homepage
 ---
 ## What was the challenge?
 
