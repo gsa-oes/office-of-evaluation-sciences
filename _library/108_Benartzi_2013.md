@@ -2,6 +2,7 @@
 title: Behavioral Economics and the Retirement Savings Crisis
 permalink: /benartzi-retirement-2013/
 tags: library 
+image: /assets/img/library.png
 year: 2013
 bottlenecks: 
   - Comprehension 
