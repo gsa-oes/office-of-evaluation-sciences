@@ -10,7 +10,6 @@ domain: Retirement Security
 agency: Defense
 impact:
 summary: One email enables 22% more Servicemembers to re-enroll in their Thrift Savings Plans.
-featured: homepage
 ---
 ## What was the challenge?
 
