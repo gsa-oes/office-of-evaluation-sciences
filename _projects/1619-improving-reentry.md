@@ -9,6 +9,7 @@ domain: Justice
 agency: Justice
 impact:
 summary: Empowering the re-entry population to thrive in their communities by developing a handbook that articulates concrete steps. 
+featured: homepage
 ---
 ## What was the challenge?
 
