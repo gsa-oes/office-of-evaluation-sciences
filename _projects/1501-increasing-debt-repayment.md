@@ -10,6 +10,7 @@ domain: Government Operations
 agency: Treasury
 impact:
 summary: A modified letter sent to delinquent borrowers increased utilization of online payments.
+featured: homepage
 ---
 ## What was the challenge?
 
@@ -17,12 +18,12 @@ The Department of the Treasury’s Debt Management Services (DMS) was seeking to
 
 ## What was the program change?
 
-OES modified the DMS collection letter using insights such as simplification, personalization, social comparison, and emphasizing the total debt owed, to increase the rate of debt recovery. 
+OES modified the DMS collection letter using insights such as simplification, personalization, social comparison, and emphasizing the total debt owed, to increase the rate of debt recovery.
 
 ## How did the evaluation work?
 
-21,305 individuals with debts from six creditor agencies were randomly assigned to be sent either the new letter or the status quo letter. To determine the effectiveness of the letter changes, the new letter was compared to the status quo delinquency letter during a trial conducted over a six month period. 
+21,305 individuals with debts from six creditor agencies were randomly assigned to be sent either the new letter or the status quo letter. To determine the effectiveness of the letter changes, the new letter was compared to the status quo delinquency letter during a trial conducted over a six month period.
 
 ## What was the impact?
 
-The evidence from the trial suggests that the new letter did not affect overall payment rates on delinquent, non-tax debt. However, it did affect the method of payment by increasing utilization of online payments. 
+The evidence from the trial suggests that the new letter did not affect overall payment rates on delinquent, non-tax debt. However, it did affect the method of payment by increasing utilization of online payments.
