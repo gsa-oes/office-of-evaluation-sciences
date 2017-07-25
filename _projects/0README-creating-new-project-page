@@ -44,7 +44,7 @@ created the page and specific project branch, complete the following final items
 title: Increasing TSP Enrollment Rates through Active Choice <<-- full title, can include spaces
 permalink: /projects/active-choice-tsp/ <<-- what you want the end of the hyperlink to appear as on the real website
 tags: project  <<-- do not remove
-image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image: /assets/img/project-images-web/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
 image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
 abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
 year: 2016  <<-- update the year

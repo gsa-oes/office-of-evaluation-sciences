@@ -2,7 +2,7 @@
 title: Increasing Post-Grace Period Loan Payments by Student Borrowers
 permalink: /projects/grace-period-student-borrowers/
 tags: project
-image: /assets/img/project-images/student-loans4.jpg
+image: /assets/img/project-images-web/student-loans4.jpg
 image-credit: https://www.flickr.com/photos/whatcouldgowrong/
 abstract: /assets/abstracts/1513-Missed-Student-Loan-Payments.pdf
 year: 2015

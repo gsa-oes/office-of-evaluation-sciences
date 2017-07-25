@@ -2,7 +2,7 @@
 title: Improving Voter Participation in Local USDA Elections
 permalink: /projects/usda-local-elections/
 tags: project
-image: /assets/img/project-images/usda.jpg
+image: /assets/img/project-images-web/usda.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1613-Local-USDA-Elections.pdf
 year: 2016

@@ -2,7 +2,7 @@
 title: Increasing Debt Repayment by Delinquent Lenders
 permalink: /projects/increasing-debt-repayment/
 tags: project
-image: /assets/img/project-images/treasury.jpg
+image: /assets/img/project-images-web/treasury.jpg
 image-credit: https://www.flickr.com/photos/kevlar/
 abstract: /assets/abstracts/1501-Delinquent-Debt-Repayment.pdf
 year: 2015

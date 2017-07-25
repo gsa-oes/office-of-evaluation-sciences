@@ -2,7 +2,7 @@
 title: Reducing Summer Melt
 permalink: /projects/reducing-summer-melt/
 tags: project
-image: /assets/img/project-images/summer-melt.jpg
+image: /assets/img/project-images-web/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/abstracts/1515-Summer-Melt.pdf
 year: 2015

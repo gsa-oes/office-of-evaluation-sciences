@@ -37,7 +37,7 @@ colors:
 
 analytics:
   google:
-    code: 'UA-67580537-1' 
+    code: 'UA-67580537-1'
   dap:
     agency: GSA
     subagency: OES
@@ -71,3 +71,11 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+mini_magick:
+  thumbnail:
+    source: assets/img/project-images
+    destination: assets/img/project-images-web
+    resize: "312x200^"
+    gravity: "center"
+    extent: "312x200"
