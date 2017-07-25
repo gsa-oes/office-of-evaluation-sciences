@@ -1,5 +1,5 @@
 <div class="project-container">
-{% for project in site.projects %}
+{% for project in site.projects reversed %}
   {% unless project.featured %}
     <article class="card usa-width-one-third js-filterable" {% for filter in layout.filters %}
     data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
