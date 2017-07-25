@@ -10,7 +10,6 @@ domain: Government Operations
 agency: Treasury
 impact:
 summary: A modified letter sent to delinquent borrowers increased utilization of online payments.
-featured: homepage
 ---
 ## What was the challenge?
 
