@@ -9,7 +9,7 @@ year: 2017
 domain: Health 
 agency: Defense 
 summary: Provider encouragement and on-the-spot assistance increased patient registrations for secure messaging
-
+featured: homepage
 ---
 ## What was the challenge?
 

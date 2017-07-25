@@ -1,5 +1,6 @@
 <div class="project-container">
 {% for project in site.projects %}
+{% if project.featured == "homepage" %}
     <article class="card usa-width-one-third js-filterable" {% for filter in layout.filters %}
     data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
       <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
@@ -24,5 +25,6 @@
         {% include icons/arrow-right.svg %}
       </a>
     </article>
+  {% endif %}
 {% endfor %}
 </div>

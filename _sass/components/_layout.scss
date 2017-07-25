@@ -81,6 +81,10 @@ body:not(.page-home) {
 .background-light {
   background-color: $color-brand-light;
 
+  .card {
+    background-color: $color-white;
+  }
+
   .usa-button {
     background-color: $color-brand-dark;
   }
@@ -97,4 +101,3 @@ body:not(.page-home) {
     color: $color-primary-darker;
   }
 }
-

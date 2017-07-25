@@ -17,7 +17,7 @@ A 2009 survey indicated that the average government employee printed about 30 pa
 
 ## What was the program change?
 
-At no material cost, OES created a digital dialog box that asked employees to change their default printer setting to double-sided after employees had initiated a single-sided print job. 
+At no material cost, OES created a digital dialog box that asked employees to change their default printer setting to double-sided after employees had initiated a single-sided print job.
 
 ## How did the evaluation work?
 
@@ -26,4 +26,3 @@ A randomized set of USDA employees received the pop-up that required a second mo
 ## What was the impact?
 
 This increased double-sided printing by 5.8%, thereby saving government money and resources.
-
