@@ -3,6 +3,7 @@ title: Increasing IDR Applications Among Delinquent Student Borrowers
 permalink: /projects/increasing-IDR-applications/
 tags: project
 image: /assets/img/project-images/income-driven-repayment.jpg
+image_thumbnail: /assets/img/project-images-web/income-driven-repayment.jpg
 image-credit: https://www.flickr.com/photos/timetrax/
 abstract: /assets/abstracts/1503-Income-Driven-Repayment.pdf
 year: 2015

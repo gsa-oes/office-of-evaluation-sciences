@@ -1,7 +1,7 @@
 ---
 title: Facilitating Individual Action to Build Stronger Community-Police Relationships
 permalink: /projects/community-police-relationships/
-image: /assets/img/project-images/IMG_2920.jpg
+image: /assets/img/project-images-web/IMG_2920.jpg
 year: 2016
 domain: Justice
 agency: Justice

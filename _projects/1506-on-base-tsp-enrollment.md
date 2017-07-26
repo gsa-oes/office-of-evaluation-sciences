@@ -2,7 +2,7 @@
 title: Increasing Servicemember On-Base TSP Enrollment
 permalink: /projects/on-base-tsp-enrollment/
 tags: project
-image: /assets/img/project-images/military12.jpg
+image: /assets/img/project-images-web/military12.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1506-On-Base-Servicemember-TSP-Enrollment.pdf
 year: 2015

@@ -2,7 +2,7 @@
 title: Increasing Satisfaction Survey Response Rate from Federal Tenants - Time of Day
 permalink: /projects/tenant-satisfaction-survey-time-of-day/
 tags: project
-image: /assets/img/project-images/tenant-statisfaction.jpg
+image: /assets/img/project-images-web/tenant-statisfaction.jpg
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 abstract: /assets/abstracts/1512-3-Tenant-Satisfaction-Survey-Response-Time-of-Day.pdf
 year: 2015
