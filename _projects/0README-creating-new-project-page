@@ -12,7 +12,7 @@ TO CREATE A PAGE PREVIEW FOR YOUR PROJECT
    example, and additional notes have been provided following the arrows <<--. This text will need to be removed in your new page.)))
 4) Per instructions given to the right of the arrows (<<--), update information for your project and paste in content from project
    slide where instructed (the headers are the same, so the body content will need to be inserted).
-  <<NOTE: the following fields should remain empty for now: image, image-credit, and abstract. In order to create a single working branch 
+  <<NOTE: the following fields should remain empty for now: image, image-credit, and abstract. In order to create a single working branch
           that can be previewed easily by agencies, the page needs to be created first, and then the abstract and image are added>>
 5) Remove all notes pasted in to the form (including <<-- and comments)
 6) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
@@ -20,16 +20,16 @@ TO CREATE A PAGE PREVIEW FOR YOUR PROJECT
 8) CLick the green button that reads "Propose new file"
 
 Once you have clicked that button, you've successfully created a branch that your agency will be able to preview. Now that you have
-created the page and specific project branch, complete the following final items: 
+created the page and specific project branch, complete the following final items:
 
 9) Search on Flickr.com (using only "US Government work" or "No known copyrights" as the license filter in the top left corner
    to choose a picture that will be the thumbnail and header photo. Save the image to your desktop with your project number as
    the file name, note the image credit (link to the photographer's flickr site) for later use.
-10) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says 
+10) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says
     "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber") upload the image into
      assets/img/project-images/.
    - leave this window open in a separate tab for easy copy/pasting later
-11) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says 
+11) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says
     "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/abstracts/,
     and upload the pdf file of the abstract, naming it as follows: project number and the project title, with dashes (-) between words
     <<DO NOT ues spaces in the file name>> (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
@@ -44,7 +44,8 @@ created the page and specific project branch, complete the following final items
 title: Increasing TSP Enrollment Rates through Active Choice <<-- full title, can include spaces
 permalink: /projects/active-choice-tsp/ <<-- what you want the end of the hyperlink to appear as on the real website
 tags: project  <<-- do not remove
-image: /assets/img/project-images-web/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image_thumbnail: /assets/img/project-images-web/navy-paperwork.jpg  << -- the web version of the file is auto generated, so the name is the same. Just make sure the path contains -web
 image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
 abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
 year: 2016  <<-- update the year
