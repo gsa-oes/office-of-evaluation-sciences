@@ -35,12 +35,20 @@ layout: base
     </div>
   </div>
 </section>
+{% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
+{% if featuredprojects.size == 0 %}
+{% else %}
 <section class="usa-section featured background-light">
   <div class="usa-grid">
       <h2>Featured Projects</h2>
-    {% include projects-feature.html %}
+     <div class="project-container">
+        {% for project in featuredprojects %}
+        {% include projects.html %}
+        {% endfor %}
+  </div>
   </div>
 </section>
+{% endif %}
 <section class="usa-section background-brand-dark">
   <div class="usa-grid main-content">
      <div class= "usa-grid" align="center">
