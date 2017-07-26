@@ -16,7 +16,7 @@ scripts:
 
 {% include filter.html items=site.projects filters=layout.filters %}
 <div class="project-container">
-  {% for project in site.projects %}
+  {% for project in site.projects reversed %}
     {% include projects.html %}
   {% endfor %}
 </div>
