@@ -10,7 +10,6 @@ domain: Education
 agency: Education
 impact:
 summary: Sending emails to delinquent borrowers positively impacted IDR application completion.
-featured: homepage
 ---
 ## What was the challenge?
 

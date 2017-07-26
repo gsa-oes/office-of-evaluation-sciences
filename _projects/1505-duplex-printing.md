@@ -10,7 +10,6 @@ domain: Government Operations
 agency: Agriculture
 impact:
 summary: A digital pop up significantly lowers office-wide printing costs.
-featured: homepage
 ---
 ## What was the challenge?
 
