@@ -2,7 +2,8 @@
 title: Increasing Duplex Printing Among Federal Workforce
 permalink: /projects/duplex-printing/
 tags: project
-image: /assets/img/project-images-web/duplex-printing.jpg
+image: /assets/img/project-images/duplex-printing.jpg
+image_thumbnail: /assets/img/project-images-web/duplex-printing.jpg
 image-credit: https://www.flickr.com/photos/featheredtar/
 abstract: /assets/abstracts/1505-Double-Sided-Printing.pdf
 year: 2015
@@ -17,7 +18,7 @@ A 2009 survey indicated that the average government employee printed about 30 pa
 
 ## What was the program change?
 
-At no material cost, OES created a digital dialog box that asked employees to change their default printer setting to double-sided after employees had initiated a single-sided print job. 
+At no material cost, OES created a digital dialog box that asked employees to change their default printer setting to double-sided after employees had initiated a single-sided print job.
 
 ## How did the evaluation work?
 
@@ -26,4 +27,3 @@ A randomized set of USDA employees received the pop-up that required a second mo
 ## What was the impact?
 
 This increased double-sided printing by 5.8%, thereby saving government money and resources.
-
