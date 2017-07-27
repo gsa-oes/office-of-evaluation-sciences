@@ -4,7 +4,7 @@ permalink: /projects/military-secure-messaging/
 tags: project
 image: /assets/img/project-images/1620.jpg 
 image-credit: https://pixabay.com/photo-1149148/
-abstract: /assets/abstracts/1620_DHASecureMessagingAbstract-Intervention1.pdf
+abstract: /assets/abstracts/1620-1_DHA Secure-messaging.pdf
 year: 2017 
 domain: Health 
 agency: Defense 
@@ -22,7 +22,6 @@ The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and 
 ## How did the evaluation work?
 
 Patient registration for secure messaging at the NMCCL Family Medicine Clinic was compared to registration at seven other, demographically similar military treatment facilities selected by DHA over six and a half months.
-
 
 ## What was the impact?
 
