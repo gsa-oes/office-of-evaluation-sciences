@@ -13,11 +13,11 @@ summary: Emails sent after an appointment-based intervention had no statisticall
 ---
 ## What was the challenge?
 
-The Defense Health Agency's (DHA) military treatment facilities (MTFs) provide secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of MTF enrollees register, and only 6% use the portal.
+Military treatment facilities (MTFs) provide secure online messaging to allow patients to communicate with providers, get lab results, and renew prescriptions; however, only 47% of MTF enrollees register in the system, and only 6% use it.
 
 ## What was the program change?
 
-DHA, Naval Medical Center Camp Lejeune (NMCCL), and OES designed an intervention involving follow-up emails sent by providers to patients who had already both received in-person encouragement from their provider and been offered on-the-spot assistance in registering in the secure messaging system.
+The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and OES designed an intervention involving follow-up emails sent by providers to patients who had already both received in-person encouragement from their provider and been offered on-the-spot assistance in registering in the secure messaging system.
 
 ## How did the evaluation work?
 
