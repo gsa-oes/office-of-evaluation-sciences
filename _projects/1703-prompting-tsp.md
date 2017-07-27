@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1703-prompting-tsp.pdf
 year: 2017
 domain: Retirement Security 
 agency: Treasury
-summary: Testing the effect of prompted choice on TSP contribution rates
+summary: Encouraging higher TSP contribution rates during new employee orientation showed no detectable effect on overall average contribution rates.
 ---
 ## What was the challenge?
 
