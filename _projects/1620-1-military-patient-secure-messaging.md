@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1620-1_DHA Secure-messaging.pdf
 year: 2017 
 domain: Health 
 agency: Defense 
-summary: Provider encouragement and on-the-spot assistance increased patient registrations for secure messaging
+summary: Provider encouragement and on-the-spot assistance increased patient registrations for secure messaging.
 featured: homepage
 ---
 ## What was the challenge?
