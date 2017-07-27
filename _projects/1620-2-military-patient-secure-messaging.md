@@ -4,7 +4,7 @@ permalink: /projects/military-patient-messaging-emails/
 tags: project 
 image: /assets/img/project-images/1620-2.jpg
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
-abstract: /assets/abstracts/1620-2_DHA Secure Messaging Abstract.pdf
+abstract: /assets/abstracts/1620-2-secure-messaging.pdf
 year: 2017
 domain: Health
 agency: Defense 
