@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1620-2-secure-messaging.pdf
 year: 2017
 domain: Health
 agency: Defense 
-summary: Emails sent after an appointment-based intervention had no statistically reliable impact on patient registration for secure. messaging
+summary: Emails sent after an appointment-based intervention had no statistically reliable impact on patient registration for secure messaging.
 
 ---
 ## What was the challenge?
@@ -21,7 +21,7 @@ The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and 
 
 ## How did the evaluation work?
 
-Patients of roughly half of the providers in the NMCCL Family Medicine Clinic, who were assigned at random to a treatment condition, received follow-up emails. Patients of the remaining providers (the control condition) received no follow-up emails.  We compared their numbers of patients who registered for secure messaging. 
+Patients of roughly half of the providers in the NMCCL Family Medicine Clinic, who were assigned at random to a treatment condition, received follow-up emails. Patients of the remaining providers (the control condition) received no follow-up emails.  We compared the numbers of patients in each group who registered for secure messaging. 
 
 ## What was the impact?
 
