@@ -16,7 +16,7 @@ The Federal Government operates a savings program for its employees known as the
 
 ## What was the program change?
 
-OES ran a pilot at new employee orientations in three Treasury bureaus. A suite of materials encouraged new employees to consider making a decision to contribute at least 5%, including information on matching contributions, TSP info on new employee checklists, and revised onboarding presentation materials.  
+A suite of new materials at three Treasury bureaus encouraged new employees to consider making a decision to contribute at least 5%, including information on matching contributions, TSP info on new employee checklists, and revised onboarding presentation materials.  
 
 ## How did the evaluation work?
 
