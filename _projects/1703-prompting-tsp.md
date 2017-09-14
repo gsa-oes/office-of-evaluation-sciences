@@ -12,11 +12,11 @@ summary: Encouraging higher TSP contribution rates during new employee orientati
 ---
 ## What was the challenge?
 
-The Federal Government operates a savings program for its employees known as the Thrift Savings Plan (TSP). New employees are automatically enrolled in the plan at a contribution rate of 3%, and nearly 90% of civilian employees participate in the plan. Civilian employees who contribute to TSP receive matching employer contributions up to a maximum of 5%. However, nearly 1 in 3 new Treasury employees contributed less than 5% in FY 2015, sacrificing both overall compensation and added retirement security.
+The Federal Government operates a savings program for its employees known as the Thrift Savings Plan (TSP). New employees are automatically enrolled in the plan at a contribution rate of 3 percent, and nearly 90 percent of civilian employees participate in the plan. However, civilian employees who contribute to TSP receive matching employer contributions up to a maximum of  5 percent. Nearly 1 in 3 new Treasury employees contributed less than 5 percent in FY 2015,  therefore sacrificing both overall compensation and added retirement security. 
 
 ## What was the program change?
 
-A suite of new materials at three Treasury bureaus - including information on matching contributions, TSP info on new employee checklists, and revised onboarding presentation materials - encouraged new employees to consider contributing at least 5%.
+The success of prompted choices in private sector workplace savings—where employees are encouraged to actively choose whether to contribute and how much—suggests that many new employees might contribute more if they were encouraged to make a choice. A suite of new materials at three Treasury bureaus - including information on matching contributions, TSP info on new employee checklists, and revised onboarding presentation materials - encouraged new employees to consider contributing at least 5%.
 
 ## How did the evaluation work?
 
