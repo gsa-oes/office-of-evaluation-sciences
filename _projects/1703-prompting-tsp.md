@@ -24,4 +24,4 @@ Orientation logistics made random assignment infeasible. For the purpose of esti
 
 ## What was the impact?
 
-Difference-in-differences analyses showed no statistically reliable effect of the treatment on the likelihood that a new employee contributed at least 5% to TSP.
+While the informational materials tested by Treasury in this pilot project did not result in a statistically significant change (using Difference-in-differences analysis) in the percentage of new employees contributing  5% or more, Treasury was able to rapidly evaluate the impact of this intervention, and the results can inform future efforts to promote contribution to TSP.
