@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1703-prompting-tsp.pdf
 year: 2017
 domain: Retirement Security 
 agency: Treasury
-summary: Encouraging higher TSP contribution rates during new employee orientation showed no detectable effect on the likelihood of contributing 5% or more
+summary: Encouraging higher TSP contribution rates during new employee orientation showed no detectable effect on the likelihood of contributing 5% or more.
 ---
 ## What was the challenge?
 
