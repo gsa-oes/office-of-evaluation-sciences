@@ -2,9 +2,9 @@
 title: Industrial Funding Fee Reports Update
 permalink: /projects/iff-confirmation-prompt-update/
 tags: project
-image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
-image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
-abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
+image: /assets/img/project-images/IFF.jpg
+image-credit: https://www.flickr.com/photos/el_paulio/
+abstract: /assets/abstracts/1514-2-iff-confirmation-prompt-update.pdf
 year: 2017
 domain: Government Operations
 agency: General Services Administration
