@@ -1,5 +1,5 @@
 ---
-title: Increasing Student FAFSA Renewal Rates <<-- full title, can include spaces
+title: Increasing FAFSA Renewal Rates <<-- full title, can include spaces
 permalink: /projects/increasing-fafsa-renewal-rates/ <<-- what you want the end of the hyperlink to appear as on the real website
 tags: project  <<-- do not remove
 image: /assets/img/project-images/fafsa.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
