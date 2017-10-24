@@ -1,13 +1,13 @@
 ---
-title: Encouraging Action Among Students At-Risk to Withdraw 
+title: Encouraging Action Among Students At-Risk to Withdraw
 permalink: /projects/students-at-risk/
-tags: project 
-image: /assets/img/project-images/1706.jpg 
-image-credit: https://flic.kr/p/URogRg  
-abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf  
-year: 2017  
-domain: Education  
-agency: Education  
+tags: project
+image: /assets/img/project-images/1706.jpg
+image-credit: https://flic.kr/p/URogRg
+abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf
+year: 2017
+domain: Education
+agency: Education
 summary: Emails reduced continuing enrollment by approximately 1 percentage point.
 ---
 ## What was the challenge?
