@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf
 year: 2017
 domain: Health
 agency: Health and Human Services
-summary: Peer comparison letters for high prescribers of quetiapine reduce prescription volume and improve guideline conformity of prescription fills
+summary: Peer comparison letters for high prescribers of quetiapine reduce prescription volume and improve guideline conformity of prescription fills.
 ---
 ## What was the challenge?
 
