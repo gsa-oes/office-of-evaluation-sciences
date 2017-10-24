@@ -12,14 +12,16 @@ summary:  Reminder emails sent to current students led to an increase of approxi
 ---
 ## What was the challenge?
 
-[PASTE IN FROM PROJECT SLIDE]
+Many students fail to renew their FAFSA each year, potentially missing out on valuable financial aid.
 
 ## What was the program change?
 
-[PASTE IN FROM PROJECT SLIDE]
+The Office of Federal Student Aid sent several versions of emails to students who had filed a FAFSA the previous year, encouraging them to renew the FAFSA for the upcoming academic year.
 
 ## How did the evaluation work?
 
-[PASTE IN FROM PROJECT SLIDE]
+Students were segmented into groups based on dependency status and Pell grant eligibility. Students in each group were randomly assigned to receive different versions of emails targeted to their specific group. The most effective emails were then sent to the remainder of students over a period of several weeks. The timing of the emails was essentially random, which created an experiment over that time period.
 
 ## What was the impact?
+
+Messages focused on the Pell grant were significantly more effective than messages about financial aid more generally for those who were Pell eligible the previous year. Sending an email increased FAFSA submission rates from 4.34 to 7.77 percentage within 20 days, which is equivalent to approximately 250,000 additional FAFSA submissions over the period.
