@@ -24,4 +24,4 @@ Students were segmented into groups based on dependency status and Pell grant el
 
 ## What was the impact?
 
-Messages focused on the Pell grant were significantly more effective than messages about financial aid more generally for those who were Pell eligible the previous year. Sending an email increased FAFSA submission rates from 4.34 to 7.77 percentage within 20 days, which is equivalent to approximately 250,000 additional FAFSA submissions over the period.
+Messages focused on the Pell grant were significantly more effective than messages about financial aid more generally for those who were Pell eligible the previous year. Sending an email increased FAFSA submission rates from 4.34 to 7.77 percent within 20 days, which is equivalent to approximately 250,000 additional FAFSA submissions over the period.
