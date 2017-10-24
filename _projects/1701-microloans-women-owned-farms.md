@@ -2,8 +2,8 @@
 title: Encouraging Microloan Applications from Women-Owned Farms
 permalink: /projects/microloans-women-owned-farms/
 tags: project
-image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
-image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
+image: /assets/img/project-images/1701.jpg
+image-credit: https://www.flickr.com/photos/140641142@N05/
 abstract: /assets/abstracts/1701-microloans-women-owned-farms.pdf
 year: 2017
 domain: Economic Opportunity
