@@ -12,15 +12,15 @@ summary: Emails reduced continuing enrollment by approximately 1 percentage poin
 ---
 ## What was the challenge?
 
-Many continuing students miss out on financial aid because they do not renew their FAFSA. Those who discontinue their education before graduating may not plan to enter loan repayment. 
+Many continuing students miss out on financial aid because they do not renew their FAFSA. Those who discontinue their education before graduating may not be prepared to enter loan repayment and could risk missed payments. 
 
 ## What was the program change?
 
-The Department of Education sent emails to first-time, freshman student loan borrowers in 2015, encouraging them to renew their FAFSA for the upcoming academic year if they planned to continue their education or prepare to enter loan repayment if they did not.
+The Department of Education sent emails to first-time, freshman student loan borrowers in the summer after their first year of school, encouraging them to renew their FAFSA for the upcoming academic year if they planned to return or to prepare to enter loan repayment if they did not.
 
 ## How did the evaluation work?
 
-The Department of Education randomly selected and emailed approximately 195,000 freshman borrowers in July 2015, in the summer after their first academic year. An additional 50,000 borrowers were randomly selected into a control group and were not sent emails. Differences in enrollment rates were compared for the Spring and Fall 2016 semesters.
+The Department of Education randomly selected and emailed approximately 195,000 borrowers in July 2015 --- the summer after their first academic year. An additional 50,000 borrowers were randomly selected into a control group and were not sent emails. Differences in enrollment rates were compared for the Spring 2016 and Fall 2016 academic terms.
 
 ## What was the impact?
 
