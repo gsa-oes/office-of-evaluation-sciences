@@ -1,14 +1,14 @@
 ---
-title: Encouraging Action Among Students At-Risk to Withdraw <<-- full title, can include spaces
-permalink: /projects/students-at-risk/ <<-- what you want the end of the hyperlink to appear as on the real website
-tags: project  <<-- do not remove
-image: /assets/img/project-images/1706.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
-image-credit: https://flic.kr/p/URogRg  <<--paste in the image credit link
-abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
-year: 2017  <<-- update the year
-domain: Education  <<-- update the project domain from the Project Tracker
-agency: Education  <<-- update the agency from the project tracker, but check the OES website on the work page to see how we have chosen to abbreviate for the purpose of filters (e.g., USDA is Agriculture)
-summary: Emails reduced continuing enrollment by approximately 1 percentage point.  <<-- develop short teaser of project impact to become the intro on the main page, and header on the project page
+title: Encouraging Action Among Students At-Risk to Withdraw 
+permalink: /projects/students-at-risk/
+tags: project 
+image: /assets/img/project-images/1706.jpg 
+image-credit: https://flic.kr/p/URogRg  
+abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf  
+year: 2017  
+domain: Education  
+agency: Education  
+summary: Emails reduced continuing enrollment by approximately 1 percentage point.
 ---
 ## What was the challenge?
 
