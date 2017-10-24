@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1612-2-nslp-rolling-verification.pdf
 year: 2017
 domain: Economic Opportunity
 agency: Agriculture
-summary: Timely communication with beneficiaries has mixed effects on response rates
+summary: Timely communication with beneficiaries has mixed effects on response rates.
 ---
 ## What was the challenge?
 
