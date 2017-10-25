@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1716-Increasing-Student-FAFSA-Renewal-Rates.pdf
 year: 2017
 domain: Education
 agency: Education
-summary:  Reminder emails sent to current students led to an increase of approximately 250,000 FAFSA submissions between October 25 and November 15, 2016.
+summary:  Reminder emails sent to current students led to an increase of approximately 250,000 FAFSA submissions.
 ---
 ## What was the challenge?
 
