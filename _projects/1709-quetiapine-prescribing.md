@@ -24,4 +24,4 @@ CPI and OES randomly assigned high volume prescribers (N = 5,055) to get a treat
 
 ## What was the impact?
 
-Sending peer comparison letters to high volume prescribers of quetiapine reduced prescribing, and did so without any detectable adverse impacts.
+Sending peer comparison letters to high volume prescribers of quetiapine reduced prescribing by 11.1%, and did so without any detectable adverse impacts.
