@@ -1,6 +1,6 @@
 ---
 name: Mary Clair Turner
-image: 
+image: /assets/img/team/maryclair_turner.jpg 
 year: 
   - 2017
   - 2018
