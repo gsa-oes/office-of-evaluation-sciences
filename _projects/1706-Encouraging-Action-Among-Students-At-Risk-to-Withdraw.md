@@ -1,5 +1,5 @@
 ---
-title: Encouraging Action Among Students At-Risk to Withdraw
+title: Encouraging Action Among Students At Risk to Withdraw
 permalink: /projects/students-at-risk/
 tags: project
 image: /assets/img/project-images/1706.jpg
