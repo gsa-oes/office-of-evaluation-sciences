@@ -16,7 +16,7 @@ Many students fail to submit a renewal FAFSA each year, potentially missing out 
 
 ## What was the program change?
 
-The office of Federal Student Aid sent several versions of emails to students who had filed a FAFSA the previous year, encouraging them to renew the FAFSA for the upcoming academic year.
+The office of Federal Student Aid sent several versions of emails to students who had filed a FAFSA the previous year, encouraging them to submit a renewal FAFSA for the upcoming academic year.
 
 ## How did the evaluation work?
 
