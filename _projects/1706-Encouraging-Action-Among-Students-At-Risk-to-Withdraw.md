@@ -16,11 +16,11 @@ Each year, students who continue in a postsecondary program must submit a renewa
 
 ## What was the program change?
 
-In the summer after their first year of school, the Department of Education emailed first-time, freshman student loan borrowers who were at risk of withdrawing from their program of study prior to completion. The emails encouraged students to renew their FAFSA for the upcoming academic year if they planned to return to school or to prepare to enter loan repayment if they did not.
+In the summer after their first year of school, the U.S. Department of Education emailed first-time, freshman student loan borrowers who were at risk of withdrawing from their program of study prior to completion. The emails encouraged students to renew their FAFSA for the upcoming academic year if they planned to return to school or to prepare to enter loan repayment if they did not.
 
 ## How did the evaluation work?
 
-The Department of Education identified a pool of student borrowers who were at risk of withdrawing from school prior to completing their course of study. From the pool of at-risk students, approximately 195,000 borrowers were randomly selected to be sent the email in July, 2015 --- the summer after their first academic year. An additional 50,000 borrowers were randomly selected into a control group and were not emailed. Differences in enrollment rates were compared for the Spring 2016 and Fall 2016 academic terms.
+The U.S. Department of Education identified a pool of student borrowers who were at risk of withdrawing from school prior to completing their course of study. From the pool of at-risk students, approximately 195,000 borrowers were randomly selected to be sent the email in July, 2015 --- the summer after their first academic year. An additional 50,000 borrowers were randomly selected into a control group and were not emailed. Differences in enrollment rates were compared for the Spring 2016 and Fall 2016 academic terms.
 
 ## What was the impact?
 
