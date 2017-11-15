@@ -21,9 +21,9 @@ OES team members and agency partners will together present recent results from t
 - <b>Who should attend?</b> Federal employees, academics and others interested in learning more.
 - <b>Register</b>: <a href="https://goo.gl/forms/il7bR5NgSrl8RWVO2">Results Discussion Registration</a>
 
-## Applying Rigorous Evaluation to Your Work (Training for Federal employees)
+## Applying Rigorous Evaluation to Your Work
 
-In this introductory session, we will discuss methods and tools that OES has used for conducting rapid, yet rigorous evaluations of potential improvements to federal programs. It is intended for program managers/staff who might like to adapt and use these methods within their own offices, as well as for those who might like to collaborate with OES. We will focus on designing rapid, low-cost evaluations using existing administrative data that can that can improve a wide range of programs and outcomes. Future sessions will go into greater depth for more technical evaluation audiences.
+In this introductory session (for Federal employees), we will discuss methods and tools that OES has used for conducting rapid, yet rigorous evaluations of potential improvements to federal programs. It is intended for program managers/staff who might like to adapt and use these methods within their own offices, as well as for those who might like to collaborate with OES. We will focus on designing rapid, low-cost evaluations using existing administrative data that can that can improve a wide range of programs and outcomes. Future sessions will go into greater depth for more technical evaluation audiences.
 - <b>When</b>: December 14th, 2017 11:00 AM - 1:00 PM 
 - <b>Where</b>: 1800 F ST NW, Washington DC 20405
 - <b>Who should attend?</b> Federal employees curious about how they can conduct rapid evaluations in the course of implementing their programs.
