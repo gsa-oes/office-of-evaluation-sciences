@@ -7,11 +7,11 @@ image_full: true
 class:
 summary: Join us to discuss our results and learn more about our work. 
 ---
-In 2017, Richard Thaler was awarded the Nobel Prize for Economics for his work developing the field of Behavioral Economics. In September of this year, the Speaker Ryan and Senator Murray sponsored Commission on Evidence-Based Policymaking developed recommendations for how the Federal government 
+In 2017, <a href="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2017/press.html">Richard Thaler was awarded the Nobel Prize for Economics</a> for his work developing the field of Behavioral Economics. In September of this year, the Speaker Ryan and Senator Murray sponsored Commission on Evidence-Based Policymaking <a href="https://www.cep.gov/cep-final-report.html">developed recommendations</a> for how the Federal government can make better use of existing data to improve how government programs operate. Forthcoming <a href="https://www.congress.gov/bill/115th-congress/house-bill/4174">legislation</a> codifies some of these recommendations. 
 
-The Office of Evaluation Sciences is working to both apply research insights from the social and behavioral sciences to better design government for people and increase the use of rapid, rigorous, evaluation to more quickly learn what works. 
+How can agencies apply these lessons to their own work to improve programs and policy? The Office of Evaluation Sciences collaborates with agencies across government to apply research insights from the social and behavioral sciences to better design government for people and implement these program changes using rapid, rigorous, evaluation to more quickly learn what works, what works best, and what does not work. 
 
-Both sessions will be held at the General Services Administration, 1800 F St NW, Washington DC 20006. Directions and agenda to follow. 
+To close out 2017, OES will host two events at the General Services Administration, 1800 F St NW, Washington DC 20006 to highlight to share lessons learned from this work, and also provide training for Federal employees who are interested in incorporating it into their own day-to-day operations. Directions and agenda to follow. 
 
 <b>Please RSVP by Monday December 4, 2017.</b>  We look forward to seeing you there!
 
