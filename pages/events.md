@@ -9,7 +9,7 @@ summary: Join us to discuss our results and learn more about our work.
 ---
 How can agencies use evidence to improve the way government serves the public? The GSA Office of Evaluation Sciences (OES) will share examples and host a workshop on this important topic on December 14th, 2017.
 
-In September of this year, the Commission on Evidence-Based Policymaking shared <a href="https://www.cep.gov/cep-final-report.html">recommendations</a> for how the federal agencies can make better use of existing data to improve program operations and outcomes. In October, <a href="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2017/press.html">Richard Thaler was awarded the Nobel Prize for Economics</a> for his work developing the field of behavioral economics and its relevance for policymaking. Join us to discuss the implications of these events for federal programs.
+In September of this year, the Commission on Evidence-Based Policymaking shared <a href="https://www.cep.gov/cep-final-report.html">recommendations</a> for how federal agencies can make better use of existing data to improve program operations and outcomes. In October, <a href="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2017/press.html">Richard Thaler was awarded the Nobel Prize for Economics</a> for his work developing the field of behavioral economics and its relevance for policymaking. Join us to discuss the implications of these events for federal programs.
 
 Please RSVP by <b>Monday, December 4, 2017</b>. 
 
