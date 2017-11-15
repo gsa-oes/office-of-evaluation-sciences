@@ -27,5 +27,5 @@ In this introductory session, we will discuss methods and tools that OES has use
 - <b>When</b>: December 14th, 2017 11:00 AM - 1:00 PM 
 - <b>Where</b>: 1800 F ST NW, Washington DC 20405
 - <b>Who should attend?</b> Federal employees curious about how they can conduct rapid evaluations in the course of implementing their programs.
-- <b>Register</b>: <b>Register</b>: <a href="https://goo.gl/forms/UBFTVRjUOHyJVnv92">Training Registration</a>
+- <b>Register</b>: <a href="https://goo.gl/forms/UBFTVRjUOHyJVnv92">Training Registration</a>
 
