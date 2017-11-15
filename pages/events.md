@@ -7,24 +7,24 @@ image_full: true
 class:
 summary: Join us to discuss our results and learn more about our work. 
 ---
-In 2017, <a href="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2017/press.html">Richard Thaler was awarded the Nobel Prize for Economics</a> for his work developing the field of Behavioral Economics. In September of this year, the Speaker Ryan and Senator Murray sponsored Commission on Evidence-Based Policymaking <a href="https://www.cep.gov/cep-final-report.html">developed recommendations</a> for how the Federal government can make better use of existing data to improve how government programs operate. 
+How can agencies use evidence to improve the way government serves the public? The GSA Office of Evaluation Sciences (OES) will share examples and host a workshop on this important topic on December 14, 2017.
 
-How can agencies apply these lessons to their own work to improve programs and policy? The Office of Evaluation Sciences collaborates with agencies across government to apply research insights from the social and behavioral sciences to better design government for people and implement these program changes using rapid, rigorous, evaluation to more quickly learn what works, what works best, and what does not work. 
+In September of this year, the Commission on Evidence-Based Policymaking shared https://www.cep.gov/cep-final-report.html recommendations for how the federal agencies can make better use of existing data to improve program operations and outcomes. In October, Richard Thaler was awarded the Nobel Prize for Economics for his work developing the field of behavioral economics and its relevance for policymaking. Join us to discuss the implications of these events for federal programs.
 
-To close out 2017, OES will host two events at the General Services Administration, 1800 F St NW, Washington DC 20405 to highlight to share lessons learned from this work, and also provide training for Federal employees who are interested in incorporating it into their own day-to-day operations. Directions and agenda to follow. 
+Please RSVP by <b>Monday, December 4, 2017</b>. 
 
-<b>Please RSVP by Monday December 4, 2017.</b>  We look forward to seeing you there!
+## 2017 Results Discussion
 
-## 2017 Results Discussion 
+OES team members and agency partners will together present recent results from their collaborations in 2017. Afterwards, representatives from across government and from academia will discuss the relevance of OES’ approach and findings for the federal government.
+- <b>When</b>: December 14th, 2017 9:00 AM - 10:30 AM (8:30 AM Coffee + Registration)
+- <b>Where</b>: 1800 F ST NW, Washington DC 20405 or WebEx 
+- <b>Who should attend?</b> Federal employees, academics and others interested in learning more.
+- <b>Register</b>: Results Discussion Registration
 
-In the context of the broader movement for evidence-based policy, and with the recent release of the recommendations of the Commission on Evidence Based Policymaking and forthcoming legislation, representatives from across government and from Academia will discuss the relevance of OES' approach and findings. OES team members and Agency Partners will together highglight some of the results of their collaborations. 
-- <b>When (in-person and WebEx available):</b> December 14th, 9:00 AM - 10:30 AM (8:30 AM Coffee + Registration)
-- <b>Who Should Attend:</b>Open to both government employees and the public.  
-- <b>Register:</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS9_MD-Yzl8t_6VWWqQlDAou4dITJxU7TZPJ65nNtNNCFy2Q/viewform?usp=sf_link">Results Discussion Registration</a>
+Applying Rigorous Evaluation to Your Work (Introductory Training for Federal employees)
+In this introductory session, we will discuss methods and tools that OES has used for conducting rapid, yet rigorous evaluations of potential improvements to federal programs. It is intended for program managers/staff who might like to adapt and use these methods within their own offices, as well as for those who might like to collaborate with OES. We will focus on designing rapid, low-cost evaluations using existing administrative data that can that can improve a wide range of programs and outcomes. Future sessions will go into greater depth for more technical evaluation audiences.
+- <b>When</b>: December 14th, 2017 11:00 AM - 1:00 PM 
+- <b>Where</b>: 1800 F ST NW, Washington DC 20405
+- <b>Who should attend?</b> Federal employees curious about how they can conduct rapid evaluations in the course of implementing their programs.
+- <b>Register</b>: Workshop Registration
 
-## Applying Rigorous Evaluation to your Work
-
-This introductory session on designing evaluations and rigorous pilots is intended for program managers/staff who might like to adapt and use these methods within their own offices and for those who might like to collaborate with OES. (Future sessions will be offered for more technical evaluation audiences.)
-- <b>When:</b> December 14th, 11:00 AM - 1:00 PM
-- <b>Who Should Attend:</b> Federal employees curious about how they can conduct rapid evaluations in the course of implementing their programs in order to build evidence about whether potential program improvements actually work.
-- <b>Register:</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeltf1bl5UGYukUgixzwbTy49CPuqT9_aubQr23FAhxXuyqcQ/viewform?usp=sf_link">Workshop Registration</a>
