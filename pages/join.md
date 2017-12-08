@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OES is now accepting Fellowship Applications
+title: OES Fellowship: Now Accepting Applications for 2018 Cohort
 permalink: /join/
 image:
 image_full: true
@@ -15,7 +15,7 @@ OES is a team of researchers tasked with applying insights from the social and b
 
 OES is now recruiting talent to rigorously test insights on diverse agency priorities, such as improving the effectiveness and efficiency of Government operations, increasing access to benefits and services for military servicemembers and veterans, addressing opioid prescribing and addiction, promoting energy use reduction, and supporting retirement security. For more information on our portfolio to date, go to https://oes.gsa.gov/work/. 
 
-Applicants may apply online via https://oes.gsa.gov/join/ [make sure linked to FR page] The deadline to submit is 11:59 p.m. EST Sunday, January 14, 2018. 
+Applicants may apply online via https://oes.fluidreview.com/ The deadline to submit is 11:59 p.m. EST Sunday, January 14, 2018. 
 
 
 ## Academic Affiliate 
