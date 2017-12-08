@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now Accepting Fellowship Applications
+title: OES is now accepting Fellowship Applications
 permalink: /join/
 image:
 image_full: true
@@ -9,9 +9,13 @@ summary: Our team is passionate about bringing evidence and a fresh perspective 
 ---
 ## OES Fellowship Program
 
-Full time OES team members are selected annually for our Fellowship program. These individuals come to the team for one year on loan from a variety of home institutions such as a university or another Federal agency and are based in Washington, D.C. 
+The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2018 in Washington, D.C. To learn more view the 2018 Fellowship Solicitation.
 
-We are currently recruiting Associate Fellows or Fellows for the 2018 cohort. To learn more about what we look for in our team members, view the [2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/GSA-OES-SolicitationFY17.pdf.pdf).
+OES is a team of researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. Over the past three years, OES has completed over 45 randomized evaluations with agency partners and made major strides improving federal programs.
+
+OES is now recruiting talent to rigorously test insights on diverse agency priorities, such as improving the effectiveness and efficiency of Government operations, increasing access to benefits and services for military servicemembers and veterans, addressing opioid prescribing and addiction, promoting energy use reduction, and supporting retirement security. For more information on our portfolio to date, go to https://oes.gsa.gov/work/. 
+
+Applicants may apply online via https://oes.gsa.gov/join/ [make sure linked to FR page] The deadline to submit is 11:59 p.m. EST Sunday, January 14, 2018. 
 
 
 ## Academic Affiliate 
