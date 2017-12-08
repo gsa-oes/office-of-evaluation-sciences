@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join
+title: Now Accepting Fellowship Applications
 permalink: /join/
 image:
 image_full: true
