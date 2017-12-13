@@ -15,7 +15,7 @@ OES is a team of researchers tasked with applying insights from the social and b
 
 OES is now recruiting talent to rigorously test insights on diverse agency priorities, such as improving the effectiveness and efficiency of Government operations, increasing access to benefits and services for military servicemembers and veterans, addressing opioid prescribing and addiction, promoting energy use reduction, and supporting retirement security. For more information on our portfolio to date, see our <a href="https://oes.gsa.gov/work/">Work</a>. 
 
-Applicants may apply online at https://oes.fluidreview.com/. 
+Applicants may <a href="https://oes.fluidreview.com/">apply online here</a>. 
 
 <b>The deadline to submit is 11:59 p.m. EST Sunday, January 14, 2018.</b> 
 
