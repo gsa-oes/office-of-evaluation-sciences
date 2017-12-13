@@ -9,7 +9,7 @@ summary: Our team is looking for people passionate about bringing evidence and a
 ---
 ## Now Accepting Applications for OES Fellowship 2018 Cohort
 
-The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2018 in Washington, D.C. To learn more [view the 2018 Fellowship Solicitation](office-of-evaluation-sciences/assets/files/FY18Solicitation.pdf).
+The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2018 in Washington, D.C. To learn more [view the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
 
 OES is a team of researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. Over the past three years, OES has completed over 45 randomized evaluations with agency partners and made major strides improving federal programs.
 
