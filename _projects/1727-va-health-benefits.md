@@ -20,7 +20,7 @@ The Office of Evaluation Sciences (OES) and the VA’s Health Eligibility Center
 
 ## How did the evaluation work?
 
-From May to September 2017, 13,600 separating Servicemembers (for which VA has an email address) were randomly assigned to either receive a series of email notifications, or no emails at all. VA health benefit enrollment rates were tracked for those who received the emails, and compared to enrollment rates among TSMs who did not receive the emails.
+From March to September 2017, 13,600 separating Servicemembers (for which VA has an email address) were randomly assigned to either receive a series of email notifications, or no emails at all. VA health benefit enrollment rates were tracked for those who received the emails, and compared to enrollment rates among TSMs who did not receive the emails.
 
 ## What was the impact?
 
