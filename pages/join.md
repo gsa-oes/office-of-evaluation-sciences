@@ -17,7 +17,7 @@ OES is now recruiting talent to rigorously test insights on diverse agency prior
 
 Applicants may <a href="https://oes.fluidreview.com/">apply online here</a>. 
 
-<b>The deadline to submit is 11:59 p.m. EST Sunday, January 14, 2018.</b> 
+<b>The deadline to submit is 11:59 p.m. EST Sunday, January 21, 2018.</b> 
 
 
 ## Academic Affiliate 
