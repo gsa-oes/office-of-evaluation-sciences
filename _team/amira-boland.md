@@ -5,6 +5,7 @@ year:
   - 2015
   - 2016
   - 2017
+  - 2018
 agency:
   - Census Bureau
   - Energy
@@ -12,6 +13,7 @@ agency:
   - Housing and Urban Development
   - Justice
   - Labor
+  - Agriculture
 home: Government
 title: Deputy Director
 ---
