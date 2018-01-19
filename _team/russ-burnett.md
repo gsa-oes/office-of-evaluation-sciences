@@ -4,6 +4,7 @@ image: /assets/img/team/russ_burnett.jpg
 year:
   - 2016
   - 2017
+  - 2018
 agency:
    - Defense
    - Transportation
