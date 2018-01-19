@@ -4,6 +4,7 @@ image: /assets/img/team/mary_steffel.jpg
 year: 
   - 2016
   - 2017
+  - 2018
 agency:
   - Defense
   - Health and Human Services
