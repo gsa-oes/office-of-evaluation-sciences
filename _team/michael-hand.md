@@ -4,6 +4,7 @@ image: /assets/img/team/hand_michael.jpg
 year:
   - 2016
   - 2017
+  - 2018
 agency:
   - Agriculture
   - Federal Emergency Management
