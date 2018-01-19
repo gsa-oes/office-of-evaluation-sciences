@@ -4,6 +4,7 @@ image: /assets/img/team/allyson-barnett.jpg
 year: 
   - 2016
   - 2017
+  - 2018
 domain:
 agency:
   - Federal Emergency Management 
