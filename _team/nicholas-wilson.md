@@ -4,6 +4,7 @@ image: /assets/img/team/nicholas_wilson.jpg
 year: 
   - 2016
   - 2017
+  - 2018
 domain:
 agency:
   - Agriculture
