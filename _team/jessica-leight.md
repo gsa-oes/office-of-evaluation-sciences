@@ -4,6 +4,7 @@ image: /assets/img/team/jessica_leight.jpg
 year: 
   - 2016
   - 2017
+  - 2018
 agency:
   - Office of Personnel Management
   - Social Security
