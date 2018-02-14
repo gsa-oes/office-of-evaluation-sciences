@@ -2,7 +2,7 @@
 title:  Decreasing Energy Costs in Federally Assisted Housing
 permalink: /projects/decreasing-energy-costs
 tags: project  
-image: /assets/img/project-images/NYCHA.jpg  
+image: /assets/img/project-images/1742.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
 analysis plan: /assets/abstracts/1742-Reducing-Energy-Costs.pdf 
 abstract: 
