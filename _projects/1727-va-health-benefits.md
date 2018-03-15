@@ -8,7 +8,7 @@ abstract: /assets/abstracts/1727-va-health-care-benefits.pdf
 year: 2017
 domain: Health
 agency: Veterans Affairs
-summary: Emails to transitioning servicemembers about VA health care benefits did not effect enrollment.
+summary: Emails to transitioning servicemembers about VA health care benefits did not affect enrollment.
 ---
 ## What was the challenge?
 
