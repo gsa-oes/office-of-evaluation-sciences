@@ -13,7 +13,7 @@ summary: A second letter did not lead to a significant difference in time to res
 ---
 ## What was the challenge?
 
-The American Housing Survey (AHS) establishes multiple indicators of housing quality and supply in the United States. It is administered by Census on behalf of the US Department of Housing and Urban Development. Every two years, the survey is fielded until an appropriately high response rate is achieved (around 80 percent) to reduce the impact of non-response bias. The survey must be repsonded to in-person, and so often can require an enumerator to have to visit households multiple times, driving up the cost to administer the survey. 
+The American Housing Survey (AHS) establishes multiple indicators of housing quality and supply in the United States. It is administered by Census on behalf of the US Department of Housing and Urban Development. Every two years, the survey is fielded until an appropriately high response rate is achieved (around 80 percent) to reduce the impact of non-response bias. The survey must be repsonded to in-person, and so often can require an enumerator to visit households multiple times, increasing the cost of administering the survey. 
 
 ## What was the program change?
 
