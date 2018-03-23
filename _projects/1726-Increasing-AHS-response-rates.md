@@ -4,12 +4,12 @@ permalink: /projects/increasing-ahs-response/
 tags: project  
 image: /assets/img/project-images/1726.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:Dallas_skyline_and_suburbs.jpg
-analysis-plan: /assets/analysis/1726-increasing-ahs-response.pdf
-abstract: /assets/analysis/1726-increasing-ahs-response.pdf
+analysis-plan: 
+abstract: /assets/abstracts/1726-increasing-ahs-response.pdf
 year: 2018  
 domain: Communications
 agency: Census
-summary: A second letter did not lead to a significant difference in time to response
+summary: A second letter did not lead to a significant difference in time to response.
 ---
 ## What was the challenge?
 
