@@ -3,7 +3,7 @@ title:  Increasing SSI Uptake Among Newly-Eligible Population
 permalink: /projects/increasing-ssi-uptake/
 tags: project  
 image: /assets/img/project-images/1723.jpg  
-image-credit: 
+image-credit: https://pixnio.com/people/female-women/special-car-for-wheelchair
 analysis-plan: /assets/analysis/1723-increasing-ssi-uptake.pdf
 abstract: 
 year: 2018  
