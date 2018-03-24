@@ -5,7 +5,7 @@ permalink: /resources/
 image:
 image_full: true
 class:
-summary: In addition to making our own research as rigorous, reliable, and reproducible as possible, we are committed to making our research tools available for others to apply or adapt to their own work. Below are some of these tools, which are continuously under development as we refine our methods and learn from our own projects. 
+summary: In addition to making our own research as rigorous, reliable, and reproducible as possible, we are committed to making our research tools available for others to apply or adapt to their own work. 
 ---
 ## Research Integrity 
 
@@ -16,6 +16,8 @@ Find OES Analysis plans, starting in February 2018, on our Work page.
 - OES Guide to Research Integrity
 
 ## Project Delivery
+
+Below are templates of some of the documents we use to support our Research Integrity Framework and help us streamline, document, and manage our work. Please consider these living documents, as we are continuously refining our methods and learning from our own projects. We hope to continue to add to this list soon! 
 
 - OES Project Initiation Document
 - OES Project Design Document
