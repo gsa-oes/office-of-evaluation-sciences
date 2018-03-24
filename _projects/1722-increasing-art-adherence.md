@@ -1,5 +1,5 @@
 ---
-title: Increasing ART Adherence and Retention in Care for HIV+ Women in Ethiopia
+title: Increasing ART Adherence and Retention in Care for HIV Positive Women in Ethiopia
 permalink: /projects/increasing-art-adherence/
 tags: project  
 image: /assets/img/project-images/1722.jpg  
