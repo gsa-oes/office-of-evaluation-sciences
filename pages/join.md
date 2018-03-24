@@ -5,19 +5,15 @@ permalink: /join/
 image:
 image_full: true
 class:
-summary: Our team is looking for people passionate about bringing evidence and a fresh perspective to government! 
+summary: Our team is passionate about bringing evidence and a fresh perspective to government challenges. 
 ---
-## Now Accepting Applications for OES Fellowship 2018 Cohort
+## Annual Fellowship
 
-The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2018 in Washington, D.C. To learn more [view the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
+Full time OES team members are selected annually for our Fellowship program. These individuals come to the team for one year, are based in Washinton, D.C. and are often on loan from a variety of home institutions such as a university or another Federal agency. 
 
-OES is a team of researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. Over the past three years, OES has completed over 45 randomized evaluations with agency partners and made major strides improving federal programs.
+We are not currently recruiting Associate Fellows or Fellows at this time. 
 
-OES is now recruiting talent to rigorously test insights on diverse agency priorities, such as improving the effectiveness and efficiency of Government operations, increasing access to benefits and services for military servicemembers and veterans, addressing opioid prescribing and addiction, promoting energy use reduction, and supporting retirement security. For more information on our portfolio to date, see our <a href="https://oes.gsa.gov/work/">Work</a>. 
-
-Applicants may <a href="https://oes.fluidreview.com/">apply online here</a>. 
-
-<b>The deadline to submit is 11:59 p.m. EST Sunday, January 21, 2018.</b> 
+To learn more about these roles, [view the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
 
 
 ## Academic Affiliate 
