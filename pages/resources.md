@@ -24,4 +24,4 @@ Below are templates of some of the documents we use to support our Research Inte
 - OES Analysis Plan Document
 - OES Record of Analysis and Findings Document
 
-Find these useful? Have suggestions for improvement? We look forward to <a href="mailto:oes@gsa.gov?subject=Approach">hearing from you</a>!
+Find these useful? Have suggestions for improvement? We look forward to <a href="mailto:oes@gsa.gov?subject=Approach">hearing from you</a>.
