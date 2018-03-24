@@ -9,7 +9,7 @@ abstract: /assets/abstracts/1726-increasing-ahs-response.pdf
 year: 2018  
 domain: Communications
 agency: Census
-summary: A second letter did not lead to a significant difference in time to response.
+summary: A second advance letter does not significantly improve outcomes.
 ---
 ## What was the challenge?
 
