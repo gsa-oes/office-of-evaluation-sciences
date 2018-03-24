@@ -15,7 +15,7 @@ A key component of this process is committing to a detailed analysis plan before
 
 To ensure we don’t fall into this trap, we commit to a detailed analysis plan before we analyze data — a best practice that has received greater attention in the social sciences in recent years. In particular, we commit ourselves to specific outcome variables and analytic methods, and we date-stamp the plan and post it on our website so that others can hold us accountable, other researchers can verify that our methods are sound, and policymakers can base decisions on our results with confidence. Publicly posting our analysis plans is just one component of our larger Research Integrity Framework, provided below, which helps ensure we are providing timely, reliable, and actionable evidence to agency collaborators. 
 
-Find OES Analysis plans, starting in February 2018, on our Work page. 
+Find OES Analysis plans, starting in February 2018, on our <a href="https://oes.gsa.gov/work">Work page</a>. 
 
 - OES Guide to Research Integrity
 
