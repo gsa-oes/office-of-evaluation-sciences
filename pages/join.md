@@ -11,7 +11,7 @@ summary: Our team is passionate about bringing evidence and a fresh perspective 
 
 Full time OES team members are selected annually for our Fellowship program. These individuals come to the team for one year, are based in Washinton, D.C. and are often on loan from a variety of home institutions such as a university or another Federal agency. 
 
-We are not currently recruiting Associate Fellows or Fellows at this time. 
+We are not currently recruiting Associate Fellows or Fellows at this time. Join our mailing list (at the bottom of the homepage) to be notified of our next recruitment cycle.
 
 To learn more about these roles, [view the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
 
