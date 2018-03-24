@@ -3,7 +3,7 @@ title:  Increasing Pre- and Post-Natal Care Uptake Among Medicaid-Eligible Mothe
 permalink: /projects/increasing-pre-and-post-natal-care/
 tags: project  
 image: /assets/img/project-images/1710.jpg  
-image-credit: https://media.defense.gov/2013/Apr/23/2000056426/-1/-1/0/130415-F-YG608-015.JPG
+image-credit: https://www.nursefamilypartnership.org/wp-content/uploads/2017/01/texas-family.jpg
 analysis-plan: /assets/analysis/1710-increasing-pre-and-post-natal-care.pdf
 abstract: 
 year: 2018  
