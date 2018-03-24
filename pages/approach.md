@@ -18,19 +18,3 @@ OES team members follow three guiding principles:
   - <b>Bring the highest level of rigor and research integrity</b>: Our team aims to tackle our nation’s toughest challenges in the notoriously complex government environment while at the same time employing research methods that are rigorous, reliable, and reproducible.  This includes using randomized evaluations whenever possible, pre-registering analyses, writing and releasing open-source code to teach others how to follow  our example, providing general guidelines for the decisions we make during analysis and design, and making our processes and methods publicly available for feedback.  
   - <b>Act transparently and openly</b>: We keep a public record of all evaluations fielded, publicize our findings (including null findings and those that run counter to our own prior expectations and goals), and, when possible, submit our work for publication via peer review in collaboration with academics at Universities. If others in the Federal government, as well as State and Local entities, can see our processes, plans, and results, they can use these resources to conduct their own tests of program changes, improving the work already done.
 
-## OES Resources 
-
-In addition to making our own research as rigorous, reliable, and reproducible as possible, we are committed to making our research tools available for others to apply or adapt to their own work. Below are some of these tools, which are continuously under development as we refine our methods and learn from our own projects. 
-
-Find these useful? Have suggestions for improvement? We look forward to <a href="mailto:oes@gsa.gov?subject=Approach">hearing from you</a>! 
-
-<i>Resources coming soon:</i>
-
-  - OES Project Cycle
-  - OES Standard Operating Procedure for Design and Analysis
-  - OES Guide to Research Integrity
-  - OES Project Review Document
-  - OES Project Design Document
-  - OES Project Analysis Document
-  - OES Abstract Template
-  - Minimum Detectable Effect Calculator
