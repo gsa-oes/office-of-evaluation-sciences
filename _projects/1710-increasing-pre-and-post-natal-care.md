@@ -2,7 +2,7 @@
 title:  Increasing Pre- and Post-Natal Care Uptake Among Medicaid-Eligible Mothers
 permalink: /projects/increasing-pre-and-post-natal-care/
 tags: project  
-image: /assets/img/project-images/1710.jpg  
+image: /assets/img/project-images/1710.JPG  
 image-credit: https://www.nursefamilypartnership.org/wp-content/uploads/2017/01/texas-family.jpg
 analysis-plan: /assets/analysis/1710-increasing-pre-and-post-natal-care.pdf
 abstract: 
