@@ -1,5 +1,5 @@
 ---
-title: Encouraging uptake of the recommended vaccine sequence for seniors in Louisiana
+title: Encouraging Uptake of the Recommended Vaccine Sequence for Seniors in Louisiana
 permalink: /projects/encouraging-vaccine-uptake-for-seniors/
 tags: project  
 image: /assets/img/project-images/1738.jpg  
