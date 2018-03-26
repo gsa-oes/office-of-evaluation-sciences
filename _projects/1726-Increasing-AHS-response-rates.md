@@ -13,7 +13,7 @@ summary: A second advance letter does not significantly improve outcomes.
 ---
 ## What was the challenge?
 
-The American Housing Survey (AHS) establishes multiple indicators of housing quality and supply in the United States. It is administered by Census on behalf of the US Department of Housing and Urban Development. Every two years, the survey is fielded until an appropriately high response rate is achieved (around 80 percent) to reduce the impact of non-response bias. The survey must be repsonded to in-person, and so often can require an enumerator to visit households multiple times, increasing the cost of administering the survey. 
+The American Housing Survey (AHS) establishes multiple indicators of housing quality and supply in the United States. It is administered by Census on behalf of the US Department of Housing and Urban Development. Every two years, the survey is fielded until an appropriately high response rate is achieved (around 80 percent) to reduce the impact of non-response bias. The survey must be completed in-person, and so often requires an enumerator to visit households multiple times, increasing the cost of administering the survey. 
 
 ## What was the program change?
 
