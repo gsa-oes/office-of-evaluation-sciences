@@ -2,7 +2,7 @@
 name: Mindy Hernandez
 image: /assets/img/team/mindy.jpg
 year:
-  - 2017
+  - 2018
 agency:
   - USAID
 home: Design 
