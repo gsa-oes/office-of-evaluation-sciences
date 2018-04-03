@@ -41,29 +41,24 @@ created the page and specific project branch, complete the following final items
 
 
 ---
-title: Increasing TSP Enrollment Rates through Active Choice <<-- full title, can include spaces
-permalink: /projects/active-choice-tsp/ <<-- what you want the end of the hyperlink to appear as on the real website
-tags: project  <<-- do not remove
-image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
-image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
-abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
-year: 2016  <<-- update the year
-domain: Retirement Security  <<-- update the project domain from the Project Tracker
-agency: Defense  <<-- update the agency from the project tracker, but check the OES website on the work page to see how we have chosen to abbreviate for the purpose of filters (e.g., USDA is Agriculture)
-summary: Presenting TSP enrollment as an active choice during in-processing increased enrollment by 6-7%.  <<-- develop short teaser of project impact to become the intro on the main page, and header on the project page
+
 ---
-## What was the challenge?
+title:  Decreasing Energy Costs in Federally Assisted Housing
+permalink: /projects/decreasing-energy-costs/
+tags: project  
+image: /assets/img/project-images/1742.jpg  
+image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
+analysis-plan: /assets/analysis/1742-reducing-energy-costs.pdf
+abstract: 
+year: 2018  
+domain: Communications
+agency: Housing and Urban Development
+summary: Analysis Plan Registration
+featured: homepage
+---
+This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-[PASTE IN FROM PROJECT SLIDE]
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
 
-## What was the program change?
+Check back for results!
 
-[PASTE IN FROM PROJECT SLIDE]
-
-## How did the evaluation work?
-
-[PASTE IN FROM PROJECT SLIDE]
-
-## What was the impact?
-
-[PASTE IN FROM PROJECT SLIDE]
