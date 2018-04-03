@@ -1,1 +1,68 @@
+Steps to create a new project page for an analysis plan and post to the website:
 
+TO CREATE A PAGE PREVIEW FOR YOUR ANALYSIS PLAN
+1) In the _projects folder, click "create new file" in the uper right corner
+2) Once the new page opens, in the text box after "/assets/_projects/", type in:
+  - the project number (all four digits), followed by a dash
+  - a shorthand project title, with any words separated by dashes (not spaces)
+  - ".md" to ensure the page formats correctly
+  - EXAMPLE: 1619-active-choice-tsp.md
+3) In the blank text box of the new page you created, copy and paste the text below, beginning with line 31-line 58 (be sure to include the ---,
+   into the new page you created in the separate tab. ((( NOTE: the text following the colons (:) below has been maintained as an
+   example, and additional notes have been provided following the arrows <<--. This text will need to be removed in your new page.)))
+4) Per instructions given to the right of the arrows (<<--), update information for your project and paste in content from project
+   slide where instructed (the headers are the same, so the body content will need to be inserted).
+  <<NOTE: the following fields should remain empty for now: image, image-credit, and abstract. In order to create a single working branch 
+          that can be previewed easily by agencies, the page needs to be created first, and then the abstract and image are added>>
+5) Remove all notes pasted in to the form (including <<-- and comments)
+6) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
+7) Name the branch with your project number
+8) CLick the green button that reads "Propose new file"
+
+Once you have clicked that button, you've successfully created a branch that your agency will be able to preview. Now that you have
+created the page and specific project branch, complete the following final items: 
+
+9) Search on Google Images (using only "Licenses for reuse in the "Advanced" filter criteria) or Flickr.com (using only "US Government work" or "No known copyrights" as the license filter in the top left corner
+   to choose a picture that will be the thumbnail and header photo. Save the image to your desktop with your project number as
+   the file name, note the image credit (link to the photographer's flickr site) for later use.
+10) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says 
+    "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber") upload the image into
+     assets/img/project-images/.
+   - leave this window open in a separate tab for easy copy/pasting later
+11) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says 
+    "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/analysis-plans/,
+    and upload the pdf file of the analysis plant, naming it as follows: project number.pdf
+    <<DO NOT ues spaces in the file name>> (e.g., "1618.pdf")
+12) Return to the original project page you first created. For the three fields you left blank (image, image-source, and abstract), replace the
+    existing content with the information for the new image and abstract you just created.
+13) Commit changes
+14) Email Amira to let us know you have built the page for review
+
+
+---
+title: Increasing TSP Enrollment Rates through Active Choice <<-- full title, can include spaces
+permalink: /projects/active-choice-tsp/ <<-- what you want the end of the hyperlink to appear as on the real website
+tags: project  <<-- do not remove
+image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
+image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
+abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
+year: 2016  <<-- update the year
+domain: Retirement Security  <<-- update the project domain from the Project Tracker
+agency: Defense  <<-- update the agency from the project tracker, but check the OES website on the work page to see how we have chosen to abbreviate for the purpose of filters (e.g., USDA is Agriculture)
+summary: Presenting TSP enrollment as an active choice during in-processing increased enrollment by 6-7%.  <<-- develop short teaser of project impact to become the intro on the main page, and header on the project page
+---
+## What was the challenge?
+
+[PASTE IN FROM PROJECT SLIDE]
+
+## What was the program change?
+
+[PASTE IN FROM PROJECT SLIDE]
+
+## How did the evaluation work?
+
+[PASTE IN FROM PROJECT SLIDE]
+
+## What was the impact?
+
+[PASTE IN FROM PROJECT SLIDE]
