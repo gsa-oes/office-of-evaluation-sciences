@@ -30,10 +30,11 @@ created the page and specific project branch, complete the following final items
      assets/img/project-images/.
    - leave this window open in a separate tab for easy copy/pasting later
 11) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says 
-    "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/analysis-plans/,
-    and upload the pdf file of the analysis plant, naming it as follows: project number.pdf
-    <<DO NOT ues spaces in the file name>> (e.g., "1618.pdf")
-12) Return to the original project page you first created. For the three fields you left blank (image, image-source, and abstract), replace the
+    "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/analysis/,
+    and upload the pdf file of the analysis plant, naming it as follows: project number and the project title, with dashes (-) between words
+    <<DO NOT ues spaces in the file name>> (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
+    - leave this window open in a separate tab for easy copy/pasting later
+12) Return to the original project page you first created. For the three fields you left blank (image, image-source, and analysis plan), replace the
     existing content with the information for the new image and abstract you just created.
 13) Commit changes
 14) Email Amira to let us know you have built the page for review
