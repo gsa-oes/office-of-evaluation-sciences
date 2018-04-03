@@ -1,6 +1,27 @@
-Steps to create a new project and post to the website:
+Steps to create a new project or update an exisiting analysis plan to have complete project materials to the website:
 
-TO CREATE A PAGE PREVIEW FOR YOUR PROJECT
+
+TO UPDATE AN EXISITING ANALYSIS PLAN PAGE TO COMPLETE PROJECT SUMMARY:
+1) In the _projects folder, click on the project page you want to update
+2) Once the new project page opens, click on the pencil button to edit the project profile text.
+3) Copy/paste the below four question project summary text to replace the exisiting standard Analysis Plan registration text. 
+4) Update the "Abstract" and "Summary" lines in the overview. 
+      - Abstract: should now have path to the Abstract file - ex. /assets/abstract/1742-reducing-energy-costs.pdf
+      - Summary should now include the overview sentence (with a period)
+5) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
+6) Name the branch with your project number
+7) CLick the green button that reads "Propose new file"
+
+Now, upload your Abstract and complete the following final items: 
+
+8) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of where it says 
+    "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/abstracts/,
+    and upload the pdf file of the abstract, naming it as follows: project number and the project title, with dashes (-) between words
+    <<DO NOT ues spaces in the file name>> (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
+9) Go to federalist.18f.gov and click "login". You will be auto-logged in through GitHub. Click on the "GitHub Branches" menu option on the left. Click on the "View Preview" next to the branch of your project number. 
+10) Email Amira to let us know you have built the page for review
+
+TO CREATE A PAGE PREVIEW FOR YOUR NEW PROJECT
 1) In the _projects folder, click "create new file" in the uper right corner
 2) Once the new page opens, in the text box after "/assets/_projects/", type in:
   - the project number (all four digits), followed by a dash
@@ -37,20 +58,25 @@ created the page and specific project branch, complete the following final items
 12) Return to the original project page you first created. For the three fields you left blank (image, image-source, and abstract), replace the
     existing content with the information for the new image and abstract you just created.
 13) Commit changes
-14) Email Amira to let us know you have built the page for review
+14) Go to federalist.18f.gov and click "login". You will be auto-logged in through GitHub. Click on the "GitHub Branches" menu option on the left. Click on the "View Preview" next to the branch of your project number. 
+15) Email Amira to let us know you have built the page for review
 
 
 ---
-title: Increasing TSP Enrollment Rates through Active Choice <<-- full title, can include spaces
-permalink: /projects/active-choice-tsp/ <<-- what you want the end of the hyperlink to appear as on the real website
-tags: project  <<-- do not remove
-image: /assets/img/project-images/navy-paperwork.jpg  <<-- copy and paste this line in from the header of where you uploaded the image, beginning with the first backslash through the end of the image name (.jpg)
-image-credit: https://www.flickr.com/photos/navyjagcorps/  <<--paste in the image credit link
-abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf  <<-- copy and paste this line in from the header of where you uploaded the abstract, beginning with the first backslash through the end of the file name (.pdf)
-year: 2016  <<-- update the year
-domain: Retirement Security  <<-- update the project domain from the Project Tracker
-agency: Defense  <<-- update the agency from the project tracker, but check the OES website on the work page to see how we have chosen to abbreviate for the purpose of filters (e.g., USDA is Agriculture)
-summary: Presenting TSP enrollment as an active choice during in-processing increased enrollment by 6-7%.  <<-- develop short teaser of project impact to become the intro on the main page, and header on the project page
+---
+title:  Decreasing Energy Costs in Federally Assisted Housing
+permalink: /projects/decreasing-energy-costs/
+tags: project  
+image: /assets/img/project-images/1742.jpg  
+image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
+analysis-plan: /assets/analysis/1742-reducing-energy-costs.pdf
+abstract: 
+year: 2018  
+domain: Communications
+agency: Housing and Urban Development
+summary: Analysis Plan Registration
+featured: homepage
+---
 ---
 ## What was the challenge?
 
