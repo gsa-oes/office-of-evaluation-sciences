@@ -11,7 +11,7 @@ summary: Our team provides results that policymakers can act on with the highest
 
 OES "scrubs-in" to support agencies build evidence in their most pressing priority areas. Team members provide end-to-end support in the design of an evidence-based program change and evaluation to measure impact. Together with our agency collaborators, we go through a process of answering six questions:
 
-![OES Project Process]({{ 'office-of-evaluation-sciences/assets/img/oesprocess.png' | prepend: site.baseurl }} "OES Project Process")
+![Standard email sent to participants]({{ '/assets/img/oesprocess.png' | prepend: site.baseurl }} "Standard email sent to participants")
 
 ## How does OES ensure the quality of its projects?
 
