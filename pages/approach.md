@@ -15,7 +15,7 @@ OES "scrubs-in" to support agency collaborators build evidence in their most pre
 
 ## How does OES ensure the quality of its projects?
 
-Our team tackles some of our nation’s toughest challenges in a complex government environment, developing strong evidence about what works and what doesn’t work — evidence that our agency collaborators can rely on when making decisions about how to design and run their programs moving forward. At OES we take this responsibility very seriously, and we have developed a Research Integrity Framework to ensure that our projects are conducted to the highest social scientific standards.
+Our team tackles some of our nation’s toughest challenges in a complex government environment, developing strong evidence about what works and what doesn’t work — evidence that our agency collaborators can rely on when making decisions about how to design and run their programs moving forward. At OES we take this responsibility very seriously, and we have developed a [Research Integrity Framework]({{site.baseurl}}/assets/files/ResearchIntegrity.pdf) to ensure that our projects are conducted to the highest social scientific standards.
 
 
 
