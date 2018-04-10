@@ -5,17 +5,19 @@ permalink: /approach/
 image:
 image_full: true
 class:
-summary: OES is committed to ensuring that rigor, transparency, and humility are at the foundation of our work.
+summary: Our team provides results that policymakers can act on with the highest degree of confidence.
 ---
 ## What does OES do?
 
-Results from OES studies impact the lives of millions of Americans, and thus the quality of our work and reliability of our findings are of paramount importance. Our team tackles some of our nation’s toughest challenges in a complex government environment and must provide results that policymakers and program designers can act on with the highest degree of confidence. 
+OES "scrubs-in" to support agency collaborators build evidence in their most pressing priority areas. Team members provide end-to-end support in the design of an evidence-based program change and evaluation to measure impact. Together, we go through a process of answering six questions:
 
-At OES we take this responsibility very seriously, and we have developed strict practices to ensure our results and findings are reliable. OES team members follow three guiding principles:
+![Standard email sent to participants]({{ '/assets/img/project-images/tsp-re-enrollment/control-letter.png' | prepend: site.baseurl }} "Standard email sent to participants")
 
-- <b>Bring the highest level of rigor and [research integrity]({{site.baseurl}}/assets/files/ResearchIntegrity.pdf):</b> OES employs research methods that are rigorous, reliable, and reproducible including using randomized evaluations whenever possible, pre-committing to publicly posted analysis plans, submitting our analyses to internal replication, and making our processes and methods publicly available for feedback.  
-- <b>Act transparently and openly:</b> We are committed to ensuring that researchers, agency collaborators, policymakers, and the public at large are able to learn from our work. We keep a public record of all evaluations fielded and publicize all of our findings (including null findings and those that run counter to our own prior expectations and goals). 
-- <b>Humbly collaborate:</b> Our collaborators, who are civil servants with years of experience working on delivering programs across the government, are the experts on how their programs work and often have the best ideas for how to improve them. Sustainable change is possible when the collaborators within partner agencies drive the process, participate in the design and implementation of an evaluation, assist in the analysis and interpretation of results, and make decisions about scale and program implications. 
+## How does OES ensure the quality of its projects?
+
+Our team tackles some of our nation’s toughest challenges in a complex government environment, developing strong evidence about what works and what doesn’t work — evidence that our agency collaborators can rely on when making decisions about how to design and run their programs moving forward. At OES we take this responsibility very seriously, and we have developed a Research Integrity Framework to ensure that our projects are conducted to the highest social scientific standards.
+
+
 
 
 
