@@ -7,7 +7,7 @@ image_full: true
 class:
 summary: OES is committed to ensuring that rigor, transparency, and humility are at the foundation of our work.
 ---
-## How does OES work? 
+## What does OES do?
 
 Results from OES studies impact the lives of millions of Americans, and thus the quality of our work and reliability of our findings are of paramount importance. Our team tackles some of our nation’s toughest challenges in a complex government environment and must provide results that policymakers and program designers can act on with the highest degree of confidence. 
 
