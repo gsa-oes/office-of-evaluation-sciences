@@ -2,8 +2,9 @@
   <div class="usa-grid">
     <div class="footer-logo-links">
     {% include icons/oes.svg %}
-     <br>  
-      <a><i>OES is a service based at GSA</i></a>
+        {% if site.footer.image %}
+      <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA">
+    {% endif %}
     </div>
     <div class="footer-links">
       <h2 class="footer-links-heading">Navigate</h2>
