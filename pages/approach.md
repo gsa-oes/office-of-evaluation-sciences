@@ -9,7 +9,7 @@ summary: Our team provides results that policymakers can act on with the highest
 ---
 ## What does OES do?
 
-OES "scrubs-in" to directly support agencies use data and build evidence to deliver a better government. Team members provide end-to-end support in the design of an evidence-based program change and evaluation to measure impact. Together with our agency collaborators, we go through a process of answering six questions:
+OES "scrubs in" to support agencies in using data and building evidence to deliver a better government. Team members provide end-to-end support in the design of an evidence-based program change and evaluation to measure impact. Together with our agency collaborators, we go through a process of answering six questions:
 
 ![Standard email sent to participants]({{ '/assets/img/oesprocess.png' | prepend: site.baseurl }} "Standard email sent to participants")
 
