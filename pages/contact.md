@@ -5,7 +5,7 @@ permalink: /contact/
 image:
 image_full: true
 class:
-summary: Our team is passionate about bringing evidence and a fresh perspective to tackle Federal priorities. 
+summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
 ---
 ## Partnering with OES
 
