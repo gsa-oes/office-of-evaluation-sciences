@@ -5,7 +5,7 @@ permalink: /about/
 image:
 image_full: true
 class:
-summary: We help the government learn what works, what does not work, and what works most cost-effectively.
+summary: OES tests evidence-based insights to quickly learn what works.
 ---
 ## What is the Office of Evaluation Sciences?
 
