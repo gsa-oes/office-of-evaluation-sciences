@@ -1,5 +1,5 @@
 ---
-name: Mindy Hernandez
+name: Pompa Debroy
 image: /assets/img/team/pompa.jpg
 year:
   - 2018
