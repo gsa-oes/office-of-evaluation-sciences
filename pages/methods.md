@@ -1,5 +1,5 @@
 ---
-layout: page-threecolumns
+layout: methods
 title: Methods
 permalink: /methods/
 image:
