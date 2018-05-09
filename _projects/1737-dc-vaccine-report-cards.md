@@ -3,7 +3,7 @@ title:  Increasing immunization compliance among schools and daycare centers in 
 permalink: /projects/dc-vaccine-report-cards/
 tags: project  
 image: /assets/img/project-images/1742.jpg  
-image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
+image-credit: https://www.flickr.com/photos/pahowho/13383587795
 analysis-plan: /assets/analysis/1742-reducing-energy-costs.pdf
 abstract: 
 year: 2018  
