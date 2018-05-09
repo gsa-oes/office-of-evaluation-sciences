@@ -24,4 +24,4 @@ Facebook users were randomly assigned to one of the four conditions based on the
 
 ## What was the impact?
 
-We did not observe any statistically significant differences between the ad variations. 
+We did not observe any statistically significant differences in click-through rates between the ad variations. 
