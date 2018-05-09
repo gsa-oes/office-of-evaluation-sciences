@@ -1,6 +1,6 @@
 ---
 name: Pompa Debroy
-image: /assets/img/team/pompa.jpg
+image: /assets/img/team/pompa_debroy.jpg
 year:
   - 2018
 agency:
