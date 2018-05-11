@@ -2,7 +2,7 @@
 title: Increasing Uptake/Use of Patient Entered Health Data
 permalink: /projects/increasing-patient-entered-health-data
 tags: project  
-image:
+image:/assets/img/project-images/1729.jpg
 image-credit:
 analysis-plan: 
 abstract: 
