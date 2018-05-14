@@ -5,7 +5,7 @@ year:
   - 2018
 agency:
   - USAID
-home: Non-Profit
+home: Non-profit
 title: Fellow
 ---
 
