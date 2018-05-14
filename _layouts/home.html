@@ -52,9 +52,9 @@ layout: base
     <div class="billboard-message">
       <h2><center>{{ content }}</center></h2>
     </div>
-    {% if page.content-button-link %}
+    <center>{% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-    {% endif %}
+      {% endif %}</center>
     </div>
   </div>
 </section>
