@@ -5,7 +5,7 @@ year:
   - 2018
 agency:
   - HHS
-home: Harvard T.H. Chan School of Public Health
+home: University
 title: Associate Fellow
 ---
 
