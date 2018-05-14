@@ -13,7 +13,8 @@ The Office of Evaluation Sciences (OES) is an interdisciplinary team of experts 
 
 ## What does the Office of Evaluation Sciences do?
 
-Team members work across government to provide end-to-end support in the design of an evidence-based program change and test to measure impact. 
+Team members work across government to provide end-to-end support in the design of an evidence-based program change and test to measure impact. Sustainable change is possible when OES works with collaborators who drive the process, participate in the design and implementation of an evaluation, assist in the analysis and interpretation of results, and make decisions about scale and program implications.
+
 ![OES Project Process]({{ '/assets/img/oesprojectprocess.png' | prepend: site.baseurl }} "OES Project Process")
 
 ## Why is OES at the General Services Administration?
