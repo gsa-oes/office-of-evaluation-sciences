@@ -11,7 +11,7 @@ hero:
 content-button-text: Explore our results
 content-button-link: /work/
 video-button-text: Collaborate with us
-video-button-link: /collaborate/
+video-button-link: /contact/
 class: page-home
 ---
 OES tests evidence-based insights to quickly learn what works.
