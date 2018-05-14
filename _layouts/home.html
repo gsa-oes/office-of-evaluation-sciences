@@ -37,6 +37,10 @@ layout: base
       <br/><br/>
       <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
     </div>
+     <center>{% if page.content-button-link %}
+      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
+      {% endif %}</center>
+    </div>
   </div>
   </section>
 {% capture _graphics %}
