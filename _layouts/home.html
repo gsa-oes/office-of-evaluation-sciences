@@ -55,11 +55,6 @@ layout: base
     <div class="usa-media_block-body">
     <div class="billboard-message">
       <h2><center>{{ content }}</center></h2>
-    </div>
-    <center>{% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-      {% endif %}</center>
-    </div>
   </div>
 </section>
 {% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
