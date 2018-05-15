@@ -1,6 +1,6 @@
 ---
-title: Increasing Uptake/Use of Patient Entered Health Data
-permalink: /projects/increasing-patient-entered-health-data
+title: Increasing Patient use of Electronic Health Records for Blood Glucose Monitoring
+permalink: /projects/increasing-patient-use-of-electronic-health-records
 tags: project  
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
