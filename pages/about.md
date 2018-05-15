@@ -21,4 +21,4 @@ Team members work across government to provide end-to-end support in the design 
 
 The United States General Services Administration (GSA) exists to support the government in becoming more effective and efficient. One of the ways it does this is to promote management best practices and efficient government operations through the development of governmentwide policies. 
 
-OES supports this activity by working with agencies to use evidence and analysis to drive efficiency, savings, and improved mission performance. At GSA, OES is uniquely situated in a central entity that can easily deploy technical support, provide an independent yet intragovernmental perspective, and develop standards for high-quality evidence building activities in the Federal environment.
+OES contributes to this mandate by working with agencies to use evidence and analysis to drive efficiency, savings, and improved mission performance. At GSA, OES is uniquely situated in a central entity that can easily deploy technical support, provide an independent yet intragovernmental perspective, and develop standards for high-quality evidence building activities in the Federal environment.
