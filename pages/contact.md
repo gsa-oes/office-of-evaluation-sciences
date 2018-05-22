@@ -9,24 +9,16 @@ summary: Our team is passionate about bringing and building evidence to tackle F
 ---
 ## Partnering with OES
 
-Is your agency interested in designing a test with OES?
+We’re excited to partner with new agency collaborators across government. What makes an opportunity a good fit for testing an evidence-based insight with OES?
 
-Below is a list of questions that can help you start to think about whether the challenge you're working on may be a good fit for the types of projects our skills are best suited for:
+- A clear touchpoint between the Federal government and an individual
+- An outcome of interest that depends in part on people’s actions 
+- An outcome of interest that is reflected in existing administrative data (or could be easily collected) 
+- A program population size that is large enough to be statistically and policy relevant
+- The ability to randomly assign groups of people to different versions of a program change 
+- An agency collaborator willing to work alongside OES and to share results across government
 
- - Does the program have an outcome of interest that depends in part on people’s actions (e.g., individuals taking up a program, adhering to appointments, providing accurate information)?
- - Does the program contain a clear touchpoint between the individual and the Federal government (e.g., a communication channel, a signup point)?
- - Is the outcome of the program already reflected in administrative data that is collected (or could be easily collected) by the agency? At what level is this data collected (e.g., individual, facility, state)?
- - How many units (e.g., individuals, facilities, states) are being served through this program? 
- - Would it be possible to assign units to different versions of an improvement in order to compare outcomes and learn what works best (e.g., half of program recipients receive information presented in a standard way, and half in a modified, research-insight based format)?
-
-Think you have a good fit? Here’s how to get started:
-<ol>
-<li>Send us your initial responses to the questions above in an email to <a href="mailto:oes@gsa.gov?subject=Collaboration">oes@gsa.gov</a> to start the conversation</li>
-<li>Someone from our office will reach out to you to learn more</li>
-<li>Work with an OES team member to identify an area of collaboration</li>
-</ol> 
-
-We're excited to work with a variety of agencies, but naturally, we do not have the ability to respond to all project proposals. We consider each opportunity using the criteria described above, and also consider our teams' current makeup of skillsets and resources to assess our ability to collaborate.
+Send a description of how your opportunity incorporates the elements above in an email to oes@gsa.gov to start the conversation. Naturally, we do not have the ability to respond to all project proposals, but we consider each opportunity using the criteria described above, our teams' current makeup of skillsets, and available resources to assess our ability to collaborate.
 
 ## Joining OES
 
