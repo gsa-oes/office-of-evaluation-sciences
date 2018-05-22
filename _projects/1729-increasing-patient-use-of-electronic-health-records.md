@@ -5,7 +5,7 @@ tags: project
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: 
-abstract: 
+abstract: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
 year: 2018  
 domain: Health
 agency: The Office of the National Coordinator for Health Information Technology
