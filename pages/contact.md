@@ -32,7 +32,7 @@ We're excited to work with a variety of agencies, but naturally, we do not have 
 
 Full time OES team members are selected annually, with applications often opening in late Fall. These individuals come to the team for one year, are based in Washington, D.C., and are often on loan from a variety of home institutions such as a university or another Federal agency. Join our mailing list (at the bottom of our homepage) to be notified of our next recruitment cycle. 
 
-You can also learn more about the position and what we look for by [viewing the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
+You can learn more about the position and what we look for by [viewing the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
 
 ## Supporting OES as an Academic Affiliate 
 
