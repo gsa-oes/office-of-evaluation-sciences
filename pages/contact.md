@@ -18,7 +18,7 @@ We’re excited to partner with new agency collaborators across government. What
 - The ability to randomly assign groups of people to different versions of a program change 
 - An agency collaborator willing to work alongside OES and to share results across government
 
-Send a description of how your opportunity incorporates the elements above in an email to oes@gsa.gov to start the conversation. Naturally, we do not have the ability to respond to all project proposals, but we consider each opportunity using the criteria described above, our teams' current makeup of skillsets, and available resources to assess our ability to collaborate.
+Send a description of how your opportunity incorporates the elements above in an email to <a href="mailto:oes@gsa.gov?subject=Project Proposal">oes@gsa.gov</a> to start the conversation. Naturally, we do not have the ability to respond to all project proposals, but we consider each opportunity using the criteria described above, our teams' current makeup of skillsets, and available resources to assess our ability to collaborate.
 
 ## Joining OES
 
