@@ -9,6 +9,6 @@ summary: Our team provides results that policymakers can act on with the highest
 ---
 ## What do we mean when we say "evidence-based" and "test"?
 
-Because results from OES studies impact the lives of millions of Americans, the quality of our work is of paramount importance. We pass all projects through the six steps below to ensure the reliability of our findings.
+Because results from OES tests impact the lives of millions of Americans, the quality of our work is of paramount importance. We follow the OES Evaluation Policy and six steps to ensure our findings are relevant and reliable.
 
 
