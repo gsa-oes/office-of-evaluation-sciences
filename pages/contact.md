@@ -9,7 +9,7 @@ summary: Our team is passionate about bringing and building evidence to tackle F
 ---
 ## Partnering with OES
 
-Is your agency interested in doing a project with OES?
+Is your agency interested in designing a test with OES?
 
 Below is a list of questions that can help you start to think about whether the challenge you're working on may be a good fit for the types of projects our skills are best suited for:
 
