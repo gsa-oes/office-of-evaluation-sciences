@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Select Methods Detail
+title: Selected Methods in Detail
 permalink: /methodsdetail/
 image:
 image_full: 
