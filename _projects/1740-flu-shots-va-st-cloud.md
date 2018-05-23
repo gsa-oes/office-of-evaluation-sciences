@@ -2,8 +2,8 @@
 title:  Increasing Flu Vaccine Uptake Among Veterans at the St. Cloud VA
 permalink: /projects/flu-shots-va-st-cloud/
 tags: project  
-image: /assets/img/project-images/1740-image.jpg
-image-credit: 
+image: /assets/img/project-images/1740.jpg
+image-credit: http://www.dodlive.mil/2013/10/28/flu-shot-or-nasal-spray-vaccine-which-is-better/
 analysis-plan: /assets/analysis/1740-flu-shots-va-st-cloud-analysis-plan.pdf
 abstract: 
 year: 2018
