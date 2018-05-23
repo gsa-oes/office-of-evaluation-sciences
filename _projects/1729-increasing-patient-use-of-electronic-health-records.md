@@ -5,7 +5,6 @@ tags: project
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
-abstract: 
 year: 2018  
 domain: Health
 agency: Health and Human Services
