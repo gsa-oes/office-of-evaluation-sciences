@@ -4,7 +4,7 @@ permalink: /projects/increasing-fsa-among-government-employees
 tags: project  
 image: /assets/img/project-images/1733.jpg
 image-credit:
-analysis-plan: /assets/analysis/1733-increasing-fsa-gsa.pdf
+analysis-plan: /assets/analysis/1733-increasing-fsa-gsa.pd
 abstract: 
 year: 2018
 domain: 
