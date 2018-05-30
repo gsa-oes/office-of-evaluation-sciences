@@ -9,7 +9,7 @@ summary:
 ---
 ## Randomization Code Review
 
-We generally use computer code to perform random assignment, and yet computer code is complex and notoriously vulnerable to mistakes. Before we use code for random assignment, we make sure it has been independently reviewed by an OES team member who is not directly involved in the project.  The reviewer works through the code line by line and may testsome or all of the code by running it on either real or mock data.
+We generally use computer code to perform random assignment, and yet computer code is complex and notoriously vulnerable to mistakes. Before we use code for random assignment, we make sure it has been independently reviewed by an OES team member who is not directly involved in the project.  The reviewer works through the code line by line and may test some or all of the code by running it on either real or mock data.
 
 ## Statistical Power
 
