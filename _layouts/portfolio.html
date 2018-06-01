@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% if page.project_tags.size > 0 %}
+  <div class="project-container">
+    {% for page_project_tag in page.project_tags %}
+      {% assign tagged_projects = site.projects | where_exp:"project", "project.tags contains page_project_tag" %}
+        {% for project in tagged_projects reversed %}
+          {% include projects.html %}
+      {% endfor %}    
+    {% endfor %}
+  </div>
+{% endif %}

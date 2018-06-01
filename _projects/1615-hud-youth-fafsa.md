@@ -1,7 +1,8 @@
 ---
 title: Increasing FAFSA Completion by HUD-Assisted Youth
 permalink: /projects/hud-youth-fafsa/
-tags: project
+tags:
+  - education
 image: /assets/img/project-images/fafsa.jpg
 image-credit: https://www.flickr.com/photos/btreenews/
 abstract: /assets/abstracts/1615-Financial-Aid-for-HUD-Assisted-Youth.pdf
