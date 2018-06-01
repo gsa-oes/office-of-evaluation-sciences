@@ -17,12 +17,12 @@ layout: base
 {% endif %}
 <section class="usa-section background-light">
   <div class="usa-grid main-content">
- <div class="usa-grid">
+  <div class="usa-grid">
     <div class="usa-width-one-fourth">
       <h3><center>Achieved $8M+ in cost savings and revenue in less than 15 months</center></h3>
       <br/><br/>
       <p><center><img src="{{ '/assets/img/icons/example1.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-   </div>
+    </div>
     <div class="usa-width-one-fourth">
       <h3><center>Enabled more than 20,000 new active duty Servicemember retirement savings plan enrollees</center></h3>
          <br/><br/>
@@ -38,12 +38,13 @@ layout: base
       <br/><br/>
       <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
     </div>
-     <center>{% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-      {% endif %}</center>
-    </div>
   </div>
-  </section>
+  <center>{% if page.content-button-link %}
+    <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
+    {% endif %}
+  </center>
+  </div>
+</section>
 <section class="usa-section billboard">
     <div class="usa-media_block-body">
     <div class="billboard-message">
