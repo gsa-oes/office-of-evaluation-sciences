@@ -23,33 +23,34 @@ layout: base
 </section>
 <section class="usa-section background-light">
   <div class="usa-grid main-content">
- <div class="usa-grid">
-    <div class="usa-width-one-fourth">
-      <h3><center>Achieved $8M+ in cost savings and revenue in less than 15 months</center></h3>
-      <br/><br/>
-      <p><center><img src="{{ '/assets/img/icons/example1.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-   </div>
-    <div class="usa-width-one-fourth">
-      <h3><center>Enrolled more than 20,000 active duty servicemembers into retirement savings plans</center></h3>
-         <br/><br/>
-       <p><center><img src="{{ '/assets/img/icons/example2.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+    <div class="usa-grid">
+      <div class="usa-width-one-fourth">
+        <h3><center>Achieved $8M+ in cost savings and revenue in less than 15 months</center></h3>
+        <br/><br/>
+        <p><center><img src="{{ '/assets/img/icons/example1.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3><center>Enrolled more than 20,000 active duty servicemembers into retirement savings plans</center></h3>
+           <br/><br/>
+         <p><center><img src="{{ '/assets/img/icons/example2.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3><center>Informed more than half a million Americans about the benefits of getting vaccinated</center></h3>
+        <br/>
+       <p><center><img src="{{ '/assets/img/icons/example3.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3><center>Showed text message reminders could increase college enrollment by 6%</center></h3>
+        <br/><br/>
+        <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>     
     </div>
-    <div class="usa-width-one-fourth">
-      <h3><center>Informed more than half a million Americans about the benefits of getting vaccinated</center></h3>
-      <br/>
-     <p><center><img src="{{ '/assets/img/icons/example3.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+    {% if page.content-button-link %}
+      <center>
+        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
+      </center>
+    {% endif %}
     </div>
-    <div class="usa-width-one-fourth">
-      <h3><center>Showed text message reminders could increase college enrollment by 6%</center></h3>
-      <br/><br/>
-      <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-    </div>
-   <br/>
-     <center>{% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-      {% endif %}</center>
-    </div>
-  </div>
   </section>
 {% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
 {% if featuredprojects.size == 0 %}
