@@ -14,6 +14,7 @@ summary: Peer comparison letters for high prescribers of quetiapine reduce presc
 
 Antipsychotics such as quetiapine are often prescribed for reasons not supported by clinical evidence, increasing healthcare costs and potentially exposing patients to harms. The Center for Program Integrity (CPI) at the Centers for Medicare and Medicaid Services (CMS) partnered with the Office of Evaluation Sciences (OES) to improve the value and safety of quetiapine prescribing in Medicare Part D.
 
+
 ## What was the program change?
 
 CPI and OES sent a series of peer comparison letters to high volume prescribers indicating that their quetiapine prescribing was extremely high relative to their within-state peers and that it was under review.
@@ -24,4 +25,4 @@ CPI and OES randomly assigned high volume prescribers (N = 5,055) to get a treat
 
 ## What was the impact?
 
-Sending peer comparison letters to high volume prescribers of quetiapine reduced prescribing by 11.1%, and did so without any detectable adverse impacts.
+Sending peer comparison letters to high volume prescribers of quetiapine reduced prescribing, and did so without any detectable adverse impacts.
