@@ -9,7 +9,7 @@ summary: OES tests evidence-based insights to quickly learn what works.
 ---
 ## What is the Office of Evaluation Sciences?
 
-The Office of Evaluation Sciences (OES) is an interdisciplinary team of experts within the Federal government, housed at the U.S. General Services Administration,  that translates evidence-based insights into concrete recommendations for how to improve government and tests to learn what works.
+OES is an interdisciplinary team of experts within the Federal government, housed at the U.S. General Services Administration. Our team translates and tests evidence-based insights into concrete recommendations for how to improve government.
 
 ## What does the Office of Evaluation Sciences do?
 
