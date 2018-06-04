@@ -15,26 +15,43 @@ layout: base
   </div>
 </section>
 {% endif %}
-
-{% capture _graphics %}
-  {% include graphic-list.html graphics=page.graphics %}
-{% endcapture %}
-{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
 <section class="usa-section billboard">
-  <div class="usa-grid">
-    <div class="usa-media_block-img">
-      {% include icons/gears.svg %}
-    </div>
     <div class="usa-media_block-body">
     <div class="billboard-message">
-      <h2>{{ content }}</h2>
-    </div>
-    {% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-    {% endif %}
-    </div>
+      <h2><center>{{ content }}</center></h2>
   </div>
 </section>
+<section class="usa-section background-light">
+  <div class="usa-grid main-content">
+    <div class="usa-grid">
+      <div class="usa-width-one-fourth">
+        <h3><center>Achieved $8M+ in cost savings and revenue in less than 15 months</center></h3>
+        <br/><br/>
+        <p><center><img src="{{ '/assets/img/icons/example1.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3><center>Enrolled more than 20,000 active duty servicemembers into retirement savings plans</center></h3>
+           <br/><br/>
+         <p><center><img src="{{ '/assets/img/icons/example2.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3><center>Informed more than half a million Americans about the benefits of getting vaccinated</center></h3>
+        <br/>
+       <p><center><img src="{{ '/assets/img/icons/example3.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>
+      <div class="usa-width-one-fourth">
+        <h3><center>Showed text message reminders could increase college enrollment by 6%</center></h3>
+        <br/><br/>
+        <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      </div>     
+    </div>
+    {% if page.content-button-link %}
+      <center>
+        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
+      </center>
+    {% endif %}
+    </div>
+  </section>
 {% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
 {% if featuredprojects.size == 0 %}
 {% else %}
@@ -49,26 +66,6 @@ layout: base
   </div>
 </section>
 {% endif %}
-<section class="usa-section background-brand-dark">
-  <div class="usa-grid main-content">
-     <div class= "usa-grid" align="center">
-      <p><h1>OES and USAID</h1></p>
-    <p>    </p>
-    <div class="usa-width-one-half">
-      <div class="videoWrapper">
-        <iframe src="https://drive.google.com/file/d/0BxayWw6MbOYbTE8tSktGRFNlNGM/preview" width="512" height="384"></iframe>
-      </div>
-    </div>
-  <div class="usa-width-one-half single-sidebar">
-  <div class= "usa-grid" align="left">
-    <p> Since 2015, OES and the United States Agency for International Development (USAID) have collaborated to apply insights from behavioral sciences and conduct rigorous, low-cost evaluations on child and maternal health and infectious diseases programs around the world. The goal of the collaborations is to identify cost-effective, evidence-based changes that can be scaled for broader impact.
-
-      <b>If you are a USAID Mission or implementing partner interested in collaborating with OES, learn how to start the conversation by clicking below.</b></p>
-    {% if page.video-button-link %}
-      <a href="{{ page.video-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.video-button-text }}</a>
-    {% endif %}
-    </div>
-  </section>
 
 <section class="usa-section background-tint">
 {% include contact.html %}

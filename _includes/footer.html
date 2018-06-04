@@ -2,8 +2,9 @@
   <div class="usa-grid">
     <div class="footer-logo-links">
     {% include icons/oes.svg %}
-     <br>  
-      <a><i>OES is a service based at GSA</i></a>
+        {% if site.footer.image %}
+      <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA">
+    {% endif %}
     </div>
     <div class="footer-links">
       <h2 class="footer-links-heading">Navigate</h2>
@@ -12,7 +13,7 @@
           <a href="{{ site.baseurl }}/about/">About</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/approach/">Approach</a>
+          <a href="{{ site.baseurl }}/approach/">Methods</a>
         </li>
         <li>
           <a href="{{ site.baseurl }}/work/">Work</a>
@@ -21,10 +22,7 @@
           <a href="{{ site.baseurl }}/team/">Team</a>
         </li>
         <li>
-          <a href="{{ site.baseurl }}/collaborate/">Collaborate</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/join/">Join</a>
+          <a href="{{ site.baseurl }}/contact/">Contact</a>
         </li>
       </ul>
     </div>

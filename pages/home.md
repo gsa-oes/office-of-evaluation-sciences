@@ -11,7 +11,7 @@ hero:
 content-button-text: Explore our results
 content-button-link: /work/
 video-button-text: Collaborate with us
-video-button-link: /collaborate/
+video-button-link: /contact/
 class: page-home
 ---
-OES translates research insights into concrete recommendations for how to improve government, and works with agencies to rapidly and rigorously test their impact.
+OES tests evidence-based insights to quickly learn what works.
