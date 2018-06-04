@@ -1,7 +1,9 @@
 ---
 title: Reducing Self-reporting Errors by IFF Form Users
 permalink: /projects/iff-reporting-errors/
-tags: project
+tags:
+  - project
+  - cost savings
 image: /assets/img/project-images/IFF.jpg
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-Industrial-Funding-Fee-Reports.pdf
