@@ -1,7 +1,9 @@
 ---
 title: Encouraging Uptake of the Recommended Vaccine Sequence for Seniors in Louisiana
 permalink: /projects/encouraging-vaccine-uptake-for-seniors/
-tags: project  
+tags:
+  - project
+  - vaccines
 image: /assets/img/project-images/1738.jpg  
 image-credit: http://www.freestockphotos.biz/stockphoto/15813
 analysis-plan: /assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf
