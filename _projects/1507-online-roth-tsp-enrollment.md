@@ -1,7 +1,9 @@
 ---
 title: Increasing Online TSP Enrollment by Servicemembers
 permalink: /projects/online-tsp-enrollment/
-tags: project
+tags:
+  - project
+  - retirement
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
 abstract: /assets/abstracts/1507-Servicemember-TSP-Enrollment.pdf
 year: 2015
