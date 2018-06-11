@@ -1,7 +1,9 @@
 ---
 title:  Increasing IPTp Uptake in Nigeria
 permalink: /projects/increasing-iptp-uptake/
-tags: project  
+tags: 
+  - project 
+  - USAID
 image: /assets/img/project-images/1715.jpg  
 image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
 analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf

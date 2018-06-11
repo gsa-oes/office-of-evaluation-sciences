@@ -1,7 +1,9 @@
 ---
 title:  Encouraging Flu Vaccine Uptake Among Pregnant Patients at Duke
 permalink: /projects/duke-maternal-flu-shots/
-tags: project  
+tags:
+  - project
+  - vaccines
 image: /assets/img/project-images/1735.jpg
 image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-woman-a-flu-vaccine-shot-pv.jpg
 analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf

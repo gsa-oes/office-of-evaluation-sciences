@@ -2,8 +2,8 @@
 title: Matching Government Surplus Property with Interested Buyers
 permalink: /projects/gsa-auctions/ 
 tags:
-  - project 
-  - cost savings  
+  - project
+  - cost savings
 image: /assets/img/project-images/1739.jpg
 image-credit: https://www.gsaauctions.gov
 abstract: /assets/abstracts/1739-gsa-auctions.pdf

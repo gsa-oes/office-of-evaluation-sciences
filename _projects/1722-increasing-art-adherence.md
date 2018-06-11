@@ -1,7 +1,9 @@
 ---
 title: Increasing ART Adherence and Retention in Care for HIV Positive Women in Ethiopia
 permalink: /projects/increasing-art-adherence/
-tags: project  
+tags:
+  - project
+  - USAID
 image: /assets/img/project-images/1722.jpg  
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
 analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
