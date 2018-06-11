@@ -4,7 +4,7 @@ permalink: /projects/quetiapine-prescribing/
 tags: project
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
-abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf/
+abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf
 year: 2017
 domain: Health
 agency: Health and Human Services
