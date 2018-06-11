@@ -19,7 +19,7 @@ Team members work across government to provide end-to-end support in the design 
 
 ## Why is OES at GSA?
 
-GSA’s mission is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across Government.. One of the ways it carries out this mission is through promoting management best practices and efficient government operations through the development of governmentwide policies.
+GSA’s mission is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across Government. One of the ways it carries out this mission is through promoting management best practices and efficient government operations through the development of governmentwide policies.
 
 OES supports this activity by working with agencies to use evidence and analysis to drive efficiency, savings, and improved mission performance. At GSA, OES is uniquely situated in a central entity that can easily deploy technical support, provide an independent yet intragovernmental perspective, and develop standards for high-quality evidence building activities in the Federal environment.
 
