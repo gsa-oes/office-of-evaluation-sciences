@@ -1,7 +1,9 @@
 ---
 title: Prompting Decisions on Retirement Saving
 permalink: /projects/prompting-tsp-contribution/ 
-tags: project
+tags:
+  - project
+  - retirement
 image: /assets/img/project-images/1703.png
 image-credit: https://pixabay.com/photo-427510/
 abstract: /assets/abstracts/1703-prompting-tsp.pdf 
