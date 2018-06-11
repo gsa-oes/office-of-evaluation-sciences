@@ -3,11 +3,11 @@ layout: portfolio
 title: OES Vaccines Portfolio
 permalink: /vaccines/
 image:
-summary: OES has collaborated with several federal agencies to build a portfolio of evidence regarding how low-cost program changes can improve vaccine adherence. 
+summary: OES has collaborated with several federal agencies to build a portfolio of evidence regarding how low-cost insights can improve vaccine adherence. 
 project_tags:
   - vaccines
 ---
-## Improving Vaccine Uptake
+## Background
 
 Vaccines are one of the most important public health interventions, responsible for saving thousands of lives in the United States every year. Despite this, vaccine uptake for some vaccinations recommended in the Center for Disease Control (CDC) immunization schedules falls well below Healthy People 2020 targets, and the estimated economic burden of vaccine-preventable diseases among adults in the United States was about $9 billion in 2015 alone. 
 
