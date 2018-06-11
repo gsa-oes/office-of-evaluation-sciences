@@ -1,7 +1,9 @@
 ---
 title: Increasing Servicemember Roth TSP Re-Enrollment
 permalink: /projects/roth-tsp-re-enrollment/
-tags: project
+tags:
+  - project
+  - retirement
 image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/abstracts/1502-Servicemember-Roth-TSP-Re-Enrollment.pdf
