@@ -5,7 +5,7 @@ tags:
   - project
   - retirement 
 image: /assets/img/project-images/1723.jpg  
-image-credit: https://pixnio.com/people/female-women/special-car-for-wheelchair
+image-credit: https://pixabay.com/photo-3113574/
 analysis-plan: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
 abstract: 
 year: 2018  
