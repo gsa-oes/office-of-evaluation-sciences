@@ -4,7 +4,7 @@ permalink: /projects/decreasing-energy-costs/
 tags: project  
 image: /assets/img/project-images/1742.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
-analysis-plan: /assets/analysis/1742-reducing-energy-costs-1.pdf
+analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstract/1742-reducing-energy-costs.pdf
 year: 2018  
 domain: Communications
@@ -26,6 +26,6 @@ OES randomized 2,796 apartment units to be sent no flyer, a single-tip flyer, or
 
 ## What was the impact?
 
-Energy use among the units that were sent any flyer (single- or multiple-tips) was 0.235 kWh per day lower than units that were not sent a flyer, but this difference was not statistically significant.
+Energy use among the units that were sent any flyer (single- or multiple-tips) was 0.235 kWh per day lower than units that were not sent a flyer, but this difference was not statistically significant. Future work will build on this study to examine how informational communications can have greater impact on energy use and costs.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
