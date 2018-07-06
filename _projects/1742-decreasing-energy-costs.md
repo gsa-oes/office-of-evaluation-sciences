@@ -5,7 +5,7 @@ tags: project
 image: /assets/img/project-images/1742.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
 analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
-abstract: /assets/abstract/1742-reducing-energy-costs.pdf
+abstract: /assets/abstract/1742-reducing-energy-costs.pdf/
 year: 2018  
 domain: Communications
 agency: Housing and Urban Development
