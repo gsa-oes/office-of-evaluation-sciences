@@ -9,7 +9,7 @@ year: 2016
 domain: Education
 agency: Education
 impact:
-summary: Including required payment amount increased IDR recertification by 33.9%.
+summary: Including required payment amount increased IDR recertification by 8.4%.
 ---
 ## What was the challenge?
 
@@ -25,4 +25,4 @@ Nearly 300,000 eligible borrowers were divided into three cohorts and then rando
 
 ## What was the impact?
 
-Including borrowers’ actual payment increase was most effective at getting borrowers to recertify for IDR plans, resulting in a 33.9% increase. The timing of reminder emails and the inclusion of an official’s signature were not effective.
+Including borrowers’ actual payment increase was most effective at getting borrowers to recertify for IDR plans, resulting in a 8.4% increase. The timing of reminder emails and the inclusion of an official’s signature were not effective.
