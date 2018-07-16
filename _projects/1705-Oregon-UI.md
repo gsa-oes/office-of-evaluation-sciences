@@ -8,7 +8,7 @@ analysis-plan: /assets/analysis/1705-Oregon-UI.pdf
 abstract: 
 year: 2018  
 domain: Employment
-agency: Oregon Employment Department
+agency: Department of Labor
 summary: Analysis Plan Registration
 featured: homepage
 ---
