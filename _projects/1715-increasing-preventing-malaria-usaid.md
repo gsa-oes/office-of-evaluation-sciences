@@ -1,6 +1,6 @@
 ---
-title:  Increasing IPTp Uptake in Nigeria
-permalink: /projects/increasing-iptp-uptake/
+title:  Preventing Malaria During Pregnancy with USAID
+permalink: /projects/preventing-malaria-usaid/
 tags: 
   - project 
   - USAID
