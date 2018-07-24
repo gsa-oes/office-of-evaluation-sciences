@@ -1,7 +1,9 @@
 ---
 title: Increasing Site Visits to Vaccines.gov
 permalink: /projects/pregnancy-vaccines-ads/
-tags: project  
+tags:
+  - project
+  - vaccines
 image: /assets/img/project-images/1736.jpg
 image-credit: https://www.vaccines.gov/who_and_when/pregnant/index.html
 abstract: /assets/abstracts/1736-pregnancy-vaccines-ads.pdf
