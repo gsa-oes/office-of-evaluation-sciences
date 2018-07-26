@@ -1,5 +1,5 @@
 ---
-title:  Increasing IPTp Uptake in Nigeria
+title:  Preventing Malaria During Pregnancy  
 permalink: /projects/increasing-iptp-uptake/
 tags: 
   - project 
