@@ -1,5 +1,5 @@
 ---
-title:  Preventing Malaria During Pregnancy with USAID
+title:  Preventing Malaria During Pregnancy
 permalink: /projects/preventing-malaria-usaid/
 tags: 
   - project 
