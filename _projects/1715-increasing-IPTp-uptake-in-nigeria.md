@@ -12,3 +12,18 @@ domain: Health
 agency: United States Agency for International Development
 summary: Analysis Plan Registration
 ---
+## What was the challenge?
+
+(Insert text)
+
+## What was the program change?
+
+(Insert text) 
+
+## How did the evaluation work?
+
+(Insert text)
+
+## What was the impact?
+
+(Insert text)
