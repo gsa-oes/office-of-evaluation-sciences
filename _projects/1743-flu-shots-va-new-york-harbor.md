@@ -6,7 +6,6 @@ tags:
   - vaccines
 image: /assets/img/project-images/1743.jpg
 image-credit: https://www.va.gov/health/NewsFeatures/2014/May/VHA-Benefits-Goal-Preserving-Your-Good-Health.asp
-analysis-plan: /assets/analysis/1743-flu-shots-va-new-york-harbor-analysis-plan.pdf
 abstract: 
 year: 2018
 domain: Health
