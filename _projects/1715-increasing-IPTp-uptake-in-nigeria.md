@@ -1,6 +1,6 @@
 ---
 title:  Preventing Malaria During Pregnancy  
-permalink: /projects/increasing-iptp-uptake/
+permalink: /projects/preventing-malaria-during-pregnancy/
 tags: 
   - project 
   - USAID
