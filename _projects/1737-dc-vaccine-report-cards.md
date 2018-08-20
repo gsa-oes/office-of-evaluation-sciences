@@ -17,15 +17,15 @@ featured: homepage
 
 ## What was the challenge?
 
-The District of Columbia Department of Health (DC Health), OES, and NVPO collaborated to improve immunization compliance among students in DC schools and daycare centers. The project focused on overcoming several behavioral barriers, including ensuring principals had information about their students’ immunization compliance and appropriate steps to take, as well as information on the importance of immunization compliance and where their school’s compliance stands. 
+The District of Columbia Department of Health (DC Health), OES, and NVPO collaborated to improve immunization compliance among students in DC schools and licensed child development centers (LCDC). The project focused on overcoming several behavioral barriers, including ensuring principals had information about their students’ immunization compliance and appropriate steps to take, as well as information on the importance of immunization compliance and where their school’s compliance stands. 
 
 ## What was the program change?
 
-OES designed report cards to report on school and Licensed Daycare Development Center (LCDC) immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using Tableau data visualization software and by using DC Health immunization registry data. 
+OES designed report cards to report on school and LCDC immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using Tableau data visualization software and by using DC Health immunization registry data. 
 
 ## How did the evaluation work?
 
-We randomized the 304 schools and 396 LCDCs in DC, whereby school leaders (principals and the immunization point of contact) at half of the schools and LCDC’s received report cards. 
+We randomized the 304 schools and 396 LCDCs in DC, whereby school leaders (principals and the immunization point of contact) at half of the schools and LCDCs received report cards. 
 
 ## What was the impact?
 
