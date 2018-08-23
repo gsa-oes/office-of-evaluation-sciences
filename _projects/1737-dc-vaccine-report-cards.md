@@ -11,7 +11,7 @@ abstract: /assets/abstracts/1737-dc-vaccine-report-cards-abstract.pdf
 year: 2018  
 domain: Health
 agency: Health and Human Services
-summary: Using Tableau to design school-specific immunization compliance reports.
+summary: Data visualization for school-specific immunization compliance reports.
 featured: homepage
 ---
 
