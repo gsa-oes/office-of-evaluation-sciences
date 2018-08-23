@@ -21,7 +21,7 @@ The District of Columbia Department of Health (DC Health), OES, and NVPO collabo
 
 ## What was the program change?
 
-OES designed report cards to report on school and LCDC immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using Tableau data visualization software and by using DC Health immunization registry data. 
+OES designed report cards to report on school and LCDC immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using data visualization software and by using DC Health immunization registry data. 
 
 ## How did the evaluation work?
 
