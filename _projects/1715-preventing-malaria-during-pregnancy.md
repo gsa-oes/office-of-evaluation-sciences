@@ -6,7 +6,7 @@ tags:
   - USAID
 image: /assets/img/project-images/1715.jpg  
 image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
-abstract: 
+abstract: /assets/abstracts/1715-Preventing-Malaria-in-Pregnancy.pdf
 year: 2018  
 domain: Health
 agency: United States Agency for International Development
