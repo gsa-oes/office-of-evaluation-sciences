@@ -16,7 +16,7 @@ project_tags:
 
 <section>
 	<center>
-		<h2><u>Why the OES/USAID Partnership is important:</u></h2>
+		<h2>Why the OES/USAID Partnership is important:</h2>
 		<iframe src="https://player.vimeo.com/video/251316761?transparent=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	</center>
 	<p>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership.</p>
