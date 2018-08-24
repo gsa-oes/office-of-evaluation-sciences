@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1715-Preventing-Malaria-in-Pregnancy.pdf
 year: 2018  
 domain: Health
 agency: United States Agency for International Development
-summary: Analysis Plan Registration
+summary: (insert text here)
 ---
 ## What was the challenge?
 
