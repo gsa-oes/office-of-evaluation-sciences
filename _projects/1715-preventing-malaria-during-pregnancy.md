@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1715-Preventing-Malaria-in-Pregnancy.pdf
 year: 2018  
 domain: Health
 agency: United States Agency for International Development
-summary: (insert text here)
+summary: Redesigned referral process did not increase antenatal care (ANC) attendance for pregnant women
 ---
 ## What was the challenge?
 
