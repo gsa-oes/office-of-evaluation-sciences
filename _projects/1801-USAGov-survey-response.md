@@ -2,7 +2,7 @@
 title:  Improving USAGov Email Content by Increasing Response Rates to a Subscriber Feedback Survey
 permalink: /projects/USAGov-survey/
 tags: project  
-image:  assets/img/project-images/1801.png
+image:  assets/img/project-images/1801.jpg
 image-credit: 
 analysis-plan: /assets/analysis/1801-USAGov-survey-response.pdf
 abstract: 
