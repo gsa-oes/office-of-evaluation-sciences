@@ -1,8 +1,8 @@
 ---
-title:  Increasing Survey Responses to Improve USAGov Emails
+title:  Increasing Survey Responses to Improve USAGov Email Content
 permalink: /projects/USAGov-survey/
 tags: project  
-image: /assets/img/project-images/1801-6.jpg
+image: /assets/img/project-images/1801-6v2.jpg
 image-credit: 
 analysis-plan: /assets/analysis/1801-USAGov-survey.pdf
 abstract: 
