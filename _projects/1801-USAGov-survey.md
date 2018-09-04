@@ -4,7 +4,7 @@ permalink: /projects/USAGov-survey/
 tags: project  
 image: /assets/img/project-images/1801-6.jpg
 image-credit: 
-analysis-plan: /assets/analysis/1801-USAGov-survey-analysis-plan.pdf
+analysis-plan: /assets/analysis/1801-USAGov-survey.pdf
 abstract: 
 year: 2018  
 domain: Communications
