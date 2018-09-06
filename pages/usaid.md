@@ -25,7 +25,7 @@ project_tags:
 <section>
 	<center>
 		<h2>How do OES and USAID Work together?</h2>
-		<img src="office-of-evaluation-sciences/assets/img/project-images/partnership.gif" width="560" alt="animated image of 4 people working in partnership"> 
+		<img src="/assets/img/project-images/partnership.gif" width="560" alt="animated image of 4 people working in partnership"> 
 	</center>
 	<p><a href="https://docs.google.com/document/d/1BRldGYtHlL6-_wFhYXS1G3fwv1tudS3ORAh8Gt7j35g/">See an illustrated summary</a> describing how OES and USAID work together.</p>
 </section>
