@@ -16,8 +16,8 @@ project_tags:
 
 <section>
 	<center>
-		<h2>Why the OES/USAID Partnership is important:</h2>
-		<iframe src="https://player.vimeo.com/video/251316761?transparent=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<h2>Why is the OES/USAID Partnership important?</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/d00vuBcA1y4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</center>
 	<p>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership.</p>
 </section>
@@ -25,7 +25,7 @@ project_tags:
 <section>
 	<center>
 		<h2>How do OES and USAID Work together?</h2>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 	</center>
 	<p>Click <a href="https://docs.google.com/document/d/1BRldGYtHlL6-_wFhYXS1G3fwv1tudS3ORAh8Gt7j35g/">here</a> for an illustrated summary describing how OES and USAID work together.</p>
 </section>
