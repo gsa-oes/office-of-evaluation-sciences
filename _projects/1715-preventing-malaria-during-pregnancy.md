@@ -18,9 +18,9 @@ The US Agency for International Development (USAID) Nigeria supports efforts to 
 
 ## What was the program change?
 
-OES, USAID and the implementing partner, John Hopkins University (JHU), redesigned the referral process in two ways:
-Engagement with husbands: The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.
-A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.
+OES, USAID and the implementing partner, John Hopkins University (JHU), redesigned the referral process in two ways:</br>
+Engagement with husbands: The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.</br>
+A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.</br>
 
 ## How did the evaluation work?
 
