@@ -27,4 +27,4 @@ Four clinics in Niger and Ogun states, and 677 women attending immunization clin
 
 The pilot results show that new mothers welcomed the convenience of accessing family planning services during their immunization visits.  There is suggestive evidence that integrating family planning in immunization clinics increased attendance in family planning clinics around the time of the study. However, many mothers reported needing more time to consider options and deliberate with their spouse.  Among participants who report an interest in taking up FP, many respondents leave the clinic without a method, often citing time constraints as a reason for not receiving a method. 
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i><a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">Verify the upload date of our Analysis Plan</a>.</i>
