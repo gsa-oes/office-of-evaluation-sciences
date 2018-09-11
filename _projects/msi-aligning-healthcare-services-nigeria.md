@@ -9,7 +9,7 @@ image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.
 year: 2018  
 domain: Health
 agency: United States Agency for International Development
-summary: Integrating family planning with immunization clinics increased attendance.
+summary: A feasibility pilot to increase access to voluntary family planning services.
 ---
 ## What was the challenge?
 
