@@ -7,7 +7,7 @@ image_full: true
 class:
 summary: Make the Government Work Better through Rapid Cycle Testing, a Portfolio of Evidence and Transparent Evaluation
 ---
-Join OES and numerous agency partners to learn how the Federal government uses repeat testing and leverages administrative data to improve outcomes. GSA Administrator Emily Murphy will introduce the event highlighting government-wide progress using data as a strategic asset. In three brief sessions following, distinguished agency partners and academic collaborators will present on how we can Make the Government Work Better through Rapid Cycle Testing, a Portfolio of Evidence and Transparent Evaluation.  
+Join OES and numerous agency partners to learn how the Federal government uses repeat testing and leverages administrative data to improve outcomes. GSA Administrator Emily Murphy will introduce the event highlighting government-wide progress using data as a strategic asset. In three brief sessions following, distinguished agency partners and academic collaborators will present case studies and lessons learned to implement and improve in your work. 
 
 - <b>When</b>: November 7, 2018 10:00 AM - 12:00 PM
 - <b>Where</b>: 1800 F ST NW, Washington DC 20405 or WebEx 
