@@ -16,6 +16,8 @@ Join OES and numerous agency partners to learn how the Federal government uses r
 
 <i>Note: If you are an OMB or other agency employee where Google Forms does not work, just email oes@gsa.gov to register</i>
 
+Following this event, the <a href="https://behavioralpolicy.org/">Behavioral Science and Policy Association (BSPA)</a> has asked leading experts to facilitate a series of workshops for Federal employees on Behavioral Science 101. Stay tuned for more information on this training.
+
 ## Make the Government Work Better through Rapid Cycle Testing
 
 In this segment, partners from the Department of Health and Human Services (HHS), Social Security Administration (SSA) and the Department of Housing and Urban Development (HUD) will share new results and lessons learned from conducting repeated experimental tests. These leaders will address priority topics such as overprescribing of certain medications, energy cost-savings, and making government communications more effective. 
