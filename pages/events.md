@@ -13,6 +13,7 @@ Join OES and numerous agency partners to learn how the Federal government uses r
 - <b>Where</b>: 1800 F ST NW, Washington DC 20405 or WebEx 
 - <b>Who should attend?</b> Federal employees, academics and others interested in learning more.
 - <b>Register</b>: <a href="https://goo.gl/forms/VhRduCS5BVFScFv92">Sign Up Here </a>
+
 <i>Note: If you are an OMB or other agency employee where Google Forms does not work, just email oes@gsa.gov to register</i>
 
 ## Make the Government Work Better through Rapid Cycle Testing
