@@ -10,7 +10,7 @@ summary: Make the Government Work Better through Testing and Learning
 Join OES and numerous agency partners to learn how the Federal government uses repeat testing and leverages administrative data to improve outcomes. GSA Administrator Emily Murphy will introduce the event highlighting government-wide progress using data as a strategic asset. In three brief sessions following, distinguished agency partners and academic collaborators will present case studies and lessons learned from rapid cycle testing, building a portfolio of evidence, and transparent evaluation. 
 
 - <b>When</b>: November 7, 2018 10:00 AM - 12:00 PM
-- <b>Where</b>: 1800 F ST NW, Washington DC 20405, Room 1461 or WebEx 
+- <b>Where</b>: 1800 F ST NW, Washington DC 20405, Room 1461 
 - <b>Who should attend?</b> Federal employees, academics and others interested in learning more.
 - <b>Register</b>: <a href="https://goo.gl/forms/VhRduCS5BVFScFv92">Sign Up Here </a>
 
