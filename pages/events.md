@@ -25,7 +25,7 @@ In this segment, partners from the Department of Health and Human Services (HHS)
 Speakers include: 
 - Jackson Le (Pharmacist, Division of Provider Investigations and Audits, Investigations and Audits Group, Center for Program Integrity, Centers for Medicare and Medicaid Services) will discuss how HHS used CMS Medicare Part D claims data to support repeated testing, and decreased overprescribing by 11%.
 - Katherine Bent (Associate Commissioner; Office of Research, Demonstration and Employment Support; SSA) will discuss how SSA administrative data has been used to communicate program eligibility about Supplemental Security Income.  
-- Calvin Johnson (Deputy Assistant Secretary for the Office of Research, Evaluation, and Monitoring; HUD) will discuss how HUD uses Wireless Energy Modules to measure energy use and test efforts to drive down energy costs. 
+- Calvin Johnson (Deputy Assistant Secretary; Policy Development and Research; Office of Research, Evaluation and Monitoring; HUD) will discuss how HUD’s Division of Affordable Housing and Building Technology is working with Housing Authorities to use Wireless Energy Modules to measure energy use and test efforts to drive down energy costs. 
 - Mary Steffel (Assistant Professor, Northeastern University) will review key lessons from repeat testing to design effective government communications. 
 
 ## Make the Government Work Better through a Portfolio of Evidence
