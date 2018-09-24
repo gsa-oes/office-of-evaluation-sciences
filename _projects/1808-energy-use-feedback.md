@@ -1,10 +1,10 @@
 ---
-title:  Decreasing Energy Costs in Federally Assisted Housing
+title:  Using Social Norms to Decrease Energy Use in Public Housing
 permalink: /projects/energy-use-feedback/
 tags: project  
 image: /assets/img/project-images/1808.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.jpg 
-analysis-plan: 
+analysis-plan: /assets/analysis/1808-energy-use-feedback.pdf
 abstract: 
 year: 2018  
 domain: Communications
