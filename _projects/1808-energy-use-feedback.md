@@ -2,8 +2,8 @@
 title:  Decreasing Energy Costs in Federally Assisted Housing
 permalink: /projects/energy-use-feedback/
 tags: project  
-image:   
-image-credit: 
+image: /assets/img/project-images/1808.jpg  
+image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.jpg 
 analysis-plan: 
 abstract: 
 year: 2018  
