@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1740-flu-shots-va-st-cloud.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
-summary: Analysis Plan Registration
+summary: Variations on reminder postcards had no impact on either uptake or timing of flu shots
 featured: homepage
 ---
 ## What was the challenge?
