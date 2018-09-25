@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1740-flu-shots-va-st-cloud.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
-summary: Variations on reminder postcards had no impact on either uptake or timing of flu shots
+summary: Postcards incorporating behavioral insights were not more effective than a basic informational postcard.
 featured: homepage
 ---
 ## What was the challenge?
