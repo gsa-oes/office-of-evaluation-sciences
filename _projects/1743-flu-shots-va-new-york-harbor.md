@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
-summary: A collaboration between OES and the VA New York Harbor Health Care System
+summary: Emailing Veterans had no impact on either uptake or timing of flu shots
 featured: homepage
 ---
 ## What was the challenge?
