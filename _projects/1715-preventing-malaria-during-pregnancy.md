@@ -20,14 +20,14 @@ The US Agency for International Development (USAID) Nigeria supports efforts to 
 
 OES, USAID and the implementing partner, John Hopkins University (JHU), redesigned the referral process in two ways:
 
-Engagement with husbands: The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.
+<b>Engagement with husbands:</b> The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.
 
-A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.</br>
+<b>A redesigned record card:</b> The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.</br>
 
 ## How did the evaluation work?
 
-Half of the 72 wards in Kebbi State, Nigeria were randomly assigned to receive the two-pronged intervention. Prespecified ANC and IPTp outcomes - women taking at least one dose of IPTp, as well as the number of doses of IPTp taken at ANC or elsewhere -  were compared across 10,000 women from the treatment and control wards.
+Half of the 72 wards in Kebbi State, Nigeria were randomly assigned to receive the two-pronged intervention. Prespecified ANC and IPTp outcomes - women taking at least one dose of IPTp, as well as the number of doses of IPTp taken at ANC or elsewhere - were compared across 10,000 women from the treatment and control wards.
 
 ## What was the impact?
 
-The results suggest the intervention did not change the number of women taking at least one dose of IPTp or the average number of doses of IPTp at ANC or elsewhere. There is suggestive exploratory evidence that the intervention may have influenced beliefs about IPTp: the intervention was associated with a small statistically significant increase in the number of IPTp doses that mothers report that pregnant women should take (from 3.07 to 3.30). 
+The results suggest the intervention did not change the number of women taking at least one dose of IPTp or the average number of doses of IPTp at ANC or elsewhere. There is suggestive exploratory evidence that the intervention may have influenced beliefs about IPTp: the intervention was associated with a small statistically significant increase in the number of IPTp doses that mothers report that pregnant women should take (from 3.07 to 3.30).
