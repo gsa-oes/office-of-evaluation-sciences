@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
-summary: Emailing Veterans had no impact on either uptake or timing of flu shots
+summary: Emails incorporating behavioral insights were not effective in increasing flu shot uptake.
 featured: homepage
 ---
 ## What was the challenge?
