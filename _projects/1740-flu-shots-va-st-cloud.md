@@ -6,7 +6,7 @@ tags:
   - vaccines
 image: /assets/img/project-images/1740.jpg
 image-credit: https://www.va.gov/health/NewsFeatures/2013/August/Veterans-Are-Your-Immunizations-Current.asp
-abstract: /assets/abstract/1740-flu-shots-va-st-cloud.pdf
+abstract: /assets/abstracts/1740-flu-shots-va-st-cloud.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
