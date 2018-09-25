@@ -6,7 +6,7 @@ tags:
   - USAID
 image: /assets/img/project-images/mis-nigeria.jpg  
 image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.jpg
-abstract: /assets/abstracts/MSI-project-abstract.pdf
+abstract: /assets/abstracts/msi-project-abstract.pdf
 year: 2018  
 domain: Health
 agency: United States Agency for International Development
