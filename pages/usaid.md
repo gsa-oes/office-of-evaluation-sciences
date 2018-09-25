@@ -25,7 +25,7 @@ project_tags:
 	<center>
 		<h2>How do OES and USAID Work together?</h2>
 		<img src="/assets/img/project-images/1715-partnership.gif" width="560" alt="Animated image of people working in partnership"> 
-	<p><a href="https://docs.google.com/document/d/1BRldGYtHlL6-_wFhYXS1G3fwv1tudS3ORAh8Gt7j35g/">See an illustrated summary</a> describing how OES and USAID work together.</p></center>
+	<p>Read more below about the specific studies that have been completed through the OES and USAID partnership.</p></center>
 </section>
 
 <h2>OES/USAID Projects:</h2>
