@@ -10,7 +10,7 @@ abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
-summary: Analysis Plan Registration
+summary: A collaboration between OES and the VA New York Harbor Health Care System
 featured: homepage
 ---
 ## What was the challenge?
