@@ -16,7 +16,7 @@ featured: homepage
 
 ## What was the challenge?
 
-OES and NVPO collaborated with a mid-sized city to improve immunization compliance among students in schools and daycare centers. The project focused on overcoming several behavioral barriers, including ensuring principals had information about their students’ immunization compliance and appropriate steps to take, as well as information on the importance of immunization compliance and where their school’s compliance stands. 
+OES and the National Vaccine Program Office in the U.S. Department of Health and Human Service collaborated with a mid-sized city to improve immunization compliance among students in schools and daycare centers. The project focused on overcoming several behavioral barriers, including ensuring principals had information about their students’ immunization compliance and appropriate steps to take, as well as information on the importance of immunization compliance and where their school’s compliance stands. 
 
 ## What was the program change?
 
