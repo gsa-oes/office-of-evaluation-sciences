@@ -1,16 +1,13 @@
 ---
-title:  Encouraging Flu Vaccine Uptake Among Pregnant Patients at Duke
-permalink: /projects/duke-maternal-flu-shots/
-tags:
-  - project
-  - vaccines
-image: /assets/img/project-images/1735.jpg
-image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-woman-a-flu-vaccine-shot-pv.jpg
-analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf
+title:  Increasing Flu Shot Uptake Among Pregnant Women
+permalink: /projects/1735-flu-shots-pregnancy/
+tags: project  
+image: /assets/img/project-images/1735.jpg  
+image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
 abstract: /assets/abstracts/1735-flu-shot-abstract.pdf
-year: 2018
-domain: 
-agency: 
+year: 2018  
+domain: Health
+agency: Centers for Disease Control and Prevention
 summary: Targeted email outreach via an electronic medical record messaging system did not increase uptake of the flu vaccine among pregnant women.
 featured: homepage
 ---
