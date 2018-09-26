@@ -4,7 +4,7 @@ permalink: /projects/increasing-fsa-among-government-employees/
 tags: project  
 image: /assets/img/project-images/1733.jpg
 image-credit:
-abstract: /assets/abstract/1733-project-abstract.pdf
+abstract: /assets/abstracts/1733-project-abstract.pdf
 year: 2018
 domain: 
 agency: General Services Administration
