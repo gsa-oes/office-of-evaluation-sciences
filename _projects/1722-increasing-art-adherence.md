@@ -7,14 +7,26 @@ tags:
 image: /assets/img/project-images/1722.jpg  
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
 analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
-abstract: 
+abstract: /assets/abstracts/1722-project-abstract-1-month.pdf
 year: 2018  
 domain: Health
 agency: United States Agency for International Development
-summary: Analysis Plan Registration
+summary: Phone calls delivered to HIV+ women did not increase ART adherence.
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
+More than 36.7 million people are living with HIV worldwide. In Ethiopia, the second largest country in sub-Saharan Africa, HIV prevalence is estimated at 1.5 percent overall and the urban prevalence is 4.2 percent. In response to this epidemic, the U.S. Agency for International Development (USAID) and the international community have committed to achieve the goal of “90-90-90” by 2020: 90% of HIV+ individuals take a HIV test, 90% of these individuals initiate ART, and 90% of these individuals demonstrate viral suppression. However, pre-study analysis indicated that retention in care and ART adherence in Ethiopia was below global health community’s target, at approximately 80%.
 
-Check back for results!
+## What was the program change?
+
+To increase retention in care and ART adherence, health workers delivered encouraging phone calls, which followed a brief script praising the client for taking care of their health. Health workers at study clinics delivered the encouraging calls to ART clients the day after and 15 days after they attended their ART appointment.
+
+## How did the evaluation work?
+
+The evidence-based insight was tested with an individual level randomized control trial. All 866 study participants, HIV+ individuals not yet on ARTs, consented into the study. Approximately one-half of participants (n=436) were randomly assigned to receive the encouraging phone call and approximately one-half (n=430) were randomly assigned to the standard of care. An ordinary least squares (OLS) regression was used to compare retention in care and ART adherence, using existing administrative data, at 1 month, 3 months and 6 months. 
+
+## What was the impact?
+
+The phone calls did not increase ART adherence or retention. The phone calls were associated with a statistically insignificant increase of 1.0 percentage points in retention in care at 1 month. With the sample size, the study was designed to detect a minimum of a 7.7 percentage point increase. 
+
+This study demonstrated that programmatic data from HIV/AIDS programs can be used to conduct a rigorous randomized test on priority USAID outcomes during the course of a program. Such data can also measure the effect of behaviorally-informed program changes on key targeted health outcomes. In future studies, larger sample sizes may be required to detect smaller changes resulting from low-cost interventions. 
