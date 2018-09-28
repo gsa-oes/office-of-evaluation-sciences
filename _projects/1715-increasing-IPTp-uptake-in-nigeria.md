@@ -1,18 +1,17 @@
 ---
-title:  Increasing immunization compliance among schools and daycare centers in D.C.
-permalink: /projects/dc-vaccine-report-cards/
+title:  Preventing Malaria During Pregnancy
+permalink: /projects/increasing-iptp-uptake/
 tags: 
-  - project
-  - vaccines
-image: /assets/img/project-images/1737.jpg 
-image-credit: https://www.flickr.com/photos/pahowho/13383587795
-analysis-plan: /assets/analysis/1737-dc-vaccine-report-cards.pdf
+  - project 
+  - USAID
+image: /assets/img/project-images/1715.jpg  
+image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
+analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf
 abstract: 
 year: 2018  
 domain: Health
-agency: Health and Human Services
+agency: United States Agency for International Development
 summary: Analysis Plan Registration
-featured: homepage
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
