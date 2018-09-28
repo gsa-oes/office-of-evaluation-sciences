@@ -7,15 +7,25 @@ tags:
 image: /assets/img/project-images/1743.jpg
 image-credit: https://www.va.gov/health/NewsFeatures/2014/May/VHA-Benefits-Goal-Preserving-Your-Good-Health.asp
 analysis-plan: /assets/analysis/1743-flu-shots-va-new-york-harbor-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 year: 2018
 domain: Health
 agency: Veterans Affairs
-summary: Analysis Plan Registration
+summary: Emails incorporating behavioral insights were not effective in increasing flu shot uptake.
 featured: homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
+Flu causes more than 9 million illnesses and more than 12,000 deaths in the United States annually. The VA provides free flu shots to enrolled Veterans and aims to increase flu vaccination rates nationwide.
 
-Check back for results!
+## What was the program change?
+
+In collaboration with the New York Harbor VA Health Care System, the Office of Evaluation Sciences (OES) designed email messages to send to enrolled Veterans. These included information about how to get a flu shot, and elements, based on evidence from the behavioral sciences, that were designed to increase individuals’ motivation and follow-through.
+
+## How did the evaluation work?
+
+<b>Veterans were randomly assigned</b> to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
+
+## What was the impact?
+
+There was no significant effect of the emails on either uptake or timing of flu shots.
