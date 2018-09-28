@@ -30,3 +30,4 @@ The evidence-based insight was tested with an individual level randomized contro
 The phone calls did not increase ART adherence or retention. The phone calls were associated with a statistically insignificant increase of 1.0 percentage points in retention in care at 1 month. With the sample size, the study was designed to detect a minimum of a 7.7 percentage point increase. 
 
 This study demonstrated that programmatic data from HIV/AIDS programs can be used to conduct a rigorous randomized test on priority USAID outcomes during the course of a program. Such data can also measure the effect of behaviorally-informed program changes on key targeted health outcomes. In future studies, larger sample sizes may be required to detect smaller changes resulting from low-cost interventions. 
+
