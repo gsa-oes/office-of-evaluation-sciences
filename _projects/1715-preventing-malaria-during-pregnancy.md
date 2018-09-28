@@ -1,14 +1,14 @@
 ---
 title:  Preventing Malaria During Pregnancy
 permalink: /projects/preventing-malaria-during-pregnancy/
-tags: 
-  - project 
+tags:
+  - project
   - USAID
-image: /assets/img/project-images/1715.jpg  
+image: /assets/img/project-images/1715.jpg
 image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
 analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf
 abstract: /assets/abstracts/1715-Preventing-Malaria-During-Pregnancy.pdf
-year: 2018  
+year: 2018
 domain: Health
 agency: United States Agency for International Development
 summary: Redesigned referral process did not increase antenatal care (ANC) attendance for pregnant women.
