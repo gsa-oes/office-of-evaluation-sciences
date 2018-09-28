@@ -1,12 +1,12 @@
 ---
 title:  Identifying Students for the Education for Homeless Children and Youth Program
 permalink: /projects/improving-homeless-liaison-support/
-tags: project  
+tags: project
 image:
 image-credit: 
 analysis-plan: 
 abstract: /assets/abstracts/1713-supporting-homeless-students-abstract.pdf
-year: 2018  
+year: 2018
 domain: Communications
 agency: Department of Education
 summary: Identifying Homeless Students for Educational Support Services
