@@ -9,7 +9,7 @@ year: 2016
 domain: Government Operations
 agency: Small Business Administration
 impact:
-summary: Simplifying a registrationform increased learning course completion and data collection.
+summary: Simplifying a registration form increased learning course completion and data collection.
 ---
 ## What was the challenge?
 
