@@ -15,7 +15,7 @@ summary: Phone calls delivered to HIV+ women did not increase ART adherence.
 ---
 ## What was the challenge?
 
-More than 36.7 million people are living with HIV worldwide. In Ethiopia, the second largest country in sub-Saharan Africa, HIV prevalence is estimated at 1.5 percent overall and the urban prevalence is 4.2 percent. In response to this epidemic, the U.S. Agency for International Development (USAID) and the international community have committed to achieve the goal of “90-90-90” by 2020: 90% of HIV+ individuals take a HIV test, 90% of these individuals initiate ART, and 90% of these individuals demonstrate viral suppression. However, pre-study analysis indicated that retention in care and ART adherence in Ethiopia was below global health community’s target, at approximately 80%.
+More than 36.7 million people are living with HIV worldwide.  In Ethiopia, the second largest country in sub-Saharan Africa, HIV prevalence is estimated at 0.9 percent overall and 23% among  female sex workers. In response to this epidemic, the U.S. Agency for International Development (USAID) and the international community has committed to achieve the goal of “90-90-90” by 2020: 90% of HIV+ individuals take a HIV test, 90% of these individuals initiate ART, and 90% of these individuals demonstrate viral suppression. However, pre-study analysis indicated that retention in care and ART adherence in Ethiopia was below global health community’s target, at approximately 80%.
 
 ## What was the program change?
 
