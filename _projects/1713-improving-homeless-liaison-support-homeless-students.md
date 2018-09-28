@@ -21,7 +21,7 @@ New email communication materials were developed using behavioral insights to sh
 
 ## How did the evaluation work?
 
-<b>LEAs were randomly assigned</b> to use one of two conditions: 1) less frequent, more formal emails on updated guidance (control); or 2) a modified set of timely emails informed by behavioral science principles(treatment).
+LEAs were randomly assigned to use one of two conditions: 1) less frequent, more formal emails on updated guidance (control); or 2) a modified set of timely emails informed by behavioral science principles(treatment).
 
 ## What was the impact?
 
