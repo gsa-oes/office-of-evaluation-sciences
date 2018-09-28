@@ -24,7 +24,7 @@ In collaboration with the New York Harbor VA Health Care System, the Office of E
 
 ## How did the evaluation work?
 
-<b>Veterans were randomly assigned</b> to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
+Veterans were randomly assigned to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
 
 ## What was the impact?
 
