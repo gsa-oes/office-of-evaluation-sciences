@@ -20,11 +20,11 @@ Flu causes more than 9 million illnesses and more than 12,000 deaths in the Unit
 
 ## What was the program change?
 
-In collaboration with the St. Cloud VA Health Care System, the Office of Evaluation Sciences (OES) designed three different postcards to send to enrolled Veterans: a basic informational postcard, which provided details on how to get a flu shot, and two postcards informed by insights from the behavioral sciences — one designed to increase <b>motivation</b>, the other designed to facilitate <b>implementation</b>.
+In collaboration with the St. Cloud VA Health Care System, the Office of Evaluation Sciences (OES) designed three different postcards to send to enrolled Veterans: a basic informational postcard, which provided details on how to get a flu shot, and two postcards informed by insights from the behavioral sciences — one designed to increase motivation, the other designed to facilitate implementation.
 
 ## How did the evaluation work?
 
-<b>Veterans were randomly assigned</b> to receive one of three postcards: a basic informational postcard, a motivation postcard, or an implementation postcard. Data from VA electronic health records were used to compare flu shot uptake and timing among the three groups between September 14, 2017, and May 1, 2018.
+Veterans were randomly assigned to receive one of three postcards: a basic informational postcard, a motivation postcard, or an implementation postcard. Data from VA electronic health records were used to compare flu shot uptake and timing among the three groups between September 14, 2017, and May 1, 2018.
 
 ## What was the impact?
 
