@@ -1,16 +1,17 @@
 ---
-title:  Preventing Malaria During Pregnancy  
+title:  Preventing Malaria During Pregnancy
 permalink: /projects/preventing-malaria-during-pregnancy/
-tags: 
-  - project 
+tags:
+  - project
   - USAID
-image: /assets/img/project-images/1715.jpg  
+image: /assets/img/project-images/1715.jpg
 image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
+analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf
 abstract: /assets/abstracts/1715-Preventing-Malaria-During-Pregnancy.pdf
-year: 2018  
+year: 2018
 domain: Health
 agency: United States Agency for International Development
-summary: Redesigned referral process did not increase antenatal care (ANC) attendance for pregnant women
+summary: Redesigned referral process did not increase antenatal care (ANC) attendance for pregnant women.
 ---
 ## What was the challenge?
 
@@ -20,9 +21,9 @@ The US Agency for International Development (USAID) Nigeria supports efforts to 
 
 OES, USAID and the implementing partner, John Hopkins University (JHU), redesigned the referral process in two ways:
 
-<b>Engagement with husbands:</b> The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.
+Engagement with husbands: The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.
 
-<b>A redesigned record card:</b> The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.</br>
+A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.
 
 ## How did the evaluation work?
 
