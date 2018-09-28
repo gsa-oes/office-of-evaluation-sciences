@@ -1,25 +1,34 @@
 ---
 layout: portfolio
-title: International Development Portfolio
+title: USAID
 permalink: /usaid/
 image:
-summary: 
+summary: OES and the United States Agency for International Development (USAID) have partnered to apply and test evidenced-based insights from behavioral science to critical development challenges in Global Health.
 project_tags:
   - USAID
 ---
-## OES and USAID Partnership
+<br/>
 <section>
-<div class="usa-grid">
-    <div class="usa-width-one-half">
-      <p>Since 2015, OES and the United States Agency for International Development (USAID) have collaborated to apply evidence-based insights and conduct rigorous, low-cost tests on child and maternal health and infectious diseases programs around the world. The goal of the partnership is to identify cost-effective, evidence-based changes that can be scaled for broader impact.</p>
-    </div>
-    <div class="usa-width-one-half">
-    <center><iframe src="https://drive.google.com/file/d/0BxayWw6MbOYbTE8tSktGRFNlNGM/preview" height="350" width="450"></iframe></center>
-  </div>
-  </div>
-  </section>
+	<center>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</center>
+</section>
 
-<h2> Portfolio </h2>
+<section>
+	<center>
+		<h2>Why is the OES/USAID Partnership important?</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/d00vuBcA1y4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<p>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership.</p></center>
+</section>
+
+<section>
+	<center>
+		<h2>How do OES and USAID Work together?</h2>
+		<img src="/assets/img/project-images/1715-partnership.gif" width="560" alt="Animated image of people working in partnership"> 
+	<p>Read more below about the specific studies that have been completed through the OES and USAID partnership.</p></center>
+</section>
+
+<h2>OES/USAID Projects:</h2>
 
 
 

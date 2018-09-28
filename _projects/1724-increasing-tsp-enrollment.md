@@ -1,5 +1,5 @@
 ---
-title:  Increasing New TSP Enrollment among USPS Employees
+title:  Increasing TSP Enrollment among USPS Employees
 permalink: /projects/increasing-tsp-enrollment/
 tags:
   - project
