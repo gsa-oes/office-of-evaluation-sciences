@@ -3,7 +3,7 @@ title:  Identifying Students for the Education for Homeless Children and Youth P
 permalink: /projects/improving-homeless-liaison-support/
 tags: project
 image:
-image-credit: 
+image-credit:
 analysis-plan: 
 abstract: /assets/abstracts/1713-supporting-homeless-students-abstract.pdf
 year: 2018
