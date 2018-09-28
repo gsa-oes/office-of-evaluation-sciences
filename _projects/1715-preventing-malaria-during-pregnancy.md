@@ -23,7 +23,7 @@ OES, USAID and the implementing partner, John Hopkins University (JHU), redesign
 
 Engagement with husbands: The checklist that Community Volunteers (CVs) use while doing household visits with pregnant women was modified to include a specific script for engaging male partners.
 
-A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.</br>
+A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.
 
 ## How did the evaluation work?
 
