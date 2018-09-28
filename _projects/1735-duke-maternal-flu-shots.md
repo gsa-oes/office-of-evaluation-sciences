@@ -10,7 +10,7 @@ analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf
 abstract: /assets/abstracts/1735-flu-shot-abstract.pdf
 year: 2018
 domain: Health
-agency: 
+agency: Centers for Disease Control and Prevention
 summary: Targeted email outreach via an electronic medical record messaging system did not increase uptake of the flu vaccine among pregnant women.
 featured: homepage
 ---
