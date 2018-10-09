@@ -11,7 +11,6 @@ year: 2017
 domain: Government Operations
 agency: General Services Administration 
 summary: Customized emails reduced no-bids and increased overall revenue on gsaauctions.gov.
-featured: homepage
 
 ---
 ## What was the challenge?
