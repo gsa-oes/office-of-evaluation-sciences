@@ -11,7 +11,7 @@ abstract: /assets/abstracts/1737-vaccine-report-cards.pdf
 year: 2018  
 domain: Health
 agency: Health and Human Services
-summary: Data visualization for school-specific immunization compliance reports.
+summary: Data visualization for school-specific immunization compliance reports did not impact compliance rates.
 featured: homepage
 ---
 
