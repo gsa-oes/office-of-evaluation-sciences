@@ -12,7 +12,6 @@ year: 2018
 domain: Health
 agency: Veterans Affairs
 summary: Emails incorporating behavioral insights were not effective in increasing flu shot uptake.
-featured: homepage
 ---
 ## What was the challenge?
 
