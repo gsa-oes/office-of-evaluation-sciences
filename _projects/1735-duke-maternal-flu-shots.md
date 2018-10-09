@@ -12,7 +12,6 @@ year: 2018
 domain: Health
 agency: Health and Human Services
 summary: Targeted email outreach via an electronic medical record messaging system did not increase uptake of the flu vaccine among pregnant women.
-featured: homepage
 ---
 ## What was the challenge?
 
