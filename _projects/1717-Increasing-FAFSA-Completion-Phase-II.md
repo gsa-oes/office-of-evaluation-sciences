@@ -4,7 +4,7 @@ permalink: /projects/increasing-fafsa-completion-phase-2/
 tags: project  
 image: /assets/img/project-images/1717.jpg  
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
-analysis-plan: /assets/analysis/increasing-fafsa-completion-phase-2.pdf
+analysis-plan: /assets/analysis/1717-analysis-plan.pdf
 # abstract: /assets/abstracts/increasing-fafsa-completion-phase-2.pdf
 year: 2017  
 domain: Education
