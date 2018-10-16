@@ -19,7 +19,7 @@ The Social Security Administration (SSA) administers Supplemental Security Incom
 
 ## What was the program change?
 
-SSA identified over 4 million individuals age 65-80 who were potentially eligible for SSI, and sent one of four letter variations to a sub-sample of them.
+SSA identified over 4 million individuals age 65-80 who were potentially eligible for SSI, and sent one of four letter variations to a sub-sample of them. 
 
 ## How did the evaluation work?
 
@@ -27,6 +27,6 @@ Individuals were randomly assigned to receive one of four letter types or to a c
 
 ## What was the impact?
 
-All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 5.22 percent applied for SSI in the three months after the letters were sent out, compared with 0.40 percent of beneficiaries who did not receive a letter. Similarly, 1.77 percent of beneficiaries who received a letter were awarded SSI during this time, compared with 0.20 percent of beneficiaries who did not receive a letter.
+All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 6.0 percent applied for SSI in the nine months after the letters were sent out, compared with 1.0 percent of beneficiaries who did not receive a letter. Similarly, 2.3 percent of beneficiaries who received a letter were awarded SSI during this time, compared with 0.5 percent of beneficiaries who did not receive a letter, an increase of 335%.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
