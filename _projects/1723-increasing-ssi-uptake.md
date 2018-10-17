@@ -11,7 +11,8 @@ abstract: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
 year: 2018  
 domain: Retirement Security
 agency: Social Security Administration
-summary: Letters to aged individuals increased SSI awards by XX%; stating the maximum benefit amount further increased applications and awards.
+summary: Letters to adults 65 or older increased SSI awards by 340%.
+
 ---
 ## What was the challenge?
 
@@ -27,6 +28,6 @@ Individuals were randomly assigned to receive one of four letter types or to a c
 
 ## What was the impact?
 
-All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 6.0 percent applied for SSI in the nine months after the letters were sent out, compared with 1.0 percent of beneficiaries who did not receive a letter. Similarly, 2.3 percent of beneficiaries who received a letter were awarded SSI during this time, compared with 0.5 percent of beneficiaries who did not receive a letter, an increase of 335%.
+All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 6.0 percent applied for SSI in the nine months after the letters were sent out, compared with 1.0 percent of beneficiaries who did not receive a letter. Similarly, 2.3 percent of beneficiaries who received a letter were awarded SSI during this time, compared with 0.5 percent of beneficiaries who did not receive a letter, an increase of 340%.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
