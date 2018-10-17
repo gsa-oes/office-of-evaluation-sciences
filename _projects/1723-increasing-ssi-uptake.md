@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/1723.jpg  
 image-credit: https://pixabay.com/photo-3113574/
 analysis-plan: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
-abstract: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
+abstract: /assets/abstract/1723-Increasing-SSI-Uptake.pdf
 year: 2018  
 domain: Retirement Security
 agency: Social Security Administration
