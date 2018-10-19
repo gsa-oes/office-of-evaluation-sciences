@@ -13,9 +13,13 @@ Second, find the lines that contain the desired information (like "p=", or
 don't report point estimates in a standardized way.)
 
 ```
+grep -E 'p[[:blank:]]?>[[:blank:]]?|p[[:blank:]]?<[[:blank:]]?|p[[:blank:]]?=[[:blank:]]?|95%|n[[:blank:]]?=[[:blank:]]?' *.txt  > results
+```
 
-grep 'p=\|95%|n=' *.txt  > results
+Remove unicode characters that look weird.
 
+```
+sed -i.bak "s/$(echo -ne '\u200b')//g" results
 ```
 
 Then a small python program finds text between parentheses and writes it to a
