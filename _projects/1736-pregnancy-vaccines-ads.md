@@ -1,12 +1,13 @@
 ---
-title: Increasing Site Visits to Vaccines.gov
+title: Testing Variations of Maternal Immunization Messages
 permalink: /projects/pregnancy-vaccines-ads/
 tags:
   - project
   - vaccines
 image: /assets/img/project-images/1736.jpg
 image-credit: https://www.vaccines.gov/who_and_when/pregnant/index.html
-abstract: /assets/abstracts/1736-pregnancy-vaccines-ads.pdf
+analysis-plan: /assets/analysis/1736-pregnancy-vaccines-ads-analysis.pdf
+abstract: /assets/abstracts/1736-pregnancy-vaccines-ads-abstract.pdf
 year: 2017
 domain: Health
 agency: Health and Human Services
