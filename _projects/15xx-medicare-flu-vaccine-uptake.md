@@ -1,7 +1,9 @@
 ---
 title:  Encouraging Flu Vaccine Uptake among Medicare Beneficiaries
-permalink: /projects/medicare-flu-vaccine-uptake
-tags: project  
+permalink: /projects/medicare-flu-vaccine-uptake/
+tags:
+  - project
+  - vaccines
 image: 
 image-credit: 
 analysis-plan: 
