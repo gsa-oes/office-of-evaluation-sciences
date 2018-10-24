@@ -15,16 +15,16 @@ summary: Variations of an ad did not lead to detectable differences in site visi
 ---
 ## What was the challenge?
 
-The Department of Health and Human Services (HHS) wanted to strengthen maternal immunization programs and increase uptake of recommended vaccines among pregnant women. The National Vaccine Program Office (NVPO) developed a Facebook advertising campaign aimed at increasing site visits to Vaccines.gov, an informational website operated by NVPO. NVPO wanted to determine the relative effectiveness of different messaging to increase site visits.
+The Department of Health and Human Services (HHS) wanted to strengthen maternal immunization programs and increase uptake of recommended vaccines among pregnant women. The National Vaccine Program Office (NVPO) developed a digital advertising campaign aimed at increasing site visits to Vaccines.gov, an informational website operated by NVPO. NVPO wanted to determine the relative effectiveness of different messaging to increase site visits.
 
 ## What was the program change?
 
-The Office of Evaluation Sciences (OES) worked with NVPO to craft variations of a Facebook ad that targeted pregnant Facebook users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017. 
+The Office of Evaluation Sciences (OES) worked with NVPO to craft variations of a Facebook ad that targeted pregnant Facebook users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017.
 
 ## How did the evaluation work?
 
-Facebook users were randomly assigned to one of the four conditions based on their zip code, in a two-by-two design which allowed for comparisons across each of the four groups, and across text variations or image variations.
+Platform users were randomly assigned to one of the four conditions based on their zip code, in a two-by-two design which allowed for comparisons across each of the four groups, and across text variations or image variations.
 
 ## What was the impact?
 
-We did not observe any statistically significant differences in click-through rates between the ad variations. 
+We did not observe any statistically significant differences in click-through rates between the ad variations.
