@@ -26,5 +26,3 @@ We randomly sampled 228,000 Medicare fee-for-service beneficiaries 66 and older 
 ## What was the impact?
 
 Receiving any of the four letters increased flu vaccination uptake by 0.59 percentage points, from 25.9% in the control group to 26.5% in the treatment group. The increase is equivalent to 673 additional Medicare beneficiaries receiving their flu vaccination.
-
-<i><a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">Verify the upload date</a> of our Analysis Plan.</i>
