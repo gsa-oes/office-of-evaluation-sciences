@@ -23,7 +23,9 @@ LDH sent a postcard reminder on recommended vaccines to all elderly ages 65-70 i
 
 ## How did the evaluation work?
 
-Individuals were randomly assigned to a month in which they received the postcard reminder, October, November, December, or January.  In addition to month, individuals were block-randomized according to their vaccination history.  October, November, and December are treated as three treatment arms; January is the control.  Outcomes recorded after the January postcards were sent were not considered in the study.  October outcomes are considered as representing the effect of the treatment because they reflect the full effect of the postcard reminder during the study period. 
+Individuals were randomly assigned to a month in which they received the postcard reminder, October, November, December, or January.  In addition to month, individuals were block-randomized according to their vaccination history.  
+
+This study has three treatment arms based on when the postcard was sent: October, November, and December.  Individuals randomized to receive the postcard reminder in January were considered the control group, as vaccinations rates were analyzed for the full sample excluding vaccinations post-January.
 
 ## What was the impact?
 
