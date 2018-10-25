@@ -29,4 +29,4 @@ This study has three treatment arms based on when the postcard was sent: October
 
 ## What was the impact?
 
-The postcard reminder had a small but detectable effect among individuals who received the postcard in October.  On average among the control group, individuals had received 8.58 percent of their four vaccinations by January.  Individuals who received the postcard reminder in October had received 0.27 percent more vaccinations (563 vaccinations) than individuals in the control group.  
+The postcard reminder had a small but detectable effect among individuals who received the postcard in October.  Individuals in the control group received 8.58 percent of their four vaccinations during the study period.  Individuals in the October group had received 0.27 percent more vaccinations (563 vaccinations) than individuals in the control group.  
