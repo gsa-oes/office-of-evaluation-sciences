@@ -33,7 +33,7 @@ We’ll highlight findings from tests with HHS, the Department of Veterans Affai
 - <b>Roula Sweis</b> (Chief of Operations and Management, National Vaccine Program Office, U.S. Department of Health and Human Services) will discuss NVPO priorities and introduce the collaboration with OES to increase vaccination uptake.
 - <b>Troy Knighton</b> (Program Manager, National Seasonal Flu & IDPIO, National Center for Health Promotion and Disease Prevention, VHA) and <b>Lois Katz</b> (Associate Chief of Staff, VA New York Harbor Healthcare System) will share results from two evaluations modifying outreach to Veterans to encourage flu vaccination.
 - <b>David Yokum</b> (Director, The Lab @ DC) will discuss how CMS sent outreach to Medicare beneficiaries to increase flu vaccination rates.
-- <b>Gretchen Chapman/b> (Professor, Carnegie Mellon University) will explain how behavioral science insights have played a role in increasing vaccination rates in previous studies.
+- <b>Gretchen Chapman</b> (Professor, Carnegie Mellon University) will explain how behavioral science insights have played a role in increasing vaccination rates in previous studies.
 
 ## Better Government through Transparency in Evaluation 
 
