@@ -1,6 +1,6 @@
 ---
 title:  How to design effective communications: What has OES learned?
-permalink: /projects/effective communications/
+permalink: /projects/effective-communications/
 tags: project  
 image: /assets/img/project-images/1899.jpeg  
 abstract: /assets/abstracts/1899-comms-summary.pdf
