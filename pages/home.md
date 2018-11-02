@@ -14,4 +14,4 @@ video-button-text: Collaborate with us
 video-button-link: /contact/
 class: page-home
 ---
-Be a Fellow with the Office of Evaluation Sciences: Apply behavioral insights, measure impact, and help make the Government work for people 
+Be a Fellow with the Office of Evaluation Sciences: Apply behavioral insights, measure impact, and help make the Government work for people. Learn more [here]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY19.pdf). 
