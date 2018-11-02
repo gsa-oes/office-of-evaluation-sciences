@@ -4,15 +4,25 @@ permalink: /projects/increasing-fsa-among-government-employees/
 tags: project  
 image: /assets/img/project-images/1733.jpg
 image-credit:
-analysis-plan: /assets/analysis/1733-increasing-fsa-gsa.pdf
-abstract: 
+analysis-plan: /assets/analysis/1733-flexible-spending-accounts-gsa-analysis-plan.pdf
+abstract: /assets/abstracts/1733-project-abstract.pdf
 year: 2018
 domain: 
 agency: General Services Administration
-summary: Analysis Plan Registration
+summary: Targeted email outreach to GSA employees did not increase enrollment in Flexible Spending Accounts.
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
+Flexible Spending Accounts (FSAs) allow federal employees to contribute up to $2600 in pre-tax dollars each year for eligible medical expenses, a benefit that can yield significant savings for employees. The General Services Administration had a goal of ensuring that employees who would be interested in FSAs were aware of and utilizing this benefit. More broadly, many employee benefits programs offer uncertain future returns, and employers accordingly seek to develop strategies to effectively communicate these benefits.
 
-Check back for results!
+## What was the program change?
+
+At no material cost, OES worked with GSA communications and human resources to design a targeted communication to GSA employees, delivered via the newsletter GSA Today, to highlight information about the benefits of FSA enrollment. This information was delivered in the first and last week of the open enrollment period.
+
+## How did the evaluation work?
+
+<b>GSA employees were randomly assigned</b> to one of four arms. Individuals in the first intervention arm received a targeted communication about the benefits of FSAs delivered via GSA Today; individuals in the second arm received a communication that also highlighted their potential savings (“save $949 over a year”); and individuals in the third arm received a communication that highlighted their potential savings in relative terms (“save 30%”). In the fourth, control arm, employees received no targeted communication about FSAs.
+
+## What was the impact?
+
+The probability of FSA enrollment was unchanged by the targeted communications delivered; employees who did and did not receive targeted communications both had a probability of enrolling of around 28%. Data suggests that around 50% of recipients of GSA Today opened the messages, but click-through rates for the information about FSAs were only about 1%.

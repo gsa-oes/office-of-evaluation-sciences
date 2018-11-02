@@ -14,4 +14,4 @@ video-button-text: Collaborate with us
 video-button-link: /contact/
 class: page-home
 ---
-OES tests evidence-based insights to quickly learn what works.
+Be an OES Fellow. Now accepting applications. Learn more [here]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY19.pdf). 

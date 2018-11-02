@@ -6,7 +6,9 @@ primary:
   - text: Work
     href: /work/
   - text: Team
-    href: /team/ 
+    href: /team/
+  - text: Events
+    href: /events/ 
   - text: Contact
     href: /contact/
 
