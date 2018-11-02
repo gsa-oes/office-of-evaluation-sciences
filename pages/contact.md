@@ -7,7 +7,7 @@ image_full: true
 class:
 summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
 ---
-## Join OES
+## Join OES: Now Accepting Applications 
 
 The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2019 in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. The work and role of OES is unique - directly designing, implementing and analyzing evidence based interventions and randomized evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, run large scale tests reaching millions of people, and work closely with key decision makers in government. Fellows shape their own high-impact portfolio of work, design and direct projects, author academic publications, and benefit from a dynamic team and flexible Federal work environment.
 
