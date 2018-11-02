@@ -14,4 +14,4 @@ video-button-text: Collaborate with us
 video-button-link: /contact/
 class: page-home
 ---
-OES tests evidence-based insights to quickly learn what works.
+Be a Fellow with the Office of Evaluation Sciences: Apply behavioral insights, measure impact, and help make the Government work for people 
