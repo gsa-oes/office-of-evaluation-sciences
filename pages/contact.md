@@ -7,6 +7,16 @@ image_full: true
 class:
 summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
 ---
+## Joining OES
+
+The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2019 in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. OES partners with federal agencies to evaluate the effectiveness of new evidence-based interventions on program outcomes and provides agencies evidence to make informed programmatic decisions. 
+
+The work and role of OES is unique - directly designing, implementing and analyzing evidence based interventions and randomized evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, run large scale tests reaching millions of people, and work closely with key decision makers in government. Fellows shape their own high-impact portfolio of work, design and direct projects, author academic publications, and benefit from a dynamic team and flexible Federal work environment.
+
+Full-time fellowship positions start in October 2019 in Washington, D.C. Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for Federal employees applying for a rotational detail. 
+
+You can learn more about the position and what we look for by [viewing the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
+
 ## Partnering with OES
 
 We’re excited to partner with new agency collaborators across government. What makes an opportunity a good fit for testing an evidence-based insight with OES?
@@ -19,12 +29,6 @@ We’re excited to partner with new agency collaborators across government. What
 - An agency collaborator willing to work alongside OES and to share results across government
 
 Send a description of how your opportunity incorporates the elements above in an email to <a href="mailto:oes@gsa.gov?subject=Project Proposal">oes@gsa.gov</a> to start the conversation. Naturally, we do not have the ability to respond to all project proposals, but we consider each opportunity using the criteria described above, our teams' current makeup of skillsets, and available resources to assess our ability to collaborate.
-
-## Joining OES
-
-Full time OES team members are selected annually, with applications often opening in late Fall. These individuals come to the team for one year, are based in Washington, D.C., and are often on loan from a variety of home institutions such as a university or another Federal agency. Join our mailing list (at the bottom of our homepage) to be notified of our next recruitment cycle. 
-
-You can learn more about the position and what we look for by [viewing the 2018 Fellowship Solicitation]({{site.baseurl}}/assets/files/FY18Solicitation.pdf).
 
 ## Supporting OES as an Academic Affiliate 
 
