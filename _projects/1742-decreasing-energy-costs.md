@@ -10,7 +10,6 @@ year: 2018
 domain: Communications
 agency: Housing and Urban Development
 summary: Sending flyers with energy-saving tips did not change energy use.
-featured: homepage
 ---
 ## What was the challenge?
 

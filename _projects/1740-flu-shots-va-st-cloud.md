@@ -12,7 +12,6 @@ year: 2018
 domain: Health
 agency: Veterans Affairs
 summary: Postcards incorporating behavioral insights were not more effective than a basic informational postcard.
-featured: homepage
 ---
 ## What was the challenge?
 

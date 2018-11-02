@@ -9,7 +9,6 @@ year: 2017
 domain: Government Operations
 agency: Office of Personnel Management
 summary: The combination of default settings and simplified language increases voluntary submission of demographics information by 19%.
-featured: homepage
 ---
 ## What was the challenge?
 
