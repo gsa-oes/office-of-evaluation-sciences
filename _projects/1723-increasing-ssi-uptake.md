@@ -16,7 +16,7 @@ summary: Letters to adults 65 or older increased SSI awards by 340%.
 ---
 ## What was the challenge?
 
-The Social Security Administration (SSA) administers Supplemental Security Income (SSI) as a monthly benefit to people with limited income and resources who are disabled, blind, or age 65 or older. Survey data from the Health and Retirement Study suggest that less than 60 percent of individuals age 65 or older who are eligible for SSI receive the benefit, and administrative data from SSA suggest that uptake may be substantially lower than this.
+The Social Security Administration (SSA) administers Supplemental Security Income (SSI) as a monthly means-tested cash payment to people who have low income and assets and are disabled, blind, or age 65 or older. Survey data from the National Institutes of Health-supported Health and Retirement Study suggest that less than 60 percent of individuals age 65 or older who may be eligible for SSI receive the benefit, and administrative data from SSA suggest that uptake may be substantially lower. 
 
 ## What was the program change?
 
@@ -24,7 +24,7 @@ SSA identified over 4 million individuals age 65-80 who were potentially eligibl
 
 ## How did the evaluation work?
 
-Individuals were randomly assigned to receive one of four letter types or to a control condition (i.e., business as usual): (1) a basic letter; (2) a letter which states the maximum benefit; (3) a letter which states that applying is simple; (4) a letter combining the maximum benefit element and the “applying is simple” element. SSA sent 100,000 of each letter variation.
+Individuals were randomly assigned to receive one of four letter types or to a control condition (i.e., no targeted information about potential SSI eligibility): (1) a basic letter; (2) a letter which states the maximum benefit; (3) a letter which states that applying is simple; (4) a letter combining the maximum benefit element and the “applying is simple” element. SSA sent 100,000 of each letter variation.
 
 ## What was the impact?
 
