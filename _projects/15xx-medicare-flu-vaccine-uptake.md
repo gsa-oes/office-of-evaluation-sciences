@@ -4,8 +4,8 @@ permalink: /projects/medicare-flu-vaccine-uptake/
 tags:
   - project
   - vaccines
-image: 
-image-credit: 
+image: /assets/img/project-images/15xx.jpg
+image-credit: https://www.cdc.gov/flu/pdf/freeresources/seniors/seniors-vaccination-factsheet-final.pdf
 analysis-plan: 
 abstract: /assets/abstracts/15xx-medicare-flu-vaccine-uptake-abstract.pdf
 year: 2015  
