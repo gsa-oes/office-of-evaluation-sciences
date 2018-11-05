@@ -15,7 +15,7 @@ summary: Analysis Plan Registration
 ---
 ## What was the challenge?
 
-The Centers for Disease Control and Prevention identify adults over age 65 as higher-risk for vaccine preventable diseases and recommends vaccines for the influenza, tetanus, pneumonia, and shingles.  The Louisiana Department of Health (LDH) identified increasing the number of vaccinated elderly as a priority, as well as interest in testing the impact of outreach efforts.
+The Centers for Disease Control and Prevention identify adults over age 65 as higher-risk for vaccine preventable diseases and recommends vaccines for the influenza, tetanus, pneumonia, and shingles.  The Louisiana Department of Health (LDH) identified increasing the number of vaccinated elderly as a priority, as well as interest in testing the impact of outreach efforts. 
 
 ## What was the program change?
 
@@ -25,8 +25,12 @@ LDH sent a postcard reminder on recommended vaccines to all elderly ages 65-70 i
 
 Individuals were randomly assigned to a month in which they received the postcard reminder, October, November, December, or January.  In addition to month, individuals were block-randomized according to their vaccination history.  
 
-This study has three treatment arms based on when the postcard was sent: October, November, and December.  Individuals randomized to receive the postcard reminder in January were considered the control group, as vaccinations rates were analyzed for the full sample excluding vaccinations post-January.
+This study has three treatment arms based on when the postcard was sent: October, November, and December. Individuals randomized to receive the postcard reminder in January were considered the control group, as vaccinations rates were analyzed for the full sample excluding vaccinations post-January.
 
 ## What was the impact?
 
-The postcard reminder had a small but detectable effect among individuals who received the postcard in October.  Individuals in the control group received 8.58 percent of their four vaccinations during the study period.  Individuals in the October group had received 0.27 percent more vaccinations (563 vaccinations) than individuals in the control group.  
+The postcard reminder had a small but detectable effect among individuals who received the postcard in October.  
+
+Individuals in the control group received 8.58 percent of their four vaccinations during the study period.  Individuals in the October group received 0.27 percent more vaccinations (an additional 563 vaccinations) than individuals in the control group. 
+
+The increase in vaccinations in October is detectable, while increases in November and December are not.  
