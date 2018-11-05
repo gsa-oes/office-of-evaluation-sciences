@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/1738.jpg  
 image-credit: http://www.freestockphotos.biz/stockphoto/15813
 analysis-plan: /assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf
-abstract: assets/abstracts/1738-increasing-vaccine-uptake.pdf
+abstract: /assets/abstracts/1738-increasing-vaccine-uptake.pdf
 year: 2018  
 domain: Health
 agency: Health and Human Services
