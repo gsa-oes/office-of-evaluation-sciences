@@ -11,7 +11,7 @@ abstract: assets/abstracts/1738-increasing-vaccine-uptake.pdf
 year: 2018  
 domain: Health
 agency: Health and Human Services
-summary: Analysis Plan Registration
+summary: Sending postcard reminders increases vaccination rates among elderly
 ---
 ## What was the challenge?
 
