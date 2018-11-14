@@ -1,5 +1,5 @@
 ---
-title:  Decreasing Energy Costs in Federally Assisted Housing
+title:  Using Post-9/11 GI Bill Benefit Balance Notifications to Increase Student Persistence
 permalink: /projects/gi-bill-balance-notifications/
 tags: project  
 image: /assets/img/project-images/1810.jpg
