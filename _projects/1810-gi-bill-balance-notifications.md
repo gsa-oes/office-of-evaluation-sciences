@@ -1,6 +1,6 @@
 ---
-title:  Using Post-9/11 GI Bill Benefit Balance Notifications to Increase Student Persistence
-permalink: /projects/gi-bill-balance-notifications/
+title:  Using Proactive Communication to Increase College Enrollment for Post-9/11 GI Bill Beneficiaries
+permalink: /projects/gi-bill-proactive-communication/
 tags: project  
 image: /assets/img/project-images/1810.jpg
 image-credit: U.S. Army photo by Nell King
