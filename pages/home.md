@@ -14,4 +14,4 @@ video-button-text: Collaborate with us
 video-button-link: /contact/
 class: page-home
 ---
-Be an OES Fellow. Now accepting applications. Learn more [here]({{site.baseurl}}/assets/files/GSA_OES_Solicitation FY19.pdf). 
+Be an OES Fellow. Now accepting applications. Learn more [here]({{site.baseurl}}/assets/files/GSA_OES_Solicitation%FY19.pdf). 
