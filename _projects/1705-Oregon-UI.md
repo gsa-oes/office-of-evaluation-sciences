@@ -12,9 +12,19 @@ agency: Oregon Employment Department
 summary: Analysis Plan Registration
 featured: homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
+# What was the challenge?
 
-Check back for results!
+As the state-level agency responsible for administering the Federal-State Unemployment Insurance (UI) Program, the Oregon Employment Department’s mission is to support those who have lost their jobs through no fault of their own to find new employment. Oregon made over 1.5 million weekly UI payments totaling $529 million in 2015. The Oregon Employment Department sought to **increase the rate and speed of re-employment** among UI claimants by modifying the job search experience. 
 
+# What was the program change?
+
+Oregon required job seekers to complete a structured, four-week Personal Employment Plan (PEP). The plan encouraged job seekers to think more expansively about their job search and develop implementation intentions. Additionally, Oregon mailed job seekers information with the standard welcome letter to encourage job seekers to think of WorkSource job centers as a supportive resource and sent a series of up to 12 bi-weekly emails that included tips to enhance customers’ job searches, reminders to follow and add to their PEP, and motivational quotes. 
+
+# How did the evaluation work?
+
+Oregon selected 14 WorkSource job centers for the pilot. The job centers were sorted into 7 pairs based on the similarity of the centers and the claimants they serve. One job in each pair was randomly assigned to implement the intervention. Differences in mean rates of employment and quarterly earnings in the first quarter of 2018 were compared among job centers using a permutation-based approach.
+
+# What was the impact?
+
+The employment rates in the treatment offices were **not significantly different** than the rates in the control offices. In treatment offices 56.3 percent of job seekers included in the pilot were employed in the first quarter of 2018 versus 54.9 percent of job seekers in control offices. Individual wages averaged $4,353 for the quarter in treatment offices compared to $3,998 in control offices. 
