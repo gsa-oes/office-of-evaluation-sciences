@@ -2,9 +2,9 @@
 title:  Communicating Employment Supports to Denied Disability Insurance Applicants 
 permalink: /projects/di-denial/
 tags: project  
-image: /assets/img/project-images/1726.jpg  
-image-credit: https://commons.wikimedia.org/wiki/File:Dallas_skyline_and_suburbs.jpg
-abstract: /assets/abstracts/15xx-di-denial.pdf
+image: /assets/img/project-images/15xx-di.jpg  
+image-credit: https://www.flickr.com/photos/senatorchriscoons/
+abstract: /assets/abstracts/15xx-di.pdf
 year: 2018
 domain: Employment
 agency: Social Security Administration
