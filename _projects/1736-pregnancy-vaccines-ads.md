@@ -19,7 +19,7 @@ The Department of Health and Human Services (HHS) wanted to strengthen maternal 
 
 ## What was the program change?
 
-The Office of Evaluation Sciences (OES) worked with NVPO to craft variations of a Facebook ad that targeted pregnant Facebook users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017.
+The Office of Evaluation Sciences (OES) worked with NVPO to craft variations of a social media ad that targeted pregnant social media users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017. 
 
 ## How did the evaluation work?
 
