@@ -9,11 +9,24 @@ abstract:
 year: 2019  
 domain: Communications
 agency: Housing and Urban Development
-summary: Analysis Plan Registration
+summary: Letters with feedback on energy use and comparisons to efficient neighbors did not reduce energy use among public housing residents
 featured: homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
+## What was the challenge?
 
-Check back for results!
+The Department of Housing and Urban Development (HUD) seeks to reduce energy use among Federally assisted public housing residents to reduce utility costs paid by the agency. Residents may be willing to take action to reduce energy use, but may not know whether improvements are possible or how to reduce energy use. Feedback and comparisons can help residents reduce energy use, but less is known about whether these methods are effective among residents who do not see utility bills or pay for their energy usage.
+
+## What was the program change?
+
+OES designed a series of four flyers to send to residents in New York City Housing Authority (NYCHA) apartments. The letters included individualized feedback on recent energy use, a comparison of energy use to the average apartment and to energy-efficient neighbors, and a normative statement based on residents’ relative energy use.
+
+## How did the evaluation work?
+
+About 4,700 apartment units in NYCHA developments have wireless energy modules (WEMs) installed to observe energy use at 15-minute increments. These units were randomly assigned to either 1) receive a series of four letters every two weeks; or, 2) not receive any letters.  
+
+## What was the impact?
+
+Energy use was not significantly different among households that were sent the flyers compared to those that were not sent any flyers. Energy use was compared between the two groups in the first week immediately after the first flyer was sent in August 2018, and during the eight weeks of the study period when all four flyers were sent. No significant differences were detected in either outcome period.
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
