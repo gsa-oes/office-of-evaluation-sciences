@@ -7,13 +7,13 @@ image_full: true
 class:
 summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
 ---
-## Join OES: Now Accepting Applications 
+## Join OES 
 
-The Office of Evaluation Sciences (OES) is currently accepting applications for one-year fellowships beginning in October 2019 in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. 
+The Office of Evaluation Sciences (OES) is accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. 
 
 The work and role of OES is unique - directly designing, implementing and analyzing evidence based interventions and randomized evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, run large scale tests reaching millions of people, and work closely with key decision makers in government. Fellows shape their own high-impact portfolio of work, design and direct projects, author academic publications, and benefit from a dynamic team and flexible Federal work environment.
 
-Full-time fellowship positions start in October 2019 in Washington, D.C. Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by [viewing the 2019 Fellowship Solicitation]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY19v2.pdf). Applicants may apply online via https://oes.fluidreview.com/. The deadline to submit is 11:59 p.m. EST Sunday, February 3, 2019.  
+Full-time fellowship positions start in the fall in Washington, D.C. Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by [viewing the 2019 Fellowship Solicitation]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY19v2.pdf). 
             
       
 ## Partnering with OES
