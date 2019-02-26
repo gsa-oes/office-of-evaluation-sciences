@@ -4,6 +4,7 @@ image: /assets/img/team/maryclair_turner.jpg
 year: 
   - 2017
   - 2018
+  - 2019
 agency:  
 home: University
 title: Associate Fellow
