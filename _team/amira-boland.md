@@ -6,6 +6,7 @@ year:
   - 2016
   - 2017
   - 2018
+  - 2019
 agency:
   - Census Bureau
   - Energy
