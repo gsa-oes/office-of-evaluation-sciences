@@ -1,6 +1,6 @@
 ---
 name: Andrew Feher
-image: /assets/img/team/Andrew-Feher.jpg 
+image: /assets/img/team/andrew-feher.jpg 
 year: 
   - 2018
   - 2019
