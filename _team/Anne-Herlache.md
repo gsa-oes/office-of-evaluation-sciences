@@ -1,6 +1,6 @@
 ---
 name: Anne Herlache
-image: /assets/img/team/Anne-Herlache.jpg 
+image: /assets/img/team/anne-herlache.jpg 
 year: 
   - 2018
   - 2019
