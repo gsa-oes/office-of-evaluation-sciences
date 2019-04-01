@@ -2,11 +2,11 @@
 title:  Increasing Survey Responses to Improve USAGov Email Content
 permalink: /projects/USAGov-survey/
 tags: project  
-image: /assets/img/project-images/1801-image-v2.jpg
+image: /assets/img/project-images/1801-image-v3.jpg
 image-credit: 
 analysis-plan: /assets/analysis/1801-USAGov-survey.pdf
-abstract: /assets/abstract/1801-USAGov-survey-abstract.pdf
-year: 2018  
+abstract: /assets/abstracts/1801-USAGov-survey-abstract.pdf
+year: 2019  
 domain: Communications
 agency: General Services Administration
 summary: An early message of gratitude decreased completion, whereas a timeline that made government opperations transparent increased completion.
