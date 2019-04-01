@@ -2,10 +2,10 @@
 title:  Increasing Survey Responses to Improve USAGov Email Content
 permalink: /projects/USAGov-survey/
 tags: project  
-image: /assets/img/project-images/1801-image.jpg
+image: /assets/img/project-images/1801-image-v2.jpg
 image-credit: 
 analysis-plan: /assets/analysis/1801-USAGov-survey.pdf
-abstract:  /assets/abstract/1801-USAGov-survey-abstract.pdf
+abstract: /assets/abstract/1801-USAGov-survey-abstract.pdf
 year: 2018  
 domain: Communications
 agency: General Services Administration
