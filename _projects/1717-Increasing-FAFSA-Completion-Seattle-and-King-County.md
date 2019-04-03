@@ -1,6 +1,6 @@
 ---
-title:  Increasing FAFSA Completion Among Public Housing Residents
-permalink: /projects/increasing-fafsa-completion-phase-2-seattle-and-king-county/
+title:  Increasing FAFSA Completion Among Public Housing Residents: Seattle and King County
+permalink: /projects/increasing-fafsa-completion-seattle-and-king-county/
 tags: project  
 image: /assets/img/project-images/1717.jpg  
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
