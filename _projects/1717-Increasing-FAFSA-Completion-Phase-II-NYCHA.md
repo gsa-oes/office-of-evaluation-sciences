@@ -1,6 +1,6 @@
 ---
 title:  Increasing FAFSA Completion Among Public Housing Residents
-permalink: /projects/increasing-fafsa-completion-phase-2/
+permalink: /projects/increasing-fafsa-completion-phase-2-nycha/
 tags: project  
 image: /assets/img/project-images/1717.jpg  
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
