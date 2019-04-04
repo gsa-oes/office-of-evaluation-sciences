@@ -1,5 +1,5 @@
 ---
-title:  Increasing FAFSA Completion Among Public Housing Residents: NYCHA
+title:  "Increasing FAFSA Completion Among Public Housing Residents: NYCHA"
 permalink: /projects/increasing-fafsa-completion-nycha/
 tags: project  
 image: /assets/img/project-images/1717.jpg  
