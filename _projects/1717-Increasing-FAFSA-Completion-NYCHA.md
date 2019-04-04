@@ -11,7 +11,6 @@ domain: Education
 agency: Housing and Urban Development
 summary: A series of communications do not change FAFSA completion rates
 ---
-
 ## What was the challenge?
 
 Part of the U.S. Department of Housing and Urban Development’s (HUD) mission is to utilize housing as a platform for improving residents’ quality of life, including by increasing educational opportunity. Completing the Free Application for Federal Student Aid (FAFSA) is the first step to accessing Federal and other forms of aid for post-secondary education. HUD partnered with the Office of Evaluation Sciences (OES) in 2017 to design and evaluate a pair of mail-based communications which encouraged youth residing in public housing in New York City to complete the FAFSA.
