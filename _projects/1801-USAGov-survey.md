@@ -9,7 +9,7 @@ abstract: /assets/abstracts/1801-USAGov-survey-abstract.pdf
 year: 2019  
 domain: Communications
 agency: General Services Administration
-summary: An early message of gratitude decreased completion, whereas a timeline that made government opperations transparent increased completion.
+summary: An early message of gratitude decreased completion, whereas a timeline that made government operations transparent increased completion.
 featured: homepage
 ---
 ## What was the challenge?
