@@ -3,8 +3,10 @@ name: Pompa Debroy
 image: /assets/img/team/pompa_debroy.jpg
 year:
   - 2018
+  - 2019
 agency:
-  - HHS
+  - Health and Human Services
+  - Veterans Affairs
 home: University
 title: Associate Fellow
 ---
