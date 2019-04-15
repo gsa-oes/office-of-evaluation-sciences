@@ -6,7 +6,7 @@ tags:
   - vaccines
 image:
 image-credit: 
-analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va.pdf
+analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan.pdf
 abstract: 
 year: 2019
 domain: Health
