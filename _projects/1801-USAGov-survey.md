@@ -18,7 +18,7 @@ To better learn about the U.S. General Services Administration's USAGov email au
 
 ## What was the program change?
 
-Evidence-based insights informed the design of three emails. One email included a photo of the USAGov team and personalized signature to make the request more personal, real, and trustworthy. A second email expressed gratitude before the personal survey request to promote survey completion through reciprocity. A third email included a timeline to show the process of how and when responses would be use to make government operations transparent.
+Evidence-based insights informed the design of three emails. One email included a photo of the USAGov team and personalized signature to make the request more personal, real, and trustworthy. A second email expressed gratitude before the personal survey request to promote survey completion through reciprocity. A third email included a timeline to show the process of how and when responses would be used to make government operations transparent.
 
 ## How did the evaluation work?
 
