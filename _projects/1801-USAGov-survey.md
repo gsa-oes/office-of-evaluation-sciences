@@ -14,7 +14,7 @@ featured: homepage
 ---
 ## What was the challenge?
 
-To better learn about the U.S. General Services Administration's USAGov email audience, a bilingual survey was developed to include questions on preferred topics, preferred frequency of email communications, utility of emails, and audience demographics.  USAGov sought to learn more about their email audience by increasing survey response.
+To better learn about the U.S. General Services Administration's USAGov email audience, a bilingual survey was developed to include questions on preferred topics, preferred frequency of email communications, utility of emails, and audience demographics.  USAGov sought to learn more about their email audience through the survey and by using behavioral insights to increase survey response.
 
 ## What was the program change?
 
