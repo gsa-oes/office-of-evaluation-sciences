@@ -9,12 +9,12 @@ abstract: /assets/abstracts/1801-USAGov-survey-abstract.pdf
 year: 2019  
 domain: Communications
 agency: General Services Administration
-summary: An early message of gratitude decreased completion, whereas a timeline that made government operations transparent increased completion.
+summary: A timeline making government operations transparent increased survey responses, but an early message of gratitude decreased survey responses.
 featured: homepage
 ---
 ## What was the challenge?
 
-The U.S. General Service Administration’s USAGov sought to administer a survey to learn more about their email subscribers and what messages would increase survey completion.
+To better learn about the U.S. General Services Administration's USAGov email audience, a bilingual survey was developed to include questions on preferred topics, preferred frequency of email communications, utility of emails, and audience demographics.  USAGov sought to learn more about their email audience by increasing survey response.
 
 ## What was the program change?
 
