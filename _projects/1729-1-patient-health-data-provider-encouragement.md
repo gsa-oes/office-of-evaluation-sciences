@@ -1,12 +1,12 @@
 ---
-title: Increasing Use of Patient Generated Health Data with Provider Encouragement
-permalink: /projects/increasing-patient-use-of-electronic-health-records/
+title: Increasing Use of Patient Generated Health Data through Provider Encouragement
+permalink: /projects/patient-health-data-provider-encouragement/
 tags: project  
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
 abstract: /assets/abstract/1729-1-patient-generated-health-data-provider-encouragement.pdf
-year: 2018  
+year: 2019
 domain: Health
 agency: Health and Human Services
 summary: A virtual provider training and encouragement increased use of electronic blood glucose flow sheets.
@@ -21,7 +21,7 @@ ONC, Inova Medical Group, and OES designed an intervention to encourage physicia
 
 ## How did the evaluation work?
 
-Inova, OES, and ONC randomly assigned physicians in ten primary care practices (34 doctors and 3,411 patients) in the Washington D. C. metro area to receive encouragement to place bulk orders for electronic blood glucose flow sheets. The remaining ten primary care practices (34 doctors and 3,641 patients) were assigned to the control condition of business as usual. The team used data from Inova electronic health records to compare (1) provider flow sheet orders, (2) patient flow sheet completion rates, and (3) changes to active medications made following the intervention. 
+ONC, Inova, and OES randomly assigned physicians in ten primary care practices (34 doctors and 3,411 patients) in the Washington D. C. metro area to receive encouragement to place bulk orders for electronic blood glucose flow sheets. The remaining ten primary care practices (34 doctors and 3,641 patients) were assigned to the control condition of business as usual. The team used data from Inova electronic health records to compare (1) provider flow sheet orders, (2) patient flow sheet completion rates, and (3) changes to active medications made following the intervention. 
 
 ## What was the impact?
 
