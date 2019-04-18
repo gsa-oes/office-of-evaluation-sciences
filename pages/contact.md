@@ -10,7 +10,7 @@ summary: Our team is passionate about bringing and building evidence to tackle F
 ## Join OES 
 
 ## Current Opening for a Statistical Analyst and Methodologist
-The Office of Evaluation Sciences (OES) is currently seeking an analyst with expertise in quantitative social science or applied statistics to serve as a part-time Associate Fellow on our Methods Team. This position can be remote with occasional trips to Washington, DC. We are accepting applications through May 12, 2019. For more information, please see the solicitation [viewing the Methods Team Position Description] ({{site.baseurl}}/assets/files//MethodsTeamAssociateFellowSolicitation19.pdf). 
+The Office of Evaluation Sciences (OES) is currently seeking an analyst with expertise in quantitative social science or applied statistics to serve as a part-time Associate Fellow on our Methods Team. This position can be remote with occasional trips to Washington, DC. We are accepting applications through May 12, 2019. For more information, please [review the Methods Team Position Description]({{site.baseurl}}/assets/files//MethodsTeamAssociateFellowSolicitation19.pdf). 
 
 
 OES accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. 
