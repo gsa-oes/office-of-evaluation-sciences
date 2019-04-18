@@ -9,11 +9,15 @@ summary: Our team is passionate about bringing and building evidence to tackle F
 ---
 ## Join OES 
 
-The Office of Evaluation Sciences (OES) is accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. 
+## Current Opening for a Statistical Analyst and Methodologist
+The Office of Evaluation Sciences (OES) is currently seeking an analyst with expertise in quantitative social science or applied statistics to serve as a part-time Associate Fellow on our Methods Team. This position can be remote with occasional trips to Washington, DC. We are accepting applications through May 12, 2019. For more information, please see the solicitation [viewing the Methods Team Position Description]({{site.baseurl}}/assets/files//Methods Team Associate Fellow Solicitation 19.pdf). 
+
+
+OES accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. 
 
 The work and role of OES is unique - directly designing, implementing and analyzing evidence based interventions and randomized evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, run large scale tests reaching millions of people, and work closely with key decision makers in government. Fellows shape their own high-impact portfolio of work, design and direct projects, author academic publications, and benefit from a dynamic team and flexible Federal work environment.
 
-Full-time fellowship positions start in the fall in Washington, D.C. Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by [viewing the 2019 Fellowship Solicitation]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY19v2.pdf). 
+Full-time fellowship positions start in the fall in Washington, D.C. Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by [viewing the 2019 Fellowship Solicitation]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY19v2.pdf). 
             
       
 ## Partnering with OES
