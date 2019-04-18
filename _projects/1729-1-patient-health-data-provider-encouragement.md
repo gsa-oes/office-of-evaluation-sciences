@@ -5,7 +5,7 @@ tags: project
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
-abstract: /assets/abstract/1729-1-patient-generated-health-data-provider-encouragement.pdf
+abstract: /assets/abstracts/1729-1-patient-generated-health-data-provider-encouragement.pdf
 year: 2019
 domain: Health
 agency: Health and Human Services
