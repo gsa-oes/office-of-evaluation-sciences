@@ -6,7 +6,7 @@ tags:
   - vaccines
 image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.pdf
 image-credit: https://www.army.mil/article/191935/increasing_patient_satisfaction_and_health_communication_through_relayhealth
-analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan.pdf
+analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf
 abstract: 
 year: 2019
 domain: Health
