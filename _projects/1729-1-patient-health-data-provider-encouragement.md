@@ -17,7 +17,7 @@ The Office of the National Coordinator for Health Information Technology (ONC) h
 
 ## What was the program change?
 
-ONC, Inova Medical Group, and OES designed an intervention to encourage physicians to place bulk orders for electronic blood glucose flow sheets for patients with diabetes. Providers were invited to attend a virtual training and offered in-person support, including a template for reaching out to patients.
+ONC, Inova Health System, and OES designed an intervention to encourage physicians to place bulk orders for electronic blood glucose flow sheets for patients with diabetes. Providers were invited to attend a virtual training and offered in-person support, including a template for reaching out to patients.
 
 ## How did the evaluation work?
 
