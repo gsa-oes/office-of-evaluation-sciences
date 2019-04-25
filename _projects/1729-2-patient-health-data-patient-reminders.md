@@ -25,7 +25,7 @@ ONC, Inova, and OES assigned 2,182 patients at medical practices whose doctors p
 
 ## What was the impact?
 
-After 14 weeks, patients sent the Physician Accountability reminder were more likely to use flow sheets, had fewer prescriptions ordered, and were less likely to receive an A1c test compared to patients who were not sent a reminder.  Patients receiving the Basic or Gift Card reminders did not have significantly different values for these outcomes relative to the No Reminder group. 
+After 14 weeks, patients sent the Physician Accountability reminder were more likely to use flow sheets, had fewer prescriptions overall and few diabetes-related prescriptions ordered, and were less likely to receive an A1c test compared to patients who were not sent a reminder.  Patients receiving the Basic or Gift Card reminders did not have significantly different values for these outcomes relative to the No Reminder group.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
 
