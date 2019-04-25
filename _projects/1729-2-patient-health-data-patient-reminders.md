@@ -17,7 +17,7 @@ The Office of the National Coordinator for Health Information Technology (ONC) h
 
 ## What was the program change?
 
-ONC, Inova Medical Group, and OES designed an intervention to examine the effect of different reminder messages on both patient use of flow sheets and on consequent downstream health outcomes.
+ONC, Inova Health System, and OES designed an intervention to examine the effect of different reminder messages on both patient use of flow sheets and on consequent downstream health outcomes.
 
 ## How did the evaluation work?
 
