@@ -1,18 +1,29 @@
 ---
-title:  Increasing Survey Responses to Improve USAGov Email Content
+title:  Increasing Survey Response to Improve USAGov Email Content
 permalink: /projects/USAGov-survey/
 tags: project  
-image: /assets/img/project-images/1801-6v2.jpg
+image: /assets/img/project-images/1801-image-v6.jpg
 image-credit: 
-analysis-plan: /assets/analysis/1801-USAGov-survey.pdf
-abstract: 
+analysis-plan: /assets/analysis/1801-USAGov-survey-analysis-plan-updated.pdf
+abstract: /assets/abstracts/1801-USAGov-survey-abstract.pdf
 year: 2019  
 domain: Communications
 agency: General Services Administration
-summary: Analysis Plan Registration
+summary: A timeline making government operations transparent increased survey response and an early message of gratitude decreased survey response.
+featured: homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
 
-The Analysis Plan at the right indicates the date locked, and you can <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">verify our upload date here</a>. 
+To better learn about the U.S. General Services Administration's USAGov email audience, a bilingual survey was developed to include questions on preferred topics, preferred frequency of email communications, utility of emails, and audience demographics. USAGov sought to learn more about their email audience through the survey and by using behavioral insights to increase survey response.
 
-Check back for results!
+## What was the program change?
+
+Evidence-based insights informed the design of three emails. One email included a photo of the USAGov team and personalized signature to make the request more personal, real, and trustworthy. A second email expressed gratitude before the personal survey request to promote survey completion through reciprocity. A third email included a timeline to show the process of how and when responses would be used to make government operations transparent.
+
+## How did the evaluation work?
+
+USAGov email subscribers were randomly assigned to be sent one of four email messages (or sets of messages): the personal survey email, the personal survey email plus the gratitude email one week before, the process survey email, or the business-as-usual survey email.
+
+## What was the impact?
+
+Compared to the business-as-usual email group, survey completion was 0.10% higher in the process email group, 0.13% lower in the personal plus gratitude email group, and 0.05% lower, but not statistically different, in the personal email group.
