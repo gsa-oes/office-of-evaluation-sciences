@@ -4,7 +4,7 @@ image: /assets/img/team/mindy_hernandez.jpg
 year:
   - 2018
 agency:
-  - USAID
+  - US Agency for International Development
 home: Non-profit
 title: Alum
 ---
