@@ -13,7 +13,7 @@ summary: A series of communications do not change FAFSA completion rates
 ---
 ## What was the challenge?
 
-Part of the U.S. Department of Housing and Urban Development’s (HUD) mission is to utilize housing as a platform for improving residents’ quality of life, including by increasing educational opportunity. Completing the Free Application for Federal Student Aid (FAFSA) is the first step to accessing Federal and other forms of aid for post-secondary education. HUD partnered with the Office of Evaluation Sciences (OES) in 2017 to design and evaluate a pair of mail-based communications which encouraged youth residing in public housing in New York City to complete the FAFSA.
+Part of the U.S. Department of Housing and Urban Development’s (HUD) strategic plan is to raise awareness about higher education and financial aid opportunities to HUD-assisted residents. Completing the Free Application for Federal Student Aid (FAFSA) is the first step to accessing Federal and other forms of aid for post-secondary education. HUD partnered with the Office of Evaluation Sciences (OES) in 2017 to design and evaluate a pair of mail-based communications which encouraged youth residing in public housing in New York City to complete the FAFSA.
 
 ## What was the program change?
 
@@ -21,10 +21,10 @@ HUD and OES designed a bundle of communications to address the basic information
 
 ## How did the evaluation work?
 
-Randomization was conducted at the household level and blocked by housing development, whether or not the household had an email address on file, and whether or not the household was in the top five percent of household income. Half of approximately 40,000 households were assigned to treatment and the rest were assigned to control. All 17-24 year old residents in treated households were sent the full bundle of communications in early 2017. Residents in households selected for the control group were not sent any materials from NYCHA related to post-secondary education.
+Randomization was conducted at the household level and blocked by housing development, whether or not the household had an email address on file, and whether or not the household was in the top five percent of household income. Half of the approximately 40,000 households --- which included a total of 50,980 youth --- were assigned to treatment and the rest were assigned to control. All 17-24 year old residents in treated households were sent the full bundle of communications in early 2017. Residents in households selected for the control group were not sent any materials from NYCHA related to post-secondary education.
 
 ## What was the impact?
 
-The communications did not change FAFSA completion or post-secondary enrollment rates. The treatment group completed the 2017 FAFSA at 42.2 percent, which was 0.8 percentage points higher than the control group. The post-secondary enrollment rate among the treatment group in 2017 was 39.4 percent, an increase of 0.8 percentage points over the control group. Neither difference is statistically different from zero. 
+The communications did not change FAFSA completion or post-secondary enrollment rates for the 2017 academic year. The treatment group completed the FAFSA for the 2017 academic year at 42.2 percent, which was 0.8 percentage points higher than the control group. The post-secondary enrollment rate among the treatment group in the 2017 academic year was 39.4 percent, an increase of 0.8 percentage points over the control group. Neither difference is statistically different from zero. 
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
