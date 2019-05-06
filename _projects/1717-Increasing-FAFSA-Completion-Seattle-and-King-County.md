@@ -22,7 +22,7 @@ HUD and OES designed and sent a bundle of two letters to address the basic infor
 
 ## How did the evaluation work?
 
-All 17-24 year old residents in residing in public housing in the Seattle Housing Authority and King County Housing Authority were mailed both letters between February and April 2017. The evidence-based insight was evaluated with a non-experimental, augmented synthetic control method. The augmented synthetic control method creates a comparison unit by weighting PHAs in the comparison group in a way that best matches the characteristics of the treated PHAs. The estimated effect is calculated as the difference between the FAFSA completion rate of the (combined) treated units and the FAFSA completion rate of the weighted synthetic comparison unit. Residents of similar age from other large public housing authorities (PHAs) were used to create the comparison group. 
+All 17-24 year old residents in residing in public housing in the Seattle Housing Authority (SHA) and King County Housing Authority (KCHA) were mailed both letters between February and April 2017. The evidence-based insight was evaluated with a non-experimental, augmented synthetic control method. The augmented synthetic control method creates a comparison unit by weighting other public housing authorities (PHAs) in the comparison group in a way that best matches the characteristics of the treated PHAs. The estimated effect is calculated as the difference between the FAFSA completion rate of the (combined) treated units and the FAFSA completion rate of the weighted synthetic comparison unit. Residents of similar age from other large PHAs were used to create the comparison group. 
 
 ## What was the impact?
 
