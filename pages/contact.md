@@ -9,15 +9,7 @@ summary: Our team is passionate about bringing and building evidence to tackle F
 ---
 ## Join OES 
 
-<section class="usa-section background-brand-white">
-  <div class="usa-grid main-content">
-     <div class= "usa-grid" align="center">
-      <div class="videoWrapper">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/9KSQ3YLpuV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-    </div>
-
-
 
 ## OES Annual Recruitment 
 OES accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), OES is a team of applied researchers tasked with applying insights from the social and behavioral sciences to federal programs, and testing and learning what works. 
