@@ -25,6 +25,6 @@ Randomization was conducted at the household level and blocked by housing develo
 
 ## What was the impact?
 
-The communications did not change FAFSA completion or post-secondary enrollment rates for the 2017 academic year. The treatment group completed the FAFSA for the 2017 academic year at 42.2 percent, which was 0.8 percentage points higher than the control group. The post-secondary enrollment rate among the treatment group in the 2017 academic year was 39.4 percent, an increase of 0.8 percentage points over the control group. Neither difference is statistically different from zero. 
+The communications did not change FAFSA completion or post-secondary enrollment rates for the 2017 academic year. The treatment group completed the FAFSA for the 2017 academic year at 35.3 percent, which was 0.8 percentage points higher than the control group. The post-secondary enrollment rate among the treatment group in the 2017 academic year was 26.8 percent, an increase of 0.8 percentage points over the control group. Neither difference is statistically different from zero. 
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf">click here</a>.</i>
