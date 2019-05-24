@@ -14,7 +14,7 @@ featured: homepage
 ---
 ## What was the challenge?
 
-The Post 9/11 GI Bill (PGIB) provides qualifying service members and Veterans with access to educational benefits to support their active-duty or post-service educational pursuits. PGIB benefits are month-based and the Veterans Experience Office has documented a number of challenges potential beneficiaries face when deciding on how to use their educational benefits. Additionally, VA Education Service has historically reported a beneficiary degree completion rate of approximately 20 percent. Ensuring **veterans have access to their full range of educational benefits is a priority** for the Department of Veterans Affairs.
+The Post 9/11 GI Bill provides qualifying service members and Veterans with access to educational benefits to support their active-duty or post-service educational pursuits. PGIB benefits are month-based and the Veterans Experience Office has documented a number of challenges potential beneficiaries face when deciding on how to use their educational benefits. Additionally, VA Education Service has historically reported a beneficiary degree completion rate of approximately 20 percent. Ensuring **veterans have access to their full range of educational benefits is a priority** for the Department of Veterans Affairs.
 
 ## What was the program change?
 
