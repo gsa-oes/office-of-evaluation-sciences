@@ -9,7 +9,7 @@ abstract: /assets/abstracts/gi-bill-proactive-communication.pdf
 year: 2019
 domain: Education
 agency: Veterans Affairs
-summary: Analysis Plan Registration
+summary: A general proactive email, encouraging increased postsecondary enrollment, influenced the enrollment intensity of Post-9/11 GI Bill users
 featured: homepage
 ---
 ## What was the challenge?
