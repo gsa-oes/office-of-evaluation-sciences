@@ -5,8 +5,8 @@ year:
   - 2018
   - 2019
 domain:
-agency: USAID
-  - 
+agency:
+  - USAID
 home: 
 title: Academic Affiliate
 ---
