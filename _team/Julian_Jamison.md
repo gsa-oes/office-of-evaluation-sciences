@@ -1,6 +1,6 @@
 ---
 name: Julian Jamison
-image: /assets/img/team/julian_jamison.jpg
+image: /assets/img/team/Julian_Jamison.jpg
 year: 
   - 2018
   - 2019
