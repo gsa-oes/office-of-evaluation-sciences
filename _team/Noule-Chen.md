@@ -8,7 +8,6 @@ year:
   - 2019
 domain:
 agency:
-  - 
 home: University
 title: Academic Affiliate
 ---
