@@ -29,3 +29,5 @@ At no material cost and minimal staff time, **OES collaborated with VA Education
 The results suggest that there was a small and statistically significant increase in the enrollment intensity for those receiving the proactive email, but no significant difference in likelihood of full-time enrollment. Specifically, the rate of pursuit (average enrollment) of those receiving the proactive communication was 0.753 compared to 0.746 for those who did not. **This represents a 1% increase in relative enrollment.**
 
 This collaboration adds to the growing body of evidence on the positive effect of proactive communications to increase postsecondary enrollment intensity. Beneficiaries not enrolled full-time who were sent an email enrolled in more credits during the fall term; however, at a small scale. 
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
