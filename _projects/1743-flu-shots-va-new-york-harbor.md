@@ -28,3 +28,5 @@ Veterans were randomly assigned to an email (treatment) group and a no-email (co
 ## What was the impact?
 
 There was no significant effect of the emails on either uptake or timing of flu shots.
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
