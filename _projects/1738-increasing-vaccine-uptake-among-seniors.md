@@ -34,3 +34,5 @@ The postcard reminder had a small but detectable effect among individuals who re
 Individuals in the control group received 8.58 percent of their four vaccinations during the study period.  Individuals in the October group received 0.27 percent more vaccinations (an additional 563 vaccinations) than individuals in the control group. 
 
 The increase in vaccinations in October is detectable, while increases in November and December are not.  
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
