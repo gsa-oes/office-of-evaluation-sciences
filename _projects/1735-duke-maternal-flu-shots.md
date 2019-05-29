@@ -29,3 +29,4 @@ Patients were randomly assigned to the treatment condition, in which they receiv
 
 The results indicate that targeted communications around the importance of accessing the flu vaccine did not lead to increased uptake of the vaccine. In the full experimental sample, uptake of the flu vaccine was 40% in the control group and 38% in the treatment arm. The difference between the two enrollment rates is statistically insignificant (p=.475, 95% CI [-.056, .026]).
 
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
