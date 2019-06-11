@@ -11,5 +11,3 @@ agency:
 home: Government
 title: Alum
 ---
-
-Juan Manuel Contreras, Ph.D., is a principal data scientist at Capital One. Prior to OES, he served as senior data scientist of the Democratic National Committee and a decision scientist at The Walt Disney Company. Juan Manuel was formally trained as an experimental psychologist in social neuroscience at Harvard University and Princeton University.
