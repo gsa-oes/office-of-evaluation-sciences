@@ -1,12 +1,15 @@
 Steps to create a new project or update an exisiting analysis plan to add complete project materials to the website:
 
 TO UPDATE AN EXISITING ANALYSIS PLAN PAGE TO COMPLETE THE PROJECT SUMMARY:
-1) In the _projects folder, click on the project page you want to update
-2) Once the new project page opens, click on the pencil button to edit the project profile text.
-3) Copy/paste the below four-question project summary text to replace the exisiting standard Analysis Plan registration text. 
-4) Update the "Abstract" and "Summary" lines in the overview. 
-      - Abstract should now show path to the Abstract file - ex. /assets/abstract/1742-reducing-energy-costs.pdf
+1) In the _projects folder, click on the project page you want to update (this will exist from creating the analysis plan page).
+2) Once the project page opens, click on the pencil icon in the upper left corner to edit the project profile text.
+3) Copy/paste the four-question project summary text in lines 85 to 102 of this template below to replace the existing general 
+   description.
+4) Update the "Abstract" (line 8 of the project page) and "Summary" (line 12) in the YAML heading (the text between the two sets 
+   of dashes (---)). Update the link in line 101 below to reflect the patch of the analysis plan commit.
+      - Abstract should now show path to the Abstract file - e.g., /assets/abstract/1742-reducing-energy-costs.pdf
       - Summary should now include the overview sentence (with a period)
+      - Link to analysis plan commit can be taken from the analysis plan page text
 5) Scroll down to the radio buttons at the bottom of the page, below the text entry box, and select "Create a new branch"
 6) Name the branch with your project number
 7) Click the green button that reads "Propose new file"
@@ -16,28 +19,30 @@ Now, upload your Abstract and complete the following final items:
     "office-of-evaluation-sciences" in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/abstracts/,
     and upload the pdf file of the abstract. Name it with the project number and project title. Use dashes (-) between words.
     <<DO NOT use spaces in the file name>> (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
-9) Go to federalist.18f.gov and click "login." You will be auto-logged in through GitHub. Click on the "GitHub Branches" menu option on
-    the left. Click on the "View Preview" next to the branch of your project number. 
-10) Email Amira to let us know you have built the page for review
+9) Go to the federalist to preview the page. You will be auto-logged in through GitHub. The link is of the form: 
+    https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/permalink/
+    where the branch is the branch number you are saving to in Step 6 and the permalink is what you specify in line 3 at the top of
+    your project page. An example
+    is: https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/1809/projects/increasing-attendance-seattle/
+10) Email Amira and Kelly to let us know you have built the page for review
 
-TO CREATE A NEW PROJECT
-1) In the _projects folder, click "create new file" in the upper right corner
+TO CREATE A NEW PROJECT (SHOULD NOT APPLY POST 2019)
+1) In the _projects folder, click "create new file" in the uper right corner
 2) Once the new page opens, in the text box after "/assets/_projects/", type in:
   - the project number (all four digits), followed by a dash
   - a shorthand project title, with any words separated by dashes (not spaces)
   - ".md" to ensure the page formats correctly
   - EXAMPLE: 1619-active-choice-tsp.md
-3) In the blank text box of the new page you created, copy and paste the text from line 62 through line 91 below (include the ---),
-   into the new page you created in the separate tab. ((( NOTE: the text following the colons (:) below is sample text, and 
-   additional notes are included following the arrows <<--. This text will need to be removed in your new page.)))
-4) Per the instructions shown to the right of the arrows (<<--), update information for your project and paste in content from project
-   slide where instructed (the headers are the same, so the body content will need to be inserted).
-  <<NOTE: the image, image-credit, and abstract fields should remain empty for now. In order to create a single working branch 
-          that can be previewed easily by agencies, create the page first, then add the abstract and image.>>
-5) Remove all notes from the form (including <<-- and comments)
-6) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
-7) Name the branch with your project number
-8) CLick the green button that reads "Propose new file"
+3) In the blank text box of the new page you created, copy and paste the text below, staring on line 71. Be sure to include 
+   the dashes (---) at the top when you copy the example. The information between the two sets of three dashes (lines 71-84)  
+   is needed to define key parameters on the webpage.
+   NOTE: delete the text following the colons (:) in the header section and replace with the relevant project information.
+4) Update the path in line 101 below to link directly to the history for your commits to the analysis plan document. The path is of
+   the form: https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/analysis-plan-file-name.pdf
+   where the analysis plan file name is the same path as specified in line 77 below.
+5) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
+6) Name the branch with your project number
+7) CLick the green button that reads "Propose new file"
 
 Once you have clicked that button, you've successfully created a branch that your agency will be able to preview. Now that you have
 created the page and specific project branch, complete the following final items: 
@@ -57,9 +62,11 @@ created the page and specific project branch, complete the following final items
 12) Return to the original project page you first created. For the three fields you left blank (image, image-source, and abstract),
     replace the existing content with the information for the new image and abstract you just created.
 13) Commit changes
-14) Go to federalist.18f.gov and click "login." You will be auto-logged in through GitHub. Click on the "GitHub Branches" menu option
-     on the left. Click on the "View Preview" next to the branch of your project number. 
-15) Email Amira to let us know you have built the page for review
+14) Go to the federalist to preview the page. You will be auto-logged in through GitHub. The link is of the form: 
+    https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/permalink/
+    where the branch is the branch number you are saving to in Step 6 and the permalink is what you specify in line 73 below. An example
+    is: https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/1809/projects/increasing-attendance-seattle/
+15) Email Amira and Kelly to let us know you have built the page for review
 
 ---
 title:  Increasing AHS Response Rates
@@ -73,6 +80,7 @@ year: 2018
 domain: Communications
 agency: Census
 summary: A second advance letter does not significantly improve outcomes.
+featured: homepage
 ---
 ## What was the challenge?
 
@@ -90,4 +98,4 @@ summary: A second advance letter does not significantly improve outcomes.
 
 [PASTE IN FROM PROJECT SLIDE]
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/analysis-plan.pdf">here</a>. 
