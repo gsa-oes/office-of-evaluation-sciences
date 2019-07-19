@@ -7,14 +7,27 @@ tags:
 image: /assets/img/project-images/1724.jpg
 image-credit: https://www.flickr.com/photos/120360673@N04/13856204644
 analysis-plan: /assets/analysis/1724-increasing-tsp-enrollment-usps.pdf
-abstract: 
+abstract: /assets/abstracts/1724-project-abstract-TSP-enrollment-USPS.pdf
 year: 2018  
 domain: Retirement Security
 agency: Postal Service
 summary: Analysis Plan Registration
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">here</a>. 
+## What was the challenge?
 
-Check back for results!
+The US Postal Service (USPS) offers a Thrift Savings Plan (TSP) program to help postal employees save for their future. Yet, as many as 86,000 employees do not participate in the program. USPS is interested in ensuring all employees who are eligible and interested are taking advantage of TSP. 
+
+## What was the program change?
+
+OES designed a new mailing to encourage TSP enrollment and contributions. The new mailing included a behaviorally-informed cover letter and TSP participation form designed to address each of these barriers to participation. To clarify how to sign up, the cover letter described what TSP was, explained how employees could participate, and provided an example of how an employee might contribute to TSP. 
+
+## How did the evaluation work?
+
+The new mailings were tested with an individual-level randomized control trial.  USPS sent the new mailings to 86,899 employees who were eligible for TSP but not yet enrolled in TSP. Of these USPS employees, 42,999 were randomly assigned to receive the new mailing  in August 2017 (Wave 1) and  43,900 were randomly assigned to receive the new mailing in September 2017 (Wave 2).   
+
+## What was the impact?
+
+OES was not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, OES does not report results.  In this case, outcome data were not available.  
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
