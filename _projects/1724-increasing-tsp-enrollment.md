@@ -11,7 +11,7 @@ abstract: /assets/abstracts/1724-project-abstract-TSP-enrollment-USPS.pdf
 year: 2018  
 domain: Retirement Security
 agency: Postal Service
-summary: Analysis Plan Registration
+summary: Testing mailings to increase USPS TSP enrollment and contributions
 ---
 
 ## What was the challenge?
