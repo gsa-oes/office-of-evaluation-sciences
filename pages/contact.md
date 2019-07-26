@@ -8,10 +8,6 @@ class:
 summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
 ---
 ## Join OES 
-<b>Current Opening for an Evaluation Specialist</b>
-
-The Office of Evaluation Sciences is currently seeking an evaluation specialist to serve as a part-time Associate Fellow on our Methods Team. This role will support agencies across the Federal government in implementing the Foundations for Evidence-Based Policymaking Act of 2018. We are accepting applications through July 19, 2019. For more information, please see the solicitation [here]({{site.baseurl}}/assets/files/MethodsTeamTrainingAssociateFellowSolicitation19-2.pdf).
-
  <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
  
 ## OES Annual Recruitment 
