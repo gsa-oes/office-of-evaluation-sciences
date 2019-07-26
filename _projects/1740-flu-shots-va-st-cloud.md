@@ -29,4 +29,4 @@ Veterans were randomly assigned to receive one of three postcards: a basic infor
 
 There were no significant differences among the three postcards in either uptake or timing of flu shots.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1740-flu-shots-va-st-cloud.pdf">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1740-flu-shots-va-st-cloud-analysis-plan.pdf">click here</a>.</i>
