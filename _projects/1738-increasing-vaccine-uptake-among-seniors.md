@@ -35,4 +35,4 @@ Individuals in the control group received 8.58 percent of their four vaccination
 
 The increase in vaccinations in October is detectable, while increases in November and December are not.  
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1738-increasing-vaccine-uptake.pdf">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf">click here</a>.</i>
