@@ -27,4 +27,4 @@ At no material cost, OES worked with GSA communications and human resources to d
 
 The probability of FSA enrollment was unchanged by the targeted communications delivered; employees who did and did not receive targeted communications both had a probability of enrolling of around 28%. Data suggests that around 50% of recipients of GSA Today opened the messages, but click-through rates for the information about FSAs were only about 1%.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1733-flexible-spending-accounts-gsa-analysis-plan.pdf">click here</a>.</i>
