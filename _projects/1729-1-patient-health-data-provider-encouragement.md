@@ -27,5 +27,5 @@ The intervention was tested using a cluster randomized controlled trial with 20 
 
 The intervention yielded large and statistically significant effects across the three outcomes: Patients at practices randomly assigned to the treatment group were more likely to receive an order for electronic flow sheets, more likely to use the flow sheet following the provider training, and less likely to see a change to their active medications in the 14 weeks after the provider trainings.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf">click here</a>.</i>
 
