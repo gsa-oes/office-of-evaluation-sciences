@@ -30,4 +30,4 @@ The new mailings were tested with an individual-level randomized control trial. 
 
 OES was not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, OES does not report results.  In this case, outcome data were not available.  
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1724-increasing-tsp-enrollment-usps.pdf">here</a>.</i>
