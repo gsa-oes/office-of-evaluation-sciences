@@ -21,7 +21,8 @@ How to plan for unexpected results and use them to make policy decisions, develo
 ### Learning from Administrative Data
 How administrative data can be used to answer priority questions and generate evidence in key cross-agency priorities. 
  
-When: October 30, 2019, 10am - 12pm EST (tentative) 
+### Details
+When: October 30, 2019, 10am - 12pm EST 
 Where: GSA, 1800 F ST NW, Washington DC 20405 
 Register: <a href="https://forms.gle/zirEH9upRHFdQ7CX6">Sign Up Here</a> or email oes@gsa.gov with your name, organization, and title to sign up at no cost.
 
