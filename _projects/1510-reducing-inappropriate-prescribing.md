@@ -9,7 +9,7 @@ year: 2015
 domain: Health
 agency: Health and Human Services
 impact:
-summary: Sending letters of potential overprescribers did not influence Schedule II prescribing activities.
+summary: Sending letters to potential overprescribers did not influence Schedule II prescribing activities.
 ---
 ## What was the challenge?
 
