@@ -1,5 +1,5 @@
 ---
-title:  Increasing SSI Uptake Among Newly-Eligible Population
+title:  Increasing SSI Uptake Among a Potentially Eligible Population
 permalink: /projects/increasing-ssi-uptake/
 tags:
   - project
