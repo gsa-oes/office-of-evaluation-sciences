@@ -13,5 +13,5 @@ $logo-url: "{{ site.baseurl }}{{ site.logo }}";
 $output-bourbon-deprecation-warnings: false !default;
 
 @import 'core/variables';
-@import 'uswds/all';
+@import 'uswds/uswds';
 @import 'all';
