@@ -23,7 +23,7 @@ How administrative data can be used to answer priority questions and generate ev
  
 ### Details
 Please join us!
- - When: October 30, 2019, 10am - 12pm EST (tentative)
+ - When: October 30, 2019, 9:30-11:30 EST
  - Where: GSA, 1800 F ST NW, Washington DC 20405 
  - Register: <a href="https://forms.gle/zirEH9upRHFdQ7CX6">Sign Up Here</a> or email oes@gsa.gov with your name, organization, and title to sign up at no cost.
  - This event will be recorded and the recording will be provided on this page.
