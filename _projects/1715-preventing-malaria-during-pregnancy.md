@@ -32,3 +32,5 @@ Half of the 72 wards in Kebbi State, Nigeria were randomly assigned to receive t
 ## What was the impact?
 
 The results suggest the intervention did not change the number of women taking at least one dose of IPTp or the average number of doses of IPTp at ANC or elsewhere. There is suggestive exploratory evidence that the intervention may have influenced beliefs about IPTp: the intervention was associated with a small statistically significant increase in the number of IPTp doses that mothers report that pregnant women should take (from 3.07 to 3.30).
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1715-increasing-iptp-uptake.pdf">click here</a>.</i>
