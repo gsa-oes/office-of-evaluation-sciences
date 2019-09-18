@@ -28,4 +28,4 @@ Oregon selected 14 WorkSource job centers for the pilot. The job centers were so
 
 The employment rate in the treatment offices was **not significantly different** than the rate in the control offices. In treatment offices 56.3 percent of job seekers included in the pilot were employed in the first quarter of 2018 versus 54.9 percent of job seekers in control offices. Individual wages averaged $4,353 for the quarter in treatment offices compared to $3,998 in control offices. 
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1705-Oregon-UI.pdf">click here</a>.</i>
