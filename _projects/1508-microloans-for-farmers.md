@@ -4,6 +4,7 @@ permalink: /projects/microloans-for-farmers-1/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
+analysis-plan: /assets/analysis/1508-Microloans-for-Farmers.pdf
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
 year: 2015
 domain: Economic Opportunity
@@ -27,3 +28,5 @@ FSA mailed the new letter to a sampling of farmers in randomly- selected zip cod
 ## What was the impact?
 
 The letters more than doubled the amount of microloan-related activity in FSA county offices, and increased the number of successful applicant from approximately .09% percent to .11% percent.
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1508-Microloans-for-Farmers.pdf">click here</a>.</i>
