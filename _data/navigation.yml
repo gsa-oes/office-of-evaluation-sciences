@@ -1,15 +1,31 @@
 primary:
-  - text: About
-    href: /about/
-  - text: Methods
-    href: /methods/
-  - text: Work
-    href: /work/
-  - text: Team
-    href: /team/
-  - text: Events
-    href: /events/
-  - text: Contact
-    href: /contact/
-
-
+  - text: Our Mission
+    links:
+    - text: About
+      href: /about/
+    - text: Team
+      href: /team/
+  - text: Our work
+    links:
+    - text: Building Evidence
+      href: /building-evidence/
+    - text: Using Evidence
+      href: /using-evidence/
+    - text: Evidence Act
+      href: /evidence-act/
+  - text: Resources
+    links: 
+    - text: TBD 1
+      href: /work/
+    - text: TBD 2
+      href: /team/
+    - text: TBD 3
+      href: /events/
+  - text: Connect
+    links:
+      - text: Events
+        href: /events/
+      - text: Opportunities
+        href: /opportunities/
+      - text: Press
+        href: /press/
