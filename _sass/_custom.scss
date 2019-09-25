@@ -1,6 +1,7 @@
 // Custom styles --------- //
 
 $oem-blue: #2E9AC4;
+$oem-green: #03CAB9;
 
 .usa-hero-callout {
     &.background-medium {
@@ -16,6 +17,10 @@ $oem-blue: #2E9AC4;
     button[aria-expanded=true] {
         background-color: $oem-blue;
 
+        span {
+            border-bottom-color: $oem-green;
+        }
+
         &:hover {
             background-color: $oem-blue;
 
@@ -27,5 +32,9 @@ $oem-blue: #2E9AC4;
 
     .usa-nav-submenu {
         background-color: $oem-blue;
+
+        a:hover {
+            background-color: $oem-green;
+        }
     }
 }
