@@ -2,11 +2,11 @@
 layout: home
 permalink: /
 hero:
-  image: /assets/img/kites.jpg
+  image: /assets/img/oes-post-its-crop.jpeg
   callout:
-    text: "We believe government works best when it's built for people."
+    text: "Building and using evidence to better serve the public."
   button:
-    text: Learn more
+    text: Our mission
     href: /about/
 content-button-text: Explore our results
 content-button-link: /work/

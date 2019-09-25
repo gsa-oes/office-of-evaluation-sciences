@@ -1,2 +1,11 @@
 // Custom styles --------- //
 
+.usa-hero-callout {
+    &.background-medium {
+        background-color: #2E9AC4;
+    }
+
+    .usa-button.usa-button-big {
+        color: #2E9AC4;
+    }
+}
