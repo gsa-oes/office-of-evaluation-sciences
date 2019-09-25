@@ -1,11 +1,31 @@
 // Custom styles --------- //
 
+$oem-blue: #2E9AC4;
+
 .usa-hero-callout {
     &.background-medium {
-        background-color: #2E9AC4;
+        background-color: $oem-blue;
     }
 
     .usa-button.usa-button-big {
-        color: #2E9AC4;
+        color: $oem-blue;
+    }
+}
+
+.usa-nav-primary {
+    button[aria-expanded=true] {
+        background-color: $oem-blue;
+
+        &:hover {
+            background-color: $oem-blue;
+
+            span {
+                color: #fff;
+            }
+        }
+    }
+
+    .usa-nav-submenu {
+        background-color: $oem-blue;
     }
 }
