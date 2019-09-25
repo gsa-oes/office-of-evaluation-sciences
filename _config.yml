@@ -33,7 +33,7 @@ defaults:
       layout: team-single
 
 colors:
-  primary: '#2E9AC4'
+  primary: '#0071bc'
 
 analytics:
   google:
@@ -41,8 +41,6 @@ analytics:
   dap:
     agency: GSA
     subagency: OES
-
-search_site_handle: searchgov-site-handle
 
 footer:
   image: /assets/img/icons/gsa-white.svg
