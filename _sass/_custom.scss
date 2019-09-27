@@ -1,28 +1,14 @@
 // Custom styles --------- //
-
-$oem-blue: #2E9AC4;
-$oem-green: #03CAB9;
-
-.usa-hero-callout {
-    &.background-medium {
-        background-color: $oem-blue;
-    }
-
-    .usa-button.usa-button-big {
-        color: $oem-blue;
-    }
-}
-
 .usa-nav-primary {
     button[aria-expanded=true] {
-        background-color: $oem-blue;
+        background-color: $color-primary-darker;
 
         span {
             border-bottom-color: $oem-green;
         }
 
         &:hover {
-            background-color: $oem-blue;
+            background-color: $color-primary-darker;
 
             span {
                 color: #fff;
@@ -31,7 +17,7 @@ $oem-green: #03CAB9;
     }
 
     .usa-nav-submenu {
-        background-color: $oem-blue;
+        background-color: $color-primary-darker;
 
         a:hover {
             background-color: $oem-green;
