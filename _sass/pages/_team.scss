@@ -25,6 +25,11 @@
   z-index: 9002;
 }
 
+.close-modal {
+  position: absolute;
+  right: 2px;
+}
+
 // Mixins
 @mixin image-circle($width) {
   background-size: cover;

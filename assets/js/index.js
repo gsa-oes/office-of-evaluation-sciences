@@ -42,6 +42,7 @@
     });
 
     document.getElementById('modal-overlay').addEventListener('click', dismissModal);
+    document.getElementById('close-modal').addEventListener('click', dismissModal);
 
     function loadTeamMember(teamMember){
       var teamMemberURL = teamMember.href;
