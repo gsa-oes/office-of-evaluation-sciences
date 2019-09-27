@@ -20,7 +20,7 @@ This study tested whether a behaviorally-informed letter would encourage SSI rec
 
 ## How did the evaluation work?
 
-SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years of age, had no earnings, and were deemed by SSA as more likely to experience changes in their earnings. 40,000 of these individuals were randomly assigned to receive one of the four letters. Another 10,000 received no letter, serving as a control group.
+SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years of age, had no earnings, and were deemed by SSA as more likely to experience changes in their earnings. 40,000 of these individuals were randomly assigned to receive one of the four letters. Another 10,000 received no letter, serving as a control group. 
 
 ## What was the impact?
 
