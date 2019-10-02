@@ -9,5 +9,5 @@ year:
 domain:
 agency:
 home: University
-title: Academic Affiliate
+title: Alum
 ---
