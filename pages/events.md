@@ -35,6 +35,6 @@ In **Learning from Administrative Data**, agency and academic collaborators will
   - **Adam Sacarny** (Mailman School of Public Health, Columbia University) will discuss how obtaining the right expertise for utilizing administrative data allowed HHS to build evidence around reducing inappropriate prescribing. More results <a href="https://oes.gsa.gov/projects/quetiapine-prescribing/">here.</a> 
   - **Alan Sim** (Defense Health Agency, Department of Defense) will discuss how intra-agency data compilation led to the development of a tool DHA can use for clinical decision making and evidence-building. 
  
- The full agenda is available <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/files/Using Evidence Agenda.pdf">here</a>.
+ The full agenda is available <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/master/assets/files/Using Evidence Agenda.pdf">here</a>.
  
 *This event will be recorded and the recording will be provided on this page.*
