@@ -3,8 +3,8 @@ title:  Timely Wage Reporting Among SSI Recipients
 permalink: /projects/ssi-wage-reporting/
 tags: 
   - project
-image: /assets/img/project-images/ssi-wage-reporting.jpg
-image-credit: https://blog.ssa.gov/supplemental-security-income-applications-now-online/
+image: /assets/img/project-images/wage.jfif
+image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting.pdf
 year: 2019
 domain: Government Efficiency
