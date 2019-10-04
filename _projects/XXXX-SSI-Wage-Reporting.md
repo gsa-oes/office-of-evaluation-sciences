@@ -9,7 +9,7 @@ abstract: /assets/abstracts/XXXX-ssi-wage-reporting.pdf
 year: 2019
 domain: Government Efficiency
 agency: Social Security Administration
-summary: Letters aimed to encourage more accurate and timely reporting of changes in wages among SSI beneficiaries
+summary: A reminder encouraged SSI recipients to self-report changes in wages earlier, potentially reducing overpayment
 ---
 ## What was the challenge?
 
