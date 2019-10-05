@@ -13,7 +13,7 @@ We generally use computer code to perform random assignment, and yet computer co
 
 ## Statistical Power
 
-Among other things, statistical power depends on the number of units included in a test and the method by which they are assigned to different treatment conditions. If a test lacks sufficient statistical power, then there is a risk of ending up with a “false negative” result. A “false negative” would be a failure to detect that an effective program change really was effective. When we design our tests, we pay particular attention to whether they will have adequate statistical power to support future decisions about program or policy changes. To progress to the “field” stage, every study must have adequate power to detect meaningful, policy-relevant effects.
+Among other things, statistical power depends on the number of units included in an evaluation and the method by which they are assigned to different treatment conditions. If an evaluation lacks sufficient statistical power, then there is a risk of ending up with a “false negative” result. A “false negative” would be a failure to detect that an effective program change really was effective. When we design our evaluations, we pay particular attention to whether they will have adequate statistical power to support future decisions about program or policy changes. To progress to the “field” stage, every evaluation must have adequate power to detect meaningful, policy-relevant effects.
 
 ## Analysis Plans
 
