@@ -1,6 +1,6 @@
 {% if header %}
-<header class="usa-header usa-header-{{ header.type | default: 'extended' }}" role="banner">
-  {% include banner.html %}
+<header class="usa-header usa-header--{{ header.type | default: 'extended' }}" role="banner">
+  {% include components/banner.html %}
 
   {% if header %}
   <div class="usa-nav-container">
