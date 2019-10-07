@@ -6,12 +6,16 @@
 
 // at the very least, you should set the USWDS font and image paths
 // to the correct paths relative to assets/main.css, like so:
-$font-path: '../uswds/fonts';
-$image-path: '../uswds/img';
 $logo-url: "{{ site.baseurl }}{{ site.logo }}";
 
-$output-bourbon-deprecation-warnings: false !default;
+// Add USWDS Settings files
+@import 'theme/uswds-theme-general';
+@import 'theme/uswds-theme-typography';
+@import 'theme/uswds-theme-spacing';
+@import 'theme/uswds-theme-color';
+@import 'theme/uswds-theme-utilities';
+@import 'theme/uswds-theme-components';
 
 @import 'core/variables';
 @import 'uswds/uswds';
-@import 'all';
+//@import 'all';
