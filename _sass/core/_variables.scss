@@ -1,29 +1,27 @@
 // Typography ------------- //
 
-$helvetica: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-$font-sans: "Lato", $helvetica;
-$font-headings: $font-sans;
-$font-heavy: 900;
+$font-heavy: 'heavy';
 
-$base-line-height: 1.7em;
-$base-font-size: 1.8rem;
-$h1-font-size: 4.2rem;
-$h3-font-size: 2.2rem;
-$h4-font-size: 1.6rem;
+$base-line-height: 5;
+$h1-font-size: 14;
+$h3-font-size: 9;
+$h4-font-size: 5;
 
 // Colors ------------- //
 
-$color-brand: #2FCFC4;
-$color-brand-tint: #94B8B4;
-$color-brand-light: #F2FBFA;
-$color-brand-medium: #205493;
-$color-brand-dark: #38756F;
-$color-brand-dark-hover: darken($color-brand-dark, 10%);
-$color-brand-dark-active: darken($color-brand-dark, 20%);
+$color-brand: 'primary-vivid';
+$color-brand-tint: 'primary-light';
+$color-brand-light: 'primary-lighter';
+$color-brand-medium: 'accent-cool';
+$color-brand-dark: 'primary';
+$color-brand-dark-hover: 'primary-dark';
+$color-brand-dark-active: 'primary-darker';
+$color-white: 'white';
+$color-base: 'ink';
+$color-primary-darker: 'secondary-dark';
+$color-primary-darkest: 'secondary-dark';
 
 // Magic numbers ------- //
 
-$nav-width: 892px;
-$display-kerning: -0.4px;
-
-
+$nav-width: 'tablet-lg';
+$display-kerning: 'ls-neg-1';

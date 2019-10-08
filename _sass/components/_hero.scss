@@ -1,28 +1,34 @@
 // Hero feature ------------- //
 
-.usa-hero-callout {
-  h2 {
-    color: $color-white;
-    font-weight: $font-heavy;
-    letter-spacing: $display-kerning;
+.usa-hero__callout {
+  background-color: color('primary');
+
+  h1 {
+    @include typeset('heading', 12, 3)
+    color: color($color-white);
+    font-weight: fw($font-heavy);
+    letter-spacing: ls($display-kerning);
+    @include at-media('desktop') {
+      @include u-font-size('heading', 15);
+    }
   }
 
   .usa-button {
-    background-color: $color-white;
-    color: $color-primary-darkest;
+    background-color: color($color-white);
+    color: color('secondary-dark');
     font-size: inherit;
+    margin-top: units(8);
+    width: 100%;
 
     &:hover {
-      background-color: rgba($color-white, 0.8);
+      background-color: color('white-transparent-80');
       color: $color-base;
     }
 
     &:active {
-      background-color: rgba($color-white, 0.6);
+      background-color: color('white-transparent-60');
     }
   }
 
-  @include media($small-screen) {
-    max-width: 350px;
-  }
+  max-width: units('mobile-lg');
 }

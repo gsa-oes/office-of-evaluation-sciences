@@ -98,6 +98,6 @@ body:not(.page-home) {
   }
 
   h3 {
-    color: $color-primary-darker;
+    color: color('secondary-dark');
   }
 }

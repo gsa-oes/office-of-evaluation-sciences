@@ -1,2 +1,6 @@
 // Custom styles --------- //
 
+// uswds shims
+.usa-banner .usa-accordion {
+  @include typeset('ui');
+}
