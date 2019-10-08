@@ -29,4 +29,4 @@ Platform users were randomly assigned to one of the four conditions based on the
 
 We did not observe any statistically significant differences in click-through rates between the ad variations.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1736-pregnancy-vaccines-ads-analysis.pdf">click here</a>.</i>

@@ -27,3 +27,5 @@ FSA mailed the new letter to a sampling of farmers in randomly- selected zip cod
 ## What was the impact?
 
 The letters more than doubled the amount of microloan-related activity in FSA county offices, and increased the number of successful applicant from approximately .09% percent to .11% percent.
+
+

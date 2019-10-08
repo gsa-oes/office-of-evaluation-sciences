@@ -30,5 +30,3 @@ To evaluate the effectiveness  of this method of outreach,  half of the potentia
 ## What was the impact?
 
 The treatment group bid about $7,670,000 more in total than the control group during this period (in which the experiment sent approximately 800,000 emails to approximately 37,000 users across 7120 lots). OES estimated the effect of the emails also more than doubled the rate of participation in the targeted auction (i.e. bidding more than zero).
-
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>

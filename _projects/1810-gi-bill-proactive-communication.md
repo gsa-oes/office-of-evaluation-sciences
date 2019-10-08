@@ -30,4 +30,4 @@ The results suggest that there was a small and statistically significant increas
 
 This collaboration adds to the growing body of evidence on the positive effect of proactive communications to increase postsecondary enrollment intensity. Beneficiaries not enrolled full-time who were sent an email enrolled in more credits during the fall term; however, at a small scale. 
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1810-analysis-plan.pdf">click here</a>.</i>
