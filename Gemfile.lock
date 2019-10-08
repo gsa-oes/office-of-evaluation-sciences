@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: 420d6b4c47558acac7fdb5647b1547fa64d32667
+  revision: b95c0b9bc46d6e0cfbbfaa5e3971ea11cdeb5bf5
   branch: update-uswds-2.0
   specs:
     uswds-jekyll (4.2.0)
