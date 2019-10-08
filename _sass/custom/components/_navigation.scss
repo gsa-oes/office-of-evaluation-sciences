@@ -22,13 +22,14 @@
   }
 }
 
-.usa-nav__primary > .usa-nav__primary-item > a:hover,
-.usa-nav__primary > .usa-nav__primary-item > a.usa-current
- {
+.usa-nav__primary > .usa-nav__primary-item {
+ & > a:hover,
+ & > a.usa-current {
   @include at-media($theme-header-min-width) {
     @include nav-border;
   }
   span {
     color: color($color-base);
   }
+ }
 }
