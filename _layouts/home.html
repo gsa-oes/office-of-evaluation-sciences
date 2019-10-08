@@ -1,74 +1,85 @@
 ---
-layout: default
+layout: base
 ---
 
 {% assign hero = page.hero %}
 {% include components/hero.html %}
 
 {% if page.tagline and page.intro %}
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-third">
-    <h2>{{ page.tagline }}</h2>
-  </div>
-  <div class="usa-width-two-thirds">
-    {{ page.intro | markdownify }}
-  </div>
-</section>
+  <section class="grid-container usa-section">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-4">
+        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">{{ page.tagline }}</h2>
+      </div>
+      <div class="tablet:grid-col-8 usa-prose">
+        {{ page.intro | markdownify }}
+      </div>
+    </div>
+  </section>
 {% endif %}
-<section class="usa-section background-white">
-  <div class="usa-grid main-content">
-     <div class= "usa-grid" align="center">
-      <div class="videoWrapper">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/T_Vk4gwCs58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-       </div>
+
+<section class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row flex-justify-center">
+      <div class="videoWrapper grid-col flex-auto">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/T_Vk4gwCs58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
 </section>
-<section class="usa-section background-light">
-  <div class="usa-grid main-content">
-    <div class="usa-grid">
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/costsavings">Achieved $8M+ in cost savings and revenue in less than 15 months</a></center></h3>
-        <br/><br/>
-        <p><center><img src="{{ '/assets/img/icons/example1.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+
+<section class="usa-section bg-secondary-lighter">
+  <div class="grid-container main-content">
+    <div class="grid-row grid-gap">
+      {% assign icon_classes = 'square-10 display-block margin-x-auto margin-top-4' %}
+      <div class="tablet:grid-col-3">
+        <h3 class="text-center"><a href="https://oes.gsa.gov/costsavings">Achieved $8M+ in cost savings and revenue in less than 15 months</a></h3>
+        <img
+          src="{{ site.baseurl }}/assets/img/icons/example1.png"
+          class="{{ icon_classes}}">
       </div>
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/retirement">Enrolled more than 20,000 active duty servicemembers into retirement savings plans</a></center></h3>
-           <br/><br/>
-         <p><center><img src="{{ '/assets/img/icons/example2.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      <div class="tablet:grid-col-3">
+        <h3 class="text-center"><a href="https://oes.gsa.gov/retirement">Enrolled more than 20,000 active duty servicemembers into retirement savings plans</a></h3>
+        <img
+          src="{{ site.baseurl }}/assets/img/icons/example2.png"
+          class="{{ icon_classes}}">
       </div>
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/vaccines">Informed more than half a million Americans about the benefits of getting vaccinated</a></center></h3>
-        <br/>
-       <p><center><img src="{{ '/assets/img/icons/example3.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      <div class="tablet:grid-col-3">
+        <h3 class="text-center"><a href="https://oes.gsa.gov/vaccines">Informed more than half a million Americans about the benefits of getting vaccinated</a></h3>
+        <img
+          src="{{ site.baseurl }}/assets/img/icons/example3.png"
+          class="{{ icon_classes}}">
       </div>
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/projects/reducing-summer-melt/">Showed text message reminders could increase college enrollment by 6%</a></center></h3>
-        <br/><br/>
-        <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
+      <div class="tablet:grid-col-3">
+        <h3 class="text-center"><a href="https://oes.gsa.gov/projects/reducing-summer-melt/">Showed text message reminders could increase college enrollment by 6%</a></h3>
+        <img
+          src="{{ site.baseurl }}/assets/img/icons/example4.png"
+          class="{{ icon_classes}}">
       </div>
     </div>
     {% if page.content-button-link %}
-      <center>
-        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-      </center>
+      <div class="margin-top-4 text-center">
+        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button--big bg-secondary-dark hover:bg-secondary-darker">{{ page.content-button-text }}</a>
+      </div>
     {% endif %}
-    </div>
-  </section>
+  </div>
+</section>
+
 {% assign featuredprojects = site.projects | where: "featured" , "homepage" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-<section class="usa-section featured background-light">
-  <div class="usa-grid">
-      <h2>Featured Projects</h2>
-     <div class="project-container">
-        {% for project in featuredprojects %}
-        {% include projects.html %}
-        {% endfor %}
-  </div>
+<section class="usa-section featured bg-secondary-lighter">
+  <div class="grid-container">
+    <h2>Featured Projects</h2>
+    <div class="project-container">
+      {% for project in featuredprojects %}
+      {% include projects.html %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 {% endif %}
 
-<section class="usa-section background-tint">
-{% include contact.html %}
+<section class="usa-section bg-white">
+  {% include contact.html %}
 </section>
