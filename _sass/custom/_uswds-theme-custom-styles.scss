@@ -1,8 +1,52 @@
-// Custom styles --------- //
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+Custom project SASS goes here.
+----------------------------------------
+*/
+
 
 @import 'all';
 
+// why does this need an override?
+.usa-header .usa-logo .usa-logo-img {
+  height: auto;
+}
+
+.usa-logo-img > * {
+  display: block;
+}
+
 // uswds shims
-.usa-banner .usa-accordion {
-  @include typeset('ui');
+.usa-banner,
+.usa-nav {
+  .usa-accordion {
+    @include typeset('ui');
+  }
+}
+
+@include at-media($theme-header-min-width) {
+  .usa-header--basic {
+    .usa-nav {
+      @include u-flex(1);
+    }
+    .usa-nav-container {
+      @include u-flex('align-center');
+    }
+    .usa-nav {
+      padding-bottom: 0;
+    }
+  }
+
+  .usa-logo {
+    @include u-margin-y(4);
+  }
 }

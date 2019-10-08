@@ -1,0 +1,34 @@
+// Navigation ------------- //
+
+@mixin nav-border {
+  &:after {
+    background-color: color($color-brand);
+    height: units(0.5);
+    bottom: units(-0.5);
+  }
+}
+// .usa-nav-primary a.usa-current span
+// .usa-nav .usa-current > span
+// Add correct current nav link style
+.usa-nav {
+  @include at-media($theme-header-min-width) {
+    padding-top: unites(4);
+  }
+
+  a {
+    &.usa-current:after {
+      background-color: color($color-brand);
+    }
+  }
+}
+
+.usa-nav__primary > .usa-nav__primary-item > a:hover,
+.usa-nav__primary > .usa-nav__primary-item > a.usa-current
+ {
+  @include at-media($theme-header-min-width) {
+    @include nav-border;
+  }
+  span {
+    color: color($color-base);
+  }
+}

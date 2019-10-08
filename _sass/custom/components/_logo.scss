@@ -1,0 +1,14 @@
+.usa-header--basic {
+  .usa-logo a {
+    color: color('base');
+  }
+}
+
+.logo-icon {
+  width: units(4);
+  height: auto;
+
+  @include at-media($theme-header-min-width) {
+    width: units(5);
+  }
+}

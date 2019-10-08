@@ -2,7 +2,6 @@
 layout: home
 permalink: /
 hero:
-  image: /assets/img/kites.jpg
   callout:
     text: "We believe government works best when it's built for people."
   button:
