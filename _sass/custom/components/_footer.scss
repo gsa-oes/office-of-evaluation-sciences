@@ -1,49 +1,52 @@
 // Footer ------------- //
 
 footer {
-  font-size: 1.2rem;
+  @include typeset('alt', '3xs')
 
   a {
-    font-family: $font-sans;
-    font-weight: $font-bold !important;
+    @include u-font('alt', '3xs');
+    font-weight: fw('bold') !important;
     text-decoration: none;
   }
 
-  .logo-icon {
+  .logo-icon,
+  .usa-footer-logo-img {
+    @include u-square(7);
     float: initial;
-    height: 61px;
-    width: 61px;
-  }
-}
-
-.footer-logo-links {
-  @include media($medium-screen) {
-    @include span-columns(6);
   }
 }
 
 .footer-links {
-  @include media($medium-screen) {
-    @include span-columns(2);
+  margin-bottom: units(3);
+
+  li {
+    margin-bottom: 0;
   }
 }
 
-.footer-links-heading {
-  font-size: 1.2rem;
-  font-weight: 400;
+.footer-logo-links {
+  margin-bottom: units(2);
+}
 
-  @include media($medium-screen) {
+.footer-links-heading {
+  @include u-font('alt', '3xs');
+  font-weight: fw('normal');
+  margin-bottom: units(1);
+
+  @include at-media('tablet') {
     margin-top: 0;
   }
 }
 
 .icon-twitter {
-  margin-right: 10px;
+  margin-right: units(1);
 }
 
 .usa-footer-logo-img {
-  @include media($medium-screen) {
+  margin-left: units(1);
+
+  @include at-media('tablet') {
     // float: right;
-    margin-top: -60px;
+    margin-top: units(-7);
   }
 }

@@ -12,9 +12,8 @@
   }
 
   label {
-    font-family: $font-sans;
-    font-size: 17px;
-    font-weight: $font-bold;
+    @include u-font('alt', 'md');
+    font-weight: fw('bold');
   }
 }
 
@@ -23,41 +22,36 @@
 
 .contact-form {
   .usa-button {
-    @include media($medium-screen) {
+    @include at-media('tablet') {
       margin-bottom: 0;
-      margin-top: 0.2em;
+      margin-top: units(2);
     }
 
     &:hover {
-      background-color: color('secondary-dark')-hover;
+      background-color: color('secondary-dark');
     }
 
     &:active {
-      background-color: color('secondary-dark')-active;
+      background-color: color('secondary-darker');
     }
-  }
-}
-
-.contact-input {
-  @include media($medium-screen) {
-    float: left;
-    margin-right: 10px;
-    width: calc(100% - 186px);
   }
 }
 
 .privacy-policy {
-  @include media($medium-screen) {
-    border-left: 1px solid $color-brand-tint;
-    padding-bottom: 3rem;
-    padding-left: 3rem;
+  @include at-media('tablet') {
+    border-left: units(1px) solid color('secondary-light');
+    padding-left: units(4);
   }
 
   * {
-    color: color('secondary-dark');
+    color: color('secondary');
   }
 }
 
 .icon-privacy {
-  margin-top: 3rem;
+  margin-top: units(4);
+
+  @include at-media('tablet') {
+    margin-top: units(0);
+  }
 }

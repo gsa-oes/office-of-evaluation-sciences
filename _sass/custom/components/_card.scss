@@ -9,9 +9,9 @@
   padding-bottom: units(4);
   position: relative;
   text-decoration: none;
-  width: auto;
+  width: 100%;
 
-  @include at-media('tablet') {
+  @include at-media('tablet-lg') {
     display: flex;
     flex-direction: column;
   }
@@ -32,7 +32,7 @@
 .card-banner {
   @include u-margin(4);
 
-  @include at-media('tablet') {
+  @include at-media('tablet-lg') {
     @include u-flex(1);
   }
 }
