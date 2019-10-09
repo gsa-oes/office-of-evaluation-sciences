@@ -2,7 +2,7 @@
 
 // Sets a height on projects so they're the same height and don't break the grid
 .card {
-  box-shadow: 0 0 0 1px color('base-lighter');
+  border: units(1px) solid color('base-lighter');
   display: block;
   height: auto;
   margin-bottom: units(4);
@@ -17,7 +17,7 @@
   }
 
   &:hover {
-    box-shadow: 0 0 0 1px color('primary');
+    border-color: color('primary');
   }
 
   &:active {
@@ -26,18 +26,14 @@
 }
 
 .card-link {
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0;
-  position: absolute;
+  @include u-pin('all');
 }
 
 .card-banner {
   @include u-margin(4);
 
   @include at-media('tablet') {
-    flex: 1 0 auto;
+    @include u-flex(1);
   }
 }
 
@@ -70,7 +66,7 @@
   @include u-margin-x(4);
   @include u-font('body', 4);
   color: color('primary');
-  font-weight: bold;
+  font-weight: fw('bold');
   text-decoration: none;
 
   &:visited {
