@@ -33,32 +33,40 @@ layout: base
     <div class="grid-row grid-gap">
       {% assign icon_classes = 'square-10 display-block margin-x-auto margin-top-4' %}
       <div class="tablet:grid-col-3">
-        <h3 class="text-center"><a href="https://oes.gsa.gov/costsavings">Achieved $8M+ in cost savings and revenue in less than 15 months</a></h3>
-        <img
-          src="{{ site.baseurl }}/assets/img/icons/example1.png"
-          class="{{ icon_classes}}">
+        <div class="site-callout">
+          <h3 class="text-center"><a href="https://oes.gsa.gov/costsavings">Achieved $8M+ in cost savings and revenue in less than 15 months</a></h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/icons/example1.png"
+            class="{{ icon_classes}}">
+        </div>
       </div>
       <div class="tablet:grid-col-3">
-        <h3 class="text-center"><a href="https://oes.gsa.gov/retirement">Enrolled more than 20,000 active duty servicemembers into retirement savings plans</a></h3>
-        <img
-          src="{{ site.baseurl }}/assets/img/icons/example2.png"
-          class="{{ icon_classes}}">
+        <div class="site-callout">
+          <h3 class="text-center"><a href="https://oes.gsa.gov/retirement">Enrolled more than 20,000 active duty servicemembers into retirement savings plans</a></h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/icons/example2.png"
+            class="{{ icon_classes}}">
+        </div>
       </div>
       <div class="tablet:grid-col-3">
-        <h3 class="text-center"><a href="https://oes.gsa.gov/vaccines">Informed more than half a million Americans about the benefits of getting vaccinated</a></h3>
-        <img
-          src="{{ site.baseurl }}/assets/img/icons/example3.png"
-          class="{{ icon_classes}}">
+        <div class="site-callout">
+          <h3 class="text-center"><a href="https://oes.gsa.gov/vaccines">Informed more than half a million Americans about the benefits of getting vaccinated</a></h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/icons/example3.png"
+            class="{{ icon_classes}}">
+          </div>
       </div>
       <div class="tablet:grid-col-3">
-        <h3 class="text-center"><a href="https://oes.gsa.gov/projects/reducing-summer-melt/">Showed text message reminders could increase college enrollment by 6%</a></h3>
-        <img
-          src="{{ site.baseurl }}/assets/img/icons/example4.png"
-          class="{{ icon_classes}}">
+        <div class="site-callout">
+          <h3 class="text-center"><a href="https://oes.gsa.gov/projects/reducing-summer-melt/">Showed text message reminders could increase college enrollment by 6%</a></h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/icons/example4.png"
+            class="{{ icon_classes}}">
+        </div>
       </div>
     </div>
     {% if page.content-button-link %}
-      <div class="margin-top-4 text-center">
+      <div class="text-center">
         <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button--big bg-primary-dark hover:bg-secondary-darker">{{ page.content-button-text }}</a>
       </div>
     {% endif %}
