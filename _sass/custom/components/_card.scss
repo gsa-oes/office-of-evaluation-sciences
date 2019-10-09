@@ -2,27 +2,26 @@
 
 // Sets a height on projects so they're the same height and don't break the grid
 .card {
-  box-shadow: 0 0 0 1px $color-gray-lighter;
+  box-shadow: 0 0 0 1px color('base-lighter');
   display: block;
-  margin-bottom: 3rem;
-  padding-bottom: 3rem;
+  height: auto;
+  margin-bottom: units(4);
+  padding-bottom: units(4);
   position: relative;
   text-decoration: none;
+  width: auto;
 
-  @include media($medium-screen) {
+  @include at-media('tablet') {
     display: flex;
     flex-direction: column;
-    margin-right: 2.3%;
-    min-height: 450px;
-    width: 31%;
   }
 
   &:hover {
-    box-shadow: 0 0 0 1px $color-primary;
+    box-shadow: 0 0 0 1px color('primary');
   }
 
   &:active {
-    box-shadow: $focus-shadow;
+    // TODO: how to apply outline box-shadow: $focus-shadow;
   }
 }
 
@@ -35,9 +34,9 @@
 }
 
 .card-banner {
-  @include margin(3rem);
+  @include u-margin(4);
 
-  @include media($medium-screen) {
+  @include at-media('tablet') {
     flex: 1 0 auto;
   }
 }
@@ -46,18 +45,19 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  min-height: 200px;
+  min-height: units('card');
   width: 100%;
 }
 
-.card-description.card-description {
-  color: $color-primary;
+.card-description {
+  @include u-font('heading', 'lg');
+  color: color('primary');
   margin-top: 0;
 }
 
 .card-summary {
-  color: $color-base;
-  font-size: 16px;
+  @include typeset('body', 'sm', 5);
+  color: color('ink');
   margin-bottom: 0;
 
   em {
@@ -66,21 +66,21 @@
 }
 
 .card-read {
-  @include margin(0 3rem null 3rem);
-  color: $color-primary;
-  font-size: $small-font-size;
+  @include u-margin-top(0);
+  @include u-margin-x(4);
+  @include u-font('body', 4);
+  color: color('primary');
   font-weight: bold;
   text-decoration: none;
 
   &:visited {
-    color: $color-primary;
+    color: color('primary');
   }
 
   svg {
+    @include u-square(1.5);
     display: inline-block;
-    height: 1.2rem;
-    margin-bottom: -1px;
-    width: 1.2rem;
-    margin-left: 4px;
+    margin-bottom: units(-1px);
+    margin-left: units(0.5);
   }
 }

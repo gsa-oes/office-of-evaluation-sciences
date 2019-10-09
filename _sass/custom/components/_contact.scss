@@ -29,11 +29,11 @@
     }
 
     &:hover {
-      background-color: $color-brand-dark-hover;
+      background-color: color('secondary-dark')-hover;
     }
 
     &:active {
-      background-color: $color-brand-dark-active;
+      background-color: color('secondary-dark')-active;
     }
   }
 }
@@ -54,7 +54,7 @@
   }
 
   * {
-    color: $color-brand-dark;
+    color: color('secondary-dark');
   }
 }
 
