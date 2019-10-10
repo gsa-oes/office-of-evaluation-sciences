@@ -36,6 +36,26 @@ Custom project SASS goes here.
   }
 }
 
+h1 {
+  @include u-font('heading', '3xl');
+}
+
+.usa-prose {
+  > p {
+    @include u-measure(5);
+    @include u-line-height('body', 6);
+    @include at-media('tablet') {
+      @include u-font('body', 'lg');
+    }
+  }
+  > h2 {
+    color: color('primary');
+    @include at-media('tablet') {
+      @include u-font('heading', '2xl');
+    }
+  }
+}
+
 // uswds shims
 .usa-banner,
 .usa-nav {

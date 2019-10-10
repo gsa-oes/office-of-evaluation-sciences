@@ -1,14 +1,14 @@
 // Billboard ------------- //
 
 .billboard {
-  @include margin(2rem null);
+  @include u-margin-y(2.5);
 
   .usa-media_block-img {
     display: none;
-    margin-right: 26px;
-    margin-top: 21px;
+    margin-right: units(4);
+    margin-top: units(2.5);
 
-    @include media($medium-screen) {
+    @include at-media('tablet') {
       display: block;
     }
   }
@@ -18,18 +18,18 @@
   }
 }
 
-.billboard-message {
-  color: #81848B;
-  font-family: $font-sans;
-  font-size: 38px;
-  font-weight: $font-bold;
-  letter-spacing: $display-kerning;
-  line-height: $heading-line-height;
+.billboard-message,
+.usa-prose .billboard-message {
+  @include u-font('heading', '3xl');
+  @include u-measure(2);
+  color: color('base');
+  font-weight: fw('bold');
+  letter-spacing: ls(-1);
+  line-height: lh('alt', $heading-line-height);
   margin: 0 auto;
-  max-width: 720px;
 
   p {
-    line-height: 1.3;
+    line-height: lh('alt', 3);
     margin-top: 0;
   }
 
@@ -40,13 +40,13 @@
 }
 
 .billboard-img {
-  @include media($medium-screen) {
-    @include span-columns(2);
+  @include at-media('tablet') {
+    //@include span-columns(2);
   }
 }
 
 .icon-gears {
-  @include media($medium-screen) {
+  @include at-media('tablet') {
     display: block;
     float: right;
     width: 100%;

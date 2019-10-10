@@ -1,7 +1,7 @@
 ---
 layout: methods
 title: Evaluation Methods
-permalink: /evaluationmethods/
+permalink: /methods/
 image:
 image_full: true
 class:

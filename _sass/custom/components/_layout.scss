@@ -75,7 +75,7 @@ body:not(.page-home) {
 
 .background-brand-dark {
   @include background-dark;
-  background-color: color('secondary-dark');
+  background-color: color('secondary');
 }
 
 .background-light,
