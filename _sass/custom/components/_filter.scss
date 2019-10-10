@@ -8,12 +8,12 @@
   }
 
   li {
-    @include media($small-screen) {
+    @include at-media($small-screen) {
       display: inline-block;
     }
   }
 
-  .usa-accordion-button {
+  .usa-accordion__button {
     background-color: color('secondary-lighter');
     color: color('secondary-dark');
 
@@ -30,17 +30,17 @@
     }
   }
 
-  .usa-accordion-content {
+  .usa-accordion__content {
     background-color: color('secondary-lighter');
     margin-top: 2px;
     padding: 0;
   }
 
-  .usa-button-outline {
+  .usa-button--outline {
     background-color: transparent;
     box-shadow: inset 0 0 0 2px $color-brand-dark;
     color: color('secondary-dark');
-    font-weight: $font-bold;
+    font-weight: fw('bold');
 
     &:hover {
       background-color: transparent;
@@ -49,11 +49,11 @@
     }
 
     &:focus {
-     box-shadow: inset 0 0 0 2px $color-brand-dark, $focus-shadow;
+     //TODO: box-shadow: inset 0 0 0 2px $color-brand-dark, $focus-shadow;
     }
 
     &:active {
-     box-shadow: inset 0 0 0 2px $color-brand-dark-hover, $focus-shadow;
+     //TODO: box-shadow: inset 0 0 0 2px $color-brand-dark-hover, $focus-shadow;
     }
   }
 
@@ -66,8 +66,8 @@
     }
   }
 
-  input:focus + .usa-button-outline {
-      box-shadow: $focus-shadow;
+  input:focus + .usa-button--outline {
+    // TODO: figure this out box-shadow: $focus-shadow;
   }
 
   label:before {
@@ -75,7 +75,9 @@
   }
 
   input {
+    display: block;
     height: 0;
+    opacity: 0;
     position: relative;
   }
 }
@@ -85,10 +87,9 @@
 }
 
 .filter-button-message {
+  @include u-font('body', '2xs');
   color: color('ink');
-  font-family: $font-serif;
-  font-weight: $font-normal;
-  font-size: $small-font-size;
+  font-weight: fw('normal');
 }
 
 .filter-section {
@@ -98,8 +99,8 @@
 }
 
 .filter-category {
-  font-size: $base-font-size;
-  font-weight: $font-bold;
+  @include u-font('heading', 'sm');
+  font-weight: fw('bold');
   margin-bottom: 7px;
   margin-top: 7px;
 }
@@ -108,6 +109,7 @@
   overflow: hidden;
 
   button {
-    @include margin(5px 6px 5px null);
+    @include u-margin-y(0.5);
+    @include u-margin-right(0.5);
   }
 }
