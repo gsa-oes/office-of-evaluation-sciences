@@ -3,7 +3,6 @@
 // Sets a height on projects so they're the same height and don't break the grid
 .card {
   border: units(1px) solid color('base-lighter');
-  display: block;
   height: auto;
   margin-bottom: units(4);
   padding-bottom: units(4);
@@ -22,6 +21,12 @@
 
   &:active {
     // TODO: how to apply outline box-shadow: $focus-shadow;
+  }
+}
+
+.project-col {
+  &[hidden] {
+    display: none;
   }
 }
 

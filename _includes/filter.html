@@ -1,4 +1,4 @@
-<div class="usa-accordion filter">
+<div class="usa-accordion filter margin-top-4">
   <h2 class="usa-accordion__heading">
     <button class="usa-accordion__button"
       aria-expanded="false" aria-controls="filter">
@@ -15,7 +15,7 @@
           <ul class="add-list-reset tablet:grid-col">
             <li>
               <input id="{{ filter.key }}-all" type="radio" checked name="{{ filter.key }}">
-              <label class="usa-button usa-button-outline" for="{{ filter.key }}-all">All</label>
+              <label class="usa-button usa-button--outline" for="{{ filter.key }}-all">All</label>
             </li>
             {% capture void %}
             {% assign values = '' | split: '' %}

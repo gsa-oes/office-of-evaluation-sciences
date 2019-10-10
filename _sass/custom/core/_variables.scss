@@ -10,21 +10,22 @@ $h4-font-size: 5;
 
 // Colors ------------- //
 
-$color-brand: 'secondary-vivid';
-$color-brand-tint: 'secondary-light';
-$color-brand-light: 'secxondary-lighter';
-$color-brand-medium: 'secondary';
-$color-brand-dark: 'secondary-dark';
-$color-brand-dark-hover: 'secondary-darker';
-$color-brand-dark-active: 'secondary-darker';
-$color-white: 'white';
-$color-base: 'ink';
-$color-primary-darker: 'primary-darker';
-$color-primary-darkest: 'primary-dark';
+$color-brand:               'secondary-vivid';
+$color-brand-tint:          'secondary-light';
+$color-brand-light:         'secondary-lighter';
+$color-brand-medium:        'secondary';
+$color-brand-dark:          'secondary-dark';
+$color-brand-dark-hover:    'secondary-darker';
+$color-brand-dark-active:   'secondary-darker';
+$color-white:               'white';
+$color-base:                'ink';
+$color-primary-darker:      'primary-darker';
+$color-primary-darkest:     'primary-dark';
+$color-gray-medium:         'base';
 
 // Magic numbers ------- //
 
-$nav-width: 'tablet-lg';
-$display-kerning: 'ls-neg-1';
-$small-screen: 'mobile-lg';
-$medium-screen: 'tablet';
+$nav-width:                 'tablet-lg';
+$display-kerning:           'ls-neg-1';
+$small-screen:              'mobile-lg';
+$medium-screen:             'tablet';

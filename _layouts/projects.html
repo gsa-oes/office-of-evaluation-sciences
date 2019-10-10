@@ -12,7 +12,9 @@ scripts:
   - src: /assets/js/filters.js
 ---
 
-{{ content }}
+<div class="usa-prose">
+  {{ content }}
+</div>
 
 {% include filter.html items=site.projects filters=layout.filters %}
 <div class="margin-top-4">
