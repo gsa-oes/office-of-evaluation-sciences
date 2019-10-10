@@ -21,19 +21,28 @@ scripts:
 {{ content }}
 {% include filter.html items=site.team filters=layout.filters %}
 
-<section class="usa-graphic_list">
-{% for team in site.team %}
-  <div class="usa-width-one-half usa-media_block js-filterable" {% for filter in layout.filters %}
-    data-{{ filter.key }}="{{ team[filter.key] | jsonify | xml_escape }}"{% endfor %}>
-    <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
-    <div class="usa-media_block-body">
-      <h3>
-        <a href="{{ site.baseurl }}{{ team.url }}">
-          {{ team.name }}
-        </a>
-      </h3>
-      <p>{{ team.title | join: ", " }}</p>
-    </div>
+<section class="usa-graphic-list">
+  <div class="grid-row grid-gap">
+    {% for team in site.team %}
+      <div class="usa-media-block tablet:grid-col-6 js-filterable" {% for filter in layout.filters %}
+        data-{{ filter.key }}="{{ team[filter.key] | jsonify | xml_escape }}"{% endfor %}>
+        <div class="display-flex flex-align-center">
+          <div
+            class="usa-media-block__img team-image"
+            role="image"
+            aria-label="{{ team.name }}"
+            style="background-image: url({{ team.image | prepend: site.baseurl }});">
+          </div>
+          <div class="usa-media-block__body usa-prose">
+            <h3 class="usa-graphic-list__heading">
+              <a href="{{ site.baseurl }}{{ team.url }}">
+                {{ team.name }}
+              </a>
+            </h3>
+            <p>{{ team.title | join: ", " }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
   </div>
-{% endfor %}
-</div>
+</section>
