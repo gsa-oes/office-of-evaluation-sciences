@@ -1,18 +1,18 @@
 // Single project page ------------- //
 
 .image-credit {
-  color: $color-gray-medium;
-  font-size: 1.2rem;
-  margin-bottom: 3rem;
-  margin-top: 4px;
+  @include u-font('body', '2xs');
+  color: color($color-gray-medium);
+  margin-bottom: units(4);
+  margin-top: units(0.5);
 
-  @include media($medium-screen) {
-    min-height: 14px;
+  @include at-media($medium-screen) {
+    min-height: units(2);
   }
 }
 
 .page-project-single {
   .main-content {
-    padding-top: 3rem;
+    padding-top: units(4);
   }
 }
