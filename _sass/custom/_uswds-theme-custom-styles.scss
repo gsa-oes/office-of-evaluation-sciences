@@ -54,6 +54,11 @@ h1 {
       @include u-font('heading', '2xl');
     }
   }
+  > h3 {
+    @include at-media('tablet') {
+      @include u-font('heading', 'xl');
+    }
+  }
 }
 
 // uswds shims
