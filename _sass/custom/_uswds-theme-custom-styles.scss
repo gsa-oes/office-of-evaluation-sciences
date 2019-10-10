@@ -49,7 +49,7 @@ h1 {
     }
   }
   > h2 {
-    color: color('primary');
+    color: color('secondary');
     @include at-media('tablet') {
       @include u-font('heading', '2xl');
     }
