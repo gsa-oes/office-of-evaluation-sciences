@@ -12,3 +12,9 @@
     width: units(5);
   }
 }
+
+.usa-logo {
+  @include at-media($theme-header-min-width) {
+    @include u-font('heading', 'xl');
+  }
+}
