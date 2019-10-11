@@ -6,7 +6,7 @@ tags:
   - vaccines
 image: /assets/img/project-images/1736.jpg
 image-credit: https://www.vaccines.gov/who_and_when/pregnant/index.html
-analysis-plan: /assets/analysis/1736-pregnancy-vaccines-ads-analysis.pdf
+analysis-plan: /assets/analysis/1736-testing-maternal-immunization-messages-analysis-plan.pdf
 abstract: /assets/abstracts/1736-pregnancy-vaccines-ads-abstract.pdf
 year: 2017
 domain: Health
