@@ -5,10 +5,13 @@ tags: project
 image: /assets/img/project-images/1810.jpg
 image-credit: U.S. Army photo by Nell King
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
+intervention:
 abstract: /assets/abstracts/1810-gi-bill-proactive-communication.pdf
+article:
 year: 2019
 domain: Education
 agency: Veterans Affairs
+status: Completed
 summary: A general proactive email, encouraging increased postsecondary enrollment, influenced the enrollment intensity of Post-9/11 GI Bill users
 featured: homepage
 ---
