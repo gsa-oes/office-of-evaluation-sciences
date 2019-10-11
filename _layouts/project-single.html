@@ -20,10 +20,6 @@ class: page-project-single
   <h3 class="h4">Agency</h3>
   <p>{{ page.agency  | join: ', ' }}</p>
 {% endif %}
-{% if page.domain %}
-  <h3 class="h4">Domain</h3>
-  <p>{{ page.domain }}</p>
-{% endif %}
 {% if page.analysis-plan %}
 <h3 class="h4">Resources</h3>
   <a class="usa-button" href="{{ page.analysis-plan | prepend: site.baseurl }}">View Analysis Plan</a>  
