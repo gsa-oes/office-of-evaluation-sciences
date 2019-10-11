@@ -17,12 +17,23 @@ layout: base
 {% endif %}
 <section class="usa-section background-white">
   <div class="usa-grid main-content">
-     <div class= "usa-grid" align="center">
+    <div class= "usa-grid" align="center">
       <div class="videoWrapper">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/T_Vk4gwCs58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-       </div>   
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/T_Vk4gwCs58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>   
+    </div>
   </div>
 </section>
+{% if page.what-is-oes %}
+<hr />
+<section class="usa-section background-tint">
+  <div class="usa-grid main-content">
+    <div class="usa-grid usa-font-lead">
+      <p>{{ page.what-is-oes }}</p>
+    </div>
+  </div>
+</section>
+{% endif %}
 <section class="usa-section background-light">
   <div class="usa-grid main-content">
     <div class="usa-grid">
