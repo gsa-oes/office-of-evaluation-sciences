@@ -28,8 +28,18 @@ class: page-project-single
 <h3 class="h4">Resources</h3>
   <a class="usa-button" href="{{ page.analysis-plan | prepend: site.baseurl }}">View Analysis Plan</a>  
 {% endif %}  
+{% if page.intervention %}
+  <h3 class="h4">Resources</h3>
+  <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}">View Intervention</a>
+{% endif %}
+  {% endif %}  
 {% if page.abstract %}
   <h3 class="h4">Resources</h3>
   <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
+{% endif %}
+  {% endif %}  
+{% if page.article %}
+  <h3 class="h4">Resources</h3>
+  <a class="usa-button" href="{{ page.article | prepend: site.baseurl }}">View Article</a>
 {% endif %}
 </div>
