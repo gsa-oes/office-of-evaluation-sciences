@@ -1,5 +1,18 @@
-    <article class="card usa-width-one-third js-filterable" {% for filter in layout.filters %}
-    data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
+    <article class="card usa-width-one-third js-filterable"
+    {% for filter in layout.filters %}
+      {% if filter.fields %}
+        {% assign fields = '' | split: '' %}
+        {%for filter_field in filter.fields %}
+          {% if project[filter_field] %}
+            {% assign fields = fields | push: filter_field %}
+          {% endif %}
+        {% endfor %}
+        data-{{ filter.key }}='{{ fields | jsonify | xml_escape }}'
+      {% else %}
+        data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'
+      {% endif %}
+      }
+    {% endfor %}>
       <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
       <div class="card-image"
         style="background-image: url(
