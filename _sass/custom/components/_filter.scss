@@ -46,7 +46,7 @@
     }
 
     &:focus {
-     //TODO: box-shadow: inset 0 0 0 2px $color-brand-dark, $focus-shadow;
+       @include focus-outline;
     }
 
     &:active {
@@ -64,7 +64,7 @@
   }
 
   input:focus + .usa-button--outline {
-    // TODO: figure this out box-shadow: $focus-shadow;
+    box-shadow: 0 0 0 units($theme-focus-width) color($theme-focus-color);
   }
 
   label:before {
