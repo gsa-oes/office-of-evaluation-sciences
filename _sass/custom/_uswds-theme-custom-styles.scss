@@ -41,11 +41,16 @@ h1 {
 }
 
 .usa-prose {
-  > p {
+  > p, ul, ol {
     @include u-measure(5);
     @include u-line-height('body', 6);
     @include at-media('tablet') {
       @include u-font('body', 'lg');
+    }
+  }
+  > h1 {
+    @include at-media('tablet') {
+      @include u-font('heading', '3xl');
     }
   }
   > h2 {
