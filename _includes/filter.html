@@ -40,7 +40,7 @@
               {% assign slug = value | append: '' | slugify %}
               <li>
                 <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value="{{ value | jsonify | xml_escape }}">
-                <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value | capitalize }}</label>
+                <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value | capitalize | replace: '-', ' '}}</label>
               </li>
             {% endfor %}
           </ul>
