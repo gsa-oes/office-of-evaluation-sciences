@@ -25,4 +25,4 @@ SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years 
 
 ## What was the impact?
 
-Three months after the intervention, SSI recipients who received any letter were 34 percent  more likely to have reported any earnings for the previous three months, and they reported about 75 percent more in earnings. Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.
+Three months after the intervention, **SSI recipients who received any letter were 34 percent  more likely to have reported any earnings for the previous three months, and they reported about 75 percent more in earnings.** Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.
