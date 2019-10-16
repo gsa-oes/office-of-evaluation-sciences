@@ -5,7 +5,7 @@ permalink: /contact/
 image:
 image_full: true
 class:
-summary: Our team is passionate about building and using evidence to tackle Federal priorities. 
+summary: Our team is passionate about building and using evidence to better serve the public. 
 ---
 ## Join the OES Team!
 ### Be a Fellow with the Office of Evaluation Sciences
