@@ -13,7 +13,7 @@ summary: Our team is passionate about building and using evidence to better serv
 We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for two positions based in Washington, D.C.:
 
  - **Annual Fellowship Application Now Open:** Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. One year fellowships begin in Fall 2020. [View solicitation and apply here]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY20.pdf). **Deadline: December 15, 2019.**
- - **Evidence Fellows Application Now Open:** OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. Six-month details beginning in January 2020 are open to Federal employees. [View solicitation and apply here]({{site.baseurl}}/assets/files/GSA_OES_evidenceactdetailFY20.pdf). Applications are reviewed on a rolling basis; the final deadline to apply is **November 20, 2019.**
+ - **Evidence Fellows Application Now Open:** OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. Six-month details beginning in January 2020 are open to Federal employees. [View solicitation and apply here]({{site.baseurl}}/assets/files/GSA_OES_Evidence_Fellowship_Solicitation.pdf). Applications are reviewed on a rolling basis; the final deadline to apply is **November 20, 2019.**
 
 Please send any questions to oes@gsa.gov. 
 
