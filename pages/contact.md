@@ -8,7 +8,8 @@ class:
 summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
 ---
 ## Join the OES Team!
-### Build and Use Evidence to Better Serve the Public: Be a Fellow with the Office of Evaluation Sciences
+### Build and Use Evidence to Better Serve the Public: 
+### Be a Fellow with the Office of Evaluation Sciences
 
 We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for two positions based in Washington, D.C.:
 
