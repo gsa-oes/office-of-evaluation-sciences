@@ -5,10 +5,10 @@ permalink: /contact/
 image:
 image_full: true
 class:
-summary: Our team is passionate about bringing and building evidence to tackle Federal priorities. 
+summary: Our team is passionate about building and using evidence to tackle Federal priorities. 
 ---
 ## Join the OES Team!
-### Be a Fellow with the Office of Evaluation Sciences:
+### Be a Fellow with the Office of Evaluation Sciences
 
 We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for two positions based in Washington, D.C.:
 
