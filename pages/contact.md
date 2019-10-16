@@ -17,7 +17,7 @@ We are excited to announce that the GSA Office of Evaluation Sciences (OES) is c
 
 Please send any questions to oes@gsa.gov. 
 
-*Note: A Google email is required to access the Fellowship Application. If you are unable to access the application through Google Forms, please see the [full application here]({{site.baseurl}}/assets/files//assets/files/oes-fellowship-app-2020.pdf) and send the required documents in PDF format to oes@gsa.gov with the subject line: "Last Name, First Name, OES Fellowship Application 2020." PDF document titles should also follow this format (eg, “Last Name, First Name, Cover Letter”).*
+*Note: A Google email is required to access the Fellowship Application. If you are unable to access the application through Google Forms, please see the [full application here]({{site.baseurl}}/assets/files/oes-fellowship-app-2020.pdf) and send the required documents in PDF format to oes@gsa.gov with the subject line: "Last Name, First Name, OES Fellowship Application 2020." PDF document titles should also follow this format (eg, “Last Name, First Name, Cover Letter”).*
 
  <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
  
