@@ -15,7 +15,14 @@ layout: base
   </div>
 </section>
 {% endif %}
-<section class="usa-section background-white">
+<section class="background-medium">
+  <div class="usa-grid main-content">
+     <div class= "usa-grid" align="center">
+       <h2>Join the OES Team:<br><a href="https://oes.gsa.gov/contact/">Fellowship Applications Now Open</a></h2>
+    </div>
+  </div>
+    </section>
+<section class="usa-section background-tint">
   <div class="usa-grid main-content">
      <div class= "usa-grid" align="center">
       <div class="videoWrapper">
@@ -23,7 +30,7 @@ layout: base
        </div>   
   </div>
 </section>
-<section class="usa-section background-light">
+<section class="usa-section background-medium">
   <div class="usa-grid main-content">
     <div class="usa-grid">
       <div class="usa-width-one-fourth">
@@ -57,7 +64,7 @@ layout: base
 {% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-<section class="usa-section featured background-light">
+<section class="usa-section featured background-tint">
   <div class="usa-grid">
       <h2>Featured Projects</h2>
      <div class="project-container">
