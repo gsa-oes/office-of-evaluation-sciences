@@ -15,9 +15,9 @@ We are excited to announce that the GSA Office of Evaluation Sciences (OES) is c
  - **Annual Fellowship:** Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. One year fellowships begin in Fall 2020. [View solicitation]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY20.pdf) and <a href="https://docs.google.com/forms/d/e/1FAIpQLSeg363IcmlNNtvVHYN82KDXRrit8e10NEP0o021rR7_QFIOcA/viewform">apply here.</a> **Deadline: December 15, 2019.**
  - **Evidence Fellowship:** OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. Six-month details beginning in January 2020 are open to Federal employees. [View solicitation and apply here]({{site.baseurl}}/assets/files/GSA_OES_Evidence_Fellowship_Solicitation.pdf). Applications are reviewed on a rolling basis; **the final deadline to apply is November 20, 2019.**
 
-Please send any questions to oes@gsa.gov. 
+Please send any questions to <a href="mailto:oes@gsa.gov?subject=Fellowship Question">oes@gsa.gov.</a>
 
-*Note: A Google email is required to access the Annual Fellowship Application. If you are unable to access the application through Google Forms, please see the [full application here]({{site.baseurl}}/assets/files/oes-fellowship-app-2020.pdf) and send the required documents in PDF format to oes@gsa.gov with the subject line: "Last Name, First Name, OES Fellowship Application 2020." PDF document titles should also follow this format (eg, “Last Name, First Name, Cover Letter”).*
+*Note: A Google email is required to access the Annual Fellowship Application. If you are unable to access the application through Google Forms, please see the [full application here]({{site.baseurl}}/assets/files/oes-fellowship-app-2020.pdf) and send the required documents in PDF format to <a href="mailto:oes@gsa.gov?subject=OES Fellowship Application 2020">oes@gsa.gov</a> with the subject line: "Last Name, First Name, OES Fellowship Application 2020." PDF document titles should also follow this format (eg, “Last Name, First Name, Cover Letter”).*
 
  <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
  
