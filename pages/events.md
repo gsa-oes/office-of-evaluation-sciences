@@ -39,3 +39,16 @@ In **Learning from Administrative Data**, agency and academic collaborators will
  The full agenda is available <a href="{{ '/assets/files/using-evidence-agenda.pdf' | prepend: site.baseurl }}">here</a>.
  
 *This event will be recorded and the recording will be provided on this page.*
+
+
+# Workshops for Federal Employees
+Join OES, the Performance Improvement Council, Performance.gov, and GSA’s OSSPI in two workshops relevant to implementing the Evidence Act on November 22 and December 6 at GSA (1800 F Street NW): 
+
+## Evidence-Building Success Stories
+#### 9:00AM-10:30AM, November 22: 
+Join us for an interactive session on sharing success stories of how evidence has been used to strengthen agencies’ programs and policies, and share tips and tricks for creating buy-in and excitement around evidence-building activities in your agency. <a href="https://www.eventbrite.com/e/osspi-fall-training-evidence-building-success-stories-for-federal-employees-only-tickets-75358684855">RSVP here.</a>
+
+## Mapping Strategy to Evidence
+### 9:00AM-11:00AM, December 6:
+This workshop will provide an introduction to mapping agency strategy to the new evidence-building activities required under the Evidence Act, including hands-on practice in drafting Learning Agenda priorities. This session will be highly relevant for Evaluation Officers and Performance Improvement Officers and an opportunity to work together and make progress on required Learning Agendas. <a href="https://www.eventbrite.com/e/osspi-fall-training-mapping-strategy-to-evidence-for-federal-employees-only-tickets-75360947623">RSVP here.</a>
+
