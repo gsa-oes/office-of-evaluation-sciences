@@ -24,7 +24,8 @@ Please send any questions to <a href="mailto:oes@gsa.gov?subject=Fellowship Ques
       
 ## Partnering with OES
 
-**OES supports agencies build evidence and use evidence.**
+**OES supports agencies build and use evidence.**
+
 We’re excited to partner with agency collaborators across government. OES team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is also uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. 
  Send us your ideas on how we might work together to, whether you’re interested in partnering on: 
    - An evaluation
