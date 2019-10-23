@@ -24,16 +24,15 @@ Please send any questions to <a href="mailto:oes@gsa.gov?subject=Fellowship Ques
       
 ## Partnering with OES
 
-We’re excited to partner with new agency collaborators across government. What makes an opportunity a good fit for testing an evidence-based insight with OES?
+**OES supports agencies build evidence and use evidence.**
+We’re excited to partner with agency collaborators across government. OES team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is also uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. 
+ Send us your ideas on how we might work together to, whether you’re interested in partnering on: 
+   - An evaluation
+   - A Training
+   - Resources
+   - Or something else
 
-- A clear touchpoint between the Federal government and an individual
-- An outcome of interest that depends in part on people’s actions 
-- An outcome of interest that is reflected in existing administrative data (or could be easily collected) 
-- A program population size that is large enough to be statistically and policy relevant
-- The ability to randomly assign groups of people to different versions of a program change 
-- An agency collaborator willing to work alongside OES and to share results across government
-
-Send a description of how your opportunity incorporates the elements above in an email to <a href="mailto:oes@gsa.gov?subject=Project Proposal">oes@gsa.gov</a> to start the conversation. Naturally, we do not have the ability to respond to all project proposals, but we consider each opportunity using the criteria described above, our teams' current makeup of skillsets, and available resources to assess our ability to collaborate.
+Send us information on the question you are trying to answer, outcome you are trying to improve or the resources you may need to <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all partnership proposals, but we consider each opportunity carefully. We look forward to hearing from you!
 
 ## Supporting OES as an Academic Affiliate 
 
