@@ -16,6 +16,10 @@ Join the U.S. General Services Administration’s (GSA) Office of Evaluation Sci
  - When: October 30, 2019, 9:30am-11:30am EST
  - Where: GSA, 1800 F ST NW, Washington DC 20405 
  - Register: <a href="https://forms.gle/zirEH9upRHFdQ7CX6">Sign Up Here</a> or email oes@gsa.gov with your name, organization, and title to sign up at no cost.
+ 
+### Welcome and Introduction: 
+ - **Jessica Salmoiraghi**, Associate Administrator, Office of Government-wide Policy, GSA
+ - **Diana Epstein**, Evidence Team Lead, Office of Management and Budget
 
 ### Using Evidence: Learning From Low-Cost Federal Evidence-Building Activities will include sessions on: 
 
