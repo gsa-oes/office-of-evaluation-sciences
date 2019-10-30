@@ -11,12 +11,10 @@ summary:
 ## Learning from Low-Cost Federal Evidence-Building Activities 
 ### October 30, 9:30am-11:30am EST, GSA (1800 F Street, NW, Washington DC 20006)
 
+Join the U.S. General Services Administration’s (GSA) Office of Evaluation Sciences (OES) and numerous agency collaborators to learn how your federal government colleagues are using low-cost evaluations, unexpected results, and administrative data to inform policy and program decisions. OES staff, collaborators from multiple agencies, and distinguished academic partners will present new results and lessons learned from over <a href="https://oes.gsa.gov/work/">10 OES evaluations</a> in three sessions: Learning from Low-Cost Evaluations, Learning from Unexpected Results, and Learning from Administrative Data. All sessions will include information and examples relevant to meeting the requirements of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). 
 
-Join the U.S. General Services Administration’s (GSA) Office of Evaluation Sciences (OES) and numerous agency collaborators to learn how your federal government colleagues are using low-cost evaluations, unexpected results, and administrative data to inform policy and program decisions. OES staff, collaborators from multiple agencies, and distinguished academic partners will present new results and lessons learned from over <a href="https://oes.gsa.gov/work/">10 OES evaluations</a> in three sessions: Learning from Low-Cost Evaluations, Learning from Unexpected Results, and Learning from Administrative Data (full agenda attached, with additional details below). All sessions will include information and examples relevant to meeting the requirements of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). 
- - When: October 30, 2019, 9:30am-11:30am EST
- - Where: GSA, 1800 F ST NW, Washington DC 20405 
- - Register: <a href="https://forms.gle/zirEH9upRHFdQ7CX6">Sign Up Here</a> or email oes@gsa.gov with your name, organization, and title to sign up at no cost.
- 
+#### *Presentation slides are available <a href="{{ '/assets/files/oes-event-slides-2019.pdf' | prepend: site.baseurl }}">here</a>.*
+
 ### Welcome and Introduction: 
  - **Jessica Salmoiraghi**, Associate Administrator, Office of Government-wide Policy, GSA
  - **Diana Epstein**, Evidence Team Lead, Office of Management and Budget
@@ -45,9 +43,7 @@ In **Learning from Administrative Data**, agency and academic collaborators will
   - **Alan Sim** (Defense Health Agency, Department of Defense) will discuss how intra-agency data compilation led to the development of a tool DHA can use for clinical decision making and evidence-building. 
   
   <iframe src="https://www.youtube.com/embed/iPzguLOo89Y" width="512" height="384"></iframe>
- 
-*Presentation slides are available <a href="{{ '/assets/files/oes-event-slides-2019.pdf' | prepend: site.baseurl }}">here</a>.*
-
+  
 
 # Workshops for Federal Employees
 Join OES, the Performance Improvement Council, Performance.gov, and GSA’s OSSPI in two workshops relevant to implementing the Evidence Act on November 22 and December 6 at GSA (1800 F Street NW): 
