@@ -9,11 +9,11 @@ summary:
 ---
 # Using Evidence: 
 ## Learning from Low-Cost Federal Evidence-Building Activities 
-### October 30, 9:30am-11:30am EST, GSA (1800 F Street, NW, Washington DC 20006)
+### October 30 at GSA
 
 The U.S. General Services Administration’s (GSA) Office of Evaluation Sciences (OES) and numerous agency collaborators presented on how the federal government is using low-cost evaluations, unexpected results, and administrative data to inform policy and program decisions. OES staff, collaborators from multiple agencies, and distinguished academic partners presented new results and lessons learned from over <a href="https://oes.gsa.gov/work/">10 OES evaluations</a> in three sessions: Learning from Low-Cost Evaluations, Learning from Unexpected Results, and Learning from Administrative Data. All sessions included information and examples relevant to meeting the requirements of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). 
 
-#### *Presentation slides are available <a href="{{ '/assets/files/oes-event-slides-2019.pdf' | prepend: site.baseurl }}">here</a>.*
+### *Presentation slides are available <a href="{{ '/assets/files/oes-event-slides-2019.pdf' | prepend: site.baseurl }}">here</a>.*
 
 ### Welcome and Introduction: 
  - **Jessica Salmoiraghi**, Associate Administrator, Office of Government-wide Policy, GSA
