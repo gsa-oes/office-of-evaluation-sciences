@@ -32,7 +32,7 @@ in which agency collaborators and OES team members  will share new results and l
   
   <iframe src="https://www.youtube.com/embed/B8G3hkaXadk" width="512" height="384"></iframe>
 
-In **Learning from Unexpected Results**, agency experts in evaluation discussed how to learn from and act on results that may be surprising. The session will present project examples of different types of unexpected results, and perspectives from agency evaluation leads on how they have learned from such results.  Panelists described studies that yielded null results and answer questions about how they have used unexpected results to advance learning agendas in their agencies:
+In **Learning from Unexpected Results**, agency experts in evaluation discussed how to learn from and act on results that may be surprising. The session presented project examples of different types of unexpected results, and perspectives from agency evaluation leads on how they have learned from such results.  Panelists then described studies that yielded null results and answer questions about how they have used unexpected results to advance learning agendas in their agencies:
   - **Rekha Balu** (Office of Evaluation Sciences, GSA)
   - **Calvin Johnson** (Office of Policy Development and Research, Department of Housing and Urban Development) 
   - **Susan Wilschke** (Office of Research, Demonstration, and Employment Support, Social Security Administration) 
