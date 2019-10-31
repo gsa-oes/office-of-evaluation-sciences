@@ -10,6 +10,7 @@ summary:
 # Using Evidence: 
 ## Learning from Low-Cost Federal Evidence-Building Activities 
 ### October 30, 2019 at GSA
+<a href="{{ '/assets/files/event-agenda-2019.pdf' | prepend: site.baseurl }}">Full agenda here</a>
 
 The U.S. General Services Administration’s (GSA) Office of Evaluation Sciences (OES) and numerous agency collaborators presented on how the federal government uses low-cost evaluations, unexpected results, and administrative data to inform policy and program decisions. OES staff, collaborators from multiple agencies, and distinguished academic partners presented new results and lessons learned from over <a href="https://oes.gsa.gov/work/">10 OES evaluations</a> in three sessions: Learning from Low-Cost Evaluations, Learning from Unexpected Results, and Learning from Administrative Data. All sessions included information and examples relevant to meeting the requirements of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). 
 
@@ -35,6 +36,8 @@ In **Learning from Unexpected Results**, agency experts in evaluation discussed 
   - **Rekha Balu** (Office of Evaluation Sciences, GSA)
   - **Calvin Johnson** (Office of Policy Development and Research, Department of Housing and Urban Development) 
   - **Susan Wilschke** (Office of Research, Demonstration, and Employment Support, Social Security Administration) 
+  
+  <a href="{{ '/assets/files/unexpected-results-2-pager.pdf' | prepend: site.baseurl }}">Unexpected Results Handout</a>
   
   <iframe src="https://www.youtube.com/embed/izP4xGku5Uk" width="512" height="384"></iframe>
 
