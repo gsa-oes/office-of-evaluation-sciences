@@ -1,6 +1,6 @@
 ---
 name: Rekha Balu
-image: /assets/img/team/Balu_Rekha.jpg 
+image: /assets/img/team/rekha_balu.jpg 
 year: 
   - 2019
 agency:   
