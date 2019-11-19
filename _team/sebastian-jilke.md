@@ -19,7 +19,7 @@ At home
 
 **Why did you join OES?**
 
-Because I wanted to "break-out" of academia for a year to contribute to increase government effectiveness by testing insights from public administration, and the behavioral sciences more broadly, in partnership with federal agencies.
+Because I wanted to "break-out" of academia for a year to help increase government effectiveness by testing insights from public administration, and the behavioral sciences more broadly, in partnership with federal agencies.
 
 **What OES project do you find most interesting?**
 
