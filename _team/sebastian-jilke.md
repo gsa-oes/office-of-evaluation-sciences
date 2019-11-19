@@ -7,7 +7,7 @@ home: University
 title: Fellow
 ---
 
-**<a href="www.sebastianjilke.net">Personal Website</a>**
+**<a href="https://sebjilke.github.io/">Personal Website</a>**
 
 **Discipline:**
 
