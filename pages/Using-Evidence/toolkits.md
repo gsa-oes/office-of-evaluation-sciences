@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using evidence
+title: 2018 Evidence Act
 permalink: /toolkits/
 image:
 image_full: 
