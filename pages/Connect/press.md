@@ -7,6 +7,11 @@ image_full:
 class:
 summary: 
 ---
+## Coverage of OES
+
+<a href="https://www.gsa.gov/portal/category/26627">Title of Article</a>, Month 201X
+<i>The Washington Post</i>
+
 ## Press inquiries
 
 For all press inquiries, please email <a href="mailto:press@gsa.gov?subject=OES-Press-Inquiry">press@gsa.gov</a> with the topic you’d like to talk about and your deadline.
