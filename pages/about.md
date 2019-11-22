@@ -1,12 +1,27 @@
 ---
 layout: page
-title: About
+title: Our mission
 permalink: /about/
 image:
 image_full: true
 class:
-summary: OES tests evidence-based insights to quickly learn what works.
+summary: Deliver a better government for the public by enabling agencies to build and use evidence to drive decisions
 ---
+<section class="usa-section background-medium">
+  <div class="usa-grid main-content">
+    <div class="usa-grid">
+      <div class="usa-width-one-half">
+        <h3><left>Who we are</h3>
+        <p>Since 2015, OES has recruited interdisciplinary experts (psychologists, economists, statisticians, and more) into the Federal government. THe team is a diverse mix of Federal employees and Fellows completing a one-year tour of duty in government, often on loan from a university or research insititution.</p>
+      </div>
+      <div class="usa-width-one-half">
+        <h3><left>What we do</h3>
+        <p>Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations for how to improve government, and evaluate impact using administrative data.
+          <br/>
+         OES is uniquely situated at the center of government to share leading practices, develop resources and build skills across government. 
+          </p>
+      </div>
+
 ## What is the Office of Evaluation Sciences?
 
 OES is an interdisciplinary team of experts within the Federal government, housed at the U.S. General Services Administration. Our team translates and tests evidence-based insights into concrete recommendations for how to improve government.
