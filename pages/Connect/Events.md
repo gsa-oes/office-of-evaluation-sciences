@@ -15,7 +15,8 @@ This workshop will provide an introduction to mapping agency strategy to the new
 
 ## Past Events
 ### Training: Evidence-Building Success Stories
-### Annual Results Discussion: <a href="{{ 'office-of-evaluation-sciences/pages/Connect/Event-Pages/2019-Annual-Event.md'}}">Using Evidence: Learning from Low-Cost Federal Evidence Building Activities</a>
+### Annual Results Discussion: <a href="https://oes.gsa.gov/2019annualevent">Using Evidence: Learning from Low-Cost Federal Evidence Building Activities</a>
+
 
 
 
