@@ -11,4 +11,5 @@ Below are case studies of how agencies have used what they've learned through bu
 
 ### Title of Case Study
 One sentence summary.
-Learn more.
+<br/>
+<a href="https://oes.gsa.gov/PAGEURL">Learn more</a>
