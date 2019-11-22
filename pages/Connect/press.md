@@ -10,7 +10,7 @@ summary:
 ## Coverage of OES
 
 <a href="https://www.gsa.gov/portal/category/26627">Title of Article</a>, Month 201X
-<i>The Washington Post</i>
+<br/><i>The Washington Post</i>
 
 ## Press inquiries
 
