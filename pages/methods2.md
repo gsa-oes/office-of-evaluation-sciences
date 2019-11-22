@@ -25,7 +25,3 @@ At the end of a project, when we report our results and findings, we use the Ana
 
 
 
-
-<p><a href="{{ '/assets/files/AnalysisPlan2019.pdf' | prepend: site.baseurl }}">Analysis Plan Document</a></p>
-
-
