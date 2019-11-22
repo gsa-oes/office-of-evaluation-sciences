@@ -22,41 +22,11 @@ layout: base
        <p>OES works across the Federal government to help agencies build and use evidence.</p>
   </div>
 </section>
-<section class="usa-section background-medium">
-  <div class="usa-grid main-content">
-    <div class="usa-grid">
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/costsavings">Achieved $8M+ in cost savings and revenue in less than 15 months</a></center></h3>
-        <br/><br/>
-        <p><center><img src="{{ '/assets/img/icons/example1.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-      </div>
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/retirement">Enrolled more than 20,000 active duty servicemembers into retirement savings plans</a></center></h3>
-           <br/><br/>
-         <p><center><img src="{{ '/assets/img/icons/example2.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-      </div>
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/vaccines">Informed more than half a million Americans about the benefits of getting vaccinated</a></center></h3>
-        <br/>
-       <p><center><img src="{{ '/assets/img/icons/example3.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-      </div>
-      <div class="usa-width-one-fourth">
-        <h3><center><a href="https://oes.gsa.gov/projects/reducing-summer-melt/">Showed text message reminders could increase college enrollment by 6%</a></center></h3>
-        <br/><br/>
-        <p><center><img src="{{ '/assets/img/icons/example4.png' | prepend: site.baseurl }}" height="100" width="100"></center></p>
-      </div>     
-    </div>
-    {% if page.content-button-link %}
-      <center>
-        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button-big">{{ page.content-button-text }}</a>
-      </center>
-    {% endif %}
-    </div>
-  </section>
+{% endif %}
 {% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-<section class="usa-section featured background-tint">
+<section class="usa-section featured background-medium">
   <div class="usa-grid">
       <h2>Featured Projects</h2>
      <div class="project-container">
