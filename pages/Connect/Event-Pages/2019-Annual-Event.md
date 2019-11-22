@@ -1,3 +1,12 @@
+---
+layout: page
+title: 2019 Annual Results Discussion
+permalink: /2019annualevent/
+image:
+image_full: 
+class:
+summary: 
+---
 # Using Evidence: 
 ## Learning from Low-Cost Federal Evidence-Building Activities 
 ### October 30, 2019 at GSA
