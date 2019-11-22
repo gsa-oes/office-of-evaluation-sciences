@@ -14,9 +14,7 @@ Since 2015, OES has recruited interdisciplinary experts (psychologists, economis
 
 ## What we do
 
-Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations for how to improve government, and evaluate impact using administrative data.
-
-OES is uniquely situated at the center of government to share leading practices, develop resources and build skills across government. 
+Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations for how to improve government, and evaluate impact using administrative data. We also work with agencies to intrepret and apply what we've learned together, and share leading practices, resources, and build the skills of civil servants to continue this work.
 
 ## Why is OES at GSA?
 
