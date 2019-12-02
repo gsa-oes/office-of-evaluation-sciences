@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using evidence
-permalink: /casestudy1/
+permalink: /communicationstips/
 image:
 image_full: 
 class:
