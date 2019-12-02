@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Using evidence
-permalink: /usingevidence/
+title: Resources
+permalink: /resources/
 image:
 image_full: 
 class:
