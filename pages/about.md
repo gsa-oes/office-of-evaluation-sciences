@@ -18,6 +18,3 @@ Team members work alongside agency collaborators to apply behavioral insights, m
 ## Why is OES at GSA?
 
 The General Services Administration (GSA) promotes management best practices and efficient government operations. Here, OES is uniquely situated at the center of government in order to easily deploy techincal support, provide a government-wide perspective, and develop resources for high-quality evidence activities in the Federal environment.
-
-## Our team
-
