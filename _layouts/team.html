@@ -1,4 +1,3 @@
----
 layout: page
 class: page-team
 filters:
@@ -16,6 +15,7 @@ filters:
     multiple: true
 scripts:
   - src: /assets/js/filters.js
+  - src: /assets/js/modal.js
 ---
 
 {{ content }}
@@ -28,7 +28,7 @@ scripts:
     <div class="usa-media_block-img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});" role="image" aria-label="{{ team.name }}"></div>
     <div class="usa-media_block-body">
       <h3>
-        <a href="{{ site.baseurl }}{{ team.url }}">
+        <a href="{{ site.baseurl }}{{ team.url }}" class="link__team-member">
           {{ team.name }}
         </a>
       </h3>
@@ -36,4 +36,10 @@ scripts:
     </div>
   </div>
 {% endfor %}
+</div>
+
+<div id="modal-overlay" class="modal-overlay"></div>
+<div id="modal-inner" class="modal-inner" tabindex="-1">
+  <button id="close-modal" class="close-modal" aria-label="close">✕</button>
+  <div id="bio"></div>
 </div>
