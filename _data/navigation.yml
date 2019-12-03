@@ -10,15 +10,11 @@ primary:
       href: /evalportfolio/
     - text: Our Methods
       href: /methods/
-    - text: Evidence Act
-      href: /evidence-act/
   - text: Resources
     href: /resources/
     links: 
     - text: Evidence Act Toolkits
       href: /toolkits/
-    - text: Utilization Blog
-      href: /blog/
   - text: Connect
     links:
       - text: Events
