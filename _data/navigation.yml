@@ -1,7 +1,8 @@
 primary:
   - text: About
-    href: /about/
     links:
+    - text: About
+      href: /about/
     - text: Team
       href: /team/
   - text: Projects
@@ -11,8 +12,9 @@ primary:
     - text: Our Methods
       href: /methods/
   - text: Resources
-    href: /resources/
     links: 
+    - text: Resources
+      href: /resources/
     - text: Evidence Act Toolkits
       href: /toolkits/
   - text: Connect
