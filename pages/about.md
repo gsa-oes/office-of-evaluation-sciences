@@ -1,12 +1,11 @@
 ---
-layout: team
-title: Our mission
+layout: page
+title: About
 permalink: /about/
 image:
+image_full: true
 class:
-summary: Deliver a better government for the public by enabling agencies to build and use evidence to drive decisions
-filter_button_title: Filter the team listing
-filter_button_message: By year, title, home institution, and agency collaborator
+summary: Deliver a better government for the public by enabling agencies to build and use evidence to drive decisions.
 ---
 ## Who we are
 
