@@ -9,11 +9,9 @@ primary:
     links:
     - text: Evaluation Portfolio
       href: /evalportfolio/
-    - text: Our Methods
-      href: /methods/
   - text: Resources
     links: 
-    - text: Resources
+    - text: OES Guides
       href: /resources/
     - text: Evidence Act Toolkits
       href: /toolkits/
