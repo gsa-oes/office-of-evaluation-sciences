@@ -10,7 +10,7 @@ summary: Our team is passionate about building and using evidence to better serv
 ## Join the OES Team!
 ### Be a Fellow with the Office of Evaluation Sciences
 
-We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for two positions based in Washington, D.C.:
+We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for our annual fellowship based in Washington, D.C.:
 
  - **Annual Fellowship:** Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. One year fellowships begin in Fall 2020. [View solicitation]({{site.baseurl}}/assets/files/GSA_OES_SolicitationFY20.pdf) and <a href="https://docs.google.com/forms/d/e/1FAIpQLSeg363IcmlNNtvVHYN82KDXRrit8e10NEP0o021rR7_QFIOcA/viewform">apply here.</a> **Deadline: December 15, 2019.**
 
