@@ -1,17 +1,30 @@
 primary:
   - text: About
     href: /about/
-  - text: Evaluation Portfolio
-    href: /evalportfolio/
+    links:
+    - text: Team
+      href: /team/
+  - text: Projects
+    links:
+    - text: Evaluation Portfolio
+      href: /evalportfolio/
+    - text: Our Methods
+      href: /methods/
+    - text: Evidence Act
+      href: /evidence-act/
   - text: Resources
     href: /resources/
-  - text: Evidence Act Toolkits
-    href: /toolkits/
-  - text: Opportunities
-    href: /opps/
-  - text: Events
-    href: /events/
-  - text: Press
-    href: /press/
-
+    links: 
+    - text: Evidence Act Toolkits
+      href: /toolkits/
+    - text: Utilization Blog
+      href: /blog/
+  - text: Connect
+    links:
+      - text: Events
+        href: /events/
+      - text: Opportunities
+        href: /opps/
+      - text: Press
+        href: /press/
 
