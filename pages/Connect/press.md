@@ -7,16 +7,79 @@ image_full:
 class:
 summary: 
 ---
-## Coverage of OES
+## Selected Coverage of OES
+
+<a href="https://www.theregreview.org/2019/11/21/wood-grose-random-audits-regulatory-compliance/">Random Audits and Regulatory Compliance</a>, November 2019
+<br/><i>The Regulatory Review</i>
+
+<a href="https://www.theregreview.org/2019/11/19/chien-sukhatme-proposal-policypilots-gov/">A Proposal for PolicyPilots.gov</a>, November 2019
+<br/><i>The Regulatory Review</i>
+
+<a href="https://www.govexec.com/management/2019/10/why-agencies-need-tap-revolutionary-potential-behavioral-science/160524/">Why Agencies Need to Tap the Revolutionary Potential of Behavioral Science</a>, October 2019
+<br/><i>GovExec</i>
+
+<a href="https://fcw.com/blogs/lectern/2019/09/kelman-nudge-gsa.aspx">Government steps out on ‘nudges’</a>, September 2019
+<br/><i>FCW</i>
+
+<a href="https://www.govexec.com/management/2019/08/after-federal-officials-sent-letters-over-prescribing-docs-prescriptions-fell-and-patient-safety-rose/159443/">After Federal Officials Sent Letters to Over-Prescribing Docs, Prescriptions Fell and Patient Safety Rose</a>, August 2019
+<br/><i>GovExec</i>
+
+<a href="https://www.povertyactionlab.org/blog/8-22-19/j-pal-north-americas-us-health-care-delivery-initiative-six-reflections-after-six-years">J-PAL North America’s US Health Care Delivery Initiative: Six reflections after six years</a>, August 2019
+<br/><i>The Abdul Latif Jameel Poverty Action Lab</i>
+
+<a href="https://sciencetrends.com/using-descriptive-social-norms-to-improve-immunization-compliance/">Using Descriptive Social Norms To Improve Immunization Compliance</a>, July 2019
+<br/><i>Science Trends</i>
+
+<a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/government-trends/2020/government-nudge-thinking.html">Nudging for good: Using behavioral science to improve government outcomes</a>, June 2019
+<br/><i>Deloitte Insights</i>
+
+<a href="https://www.govexec.com/management/2019/06/think-government-cant-do-anything-quickly-and-cheaply-think-again/157765/">Think Government Can't Do Anything Quicky and Cheaply? Think Again</a>, June 2019
+<br/><i>GovExec</i>
+
+<a href="https://www.medpagetoday.com/primarycare/geriatrics/80260">Can 'Nudge' Letters Cut Overprescribing of Psych Meds? - Peer comparison and threat of review can change prescribing behavior, but approach has some drawbacks</a>, June 2019
+<br/><i>MedPage Today</i>
 
 <a href="https://www.gsa.gov/portal/category/26627">Title of Article</a>, Month 201X
 <br/><i>The Washington Post</i>
 
-<a href="https://www.gsa.gov/portal/category/26627">Title of Article</a>, Month 201X
+<a href="https://crosscut.com/2019/05/how-psychology-can-help-us-understand-and-fight-poverty">How psychology can help us understand — and fight — poverty</a>, May 2019
+<br/><i>Cross Cut</i>
+
+<a href="https://whatworks.blog.gov.uk/2019/01/14/inside-the-worlds-what-works-teams/">Inside the world’s What Works teams</a>, January 2019
+<br/><i>What Works</i>
+
+<a href="http://immunizationeconomics.org/recent-activity/2018/11/5/portfolio-of-evidence-increasing-vaccine-uptake">GSA’s Office of Evaluation Sciences Partners with Agency Partners to Increase Vaccination Uptake</a>, November 2018
+<br/><i>Immunization Economics</i>
+
+<a href="https://www.nytimes.com/2018/09/05/upshot/letters-to-doctors-opioid-research.html">Hereʼs a Cheap Way to Fight Drug Misuse: Send Doctors a Sharp Letter</a>, September 2018
+<br/><i>The New York Times</i>
+
+<a href="https://www.govexec.com/management/2018/09/social-science-data-science-evidence-based-government-needs-both/151519/">Social Science? Data Science? Evidence-Based Government Needs Both</a>, September 2018
+<br/><i>GovExec</i>
+
+<a href="https://www.washingtonpost.com/news/to-your-health/wp/2018/08/09/death-reports-make-the-opioid-crisis-personal-for-doctors/?utm_term=.2474c13496b1">Telling doctors their patient died from overdose could prevent some opioid abuse</a>, August 2018
 <br/><i>The Washington Post</i>
 
-<a href="https://www.gsa.gov/portal/category/26627">Title of Article</a>, Month 201X
+<a href="https://www.gsa.gov/blog/2018/08/02/office-of-evaluation-sciences-teams-up-with-cms-academic-researchers-to-address-overprescribing-of-prescription-drugs">Office of Evaluation Sciences Teams Up With CMS, Academic Researchers to Address Overprescribing of Prescription Drugs</a>, August 2018
+<br/><i>GSA Blog</i>
+
+<a href="https://www.povertyactionlab.org/evaluation/effect-informative-letters-prescription-and-receipt-seroquel-united-states">The Effect of Informative Letters on the Prescription and Receipt of Seroquel in the United States</a>, August 2018
+<br/><i>The Abdul Latif Jameel Poverty Action Lab</i>
+
+<a href="https://www.fedscoop.com/gsa-office-tasked-data-based-solutions-growing/">GSA office tasked with data-based solutions is growing up</a>, January 2018
+<br/><i>FedScoop</i>
+
+<a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/06/08/this-new-initiative-is-trying-to-make-scientific-research-more-reliable/?utm_term=.3f3873e7c305">This new initiative is trying to make scientific research more reliable</a>, June 2017
 <br/><i>The Washington Post</i>
+
+<a href="https://www.npr.org/sections/health-shots/2017/02/10/514386151/how-a-simple-fix-for-medicare-prescribing-problems-got-complicated">How A Simple Fix For Medicare Prescribing Problems Got Complicated</a>, February 2017
+<br/><i>NPR</i>
+
+<a href="https://apnews.com/2d954eb9e82447c19134ec9504a7171e">IRS letters warn millions about health insurance penalty</a>, January 2017
+<br/><i>The Associated Press</i>
+
+<a href="https://medium.com/presidential-innovation-fellows/shipping-in-government-5-things-we-learned-from-vote-usa-gov-b13ecd98b0a1">Shipping in Government: 5 Things We Learned from Vote.USA.Gov</a>, January 2016
+<br/><i>Presidential Innovation Fellows Foundation</i>
 
 ## Press inquiries
 
