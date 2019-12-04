@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Learning Agenda Toolkit
+layout: toolkit-dashboard
+title: Learning Agenda Toolkit Home Page
 permalink: /learningagenda/
 image:
 image_full:

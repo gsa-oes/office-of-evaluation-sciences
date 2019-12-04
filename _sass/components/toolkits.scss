@@ -5,11 +5,10 @@
 }
 
 .toolkit-div {
-  border: 1px solid #2E9AC4;
+  // border: 1px solid #2E9AC4;
   margin: 10px;
   padding: 10px;
   padding-top: 40px;
-  color: #2E9AC4;
   text-align: center;
 }
 
@@ -25,3 +24,35 @@ td {
 table {
   border-collapse: collapse;
 }
+
+.table-border {
+  border-style: hidden;
+}
+
+.tool-link {
+  text-decoration: none;
+  color: #2E9AC4;
+}
+
+.wrapper-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 50px 300px 0 300px;
+}
+
+.question-div {
+  border: 1px solid rgb(31, 208, 197);
+  border-radius: 10px;
+  flex: 0 0 24%;
+  padding: 25px;
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+  background-color: rgb(31, 208, 197);
+  color: white;
+}
+
+// .question-div:nth-child(3n) {
+//   background-color: #2E9AC4;
+// }

@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+<div class="usa-section background-brand-dark">
+  <div class="usa-grid">
+    <h1>{{ page.title }}</h1>
+  </div>
+</div>
+<section class="usa-section background-tint" style="padding-top: 2rem;">
+  <div class="usa-grid" align="center">
+    <p>
+      Click here to download the {{ page.title }} workbook.
+    </p>
+  </div>
+  <div class="wrapper-div">
+  {% if page.title == "Learning Agenda Toolkit Home Page" %}
+    {% for each in site.data.learningagenda %}
+      <div class="question-div">
+        {{ each.name }}
+      </div>
+    {% endfor %}
+  {% else %}
+    {% for each in site.data.annualeval %}
+      <div class="question-div">
+        {{ each.name }}
+      </div>
+    {% endfor %}
+  {% endif %}
+  </div>
+</section>

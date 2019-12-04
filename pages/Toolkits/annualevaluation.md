@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Learning Agenda Toolkit
+layout: toolkit-dashboard
+title: Annual Evaluation Plan Toolkit Home Page
 permalink: /annualevaluation/
 image:
 image_full:
