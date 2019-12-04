@@ -1,0 +1,27 @@
+.toolkits-div {
+  display: flex;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+.toolkit-div {
+  border: 1px solid #2E9AC4;
+  margin: 10px;
+  padding: 10px;
+  padding-top: 40px;
+  color: #2E9AC4;
+  text-align: center;
+}
+
+.download-footer {
+  border: none;
+  border-style: hidden!important;
+}
+
+td {
+  border: none;
+}
+
+table {
+  border-collapse: collapse;
+}
