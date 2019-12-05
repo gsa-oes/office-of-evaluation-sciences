@@ -15,15 +15,17 @@ layout: base
   </div>
   <div class="wrapper-div">
   {% if page.title == "Learning Agenda Toolkit Home Page" %}
-    {% for each in site.data.learningagenda %}
+    {% for item in site.data.learningagenda %}
       <div class="question-div">
-        {{ each.name }}
+        {{ item.name }}
+        <img src="{{ item.image }}" height="50" width="50"/>
       </div>
     {% endfor %}
   {% else %}
-    {% for each in site.data.annualeval %}
+    {% for item in site.data.annualeval %}
       <div class="question-div">
-        {{ each.name }}
+        {{ item.name }}
+        <img src="{{ item.image }}" height="50" width="50"/>
       </div>
     {% endfor %}
   {% endif %}

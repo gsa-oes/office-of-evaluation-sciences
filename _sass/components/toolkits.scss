@@ -51,6 +51,8 @@ table {
   text-align: center;
   background-color: rgb(31, 208, 197);
   color: white;
+  display: flex;
+  justify-content: space-around;
 }
 
 // .question-div:nth-child(3n) {

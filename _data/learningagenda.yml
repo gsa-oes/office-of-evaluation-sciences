@@ -1,15 +1,23 @@
-- name: I. Purpose and Benefits
+  - name: I. Purpose and Benefits
+    image: /assets/img/icons/light_bulb.png
 
-- name: II. Types of Learning Questions
+  - name: II. Types of Learning Questions
+    image: /assets/img/icons/question_mark.png
 
-- name: III. Engaging Stakeholders
+  - name: III. Engaging Stakeholders
+    image: /assets/img/icons/people_team.png
 
-- name: IV. Encouraging Leadership Buy-In
+  - name: IV. Encouraging Leadership Buy-In
+    image: /assets/img/icons/handshake.png
 
-- name: V. Developing a Learning Agenda
+  - name: V. Developing a Learning Agenda
+    image: /assets/img/icons/document_check.png
 
-- name: VI. Using Stakeholder Input
+  - name: VI. Using Stakeholder Input
+    image: /assets/img/icons/puzzle_piece.png
 
-- name: VII. Writing the Learning Agenda
+  - name: VII. Writing the Learning Agenda
+    image: /assets/img/icons/pen.png
 
-- name: VIII. Additional Resources
+  - name: VIII. Additional Resources
+    image: /assets/img/icons/book.png

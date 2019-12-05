@@ -1,11 +1,17 @@
 - name: I. Purpose and Benefits
+  image: /assets/img/icons/light_bulb.png
 
 - name: II. Engaging Stakeholders
+  image: /assets/img/icons/people_team.png
 
 - name: III. Defining Significant Evaluations
+  image: /assets/img/icons/question_mark.png
 
 - name: IV. Developing Evaluation Questions
+  image: /assets/img/icons/pen.png
 
 - name: V. Developing an Evaluation Plan
+  image: /assets/img/icons/document_check.png
 
 - name: VI. Additional Resources
+  image: /assets/img/icons/book.png
