@@ -8,7 +8,7 @@ primary:
   - text: Projects
     links:
     - text: Evaluation Portfolio
-      href: /evalportfolio/
+      href: /work/
   - text: Resources
     links: 
     - text: Methods & Guides
@@ -20,7 +20,7 @@ primary:
       - text: Events
         href: /events/
       - text: Opportunities
-        href: /opps/
+        href: /contact/
       - text: Press
         href: /press/
 
