@@ -16,18 +16,33 @@ layout: base
   <div class="wrapper-div">
   {% if page.title == "Learning Agenda Toolkit Home Page" %}
     {% for item in site.data.learningagenda %}
-      <div class="question-div">
-        {{ item.name }}
-        <img src="{{ item.image }}" height="50" width="50"/>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          {{ item.name }}
+          <img src="{{ item.image }}" height="50" width="50">
+        </div>
+        <div class="flip-card-back">
+          {{ item.question }}
+        </div>
       </div>
+    </div>
     {% endfor %}
   {% else %}
     {% for item in site.data.annualeval %}
-      <div class="question-div">
-        {{ item.name }}
-        <img src="{{ item.image }}" height="50" width="50"/>
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            {{ item.name }}
+            <img src="{{ item.image }}" height="50" width="50">
+          </div>
+          <div class="flip-card-back">
+            {{ item.question }}
+          </div>
+        </div>
       </div>
     {% endfor %}
   {% endif %}
   </div>
 </section>
+{% include javascript.html %}

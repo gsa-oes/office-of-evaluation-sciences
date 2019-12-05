@@ -41,20 +41,65 @@ table {
   margin: 50px 300px 0 300px;
 }
 
-.question-div {
-  border: 1px solid rgb(31, 208, 197);
-  border-radius: 10px;
-  flex: 0 0 24%;
-  padding: 25px;
+// .question-div {
+//   border: 1px solid rgb(31, 208, 197);
+//   border-radius: 10px;
+//   flex: 0 0 24%;
+//   padding: 25px;
+//   margin: 10px;
+//   height: 100px;
+//   text-align: center;
+//   background-color: rgb(31, 208, 197);
+//   color: white;
+//   display: flex;
+//   justify-content: space-around;
+// }
+
+.flip-card {
+  background-color: transparent;
+  width: 200px;
+  height: 150px;
+  perspective: 1000px;
   margin: 10px;
-  height: 100px;
+  flex: 0 0 24%;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 125px;
   text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
   background-color: rgb(31, 208, 197);
+  border-radius: 10px;
+  padding: 25px;
   color: white;
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 
-// .question-div:nth-child(3n) {
-//   background-color: #2E9AC4;
-// }
+.flip-card-back {
+  background-color: rgb(31, 208, 197);
+  color: white;
+  transform: rotateY(180deg);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
