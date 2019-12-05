@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opportunities
-permalink: /opps/
+permalink: /contact/
 image:
 image_full: true
 class:
