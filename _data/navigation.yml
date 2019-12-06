@@ -11,7 +11,7 @@ primary:
       href: /work/
   - text: Resources
     links: 
-     - text: Methods
+    - text: Methods
       href: /methods/
     - text: Guides
       href: /resources/
