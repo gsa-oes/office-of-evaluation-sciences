@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Mission
 permalink: /about/
 image:
 image_full: true
