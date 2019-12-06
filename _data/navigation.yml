@@ -11,7 +11,9 @@ primary:
       href: /work/
   - text: Resources
     links: 
-    - text: Methods & Guides
+     - text: Methods
+      href: /methods/
+    - text: Guides
       href: /resources/
     - text: Evidence Act Toolkits
       href: /toolkits/
