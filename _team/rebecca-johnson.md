@@ -7,8 +7,6 @@ home: University
 title: Fellow
 ---
 
-**<a href="https://scholar.princeton.edu/rebeccajohnson">Personal Website</a>**
-
 **Discipline:**
 
 Demography/Sociology
