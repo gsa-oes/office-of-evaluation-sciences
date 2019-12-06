@@ -19,6 +19,8 @@ primary:
       href: /toolkits/
   - text: Connect
     links:
+      - text: Contact
+        href: /connect/
       - text: Events
         href: /events/
       - text: Opportunities
