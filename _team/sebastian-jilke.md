@@ -7,8 +7,6 @@ home: University
 title: Fellow
 ---
 
-**<a href="https://sebjilke.github.io/">Personal Website</a>**
-
 **Discipline:**
 
 Public Admistration
