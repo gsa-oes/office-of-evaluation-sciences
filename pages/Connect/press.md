@@ -7,6 +7,19 @@ image_full:
 class:
 summary: 
 ---
+
+## Press inquiries
+
+For all press inquiries, please email <a href="mailto:press@gsa.gov?subject=OES-Press-Inquiry">press@gsa.gov</a> with the topic you’d like to talk about and your deadline.
+
+The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at OES. See the <a href="https://www.gsa.gov/portal/category/26627">GSA Newsroom</a> for news releases and official resources.
+
+If you’re writing a story about OES, feel free to use the images below.
+
+Organizational logos:
+  - [OES (PNG)]({{site.baseurl}}/assets/img/logos/logo-name.png)
+  - [GSA (JPG)]({{site.baseurl}}/assets/img/gsa-logo-dark.jpg)
+
 ## Selected Coverage of OES
 
 <a href="https://www.theregreview.org/2019/11/21/wood-grose-random-audits-regulatory-compliance/">Random Audits and Regulatory Compliance</a>
@@ -77,16 +90,3 @@ summary:
 
 <a href="https://medium.com/presidential-innovation-fellows/shipping-in-government-5-things-we-learned-from-vote-usa-gov-b13ecd98b0a1">Shipping in Government: 5 Things We Learned from Vote.USA.Gov</a>
 <br/><i>Presidential Innovation Fellows Foundation</i>, January 2016
-
-## Press inquiries
-
-For all press inquiries, please email <a href="mailto:press@gsa.gov?subject=OES-Press-Inquiry">press@gsa.gov</a> with the topic you’d like to talk about and your deadline.
-
-The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at OES. See the <a href="https://www.gsa.gov/portal/category/26627">GSA Newsroom</a> for news releases and official resources.
-
-If you’re writing a story about OES, feel free to use the images below.
-
-Organizational logos:
-  - [OES (PNG)]({{site.baseurl}}/assets/img/logos/logo-name.png)
-  - [GSA (JPG)]({{site.baseurl}}/assets/img/gsa-logo-dark.jpg)
-
