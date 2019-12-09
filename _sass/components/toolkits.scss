@@ -37,24 +37,11 @@ table {
 .wrapper-div {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: 50px 300px 0 300px;
 }
 
-// .question-div {
-//   border: 1px solid rgb(31, 208, 197);
-//   border-radius: 10px;
-//   flex: 0 0 24%;
-//   padding: 25px;
-//   margin: 10px;
-//   height: 100px;
-//   text-align: center;
-//   background-color: rgb(31, 208, 197);
-//   color: white;
-//   display: flex;
-//   justify-content: space-around;
-// }
-
+//toolkit-dashboard Styling
 .flip-card {
   background-color: transparent;
   width: 200px;
@@ -102,4 +89,28 @@ table {
   display: flex;
   align-items: center;
   padding: 10px;
+}
+
+//toolkit-tab Styling
+.question-header {
+  height: 100px;
+  width: 700px;
+  border: 2px solid black;
+  background-color: #2E9AC4;
+  color: white;
+  display: flex;
+  margin: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.tab {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon-tabs {
+  background-color: rgb(31, 208, 197);
+  width: 700px;
+  border: 1px solid black;
 }

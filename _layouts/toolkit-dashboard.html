@@ -22,9 +22,11 @@ layout: base
           {{ item.name }}
           <img src="{{ item.image }}" height="50" width="50">
         </div>
-        <div class="flip-card-back">
-          {{ item.question }}
-        </div>
+        <a href="{{ site.baseurl}}/toolkitinfo/">
+          <div class="flip-card-back">
+            {{ item.question }}
+          </div>
+        </a>
       </div>
     </div>
     {% endfor %}
@@ -36,9 +38,11 @@ layout: base
             {{ item.name }}
             <img src="{{ item.image }}" height="50" width="50">
           </div>
-          <div class="flip-card-back">
-            {{ item.question }}
-          </div>
+          <a href="{{ site.baseurl}}/toolkitinfo/">
+            <div class="flip-card-back">
+              {{ item.question }}
+            </div>
+          </a>
         </div>
       </div>
     {% endfor %}
