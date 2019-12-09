@@ -22,7 +22,7 @@ Please send any questions to <a href="mailto:oes@gsa.gov?subject=Fellowship Ques
             
 ## Partnering with OES
 
-We’re excited to partner with agency collaborators across government.Send us information on the question you are trying to answer, outcome you are trying to improve, area you may be seeking training in, or the resources you may need to <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all partnership proposals, but we consider each opportunity carefully. We look forward to hearing from you!
+We’re excited to partner with agency collaborators across government. Send us information on the question you are trying to answer, outcome you are trying to improve, area you may be seeking training in, or the resources you may need to <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all partnership proposals, but we consider each opportunity carefully. We look forward to hearing from you!
 
 ## Supporting OES as an Academic Affiliate 
 
