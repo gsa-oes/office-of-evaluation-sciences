@@ -18,6 +18,11 @@ Because results from OES tests impact the lives of millions of Americans, the qu
 Recent research shows that null results in federal evaluations are more common than we think, and occur for a variety of reasons. When agencies share both expected and unexpected results, we can learn about what programs work, what effect sizes are realistic, and improve Federal evaluations. This post dispels misconceptions about null results and highlights different uses and lessons from null results. 
 <br/>
  <a href="{{ '/assets/files/unexpected-results-2-pager.pdf' | prepend: site.baseurl }}">Unexpected Results Handout</a>
+ 
+### Intergovernmental Personnel Act (IPA) Toolkit
+OES uses the Intergovernmental Personnel Act (IPA) Mobility Program to bring on unique talent to support agency priorities and evidence needs. The purpose of this toolkit is to provide internal guidance on how OES has utilized the IPA Mobility Program in the past to fill highly technical positions in a quick and simple way where there might otherwise be capacity gaps. Personnel with IPAs at OES have served in roles as fellows, academic affiliates, and statistical methods support.
+<br/>
+<a href="{{ '/assets/files/oes-ipa-toolkit.pdf' | prepend: site.baseurl }}">OES IPA Toolkit</a>
 
 ### How to Design Effective Communications
 The United States government sends hundreds of millions of letters and emails to its citizens every year. These communications serve as a critical touchpoint by which citizens engage with our government programs and impact outcomes such as health insurance coverage, education enrollment and financing, tax compliance and benefits take-up, retirement security, and employment. Designing effective communications is therefore vital to ensuring that our government programs reach the people they are intended to serve. Since 2015, OES has completed more than 50 communication-specific interventions and evaluations with more than a dozen Federal agencies. Here’s what these tests have revealed about how to design effective communications.
