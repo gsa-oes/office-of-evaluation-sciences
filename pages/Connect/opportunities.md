@@ -19,11 +19,7 @@ Team members work alongside agency collaborators to apply behavioral insights, m
 Please send any questions to <a href="mailto:oes@gsa.gov?subject=Fellowship Question">oes@gsa.gov.</a>
 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
-            
-## Partnering with OES
-
-We’re excited to partner with agency collaborators across government.Send us information on the question you are trying to answer, outcome you are trying to improve, area you may be seeking training in, or the resources you may need to <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all partnership proposals, but we consider each opportunity carefully. We look forward to hearing from you!
-
+        
 ## Supporting OES as an Academic Affiliate 
 
 We often require specific subject matter expertise as we identify opportunities to work with agencies on an ongoing basis. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqnuRSZNKZt9bVLAGw6G64i5oUNDqsGcrX7dvgGpvlac9Cog/viewform?usp=sf_link">Tell us about your area of expertise</a>, and we may reach out to you to collaborate on a specific project. 
