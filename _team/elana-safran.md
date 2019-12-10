@@ -30,6 +30,6 @@ Shenandoah National Park
 
 I get excited identifying important questions with government agencies, and connecting them to academics who can help answer those questions.
 
-**What's one of the most exciting things you've worked on at OES? **
+**What's one of the most exciting things you've worked on at OES?**
 
 I was really proud when the VA learned from working with us on a project to <a href="https://oes.gsa.gov/projects/va-health-care-benefits/">connect separating servicemembers to VA health benefits.</a> After our project launched, the VA ran a similar test with phone calls to separating servicemembers -- and they randomized the phone calls! 
