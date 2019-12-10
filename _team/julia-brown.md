@@ -7,4 +7,18 @@ home: University
 title: Associate Fellow
 ---
 
-Julia Brown is a doctoral student in the Department of Economics at the University of Maryland - College Park. Her research focuses on public policy and behavioral economics, particularly as they relate to consumer finance and financial protection. Prior to her doctoral work, she managed the US Household Finance Initiative at Innovations for Poverty Action, where she led a portfolio of research projects looking at incorporating behavioral design in to financial products and services to help low-income Americans save more and pay down debt more quickly. She also conducted research related to Medicaid quality control for the State of Ohio, on behalf of the Ohio Colleges of Medicine Government Resource Center, and was part of a research team focused on mortgage policy at the John Glenn College of Public Affairs, both at at The Ohio State University. She holds a Master of International Affairs from the School of International and Public Affairs at Columbia University, and a Bachelor of Arts in Economics and Women’s and Gender Studies from Williams College. 
+**Discipline:**
+
+Economics / Public Policy
+
+**What is your favorite DC area spot?**
+
+The National Arboretum
+
+**Why did you join OES?**
+
+I feel very connected to OES's goal of making government work better for people, and I'm excited to contribute to that goal. 
+
+**What's one of the most exciting things you've worked on at OES?**
+
+I feel lucky to be involved in OES's support of federal agencies' efforts to build a culture of learning and evidence under the new Foundations for Evidence-Based Policymaking Act, as I believe that this will help agencies build evidence and best practices into all levels of their programming and decision-making. 
