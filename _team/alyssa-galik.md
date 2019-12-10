@@ -6,6 +6,11 @@ year:
 home: Government
 title: GSA Detail
 ---
+
+**Hometown**
+
+Fresno, CA
+
 **Discipline:**
 
 Public Policy / International Affairs
