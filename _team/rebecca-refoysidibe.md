@@ -1,5 +1,5 @@
 ---
-name: Rebecca Refoy-Sidobe
+name: Rebecca Refoy-Sidibe
 image: /assets/img/team/rrs.jpg
 year:
   - 2019
