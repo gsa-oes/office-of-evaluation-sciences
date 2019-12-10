@@ -18,4 +18,18 @@ home: Government
 title: Behavioral Scientist
 ---
 
-Elana Safran coordinates OES's projects in health and aging, and leads projects related to enrollment in health benefits and patient and provider behavior. Prior to OES, she managed randomized evaluations in international development with Innovations for Poverty Action, on a range of topics including private sector healthcare delivery, youth financial education and savings, and agricultural investments. Prior to her work in international development, Elana served as an Americorps VISTA fellow, supporting elderly and disabled New Yorkers with Medicare and Medicaid benefits. Elana received a BA in Economics from Amherst College, and a Masters in Public Policy from the Harvard Kennedy School. She has lived, worked, and played frisbee in western Massachusetts, Israel, Ghana, Cambridge Massachusetts, Tanzania, Zambia, and Washington DC.
+**Discipline:**
+
+Public Policy
+
+**What is your favorite DC area spot?**
+
+Shenandoah National Park
+
+**Why did you join OES?**
+
+I get excited identifying important questions with government agencies, and connecting them to academics who can help answer those questions.
+
+**What's one of the most exciting things you've worked on at OES? **
+
+I was really proud when the VA learned from working with us on a project to <a href="https://oes.gsa.gov/projects/va-health-care-benefits/">connect separating servicemembers to VA health benefits.</a> After our project launched, the VA ran a similar test with phone calls to separating servicemembers -- and they randomized the phone calls! 
