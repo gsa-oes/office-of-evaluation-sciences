@@ -5,7 +5,7 @@ permalink: /blog/
 image:
 image_full: 
 class:
-summary: We hope others can use and build on what we've learned.
+summary: 
 ---
 
 ### Using evidence to encourage patients’ and providers’ to engage in health information technology 
