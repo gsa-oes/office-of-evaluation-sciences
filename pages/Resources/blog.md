@@ -24,9 +24,11 @@ The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data
 -image-
 <i>(Image subtitle) Reminder messages to patients significantly increased patient use of blood glucose flowsheets</i>
 
-<i>This project was presented at the OES Using Evidence Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</i></a>
+<i>This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</i></a>
 
-
+</br>
+</br>
+</br>
 
 ### Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans
 -image-
@@ -46,9 +48,11 @@ Subtitle: Proactive Communication Significantly Increases College Enrollment for
 
 In less than a year, this project demonstrated that a low-cost intervention could result in a meaningful change in Veterans’ school enrollment. In addition, it provided information about potential adjustments to make to the intervention for future efforts. The Veterans Benefits Administration is still working through how to directly apply the results of this evaluation. Nonetheless, the process of working with OES allowed them to identify additional ways to **use administrative data and leverage proactive communication in a way that had an immediate, positive impact** on Post-9/11 GI Bill beneficiaries in their educational pursuits.
 
-<i>This project was presented at the OES Using Evidence Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</i></a>
+<i>This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</i></a>
 
-
+</br>
+</br>
+</br>
 
 ### Using evidence to improve government efficiency through timely wage reporting
 -image-
@@ -70,4 +74,4 @@ First, by making further improvements to the letters by highlighting other impor
 Second, by improving the target efficiency of the notice using administrative data and the results of this evaluation. 
 
 Once SSA has refined the letters, they will develop a proposal to send the letters to the entire target population on a regular basis.     
-<i>This project was presented at the OES Using Evidence Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</i></a>
+<i>This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</i></a>
