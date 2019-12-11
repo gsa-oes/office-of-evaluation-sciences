@@ -2,9 +2,29 @@
 layout: base
 ---
 
-<div class="usa-section background-brand-dark">
+<div class="usa-section background-brand-dark" style="padding-bottom: 25px;">
   <div class="usa-grid">
-    <h1> I. What are the benefits of a learning agenda? </h1>
+    {% if page.title == "Learning Agenda Information" %}
+      {% for item in site.data.learningagenda %}
+        {% if item.id == 'I' %}
+        <section id="{{ item.id }}" class="tab-content active">
+          {% else %}
+          <section id="{{ item.id }}" class="tab-content hide">
+            {% endif %}
+          <h2> {{ item.id }}. {{ item.question }} </h2>
+      </section>
+      {% endfor %}
+    {% else %}
+      {% for item in site.data.annualeval %}
+        {% if item.id == 'I' %}
+        <section id="{{ item.id }}" class="tab-content active">
+          {% else %}
+          <section id="{{ item.id }}" class="tab-content hide">
+            {% endif %}
+            <h2> {{ item.id }}. {{ item.question }} </h2>
+        </section>
+      {% endfor %}
+    {% endif %}
   </div>
 </div>
 <section class="usa-section background-tint" style="padding-top: 2rem;">
@@ -12,26 +32,28 @@ layout: base
     <div>
       <ul class="nav nav-tabs">
         {% if page.title == "Learning Agenda Information" %}
-        {% for item in site.data.learningagenda %}
-        {% if item.id == 'I' %}
-        <li class="active">
-          {% else %}
-          <li>
-            {% endif %}
-          <a href="#{{ item.id }}"><img src="{{ item.image }}" height="50" width="50"></a>
-        </li>
-        {% endfor %}
+          {% for item in site.data.learningagenda %}
+            {% if item.id == 'I' %}
+            <li class="active">
+              {% else %}
+              <li>
+                {% endif %}
+              <a href="#{{ item.id }}"><img src="{{ item.image }}" height="50" width="50"></a>
+            </li>
+          {% endfor %}
+        {% else %}
+          {% for item in site.data.annualeval %}
+            {% if item.id == 'I' %}
+            <li class="active">
+              {% else %}
+              <li>
+                {% endif %}
+              <a href="#{{ item.id }}"><img src="{{ item.image }}" height="50" width="50"></a>
+            </li>
+          {% endfor %}
         {% endif %}
       </ul>
     </div>
-    {% for item in site.data.learningagenda %}
-    {% if item.id == 'I' %}
-    <section id="{{ item.id }}" class="tab-content active">
-      {% else %}
-      <section id="{{ item.id }}" class="tab-content hide">
-        {% endif %}
-      <div>
-        {{ item.question }}
-      </div>
-    </section>
-    {% endfor %}
+    <p class="tool_link">
+      Click here to download the {{ page.title }} workbook.
+    </p>

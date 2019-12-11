@@ -92,22 +92,12 @@ table {
 }
 
 //toolkit-info Styling
-// .tabs {
-//   display: flex;
-//   flex-direction: row;
-// }
-// 
-// .icon-tab {
-//   background-color: rgb(31, 208, 197);
-//   width: 700px;
-//   border: 1px solid black;
-// }
-
 
 .nav {
   margin-bottom: 18px;
   margin-left: 0;
-  width: 700px;
+  width: max-content;
+  padding: 0px;
   list-style: none;
   background-color: rgb(31, 208, 197);
 }
@@ -141,9 +131,9 @@ table {
   line-height: 14px;
 }
 
-// .nav-tabs {
-//   border-bottom: 1px solid #ddd;
-// }
+.nav-tabs {
+  border-bottom: 1px solid #ddd;
+}
 
 .nav-tabs > li {
   margin-bottom: -1px;
@@ -175,10 +165,18 @@ li {
   line-height: 18px;
 }
 
-.tab-content.active{
+.tab-content.active {
   display: block;
+  position: relative;
+  bottom: 30px;
 }
 
-.tab-content.hide{
+.tab-content.hide {
   display: none;
+}
+
+.tool_link {
+  color: #F9834A;
+  text-decoration: underline;
+  font-weight: 600;
 }
