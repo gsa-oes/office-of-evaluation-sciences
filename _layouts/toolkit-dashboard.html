@@ -22,7 +22,7 @@ layout: base
           {{ item.name }}
           <img src="{{ item.image }}" height="50" width="50">
         </div>
-        <a href="{{ site.baseurl}}/toolkitinfo/">
+        <a href="{{ site.baseurl}}/learninginfo#{{item.id}}">
           <div class="flip-card-back">
             {{ item.question }}
           </div>
@@ -38,7 +38,7 @@ layout: base
             {{ item.name }}
             <img src="{{ item.image }}" height="50" width="50">
           </div>
-          <a href="{{ site.baseurl}}/toolkitinfo/">
+          <a href="{{ site.baseurl}}/annualinfo/">
             <div class="flip-card-back">
               {{ item.question }}
             </div>
@@ -49,4 +49,3 @@ layout: base
   {% endif %}
   </div>
 </section>
-{% include javascript.html %}

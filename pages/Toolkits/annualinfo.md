@@ -1,7 +1,7 @@
 ---
-layout: toolkit-tab
-title: Toolkit Information
-permalink: /toolkitinfo/
+layout: toolkit-info
+title: Annual Information
+permalink: /annualinfo/
 image:
 image_full:
 class:

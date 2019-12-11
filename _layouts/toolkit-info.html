@@ -1,0 +1,37 @@
+---
+layout: base
+---
+
+<div class="usa-section background-brand-dark">
+  <div class="usa-grid">
+    <h1> I. What are the benefits of a learning agenda? </h1>
+  </div>
+</div>
+<section class="usa-section background-tint" style="padding-top: 2rem;">
+  <div class="usa-grid" align="center">
+    <div>
+      <ul class="nav nav-tabs">
+        {% if page.title == "Learning Agenda Information" %}
+        {% for item in site.data.learningagenda %}
+        {% if item.id == 'I' %}
+        <li class="active">
+          {% else %}
+          <li>
+            {% endif %}
+          <a href="#{{ item.id }}"><img src="{{ item.image }}" height="50" width="50"></a>
+        </li>
+        {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+    {% for item in site.data.learningagenda %}
+    {% if item.id == 'I' %}
+    <section id="{{ item.id }}" class="tab-content active">
+      {% else %}
+      <section id="{{ item.id }}" class="tab-content hide">
+        {% endif %}
+      <div>
+        {{ item.question }}
+      </div>
+    </section>
+    {% endfor %}
