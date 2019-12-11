@@ -9,6 +9,11 @@ agency:
 home: University
 title: Associate Fellow
 ---
+
+**Hometown:**
+
+Lexington, Kentucky
+
 **Discipline:**
 
 Social Policy
