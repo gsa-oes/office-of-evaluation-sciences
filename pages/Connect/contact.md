@@ -17,7 +17,7 @@ summary:
   {% endfor %}
     <div class="usa-width-two-thirds contact-form">
         <h2 id="whats-new-at-oes">What's new at OES?</h2>
-        <p>Sign up to receive updates on results released and opportunities to work with the team by filling out our interest form.</p>      
+        <p>Sign up for our newsletter to receive updates on results released and opportunities to work with the team.</p>      
         <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
     </div>
     <div class="usa-width-one-third privacy-policy">
