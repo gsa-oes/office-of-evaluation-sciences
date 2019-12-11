@@ -17,18 +17,22 @@ For example, in collaboration with the Department of Health and Human Services O
 The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data-provider-encouragement/">encouraged providers to place bulk orders for electronic blood glucose flow sheets</a>, while the second intervention  <a href="https://oes.gsa.gov/projects/patient-health-data-patient-reminders/">reminded patients to log their own health data into the flow sheets.</a>
 
 -image-
+
 *(Subtitle) Training and Encouragement to providers significantly increased patient use of blood glucose flowsheets.*
 
 **Both interventions were found to be effective**, leading to increased patient use of electronic blood glucose flowsheets and fewer in-office A1c tests. These findings have led Inova Health System to continue to improve provider and patient use of health information technology in their system, with the hope that utilizing this technology can continue to reduce costs and provide better care for their patients. . Inova plans to make all providers aware of the functionality within the electronic health record to allow patients to enter their glucose results online. Inova will create and send documentation to patients with instructions on how to place orders for electronic blood glucose flowsheets. Finally, Inova plans to provide physicians with a reminder message that they can send to encourage use of the tools.
 
 -image-
+
 *(Image subtitle) Reminder messages to patients significantly increased patient use of blood glucose flowsheets*
 
 *This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</a>*
 
-</br>
-</br>
-</br>
+
+
+
+
+
 
 ### Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans
 -image-
@@ -44,15 +48,19 @@ Random assignment was used to place 100,908 actively enrolled degree-seeking, pa
 The results suggest that there was a small and statistically significant increase in the number of courses enrolled students who received the email took in the next semester, but no significant difference in their likelihood being enrolled full-time . Specifically, the proportion of full-time enrollment among  those receiving the proactive email was 0.753, compared to 0.746 for those who did not. **The difference represents a 1% increase in relative enrollment. **
 
 -image-
+
 *Subtitle: Proactive Communication Significantly Increases College Enrollment for Post-9/11 GI Bill Beneficiaries*
 
 In less than a year, this project demonstrated that a low-cost intervention could result in a meaningful change in Veterans’ school enrollment. In addition, it provided information about potential adjustments to make to the intervention for future efforts. The Veterans Benefits Administration is still working through how to directly apply the results of this evaluation. Nonetheless, the process of working with OES allowed them to identify additional ways to **use administrative data and leverage proactive communication in a way that had an immediate, positive impact** on Post-9/11 GI Bill beneficiaries in their educational pursuits.
 
 *This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</a>*
 
-</br>
-</br>
-</br>
+
+
+
+
+
+
 
 ### Using evidence to improve government efficiency through timely wage reporting
 -image-
@@ -67,6 +75,7 @@ This study tested whether a behaviorally-informed letter would encourage SSI rec
  Three months after the intervention, SSI recipients who received any letter were **34 percent more likely to have reported any earnings for the previous three months, and they reported about 75 percent more in earnings.**
 
 -image-
+
 *Subtitle: Letters to SSI recipients significantly increased timely reporting of wages*
 
 Taking on this type of evidence-building project to meet a specific agency goal—reducing improper payments demonstrates the Agency’s commitment to being a good steward of the programs it administers. SSA plans to build on this experience in at least two ways: 
@@ -74,4 +83,5 @@ First, by making further improvements to the letters by highlighting other impor
 Second, by improving the target efficiency of the notice using administrative data and the results of this evaluation. 
 
 Once SSA has refined the letters, they will develop a proposal to send the letters to the entire target population on a regular basis.     
+
 *This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</a>*
