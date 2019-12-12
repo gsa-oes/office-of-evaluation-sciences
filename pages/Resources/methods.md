@@ -1,6 +1,6 @@
 ---
 layout: methods
-title: Building evidence
+title: Evaluation methods
 permalink: /methods/
 image:
 image_full: true
