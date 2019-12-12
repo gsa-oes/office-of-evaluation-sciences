@@ -6,22 +6,14 @@ layout: base
   <div class="usa-grid">
     {% if page.title == "Learning Agenda Information" %}
       {% for item in site.data.learningagenda %}
-        {% if item.id == 'I' %}
-        <section id="{{ item.id }}" class="tab-content active">
-          {% else %}
-          <section id="{{ item.id }}" class="tab-content hide">
-            {% endif %}
-          <h2> {{ item.id }}. {{ item.question }} </h2>
+      <section id="{{ item.id }}" class="tab-content hide">
+        <h2> {{ item.id }}. {{ item.question }} </h2>
       </section>
       {% endfor %}
     {% else %}
       {% for item in site.data.annualeval %}
-        {% if item.id == 'I' %}
-        <section id="{{ item.id }}" class="tab-content active">
-          {% else %}
-          <section id="{{ item.id }}" class="tab-content hide">
-            {% endif %}
-            <h2> {{ item.id }}. {{ item.question }} </h2>
+        <section id="{{ item.id }}" class="tab-content hide">
+          <h2> {{ item.id }}. {{ item.question }} </h2>
         </section>
       {% endfor %}
     {% endif %}
@@ -30,25 +22,17 @@ layout: base
 <section class="usa-section background-tint" style="padding-top: 2rem;">
   <div class="usa-grid" align="center">
     <div>
-      <ul class="nav nav-tabs">
+      <ul class="nav nav-tabs" id="nav">
         {% if page.title == "Learning Agenda Information" %}
           {% for item in site.data.learningagenda %}
-            {% if item.id == 'I' %}
-            <li class="active">
-              {% else %}
               <li>
-                {% endif %}
-              <a href="#{{ item.id }}"><img src="{{ item.image }}" height="50" width="50"></a>
+              <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
             </li>
           {% endfor %}
         {% else %}
           {% for item in site.data.annualeval %}
-            {% if item.id == 'I' %}
-            <li class="active">
-              {% else %}
               <li>
-                {% endif %}
-              <a href="#{{ item.id }}"><img src="{{ item.image }}" height="50" width="50"></a>
+              <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
             </li>
           {% endfor %}
         {% endif %}

@@ -20,7 +20,7 @@ layout: base
       <div class="flip-card-inner">
         <div class="flip-card-front">
           {{ item.name }}
-          <img src="{{ item.image }}" height="50" width="50">
+          <img src="{{ item.image }}" alt="" height="50" width="50">
         </div>
         <a href="{{ site.baseurl}}/learninginfo#{{item.id}}">
           <div class="flip-card-back">
@@ -36,9 +36,9 @@ layout: base
         <div class="flip-card-inner">
           <div class="flip-card-front">
             {{ item.name }}
-            <img src="{{ item.image }}" height="50" width="50">
+            <img src="{{ item.image }}" alt="" height="50" width="50">
           </div>
-          <a href="{{ site.baseurl}}/annualinfo/">
+          <a href="{{ site.baseurl}}/annualinfo#{{item.id}}">
             <div class="flip-card-back">
               {{ item.question }}
             </div>

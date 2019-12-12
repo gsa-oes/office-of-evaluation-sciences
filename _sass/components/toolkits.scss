@@ -99,16 +99,16 @@ table {
   width: max-content;
   padding: 0px;
   list-style: none;
-  background-color: rgb(31, 208, 197);
+  background-color: #B1EFE9;
 }
 
 .nav > li > a {
   display: block;
 }
 
-.nav-tabs{
-  *zoom: 1;
-}
+// .nav-tabs{
+//   *zoom: 1;
+// }
 
 .nav-tabs:before,
 .nav-tabs:after {
@@ -159,6 +159,7 @@ table {
   cursor: default;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
+  background-color: rgb(31, 208, 197);
 }
 
 li {
@@ -169,6 +170,7 @@ li {
   display: block;
   position: relative;
   bottom: 30px;
+  width: 1200px;
 }
 
 .tab-content.hide {
