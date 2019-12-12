@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Guides
 permalink: /resources/
 image:
 image_full: 
