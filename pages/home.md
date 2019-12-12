@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 hero:
-  image: /assets/img/projects-homepage.JPG
+  image: /assets/img/projects-homepage2.jpg
   callout:
     text: "Building and using evidence to better serve the public"
   button:
