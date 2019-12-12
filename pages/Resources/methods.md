@@ -1,6 +1,6 @@
 ---
 layout: methods
-title: Evaluation methods
+title: Evaluation Methods
 permalink: /methods/
 image:
 image_full: true
