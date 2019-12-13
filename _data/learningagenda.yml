@@ -1,39 +1,39 @@
-  - name: I. Purpose and Benefits
+  - name: 1. Purpose and Benefits
     image: /assets/img/icons/light_bulb.png
     question: What are the benefits of a learning agenda?
-    id: I
+    id: 1
 
-  - name: II. Types of Learning Questions
+  - name: 2. Types of Learning Questions
     image: /assets/img/icons/question_mark.png
     question: What types of questions go into a learning agenda?
-    id: II
+    id: 2
 
-  - name: III. Engaging Stakeholders
+  - name: 3. Engaging Stakeholders
     image: /assets/img/icons/people_team.png
     question: Who should be involved in the learning agenda development process?
-    id: III
+    id: 3
 
-  - name: IV. Encouraging Leadership Buy-In
+  - name: 4. Encouraging Leadership Buy-In
     image: /assets/img/icons/handshake.png
     question: How do I get leadership input and support?
-    id: IV
+    id: 4
 
-  - name: V. Developing a Learning Agenda
+  - name: 5. Developing a Learning Agenda
     image: /assets/img/icons/document_check.png
     question: What is the process for developing a learning agenda?
-    id: V
+    id: 5
 
-  - name: VI. Using Stakeholder Input
+  - name: 6. Using Stakeholder Input
     image: /assets/img/icons/puzzle_piece.png
     question: How does stakeholder engagement inform question development?
-    id: VI
+    id: 6
 
-  - name: VII. Writing the Learning Agenda
+  - name: 7. Writing the Learning Agenda
     image: /assets/img/icons/pen.png
     question: How do I write my agency's learning agenda?
-    id: VII
+    id: 7
 
-  - name: VIII. Additional Resources
+  - name: 8. Additional Resources
     image: /assets/img/icons/book.png
     question: Where can I find additional resources on learning agendas?
-    id: VIII
+    id: 8

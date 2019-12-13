@@ -1,29 +1,29 @@
-- name: I. Purpose and Benefits
+- name: 1. Purpose and Benefits
   image: /assets/img/icons/light_bulb.png
   question: What are the benefits of the Annnual Evaluation Plan?
-  id: I
+  id: 1
 
-- name: II. Engaging Stakeholders
+- name: 2. Engaging Stakeholders
   image: /assets/img/icons/people_team.png
   question: Who should be involved in the Annual Evaluation Plan process?
-  id: II
+  id: 2
 
-- name: III. Defining Significant Evaluations
+- name: 3. Defining Significant Evaluations
   image: /assets/img/icons/question_mark.png
   question: What is a significant evaluation?
-  id: III
+  id: 3
 
-- name: IV. Developing Evaluation Questions
+- name: 4. Developing Evaluation Questions
   image: /assets/img/icons/pen.png
   question: How can we identify and develop evaluation questions?
-  id: IV
+  id: 4
 
-- name: V. Developing an Evaluation Plan
+- name: 5. Developing an Evaluation Plan
   image: /assets/img/icons/document_check.png
   question: What should a good evaluation plan include?
-  id: V
+  id: 5
 
-- name: VI. Additional Resources
+- name: 6. Additional Resources
   image: /assets/img/icons/book.png
   question: Where can I find additional resources on evaluation plans?
-  id: VI
+  id: 6

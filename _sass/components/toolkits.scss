@@ -31,7 +31,11 @@ table {
 
 .tool-link {
   text-decoration: none;
-  color: #2E9AC4;
+  color: #0071bc;
+}
+
+.tool-link:visited {
+  color: #0071bc;
 }
 
 .wrapper-div {
@@ -72,7 +76,7 @@ table {
 }
 
 .flip-card-front {
-  background-color: rgb(31, 208, 197);
+  background-color: #2E9AC4;
   border-radius: 10px;
   padding: 25px;
   color: white;
@@ -82,8 +86,8 @@ table {
 }
 
 .flip-card-back {
-  background-color: rgb(31, 208, 197);
-  color: white;
+  border: solid 1px #2E9AC4;
+  color: #2E9AC4;
   transform: rotateY(180deg);
   border-radius: 10px;
   display: flex;
@@ -99,7 +103,7 @@ table {
   width: max-content;
   padding: 0px;
   list-style: none;
-  background-color: #B1EFE9;
+  background-color: #BEE0ED;
 }
 
 .nav > li > a {
@@ -159,7 +163,7 @@ table {
   cursor: default;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
-  background-color: rgb(31, 208, 197);
+  background-color: #2E9AC4;
 }
 
 li {
@@ -178,7 +182,7 @@ li {
 }
 
 .tool_link {
-  color: #F9834A;
+  color: #81848B;
   text-decoration: underline;
   font-weight: 600;
 }
