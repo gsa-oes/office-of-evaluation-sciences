@@ -44,7 +44,7 @@ table {
 }
 
 .tool-link {
-  text-decoration: none;
+  text-decoration: underline;
   color: #2E9AC4;
 }
 
@@ -126,6 +126,7 @@ table {
   padding: 0px;
   list-style: none;
   background-color: #BEE0ED;
+  border-radius: 10px;
 }
 
 .nav > li > a {
@@ -224,7 +225,15 @@ li {
 .workbook_link {
   color: #81848B;
   font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  font-size: 21px;
+  font-size: 25px;
   font-weight: 700;
   text-decoration: underline;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
 }

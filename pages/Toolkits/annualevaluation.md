@@ -1,6 +1,6 @@
 ---
 layout: toolkit-dashboard
-title: Annual Evaluation Plan Toolkit Home Page
+title: Annual Evaluation Plan Toolkit
 permalink: /annualevaluation/
 image:
 image_full:
