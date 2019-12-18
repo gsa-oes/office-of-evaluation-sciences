@@ -204,22 +204,13 @@ li {
   display: none;
 }
 
-.link_wrapper {
-  display: flex;
-  justify-content: flex-end;
-  position: sticky;
+.tab-content2.active {
+  display: block;
+  position: relative;
 }
 
-.tool_link {
-  border-radius: 10px;
-  height: 300px;
-  width: 200px;
-  padding-top: 9%;
-  background-color: #81848B;
-  color: white;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-  font-size: 21px;
-  font-weight: 400;
+.tab-content2.hide {
+  display: none;
 }
 
 .workbook_link {
@@ -236,4 +227,48 @@ a {
 
 a:visited {
   color: black;
+}
+
+
+//SECTIONS
+
+.heading {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: #2E9AC4;
+}
+
+.heading_content_wrapper {
+  display: flex;
+}
+
+.side-panel {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  height: 400px;
+  width: 4000px;
+  background-color: #D0D0D0;
+  padding: 10px;
+}
+
+.contents_wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+}
+
+p {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+
+li {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+
+.blue_div {
+  border: 1px solid black;
+  background-color: #03CAB9;
+  padding: 10px;
+  box-shadow: 0 0 0 1px $color-gray-lighter;
 }

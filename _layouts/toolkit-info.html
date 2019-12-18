@@ -25,21 +25,33 @@ layout: base
       <ul class="nav nav-tabs" id="nav">
         {% if page.title == "Learning Agenda Information" %}
           {% for item in site.data.learningagenda %}
-              <li>
+            <li>
               <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
             </li>
           {% endfor %}
         {% else %}
           {% for item in site.data.annualeval %}
-              <li>
+            <li>
               <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
             </li>
           {% endfor %}
         {% endif %}
       </ul>
     </div>
-    <div class="link_wrapper">
-      <div class="tool_link">
+      <p class="workbook_link">
         Click here to download the {{ page.title }} workbook.
-      </div>
-    </div>
+      </p>
+          {% if page.title == "Learning Agenda Information" %}
+            {% for item in site.data.learningagenda %}
+            <section id="test" class="tab-content2 hide">
+              {% include toolkit_sections/section_two.html %}
+            </section>
+            {% endfor %}
+          {% else %}
+            {% for item in site.data.annualeval %}
+              <section id="{{ item.id }}" class="tab-content2 hide">
+                <h2> {{ item.id }}. {{ item.question }} </h2>
+              </section>
+            {% endfor %}
+          {% endif %}
+        </div>

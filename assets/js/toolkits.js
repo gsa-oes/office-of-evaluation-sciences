@@ -12,6 +12,8 @@
           $(tabs_list[i]).parents('li').addClass('active')
           $(href).removeClass('hide')
           $(href).addClass('active')
+          $('#test').removeClass('hide')
+          $('#test').addClass('active')
         } else if (target < href) {
           $(tabs_list[i]).parents('li').addClass('active')
         }
@@ -44,10 +46,19 @@
 		content_list.removeClass('active');
 		content_list.addClass('hide');
 
+    //hide tab content 2
+    var content_list2 = $('.tab-content2.active')
+
+    content_list2.removeClass('active');
+    content_list2.addClass('hide');
+
 		//show target tab content
 		var target_tab_selector = $(this).attr('href');
     var target_tab = $(target_tab_selector)
 		target_tab.removeClass('hide');
 		target_tab.addClass('active');
+
+    $('#test').removeClass('hide');
+		$('#test').addClass('active');
 	     });
 	  });
