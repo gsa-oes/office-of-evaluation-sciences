@@ -13,17 +13,12 @@
   question: What is a significant evaluation?
   id: 3
 
-- name: 4. Developing Evaluation Questions
-  image: /assets/img/icons/pen.png
-  question: How can we identify and develop evaluation questions?
-  id: 4
-
-- name: 5. Developing an Evaluation Plan
+- name: 4. Developing an Evaluation Plan
   image: /assets/img/icons/document_check.png
   question: What should a good evaluation plan include?
-  id: 5
+  id: 4
 
-- name: 6. Additional Resources
+- name: 5. Additional Resources
   image: /assets/img/icons/book.png
   question: Where can I find additional resources on evaluation plans?
-  id: 6
+  id: 5
