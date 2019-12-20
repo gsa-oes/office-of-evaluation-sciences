@@ -39,19 +39,55 @@ layout: base
       </ul>
     </div>
       <p class="workbook_link">
-        Click here to download the {{ page.title }} workbook.
+        <a href="{{ page.download | prepend: site.baseurl }}">
+          Click here to download the {{ page.title }} workbook.
+        </a>
       </p>
-          {% if page.title == "Learning Agenda Information" %}
-            {% for item in site.data.learningagenda %}
-            <section id="test" class="tab-content2 hide">
-              {% include toolkit_sections/annual_five.html %}
-            </section>
-            {% endfor %}
-          {% else %}
-            {% for item in site.data.annualeval %}
-              <section id="{{ item.id }}" class="tab-content2 hide">
-                {% include toolkit_sections/annual_one.html %}
-              </section>
-            {% endfor %}
-          {% endif %}
-        </div>
+      <p class="workbook_link" style="font-size: 20px;">
+        <a href="{{ page.download-two | prepend: site.baseurl }}">
+          Click here to download the {{ page.title }} Overview.
+        </a>
+      </p>
+      {% if page.title == "Learning Agenda Information" %}
+        <section id="1-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_one.html %}
+        </section>
+        <section id="2-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_two.html %}
+        </section>
+        <section id="3-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_three.html %}
+        </section>
+        <section id="4-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_four.html %}
+        </section>
+        <section id="5-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_five.html %}
+        </section>
+        <section id="6-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_six.html %}
+        </section>
+        <section id="7-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_seven.html %}
+        </section>
+        <section id="8-content" class="tab-content2 hide">
+          {% include toolkit_sections/section_eight.html %}
+        </section>
+      {% else %}
+        <section id="1-content" class="tab-content2 hide">
+          {% include toolkit_sections/annual_one.html %}
+        </section>
+        <section id="2-content" class="tab-content2 hide">
+          {% include toolkit_sections/annual_two.html %}
+        </section>
+        <section id="3-content" class="tab-content2 hide">
+          {% include toolkit_sections/annual_three.html %}
+        </section>
+        <section id="4-content" class="tab-content2 hide">
+          {% include toolkit_sections/annual_four.html %}
+        </section>
+        <section id="5-content" class="tab-content2 hide">
+          {% include toolkit_sections/annual_five.html %}
+        </section>
+      {% endif %}
+      </div>

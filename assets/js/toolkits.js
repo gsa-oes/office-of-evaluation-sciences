@@ -12,8 +12,8 @@
           $(tabs_list[i]).parents('li').addClass('active')
           $(href).removeClass('hide')
           $(href).addClass('active')
-          $('#test').removeClass('hide')
-          $('#test').addClass('active')
+          $(href + '-content').removeClass('hide')
+          $(href + '-content').addClass('active')
         } else if (target < href) {
           $(tabs_list[i]).parents('li').addClass('active')
         }
@@ -58,7 +58,7 @@
 		target_tab.removeClass('hide');
 		target_tab.addClass('active');
 
-    $('#test').removeClass('hide');
-		$('#test').addClass('active');
+    $(target_tab_selector + '-content').removeClass('hide');
+		$(target_tab_selector + '-content').addClass('active');
 	     });
 	  });

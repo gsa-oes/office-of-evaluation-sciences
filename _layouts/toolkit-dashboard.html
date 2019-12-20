@@ -10,7 +10,9 @@ layout: base
 <section class="usa-section background-tint" style="padding-top: 2rem;">
   <div class="usa-grid" align="center">
     <p class="workbook_link">
-      Click here to download the {{ page.title }} Workbook.
+      <a href="{{ page.download | prepend: site.baseurl }}">
+        Click here to download the {{ page.title }} Workbook.
+      </a>
     </p>
   </div>
   <div class="wrapper-div">
