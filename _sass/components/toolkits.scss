@@ -2,16 +2,15 @@
   display: flex;
   padding-top: 5rem;
   padding-bottom: 3rem;
+  justify-content: space-between;
 }
 
 .toolkit-div {
-  margin: 10px;
-  padding: 10px;
+  padding-bottom: 10px;
   padding-top: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: center;
 }
 
 .billboard-message-toolkits {
@@ -237,10 +236,12 @@ a {
   font-size: 25px;
   font-weight: 400;
   color: #2E9AC4;
+  margin-bottom: 40px;
 }
 
 .heading_content_wrapper {
   display: flex;
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
 .side-panel {
@@ -264,6 +265,11 @@ p {
 
 li {
   font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  line-height: 30px;
+}
+
+ul {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 }
 
 .blue_div {
@@ -271,4 +277,12 @@ li {
   background-color: #03CAB9;
   padding: 10px;
   box-shadow: 0 0 0 1px $color-gray-lighter;
+}
+
+table {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+}
+
+td {
+  padding-left: 30px;
 }

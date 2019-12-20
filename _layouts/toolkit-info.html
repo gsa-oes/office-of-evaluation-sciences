@@ -4,7 +4,7 @@ layout: base
 
 <div class="usa-section background-brand-dark" style="padding-bottom: 25px;">
   <div class="usa-grid">
-    {% if page.title == "Learning Agenda Information" %}
+    {% if page.title == "Learning Agenda" %}
       {% for item in site.data.learningagenda %}
       <section id="{{ item.id }}" class="tab-content hide">
         <h2> {{ item.id }}. {{ item.question }} </h2>
@@ -23,7 +23,7 @@ layout: base
   <div class="usa-grid" align="center">
     <div>
       <ul class="nav nav-tabs" id="nav">
-        {% if page.title == "Learning Agenda Information" %}
+        {% if page.title == "Learning Agenda" %}
           {% for item in site.data.learningagenda %}
             <li>
               <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
@@ -40,15 +40,10 @@ layout: base
     </div>
       <p class="workbook_link">
         <a href="{{ page.download | prepend: site.baseurl }}">
-          Click here to download the {{ page.title }} workbook.
+          Click here to download the {{ page.title }} Toolkit Workbook.
         </a>
       </p>
-      <p class="workbook_link" style="font-size: 20px;">
-        <a href="{{ page.download-two | prepend: site.baseurl }}">
-          Click here to download the {{ page.title }} Overview.
-        </a>
-      </p>
-      {% if page.title == "Learning Agenda Information" %}
+      {% if page.title == "Learning Agenda" %}
         <section id="1-content" class="tab-content2 hide">
           {% include toolkit_sections/section_one.html %}
         </section>
