@@ -15,7 +15,7 @@ For example, in collaboration with the Department of Health and Human Services O
 
 The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data-provider-encouragement/">encouraged providers to place bulk orders for electronic blood glucose flow sheets</a>, while the second intervention  <a href="https://oes.gsa.gov/projects/patient-health-data-patient-reminders/">reminded patients to log their own health data into the flow sheets.</a>
 
-![image](https://github.com/gsa-oes/office-of-evaluation-sciences/assets/img/project-images/blog1table1.png)
+![image]({{site.baseurl}}/assets/img/project-images/blog1table1.png)
 </br>
 *Table 1: Training and Encouragement to providers significantly increased patient use of blood glucose flowsheets.*
 
