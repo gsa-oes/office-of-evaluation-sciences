@@ -11,11 +11,23 @@ abstract: /assets/abstracts/1803-abstract-atlanta-va-health-care-system.pdf
 year: 2019
 domain: Health
 agency: Veterans Affairs
-summary: Analysis Plan Registration
+summary: A modified clinical reminder did not increase patient vaccine uptake
 featured: homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf">here</a>.
+Flu causes more than 9 million illnesses and more than 12,000 deaths in the United States annually. The VA provides free flu shots to enrolled Veterans and aims to increase flu vaccination rates nationwide.
 
-Check back for results!
+## What was the program change?
+
+In collaboration with the New York Harbor VA Health Care System, the Office of Evaluation Sciences (OES) designed email messages to send to enrolled Veterans. These included information about how to get a flu shot, and elements, based on evidence from the behavioral sciences, that were designed to increase individuals’ motivation and follow-through.
+
+## How did the evaluation work?
+
+Veterans were randomly assigned to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
+
+## What was the impact?
+
+There was no significant effect of the emails on either uptake or timing of flu shots.
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf">click here</a>.</i>
