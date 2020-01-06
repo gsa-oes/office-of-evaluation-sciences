@@ -16,18 +16,18 @@ featured: homepage
 ---
 ## What was the challenge?
 
-Flu causes more than 9 million illnesses and more than 12,000 deaths in the United States annually. The VA provides free flu shots to enrolled Veterans and aims to increase flu vaccination rates nationwide.
+The Department of Veterans Affairs (VA) National Center for Health Promotion and Disease Prevention promotes vaccinations for Veterans, in line with the Centers for Disease Control recommendations. Despite the availability of free flu vaccines at VA health care facilities, Veterans’ rates of vaccination for flu and many other adult vaccinations fall below the Healthy People 2020 targets of 70%. 
 
 ## What was the program change?
 
-In collaboration with the New York Harbor VA Health Care System, the Office of Evaluation Sciences (OES) designed email messages to send to enrolled Veterans. These included information about how to get a flu shot, and elements, based on evidence from the behavioral sciences, that were designed to increase individuals’ motivation and follow-through.
+The Atlanta VA and OES worked together to develop a modified clinical reminder that bundled separate clinical reminders for three adult vaccines (Influenza, Pneumococcal, and Tdap), decreasing the overall number of reminders presented to clinicians. This single reminder included a vaccination dashboard relaying patient vaccination history and status and talking points providers could use to address patient refusal or vaccine hesitancy. The reminder was designed to increase vaccination rates by making it easier for providers to recommend and order vaccines.
 
 ## How did the evaluation work?
 
-Veterans were randomly assigned to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
+Primary care teams (consisting of physicians, advanced practice providers, and nurses) were randomly assigned to either a treatment or control condition. In total, 44 primary care teams were assigned to receive the treatment (modified clinical reminders in the EHR system, new vaccination dashboard, and suggested talking points), and 40 were assigned to the control condition. The Atlanta VA implemented the treatment to the selected primary care teams between October 2018 and April 2019, and these teams saw 28,941 unique patients during this test period.
 
 ## What was the impact?
 
-There was no significant effect of the emails on either uptake or timing of flu shots.
+Flu vaccination was higher among patients who saw primary care teams in the treatment group than patients who saw teams in the control group (22.3% versus 20.8%). However, when accounting for demographic characteristics and the clustering of patients within respective care teams, the difference is not statistically significant. 
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf">click here</a>.</i>
