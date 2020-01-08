@@ -15,5 +15,5 @@ In partnership with the <a href="https://www.hhs.gov/nvpo/featured-priorities/in
 
 ## Portfolio
 
-Working with agency collaborators and delivery partners, OES has completed more than five randomized evaluations to test the impact of low-cost evidence-based program changes in improving vaccine uptake. We look forward to releasing results from these projects in late 2018. 
+Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving vaccine uptake. 
 
