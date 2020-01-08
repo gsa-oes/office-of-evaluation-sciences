@@ -2,7 +2,7 @@
 title:  Increasing Vaccine Uptake Through Performance Feedback
 permalink: /projects/1904-increasing-vaccines-performance-feedback/
 tags: project
-image: /assets/img/project-images/1904.jpg  
+image: /assets/img/project-images/1904.jpg
 image-credit: https://health.mil/-/media/Images/MHS/Photos/IPAP.ashx
 analysis-plan: /assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf
 abstract: 
