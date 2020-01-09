@@ -19,10 +19,12 @@ primary:
       href: /toolkits/
   - text: Connect
     links:
+      - text: Contact
+        href: /contact/
       - text: Events
         href: /events/
       - text: Opportunities
-        href: /contact/
+        href: /opps/
       - text: Press
         href: /press/
 
