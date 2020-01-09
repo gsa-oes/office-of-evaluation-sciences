@@ -1,7 +1,7 @@
 ---
 title:  Using evidence to improve government efficiency through timely wage reporting
 permalink: /blog/wage-reporting
-tags: blog
+tags: project
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract:
