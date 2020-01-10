@@ -9,7 +9,8 @@ summary:
 ---
 ## Using evidence to encourage patients’ and providers’ to engage in health information technology
 ![image]({{site.baseurl}}/assets/img/project-images/1729.jpg)
-In collaboration with the Department of Health and Human Services Office of the National Coordinator for Health Information Technology and Inova Health Systems, OES applied behavioral insights to develop two interventions to increase the use of patient-generated health data among patients with diabetes. The impacts of these interventions were then evaluated using data from the electronic health record. <a href="https://oes.gsa.gov/blog/health-it-technology/">Read more.</a> 
+In collaboration with the Department of Health and Human Services Office of the National Coordinator for Health Information Technology and Inova Health Systems, OES applied behavioral insights to develop two interventions to increase the use of patient-generated health data among patients with diabetes. The impacts of these interventions were then evaluated using data from the electronic health record. 
+<a href="https://oes.gsa.gov/blog/health-it-technology/">Read more.</a> 
 
 
 ## Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans
