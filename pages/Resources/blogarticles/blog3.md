@@ -1,14 +1,11 @@
 ---
-title:  Using evidence to improve government efficiency through timely wage reporting
+layout: page
+title: Using evidence to improve government efficiency through timely wage reporting
 permalink: /blog/wage-reporting/
-tags: project
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
-image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
-abstract:
-year:
-domain:
-agency:
-summary:
+image_full: 
+class:
+summary: 
 ---
 
 OES and the Social Security Administration (SSA) worked together to address improper payments <a href="https://oes.gsa.gov/projects/ssi-wage-reporting/">by developing and testing reminder notices</a> to Supplemental Security Income (SSI) recipients in order to increase timely wage reporting. Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters **generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.**
