@@ -1,6 +1,6 @@
 ---
 title: Using evidence to encourage patients’ and providers’ to engage in health information technology 
-permalink: /blog/health-it-technology
+permalink: /blog/health-it-technology/
 tags: project
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
