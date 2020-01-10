@@ -1,15 +1,11 @@
 ---
+layout: page
 title: Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans
 permalink: /blog/gi-bill-communication/
-tags: project
 image: /assets/img/project-images/1810.jpg
-image-credit: U.S. Army photo by Nell King
-analysis-plan: 
-abstract: 
-year: 
-domain: 
-agency: 
-summary:
+image_full: 
+class:
+summary: 
 ---
 
 OES and the Veterans Benefits Administration in the Department of Veterans Affairs developed and <a href="https://oes.gsa.gov/projects/gi-bill-proactive-communication/">tested a proactive communication</a> to increase college enrollment for Post-9/11 GI Bill beneficiaries. This communication encouraged beneficiaries to enroll full-time and increase their enrollment intensity. It also provided information on accessing financial aid, and connected delays in degree completion with potential monetary impacts. 
