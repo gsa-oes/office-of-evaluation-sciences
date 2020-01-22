@@ -14,8 +14,9 @@
 }
 
 .billboard-message-toolkits {
-  color: #81848B;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  color: #81848b;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
   font-size: 28px;
   font-weight: 700;
   letter-spacing: -0.4px;
@@ -25,8 +26,9 @@
 
 .download-footer {
   border: none;
-  border-style: hidden!important;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  border-style: hidden !important;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
   font-size: 18px;
 }
 
@@ -44,11 +46,11 @@ table {
 
 .tool-link {
   text-decoration: underline;
-  color: #2E9AC4;
+  color: #2e9ac4;
 }
 
 .tool-link:visited {
-  color: #2E9AC4;
+  color: #2e9ac4;
 }
 
 .wrapper-div {
@@ -66,7 +68,8 @@ table {
   perspective: 1000px;
   margin: 10px;
   flex: 0 0 24%;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 .flip-card-inner {
@@ -82,7 +85,8 @@ table {
   transform: rotateY(180deg);
 }
 
-.flip-card-front, .flip-card-back {
+.flip-card-front,
+.flip-card-back {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -90,7 +94,7 @@ table {
 }
 
 .flip-card-front {
-  background-color: #2E9AC4;
+  background-color: #2e9ac4;
   border-radius: 10px;
   padding: 25px;
   padding-top: 18px;
@@ -101,15 +105,16 @@ table {
 }
 
 .flip-card-back {
-  border: solid 1px #2E9AC4;
-  color: #2E9AC4;
+  border: solid 1px #2e9ac4;
+  color: #2e9ac4;
   transform: rotateY(180deg);
   border-radius: 10px;
   display: flex;
   align-items: center;
   padding: 10px;
   padding-bottom: 20px;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 .card-contents {
@@ -118,13 +123,48 @@ table {
 }
 //toolkit-info Styling
 
+.card-toolkit {
+  box-shadow: 0 0 0 1px $color-gray-lighter;
+  display: block;
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+  position: relative;
+  text-decoration: none;
+
+  @include media(0px) {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2.3%;
+    height: auto;
+    min-height: 200px;
+    width: 100%;
+  }
+
+  @include media(1055px) {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2.3%;
+    height: auto;
+    min-height: 750px;
+    width: 31%;
+  }
+
+  &:hover {
+    box-shadow: 0 0 0 1px $color-primary;
+  }
+
+  &:active {
+    box-shadow: $focus-shadow;
+  }
+}
+
 .nav {
   margin-bottom: 18px;
   margin-left: 0;
   width: max-content;
   padding: 0px;
   list-style: none;
-  background-color: #BEE0ED;
+  background-color: #bee0ed;
   border-radius: 10px;
 }
 
@@ -139,7 +179,7 @@ table {
 .nav-tabs:before,
 .nav-tabs:after {
   display: table;
-  content: "";
+  content: '';
 }
 
 .nav-tabs:after {
@@ -171,8 +211,8 @@ table {
   line-height: 18px;
   border: 1px solid transparent;
   -webkit-border-radius: 4px 4px 0 0;
-   -moz-border-radius: 4px 4px 0 0;
-      border-radius: 4px 4px 0 0;
+  -moz-border-radius: 4px 4px 0 0;
+  border-radius: 4px 4px 0 0;
 }
 
 .nav-tabs > li > a:hover {
@@ -185,7 +225,7 @@ table {
   cursor: default;
   border: 1px solid #ddd;
   border-bottom-color: transparent;
-  background-color: #2E9AC4;
+  background-color: #2e9ac4;
 }
 
 li {
@@ -213,41 +253,44 @@ li {
 }
 
 .workbook_link {
-  color: #81848B;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  color: #81848b;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
   font-size: 25px;
   font-weight: 700;
   text-decoration: underline;
 }
 
 a {
-  color: #2E9AC4;
+  color: #2e9ac4;
 }
 
 // a:visited {
 //   color: black;
 // }
 
-
 //SECTIONS
 
 .heading {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
   font-size: 25px;
   font-weight: 400;
-  color: #2E9AC4;
+  color: #2e9ac4;
   margin-bottom: 40px;
 }
 
 .heading_content_wrapper {
   display: flex;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 .side-panel {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
   // width: 4000px;
-  background-color: #D0D0D0;
+  background-color: #d0d0d0;
   padding: 10px;
 }
 
@@ -256,31 +299,36 @@ a {
   flex-direction: row;
   justify-content: space-between;
   text-align: left;
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 p {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 li {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
   line-height: 30px;
 }
 
 ul {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 .blue_div {
   border: 1px solid black;
-  background-color: #03CAB9;
+  background-color: #03cab9;
   padding: 10px;
   box-shadow: 0 0 0 1px $color-gray-lighter;
 }
 
 table {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
+    sans-serif;
 }
 
 td {
