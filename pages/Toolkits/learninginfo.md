@@ -1,7 +1,7 @@
 ---
 layout: toolkit-info
 title: Learning Agenda
-permalink: /learninginfo/
+# permalink: /learninginfo/
 image:
 image_full:
 class:

@@ -1,7 +1,7 @@
 ---
 layout: toolkit-dashboard
 title: Learning Agenda Toolkit
-permalink: /learningagenda/
+# permalink: /learningagenda/
 image:
 image_full:
 class:

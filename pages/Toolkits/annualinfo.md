@@ -1,7 +1,7 @@
 ---
 layout: toolkit-info
 title: Annual Evaluation Plan
-permalink: /annualinfo/
+# permalink: /annualinfo/
 image:
 image_full:
 class:
