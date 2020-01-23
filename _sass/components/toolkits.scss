@@ -143,6 +143,7 @@ table {
   @include media(1055px) {
     display: flex;
     flex-direction: column;
+    margin-left: 5px;
     margin-right: 2.3%;
     height: auto;
     min-height: 720px;
