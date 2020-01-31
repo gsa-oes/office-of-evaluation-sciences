@@ -1,0 +1,53 @@
+---
+layout: base
+---
+
+<div class="usa-section background-brand-dark">
+  <div class="usa-grid">
+    <h1>{{ page.title }}</h1>
+  </div>
+</div>
+<section class="usa-section background-tint" style="padding-top: 2rem;">
+  <div class="usa-grid" align="center">
+    <p class="workbook_link">
+      <a href="{{ page.download | prepend: site.baseurl }}">
+        Click here to download the {{ page.title }} Workbook.
+      </a>
+    </p>
+  </div>
+  <div class="wrapper-div">
+  {% if page.title == "Learning Agenda Toolkit" %}
+    {% for item in site.data.learningagenda %}
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <h2 style="font-size: 25px; display: contents;"> {{ item.name }} </h2>
+          <img src="{{ item.image }}" alt="" height="50" width="50">
+        </div>
+        <a href="{{ site.baseurl}}/learninginfo#{{item.id}}">
+          <div class="flip-card-back">
+            <h2 style="font-size: 20px;"> {{ item.question }} </h2>
+          </div>
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  {% else %}
+    {% for item in site.data.annualeval %}
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <h2 style="font-size: 25px; display: contents;"> {{ item.name }} </h2>
+            <img src="{{ item.image }}" alt="" height="50" width="50">
+          </div>
+          <a href="{{ site.baseurl}}/annualinfo#{{item.id}}">
+            <div class="flip-card-back">
+              <h2 style="font-size: 20px;"> {{ item.question }} </h2>
+            </div>
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  {% endif %}
+  </div>
+</section>
