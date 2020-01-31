@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: toolkit
 title: Evidence Act Toolkits
 permalink: /toolkits/
 image:
