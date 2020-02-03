@@ -3,8 +3,8 @@ title:  Increasing utilization of family planning services in Mozambique through
 permalink: /projects/sms-mozambique/
 tags: project  
 image: /assets/img/project-images/1811.jpg  
-image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
-analysis-plan: /assets/analysis/1811-sms-mozambique.pdf
+image-credit: PSI
+analysis-plan: /assets/analysis/1811-Mozambique-SMS.pdf
 abstract: 
 year: 2020 
 domain: Communications
