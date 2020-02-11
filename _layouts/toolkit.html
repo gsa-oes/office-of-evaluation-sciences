@@ -7,18 +7,23 @@ layout: base
     <h1>{{ page.title }}</h1>
   </div>
 </div>
+<div class="usa-grid usa-content main-content" id="main">
+  {% if page.summary %}
+    <p class="billboard-message">{{ page.summary }}</p>
+  {% endif %}
+  {% if page.image and page.image_full %}
+    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
+  {% elsif page.image %}
+    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption"{% endif %}>
+    {% if page.image_alt_text %}
+      <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
+    {% endif %}
+    </div>
+  {% endif %}
+  {{ content }}
+</div>
 <section class="usa-section background-tint" style="padding-top: 2rem;">  
   <div class="usa-grid">
-    <p class="billboard-message-toolkits" style="font-size: 42px;">
-      Resources to Help Federal Agencies Implement Title I of the Evidence Act
-    </p>
-    <p>
-      The Foundations for Evidence-Based Policymaking Act of 2018 (“Evidence Act”) requires Federal agencies to undertake a number of activities to build and use evidence. These include establishing an Evaluation Officer (EO) position, developing a multi-year learning agenda and an Annual Evaluation Plan, and completing a capacity assessment. Implementation of the Evidence Act offers an opportunity to improve how agencies plan to build and use evidence, and can better align performance, budget, strategic planning, policymaking, data, and evidence-building activities across the Federal government.
-    </p>
-    <p>
-      OES has developed resources to support EOs and their staff as they engage stakeholders, help define priority questions, and plan evaluations and evidence-building activities. These toolkits on learning agendas, Annual Evaluation Plans, and the capacity assessment, published in early 2020, are intended as resources to help agencies learn from leading practices and case studies to build a culture and infrastructure for continuous learning and improvement. We hope these publicly available materials will be helpful as EOs, their staff, and others across government complete this important work.
-    </p>
-    <br />
     <article class="card-toolkit usa-width-one-third">     
       <div class="card-image" style="text-align: center; background-color: #2CBEB3;">
         <img src="../assets/toolkits/learning_agenda_bg_hq_w.png" style="max-height: 200px;">
@@ -69,7 +74,9 @@ layout: base
             <li style="line-height: 25px;">
               <a href="../assets/toolkits/A_Guide_to_Developing_your_Agency's_Annual_Evaluation_Plan.pdf" target="_blank">A Guide to Developing Your Agency’s Annual Evaluation Plan (938 KB)</a>
             </li>
-            {% comment %} <li style="line-height: 25px;">[Coming Soon] Evaluation Planning Tips</li> {% endcomment %}
+            <li style="line-height: 25px;">
+              <a href="../assets/toolkits/evaluation_planning_tips.pdf" target="_blank">Evaluation Planning Tips (801 KB)</a>
+            </li>
             <li style="line-height: 25px;">
               <a href="../assets/toolkits/Annual_Evaluation_Plan_Workbook.docx" target="_blank">Annual Evaluation Plan Workbook (324 KB)</a>
             </li>            
