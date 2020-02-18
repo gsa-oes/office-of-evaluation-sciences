@@ -5,9 +5,9 @@ year:
   - 2019
   - 2020
 agency:   
-  - SSA
-  - HUD
-  - VA
+  - Social Security
+  - Housing and Urban Development
+  - Veterans Affairs
 home: Non-profit
 title: Academic Affiliate
 ---
