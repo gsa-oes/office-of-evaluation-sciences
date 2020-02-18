@@ -7,7 +7,7 @@ year:
   - 2020
 domain:
 agency:
-  - USAID
+  - US Agency for International Development
 home: 
 title: Academic Affiliate
 ---
