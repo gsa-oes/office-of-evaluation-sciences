@@ -3,6 +3,7 @@ name: Julia Brown
 image: /assets/img/team/julia_brown.jpg
 year:
   - 2019
+  - 2020
 home: University
 title: Associate Fellow
 ---
