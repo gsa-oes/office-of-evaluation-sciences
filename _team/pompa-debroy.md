@@ -4,6 +4,7 @@ image: /assets/img/team/pompa_debroy.jpg
 year:
   - 2018
   - 2019
+  - 2020
 agency:
   - Health and Human Services
   - Veterans Affairs
