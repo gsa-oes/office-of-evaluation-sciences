@@ -4,6 +4,7 @@ image: /assets/img/team/Catherine_Hensly.jpg
 year: 
   - 2018
   - 2019
+  - 2020
 domain:
 agency:
   - USAID
