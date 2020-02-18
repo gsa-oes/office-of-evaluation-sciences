@@ -6,7 +6,7 @@ year:
   - 2019
 domain:
 agency:
-  - USAID
+  - US Agency for International Development
 home: University
 title: Academic Affiliate
 ---
