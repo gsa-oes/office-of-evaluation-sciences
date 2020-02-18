@@ -4,6 +4,7 @@ image: /assets/img/team/cooper_jasper.jpg
 year: 
   - 2018
   - 2019
+  - 2020
 agency:   
   - Census
   - Justice 
