@@ -3,6 +3,7 @@ name: Rebecca Johnson
 image: /assets/img/team/rebecca_johnson.jpg
 year:
   - 2019
+  - 2020
 home: University
 title: Associate Fellow
 ---
