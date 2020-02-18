@@ -8,8 +8,8 @@ year:
   - 2019
 domain:
 agency: 
-  - HHS
-  - VA
+  - Health and Human Services
+  - Veterans Affairs
 home: 
 title: Academic Affiliate
 ---
