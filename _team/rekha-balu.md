@@ -3,12 +3,13 @@ name: Rekha Balu
 image: /assets/img/team/rekha_balu.jpg 
 year: 
   - 2019
+  - 2020
 agency:   
   - SSA
   - HUD
   - VA
-home: University 
-title: Fellow 
+home: Non-profit
+title: Academic Affiliate
 ---
 
 **Discipline:**
