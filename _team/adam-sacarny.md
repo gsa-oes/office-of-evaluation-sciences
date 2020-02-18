@@ -9,8 +9,8 @@ year:
   - 2020
 domain:
 agency:
-  - HHS
-  - DoD
+  - Health and Human Services
+  - Defense
 home: 
 title: Academic Affiliate
 ---
