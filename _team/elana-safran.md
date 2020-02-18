@@ -11,7 +11,7 @@ year:
 agency:
   - Defense
   - Health and Human Services
-  - Social Security
+  - Social Security Administration
   - Treasury
   - US Agency for International Development
   - Veterans Affairs
