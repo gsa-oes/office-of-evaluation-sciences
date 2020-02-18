@@ -4,8 +4,8 @@ image: /assets/img/team/Kevin_Hong.jpg
 year: 
   - 2019
 agency:   
-  - SSA
-  - FEMA 
+  - Social Security Administration
+  - Federal Emergency Management Administration
 home: DOL
 title: Alum
 ---
