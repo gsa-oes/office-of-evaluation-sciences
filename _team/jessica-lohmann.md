@@ -4,7 +4,7 @@ image: /assets/img/team/jessica_lohmann.jpg
 year:
   - 2019
 home: Government
-title: DOL Detail
+title: Alum
 ---
 
 **Discipline:** 
