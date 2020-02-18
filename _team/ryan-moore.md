@@ -3,6 +3,7 @@ name: Ryan Moore
 image: /assets/img/team/ryan_moore.png
 year:
   - 2019
+  - 2020
 home: University
 title: Fellow
 ---
