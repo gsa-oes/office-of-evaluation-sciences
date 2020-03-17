@@ -9,6 +9,12 @@ summary: Our team is passionate about building and using evidence to better serv
 ---
 ## Join OES
 
+### Design Fellowship
+OES is currently accepting applications for a one-year Design Fellow beginning in 2020 in Washington, D.C.: with applications due **Sunday, March 29 at 11:59pm.** [View Solicitation]({{site.baseurl}}/assets/files/oes-design-fellow-solicitation-2020.pdf).
+- Applicants may apply by emailing <a href="mailto:oes@gsa.gov?subject=Design Fellowship Application 2020">oes@gsa.gov</a> with their resume and cover letter.
+- A design portfolio link should be included in the resume, or attach a PDF that includes work samples (these can include journey maps, interview guides, materials, or other products you developed as part of previous professional experiences conducting qualitative research to inform solution design). 
+- Finalists will be invited to an interview process that will include a design exercise, interviews and a presentation.
+
 ### OES Annual Fellowship Overview
 OES accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), <a href="https://oes.gsa.gov/team/">OES is a team of interdisciplinary experts</a> that works across government to help agencies build and use evidence. 
 
