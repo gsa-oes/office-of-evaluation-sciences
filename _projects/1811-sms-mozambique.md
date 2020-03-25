@@ -4,7 +4,7 @@ permalink: /projects/sms-mozambique/
 tags: project  
 image: /assets/img/project-images/1811.jpg
 image-credit: 
-analysis-plan: /assets/analysis/1811-Mozambique-SMS.pdf
+analysis-plan: /assets/analysis/1811-Mozambique-SMS-2-28-20.pdf
 abstract: 
 year: 2020 
 domain: Communications
