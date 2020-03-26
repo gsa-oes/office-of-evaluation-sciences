@@ -8,7 +8,7 @@ abstract: /assets/abstracts/15xx-di.pdf
 year: 2019
 domain: Employment
 agency: Social Security Administration
-summary: Letters to about employment support programs did not reduce appeals.
+summary: Letters to denied disability applicants about employment support programs did not reduce appeals.
 ---
 ## What was the challenge?
 
