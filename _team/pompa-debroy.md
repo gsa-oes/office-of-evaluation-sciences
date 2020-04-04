@@ -8,7 +8,7 @@ year:
 agency:
   - Health and Human Services
   - Veterans Affairs
-home: University
+home: Government
 title: Strategy and Operations Lead
 ---
 
