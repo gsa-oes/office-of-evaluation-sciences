@@ -12,18 +12,4 @@ home: Non-profit
 title: Academic Affiliate
 ---
 
-**Discipline:**
-
-Economics of Education, Public Policy
-
-**What is your favorite DC area spot?**
-
-Rock Creek Park
-
-**Why did you join OES?**
-
-To serve in government, to test innovative interventions at scale, to learn from the best!
-
-**What's one of the most exciting things you've worked on at OES?**
-
-Designing within constraints -- we rarely have all the time, data, or intervention components we'd ideally like, so how do you make smart tradeoffs that still improve people's experience of government?
+Rekha Balu directs the Center for Applied Behavioral Science at MDRC, a nonprofit social policy research firm that conducts large-scale causal evaluations. As a Senior Research Associate, she has led numerous randomized field trials of behaviorally informed interventions in education, parenting, and child welfare. Her research focuses on supporting low-income youth and families to enroll and participate in school and social programs. She has designed interventions that help families develop ongoing routines and help governments or social programs simplify their programs. She also has designed and tested multiple technology-driven interventions including mobile phone applications, web-based decision-making tools, and text-message and email-based information campaigns. 
