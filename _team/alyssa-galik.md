@@ -5,7 +5,7 @@ year:
   - 2019
   - 2020
 home: Government
-title: GSA Detail
+title: Alum
 ---
 
 **Hometown**
