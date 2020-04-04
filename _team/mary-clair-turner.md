@@ -7,27 +7,12 @@ year:
   - 2019
   - 2020
 agency:  
+  - GSA
+  - HUD
+  - Treasury
+  - USDA
 home: Government
-title: Associate Fellow
+title: Behavioral Scientist - Portfolio Lead
 ---
 
-**Hometown:**
-
-Lexington, Kentucky
-
-**Discipline:**
-
-Social Policy
-
-**What is your favorite DC area spot?**
-
-Meridian Hill Park
-
-**Why did you join OES?**
-
-I joined OES to work on an interdisciplinary team that applies rigorous research methods and behavioral insights to improve government.
-
-
-**What's your favorite part about OES?**
-
-My favorite part about working at OES is getting to learn about and contribute to all of our projects during weekly lab meetings.
+Mary Clair Turner serves as a Portfolio Lead at OES. Mary Clair was previously a Research Fellow at the University of Chicago’s Poverty Lab. Her research uses econometric and mixed methods techniques to examine how interventions that target the development of psychological skills or access to social resources impact decision making, particularly during educational transitions such as the transition from high school to college. She draws on insights from human development to focus on sensitive periods of development when interventions may induce the largest effects. At the Poverty Lab, she led an impact evaluation of a soccer-based nutrition and character development program for elementary school students in Chicago. Before graduate school, Mary Clair was a Technical Research Assistant at MDRC in the Young Adult and Postsecondary Education group where she helped conduct large-scale randomized control trials of interventions in community colleges. She holds a BA in Math from Washington and Lee University and is a doctoral candidate in Human Development and Social Policy at Northwestern University.
