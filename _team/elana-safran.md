@@ -16,21 +16,7 @@ agency:
   - US Agency for International Development
   - Veterans Affairs
 home: Government
-title: Behavioral Scientist
+title: Behavioral Scientist - Health and Aging Portfolio Lead
 ---
 
-**Discipline:**
-
-Public Policy
-
-**What is your favorite DC area spot?**
-
-Shenandoah National Park
-
-**Why did you join OES?**
-
-I get excited identifying important questions with government agencies, and connecting them to academics who can help answer those questions.
-
-**What's one of the most exciting things you've worked on at OES?**
-
-I was really proud when the VA learned from working with us on a project to <a href="https://oes.gsa.gov/projects/va-health-care-benefits/">connect separating servicemembers to VA health benefits.</a> After our project launched, the VA ran a similar test with phone calls to separating servicemembers -- and they randomized the phone calls! 
+Elana Safran coordinates OES's projects in the health and aging portfolio, and leads projects related to enrollment in health benefits and patient and provider behavior. She has completed projects with the Veterans Administration to inform separating servicemembers about VA health care benefits, with the Social Security Administration to inform low-income adults 65 or older about Supplemental Security Income, and with the Department of Health and Human Services to inform pregnant women about the benefits of maternal immunizations. Prior to OES, she managed randomized evaluations in international development with Innovations for Poverty Action, and served as an Americorps VISTA fellow, supporting elderly and disabled New Yorkers with Medicare and Medicaid benefits. 
