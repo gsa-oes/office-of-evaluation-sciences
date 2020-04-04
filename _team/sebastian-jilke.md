@@ -8,18 +8,4 @@ home: University
 title: Fellow
 ---
 
-**Discipline:**
-
-Public Admistration
-
-**What is your favorite DC area spot?**
-
-At home
-
-**Why did you join OES?**
-
-Because I wanted to "break-out" of academia for a year to help increase government effectiveness by testing insights from public administration, and the behavioral sciences more broadly, in partnership with federal agencies.
-
-**What OES project do you find most interesting?**
-
-OES' efforts to use performance benchmarking to get school principals to increase school-level vaccination rates.
+Sebastian Jilke is a Fellow with OES, and an Assistant Professor in the School of Public Affairs and Administration at Rutgers University-Newark where he is also co-directing the Center for Experimental and Behavioral Public Administration. His academic work applies insights from the behavioral sciences to public management and policy. Substantively, he is interested in how institutional arrangements for public service delivery affect public employees and the people they serve – especially with regard to social equity in access to public services and programs. He also works with public organizations in the US and abroad to design and apply behavioral interventions to improve government effectiveness across different domains.
