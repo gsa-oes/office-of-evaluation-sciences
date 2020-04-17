@@ -11,7 +11,7 @@ year: 2015
 domain: Government Operations
 agency: General Services Administration
 impact:
-summary: Moving the signature box resulted in an extra $1.59 million paid to government by vendors.
+summary: Adding the signature box resulted in an extra $1.59 million paid to government by vendors.
 ---
 ## What was the challenge?
 
