@@ -23,7 +23,3 @@ Team members work alongside agency collaborators to apply behavioral insights, m
 Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by [viewing the 2020 Fellowship Solicitation]({{site.baseurl}}/assets/files/oes-design-fellow-solicitation-fy20.pdf). 
 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
-
-## Supporting OES as an Academic Affiliate 
-
-We often require specific subject matter expertise as we identify opportunities to work with agencies on an ongoing basis. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqnuRSZNKZt9bVLAGw6G64i5oUNDqsGcrX7dvgGpvlac9Cog/viewform?usp=sf_link">Tell us about your area of expertise</a>, and we may reach out to you to collaborate on a specific project. 
