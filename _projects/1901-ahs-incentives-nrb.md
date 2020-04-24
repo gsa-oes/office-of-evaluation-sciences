@@ -8,7 +8,9 @@ analysis-plan: /assets/analysis/1901-NRBAnalysisPlan.pdf
 abstract: 
 year: 2020  
 domain: Government Efficiency
-agency: Housing and Urban Development; Census
+agency: 
+    - Housing and Urban Development
+    - Census
 summary: Analysis Plan Registration
 featured: homepage
 ---
