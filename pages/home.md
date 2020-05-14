@@ -10,4 +10,3 @@ hero:
     href: /about/
 class: page-home
 ---
-
