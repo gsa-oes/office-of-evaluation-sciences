@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 
 {% assign hero = page.hero %}
@@ -13,7 +13,7 @@ layout: base
   <div class="usa-width-two-thirds">
     {{ page.intro | markdownify }}
   </div>
-</section> 
+</section>
 {% endif %}
 <section class="usa-section background-tint">
   <div class="usa-grid main-content">
@@ -23,7 +23,7 @@ layout: base
         <center><img src="{{ '/assets/img/icons/build-icon.png' | prepend: site.baseurl }}" height="300" width="300"><img src="{{ '/assets/img/icons/use-icon2.png' | prepend: site.baseurl }}" height="300" width="300"></center>
   </div>
 </section>
-{% assign featuredprojects = (site.projects | where: "featured" , "homepage") %}
+{% assign featuredprojects = site.projects | where: "featured" , "homepage" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
 <section class="usa-section featured background-light">
@@ -41,5 +41,3 @@ layout: base
 <section class="usa-section background-tint">
 {% include contact.html %}
 </section>
-
-  
