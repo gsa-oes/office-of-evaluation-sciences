@@ -7,15 +7,16 @@ year:
   - 2017
   - 2018
   - 2019
+  - 2020
 agency:
   - Defense
   - Health and Human Services
-  - Social Security
+  - Social Security Administration
   - Treasury
   - US Agency for International Development
   - Veterans Affairs
 home: Government
-title: Behavioral Scientist
+title: Behavioral Scientist - Portfolio Lead
 ---
 
-Elana Safran coordinates OES's projects in health and aging, and leads projects related to enrollment in health benefits and patient and provider behavior. Prior to OES, she managed randomized evaluations in international development with Innovations for Poverty Action, on a range of topics including private sector healthcare delivery, youth financial education and savings, and agricultural investments. Prior to her work in international development, Elana served as an Americorps VISTA fellow, supporting elderly and disabled New Yorkers with Medicare and Medicaid benefits. Elana received a BA in Economics from Amherst College, and a Masters in Public Policy from the Harvard Kennedy School. She has lived, worked, and played frisbee in western Massachusetts, Israel, Ghana, Cambridge Massachusetts, Tanzania, Zambia, and Washington DC.
+Elana Safran coordinates OES's projects in the health and aging portfolio, and leads projects related to enrollment in health benefits and patient and provider behavior. She has completed projects with the Veterans Administration to inform separating servicemembers about VA health care benefits, with the Social Security Administration to inform low-income adults 65 or older about Supplemental Security Income, and with the Department of Health and Human Services to inform pregnant women about the benefits of maternal immunizations. Prior to OES, she managed randomized evaluations in international development with Innovations for Poverty Action, and served as an Americorps VISTA fellow, supporting elderly and disabled New Yorkers with Medicare and Medicaid benefits. 

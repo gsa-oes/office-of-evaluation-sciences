@@ -3,14 +3,10 @@ layout: home
 permalink: /
 hero:
   callout:
-    text: "We believe government works best when it's built for people."
+    text: "Building and using evidence to better serve the public"
   button:
     text: Learn more
     href: /about/
-content-button-text: Explore our results
-content-button-link: /work/
-video-button-text: Collaborate with us
-video-button-link: /contact/
 class: page-home
 ---
 

@@ -7,7 +7,6 @@ year:
 agency:   
   - Health and Human Services
   - Veterans Affairs
-
-home: Government 
+home: Government
 title: Alum
 ---

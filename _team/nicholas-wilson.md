@@ -10,7 +10,7 @@ agency:
   - Agriculture
   - Defense
   - General Services Administration
-  - Social Security
+  - Social Security Administration
   - US Agency for International Development
   - Veterans Affairs
 home: University

@@ -4,12 +4,14 @@ layout: base
 
 {% assign hero = page.hero %}
 {% include components/hero.html %}
-
-{% if page.tagline and page.intro %}
+{% if
+page.tagline and page.intro %}
   <section class="grid-container usa-section">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-4">
-        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">{{ page.tagline }}</h2>
+        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">
+          {{ page.tagline }}
+        </h2>
       </div>
       <div class="tablet:grid-col-8 usa-prose">
         {{ page.intro | markdownify }}
@@ -18,74 +20,39 @@ layout: base
   </section>
 {% endif %}
 
-<section class="usa-section">
+<section class="usa-section background-tint">
   <div class="grid-container">
     <div class="grid-row flex-justify-center">
-      <div class="videoWrapper grid-col flex-auto width-full">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/T_Vk4gwCs58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      <h2>Learning what works (and what doesn't)</h2>
+      <p>
+        Based at the General Services Administration (GSA), OES is a team of
+                interdisciplinary experts that works across government to help agencies
+                build and use evidence. To date, OES has completed over 70 randomized
+                evaluations with dozens of agency partners. OES follows the best
+                practices in social science research to build evidence in order to be a
+                leader in transparency and accountability.
+      </p>
+      <center>
+        <img src="{{ '/assets/img/icons/build-icon.png' | prepend: site.baseurl }}" height="300" width="300"/><img src="{{ '/assets/img/icons/use-icon2.png' | prepend: site.baseurl }}" height="300" width="300"/>
+      </center>
     </div>
-  </div>
-</section>
-
-<section class="usa-section bg-secondary-lighter">
-  <div class="grid-container main-content">
-    <div class="grid-row grid-gap">
-      {% assign icon_classes = 'square-10 display-block margin-x-auto margin-top-4' %}
-      <div class="tablet:grid-col-3">
-        <div class="site-callout">
-          <h3 class="text-center"><a href="https://oes.gsa.gov/costsavings">Achieved $8M+ in cost savings and revenue in less than 15 months</a></h3>
-          <img
-            src="{{ site.baseurl }}/assets/img/icons/example1.png"
-            class="{{ icon_classes}}">
-        </div>
-      </div>
-      <div class="tablet:grid-col-3">
-        <div class="site-callout">
-          <h3 class="text-center"><a href="https://oes.gsa.gov/retirement">Enrolled more than 20,000 active duty servicemembers into retirement savings plans</a></h3>
-          <img
-            src="{{ site.baseurl }}/assets/img/icons/example2.png"
-            class="{{ icon_classes}}">
-        </div>
-      </div>
-      <div class="tablet:grid-col-3">
-        <div class="site-callout">
-          <h3 class="text-center"><a href="https://oes.gsa.gov/vaccines">Informed more than half a million Americans about the benefits of getting vaccinated</a></h3>
-          <img
-            src="{{ site.baseurl }}/assets/img/icons/example3.png"
-            class="{{ icon_classes}}">
-          </div>
-      </div>
-      <div class="tablet:grid-col-3">
-        <div class="site-callout">
-          <h3 class="text-center"><a href="https://oes.gsa.gov/projects/reducing-summer-melt/">Showed text message reminders could increase college enrollment by 6%</a></h3>
-          <img
-            src="{{ site.baseurl }}/assets/img/icons/example4.png"
-            class="{{ icon_classes}}">
-        </div>
-      </div>
-    </div>
-    {% if page.content-button-link %}
-      <div class="text-center">
-        <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button usa-button--big bg-primary-dark hover:bg-secondary-darker">{{ page.content-button-text }}</a>
-      </div>
-    {% endif %}
   </div>
 </section>
 
 {% assign featuredprojects = site.projects | where: "featured" , "homepage" %}
 {% if featuredprojects.size == 0 %}
-{% else %}
-<section class="usa-section featured bg-secondary-lighter">
-  <div class="grid-container">
-    <h2>Featured Projects</h2>
-    <div class="grid-row grid-gap-lg">
-      {% for project in featuredprojects %}
-      {% include projects.html %}
-      {% endfor %}
-    </div>
-  </div>
-</section>
+  {% else %}
+    <section class="usa-section featured bg-secondary-lighter">
+      <div class="grid-container">
+        <h2>Featured Projects</h2>
+        <div class="grid-row grid-gap-lg">
+          {% for project in featuredprojects %}
+            {% include projects.html %}
+          {%
+      endfor %}
+        </div>
+      </div>
+    </section>
 {% endif %}
 
 <section class="usa-section bg-white">

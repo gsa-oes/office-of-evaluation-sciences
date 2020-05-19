@@ -1,15 +1,32 @@
 primary:
   - text: About
-    href: /about/
-  - text: Methods
-    href: /methods/
-  - text: Work
-    href: /work/
-  - text: Team
-    href: /team/
-  - text: Events
-    href: /events/
-  - text: Contact
-    href: /contact/
-
+    links:
+    - text: Mission
+      href: /about/
+    - text: Team
+      href: /team/
+  - text: Projects
+    links:
+    - text: Evaluation Portfolio
+      href: /work/
+  - text: Resources
+    links: 
+    - text: Methods
+      href: /methods/
+    - text: Guides
+      href: /resources/
+    - text: Evidence Act Toolkits
+      href: /toolkits/
+    - text: Utilization Blog
+      href: /blog/
+  - text: Connect
+    links:
+      - text: Contact
+        href: /contact/
+      - text: Events
+        href: /events/
+      - text: Opportunities
+        href: /opps/
+      - text: Press
+        href: /press/
 

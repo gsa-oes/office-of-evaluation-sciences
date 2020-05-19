@@ -10,7 +10,7 @@ agency:
   - Education
   - Health and Human Services
   - Labor
-  - Social Security
+  - Social Security Administration
   - Treasury
   - US Global Change Research Program
 home: Non-profit

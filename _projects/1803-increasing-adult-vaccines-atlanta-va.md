@@ -7,15 +7,27 @@ tags:
 image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.jpg
 image-credit: https://www.army.mil/article/191935/increasing_patient_satisfaction_and_health_communication_through_relayhealth
 analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf
-abstract: 
+abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
 year: 2019
 domain: Health
 agency: Veterans Affairs
-summary: Analysis Plan Registration
+summary: A modified clinical reminder did not increase patient vaccine uptake.
 featured: homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf">here</a>.
+The Department of Veterans Affairs (VA) National Center for Health Promotion and Disease Prevention promotes vaccinations for Veterans, in line with the Centers for Disease Control recommendations. Despite the availability of free flu vaccines at VA health care facilities, Veterans’ rates of vaccination for flu and many other adult vaccinations fall below the Healthy People 2020 targets of 70%. 
 
-Check back for results!
+## What was the program change?
+
+The Atlanta VA and OES worked together to develop a modified clinical reminder that bundled separate clinical reminders for three adult vaccines (Influenza, Pneumococcal, and Tdap), decreasing the overall number of reminders presented to clinicians. This single reminder included a vaccination dashboard relaying patient vaccination history and status and talking points providers could use to address patient refusal or vaccine hesitancy. The reminder was designed to increase vaccination rates by making it easier for providers to recommend and order vaccines.
+
+## How did the evaluation work?
+
+Primary care teams (consisting of physicians, advanced practice providers, and nurses) were randomly assigned to either a treatment or control condition. In total, 44 primary care teams were assigned to receive the treatment (modified clinical reminders in the EHR system, new vaccination dashboard, and suggested talking points), and 40 were assigned to the control condition. The Atlanta VA implemented the treatment to the selected primary care teams between October 2018 and April 2019, and these teams saw 28,941 unique patients during this test period.
+
+## What was the impact?
+
+Flu vaccination was higher among patients who saw primary care teams in the treatment group than patients who saw teams in the control group (22.3% versus 20.8%). However, when accounting for demographic characteristics and the clustering of patients within respective care teams, the difference is not statistically significant. 
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf">click here</a>.</i>

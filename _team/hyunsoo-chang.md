@@ -10,7 +10,7 @@ agency:
   - Health and Human Services
   - Office of Personnel Management
   - Postal Service
-  - Social Security
+  - Social Security Administration
   - Transportation
   - Treasury
 home: Non-profit

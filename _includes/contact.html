@@ -1,21 +1,26 @@
 <div class="banner contact">
   <div class="grid-container">
-  {% for form in site.forms %}
-    {% if form.type == 'newsletter' %}
-      {% assign f = form %}
-    {% endif %}
-  {% endfor %}
+    {% for form in site.forms %}
+      {% if form.type == 'newsletter' %}
+        {% assign f = form %}
+      {% endif %}
+    {% endfor %}
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-8 contact-form">
-          <h2 id="whats-new-at-oes">What's new at OES?</h2>
-          <p>Sign up to receive updates on results released and opportunities to work with the team by filling out our interest form.</p>
-          <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
+        <h2 id="whats-new-at-oes">What's new at OES?</h2>
+        <p>
+          Sign up for our email list to receive updates on events, results released, and opportunities to work with the team.
+        </p>
+        <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
       </div>
       <div class="tablet:grid-col-4 privacy-policy">
         {% if f.privacypolicy %}
           {% include icons/privacy.svg %}
           <h3 class="h4">Your privacy and security are important to us.</h3>
-          <p class="font-serif-xs">We’ll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
+          <p class="font-serif-xs">
+            We’ll only share your information as described in the
+            <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.
+          </p>
         {% else %}
           <p></p>
         {% endif %}
