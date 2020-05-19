@@ -14,14 +14,14 @@ Custom project SASS goes here.
 */
 
 
-@import 'all';
+@import 'custom/all';
 
 // why does this need an override?
 .usa-header .usa-logo .usa-logo-img {
   height: auto;
 }
 
-.usa-logo-img > * {
+.usa-logo-img>* {
   display: block;
 }
 
@@ -41,25 +41,33 @@ h1 {
 }
 
 .usa-prose {
-  > p, ul, ol {
+
+  >p,
+  ul,
+  ol {
     @include u-measure(5);
     @include u-line-height('body', 6);
+
     @include at-media('tablet') {
       @include u-font('body', 'lg');
     }
   }
-  > h1 {
+
+  >h1 {
     @include at-media('tablet') {
       @include u-font('heading', '3xl');
     }
   }
-  > h2 {
+
+  >h2 {
     color: color('secondary');
+
     @include at-media('tablet') {
       @include u-font('heading', '2xl');
     }
   }
-  > h3 {
+
+  >h3 {
     @include at-media('tablet') {
       @include u-font('heading', 'xl');
     }
@@ -79,9 +87,11 @@ h1 {
     .usa-nav {
       @include u-flex(1);
     }
+
     .usa-nav-container {
       @include u-flex('align-center');
     }
+
     .usa-nav {
       padding-bottom: 0;
     }
