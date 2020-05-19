@@ -1,21 +1,21 @@
 ---
-layout: base
+layout: page
 ---
 
 <div class="usa-section background-brand-dark" style="padding-bottom: 25px;">
   <div class="usa-grid">
     {% if page.title == "Learning Agenda" %}
-      {% for item in site.data.learningagenda %}
-      <section id="{{ item.id }}" class="tab-content hide">
-        <h2> {{ item.id }}. {{ item.question }} </h2>
-      </section>
-      {% endfor %}
+    {% for item in site.data.learningagenda %}
+    <section id="{{ item.id }}" class="tab-content hide">
+      <h2> {{ item.id }}. {{ item.question }} </h2>
+    </section>
+    {% endfor %}
     {% else %}
-      {% for item in site.data.annualeval %}
-        <section id="{{ item.id }}" class="tab-content hide">
-          <h2> {{ item.id }}. {{ item.question }} </h2>
-        </section>
-      {% endfor %}
+    {% for item in site.data.annualeval %}
+    <section id="{{ item.id }}" class="tab-content hide">
+      <h2> {{ item.id }}. {{ item.question }} </h2>
+    </section>
+    {% endfor %}
     {% endif %}
   </div>
 </div>
@@ -24,65 +24,65 @@ layout: base
     <div>
       <ul class="nav nav-tabs" id="nav">
         {% if page.title == "Learning Agenda" %}
-          {% for item in site.data.learningagenda %}
-            <li>
-              <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
-            </li>
-          {% endfor %}
+        {% for item in site.data.learningagenda %}
+        <li>
+          <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
+        </li>
+        {% endfor %}
         {% else %}
-          {% for item in site.data.annualeval %}
-            <li>
-              <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
-            </li>
-          {% endfor %}
+        {% for item in site.data.annualeval %}
+        <li>
+          <a href="#{{ item.id }}"><img src="{{ item.image }}" alt="" height="50" width="50"></a>
+        </li>
+        {% endfor %}
         {% endif %}
       </ul>
     </div>
-      <p class="workbook_link">
-        <a href="{{ page.download | prepend: site.baseurl }}">
-          Click here to download the {{ page.title }} Toolkit Workbook
-        </a>
-      </p>
-      {% if page.title == "Learning Agenda" %}
-        <section id="1-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_one.html %}
-        </section>
-        <section id="2-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_two.html %}
-        </section>
-        <section id="3-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_three.html %}
-        </section>
-        <section id="4-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_four.html %}
-        </section>
-        <section id="5-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_five.html %}
-        </section>
-        <section id="6-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_six.html %}
-        </section>
-        <section id="7-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_seven.html %}
-        </section>
-        <section id="8-content" class="tab-content2 hide">
-          {% include toolkit_sections/section_eight.html %}
-        </section>
-      {% else %}
-        <section id="1-content" class="tab-content2 hide">
-          {% include toolkit_sections/annual_one.html %}
-        </section>
-        <section id="2-content" class="tab-content2 hide">
-          {% include toolkit_sections/annual_two.html %}
-        </section>
-        <section id="3-content" class="tab-content2 hide">
-          {% include toolkit_sections/annual_three.html %}
-        </section>
-        <section id="4-content" class="tab-content2 hide">
-          {% include toolkit_sections/annual_four.html %}
-        </section>
-        <section id="5-content" class="tab-content2 hide">
-          {% include toolkit_sections/annual_five.html %}
-        </section>
-      {% endif %}
-      </div>
+    <p class="workbook_link">
+      <a href="{{ page.download | prepend: site.baseurl }}">
+        Click here to download the {{ page.title }} Toolkit Workbook
+      </a>
+    </p>
+    {% if page.title == "Learning Agenda" %}
+    <section id="1-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_one.html %}
+    </section>
+    <section id="2-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_two.html %}
+    </section>
+    <section id="3-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_three.html %}
+    </section>
+    <section id="4-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_four.html %}
+    </section>
+    <section id="5-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_five.html %}
+    </section>
+    <section id="6-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_six.html %}
+    </section>
+    <section id="7-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_seven.html %}
+    </section>
+    <section id="8-content" class="tab-content2 hide">
+      {% include toolkit_sections/section_eight.html %}
+    </section>
+    {% else %}
+    <section id="1-content" class="tab-content2 hide">
+      {% include toolkit_sections/annual_one.html %}
+    </section>
+    <section id="2-content" class="tab-content2 hide">
+      {% include toolkit_sections/annual_two.html %}
+    </section>
+    <section id="3-content" class="tab-content2 hide">
+      {% include toolkit_sections/annual_three.html %}
+    </section>
+    <section id="4-content" class="tab-content2 hide">
+      {% include toolkit_sections/annual_four.html %}
+    </section>
+    <section id="5-content" class="tab-content2 hide">
+      {% include toolkit_sections/annual_five.html %}
+    </section>
+    {% endif %}
+  </div>

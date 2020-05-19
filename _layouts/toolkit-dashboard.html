@@ -1,9 +1,9 @@
 ---
-layout: base
+layout: page
 ---
 
 <div class="usa-section background-brand-dark">
-  <div class="usa-grid">
+  <div class="grid-container">
     <h1>{{ page.title }}</h1>
   </div>
 </div>
@@ -16,7 +16,7 @@ layout: base
     </p>
   </div>
   <div class="wrapper-div">
-  {% if page.title == "Learning Agenda Toolkit" %}
+    {% if page.title == "Learning Agenda Toolkit" %}
     {% for item in site.data.learningagenda %}
     <div class="flip-card">
       <div class="flip-card-inner">
@@ -32,22 +32,22 @@ layout: base
       </div>
     </div>
     {% endfor %}
-  {% else %}
+    {% else %}
     {% for item in site.data.annualeval %}
-      <div class="flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <h2 style="font-size: 25px; display: contents;"> {{ item.name }} </h2>
-            <img src="{{ item.image }}" alt="" height="50" width="50">
-          </div>
-          <a href="{{ site.baseurl}}/annualinfo#{{item.id}}">
-            <div class="flip-card-back">
-              <h2 style="font-size: 20px;"> {{ item.question }} </h2>
-            </div>
-          </a>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <h2 style="font-size: 25px; display: contents;"> {{ item.name }} </h2>
+          <img src="{{ item.image }}" alt="" height="50" width="50">
         </div>
+        <a href="{{ site.baseurl}}/annualinfo#{{item.id}}">
+          <div class="flip-card-back">
+            <h2 style="font-size: 20px;"> {{ item.question }} </h2>
+          </div>
+        </a>
       </div>
+    </div>
     {% endfor %}
-  {% endif %}
+    {% endif %}
   </div>
 </section>

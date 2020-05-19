@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 class: page-team-single
 ---
 
@@ -16,21 +16,21 @@ class: page-team-single
       </div>
     {% endif %}
     <div class="tablet:grid-col-4 single-sidebar">
-    {% if page.image %}
-      <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-label="{{ page.name }}"alt="{{ page.name }}"></div>
-    {% endif %}
-    {% if page.title %}
-      <h3>Title</h3>
-      <p>{{ page.title | join: ', ' }}</p>
-    {% endif %}
-    {% if page.year %}
-      <h3>Years active</h3>
-      <p>{{ page.year | join: ', ' }}</p>
-    {% endif %}
-    {% if page.agency %}
-      <h3>Agency collaborators</h3>
-      <p>{{ page.agency | join: ', ' }}</p>
-    {% endif %}
+      {% if page.image %}
+        <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-label="{{ page.name }}" alt="{{ page.name }}"></div>
+      {% endif %}
+      {% if page.title %}
+        <h3>Title</h3>
+        <p>{{ page.title | join: ', ' }}</p>
+      {% endif %}
+      {% if page.year %}
+        <h3>Years active</h3>
+        <p>{{ page.year | join: ', ' }}</p>
+      {% endif %}
+      {% if page.agency %}
+        <h3>Agency collaborators</h3>
+        <p>{{ page.agency | join: ', ' }}</p>
+      {% endif %}
     </div>
   </div>
 </div>
