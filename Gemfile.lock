@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/18F/uswds-jekyll.git
-  revision: 067e1323932978be80874ef96ce9410338dcf1c9
+  revision: 74119ba00349606b44aeaca96cad8e973411adf4
   branch: update-uswds-2.0
   specs:
     uswds-jekyll (5.0.0)
@@ -71,7 +71,6 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
 
 DEPENDENCIES
   jekyll

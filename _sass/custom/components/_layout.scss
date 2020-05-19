@@ -15,7 +15,7 @@ body:not(.page-home) {
 }
 
 .main-content {
-  @include padding(3rem null);
+  @include u-padding-y(4);
 }
 
 .page--banner {
@@ -27,7 +27,7 @@ body:not(.page-home) {
 }
 
 @mixin background-dark {
-  color: $color-white;
+  color: color('white');
   -webkit-font-smoothing: antialiased;
 
   h1,
@@ -37,21 +37,21 @@ body:not(.page-home) {
   h5,
   h6,
   p {
-    color: $color-white;
+    color: color('white');
   }
 
   .section-heading {
-    color: $color-primary-alt;
+    color: color('accent-cool');
   }
 
   a {
-    color: $color-white;
+    color: color('white');
 
     &:hover {
-      color: $color-gray-light;
+      color: color('base-light');
 
       path {
-        fill: $color-gray-light;
+        fill: color('base-light');
       }
     }
   }
@@ -59,7 +59,7 @@ body:not(.page-home) {
   input,
   textarea,
   select {
-    border-color: $color-white;
+    border-color: color('white');
   }
 }
 
@@ -70,34 +70,35 @@ body:not(.page-home) {
 
 .background-gray-dark {
   @include background-dark;
-  background-color: $color-gray-dark;
+  background-color: color('base-darker');
 }
 
 .background-brand-dark {
   @include background-dark;
-  background-color: $color-brand-dark;
+  background-color: color('secondary');
 }
 
-.background-light {
-  background-color: $color-brand-light;
+.background-light,
+.bg-secondary-lighter {
+  background-color: color('secondary-lighter');
 
   .card {
-    background-color: $color-white;
+    background-color: color('white');
   }
 
   .usa-button {
-    background-color: $color-brand-dark;
+    background-color: color('secondary-dark');
   }
 }
 
 .single-sidebar {
-  font-family: $font-sans;
+  @include typeset('alt');
 
   h3 + p {
     margin-top: 0;
   }
 
   h3 {
-    color: $color-primary-darker;
+    color: color('secondary-dark');
   }
 }

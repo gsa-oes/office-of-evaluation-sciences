@@ -1,0 +1,34 @@
+// Hero feature ------------- //
+
+.usa-hero__callout {
+  background-color: color('primary');
+
+  h1 {
+    @include typeset('heading', 12, 3)
+    color: color($color-white);
+    font-weight: fw($font-heavy);
+    letter-spacing: ls($display-kerning);
+    @include at-media('desktop') {
+      @include u-font-size('heading', 15);
+    }
+  }
+
+  .usa-button {
+    background-color: color($color-white);
+    color: color('secondary-dark');
+    font-size: inherit;
+    margin-top: units(8);
+    width: 100%;
+
+    &:hover {
+      background-color: color('white-transparent-80');
+      color: color('ink');
+    }
+
+    &:active {
+      background-color: color('white-transparent-60');
+    }
+  }
+
+  max-width: units('mobile-lg');
+}

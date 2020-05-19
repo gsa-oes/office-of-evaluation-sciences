@@ -1,64 +1,74 @@
 <footer class="usa-footer usa-section background-light" role="contentinfo">
-  <div class="usa-grid">
-    <div class="footer-logo-links">
-      {% include icons/oes.svg %}
-        {% if site.footer.image %}
-      <img class="usa-footer-logo-img logo-icon" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA">
-    {% endif %}
-    </div>
-    <div class="footer-links">
-      <h2 class="footer-links-heading">Navigate</h2>
-      <ul class="usa-unstyled-list">
-        <li>
-          <a href="{{ site.baseurl }}/about/">About</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/work/">Evaluation Portfolio</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/methods/">Methods</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/resources/">Guides</a>
-        </li>
-         <li>
-          <a href="{{ site.baseurl }}/toolkits/">Evidence Act Toolkits</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/blog/">Utilization Blog</a>
-        </li>
-      </ul>
-    </div>
-    <div class="footer-links">
-      <h2 class="footer-links-heading">Policies</h2>
-      <ul class="usa-unstyled-list">
-        <li>
-          <a href="{{ site.baseurl }}/linking-policy/">Linking Policy</a>
-        </li>
-      </ul>
-    </div>
-    <div class="footer-links">
-      <h2 class="footer-links-heading">Connect</h2>
-      <ul class="usa-unstyled-list">
-        <li>
-          <a href="{{ site.baseurl }}/contact/">Contact</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/events/">Events</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/opps/">Opportunities</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/press/">Press</a>
-        </li>
-        <li>
-          <a href="https://twitter.com/USGSA">@USGSA</a>
-        </li>
-        <li>
-          <a href="mailto:oes@gsa.gov?subject=Inquiry">oes@gsa.gov</a>
-        </li>
-      </ul>
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-6">
+        <div class="footer-logo-links">
+          {% include icons/oes.svg %}
+          {% if site.footer.image %}
+            <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA"/>
+          {% endif %}
+        </div>
+      </div>
+      <div class="tablet:grid-col">
+        <div class="footer-links">
+          <h2 class="footer-links-heading">Navigate</h2>
+          <ul class="add-list-reset">
+            <li>
+              <a href="{{ site.baseurl }}/about/">About</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/work/">Evaluation Portfolio</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/methods/">Methods</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/resources/">Guides</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/toolkits/">Evidence Act Toolkits</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/blog/">Utilization Blog</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="tablet:grid-col">
+        <div class="footer-links">
+          <h2 class="footer-links-heading">Policies</h2>
+          <ul class="add-list-reset">
+            <li>
+              <a href="{{ site.baseurl }}/linking-policy/">Linking Policy</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="tablet:grid-col">
+        <div class="footer-links">
+          <h2 class="footer-links-heading">Connect</h2>
+          <ul class="add-list-reset">
+            <li>
+              <a href="{{ site.baseurl }}/contact/">Contact</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/events/">Events</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/opps/">Opportunities</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/press/">Press</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/USGSA">@USGSA</a>
+            </li>
+            <li>
+              <a href="mailto:oes@gsa.gov?subject=Inquiry">oes@gsa.gov</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
     <!-- <h2>Drop us a line.</h2>
     <p>To share your thoughts, email us any time at <a href="mailto:{{ site.footer.email }}">{{ site.footer.email }}</a>.</p>

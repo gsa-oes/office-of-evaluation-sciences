@@ -4,29 +4,33 @@ class: page-team-single
 ---
 
 <div class="usa-section background-brand-dark">
-  <div class="usa-grid">
+  <div class="grid-container">
     <h1>{{ page.name }}</h1>
   </div>
 </div>
-<div class="usa-grid main-content" id="main">
-  <div class="usa-width-two-thirds">
-    {{ content }}
-  </div>
-  <div class="usa-width-one-third single-sidebar">
-  {% if page.image %}
-    <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-label="{{ page.name }}"alt="{{ page.name }}"></div>
-  {% endif %}
-  {% if page.title %}
-    <h3 class="h4">Title</h3>
-    <p>{{ page.title | join: ', ' }}</p>
-  {% endif %}
-  {% if page.year %}
-    <h3 class="h4">Years active</h3>
-    <p>{{ page.year | join: ', ' }}</p>
-  {% endif %}
-  {% if page.agency %}
-    <h3 class="h4">Agency collaborators</h3>
-    <p>{{ page.agency | join: ', ' }}</p>
-  {% endif %}
+<div class="grid-container main-content" id="main">
+  <div class="grid-row grid-gap-4">
+    {% if content.size > 2 %}
+      <div class="tablet:grid-col-8 usa-prose margin-bottom-4">
+        {{ content }}
+      </div>
+    {% endif %}
+    <div class="tablet:grid-col-4 single-sidebar">
+    {% if page.image %}
+      <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-label="{{ page.name }}"alt="{{ page.name }}"></div>
+    {% endif %}
+    {% if page.title %}
+      <h3>Title</h3>
+      <p>{{ page.title | join: ', ' }}</p>
+    {% endif %}
+    {% if page.year %}
+      <h3>Years active</h3>
+      <p>{{ page.year | join: ', ' }}</p>
+    {% endif %}
+    {% if page.agency %}
+      <h3>Agency collaborators</h3>
+      <p>{{ page.agency | join: ', ' }}</p>
+    {% endif %}
+    </div>
   </div>
 </div>

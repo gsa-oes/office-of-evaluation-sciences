@@ -41,18 +41,17 @@
 }
 
 .page-team {
-  .usa-graphic_list {
-    .usa-media_block {
-      margin-bottom: 6rem;
-
-      @include media($medium-screen) {
-        margin-right: 0;
-        width: 50%;
-      }
+  .usa-graphic-list {
+    .usa-media-block {
+      margin-top: units(4);
     }
 
-    h3 {
+    .usa-graphic-list__heading {
       margin-top: 0;
+
+      & + p {
+        margin-top: units(1);
+      }
     }
   }
 }

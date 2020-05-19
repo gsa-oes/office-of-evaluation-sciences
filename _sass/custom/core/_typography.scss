@@ -1,0 +1,26 @@
+// Typography ------------- //
+
+h1 {
+  font-weight: fw($font-heavy);
+}
+
+.h4 {
+  @include u-font('heading', $h4-font-size)
+}
+
+.usa-content {
+  p:not(.usa-font-lead),
+  ul:not(.usa-accordion) {
+      @include u-measure(4);
+  }
+}
+
+.usa-content {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: color('secondary-dark');
+  }
+}

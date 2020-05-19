@@ -1,0 +1,57 @@
+// Contact ------------- //
+
+.contact {
+  h2 {
+    margin-top: 0;
+  }
+
+  .usa-input-buttons-inline {
+    input {
+      margin-bottom: 0;
+    }
+  }
+
+  label {
+    @include u-font('alt', 'md');
+    font-weight: fw('bold');
+  }
+}
+
+
+// Privacy policy
+
+.contact-form {
+  .usa-button {
+    @include at-media('tablet') {
+      margin-bottom: 0;
+      margin-top: units(2);
+    }
+
+    &:hover {
+      background-color: color('secondary-dark');
+    }
+
+    &:active {
+      background-color: color('secondary-darker');
+    }
+  }
+}
+
+.privacy-policy {
+  @include at-media('tablet') {
+    border-left: units(1px) solid color('secondary-light');
+    padding-left: units(4);
+  }
+
+  * {
+    color: color('secondary');
+  }
+}
+
+.icon-privacy {
+  margin-top: units(4);
+
+  @include at-media('tablet') {
+    margin-top: units(0);
+  }
+}
