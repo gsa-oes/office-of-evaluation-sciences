@@ -3,22 +3,23 @@ layout: default
 ---
 
 <div class="usa-section background-brand-dark">
-  <div class="usa-grid">
+  <div class="grid-container">
     <h1>{{ page.title }}</h1>
   </div>
 </div>
 <div class="usa-grid usa-content main-content" id="main">
   {% if page.summary %}
-    <p class="billboard-message">{{ page.summary }}</p>
+  <p class="billboard-message">{{ page.summary }}</p>
   {% endif %}
   {% if page.image and page.image_full %}
-    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
+  <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
   {% elsif page.image %}
-    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption"{% endif %}>
+  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img"
+    {% if page.image_alt_text %} aria-labelledby="caption" {% endif %}>
     {% if page.image_alt_text %}
-      <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
+    <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
     {% endif %}
-    </div>
+  </div>
   {% endif %}
   {{ content }}
 </div>
@@ -33,28 +34,34 @@ layout: default
           <span>Learning Agenda Toolkit</span>
         </h3>
         <p class="card-summary">
+        <ul style="line-height: 25px;">
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Learning_Agenda_Overview.pdf" target="_blank">Learning Agenda Overview (110
+              KB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/A_Guide_to_Developing_your_Agency's_Learning_Agenda.pdf" target="_blank">A Guide
+              to Developing Your Agency’s Learning Agenda (1.72 MB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Learning_Agenda_Workbook.docx" target="_blank">Learning Agenda Workbook (325
+              KB)</a>
+          </li>
           <ul style="line-height: 25px;">
             <li style="line-height: 25px;">
-              <a href="../assets/toolkits/Learning_Agenda_Overview.pdf" target="_blank">Learning Agenda Overview (110 KB)</a>
+              <a href="../assets/toolkits/Activity_2_Supplement_FINAL.xlsx" target="_blank">Activity 2 Supplement (56.8
+                KB)</a>
             </li>
             <li style="line-height: 25px;">
-              <a href="../assets/toolkits/A_Guide_to_Developing_your_Agency's_Learning_Agenda.pdf" target="_blank">A Guide to Developing Your Agency’s Learning Agenda (1.72 MB)</a>
-            </li>
-            <li style="line-height: 25px;">
-              <a href="../assets/toolkits/Learning_Agenda_Workbook.docx" target="_blank">Learning Agenda Workbook (325 KB)</a>
-            </li>
-            <ul style="line-height: 25px;">
-              <li style="line-height: 25px;">
-                <a href="../assets/toolkits/Activity_2_Supplement_FINAL.xlsx" target="_blank">Activity 2 Supplement (56.8 KB)</a>
-              </li>
-              <li style="line-height: 25px;">
-                <a href="../assets/toolkits/Activity_3_Supplement_FINAL.pptx" target="_blank">Activity 3 Supplement (1.65 MB)</a>
-              </li>
-            </ul>
-            <li style="line-height: 25px;">
-              <a href="../assets/toolkits/Sample_Learning_Agenda_Section.pdf" target="_blank">Sample Learning Agenda Section (179 KB)</a>
+              <a href="../assets/toolkits/Activity_3_Supplement_FINAL.pptx" target="_blank">Activity 3 Supplement (1.65
+                MB)</a>
             </li>
           </ul>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Sample_Learning_Agenda_Section.pdf" target="_blank">Sample Learning Agenda
+              Section (179 KB)</a>
+          </li>
+        </ul>
         </p>
       </div>
     </article>
@@ -67,6 +74,7 @@ layout: default
           <span>Annual Evaluation Plan Toolkit</span>
         </h3>
         <p class="card-summary">
+<<<<<<< HEAD
           <ul style="line-height: 25px;">
             <li style="line-height: 25px;">
               <a href="../assets/toolkits/Annual_Evaluation_Plan_Overview.pdf" target="_blank">Annual Evaluation Plan Overview (107 KB)</a>
@@ -84,6 +92,30 @@ layout: default
               <a href="../assets/toolkits/Sample_Evaluation_Description.pdf" target="_blank">Sample Evaluation Description (238 KB)</a>
             </li>
           </ul>
+=======
+        <ul style="line-height: 25px;">
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Annual_Evaluation_Plan_Overview.pdf" target="_blank">Annual Evaluation Plan
+              Overview (107 KB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/A_Guide_to_Developing_your_Agency's_Annual_Evaluation_Plan.pdf"
+              target="_blank">A Guide to Developing Your Agency’s Annual Evaluation Plan (938 KB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/evaluation_planning_tips.pdf" target="_blank">Evaluation Planning Tips (801
+              KB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Annual_Evaluation_Plan_Workbook.docx" target="_blank">Annual Evaluation Plan
+              Workbook (324 KB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Sample_Evaluation_Description.pdf" target="_blank">Sample Evaluation Description
+              (238 KB)</a>
+          </li>
+        </ul>
+>>>>>>> thisisdano-dw-test-v2
         </p>
       </div>
     </article>
@@ -96,25 +128,28 @@ layout: default
           <span>Capacity Assesment Toolkit</span>
         </h3>
         <p class="card-summary">
-          <ul style="line-height: 25px;">
-            <li style="line-height: 25px;">
-             <a href="../assets/toolkits/Capacity_Assessment_Overview.pdf" target="_blank"> Capacity Assessment Overview (324 KB)</a>
-            </li>
-              <li style="line-height: 25px;">
-             <a href="../assets/toolkits/Capacity_Assessment_Tips.pdf" target="_blank"> Capacity Assessment Tips (324 KB)</a>
-            </li>
-          </ul>
-          </p>
+        <ul style="line-height: 25px;">
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Capacity_Assessment_Overview.pdf" target="_blank"> Capacity Assessment Overview
+              (324 KB)</a>
+          </li>
+          <li style="line-height: 25px;">
+            <a href="../assets/toolkits/Capacity_Assessment_Tips.pdf" target="_blank"> Capacity Assessment Tips (324
+              KB)</a>
+          </li>
+        </ul>
+        </p>
       </div>
     </article>
   </div>
   <br />
   <div class="usa-width-one-whole">
-      <h2 style="text-align: center; margin-bottom: 10px; color: #2e9ac4;">Additional Toolkit Resources</h2>
+    <h2 style="text-align: center; margin-bottom: 10px; color: #2e9ac4;">Additional Toolkit Resources</h2>
   </div>
   <div class="usa-grid">
     <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;" href="../assets/toolkits/evidence_act_overview.pdf" target="_blank">
+      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;"
+        href="../assets/toolkits/evidence_act_overview.pdf" target="_blank">
         <div>
           <div>
             <span class="download-button-icon"></span>
@@ -125,57 +160,62 @@ layout: default
         </div>
       </a>
     </div>
-        <div class="usa-grid">
-            <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;" href="../assets/toolkits/Engaging_SubAgencies_Bureaus.pdf" target="_blank">
+    <div class="usa-grid">
+      <div class="usa-width-one-third">
+        <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;"
+          href="../assets/toolkits/Engaging_SubAgencies_Bureaus.pdf" target="_blank">
+          <div>
             <div>
-             <div>
-            <span class="download-button-icon"></span>
+              <span class="download-button-icon"></span>
+            </div>
+            <div>
+              <span>Engaging Bureaus or Sub-Agencies</span>
+            </div>
           </div>
+        </a>
+      </div>
+      <div class="usa-width-one-third">
+        <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;"
+          href="../assets/toolkits/reference_sheet.pdf" target="_blank">
           <div>
-            <span>Engaging Bureaus or Sub-Agencies</span>
+            <div>
+              <span class="download-button-icon"></span>
+            </div>
+            <div>
+              <span>Quick Reference Sheet (106 KB)</span>
+            </div>
           </div>
-        </div>
-      </a>
+        </a>
+      </div>
     </div>
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;"  href="../assets/toolkits/reference_sheet.pdf" target="_blank">
-        <div>
-          <div>
-            <span class="download-button-icon"></span>
-          </div>
-          <div>
-            <span>Quick Reference Sheet (106 KB)</span>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
     {% comment %}
-  <div align="center">
-  </div>
-  <div class="toolkits-div">
-    <div class="toolkit-div">
-      <img src="{{ '/assets/img/icons/learning_icon.jpg' | prepend: site.baseurl }}" height="120" width="130">
-      <h2><a href="{{ site.baseurl}}/learningagenda/" class="tool-link"> Learning Agenda Toolkit </a></h2>
+    <div align="center">
     </div>
-    <div class="toolkit-div">
-      <img src="{{ '/assets/img/icons/annual_icon.jpg' | prepend: site.baseurl }}" height="120" width="120">
-      <h2><a href="{{ site.baseurl }}/annualevaluation/" class="tool-link"> Annual Evaluation Plan Toolkit </a></h2>
+    <div class="toolkits-div">
+      <div class="toolkit-div">
+        <img src="{{ '/assets/img/icons/learning_icon.jpg' | prepend: site.baseurl }}" height="120" width="130">
+        <h2><a href="{{ site.baseurl}}/learningagenda/" class="tool-link"> Learning Agenda Toolkit </a></h2>
+      </div>
+      <div class="toolkit-div">
+        <img src="{{ '/assets/img/icons/annual_icon.jpg' | prepend: site.baseurl }}" height="120" width="120">
+        <h2><a href="{{ site.baseurl }}/annualevaluation/" class="tool-link"> Annual Evaluation Plan Toolkit </a></h2>
+      </div>
     </div>
-  </div>
-  <hr/>
-  <table class="download-footer" style="border: none;">
-    <tr class="table-border">
-      <td class="table-border" style="color: #2E9AC4; font-size: 20px;"><b> Downloads <b/></td>
-      <td class="table-border" style="text-decoration: underline;"> <a href="{{ page.download-one | prepend: site.baseurl }}"> Evidence Act: Phase 1 Overview </a></td>
-      <td class="table-border" style="text-decoration: underline;"> <a href="{{ page.download-two | prepend: site.baseurl }}"> Quick Reference Sheet </a></td>
-    </tr>
-    <tr>
-      <td><img src="{{ '/assets/img/icons/download.jpg' | prepend: site.baseurl }}" height="100" width="150"> </img></td>
-      <td class="table-border" > Master Checklist: Learning Agenda and Annual Evaluation Plan Toolkits </td>
-      <td class="table-border"> Engaging Sub-Agencies in Evidence Act Implementation </td>
-    </tr>
-  </table>
-  {% endcomment %}
+    <hr />
+    <table class="download-footer" style="border: none;">
+      <tr class="table-border">
+        <td class="table-border" style="color: #2E9AC4; font-size: 20px;"><b> Downloads <b /></td>
+        <td class="table-border" style="text-decoration: underline;"> <a
+            href="{{ page.download-one | prepend: site.baseurl }}"> Evidence Act: Phase 1 Overview </a></td>
+        <td class="table-border" style="text-decoration: underline;"> <a
+            href="{{ page.download-two | prepend: site.baseurl }}"> Quick Reference Sheet </a></td>
+      </tr>
+      <tr>
+        <td><img src="{{ '/assets/img/icons/download.jpg' | prepend: site.baseurl }}" height="100" width="150"> </img>
+        </td>
+        <td class="table-border"> Master Checklist: Learning Agenda and Annual Evaluation Plan Toolkits </td>
+        <td class="table-border"> Engaging Sub-Agencies in Evidence Act Implementation </td>
+      </tr>
+    </table>
+    {% endcomment %}
 </section>
