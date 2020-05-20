@@ -1,6 +1,6 @@
 ---
 layout: methods
-title: Evaluation Methods
+title: OES Evaluation Process
 permalink: /methods/
 image:
 image_full: true
