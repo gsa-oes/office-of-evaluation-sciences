@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Utilization Blog
+title: OES Blog
 permalink: /blog/
 image:
 image_full: 
