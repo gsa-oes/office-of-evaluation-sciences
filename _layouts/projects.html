@@ -19,7 +19,8 @@ scripts:
 {% include filter.html items=site.projects filters=layout.filters %}
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
-    {% for project in site.projects reversed %}
+    {% assign sorted_projects = site.projects | sort:"year" | reverse %}
+    {% for project in sorted_projects %}
       {% include projects.html %}
     {% endfor %}
   </div>
