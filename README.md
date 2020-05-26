@@ -2,7 +2,6 @@
 
 This is the website of the Office of Evaluation Sciences. It showcases and explains our work.
 
-
 # Details about the Site
 
 This is a static [Jekyll](https://jekyllrb.com/) site, hosted on the
@@ -15,7 +14,7 @@ theme to build on US Web Design System templates.
 - \_includes: individual site components (headers, footers, and other bits of HTML) used by layouts
 - \_layouts: HTML files setting the site structure, which page content is dropped into
 - \_projects: Markdown files for each OES project
-- \_sass: stylesheets, which are compiled together by Jekyll into `main.css`
+- \_sass: stylesheets, which determine how the site looks; these are compiled together by Jekyll into `main.css` on the live site
 - \_site: the site, as built by Jekyll. Do not edit anything in this folder!
 - \_team: Markdown files for each OES team member
 - assets: CSS, JS, and images

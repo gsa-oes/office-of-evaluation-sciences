@@ -130,6 +130,10 @@ $theme-typeface-tokens: (
     display-name: 'Example Sans Display Name',
     cap-height: 364px,
   ),
+  lato: (
+    display-name: 'Lato',
+    cap-height: 364px,
+  ),
 );
 
 /*
@@ -167,7 +171,7 @@ $theme-font-type-lang:  false;
 $theme-font-type-mono:  'roboto-mono';
 
 // sans-serif
-$theme-font-type-sans:  'helvetica';
+$theme-font-type-sans:  'lato';
 
 // serif
 $theme-font-type-serif: 'merriweather';
