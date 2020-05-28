@@ -5,6 +5,7 @@ filters:
   - key: year
     title: Years active
     multiple: true
+    default: 2020
   - key: title
     title: Title
     multiple: true
@@ -25,7 +26,7 @@ scripts:
 <section class="usa-graphic-list">
   <div class="grid-row grid-gap">
     {% for team in site.team %}
-      <div class="usa-media-block tablet:grid-col-6 js-filterable" {% for filter in layout.filters %} data- {{ filter.key }}="{{ team[filter.key] | jsonify | xml_escape }}" {% endfor %}>
+      <div class="usa-media-block tablet:grid-col-6 js-filterable" {% for filter in layout.filters %} data-{{ filter.key }}="{{ team[filter.key] | jsonify | xml_escape }}" {% endfor %}>
         <div class="display-flex flex-align-center">
           <div class="usa-media-block__img team-image" role="image" aria-label="{{ team.name }}" style="background-image: url({{ team.image | prepend: site.baseurl }});"></div>
           <div class="usa-media-block__body usa-prose">
