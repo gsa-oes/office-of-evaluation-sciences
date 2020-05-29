@@ -7,8 +7,10 @@ primary:
       href: /team/
   - text: Projects
     links:
-    - text: Evaluation Portfolio
+    - text: Evaluations
       href: /work/
+    - text: Portfolios
+      href: /portfolios/
     - text: Other Collaborations
       href: /collaborations/
   - text: Resources
