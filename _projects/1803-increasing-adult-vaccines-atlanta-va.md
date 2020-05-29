@@ -12,6 +12,7 @@ year: 2019
 domain: Health
 agency: Veterans Affairs
 summary: A modified clinical reminder did not increase patient vaccine uptake.
+
 ---
 ## What was the challenge?
 
