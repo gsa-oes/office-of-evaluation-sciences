@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Press
-permalink: /press/
+title: Media
+permalink: /media/
 image:
 image_full: 
 class:
