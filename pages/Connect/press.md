@@ -8,18 +8,6 @@ class:
 summary: 
 ---
 
-## Press inquiries
-
-For all press inquiries, please email <a href="mailto:press@gsa.gov?subject=OES-Press-Inquiry">press@gsa.gov</a> with the topic you’d like to talk about and your deadline.
-
-The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at OES. See the <a href="https://www.gsa.gov/portal/category/26627">GSA Newsroom</a> for news releases and official resources.
-
-If you’re writing a story about OES, feel free to use the images below.
-
-Organizational logos:
-  - [OES (PNG)]({{site.baseurl}}/assets/img/logos/logo-name.png)
-  - [GSA (JPG)]({{site.baseurl}}/assets/img/gsa-logo-dark.jpg)
-
 ## Selected Coverage of OES
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/puar.13129">Behavioral Public Administration: Past, Present, and Future</a>
@@ -131,3 +119,16 @@ Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa
 
 Adam Sacarny, Andrew R. Olenski, and Michael L. Barnett. “Association of Quetiapine Overuse Letters With Prescribing by Physician Peers of Targeted Recipients: A Secondary Analysis of a Randomized Clinical Trial.” JAMA Psychiatry, June 4, 2019, <a href="https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441?resultClick=1">https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441</a>
 - A randomized clinical trial of antipsychotic overuse letters that were sent by the Centers for Medicare and Medicaid Services (CMS) to high prescribers of quetiapine reduced prescribing by targeted physicians by 16% over 2 years. This study examines whether these letters led to changes in prescribing by peers of the original physicians, which would suggest that overuse interventions can have broader effects.
+
+
+## Press inquiries
+
+For all press inquiries, please email <a href="mailto:press@gsa.gov?subject=OES-Press-Inquiry">press@gsa.gov</a> with the topic you’d like to talk about and your deadline.
+
+The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at OES. See the <a href="https://www.gsa.gov/portal/category/26627">GSA Newsroom</a> for news releases and official resources.
+
+If you’re writing a story about OES, feel free to use the images below.
+
+Organizational logos:
+  - [OES (PNG)]({{site.baseurl}}/assets/img/logos/logo-name.png)
+  - [GSA (JPG)]({{site.baseurl}}/assets/img/gsa-logo-dark.jpg)
