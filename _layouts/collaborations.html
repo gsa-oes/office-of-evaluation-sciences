@@ -1,0 +1,24 @@
+---
+layout: page
+filters:
+  - key: year
+    title: Year Completed
+  - key: status
+    title: Status
+  - key: domain
+    title: Domain
+  - key: agency
+    title: Agency Collaborator
+    multiple: true
+scripts:
+  - src: /assets/js/filters.js
+---
+
+{{ content }}
+
+{% include filter.html items=site.collabs filters=layout.filters %}
+<div class="project-container">
+  {% for project in site.collabs reversed %}
+    {% include collaborations.html %}
+  {% endfor %}
+</div>
