@@ -10,7 +10,7 @@ analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
 abstract: 
 year: 2020 
 status: Ongoing
-domain: Communications
+domain: Health
 agency: United States Agency for International Development
 summary: Analysis Plan Registration
 featured: homepage
