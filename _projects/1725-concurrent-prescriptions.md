@@ -2,7 +2,7 @@
 title:  Reducing Concurrent Opioid-Benzodiazepine Prescriptions Through Provider Messages
 permalink: /projects/concurrent-prescriptions/
 tags: project
-image: /assets/img/project-images/1725.jpg
+image: /assets/img/project-images/1725.JPG
 image-credit: https://www.jble.af.mil/News/Article-Display/Article/258371/mcahc-promotes-safety-health-wellness-during-2012-national-prescription-drug-ta/
 analysis-plan: /assets/analysis/concurrent-prescriptions.pdf
 abstract: 
