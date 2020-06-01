@@ -4,7 +4,7 @@ permalink: /projects/concurrent-prescriptions/
 tags: project  
 image: /assets/img/project-images/1725.jpg
 image-credit: https://media.defense.gov/2012/Apr/17/2000160542/780/780/0/120417-A-FE000-001.JPG
-analysis-plan: /assets/analysis/concurrent-prescriptions.pdf
+analysis-plan: 
 abstract: 
 year: 2020
 domain: Health
