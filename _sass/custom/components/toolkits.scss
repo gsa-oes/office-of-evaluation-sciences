@@ -24,6 +24,10 @@
   margin: 0 auto;
 }
 
+#toolkitlang > p {
+  max-width: 90%;
+}
+
 .download-footer {
   border: none;
   border-style: hidden !important;
@@ -138,7 +142,6 @@ table {
     margin-right: 2.3%;
     height: auto;
     min-height: 200px;
-    width: 100%;
   }
 
   @include at-media("desktop") {
@@ -148,7 +151,6 @@ table {
     margin-right: 2.3%;
     height: auto;
     min-height: 750px;
-    width: 31%;
   }
 
   &:hover {
