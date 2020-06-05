@@ -27,6 +27,18 @@
 #toolkitlang > p {
   max-width: 90%;
 }
+//
+// .download-button-icon:before {
+//   content: url(../toolkits/download_icon_blue.jpg);
+//   width: 40px;
+//   vertical-align: middle;
+// }
+
+.toolkit-button {
+  min-height:115px;
+  width: 100%;
+}
+
 
 .download-footer {
   border: none;

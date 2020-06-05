@@ -11,13 +11,13 @@ primary:
       href: /work/
   - text: Resources
     links:
-    - text: Methods
-      href: /methods/
+    - text: Evaluation Process
+      href: /evaluationprocess/
     - text: Guides
       href: /resources/
     - text: Evidence Act Toolkits
       href: /toolkits/
-    - text: Utilization Blog
+    - text: OES Blog
       href: /blog/
   - text: Connect
     links:
@@ -27,5 +27,5 @@ primary:
         href: /events/
       - text: Opportunities
         href: /opps/
-      - text: Press
-        href: /press/
+      - text: Media
+        href: /media/
