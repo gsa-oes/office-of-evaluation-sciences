@@ -1,6 +1,6 @@
 ---
 name: Miles Williams
-image: /assets/img/team/miles-williams.png
+image: /assets/img/team/miles-williams.jpeg
 year:
   - 2020
 home: University
