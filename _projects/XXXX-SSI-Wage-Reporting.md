@@ -10,6 +10,7 @@ year: 2019
 domain: Government Efficiency
 agency: Social Security Administration
 summary: A reminder encouraged SSI recipients to self-report changes in wages earlier, potentially reducing overpayment.
+featured: homepage
 ---
 ## What was the challenge?
 
