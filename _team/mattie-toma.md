@@ -1,6 +1,6 @@
 ---
 name: Mattie Toma
-image: /assets/img/team/mattie.toma.png
+image: /assets/img/team/mattie-toma.png
 year:
   - 2020
 home: University
