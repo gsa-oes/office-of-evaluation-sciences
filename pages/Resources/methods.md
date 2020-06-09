@@ -1,7 +1,7 @@
 ---
 layout: methods
 title: OES Evaluation Process
-permalink: /evaluationprocess/
+permalink: /methods/
 image:
 image_full: true
 class:
