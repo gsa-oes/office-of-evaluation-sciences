@@ -12,7 +12,7 @@ Below are case studies and resources we've developed through our work building e
 ### Evaluation Project Methods
 Because results from OES tests impact the lives of millions of Americans, the quality of our work is of paramount importance. We follow the <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">OES Evaluation Policy</a> and six steps to ensure our findings are relevant and reliable.
 <br/>
-<a href="https://oes.gsa.gov/methodsdetail/">Learn more</a>
+<a href="https://oes.gsa.gov/methods/">Learn more</a>
 
 ### How to Use Unexpected and Null Results
 Recent research shows that null results in federal evaluations are more common than we think, and occur for a variety of reasons. When agencies share both expected and unexpected results, we can learn about what programs work, what effect sizes are realistic, and improve Federal evaluations. This post dispels misconceptions about null results and highlights different uses and lessons from null results. 
