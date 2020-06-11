@@ -4,7 +4,7 @@ image: /assets/img/team/rebecca-kruse.png
 year: 
   - 2020
 agency:
-  - DHS
+  - Homeland Security
 home: Government
 title: Evidence Fellow
 ---
