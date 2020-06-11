@@ -7,10 +7,10 @@ year:
   - 2019
   - 2020
 agency:  
-  - GSA
-  - HUD
+  - General Services Administration
+  - Housing and Urban Development
   - Treasury
-  - USDA
+  - Agriculture
 home: Government
 title: Behavioral Scientist - Portfolio Lead
 ---
