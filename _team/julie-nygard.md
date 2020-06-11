@@ -4,7 +4,7 @@ image: /assets/img/team/julie-nygard.jpg
 year: 
   - 2020
 agency:
-  - DOI
+  - Interior
 home: Government
 title: Evidence Fellow
 ---
