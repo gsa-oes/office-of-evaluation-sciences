@@ -3,7 +3,7 @@ title:  Increasing homeowner participation in wildfire risk assessments
 permalink: /projects/wildfire-risk-assessments/
 tags: project  
 image: /assets/img/project-images/1903.jpg  
-image-credit: 
+image-credit: USDA NRCS Montana
 analysis-plan: /assets/analysis/1903-analysis-plan-wildfire.pdf
 abstract: 
 year: 2020  
