@@ -6,7 +6,6 @@ image:
 summary: 
 project_tags:
   - USAID
-  - vaccines
   
 ---
 ## Background
