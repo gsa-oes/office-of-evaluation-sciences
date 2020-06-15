@@ -21,5 +21,4 @@ In partnership with the <a href="https://www.hhs.gov/nvpo/featured-priorities/in
 PLACEHOLDER TEXT
 Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving vaccine uptake. 
 
-<h2>Portfolio Pages:</h2>
 
