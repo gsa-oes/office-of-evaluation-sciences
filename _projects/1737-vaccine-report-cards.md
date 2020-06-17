@@ -35,4 +35,5 @@ There was no significant difference in compliance rates between treatment and co
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1737-vaccine-report-cards-plan.pdf">click here</a>.</i>
 
 <i> Related Publication</i>
+<br>
 Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa/article/view/55">"Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial."</a> Journal of Behavioral Public Administration 2, no. 2 (2019)	
