@@ -4,7 +4,7 @@ image: /assets/img/team/Anderson_Emily.jpg
 year: 
   - 2020
 agency:
-  - GSA
+  - General Services Administration
 home: Government
 title: Evidence Fellow
 ---

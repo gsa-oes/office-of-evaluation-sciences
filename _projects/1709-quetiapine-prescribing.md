@@ -9,7 +9,7 @@ year: 2018
 domain: Health
 agency: Health and Human Services
 summary: Peer comparison letters for high prescribers of quetiapine reduce prescription volume and improve guideline conformity of prescription fills.
-featured: homepage
+
 ---
 ## What was the challenge?
 

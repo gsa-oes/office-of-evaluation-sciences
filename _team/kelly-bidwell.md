@@ -11,9 +11,9 @@ year:
   - 2019
   - 2020
 agency:
-  - USAID
-  - VA
-  - GSA
+  - US Agency for International Development
+  - Veterans Affairs
+  - General Services Administration
 home: Government
 title: Director
 ---

@@ -10,7 +10,7 @@ year: 2019
 domain: Communications
 agency: General Services Administration
 summary: A timeline making government operations transparent increased survey response and an early message of gratitude decreased survey response.
-featured: homepage
+
 ---
 ## What was the challenge?
 
