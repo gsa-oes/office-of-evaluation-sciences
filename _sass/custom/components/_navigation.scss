@@ -22,6 +22,35 @@
   }
 }
 
+// Custom styles --------- //
+.usa-nav__primary-item {
+  button[aria-expanded='true'] {
+    background-color: $oem-blue;
+
+    span {
+      border-bottom-color: $oem-green;
+    }
+
+    &:hover {
+      background-color: $oem-blue;
+
+      span {
+        color: #fff;
+      }
+    }
+  }
+
+
+}
+
+.usa-nav__submenu {
+  background-color: #2E9AC4;
+
+  a:hover {
+    background-color: $oem-green;
+  }
+}
+
 .usa-nav__primary > .usa-nav__primary-item {
  & > a {
   @include at-media($theme-header-min-width) {

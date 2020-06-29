@@ -1,7 +1,7 @@
 // Hero feature ------------- //
 
 .usa-hero__callout {
-  background-color: color('primary');
+  background-color: $oem-blue;
 
   h1 {
     @include typeset('heading', 12, 3)
