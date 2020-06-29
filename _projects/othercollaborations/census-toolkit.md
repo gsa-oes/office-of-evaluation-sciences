@@ -4,8 +4,8 @@ permalink: /othercollabs/census-community-outreach-toolkit/
 tags:
   - project 
   - census
-image: 
-image-credit: 
+image: /assets/img/project-images/census-2.jpeg
+image-credit: https://www.nationalguard.mil/Resources/Image-Gallery/News-Images/igphoto/2000029596/
 abstract: 
 year: 2017  
 domain: Health
