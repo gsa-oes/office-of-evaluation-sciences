@@ -25,8 +25,6 @@ In 2017, OES developed the Community Outreach Toolkit for the office of the Chie
 
 ## What did we learn?
 
-The integration of FP counseling with child immunization visits was examined via a pre-post design and the script and appointment cards were tested via a quasi-experimental difference in difference design. The pilot took place in four clinics in Niger and Ogun states, Nigeria, between September 2017 and December 2017, including 677 women attending immunization clinics during that period.  All four clinics in the sample piloted offering FP services during child immunizations. Two of these clinics, matched on key characteristics using administrative data, tested the additional provider script for health facility staff and the appointment cards. The outcome of interest was FP take up rates, which were compared before and after the start of the intervention period by clinic.
-
 Four barriers are identified in this toolkit through the following personas:
 - **“I don’t think the census has any impact on my life.”** This person isn’t sure what the census does, how its data affects them, and why their participation matters.
 - **“I don’t feel comfortable sharing my information.”** This person is concerned about data privacy or having their information used by other federal agencies.
