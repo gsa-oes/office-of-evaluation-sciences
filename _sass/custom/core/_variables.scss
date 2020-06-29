@@ -1,0 +1,36 @@
+// Typography ------------- //
+
+$font-heavy: 'heavy';
+
+$base-line-height: 5;
+$heading-line-height: 2;
+$h1-font-size: 14;
+$h3-font-size: 9;
+$h4-font-size: 5;
+
+// Colors ------------- //
+
+$color-brand: 'secondary-vivid';
+$color-brand-tint: 'secondary-light';
+$color-brand-light: 'secondary-lighter';
+$color-brand-medium: 'secondary';
+$color-brand-dark: 'secondary-dark';
+$color-brand-dark-hover: 'secondary-darker';
+$color-brand-dark-active: 'secondary-darker';
+$color-white: 'white';
+$color-base: 'ink';
+$color-primary-darker: 'primary-darker';
+$color-primary-darkest: 'primary-dark';
+$color-gray-medium: 'base';
+
+$oem-blue: #2E9AC4;
+$oem-green: #03CAB9;
+
+// Magic numbers ------- //
+
+$nav-width: 'tablet-lg';
+$display-kerning: 'ls-neg-1';
+$small-screen: 'mobile-lg';
+$medium-screen: 'tablet';
+
+$focus-shadow: 0 0 0 1px color("primary");

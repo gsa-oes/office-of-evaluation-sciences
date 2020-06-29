@@ -12,11 +12,16 @@ scripts:
   - src: /assets/js/filters.js
 ---
 
-{{ content }}
+<div class="usa-prose">
+  {{ content }}
+</div>
 
 {% include filter.html items=site.projects filters=layout.filters %}
-<div class="project-container">
-  {% for project in site.projects reversed %}
-    {% include projects.html %}
-  {% endfor %}
+<div class="margin-top-4">
+  <div class="grid-row grid-gap">
+    {% assign sorted_projects = site.projects | sort:"year" | reverse %}
+    {% for project in sorted_projects %}
+      {% include projects.html %}
+    {% endfor %}
+  </div>
 </div>

@@ -1,0 +1,87 @@
+// Project card ------------- //
+
+// Sets a height on projects so they're the same height and don't break the grid
+.card {
+  border: units(1px) solid color('base-lighter');
+  height: auto;
+  margin-bottom: units(4);
+  padding-bottom: units(4);
+  position: relative;
+  text-decoration: none;
+  width: 100%;
+
+  @include at-media('tablet-lg') {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &:hover {
+    border-color: color('primary');
+  }
+
+  &:active {
+    // TODO: how to apply outline box-shadow: $focus-shadow;
+  }
+}
+
+.project-col {
+  &[hidden] {
+    display: none;
+  }
+}
+
+.card-link {
+  @include u-pin('all');
+}
+
+.card-banner {
+  @include u-margin(4);
+
+  @include at-media('tablet-lg') {
+    @include u-flex(1);
+  }
+}
+
+.card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: units('card');
+  width: 100%;
+}
+
+.card-description {
+  @include u-font('heading', 'lg');
+  color: color('primary');
+  margin-top: 0;
+}
+
+.card-summary {
+  @include typeset('body', 'sm', 5);
+  color: color('ink');
+  margin-bottom: 0;
+
+  em {
+    font-style: normal;
+  }
+}
+
+.card-read {
+  @include u-margin-top(0);
+  @include u-margin-x(4);
+  @include u-font('body', 4);
+  color: color('primary');
+  font-weight: fw('bold');
+  text-decoration: none;
+
+  &:visited {
+    color: color('primary');
+  }
+
+  svg {
+    @include u-square(1.5);
+    display: inline-block;
+    margin-bottom: units(-1px);
+    margin-left: units(0.5);
+  }
+}

@@ -1,30 +1,31 @@
 ---
-layout: base
+layout: default
 ---
 
 <div class="usa-section background-brand-dark">
-  <div class="usa-grid">
+  <div class="grid-container">
     <h1>{{ page.title }}</h1>
   </div>
 </div>
-<div class="usa-grid usa-content main-content" id="main">
+<div class="grid-container usa-content main-content" id="main">
   {% if page.summary %}
-    <p class="billboard-message">{{ page.summary }}</p>
+  <p class="billboard-message">{{ page.summary }}</p>
   {% endif %}
   {% if page.image and page.image_full %}
-    <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
+  <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
   {% elsif page.image %}
-    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption"{% endif %}>
+  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img"
+    {% if page.image_alt_text %} aria-labelledby="caption" {% endif %}>
     {% if page.image_alt_text %}
-      <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
+    <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
     {% endif %}
-    </div>
+  </div>
   {% endif %}
   <div id="toolkitlang">{{ content }}</div>
 </div>
-<section class="usa-section background-tint" style="padding-top: 2rem;">  
-  <div class="usa-grid">
-    <article class="card-toolkit usa-width-one-third">     
+<section class="usa-section background-tint grid-container" style="padding-top: 2rem;">
+  <div class="grid-row">
+    <article class="card-toolkit tablet:grid-col">
       <div class="card-image" style="text-align: center; background-color: #2CBEB3;">
         <img src="../assets/toolkits/learning_agenda_bg_hq_w.png" style="max-height: 200px;">
       </div>
@@ -50,7 +51,7 @@ layout: base
               <li style="line-height: 25px;">
                 <a href="../assets/toolkits/Activity_3_Supplemental_Download_updated.pptx" target="_blank">Activity 3 Supplement (1.69 MB)</a>
               </li>
-            </ul>            
+            </ul>
             <li style="line-height: 25px;">
               <a href="../assets/toolkits/Sample_Learning_Agenda_Section_updated.pdf" target="_blank">Sample Learning Agenda Section (144 KB)</a>
             </li>
@@ -58,7 +59,7 @@ layout: base
         </p>
       </div>
     </article>
-    <article class="card-toolkit usa-width-one-third">
+    <article class="card-toolkit tablet:grid-col">
       <div class="card-image" style="text-align: center; background-color: #2e9ac4;">
         <img src="../assets/toolkits/annual_eval_bg_hq_w.png" style="max-height: 200px;">
       </div>
@@ -79,7 +80,7 @@ layout: base
             </li>
             <li style="line-height: 25px;">
               <a href="../assets/toolkits/Annual_Evaluation_Plan_Workbook_updated.docx" target="_blank">Annual Evaluation Plan Workbook (326 KB)</a>
-            </li>            
+            </li>
             <li style="line-height: 25px;">
               <a href="../assets/toolkits/Sample_Evaluation_Description_updated.pdf" target="_blank">Sample Evaluation Description (193 KB)</a>
             </li>
@@ -87,7 +88,7 @@ layout: base
         </p>
       </div>
     </article>
-    <article class="card-toolkit usa-width-one-third">
+    <article class="card-toolkit tablet:grid-col">
       <div class="card-image" style="text-align: center; background-color: #fa5546;">
         <img src="../assets/toolkits/coming_soon_bg_hq_w.png" style="max-height: 200px;">
       </div>
@@ -99,120 +100,127 @@ layout: base
           <ul style="line-height: 25px;">
             <li style="line-height: 25px;">
              <a href="../assets/toolkits/Capacity_Assessment_Overview.pdf" target="_blank"> Capacity Assessment Overview (324 KB)</a>
-            </li>  
+            </li>
               <li style="line-height: 25px;">
              <a href="../assets/toolkits/Capacity_Assessment_Tips_updated2.pdf" target="_blank"> Capacity Assessment Tips (348 KB)</a>
-            </li>                
+            </li>
           </ul>
           </p>
       </div>
     </article>
   </div>
   <br />
-  <div class="usa-width-one-whole">
+  <div class="grid-row">
+    <div class="grid-col-12">
       <h2 style="text-align: center; margin-bottom: 10px; color: #2e9ac4;">Additional Toolkit Resources</h2>
-  </div>
-  <div class="usa-grid" id=toolkitbutton1>    
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;" href="../assets/toolkits/evidence_act_overview.pdf" target="_blank">
-        <div>
-          <div>
-            <span class="download-button-icon"></span>
-          </div>
-          <div>
-            <span>Evidence Act Phase 1 Overview (100 KB)</span>
-          </div>
-        </div>
-      </a>
     </div>
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;" href="../assets/toolkits/Engaging_SubAgencies_Bureaus.pdf" target="_blank"> 
+  </div>
+  <div class="grid-container" >
+    <div class="grid-row grid-gap-lg">
+      <div class="tablet:grid-col">
+        <a class="usa-button toolkit-button" style="margin-bottom: 10px;" href="../assets/toolkits/evidence_act_overview.pdf" target="_blank">
+          <div>
             <div>
-             <div>
-            <span class="download-button-icon"></span>
-          </div>
-          <div>
-            <span>Engaging Bureaus or Sub-Agencies (128 KB)</span>
-          </div>
-        </div>
-      </a>
-    </div> 
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;"  href="../assets/toolkits/Quick_Reference_Sheet_updated.pdf" target="_blank">
-        <div>
-          <div>
-            <span class="download-button-icon"></span>
-          </div>
-          <div>
-            <span>Quick Reference Sheet (95 KB)</span>
-          </div>
-        </div>
-      </a>
-    </div>
-  </div>
-  <div class="usa-grid" id=toolkitbutton2>    
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;" href="../assets/toolkits/M-19-23.pdf" target="_blank">
-        <div>
-          <div>
-            <span class="download-button-icon"></span>
-          </div>
-          <div>
-            <span>OMB M-19-23 Phase 1 (3 MB)</span>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;" href="../assets/toolkits/M-20-12.pdf" target="_blank"> 
+              <img src="../assets/toolkits/download_icon_blue.jpg" class="download-button-icon">
+            </div>
             <div>
-             <div>
-            <span class="download-button-icon"></span>
+              <span>Evidence Act Phase 1 Overview (100 KB)</span>
+            </div>
           </div>
+        </a>
+      </div>
+      <div class="tablet:grid-col">
+        <a class="usa-button toolkit-button" style="margin-bottom: 10px;" href="../assets/toolkits/Engaging_SubAgencies_Bureaus.pdf" target="_blank">
+            <div>
+               <div>
+                 <img src="../assets/toolkits/download_icon_blue.jpg" class="download-button-icon">
+            </div>
+            <div>
+              <span>Engaging Bureaus or Sub-Agencies (128 KB)</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="tablet:grid-col">
+        <a class="usa-button toolkit-button" style="margin-bottom: 10px;"  href="../assets/toolkits/Quick_Reference_Sheet_updated.pdf" target="_blank">
           <div>
-            <span>OMB M-20-12 Phase 4 (17 MB)</span>
+            <div>
+              <img src="../assets/toolkits/download_icon_blue.jpg" class="download-button-icon">
+            </div>
+            <div>
+              <span>Quick Reference Sheet (95 KB)</span>
+            </div>
           </div>
-        </div>
-      </a>
-    </div> 
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button--secondary" style="width: 100%; margin-bottom: 10px;"  href="../assets/toolkits/PLAW-115publ435.pdf" target="_blank">
-        <div>
+        </a>
+      </div>
+    </div>
+    <div class="grid-row grid-gap-lg">
+      <div class="tablet:grid-col">
+        <a class="usa-button toolkit-button" style="margin-bottom: 10px;" href="../assets/toolkits/M-19-23.pdf" target="_blank">
           <div>
-            <span class="download-button-icon"></span>
+            <div>
+              <img src="../assets/toolkits/download_icon_blue.jpg" class="download-button-icon">
+            </div>
+            <div>
+              <span>OMB M-19-23 Phase 1 (3 MB)</span>
+            </div>
           </div>
+        </a>
+      </div>
+      <div class="tablet:grid-col">
+        <a class="usa-button toolkit-button" style="margin-bottom: 10px;" href="../assets/toolkits/M-20-12.pdf" target="_blank">
+              <div>
+               <div>
+              <img src="../assets/toolkits/download_icon_blue.jpg" class="download-button-icon">
+            </div>
+            <div>
+              <span>OMB M-20-12 Phase 4 (17 MB)</span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="tablet:grid-col">
+        <a class="usa-button toolkit-button" style="margin-bottom: 10px;"  href="../assets/toolkits/PLAW-115publ435.pdf" target="_blank">
           <div>
-            <span>Evidence Act Legislation <br>(369 KB)</span>
+            <div>
+              <img src="../assets/toolkits/download_icon_blue.jpg" class="download-button-icon">
+            </div>
+            <div>
+              <span>Evidence Act Legislation <br>(369 KB)</span>
+            </div>
           </div>
-        </div>
-      </a>
+        </a>
+      </div>
     </div>
   </div>
-    {% comment %}     
-  <div align="center">
-  </div>
-  <div class="toolkits-div">
-    <div class="toolkit-div">
-      <img src="{{ '/assets/img/icons/learning_icon.jpg' | prepend: site.baseurl }}" height="120" width="130">
-      <h2><a href="{{ site.baseurl}}/learningagenda/" class="tool-link"> Learning Agenda Toolkit </a></h2>
+    {% comment %}
+    <div align="center">
     </div>
-    <div class="toolkit-div">
-      <img src="{{ '/assets/img/icons/annual_icon.jpg' | prepend: site.baseurl }}" height="120" width="120">
-      <h2><a href="{{ site.baseurl }}/annualevaluation/" class="tool-link"> Annual Evaluation Plan Toolkit </a></h2>
+    <div class="toolkits-div">
+      <div class="toolkit-div">
+        <img src="{{ '/assets/img/icons/learning_icon.jpg' | prepend: site.baseurl }}" height="120" width="130">
+        <h2><a href="{{ site.baseurl}}/learningagenda/" class="tool-link"> Learning Agenda Toolkit </a></h2>
+      </div>
+      <div class="toolkit-div">
+        <img src="{{ '/assets/img/icons/annual_icon.jpg' | prepend: site.baseurl }}" height="120" width="120">
+        <h2><a href="{{ site.baseurl }}/annualevaluation/" class="tool-link"> Annual Evaluation Plan Toolkit </a></h2>
+      </div>
     </div>
-  </div>
-  <hr/>
-  <table class="download-footer" style="border: none;">
-    <tr class="table-border">
-      <td class="table-border" style="color: #2E9AC4; font-size: 20px;"><b> Downloads <b/></td>
-      <td class="table-border" style="text-decoration: underline;"> <a href="{{ page.download-one | prepend: site.baseurl }}"> Evidence Act: Phase 1 Overview </a></td>
-      <td class="table-border" style="text-decoration: underline;"> <a href="{{ page.download-two | prepend: site.baseurl }}"> Quick Reference Sheet </a></td>
-    </tr>
-    <tr>
-      <td><img src="{{ '/assets/img/icons/download.jpg' | prepend: site.baseurl }}" height="100" width="150"> </img></td>
-      <td class="table-border" > Master Checklist: Learning Agenda and Annual Evaluation Plan Toolkits </td>
-      <td class="table-border"> Engaging Sub-Agencies in Evidence Act Implementation </td>
-    </tr>
-  </table>
-  {% endcomment %}
+    <hr />
+    <table class="download-footer" style="border: none;">
+      <tr class="table-border">
+        <td class="table-border" style="color: #2E9AC4; font-size: 20px;"><b> Downloads <b /></td>
+        <td class="table-border" style="text-decoration: underline;"> <a
+            href="{{ page.download-one | prepend: site.baseurl }}"> Evidence Act: Phase 1 Overview </a></td>
+        <td class="table-border" style="text-decoration: underline;"> <a
+            href="{{ page.download-two | prepend: site.baseurl }}"> Quick Reference Sheet </a></td>
+      </tr>
+      <tr>
+        <td><img src="{{ '/assets/img/icons/download.jpg' | prepend: site.baseurl }}" height="100" width="150"> </img>
+        </td>
+        <td class="table-border"> Master Checklist: Learning Agenda and Annual Evaluation Plan Toolkits </td>
+        <td class="table-border"> Engaging Sub-Agencies in Evidence Act Implementation </td>
+      </tr>
+    </table>
+    {% endcomment %}
 </section>

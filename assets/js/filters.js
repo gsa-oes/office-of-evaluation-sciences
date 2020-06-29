@@ -1,12 +1,20 @@
+// Find the filter form on the page
 var form = document.querySelector('#filter');
+
+// Identify any page elements that are ready to be filtered
 var filterables = document.querySelectorAll('.js-filterable');
 
+// Define the filtering function
 var update = function() {
+  // Set all filterable elements to show so that may be filtered
   [].forEach.call(filterables, function(el) {
     el.hidden = false;
   });
 
+  // Find the filters that have been checked
   var inputs = document.querySelectorAll('#filter input[value]:checked');
+
+  // Loop through filters and set relevant elements to be hidden
   [].forEach.call(inputs, function(input) {
     var key = input.name;
     var val = JSON.parse(input.value || '""');
@@ -21,4 +29,8 @@ var update = function() {
   });
 };
 
+// Attach filter function to run whenever page changes
 form.addEventListener('change', update);
+
+// Call as soon as this loads, to initialize with any defaults
+update();

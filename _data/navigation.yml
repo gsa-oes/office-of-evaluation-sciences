@@ -10,7 +10,7 @@ primary:
     - text: Evaluation Portfolio
       href: /work/
   - text: Resources
-    links: 
+    links:
     - text: Evaluation Process
       href: /methods/
     - text: Guides
@@ -29,4 +29,3 @@ primary:
         href: /opps/
       - text: Media
         href: /media/
-

@@ -1,0 +1,69 @@
+// Navigation ------------- //
+
+@mixin nav-border {
+  &:after {
+    background-color: color($color-brand);
+    height: units(0.5);
+    bottom: units(-0.5);
+  }
+}
+// .usa-nav-primary a.usa-current span
+// .usa-nav .usa-current > span
+// Add correct current nav link style
+.usa-nav {
+  @include at-media($theme-header-min-width) {
+    padding-top: unites(4);
+  }
+
+  a {
+    &.usa-current:after {
+      background-color: color($color-brand);
+    }
+  }
+}
+
+// Custom styles --------- //
+.usa-nav__primary-item {
+  button[aria-expanded='true'] {
+    background-color: $oem-blue;
+
+    span {
+      border-bottom-color: $oem-green;
+    }
+
+    &:hover {
+      background-color: $oem-blue;
+
+      span {
+        color: #fff;
+      }
+    }
+  }
+
+
+}
+
+.usa-nav__submenu {
+  background-color: #2E9AC4;
+
+  a:hover {
+    background-color: $oem-green;
+  }
+}
+
+.usa-nav__primary > .usa-nav__primary-item {
+ & > a {
+  @include at-media($theme-header-min-width) {
+    @include u-padding-y(1.5);
+  }
+ }
+ & > a:hover,
+ & > a.usa-current {
+  @include at-media($theme-header-min-width) {
+    @include nav-border;
+  }
+  span {
+    color: color($color-base);
+  }
+ }
+}
