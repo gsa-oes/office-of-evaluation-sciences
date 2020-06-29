@@ -1,0 +1,103 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+Custom project SASS goes here.
+----------------------------------------
+*/
+
+
+@import 'custom/all';
+
+// why does this need an override?
+.usa-header .usa-logo .usa-logo-img {
+  height: auto;
+}
+
+.usa-logo-img>* {
+  display: block;
+}
+
+.site-callout {
+  padding-bottom: units(6);
+
+  @include at-media('tablet-lg') {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+  }
+}
+
+h1 {
+  @include u-font('heading', '3xl');
+}
+
+.usa-prose {
+
+  >p,
+  ul,
+  ol {
+    @include u-measure(5);
+    @include u-line-height('body', 6);
+
+    @include at-media('tablet') {
+      @include u-font('body', 'lg');
+    }
+  }
+
+  >h1 {
+    @include at-media('tablet') {
+      @include u-font('heading', '3xl');
+    }
+  }
+
+  >h2 {
+    color: color('secondary');
+
+    @include at-media('tablet') {
+      @include u-font('heading', '2xl');
+    }
+  }
+
+  >h3 {
+    @include at-media('tablet') {
+      @include u-font('heading', 'xl');
+    }
+  }
+}
+
+// uswds shims
+.usa-banner,
+.usa-nav {
+  .usa-accordion {
+    @include typeset('ui');
+  }
+}
+
+@include at-media($theme-header-min-width) {
+  .usa-header--basic {
+    .usa-nav {
+      @include u-flex(1);
+    }
+
+    .usa-nav-container {
+      @include u-flex('align-center');
+    }
+
+    .usa-nav {
+      padding-bottom: 0;
+    }
+  }
+
+  .usa-logo {
+    @include u-margin-y(4);
+  }
+}

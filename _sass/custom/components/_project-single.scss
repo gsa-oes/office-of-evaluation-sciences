@@ -1,0 +1,18 @@
+// Single project page ------------- //
+
+.image-credit {
+  @include u-font('body', '2xs');
+  color: color($color-gray-medium);
+  margin-bottom: units(4);
+  margin-top: units(0.5);
+
+  @include at-media($medium-screen) {
+    min-height: units(2);
+  }
+}
+
+.page-project-single {
+  .main-content {
+    padding-top: units(4);
+  }
+}

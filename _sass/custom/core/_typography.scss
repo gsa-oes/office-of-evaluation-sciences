@@ -1,0 +1,66 @@
+// Typography ------------- //
+
+$font-body: $theme-font-type-serif;
+
+body {
+  font-size: 1.5rem;
+
+  @include at-media('tablet') {
+    font-size: $theme-body-font-size;
+  }
+}
+
+h1 {
+  font-weight: fw($font-heavy);
+}
+
+.h4 {
+  @include u-font('heading', $h4-font-size)
+}
+
+.usa-content {
+  p:not(.usa-font-lead),
+  ul:not(.usa-accordion) {
+      @include u-measure(4);
+  }
+}
+
+.usa-content {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: color($theme-color-secondary-dark);
+  }
+}
+
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6,
+// .usa-logo,
+// .usa-banner {
+//   font-family: $font-headings;
+// }
+
+h1 {
+  font-weight: $font-heavy;
+}
+
+.font-small {
+  font-size: $theme-small-font-size;
+}
+
+.h4 {
+  font-size: $h4-font-size;
+}
+
+.usa-content {
+  p:not(.usa-font-lead),
+  ul:not(.usa-accordion) {
+    max-width: 66ch;
+  }
+}

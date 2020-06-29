@@ -14,8 +14,8 @@ primary:
     - text: Other Collaborations
       href: /collaborations/
   - text: Resources
-    links: 
-    - text: Methods
+    links:
+    - text: Evaluation Process
       href: /methods/
     - text: Guides
       href: /resources/
@@ -31,6 +31,5 @@ primary:
         href: /events/
       - text: Opportunities
         href: /opps/
-      - text: Press
-        href: /press/
-
+      - text: Media
+        href: /media/

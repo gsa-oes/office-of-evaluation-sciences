@@ -1,0 +1,54 @@
+// Billboard ------------- //
+
+.billboard {
+  @include u-margin-y(2.5);
+
+  .usa-media_block-img {
+    display: none;
+    margin-right: units(4);
+    margin-top: units(2.5);
+
+    @include at-media('tablet') {
+      display: block;
+    }
+  }
+
+  .usa-button {
+    margin-top: 0;
+  }
+}
+
+.billboard-message,
+.usa-prose .billboard-message {
+  @include u-font('heading', '3xl');
+  @include u-measure(2);
+  color: color('base');
+  font-weight: fw('bold');
+  letter-spacing: ls(-1);
+  line-height: lh('alt', $heading-line-height);
+  margin: 0 auto;
+
+  p {
+    line-height: lh('alt', 3);
+    margin-top: 0;
+  }
+
+  em {
+    color: color('ink');
+    font-style: normal;
+  }
+}
+
+.billboard-img {
+  @include at-media('tablet') {
+    //@include span-columns(2);
+  }
+}
+
+.icon-gears {
+  @include at-media('tablet') {
+    display: block;
+    float: right;
+    width: 100%;
+  }
+}

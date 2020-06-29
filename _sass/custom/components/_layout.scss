@@ -1,0 +1,104 @@
+// Layout ------------- //
+
+// Single column page
+.page-single-column {
+  .usa-content {
+    max-width: 66ch;
+  }
+}
+
+// Add top + bottom padding to main's
+body:not(.page-home) {
+  main {
+//    @include padding(3rem null);
+  }
+}
+
+.main-content {
+  @include u-padding-y(4);
+}
+
+.page--banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 300px;
+  width: 100%;
+}
+
+@mixin background-dark {
+  color: color('white');
+  -webkit-font-smoothing: antialiased;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    color: color('white');
+  }
+
+  .section-heading {
+    color: color('accent-cool');
+  }
+
+  a {
+    color: color('white');
+
+    &:hover {
+      color: color('base-light');
+
+      path {
+        fill: color('base-light');
+      }
+    }
+  }
+
+  input,
+  textarea,
+  select {
+    border-color: color('white');
+  }
+}
+
+.background-medium {
+  @include background-dark;
+  background-color: $color-brand-medium;
+}
+
+.background-gray-dark {
+  @include background-dark;
+  background-color: color('base-darker');
+}
+
+.background-brand-dark {
+  @include background-dark;
+  background-color: color('secondary');
+}
+
+.background-light,
+.bg-secondary-lighter {
+  background-color: color('secondary-lighter');
+
+  .card {
+    background-color: color('white');
+  }
+
+  .usa-button {
+    background-color: color('secondary-dark');
+  }
+}
+
+.single-sidebar {
+  @include typeset('alt');
+
+  h3 + p {
+    margin-top: 0;
+  }
+
+  h3 {
+    color: color('secondary-dark');
+  }
+}

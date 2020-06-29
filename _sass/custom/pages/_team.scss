@@ -1,0 +1,67 @@
+// Team ------------- //
+.modal-overlay {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  display: none;
+  background-color: #111;
+  opacity: .6;
+  top: 0;
+  left: 0;
+  z-index: 9001; // .usa-nav z-index is 9000
+}
+
+.modal-inner {
+  background-color: #fff;
+  display: none;
+  width: 70%;
+  max-height: calc(100% - 100px);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  border-radius: 1em;
+  z-index: 9002;
+}
+
+.close-modal {
+  position: absolute;
+  right: 2px;
+}
+
+// Mixins
+@mixin image-circle($width) {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  clip-path: circle(($width / 2) at center);
+  height: $width;
+  width: $width;
+}
+
+.page-team {
+  .usa-graphic-list {
+    .usa-media-block {
+      margin-top: units(4);
+    }
+
+    .usa-graphic-list__heading {
+      margin-top: 0;
+
+      & + p {
+        margin-top: units(1);
+      }
+    }
+  }
+}
+
+.team-image {
+  @include image-circle(124px);
+}
+
+.page-team-single {
+  .team-image {
+    @include image-circle(270px);
+  }
+}

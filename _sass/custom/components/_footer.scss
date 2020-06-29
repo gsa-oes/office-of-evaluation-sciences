@@ -1,0 +1,52 @@
+// Footer ------------- //
+
+footer {
+  @include typeset('alt', '3xs')
+
+  a {
+    @include u-font('alt', '3xs');
+    font-weight: fw('bold') !important;
+    text-decoration: none;
+  }
+
+  .logo-icon,
+  .usa-footer-logo-img {
+    @include u-square(7);
+    float: initial;
+  }
+}
+
+.footer-links {
+  margin-bottom: units(3);
+
+  li {
+    margin-bottom: 0;
+  }
+}
+
+.footer-logo-links {
+  margin-bottom: units(2);
+}
+
+.footer-links-heading {
+  @include u-font('alt', '3xs');
+  font-weight: fw('normal');
+  margin-bottom: units(1);
+
+  @include at-media('tablet') {
+    margin-top: 0;
+  }
+}
+
+.icon-twitter {
+  margin-right: units(1);
+}
+
+.usa-footer-logo-img {
+  margin-left: units(1);
+
+  @include at-media('tablet') {
+    // float: right;
+    margin-top: units(-7);
+  }
+}

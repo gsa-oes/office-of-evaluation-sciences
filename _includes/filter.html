@@ -1,19 +1,21 @@
-<ul class="usa-accordion filter">
-  <li>
-    <button class="usa-accordion-button"
+<div class="usa-accordion filter margin-top-4">
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
       aria-expanded="false" aria-controls="filter">
       <p class="filter-button-title">{{ page.filter_button_title }}</p>
       <p class="filter-button-message">{{ page.filter_button_message }}</p>
     </button>
-    <div id="filter" class="usa-accordion-content">
-      {% for filter in include.filters %}
-      <div class="filter-section">
-        <fieldset class="usa-fieldset-inputs">
-          <legend class="filter-category usa-width-one-fourth">{{ filter.title }}</legend>
-          <ul class="usa-unstyled-list usa-width-three-fourths">
+  </h2>
+  <div id="filter" class="usa-accordion__content">
+    {% for filter in include.filters %}
+    <div class="filter-section">
+      <fieldset class="usa-fieldset">
+        <div class="grid-row">
+          <legend class="filter-category tablet:grid-col-3">{{ filter.title }}</legend>
+          <ul class="add-list-reset tablet:grid-col">
             <li>
-              <input id="{{ filter.key }}-all" type="radio" checked name="{{ filter.key }}">
-              <label class="usa-button usa-button-outline" for="{{ filter.key }}-all">All</label>
+              <input id="{{ filter.key }}-all" type="radio" {% unless filter.default %}checked{% endunless %} name="{{ filter.key }}">
+              <label class="usa-button usa-button--outline" for="{{ filter.key }}-all">All</label>
             </li>
             {% capture void %}
             {% assign values = '' | split: '' %}
@@ -35,14 +37,16 @@
             {% for value in values %}
             {% assign slug = value | append: '' | slugify %}
             <li>
-              <input id="{{ filter.key }}-{{ value }}" type="radio" name="{{ filter.key }}" value="{{ value | jsonify | xml_escape }}">
-              <label class="usa-button usa-button-outline" for="{{ filter.key }}-{{ value }}">{{ value }}</label>
+              {% capture keyval %}{{ filter.key }}-{{ value }}{% endcapture %}
+              {% capture default %}{{ filter.key }}-{{ filter.default }}{% endcapture %}
+              <input id="{{ keyval }}" type="radio" {% if default == keyval %}checked{% endif %} name="{{ filter.key }}" value="{{ value | jsonify | xml_escape }}">
+              <label id="{{ keyval }} {{default}}" class="usa-button usa-button--outline" for="{{ keyval }}">{{ value }}</label>
             </li>
             {% endfor %}
           </ul>
-        </fieldset>
-      </div>
-      {% endfor %}
+        </div>
+      </fieldset>
     </div>
-  </li>
-</ul>
+    {% endfor %}
+  </div>
+</div>

@@ -35,12 +35,16 @@ defaults:
 colors:
   primary: '#0071bc'
 
+# Google Analytics and DAP
 analytics:
   google:
-    code: 'UA-67580537-1' 
+    code: 'UA-67580537-1'
   dap:
     agency: GSA
     subagency: OES
+
+# Search.gov configuration
+search_site_handle: oes.gsa.gov
 
 footer:
   image: /assets/img/icons/gsa-white.svg

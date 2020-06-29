@@ -9,25 +9,27 @@ summary:
 ---
 
 <div class="banner contact">
-  <div class="usa-grid">
+  <div class="grid-container">
   {% for form in site.forms %}
     {% if form.type == 'newsletter' %}
       {% assign f = form %}
     {% endif %}
   {% endfor %}
-    <div class="usa-width-two-thirds contact-form">
-        <h2 id="whats-new-at-oes">What's new at OES?</h2>
-        <p>Sign up for our email list to receive updates on events, results released, and opportunities to work with the team.</p>      
-        <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
-    </div>
-    <div class="usa-width-one-third privacy-policy">
-      {% if f.privacypolicy %}
-        {% include icons/privacy.svg %}
-        <h3 class="h4">Your privacy and security are important to us.</h3>
-        <p class="font-small">We’ll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
-      {% else %}
-        <p></p>
-      {% endif %}
+    <div class="grid-row">
+      <div class="grid-col-8 contact-form">
+          <h2 id="whats-new-at-oes">What's new at OES?</h2>
+          <p>Sign up for our email list to receive updates on events, results released, and opportunities to work with the team.</p>      
+          <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
+      </div>
+      <div class="grid-col-4 privacy-policy">
+        {% if f.privacypolicy %}
+          {% include icons/privacy.svg %}
+          <h3 class="h4">Your privacy and security are important to us.</h3>
+          <p class="font-small">We’ll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
+        {% else %}
+          <p></p>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>

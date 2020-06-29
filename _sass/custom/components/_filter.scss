@@ -1,0 +1,108 @@
+// Filter ------------- //
+
+.filter {
+  margin-bottom: units(8);
+
+  > li {
+    background-color: color('white');
+  }
+
+  li {
+    @include at-media($small-screen) {
+      display: inline-block;
+    }
+  }
+
+  .usa-accordion__button {
+    background-color: color('secondary-lighter');
+    color: color('secondary-dark');
+    border-left: units(0.5) solid color('secondary-vivid');
+
+    p {
+      margin: 0;
+    }
+
+    &:hover {
+      background-color: color('gray-cool-4');
+    }
+  }
+
+  .usa-accordion__content {
+    background-color: color('secondary-lighter');
+    margin-top: units(2px);
+    padding: 0;
+  }
+
+  .usa-button--outline {
+    background-color: transparent;
+    box-shadow: inset 0 0 0 units(2px) color($color-brand-dark);
+    color: color('secondary-dark');
+    font-weight: fw('bold');
+
+    &:hover {
+      background-color: transparent;
+      box-shadow: inset 0 0 0 units(2px) color($color-brand-dark-hover);
+      color: color($color-brand-dark-hover);
+    }
+
+    &:focus {
+       @include focus-outline;
+    }
+  }
+
+  [type=radio]:checked + label {
+    background-color: color('secondary-dark');
+    color: color('white');
+
+    &:hover {
+      background-color: color($color-brand-dark-hover);
+    }
+  }
+
+  input:focus + .usa-button--outline {
+    box-shadow: 0 0 0 units($theme-focus-width) color($theme-focus-color);
+  }
+
+  label:before {
+    display: none;
+  }
+
+  input {
+    display: block;
+    height: 0;
+    opacity: 0;
+    position: relative;
+  }
+}
+
+.filter-button-title {
+  @include u-font('heading', '2xl');
+}
+
+.filter-button-message {
+  @include u-font('heading', 'xs');
+  color: color('secondary');
+  font-weight: fw('bold');
+}
+
+.filter-section {
+  border-bottom: units(2px) solid color($color-white);
+  clear: left;
+  padding: units(2) units(4);
+}
+
+.filter-category {
+  @include u-font('heading', 'sm');
+  font-weight: fw('bold');
+  margin-bottom: units(1);
+  margin-top: units(1);
+}
+
+.filter-selection {
+  overflow: hidden;
+
+  button {
+    @include u-margin-y(0.5);
+    @include u-margin-right(0.5);
+  }
+}

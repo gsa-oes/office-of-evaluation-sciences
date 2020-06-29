@@ -1,5 +1,7 @@
-    <article class="card usa-width-one-third js-filterable" {% for filter in layout.filters %}
-    data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
+<div class="project-col tablet-lg:grid-col-4 js-filterable" {% for filter in layout.filters %}
+  data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
+  <div class="display-flex height-full">
+    <article class="card">
       <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
       <div class="card-image"
         style="background-image: url(
@@ -22,3 +24,5 @@
         {% include icons/arrow-right.svg %}
       </a>
     </article>
+  </div>
+</div>
