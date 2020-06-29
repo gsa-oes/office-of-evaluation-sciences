@@ -6,7 +6,7 @@ tags:
   - census
 image: /assets/img/project-images/census-2.jpeg
 image-credit: https://www.nationalguard.mil/Resources/Image-Gallery/News-Images/igphoto/2000029596/
-abstract: 
+academic-pub: assets/publications/census-community-outreach-toolkit.pdf
 year: 2017  
 domain: Health
 agency: Census
