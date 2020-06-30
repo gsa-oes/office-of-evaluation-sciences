@@ -9,7 +9,7 @@ image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.
 abstract: /assets/abstracts/msi-project-abstract.pdf
 year: 2018  
 domain: Health
-agency: United States Agency for International Development
+agency: US Agency for International Development
 summary: A feasibility pilot to increase access to voluntary family planning services.
 ---
 ## What was the challenge?
