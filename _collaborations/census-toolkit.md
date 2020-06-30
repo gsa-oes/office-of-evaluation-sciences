@@ -8,7 +8,7 @@ image: /assets/img/project-images/census.jpg
 image-credit: https://www.flickr.com/photos/uscensusbureau/7024455607
 academic-pub: assets/publications/census-community-outreach-toolkit.pdf
 year: 2017  
-domain: Health
+domain: Communications
 agency: Census
 summary: A quickstart guide to tailoring census outreach efforts for the people they serve
 ---
