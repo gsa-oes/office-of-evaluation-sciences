@@ -23,7 +23,7 @@ This project did not include an evaluation component.
 
 ## What was the impact?
 
-The Community Action Deck has been made available for download across government for any interested party to use. To download the report, report implementation guide, and learn more about the work of the Community Oriented Policing Services (COPS) Office at the Department of Justice, please visit: [https://cops.usdoj.gov/policingtaskforce](https://cops.usdoj.gov/policingtaskforce)
+The Community Action Deck has been made available for download across government for any interested party to use. 
 
 <a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-1-Community-Action-Deck.pdf">Download the Deck</a>
 <a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-2-Community-Action-Deck-Card-Template.pptx">Download the Card Template</a>
