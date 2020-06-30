@@ -4,6 +4,7 @@ permalink: /projects/improving-reentry/
 tags: project
 image: /assets/img/project-images/Federal_Prison.jpg
 image-credit: https://www.flickr.com/photos/8126271@N04/855127147
+academic-pub: /assets/abstracts/1619-reentry-handbook.pdf
 year: 2016
 domain: Justice
 agency: Justice
@@ -28,5 +29,5 @@ This project did not include an evaluation component.
 As of September 2016, the handbook had been distributed to 20,000 individuals due to be released from prison. One individual, J.D. Wheeler III, had this to say about receiving his handbook: 
 <i> "I did 12 years and two months in prison. Before getting my re-entry handbook, it felt like I was in the Flintstone era. With the handbook, though, it rocketed me into the Jetsons' era. I found that I was able to adapt to this entirely new world—especially given all of the new technology—with more awareness and insights into what I needed to do to become a member of my society. I was removed from the world for so long, I thought my transition was going to move at a snail's pace. But the handbook’s structure helped move things along at a moderate pace. Every inmate should get a copy of this handbook at least 30-45 days before they leave prison so they can already know what is going on, what to expect, and have time to really dig in and understand what steps they can take before and after release. I am an ambitious person and I want something out of my life, and the handbook gave me the knowledge I needed."</i> 
 
-<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1619-reentry-handbook.pdf">View Handbook</a>
+<a href="{{site.baseurl}}/assets/abstracts/1619-reentry-handbook.pdf">View Handbook</a>
 
