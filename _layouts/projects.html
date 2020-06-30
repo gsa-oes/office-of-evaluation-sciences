@@ -23,7 +23,7 @@ scripts:
   <div class="grid-row grid-gap">
     {% assign sorted_projects = site.projects | sort:"year" | reverse %}
     {% for project in sorted_projects %}
-      {% include projects.html %}
+      {% include project-card.html %}
     {% endfor %}
   </div>
 </div>

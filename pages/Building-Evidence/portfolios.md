@@ -22,7 +22,7 @@ In partnership with the <a href="https://www.hhs.gov/nvpo/featured-priorities/in
   <div class="grid-row grid-gap">
     {% assign sorted_portfolios = site.portfolios %}
     {% for project in sorted_portfolios %}
-      {% include projects.html %}
+      {% include project-card.html %}
     {% endfor %}
   </div>
 </div>
