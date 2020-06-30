@@ -1,13 +1,14 @@
 ---
-layout: portfolio
+layout: page
 title: Portfolios
 permalink: /portfolios/
 image:
-summary: 
+summary:
 project_tags:
-  - USAID
-  
+
 ---
+
+
 ## Background
 
 PLACEHOLDER TEXT
@@ -17,7 +18,11 @@ In partnership with the <a href="https://www.hhs.gov/nvpo/featured-priorities/in
 
 ## OES Portfolios
 
-PLACEHOLDER TEXT
-Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving vaccine uptake. 
-
-
+<div class="margin-top-4">
+  <div class="grid-row grid-gap">
+    {% assign sorted_portfolios = site.portfolios %}
+    {% for project in sorted_portfolios %}
+      {% include projects.html %}
+    {% endfor %}
+  </div>
+</div>

@@ -21,6 +21,8 @@ collections:
     output: true
   collaborations:
     output: true
+  portfolios:
+    output: true
 
 defaults:
   - scope:
@@ -38,6 +40,11 @@ defaults:
       type: collaborations
     values:
       layout: collaboration-single
+  - scope:
+      path: ''
+      type: portfolios
+    values:
+      layout: portfolio
 
 colors:
   primary: '#0071bc'
