@@ -14,11 +14,16 @@ scripts:
   - src: /assets/js/filters.js
 ---
 
-{{ content }}
+<div class="usa-prose">
+  {{ content }}
+</div>
 
 {% include filter.html items=site.collaborations filters=layout.filters %}
-<div class="project-container">
-  {% for project in site.collaborations reversed %}
-    {% include collaborations.html %}
-  {% endfor %}
+<div class="margin-top-4">
+  <div class="grid-row grid-gap">
+    {% assign sorted_collaborations = site.collaborations | sort:"year" | reverse %}
+    {% for project in sorted_collaborations %}
+      {% include collaborations.html %}
+    {% endfor %}
+  </div>
 </div>
