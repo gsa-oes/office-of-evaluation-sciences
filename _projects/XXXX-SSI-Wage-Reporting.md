@@ -2,6 +2,7 @@
 title:  Timely Wage Reporting Among SSI Recipients
 permalink: /projects/ssi-wage-reporting/
 tags: 
+  - complete
   - project
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
