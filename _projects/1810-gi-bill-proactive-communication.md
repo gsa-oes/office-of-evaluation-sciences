@@ -1,7 +1,9 @@
 ---
 title:  Using Proactive Communication to Increase College Enrollment for Post-9/11 GI Bill Beneficiaries
 permalink: /projects/gi-bill-proactive-communication/
-tags: project  
+tags: 
+  - project  
+  - complete
 image: /assets/img/project-images/1810.jpg
 image-credit: U.S. Army photo by Nell King
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
