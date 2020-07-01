@@ -4,6 +4,7 @@ permalink: /projects/sms-mozambique/
 tags: 
   - project 
   - USAID
+  - ongoing
 image: /assets/img/project-images/1811.jpg
 image-credit: 
 analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
