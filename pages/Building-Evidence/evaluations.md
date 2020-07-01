@@ -25,10 +25,10 @@ filter_button_message: By year completed, current status, domain, and agency col
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img src="{{ '/assets/img/oes-project-process-small.png' | prepend: site.baseurl }}" class="display-block margin-x-auto square-60">
+        <img src="{{ '/assets/img/oes-project-process-small.png' | prepend: site.baseurl }} width="400">
       </div>
       <div class="tablet:grid-col usa-prose">
-        <h4>OES Evaluation Process</h4>
+        <h3>OES Evaluation Process</h3>
         <p>To implement our Evaluation Policy and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates.
           <br>
           - Step 1: Each evaluation is vetted early for feasibility, proper planning, and potential impact for stakeholders in a Federal program or policy
@@ -39,17 +39,15 @@ filter_button_message: By year completed, current status, domain, and agency col
 specifying key outcomes and analytic choices, and we post it on our website
           <br>
           - Step 4: An initial analysis of results is presented to the full team to check that the
-analysis is sound and comprehensive, that any limitations have been identified, and that alternative
-explanations have been addressed to the greatest extent possible
+analysis is sound, comprehensive, and that any limitations have been identified
           <br>
-          - Step 5: After the initial analysis has been
-team-vetted and refined, it is checked by having a second analyst, who is unaware of the initial
-results and findings, reproduce it.
+          - Step 5: Our initial analysis is then checked by a second analyst, who is unaware of the initial
+results and findings, to check reproducibility.
           <br>
           - Step 6: To ensure transparency and reproducibility, all
 evaluation materials are checked for completeness and proper archiving before a report is
 published.</p>
-           <p><a href="{{ '/methods' | prepend: site.baseurl }}">Learn more about our OES Evaluation Process.</a></p>
+           <p><a href="{{ '/methods' | prepend: site.baseurl }}">Learn more about our Evaluation Process.</a></p>
       </div>
     </div>
   </div>
