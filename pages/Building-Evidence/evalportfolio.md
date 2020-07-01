@@ -3,7 +3,7 @@ layout: page
 title: Building evidence
 permalink: /work/
 image:
-summary: Since 2015, the Office of Evaluation Sciences has completed more than 70 tests with more than a dozen agencies.
+summary: Since 2015, the Office of Evaluation Sciences has completed more than 70 tests with more than a dozen agencies. 
 
 filters:
   - key: year
@@ -18,11 +18,13 @@ filters:
 scripts:
   - src: /assets/js/filters.js
 filter_button_title: Filter the project listing
-filter_button_message: By year completed, domain, and agency collaborator
+filter_button_message: By year completed, current status, domain, and agency collaborator
 ---
 
 <div class="usa-prose">
   <p>These projects reflect the work of the OES team and dedicated civil servants across the federal government.</p>
+ ![image]({{site.baseurl}}/assets/img/oesprojectprocess.png)
+  
 </div>
 
 {% include filter.html items=site.projects filters=page.filters %}
