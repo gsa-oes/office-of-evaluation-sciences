@@ -15,23 +15,25 @@ primary:
       href: /collaborations/
   - text: Resources
     links:
-    - text: Evaluation Process
+    - text: OES Methods
       href: /methods/
-    - text: Guides
-      href: /resources/
+    - text: Evaluation Resources
+      href: /evaluationresources/
     - text: Evidence Act Toolkits
       href: /toolkits/
-    - text: OES Blog
-      href: /blog/
+    - text: Academic Publications
+      href: /publications/
+    - text: General Resources
+      href: /resources/
   - text: Connect
     links:
       - text: Contact
         href: /contact/
       - text: OES Blog
         href: /blog/
-      - text: Events
+      - text: Events & Workshops
         href: /events/
-      - text: Opportunities
+      - text: Fellowships & Opportunities
         href: /opps/
       - text: Media
         href: /media/
