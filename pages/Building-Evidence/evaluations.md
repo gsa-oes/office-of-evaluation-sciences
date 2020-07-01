@@ -25,7 +25,8 @@ filter_button_message: By year completed, current status, domain, and agency col
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img src="{{ '/assets/img/oes-project-process-small.png' | prepend: site.baseurl }} width="400">
+
+        <img src="/assets/img/oes-project-process-small.png" width="400"> 
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>OES Evaluation Process</h3>
