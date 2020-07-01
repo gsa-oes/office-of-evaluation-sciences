@@ -8,12 +8,12 @@ analysis-plan: /assets/analysis/1901-NRBAnalysisPlan.pdf
 abstract:
 year: 2020  
 status: Ongoing
-featured: homepage
 domain: Government Efficiency
 agency:
     - Housing and Urban Development
     - Census
 summary: Analysis Plan Registration
+featured: homepage
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
