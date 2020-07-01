@@ -60,7 +60,7 @@ h1 {
   }
 
   >h2 {
-    color: color('secondary');
+    color: #005ea2;
 
     @include at-media('tablet') {
       @include u-font('heading', '2xl');
