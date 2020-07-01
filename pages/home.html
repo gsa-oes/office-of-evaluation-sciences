@@ -53,14 +53,14 @@ page.tagline and page.intro %}
           {% include project-card.html %}
         {% endfor %}
       </div>
-      <div class="grid-row grid-gap-lg">
-        <p><a class="usa-button" href="{{site.baseurl}}/work">Learn more about our work</a></p>
-      </div>
       <h2>Ongoing projects</h2>
       <div class="grid-row grid-gap-lg">
         {% for project in featured_ongoing %}
           {% include project-card.html %}
         {% endfor %}
+      </div>
+       <div class="grid-row grid-gap-lg">
+        <p><a class="usa-button" href="{{site.baseurl}}/work">Learn more about our work</a></p>
       </div>
     </div>
   </section>
