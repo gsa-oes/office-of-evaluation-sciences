@@ -3,7 +3,7 @@ layout: page
 title: Other Collaborations
 permalink: /collaborations/
 image:
-summary: These OES projects include intervention re-designs, individual agency collaborations, and wild card projects
+summary: We work directly alongside agency collaborators on their most pressing implementation challenges, ensuring that we’re building capacity by empowering our collaborators. When our collaborations do not lead to evaluations, we aim to share learnings and the outcomes of engagements.
 
 filters:
   - key: year
