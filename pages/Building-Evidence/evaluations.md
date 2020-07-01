@@ -9,4 +9,4 @@ filter_button_message: By year completed, domain, and agency collaborator
 ---
 
 These projects reflect the work of the OES team and dedicated civil servants across the federal government.
- ![image](/assets/img/oesprojectprocess.png)
+
