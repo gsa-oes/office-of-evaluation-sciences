@@ -25,28 +25,23 @@ filter_button_message: By year completed, current status, domain, and agency col
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-      <img src="{{ '/assets/img/oesprojectprocess.png' | prepend: site.baseurl }}" width="400">
+      <img src="{{ '/assets/img/oesprojectprocess.png' | prepend: site.baseurl }}" width="600">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>OES Evaluation Process</h3>
         <p>To implement our Evaluation Policy and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates.
           <br>
-          - Step 1: Each evaluation is vetted early for feasibility, proper planning, and potential impact for stakeholders in a Federal program or policy
+          - Step 1: **Partner** with Federal Agencies to target priority outcomes
           <br>
-          - Step 2: Before any evaluation can progress to the “field,” phase, its design is carefully reviewed by select team members and then presented to the full team for comments
+          - Step 2: **Translate** behavioral insights into concrete recommendations
           <br>
-          - Step 3: Before we work with data, we commit to an Analysis Plan
-specifying key outcomes and analytic choices, and we post it on our website
+          - Step 3: **Embed** evaluations
           <br>
-          - Step 4: An initial analysis of results is presented to the full team to check that the
-analysis is sound, comprehensive, and that any limitations have been identified
+          - Step 4: **Analyze** results utilizing exisiting administrative data
           <br>
-          - Step 5: Our initial analysis is then checked by a second analyst, who is unaware of the initial
-results and findings, to check reproducibility.
+          - Step 5: **Ensure** our work meets evaluation best practice
           <br>
-          - Step 6: To ensure transparency and reproducibility, all
-evaluation materials are checked for completeness and proper archiving before a report is
-published.</p>
+          - Step 6: **Measure impact** and build evidence to continuously improve</p>
            <p><a href="{{ '/methods' | prepend: site.baseurl }}">Learn more about our Evaluation Process.</a></p>
       </div>
     </div>
