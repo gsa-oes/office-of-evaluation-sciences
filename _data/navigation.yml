@@ -27,6 +27,8 @@ primary:
     links:
       - text: Contact
         href: /contact/
+      - text: OES Blog
+        href: /blog/
       - text: Events
         href: /events/
       - text: Opportunities
