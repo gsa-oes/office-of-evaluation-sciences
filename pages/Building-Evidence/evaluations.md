@@ -23,7 +23,7 @@ filter_button_message: By year completed, current status, domain, and agency col
 
 <div class="usa-prose">
   <p>OES team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations for how to improve government, and evaluate impact using administrative data. These projects reflect the work of the OES team and dedicated civil servants across the federal government.</p>
- ![image](/assets/img/oesprojectprocess.png)
+![image](/assets/img/oesprojectprocess.png)
   
 </div>
 
