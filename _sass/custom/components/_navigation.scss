@@ -51,6 +51,12 @@
   }
 }
 
+.usa-nav__primary {
+  a, button[aria-expanded='true'] {
+      color: #fff;
+  }
+}
+
 .usa-nav__primary > .usa-nav__primary-item {
  & > a {
   @include at-media($theme-header-min-width) {
