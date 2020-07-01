@@ -9,6 +9,7 @@ image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
 year: 2019
 domain: Government Efficiency
+status: Complete
 agency: Social Security Administration
 summary: A reminder encouraged SSI recipients to self-report changes in wages earlier, potentially reducing overpayment.
 featured: homepage
