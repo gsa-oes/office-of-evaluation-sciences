@@ -40,20 +40,30 @@ page.tagline and page.intro %}
   </div>
 </section>
 
-{% assign featuredprojects = site.projects | where: "featured" , "homepage" %}
+{% assign featured_ongoing = site.projects | where_exp: "project" , "project.featured == 'homepage' and project.status == 'Ongoing'" %}
+{% assign featured_completed = site.projects | where: "featured" , "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
-  {% else %}
-    <section class="usa-section featured bg-secondary-lighter">
-      <div class="grid-container">
-        <h2>Featured Projects</h2>
-        <div class="grid-row grid-gap-lg">
-          {% for project in featuredprojects %}
-            {% include project-card.html %}
-          {%
-      endfor %}
-        </div>
+{% else %}
+  <section class="usa-section featured bg-secondary-lighter">
+    <div class="grid-container">
+      <h1>Featured projects</h1>
+      <h2>Completed projects</h2>
+      <div class="grid-row grid-gap-lg">
+        {% for project in featured_completed %}
+          {% include project-card.html %}
+        {% endfor %}
       </div>
-    </section>
+      <div class="grid-row grid-gap-lg">
+        <p><a href="/work">Learn more about our work</a></p>
+      </div>
+      <h2>Ongoing projects</h2>
+      <div class="grid-row grid-gap-lg">
+        {% for project in featured_ongoing %}
+          {% include project-card.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
 {% endif %}
 
 <section class="usa-section bg-white">
