@@ -1,4 +1,4 @@
-<div class="project-col tablet-lg:grid-col-4 js-filterable" {% for filter in layout.filters %}
+<div class="project-col tablet-lg:grid-col-4 js-filterable" {% for filter in page.filters %}
   data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
   <div class="display-flex height-full">
     <article class="card">
