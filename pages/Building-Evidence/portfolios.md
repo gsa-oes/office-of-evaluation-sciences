@@ -3,7 +3,7 @@ layout: page
 title: Portfolios
 permalink: /portfolios/
 image:
-summary:
+summary: OES has developed portfolios of evidence on a range of goverment-wide priorities. 
 project_tags:
 
 ---
