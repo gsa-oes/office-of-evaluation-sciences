@@ -5,7 +5,7 @@ permalink: /events/
 image:
 image_full: 
 class:
-summary: 
+summary: Attend our annual results discussion or training.
 ---
 
 ## Past Events
