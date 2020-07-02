@@ -5,7 +5,7 @@ permalink: /media/
 image:
 image_full: 
 class:
-summary: 
+summary: Read more about OES through media coverage or contact our press office.
 ---
 
 ## Selected Coverage of OES
