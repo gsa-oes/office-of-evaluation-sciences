@@ -7,7 +7,7 @@ image_full:
 class:
 summary: We hope others can use and build on what we've learned.
 ---
-Below are case studies and resources we've developed through our work building evidence. 
+Below are resources we’ve developed through our work building evidence government-wide.
 
 ### Evaluation Project Methods
 Because results from OES tests impact the lives of millions of Americans, the quality of our work is of paramount importance. We follow the <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">OES Evaluation Policy</a> and six steps to ensure our findings are relevant and reliable.
