@@ -6,6 +6,8 @@ image:
 summary: OES and the United States Agency for International Development (USAID) have partnered to apply and test evidenced-based insights from behavioral science to critical development challenges in Global Health.
 project_tags:
   - USAID
+collaborations_tags:
+  - USAID
 ---
 <br/>
 <section>
