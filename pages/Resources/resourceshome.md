@@ -7,7 +7,7 @@ image_full:
 class:
 summary: We hope others can use and build on what we've learned.
 ---
-Below are case studies and resources we've developed through our work building evidence. 
+Below are resources we’ve developed through our work building evidence government-wide.
 
 ### OES Evidence Brief: Designing effective health communications
 Placeholder text to update: Responding to the COVID-19 epidemic has made it more important than ever for the government to design effective health communications. Here’s what these collaborations have revealed about how to design more effective health communications:
