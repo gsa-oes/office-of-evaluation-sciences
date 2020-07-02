@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Vaccines Portfolio
+title: Vaccines
 permalink: /vaccines/
 image:
 summary: OES has collaborated with several federal agencies to build a portfolio of evidence regarding how low-cost insights can improve vaccination rates. 
