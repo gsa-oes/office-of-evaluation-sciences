@@ -29,19 +29,7 @@ filter_button_message: By year completed, current status, domain, and agency col
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>OES Evaluation Process</h3>
-        <p>To implement our Evaluation Policy and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates.
-          <br>
-          - Step 1: **Partner** with Federal Agencies to target priority outcomes
-          <br>
-          - Step 2: **Translate** behavioral insights into concrete recommendations
-          <br>
-          - Step 3: **Embed** evaluations
-          <br>
-          - Step 4: **Analyze** results utilizing exisiting administrative data
-          <br>
-          - Step 5: **Ensure** our work meets evaluation best practice
-          <br>
-          - Step 6: **Measure impact** and build evidence to continuously improve</p>
+        <p>To implement our Evaluation Policy and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates.</p>
            <p><a href="{{ '/methods' | prepend: site.baseurl }}">Learn more about our Evaluation Process.</a></p>
       </div>
     </div>
