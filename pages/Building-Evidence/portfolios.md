@@ -9,14 +9,10 @@ project_tags:
 ---
 
 
-## Background
+## Overview
 
 PLACEHOLDER TEXT
 
-
-## OES Portfolios
-
-PLACEHOLDER TEXT
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
