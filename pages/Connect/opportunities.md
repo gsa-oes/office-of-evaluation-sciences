@@ -5,7 +5,7 @@ permalink: /opps/
 image:
 image_full: true
 class:
-summary: Our team is passionate about building and using evidence to better serve the public. 
+summary: Learn more about joining OES and working with us as an agency collaborator or affililate.
 ---
 ## Join OES
 
