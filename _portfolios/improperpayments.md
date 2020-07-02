@@ -3,7 +3,7 @@ layout: portfolio
 title: Improper Payments
 permalink: /improperpayments/
 image:
-summary: 
+summary: placeholder text
 project_tags:
   - cost savings
 ---
