@@ -29,7 +29,7 @@ filter_button_message: By year completed, current status, domain, and agency col
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>OES Evaluation Process</h3>
-        <p>To implement our Evaluation Policy and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates.</p>
+        <p>To implement our <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">Evaluation Policy</a> and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates.</p>
            <p><a href="{{ '/methods' | prepend: site.baseurl }}">Learn more about our Evaluation Process.</a></p>
       </div>
     </div>
