@@ -5,7 +5,7 @@ permalink: /toolkits/
 image:
 image_full:
 class:
-summary: Learning agendas, Annual Evaluation PlanS, and the capacity assessment Toolkits are intended as resources to help agencies learn from leading practices and case studies to build a culture and infrastructure for continuous learning and improvement.
+summary: Learning agendas, Annual Evaluation Plans, and the capacity assessment Toolkits are intended as resources to help agencies learn from leading practices and case studies to build a culture and infrastructure for continuous learning and improvement.
 download-one: /assets/toolkits/evidence_act_overview.pdf
 download-two: /assets/toolkits/reference_sheet.pdf
 ---
