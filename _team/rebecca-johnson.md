@@ -4,6 +4,10 @@ image: /assets/img/team/rebecca_johnson.jpg
 year:
   - 2019
   - 2020
+agency:
+  - Housing and Urban Development
+  - Education
+  - Veterans Affairs
 home: University
 title: Associate Fellow
 ---
