@@ -3,7 +3,7 @@ layout: page
 title: Other Collaborations
 permalink: /collaborations/
 image:
-summary: We work directly alongside agency collaborators on their most pressing implementation challenges, ensuring that we’re building capacity by empowering our collaborators. When our collaborations do not lead to evaluations, we aim to share learnings and the outcomes of engagements.
+summary: OES supports agencies on a variety of pressing implementation challenges. In addition to supporting agencies in conducting evaluations, OES has provided support to agency partners in developing resources and answering key questions. 
 
 filters:
   - key: year
