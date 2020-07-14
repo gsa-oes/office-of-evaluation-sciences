@@ -22,7 +22,7 @@ filter_button_message: By year completed, current status, domain, and agency col
 ---
 
 <p>OES team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations for how to improve government, and evaluate impact using administrative data. To implement our <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">Evaluation Policy</a> and ensure that we adhere to our core principles, we run all of our evaluations through a process that includes six gates. 
-  <br> <img src="{{ '/assets/img/oes-project-process-line.png' | prepend: site.baseurl }}" width="1500"><br>
+  <br> <img src="{{ '/assets/img/oes-project-line.png' | prepend: site.baseurl }}" width="1500"><br>
   <a href="{{ '/methods' | prepend: site.baseurl }}">Learn more about our Evaluation Process</a>
 </p>
 
