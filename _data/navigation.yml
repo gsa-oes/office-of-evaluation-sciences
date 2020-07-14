@@ -27,8 +27,6 @@ primary:
       href: /resources/
   - text: Connect
     links:
-      - text: Contact
-        href: /contact/
       - text: OES Blog
         href: /blog/
       - text: Events & Workshops
