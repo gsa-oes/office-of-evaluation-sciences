@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Global Health & USAID
+title: Global Health
 permalink: /usaid/
 image:
 summary: OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidenced-based insights from behavioral science to critical development challenges in Global Health.
