@@ -50,4 +50,4 @@ We’re excited to work with agency collaborators across government. Send us inf
 
 ## Supporting OES as an Academic Affiliate 
 
-We often require specific subject matter expertise as we identify opportunities to work with agencies on an ongoing basis. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. <a href="mailto:oes@gsa.gov?subject=Academic Affiliate Inquiry">oes@gsa.gov</a>Tell us about your area of expertise</a>, and we may reach out to you to collaborate on a specific project. 
+We often require specific subject matter expertise as we identify opportunities to work with agencies on an ongoing basis. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. Tell us about your area of expertise by emailing <a href="mailto:oes@gsa.gov?subject=Academic Affiliate Inquiry">oes@gsa.gov</a>, and we may reach out to you to collaborate on a specific project. 
