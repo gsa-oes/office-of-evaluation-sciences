@@ -47,3 +47,7 @@ Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or gove
 ## Collaborate with OES
 
 We’re excited to work with agency collaborators across government. Send us information on the question you are trying to answer, outcome you are trying to improve, area you may be seeking training in, or the resources you may need to <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
+
+## Supporting OES as an Academic Affiliate 
+
+We often require specific subject matter expertise as we identify opportunities to work with agencies on an ongoing basis. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. <a href="mailto:oes@gsa.gov?subject=Academic Affiliate Inquiry">oes@gsa.gov</a>Tell us about your area of expertise</a>, and we may reach out to you to collaborate on a specific project. 
