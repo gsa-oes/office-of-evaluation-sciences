@@ -30,7 +30,7 @@ collaborations_tags:
 	<p>Read more below about the specific studies that have been completed through the OES and USAID partnership.</p></center>
 </section>
 
-<h2>Global Health - USAID Portfolio:</h2>
+<h2>Global Health Portfolio:</h2>
 
 
 
