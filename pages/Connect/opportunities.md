@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opportunities
+title: Opportunities & Fellowships
 permalink: /opps/
 image:
 image_full: true
