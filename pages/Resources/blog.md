@@ -5,7 +5,7 @@ permalink: /blog/
 image:
 image_full: 
 class:
-summary: 
+summary: Our team regularly posts articles on our work, best practices and progress. 
 ---
 ## Using evidence to encourage patients’ and providers’ to engage in health information technology
 ![image]({{site.baseurl}}/assets/img/project-images/1729.jpg)
