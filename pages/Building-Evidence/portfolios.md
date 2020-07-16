@@ -10,9 +10,7 @@ project_tags:
 
 
 ## Overview
-
-PLACEHOLDER TEXT
-
+OES has developed portfolios of evidence on a range of goverment-wide priorities. Our portfolios have spanned areas such as retirement security, reducing the cost of government operations, improving public health outcomes, and increasing educational opportunity. 
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
