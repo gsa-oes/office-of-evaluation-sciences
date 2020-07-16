@@ -5,7 +5,7 @@ permalink: /publications/
 image:
 image_full: 
 class:
-summary: placeholder text to fill in
+summary: All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners. Below are selected publications resulting from OES collaborations.
 ---
 
 ## 2020
