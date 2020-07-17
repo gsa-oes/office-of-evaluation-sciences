@@ -5,7 +5,7 @@ permalink: /projectprocess/
 image:
 image_full: true
 class:
-summary: OES follows a number of steps to ensure our findings are relevant and reliable.
+summary: We follow a number of steps to ensure our findings are relevant and reliable.
 ---
 
 <div class="usa-section background-brand-dark">
