@@ -9,7 +9,8 @@ summary: OES develops resources to help agencies learn from leading evaluation p
 ---
 
 ### Evidence Act Toolkits
-Learning agendas, Annual Evaluation Plans, and the capacity assessment Toolkits are intended as resources to help agencies learn from leading practices and case studies to build a culture and infrastructure for continuous learning and improvement. <a href="https://oes.gsa.gov/toolkits/">Find more information here.</a>
+Learning agendas, Annual Evaluation Plans, and the capacity assessment Toolkits are intended as resources to help agencies learn from leading practices and case studies to build a culture and infrastructure for continuous learning and improvement. <br>
+<a href="https://oes.gsa.gov/toolkits/">Find more information here.</a>
 
 ### Preregistration as a Tool for Strengthening Federal Evaluation
 In order to ensure that evaluation findings are reliable and that statistical results are well founded, it is essential that evaluators commit to specific design choices and analytic methods in advance. By making these details publicly available -- a practice known as preregistration -- we promote transparency and reduce the risk of inadvertently tailoring methods to obtain certain results or selectively reporting positive results. This guidance paper describes the importance and benefits of preregistration and addresses concerns that Federal evaluators might have.
