@@ -17,7 +17,6 @@ summary: A quickstart guide to tailoring census outreach efforts for the people 
 This toolkit outlines four barriers that the Census Bureau and external research have identified as particularly common reasons for not completing the census. High-quality census data is valuable because you want to ensure that people are accurately counted so they get their fair share of funding and representation for the next decade.
 
 ![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-toolkit-how-to-use.png)
-
 ## What did we do?
 
 In 2017, OES developed the Community Outreach Toolkit for the office of the Chief Innovation Officer and the National Partnerships program at the U.S. Census Bureau in an effort to summarize behavioral insights that could be applied by Census partners in communications and outreach efforts surrounding the 2020 Decennial.  It provides useful tips and evidence-based guidance on how to make your communications and outreach efforts as effective as possible that include:
