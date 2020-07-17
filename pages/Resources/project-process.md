@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OES Project Process
+title: OES Evaluation Process
 permalink: /projectprocess/
 image:
 image_full: true
