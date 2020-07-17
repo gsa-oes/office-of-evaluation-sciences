@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OES Evaluation Process
+title: OES Project Process
 permalink: /projectprocess/
 image:
 image_full: true
@@ -26,7 +26,6 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     {% endif %}
   </div>
   {% endif %}
-<h2>OES Evaluation Process</h2>
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
