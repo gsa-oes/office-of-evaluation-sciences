@@ -8,7 +8,7 @@ class:
 summary: Our team regularly posts articles on our work, best practices and new resources. 
 ---
 ## Census Community Outreach Toolkit targets various outreach barriers
-![image]({{site.baseurl}}/assets/img/project-images/census.jpg)
+![image]({{site.baseurl}}/assets/img/project-images//othercollabs/census-crop.png)
 In 2017, OES developed the Community Outreach Toolkit with the U.S. Census Bureau’s Center for Open Innovation Lab (COIL) team in an effort to summarize behavioral insights that could be employed to increase completion of the 2020 Decennial. These insights were organized around common reasons understood from customer research for not completing the census. This Toolkit is meant to support the extensive network of external partners’ Census communication and outreach efforts. 
 <a href="{{site.baseurl}}/blog/census-toolkit/">Read more.</a> 
 
