@@ -6,6 +6,7 @@ image: /assets/img/project-images/15xx-di.jpg
 image-credit: https://www.flickr.com/photos/senatorchriscoons/
 abstract: /assets/abstracts/15xx-di.pdf
 year: 2019
+status: Complete
 domain: Employment
 agency: Social Security Administration
 summary: Letters to denied disability applicants about employment support programs did not reduce appeals.
