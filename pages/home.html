@@ -30,30 +30,39 @@ page.tagline and page.intro %}
   <div class="grid-container">
     <div class= "usa-grid" align="center">
       <h1>Learning what works (and what doesn't)</h1>
-      <p> Based at the General Services Administration (GSA), the Office of Evaluation Sciences (OES) is a team of interdisciplinary experts that works across government to help agencies build and use evidence. To date, OES has completed over 70 randomized evaluations with dozens of agency partners. OES provides government-wide expertise and support on leading practices for evidence-building and evaluations, and partners with Federal agencies to answer priority questions using rapid and rigorous evaluation.
+      <p> Based at the General Services Administration (GSA), the Office of Evaluation Sciences (OES) is a team of interdisciplinary experts that works across government to help agencies build and use evidence. OES provides government-wide expertise and support on leading practices for evidence-building and evaluations, and partners with Federal agencies to answer priority questions using rapid and rigorous evaluation. To date, OES has completed over 70 randomized evaluations with dozens of agency collaborators.
       </p>
       <center>
-        <img src="{{ '/assets/img/icons/build-icon.png' | prepend: site.baseurl }}" height="300" width="300"/>
-        <img src="{{ '/assets/img/icons/use-icon2.png' | prepend: site.baseurl }}" height="300" width="300"/>
+        <img src="{{ '/assets/img/icons/build-use-evidence.png' | prepend: site.baseurl }}" height="500" width="575"/>
       </center>
     </div>
   </div>
 </section>
 
-{% assign featuredprojects = site.projects | where: "featured" , "homepage" %}
+{% assign featured_ongoing = site.projects | where_exp: "project" , "project.featured == 'homepage' and project.status == 'Ongoing'" %}
+{% assign featured_completed = site.projects | where: "featured" , "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
-  {% else %}
-    <section class="usa-section featured bg-secondary-lighter">
-      <div class="grid-container">
-        <h2>Featured Projects</h2>
-        <div class="grid-row grid-gap-lg">
-          {% for project in featuredprojects %}
-            {% include projects.html %}
-          {%
-      endfor %}
-        </div>
+{% else %}
+  <section class="usa-section featured bg-secondary-lighter">
+    <div class="grid-container">
+      <h1>Featured projects</h1>
+      <h2>Completed projects</h2>
+      <div class="grid-row grid-gap-lg">
+        {% for project in featured_completed %}
+          {% include project-card.html %}
+        {% endfor %}
       </div>
-    </section>
+      <h2>Ongoing projects</h2>
+      <div class="grid-row grid-gap-lg">
+        {% for project in featured_ongoing %}
+          {% include project-card.html %}
+        {% endfor %}
+      </div>
+      <div class="grid-row grid-gap-lg">
+        <p><a class="usa-button" href="{{site.baseurl}}/work">Learn more about our projects here</a></p>
+      </div>
+    </div>
+  </section>
 {% endif %}
 
 <section class="usa-section bg-white">
