@@ -12,7 +12,6 @@ status: Complete
 domain: Education
 agency: Housing and Urban Development
 summary: Proactive communications do not change attendance outcomes
-# featured: homepage
 ---
 ## What was the challenge?
 
