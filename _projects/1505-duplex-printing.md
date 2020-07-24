@@ -6,9 +6,9 @@ image: /assets/img/project-images/duplex-printing.jpg
 image-credit: https://www.flickr.com/photos/featheredtar/
 abstract: /assets/abstracts/1505-Double-Sided-Printing.pdf
 year: 2015
+status: Complete
 domain: Government Operations
 agency: Agriculture
-impact:
 summary: A digital pop up significantly lowers office-wide printing costs.
 ---
 ## What was the challenge?
