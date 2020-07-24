@@ -8,6 +8,7 @@ analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstracts/1742-reducing-energy-costs.pdf
 year: 2018  
 domain: Communications
+status: Complete
 agency: Housing and Urban Development
 summary: Sending flyers with energy-saving tips did not change energy use.
 ---
