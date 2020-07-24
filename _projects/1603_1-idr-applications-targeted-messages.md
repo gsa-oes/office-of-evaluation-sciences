@@ -6,9 +6,9 @@ image: /assets/img/project-images/pslf1.jpg
 image-credit: https://www.flickr.com/photos/pagedooley/
 abstract: /assets/abstracts/1603-1-Income-Driven Repayment-Targeted-Messages.pdf
 year: 2016
+status: Complete
 domain: Education
 agency: Education
-impact:
 summary: Emails increase application submissions for income driven repayment plans.
 ---
 ## What was the challenge?
