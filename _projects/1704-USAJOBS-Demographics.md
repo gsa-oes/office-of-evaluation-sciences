@@ -6,6 +6,7 @@ image: /assets/img/project-images/1704.jpg
 image-credit: https://www.usajobs.gov/
 abstract: /assets/abstracts/1704-USAJobs-abstract.pdf
 year: 2017
+status: Complete
 domain: Government Operations
 agency: Office of Personnel Management
 summary: The combination of default settings and simplified language increases voluntary submission of demographics information by 19%.
