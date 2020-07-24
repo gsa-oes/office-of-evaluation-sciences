@@ -6,9 +6,9 @@ image: /assets/img/project-images/loan-rehab.jpg
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
 year: 2016
+status: Complete
 domain: Education
 agency: Education
-impact:
 summary: Emphasizing the negative consequences of loan default increases entry into loan rehabilitation programs.
 ---
 ## What was the challenge?
