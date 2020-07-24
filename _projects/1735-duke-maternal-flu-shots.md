@@ -9,6 +9,7 @@ image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-
 analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf
 abstract: /assets/abstracts/1735-flu-shot-abstract.pdf
 year: 2018
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Targeted email outreach via an electronic medical record messaging system did not increase uptake of the flu vaccine among pregnant women.
