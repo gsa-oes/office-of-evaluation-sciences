@@ -4,12 +4,12 @@ permalink: /projects/increasing-fafsa-completion-seattle-and-king-county/
 tags: 
   - project 
   - highered
-  - complete
 image: /assets/img/project-images/1717.jpg  
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
 analysis-plan: /assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf
 abstract: /assets/abstracts/1717-Abstract-Seattle-and-King-County.pdf
 year: 2019  
+status: Complete
 domain: Education
 agency: Housing and Urban Development
 summary: A pair of communications do not change FAFSA completion rates
