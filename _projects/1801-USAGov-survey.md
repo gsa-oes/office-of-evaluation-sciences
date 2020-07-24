@@ -8,6 +8,7 @@ analysis-plan: /assets/analysis/1801-USAGov-survey-analysis-plan-updated.pdf
 abstract: /assets/abstracts/1801_USAGov_survey_abstract.pdf
 year: 2019  
 domain: Communications
+status: Complete
 agency: General Services Administration
 summary: A timeline making government operations transparent increased survey response and an early message of gratitude decreased survey response.
 
