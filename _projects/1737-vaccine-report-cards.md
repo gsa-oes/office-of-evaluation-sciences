@@ -38,4 +38,4 @@ There was no significant difference in compliance rates between treatment and co
 
 <i> Related Publication</i>
 <br>
-Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa/article/view/55">"Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial."</a> Journal of Behavioral Public Administration 2, no. 2 (2019).
+Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa/article/view/55">Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial.</a> Journal of Behavioral Public Administration 2, no. 2 (2019).
