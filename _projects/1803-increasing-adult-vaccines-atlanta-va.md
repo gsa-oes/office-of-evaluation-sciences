@@ -9,7 +9,7 @@ image-credit: https://www.army.mil/article/191935/increasing_patient_satisfactio
 analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf
 abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
 year: 2019
-status: Ongoing
+status: Complete
 domain: Health
 agency: Veterans Affairs
 summary: A modified clinical reminder did not increase patient vaccine uptake.
