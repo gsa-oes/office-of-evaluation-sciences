@@ -6,9 +6,9 @@ image: /assets/img/project-images/healthcare-gov.PNG
 image-credit: https://www.healthcare.gov/
 abstract: /assets/abstracts/1609-Federal-Health-Insurance-Marketplace-Enrollment-Emails.pdf
 year: 2016
+status: Complete
 domain: Health
 agency: Health and Human Services
-impact:
 summary: Modified emails encourage open rates about health insurance enrollment.
 ---
 ## What was the challenge?
