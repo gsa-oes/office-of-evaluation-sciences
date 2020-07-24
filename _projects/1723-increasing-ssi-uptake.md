@@ -9,6 +9,7 @@ image-credit: https://pixabay.com/photo-3113574/
 analysis-plan: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
 abstract: /assets/abstracts/1723-Increasing-SSI-Uptake.pdf
 year: 2018  
+status: Complete
 domain: Retirement Security
 agency: Social Security Administration
 summary: Letters to adults 65 or older increased SSI awards by 340%.
