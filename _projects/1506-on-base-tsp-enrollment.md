@@ -8,9 +8,9 @@ image: /assets/img/project-images/military12.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1506-On-Base-Servicemember-TSP-Enrollment.pdf
 year: 2015
+status: Complete
 domain: Retirement Security
 agency: Defense
-impact:
 summary: Explaining benefits of TSP during in-processing doubled the number of Servicemembers enrolling.
 ---
 ## What was the challenge?
