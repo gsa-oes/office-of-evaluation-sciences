@@ -6,6 +6,7 @@ image: /assets/img/project-images/IFF.jpg
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-2-iff-confirmation-prompt-update.pdf
 year: 2017
+status: Complete
 domain: Government Operations
 agency: General Services Administration
 summary: A confirmation prompt reduced financial self-reporting errors initially, but the effect did not persist in subsequent periods.
