@@ -3,7 +3,7 @@ title:  Using Proactive Communication to Increase College Enrollment for Post-9/
 permalink: /projects/gi-bill-proactive-communication/
 tags: 
   - project  
-  - complete
+  - highered
 image: /assets/img/project-images/1810.jpg
 image-credit: U.S. Army photo by Nell King
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
