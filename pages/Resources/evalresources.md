@@ -17,10 +17,6 @@ In order to ensure that evaluation findings are reliable and that statistical re
 <br/>
 <a href="{{ '/assets/files/preregistration-as-a-tool-in-federal-evaluation.pdf' | prepend: site.baseurl }}">Preregistration handout</a>
 
-## Evaluation Working Group Case Study
-text forthcoming<br>
-(insert link)
-
 ## How to Use Unexpected and Null Results
 Recent research shows that null results in federal evaluations are more common than we think, and occur for a variety of reasons. When agencies share both expected and unexpected results, we can learn about what programs work, what effect sizes are realistic, and improve Federal evaluations. This post dispels misconceptions about null results and highlights different uses and lessons from null results. 
 <br/>
