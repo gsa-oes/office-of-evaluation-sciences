@@ -9,6 +9,7 @@ image-credit: https://www.cdc.gov/flu/pdf/freeresources/seniors/seniors-vaccinat
 analysis-plan: 
 abstract: /assets/abstracts/15xx-medicare-flu-vaccine-uptake-abstract.pdf
 year: 2015  
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Letters sent to Medicare beneficiaries increased uptake of the flu vaccine.
