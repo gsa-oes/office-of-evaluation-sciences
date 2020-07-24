@@ -1,14 +1,16 @@
 ---
 title: Increasing Patient Use of Health IT
 permalink: /projects/patient-health-it/
-tags: project
+tags: 
+  - project
+  - healthit
 image: /assets/img/project-images/health-it.jpg
 image-credit: https://www.flickr.com/photos/armymedicine/
 abstract: /assets/abstracts/1607-Increasing-Patient-Use-of-Health-IT.pdf
 year: 2016
+status: Complete
 domain: Health
 agency: Health and Human Services
-impact:
 summary: Revising patient instructions following appointments led to 9.98% increase in online health portal activation.
 ---
 ## What was the challenge?
