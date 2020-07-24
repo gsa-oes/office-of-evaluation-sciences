@@ -6,9 +6,9 @@ image: /assets/img/project-images/aco.jpg
 image-credit: https://www.flickr.com/photos/thenationalguard/
 abstract: /assets/abstracts/1608-Accountable-Care-Organization-Voluntary-Alignment.pdf
 year: 2016
+status: Complete
 domain: Health
 agency: Health and Human Services
-impact:
 summary: Sending a letter to Medicare beneficiaries increased voluntary alignment to Accountable Care Organizations.
 ---
 ## What was the challenge?
