@@ -7,6 +7,7 @@ image-credit: https://www.nursefamilypartnership.org/wp-content/uploads/2017/01/
 analysis-plan: /assets/analysis/1710-increasing-pre-and-post-natal-care.pdf
 abstract: /assets/abstracts/1710-reaching-low-income-mothers-abstract.pdf
 year: 2018  
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Home Visiting Uptake Among Medicaid-Eligible Mothers.
