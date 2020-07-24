@@ -6,9 +6,9 @@ image: /assets/img/project-images/student-loans2.jpg
 image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/abstracts/1602-Public-Service-Loan-Forgiveness-Pilot.pdf
 year: 2016
+status: Complete
 domain: Education
 agency: Education
-impact:
 summary: Emails increased Public Service Loan Forgiveness form submissions three-fold without increasing the error rate.
 ---
 ## What was the challenge?
