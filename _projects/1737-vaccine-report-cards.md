@@ -4,6 +4,7 @@ permalink: /projects/vaccine-report-cards/
 tags:
   - project
   - vaccines
+  - complete
 image: /assets/img/project-images/1737.jpg
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
 analysis-plan: /assets/analysis/1737-vaccine-report-cards-plan.pdf
