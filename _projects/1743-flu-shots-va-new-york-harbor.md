@@ -10,6 +10,7 @@ analysis-plan: /assets/analysis/1743-flu-shots-va-new-york-harbor-analysis-plan.
 abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 year: 2018
 domain: Health
+status: Complete
 agency: Veterans Affairs
 summary: Emails incorporating behavioral insights were not effective in increasing flu shot uptake.
 ---
