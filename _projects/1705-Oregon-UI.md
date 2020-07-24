@@ -7,6 +7,7 @@ image-credit: https://www.flickr.com/photos/bytemarks/5409428957
 analysis-plan: /assets/analysis/1705-Oregon-UI.pdf
 abstract: /assets/abstracts/1705-Oregon-UI.pdf
 year: 2019  
+status: Complete
 domain: Employment
 agency: Department of Labor
 summary: Requiring personal employment plans did not change the employment rate
