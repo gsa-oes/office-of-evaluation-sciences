@@ -6,9 +6,9 @@ image: /assets/img/project-images/gsa-tenant1.jpg
 image-credit: https://www.gsa.gov/portal/content/163627
 abstract: /assets/abstracts/1512-1-Tenant-Satisfaction-Survey-Response-Calendar-Invite.pdf
 year: 2015
+status: Complete
 domain: Government Operations
 agency: General Services Administration
-impact:
 summary: Emails including a calendar invite reminder led to increased survey responses from Federal employees.
 ---
 ## What was the challenge?
