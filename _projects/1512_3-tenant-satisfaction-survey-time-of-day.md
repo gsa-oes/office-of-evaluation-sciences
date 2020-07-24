@@ -6,9 +6,9 @@ image: /assets/img/project-images/tenant-statisfaction.jpg
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 abstract: /assets/abstracts/1512-3-Tenant-Satisfaction-Survey-Response-Time-of-Day.pdf
 year: 2015
+status: Complete
 domain: Government Operations
 agency: General Services Administration
-impact:
 summary: Emails sent at lunchtime saw 1.5% more Federal employees click through to a workplace survey.
 ---
 ## What was the challenge?
