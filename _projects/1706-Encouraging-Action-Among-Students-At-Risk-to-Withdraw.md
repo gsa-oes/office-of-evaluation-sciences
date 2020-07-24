@@ -6,6 +6,7 @@ image: /assets/img/project-images/1706.jpg
 image-credit: https://flic.kr/p/URogRg
 abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf
 year: 2017
+status: Complete
 domain: Education
 agency: Education
 summary: Reminding students to reapply for financial aid or begin loan repayment decreased postsecondary enrollment by one percentage point.
