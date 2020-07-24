@@ -1,14 +1,16 @@
 ---
 title: Increasing IDR Applications Among Delinquent Student Borrowers
 permalink: /projects/increasing-IDR-applications/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/income-driven-repayment.jpg
 image-credit: https://www.flickr.com/photos/timetrax/
 abstract: /assets/abstracts/1503-Income-Driven-Repayment.pdf
 year: 2015
+status: Complete
 domain: Education
 agency: Education
-impact:
 summary: Sending emails to delinquent borrowers positively impacted IDR application completion.
 ---
 ## What was the challenge?
