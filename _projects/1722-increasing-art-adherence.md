@@ -8,7 +8,8 @@ image: /assets/img/project-images/1722.jpg
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
 analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
 abstract: /assets/abstracts/1722-Project Abstract-6 Month.pdf
-year: 2018  
+year: 2018 
+status: Complete
 domain: Health
 agency: United States Agency for International Development
 summary: Phone calls delivered to HIV+ women did not increase ART adherence.
