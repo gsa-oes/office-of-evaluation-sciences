@@ -11,7 +11,7 @@ All of our work is available on our website, regardless of outcome, in line with
 
 
 ## 2020
-Shereen J. Chaudhry, Michael Hand, and Howard Kunreuther. <a href="https://www.nber.org/papers/w27319“>"Broad Bracketing for Low Probability Events.”</a> NBER Working Paper No. 27319. June 2020.
+Shereen J. Chaudhry, Michael Hand, and Howard Kunreuther.<a href="https://www.nber.org/papers/w27319"> “Broad Bracketing for Low Probability Events.”</a> NBER Working Paper No. 27319. June 2020.
 
 
 ## 2019
