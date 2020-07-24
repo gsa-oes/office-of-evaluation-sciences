@@ -10,11 +10,12 @@ image-credit: https://www.flickr.com/photos/pahowho/13383587795
 analysis-plan: /assets/analysis/1737-vaccine-report-cards-plan.pdf
 abstract: /assets/abstracts/1737-vaccine-report-cards.pdf
 academic-pub: /assets/publications/1737-academic-publication-immunization-report-cards-2019.pdf
-year: 2018  
+year: 2018 
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Data visualization for school-specific immunization compliance reports did not impact compliance rates.
-featured: homepage
+# featured: homepage
 ---
 
 ## What was the challenge?
