@@ -6,6 +6,7 @@ image: /assets/img/project-images/school-lunch.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-2-nslp-rolling-verification.pdf
 year: 2017
+status: Complete
 domain: Economic Opportunity
 agency: Agriculture
 summary: Timely communication with beneficiaries has mixed effects on response rates.
