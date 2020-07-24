@@ -1,14 +1,16 @@
 ---
 title: Reducing Inappropriate Prescribing of Schedule II Substances in Medicare Part D
 permalink: /projects/reducing-inappropriate-prescribing/
-tags: project
+tags: 
+  - project
+  - prescribing
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
 year: 2015
+status: Complete
 domain: Health
 agency: Health and Human Services
-impact:
 summary: Sending letters to potential overprescribers did not influence Schedule II prescribing activities.
 ---
 ## What was the challenge?
