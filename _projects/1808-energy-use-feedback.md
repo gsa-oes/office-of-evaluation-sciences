@@ -3,16 +3,15 @@ title:  Using Social Norms to Decrease Energy Use in Public Housing
 permalink: /projects/energy-use-feedback/
 tags: 
   - project  
-  - complete
 image: /assets/img/project-images/1808.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.jpg 
 analysis-plan: /assets/analysis/1808-energy-use-feedback.pdf
 abstract: /assets/abstracts/1808 - Project Abstract HUD Energy.pdf
 year: 2019  
 domain: Communications
+status: Complete
 agency: Housing and Urban Development
 summary: Letters with feedback on energy use and comparisons to efficient neighbors did not reduce energy use among public housing residents
-featured: homepage
 ---
 
 ## What was the challenge?
