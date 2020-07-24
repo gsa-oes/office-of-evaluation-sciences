@@ -6,9 +6,9 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
 year: 2015
+status: Complete
 domain: Economic Opportunity
 agency: Agriculture
-impact:
 summary: A new letter increases farmers' access to credit by 22%.
 ---
 ## What was the challenge?
