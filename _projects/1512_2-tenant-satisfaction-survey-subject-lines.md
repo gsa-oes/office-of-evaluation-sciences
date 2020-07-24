@@ -6,9 +6,9 @@ image: /assets/img/project-images/gsa-tenant2.jpg
 image-credit: https://gsablogs.gsa.gov/gsablog/2012/11/08/gsa-completes-restoration-of-hipolito-federal-building/
 abstract: /assets/abstracts/1512-2-Tenant-Satisfaction-Survey-Response-Subject-Lines-and-Day-of-Week.pdf
 year: 2015
+status: Complete
 domain: Government Operations
 agency: General Services Administration
-impact:
 summary: Emails with subject lines that included the word "please" increased Federal employees responses to a workplace survey.
 ---
 ## What was the challenge?
