@@ -8,6 +8,7 @@ image: /assets/img/project-images/IFF.jpg
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-Industrial-Funding-Fee-Reports.pdf
 year: 2015
+status: Complete
 domain: Government Operations
 agency: General Services Administration
 impact:
