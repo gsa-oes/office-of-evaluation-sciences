@@ -3,7 +3,7 @@ layout: portfolio
 title: Health IT
 permalink: /healthit/
 image:
-summary: placeholder text
+summary: forthcoming
 project_tags:
   - healthit
 ---
@@ -14,4 +14,4 @@ project_tags:
 
 ## Portfolio
 
-Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving _______.
+Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving Health IT.
