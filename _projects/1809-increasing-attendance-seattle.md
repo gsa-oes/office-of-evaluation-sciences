@@ -8,7 +8,6 @@ analysis-plan: /assets/analysis/1809-analysis-plan.pdf
 abstract: /assets/abstracts/1809-abstract-school-attendance-seattle.pdf
 year: 2019
 featured: homepage
-status: Complete
 domain: Education
 agency: Housing and Urban Development
 summary: Proactive communications do not change attendance outcomes
