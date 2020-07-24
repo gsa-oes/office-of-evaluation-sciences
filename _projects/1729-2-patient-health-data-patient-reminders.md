@@ -1,12 +1,15 @@
 ---
 title: Increasing Use of Patient Generated Health Data through Patient Reminders
 permalink: /projects/patient-health-data-patient-reminders/
-tags: project  
+tags: 
+  - project
+  - healthit
 image: /assets/img/project-images/1729.jpg
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
 abstract: /assets/abstracts/1729-2-patient-generated-health-data-patient-reminders.pdf
 year: 2019  
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Sending reminder messages focused on provider accountability increased patients’ use of electronic blood glucose flow sheets.

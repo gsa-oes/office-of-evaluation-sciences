@@ -73,9 +73,10 @@ body:not(.page-home) {
   background-color: color('base-darker');
 }
 
+// TODO: use the actual USWDS color token for this
 .background-brand-dark {
   @include background-dark;
-  background-color: color('secondary');
+  background-color: #005ea2;
 }
 
 .background-light,

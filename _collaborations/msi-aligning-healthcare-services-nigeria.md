@@ -2,14 +2,14 @@
 title:  Integrating Health Care Services in Nigeria
 permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
-  - project 
+  - collaborations 
   - USAID
 image: /assets/img/project-images/mis-nigeria.jpg  
 image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.jpg
 abstract: /assets/abstracts/msi-project-abstract.pdf
 year: 2018  
 domain: Health
-agency: United States Agency for International Development
+agency: US Agency for International Development
 summary: A feasibility pilot to increase access to voluntary family planning services.
 ---
 ## What was the challenge?

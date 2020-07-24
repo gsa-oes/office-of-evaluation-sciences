@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Linking policy
+title: Linking Policy
 permalink: /linking-policy/
 image:
 image_full: 
 class:
 summary: 
 ---
-## OES linking policy 
+## OES Linking Policy 
 
 We include links to information created and maintained by third-parties. When you click a link to a website, the privacy and security policies of that website apply. Non-federal websites do not necessarily operate under the same laws, regulations, and policies as federal websites.
 
