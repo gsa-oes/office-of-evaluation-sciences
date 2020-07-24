@@ -15,7 +15,7 @@ status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Data visualization for school-specific immunization compliance reports did not impact compliance rates.
-# featured: homepage
+featured: homepage
 ---
 
 ## What was the challenge?
