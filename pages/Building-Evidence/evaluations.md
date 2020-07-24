@@ -35,14 +35,3 @@ filter_button_message: By year completed, current status, domain, and agency col
     {% endfor %}
   </div>
 </div>
-
-
-{% include filter.html items=site.projects filters=page.filters %}
-<div class="margin-top-4">
-  <div class="grid-row grid-gap">
-    {% assign sorted_projects = site.projects | sort:"year" | reverse %}
-    {% for project in sorted_projects %}
-      {% include project-card.html %}
-    {% endfor %}
-  </div>
-</div>
