@@ -8,9 +8,9 @@ image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/abstracts/1502-Servicemember-Roth-TSP-Re-Enrollment.pdf
 year: 2015
+status: Complete
 domain: Retirement Security
 agency: Defense
-impact:
 summary: One email enables 22% more Servicemembers to re-enroll in their Thrift Savings Plans.
 ---
 ## What was the challenge?
