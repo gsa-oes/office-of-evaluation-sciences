@@ -6,6 +6,7 @@ image: /assets/img/project-images/school-lunch.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-National-School-Lunch-Program-Verification.pdf
 year: 2016
+status: Complete
 domain: Economic Opportunity
 agency: Agriculture
 impact:
