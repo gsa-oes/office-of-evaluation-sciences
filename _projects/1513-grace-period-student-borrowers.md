@@ -1,14 +1,16 @@
 ---
 title: Increasing Post-Grace Period Loan Payments by Student Borrowers
 permalink: /projects/grace-period-student-borrowers/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/student-loans4.jpg
 image-credit: https://www.flickr.com/photos/whatcouldgowrong/
 abstract: /assets/abstracts/1513-Missed-Student-Loan-Payments.pdf
 year: 2015
+status: Complete
 domain: Education
 agency: Education
-impact:
 summary: Emails sent to student loan borrowers at risk of default increased payments.
 ---
 ## What was the challenge?
