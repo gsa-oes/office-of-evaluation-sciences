@@ -9,6 +9,7 @@ image-credit: https://www.vaccines.gov/who_and_when/pregnant/index.html
 analysis-plan: /assets/analysis/1736-testing-maternal-immunization-messages-analysis-plan.pdf
 abstract: /assets/abstracts/1736-pregnancy-vaccines-ads-abstract.pdf
 year: 2017
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Variations of an ad did not lead to detectable differences in site visits. 
