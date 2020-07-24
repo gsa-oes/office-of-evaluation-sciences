@@ -1,14 +1,16 @@
 ---
 title: Increasing Health Insurance Enrollment Among Uninsured Americans
 permalink: /projects/health-insurance-enrollment-2/
-tags: project
+tags: 
+  - project
+  - health insurance
 image: /assets/img/project-images/enrollment2.jpg
 image-credit: https://www.flickr.com/photos/dmc_heals/
 abstract: /assets/abstracts/1504-Federal-Health-Insurance-Marketplace-Enrollment.pdf
 year: 2015
+status: Complete
 domain: Health
 agency: Health and Human Services
-impact:
 summary: A letter increased health insurance enrollment by 7.15%.
 ---
 ## What was the challenge?
