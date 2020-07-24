@@ -6,6 +6,7 @@ image: /assets/img/project-images/1620-2.jpg
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
 abstract: /assets/abstracts/1620-2-secure-messaging.pdf
 year: 2017
+status: Complete
 domain: Health
 agency: Defense 
 summary: Emails sent after an appointment-based intervention had no statistically reliable impact on patient registration for secure messaging.
