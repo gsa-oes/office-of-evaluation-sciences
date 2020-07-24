@@ -1,11 +1,14 @@
 ---
 title: Reducing Overprescribing of Quetiapine in Medicare Part D
 permalink: /projects/quetiapine-prescribing/
-tags: project
+tags: 
+  - project
+  - prescribing
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf
 year: 2018
+status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Peer comparison letters for high prescribers of quetiapine reduce prescription volume and improve guideline conformity of prescription fills.
