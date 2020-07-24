@@ -9,6 +9,7 @@ image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-f
 analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf
 abstract: /assets/abstracts/1715-Preventing-Malaria-During-Pregnancy.pdf
 year: 2018
+status: Complete
 domain: Health
 agency: United States Agency for International Development
 summary: Redesigned referral process did not increase antenatal care (ANC) attendance for pregnant women.
