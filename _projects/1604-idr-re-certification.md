@@ -6,9 +6,9 @@ image: /assets/img/project-images/idr-recert.jpg
 image-credit: https://www.flickr.com/photos/niallkennedy/
 abstract: /assets/abstracts/1604-Income-Driven Repayment-Recertification.pdf
 year: 2016
+status: Complete
 domain: Education
 agency: Education
-impact:
 summary: Including required payment amount increased IDR recertification by 8.4%.
 ---
 ## What was the challenge?
