@@ -9,7 +9,7 @@ agency:
   - Education
   - Veterans Affairs
 home: University
-title: Associate Fellow
+title: Academic Affiliate
 ---
 
-Rebecca Johnson is an Associate Fellow at OES working on projects at the intersection of housing, education, and survey methodology. She will be starting as an Assistant Professor in Quantitative Social Science at Dartmouth College in fall 2020. Her academic research studies how social service bureaucracies ration scarce resources, focusing on school districts. Other research  studies and aids government agencies in using large-scale data and predictive modeling for more equitable prioritization, including as a 2018 Summer Fellow with Data Science for Social Good and a visiting Data Scientist at The Lab at DC. 
+Rebecca Johnson is an Academic Affiliate at OES working on projects at the intersection of housing, education, and survey methodology. She will be starting as an Assistant Professor in Quantitative Social Science at Dartmouth College in fall 2020. Her academic research studies how social service bureaucracies ration scarce resources, focusing on school districts. Other research  studies and aids government agencies in using large-scale data and predictive modeling for more equitable prioritization, including as a 2018 Summer Fellow with Data Science for Social Good and a visiting Data Scientist at The Lab at DC. 
