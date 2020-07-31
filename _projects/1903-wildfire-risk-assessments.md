@@ -4,7 +4,7 @@ permalink: /projects/wildfire-risk-assessments/
 tags: project  
 image: /assets/img/project-images/1903.jpg  
 image-credit: USDA NRCS Montana
-analysis-plan: /assets/analysis/1903-analysis-plan-wildfire.pdf
+analysis-plan: /assets/analysis/1903-analysis-plan-MT-wildfire.pdf
 abstract: 
 year: 2020  
 domain: Communications
