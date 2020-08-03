@@ -3,7 +3,9 @@ layout: page
 title: Other Collaborations
 permalink: /collaborations/
 image:
-summary: OES supports agencies on a variety of pressing implementation challenges. In addition to supporting agencies in conducting evaluations, OES has provided support to agency partners in developing resources and answering key questions. 
+summary: OES supports agencies on a variety of pressing implementation challenges. 
+
+<p>In addition to supporting agencies in conducting evaluations, OES has provided support to agency partners in developing resources and answering key questions. </p>
 
 filters:
   - key: year
