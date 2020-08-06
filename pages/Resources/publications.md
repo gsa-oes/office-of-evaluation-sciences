@@ -33,7 +33,7 @@ Noule Chen, Pompa Debroy, Stacy Hall, and Quan Le. <a href="http://ldh.la.gov/as
 Adam Sacarny, Michael L. Barnett, and Jackson Le. <a href="https://pubmed.ncbi.nlm.nih.gov/30073273/">Effect of peer comparison letters for high-volume primary care prescribers of quetiapine in older and disabled adults: a randomized clinical trial.</a> JAMA Psychiatry 75 no. 10 (October 2018): 1003-1011.	
 - In this randomized clinical trial, a peer comparison letter randomized across the 5055 highest Medicare prescribers of the antipsychotic quetiapine fumarate reduced prescribing for at least 2 years. Effects were larger than those observed in existing large-scale behavioral interventions, potentially because of the content of the peer comparison letter, which mentioned the potential for a review of prescribing activity.
 
-David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry. <a href="https://www.nature.com/articles/s41562-018-0432-2">Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries.</a> Nature Human Behaviour 2 (2018): 743–749.
+David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry. Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries. Nature Human Behaviour 2 (2018): 743–749.
 - This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 
@@ -52,7 +52,7 @@ Jake Bowers, Nathaniel Higgins, Dean Karlan, Sarah Tulman, and Jonathan Zinman. 
 
 
 ## 2016
-Amira Choueiki. <a href="https://onlinelibrary.wiley.com/doi/10.1111/puar.12594">Behavioral insights for better implementation in government.</a> Public Administration Review 76, no. 4 (June 2016).	 
+Amira Choueiki. >Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016).	 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
 John Guyton, Dayanand S. Manoli, Brenda Scafer, and Michael Sebastiani. <a href="http://www.nber.org/papers/w21904">Reminders & recidivism: evidence from tax filing & EITC participation among low-income nonfilers,</a> National Bureau of Economic Research, Inc. NBER Working Paper no. 21904, (2016).
