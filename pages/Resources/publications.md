@@ -52,7 +52,7 @@ Jake Bowers, Nathaniel Higgins, Dean Karlan, Sarah Tulman, and Jonathan Zinman. 
 
 
 ## 2016
-Amira Choueiki. >Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016).	 
+Amira Choueiki Boland. Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016).	 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
 John Guyton, Dayanand S. Manoli, Brenda Scafer, and Michael Sebastiani. <a href="http://www.nber.org/papers/w21904">Reminders & recidivism: evidence from tax filing & EITC participation among low-income nonfilers,</a> National Bureau of Economic Research, Inc. NBER Working Paper no. 21904, (2016).
