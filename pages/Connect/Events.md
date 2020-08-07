@@ -11,6 +11,12 @@ summary: Attend our annual results discussion or training.
 ## Evidence Act Workshops
 These trainings are for Federal Executive Branch employees only. Registration is available <a href="https://community.max.gov/x/yrHGe">via MAX.gov.</a>
 
+### How to Conduct Randomized Controlled Trials
+This session helped participants learn how to conduct randomized controlled trials, and addressed common challenges and misconceptions.
+- August 17, 2020 (virtual)
+
+### Past Workshops
+
 ### Creative Uses of Administrative Data
 This session highlighted creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
 - June 15, 2020 (virtual)
