@@ -13,7 +13,7 @@ These trainings are for Federal Executive Branch employees only. Registration is
 
 ### How to Conduct Randomized Controlled Trials
 This session will help participants learn how to conduct randomized controlled trials, and addressed common challenges and misconceptions.
-- August 17, 2020 (virtual)
+- August 17, 2020 (virtual). Registration is available <a href="https://community.max.gov/x/yrHGe">via MAX.gov.</a>
 
 ### Past Workshops
 
