@@ -9,12 +9,12 @@ summary: More information on our upcoming and previous events
 ---
 
 ## Evidence Act Workshops
-OES and the Office of Management and Budget's Evidence Team co-hosted a workshop on identifying the resources needed to support evaluation activities. Agency partners shared ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource‐limited environments. These trainings are for Federal Executive Branch employees only. 
+These trainings are for Federal Executive Branch employees only. Register online at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a>
 
 ### Upcoming Workshops
 
 #### How to Conduct Randomized Controlled Trials
-This session will help participants learn how to conduct randomized controlled trials, and address common challenges and misconceptions. Register online at the MAX.gov site.
+This session will help participants learn how to conduct randomized controlled trials, and address common challenges and misconceptions.
 - August 17, 2020 (virtual). Register here <a href="https://community.max.gov/x/yrHGe">via MAX.gov.</a>
 
 
