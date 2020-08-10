@@ -29,7 +29,7 @@ OES hosted a virtual session on creative uses of administrative data. This sessi
 - June 15, 2020 (virtual)
 
 ### Evidence Act Toolkits: A Guide to Learning Agendas and Annual Evaluation Plans
-OES staff shared a summary of the motivation for toolkits to assist agencies in building Learning Agendas and Annual Evaluation Plans, as well as highlighted specific tools and resources developed. For more information on the toolkits, please visit <a href"https://oes.gsa.gov/toolkits/">oes.gsa.gov/toolkits.</a>
+OES staff shared a summary of the motivation for toolkits to assist agencies in building Learning Agendas and Annual Evaluation Plans, as well as highlighted specific tools and resources developed. For more information on the toolkits, please visit <a href="https://oes.gsa.gov/toolkits/">oes.gsa.gov/toolkits.</a>
 - February 24, 2020 at GSA
 
 ### Exploring Ways to Identify Resources and Opportunities to Support Evaluation Activities
