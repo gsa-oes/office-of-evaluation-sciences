@@ -11,17 +11,17 @@ summary: More information on our upcoming and previous events
 ## Evidence Act Workshops
 These trainings are for Federal Executive Branch employees only. Register online at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a>
 
-### Upcoming Workshops
+### Upcoming Federal Workshops
 
 ### How to Conduct Randomized Controlled Trials
 This session will help participants learn how to conduct randomized controlled trials, and address common challenges and misconceptions.
 - August 17, 2020 (virtual). Register here <a href="https://community.max.gov/x/yrHGe">via MAX.gov.</a>
 
 
-### Past Workshops
+### Past Federal Workshops
 
 ### Evaluation 101
-In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, discussed what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - January 23, 2020 at GSA
 - April 8, 2020 (virtual)
 - July 30, 2020 (virtual)
@@ -35,7 +35,7 @@ OES staff shared a summary of the motivation for toolkits to assist agencies in 
 - February 24, 2020 at GSA
 
 ### Exploring Ways to Identify Resources and Opportunities to Support Evaluation Activities
-OES and the Office of Management and Budget's Evidence Team co-hosted a workshop on resources and opportunities to identify the funding needed to support evaluation activities. Agency partners shared ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource‐limited environments.
+OES and the Office of Management and Budget's Evidence Team co-hosted a workshop on identifying the resources needed to support evaluation activities. Agency partners shared ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource‐limited environments. 
 - February 19, 2020 at GSA
 
 ### Mapping Strategy to Evidence
