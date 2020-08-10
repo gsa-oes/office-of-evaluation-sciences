@@ -13,14 +13,14 @@ OES and the Office of Management and Budget's Evidence Team co-hosted a workshop
 
 ### Upcoming Workshops
 
-### How to Conduct Randomized Controlled Trials
+## How to Conduct Randomized Controlled Trials
 This session will help participants learn how to conduct randomized controlled trials, and address common challenges and misconceptions. Register online at the MAX.gov site.
 - August 17, 2020 (virtual). Register here <a href="https://community.max.gov/x/yrHGe">via MAX.gov.</a>
 
 
 ### Past Workshops
 
-### Evaluation 101
+## Evaluation 101
 In partnership with the Office of Management and Budget’s Evidence Team, OES offered, Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, discussed what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - January 23, April 8, and July 30, 2020
 
