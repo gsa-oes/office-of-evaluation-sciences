@@ -5,7 +5,7 @@ permalink: /events/
 image:
 image_full: 
 class:
-summary: Attend our annual results discussion or training.
+summary: More information on our upcoming and previous events
 ---
 
 ## Evidence Act Workshops
@@ -21,8 +21,10 @@ This session will help participants learn how to conduct randomized controlled t
 ### Past Workshops
 
 #### Evaluation 101
-In partnership with the Office of Management and Budget’s Evidence Team, OES offered, Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, discussed what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- January 23, April 8, and July 30, 2020
+In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, discussed what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+- January 23, 2020 at GSA
+- April 8, 2020 (virtual)
+- July 30, 2020 (virtual)
 
 ### Creative Uses of Administrative Data
 OES hosted a virtual session on creative uses of administrative data. This session highlighted creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
