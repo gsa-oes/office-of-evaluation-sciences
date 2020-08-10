@@ -5,7 +5,7 @@ permalink: /events/
 image:
 image_full: 
 class:
-summary: More information on our upcoming and previous events
+summary: Upcoming and previous events
 ---
 
 ## Evidence Act Workshops
