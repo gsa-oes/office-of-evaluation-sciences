@@ -9,7 +9,7 @@ summary: Upcoming and previous events
 ---
 
 ## Evidence Act Workshops
-These trainings are for Federal Executive Branch employees only. Register online at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a>
+These trainings are for Federal Executive Branch employees only. Register online and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a>
 
 ### Upcoming Federal Workshops
 
