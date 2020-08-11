@@ -1,5 +1,5 @@
 ---
-title:  Increasing utilization of family planning services in Mozambique through an SMS Intervention
+title:  Increasing Utilization of Family Planning Services in Mozambique Through an SMS Intervention
 permalink: /projects/sms-mozambique/
 tags: 
   - project 
