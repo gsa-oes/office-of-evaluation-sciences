@@ -12,7 +12,7 @@ In 2017, OES developed the <a href="{{site.baseurl}}/othercollabs/census-communi
 
 In the Toolkit, four common participation “barriers” are identified:	
 - **“I don’t think the census has any impact on my life.”** This person isn’t sure what the census does, how its data affects them, and why their participation matters.	
-- **“I don’t feel comfortable sharing my information.”** This person is concerned about data privacy or having their information used by other federal agencies.	
+- **“I don’t feel comfortable sharing my information.”** This person is concerned about data privacy or having their information used by other federal agencies.
 - **“I have trouble completing census forms.”** This person may not be a native English speaker and finds census forms confusing.	
 - **“I don’t have time to fill out the census.”** This person is very busy and assumes the census will be time-consuming and cumbersome.	
 
