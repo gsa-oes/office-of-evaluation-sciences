@@ -8,6 +8,11 @@ class:
 summary: 
 ---
 
+<h2><a href="/blog/census-toolkit/">Census Community Outreach Toolkit targets various outreach barriers</a>
+![image]({{site.baseurl}}/assets/img/project-images/census-crop.png)
+In 2017, OES developed the <a href="{{site.baseurl}}/othercollabs/census-community-outreach-toolkit"> Community Outreach Toolkit</a> with the U.S. Census Bureau’s <a href="https://opportunity.census.gov/coil/">Center for Open Innovation Lab (COIL)</a> team in an effort to summarize behavioral insights that could be employed to increase completion of the 2020 Decennial. This Toolkit is meant to support the extensive network of external partners’ Census communication and outreach efforts.
+  <a href="/blog/census-toolkit/">Read more.</a>
+
 <h2><a href="https://oes.gsa.gov/blog/health-it-technology/">Using evidence to encourage patients’ and providers’ to engage in health information technology</a></h2>
 ![image]({{site.baseurl}}/assets/img/project-images/1729.jpg)
 In collaboration with the Department of Health and Human Services Office of the National Coordinator for Health Information Technology and Inova Health Systems, OES applied behavioral insights to develop two interventions to increase the use of patient-generated health data among patients with diabetes. The impacts of these interventions were then evaluated using data fro
