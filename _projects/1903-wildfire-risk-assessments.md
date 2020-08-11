@@ -1,5 +1,5 @@
 ---
-title:  Increasing homeowner participation in wildfire risk assessments
+title:  Increasing Homeowner Participation in Wildfire Risk Assessments
 permalink: /projects/wildfire-risk-assessments/
 tags: project  
 image: /assets/img/project-images/1903.jpg  
