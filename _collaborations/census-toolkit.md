@@ -33,4 +33,4 @@ Four barriers are identified in this toolkit through the following personas:
 - **“I have trouble completing census forms.”** This person may not be a native English speaker and finds census forms confusing.
 - **“I don’t have time to fill out the census.”** This person is very busy and assumes the census will be time-consuming and cumbersome.
  
-Read the full toolkit <a href="https://www.census.gov/partners/toolkit.pdf">here.</a>
+Read the full toolkit <a href="/assets/publications/census-community-outreach-toolkit.pdf">here.</a>
