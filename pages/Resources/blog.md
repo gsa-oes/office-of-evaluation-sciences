@@ -5,7 +5,7 @@ permalink: /blog/
 image:
 image_full: 
 class:
-summary: Our team regularly posts updates on our work, resources and evidence utilization. 
+summary: Our team posts updates on our collaborations, resources and evidence utilization
 ---
 
 <h2><a href="/blog/census-toolkit/">Census Community Outreach Toolkit targets various outreach barriers</a></h2>
