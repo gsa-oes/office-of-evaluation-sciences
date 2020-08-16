@@ -9,14 +9,13 @@ summary: Upcoming and previous events
 ---
 
 ## Evidence Act Workshops
-These trainings are for Federal Executive Branch employees only. Register online and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a>
+These workshops are for Federal Executive Branch employees only. Register online and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a>
 
 ### Upcoming Federal Workshops
 
 ### How to Conduct Randomized Controlled Trials
 This session will help participants learn how to conduct randomized controlled trials, and address common challenges and misconceptions.
 - August 17, 2020 (virtual). Register <a href="https://community.max.gov/x/yrHGe">via MAX.gov.</a>
-
 
 ### Past Federal Workshops
 
@@ -39,11 +38,11 @@ OES and the Office of Management and Budget's Evidence Team co-hosted a workshop
 - February 19, 2020 at GSA
 
 ### Mapping Strategy to Evidence
-This workshop with GSA's Office of Shared Solutions and Performance Imporvement (OSSPI) provided an introduction to mapping agency strategy to the new evidence-building activities required under the Evidence Act, including hands-on practice in drafting Learning Agenda priorities. This session will be highly relevant for Evaluation Officers and Performance Improvement Officers and an opportunity to work together and make progress on required Learning Agendas. 
+This workshop with GSA's Office of Shared Solutions and Performance Imporvement (OSSPI) provided an introduction to mapping agency strategy to the new evidence-building activities required under the Evidence Act, including hands-on practice in drafting Learning Agenda priorities.
 - December 6, 2019 at GSA
 
 ### Evidence-Building Success Stories
-This workshop with GSA's Office of Shared Solutions and Performance Imporvement (OSSPI) was an interactive session on sharing success stories of how evidence has been used to strengthen agencies programs and policies, and share tips and tricks for creating buy-in and excitement around evidence-building activities within agencies.
+This workshop with GSA's Office of Shared Solutions and Performance Imporvement (OSSPI) was an interactive session on sharing success stories of how evidence has been used to strengthen agencies programs and policies, and shared tips and tricks for creating buy-in and excitement around evidence-building activities within agencies.
 - November 22, 2019 at GSA
 
 
