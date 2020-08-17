@@ -5,7 +5,7 @@ year:
   - 2020
 agency:
   - General Services Administration
-home: CFPB
+home: Consumer Financial Protection Bureau
 title: Alum
 ---
 
