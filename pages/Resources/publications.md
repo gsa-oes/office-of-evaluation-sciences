@@ -11,7 +11,7 @@ All of our work is available on our website, regardless of outcome, in line with
 
 
 ## 2020
-Nuole Chen, Kris-Stella Trump, Stacy Hall and Quan Le. <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/effect-of-postcard-reminders-on-vaccinations-among-the-elderly-a-blockrandomized-experiment/50007EBDEB8ED4D299EFE37C4F73FCB2">The effect of postcard reminders on vaccinations among the elderly: a block-randomized experiment.</a> Behavioural Public Policy, 1-26, (July 2020).
+Nuole Chen, Kris-Stella Trump, Stacy Hall and Quan Le. The effect of postcard reminders on vaccinations among the elderly: a block-randomized experiment. Behavioural Public Policy, 1-26, (July 2020).
 - In this study, the Louisiana Department of Health sent postcard reminders regarding four recommended vaccinations (influenza, tetanus, shingles and pneumonia) to 208,867 senior residents of Louisiana. The reminder postcard had an overall positive effect on vaccination rates. 
 
 Shereen J. Chaudhry, Michael Hand, and Howard Kunreuther. <a href="https://www.nber.org/papers/w27319">Broad Bracketing for Low Probability Events.</a> NBER Working Paper No. 27319, (June 2020).
@@ -58,7 +58,7 @@ Jake Bowers, Nathaniel Higgins, Dean Karlan, Sarah Tulman, and Jonathan Zinman. 
 Amira Choueiki Boland. Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016).	 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
-John Guyton, Dayanand S. Manoli, Brenda Scafer, and Michael Sebastiani. <a href="http://www.nber.org/papers/w21904">Reminders & recidivism: evidence from tax filing & EITC participation among low-income nonfilers,</a> National Bureau of Economic Research, Inc. NBER Working Paper no. 21904, (2016).
+John Guyton, Dayanand S. Manoli, Brenda Scafer, and Michael Sebastiani. Reminders & recidivism: evidence from tax filing & EITC participation among low-income nonfilers, National Bureau of Economic Research, Inc. NBER Working Paper no. 21904, (2016).
 - This project examines how reminders affect tax filing among lower-income nonfilers (individuals who did not appear on a filed tax return but had income reported by third parties to the Internal Revenue Service). The results demonstrate that one-time and follow-up reminders increase tax filing, although this effect does not persist with individuals who owe a balance.
 
 U.S. Department of Agriculture. Economic Research Service. USDA Microloans for Farmers: Participation Patterns and Effects of Outreach, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. <a href="https://www.ers.usda.gov/publications/pub-details/?pubid=81870">ers.usda.gov/publications/pub-details/?pubid=81870</a> (accessed May 16, 2019).	
