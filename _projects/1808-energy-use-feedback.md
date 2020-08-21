@@ -22,6 +22,8 @@ The Department of Housing and Urban Development (HUD) seeks to reduce energy use
 
 OES designed a series of four flyers to send to residents in New York City Housing Authority (NYCHA) apartments. The letters included individualized feedback on recent energy use, a comparison of energy use to the average apartment and to energy-efficient neighbors, and a normative statement based on residents’ relative energy use.
 
+![image]({{site.baseurl}}/assets/img/project-images/1808-letter.png)
+
 ## How did the evaluation work?
 
 About 4,700 apartment units in NYCHA developments have wireless energy modules (WEMs) installed to observe energy use at 15-minute increments. These units were randomly assigned to either 1) receive a series of four letters every two weeks; or, 2) not receive any letters.  
