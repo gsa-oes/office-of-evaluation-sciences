@@ -26,3 +26,5 @@ In four districts — Broward County, FL; Los Angeles Unified School District (U
 ## What was the impact?
 
 Introducing rolling verification had mixed results. Across the four districts combined, the difference in response rates between the rolling verification and business-as-usual groups was not statistically significant.
+
+![image]({{site.baseurl}}/assets/img/project-images/1612-graph.png)
