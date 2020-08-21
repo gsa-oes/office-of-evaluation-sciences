@@ -21,6 +21,9 @@ The U.S. Department of Labor Employment and Training Administration’s core goa
 
 Oregon required job seekers to complete a structured, four-week Personal Employment Plan (PEP). The plan encouraged job seekers to think more expansively about their job search and develop implementation intentions. Additionally, Oregon mailed job seekers information with the standard welcome letter to encourage job seekers to think of WorkSource job centers as a supportive resource and sent a series of up to 12 bi-weekly emails that included tips to enhance customers’ job searches, reminders to follow and add to their PEP, and motivational quotes. 
 
+![image]({{site.baseurl}}/assets/img/project-images/1705-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1705-image2.png)
+
 ## How did the evaluation work?
 
 Oregon selected 14 WorkSource job centers for the pilot. The job centers were sorted into 7 pairs based on the similarity of the centers and the claimants they serve. One job in each pair was randomly assigned to implement the intervention. The primary outcome of interest was the employment rate in the first quarter of 2018. The total earnings were included as a secondary outcome of interest. Both are medium term outcomes, reflecting employment status 4-8 quarters after the intervention period. These outcomes can be interpreted as the medium-term effect of the pilot, as most job seekers would have initiated a claim one to two years prior to the analysis period.
