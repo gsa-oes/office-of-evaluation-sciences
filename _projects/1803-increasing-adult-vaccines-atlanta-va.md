@@ -31,10 +31,6 @@ The Atlanta VA and OES worked together to develop a modified clinical reminder t
 
 Primary care teams (consisting of physicians, advanced practice providers, and nurses) were randomly assigned to either a treatment or control condition. In total, 44 primary care teams were assigned to receive the treatment (modified clinical reminders in the EHR system, new vaccination dashboard, and suggested talking points), and 40 were assigned to the control condition. The Atlanta VA implemented the treatment to the selected primary care teams between October 2018 and April 2019, and these teams saw 28,941 unique patients during this test period.
 
-![image]({{site.baseurl}}/assets/img/project-images/1803-new-immunization-dashboard.png)
-
-![image]({{site.baseurl}}/assets/img/project-images/1803-provider-talking-points.png)
-
 ## What was the impact?
 
 Flu vaccination was higher among patients who saw primary care teams in the treatment group than patients who saw teams in the control group (22.3% versus 20.8%). However, when accounting for demographic characteristics and the clustering of patients within respective care teams, the difference is not statistically significant. 
