@@ -13,7 +13,7 @@ GSA formed an Evaluation Working Group (EWG) in 2020 to provide feedback on the 
 <br/>
 <a href="{{ '/assets/files/ewg-case-study.pdf' | prepend: site.baseurl }}">Evaluation Working Group Case Study</a>
 <br/>
-<a href="{{ '/assets/files/ewg-planning-materials.pdf' | prepend: site.baseurl }}">Appendix: Planning Materials for an Evaluation Working Group</a>
+<a href="{{ '/assets/files/planning-materials-ewg.pdf' | prepend: site.baseurl }}">Appendix: Planning Materials for an Evaluation Working Group</a>
 
 ## Preregistration as a Tool for Strengthening Federal Evaluation
 In order to ensure that evaluation findings are reliable and that statistical results are well founded, it is essential that evaluators commit to specific design choices and analytic methods in advance. By making these details publicly available -- a practice known as preregistration -- we promote transparency and reduce the risk of inadvertently tailoring methods to obtain certain results or selectively reporting positive results. This guidance paper describes the importance and benefits of preregistration and addresses concerns that Federal evaluators might have.
