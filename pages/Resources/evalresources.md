@@ -8,6 +8,13 @@ class:
 summary: OES develops resources to help agencies learn from leading evaluation practices. 
 ---
 
+## Evaluation Working Group Case Study
+GSA formed an Evaluation Working Group (EWG) in 2020 to provide feedback on the agency's FY22 Annual Evaluation Plan and other Evidence Act deliverables. Meeting three times between April and June, the group helped develop criteria for significant evaluations and drafts of the Annual Evaluation Plan and GSA Evaluation Policy. The case study summary describes the EWG's purpose and how they went about their work, and provides materials and agendas for forming similar groups at other agencies.
+<br/>
+<a href="{{ '/assets/files/ewg-case-study.pdf' | prepend: site.baseurl }}">Evaluation Working Group Case Study</a>
+<br/>
+<a href="{{ '/assets/files/ewg-planning-materials.pdf' | prepend: site.baseurl }}">Appendix: Planning Materials for an Evaluation Working Group</a>
+
 ## Preregistration as a Tool for Strengthening Federal Evaluation
 In order to ensure that evaluation findings are reliable and that statistical results are well founded, it is essential that evaluators commit to specific design choices and analytic methods in advance. By making these details publicly available -- a practice known as preregistration -- we promote transparency and reduce the risk of inadvertently tailoring methods to obtain certain results or selectively reporting positive results. This guidance paper describes the importance and benefits of preregistration and addresses concerns that Federal evaluators might have.
 <br/>
