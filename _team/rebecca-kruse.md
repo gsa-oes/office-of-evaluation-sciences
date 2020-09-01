@@ -6,7 +6,7 @@ year:
 agency:
   - Homeland Security
 home: National Science Foundation
-title: Evidence Fellow
+title: Alum
 ---
 
 Rebecca joined the team as an Evidence Fellow in the winter of 2020. The Evidence Fellows directly support pilot agencies in their Evidence Act implementation efforts. This work will inform and help establish government-wide resources for coordinating across agency functions and processes to meet the requirements of the Evidence Act. Rebecca has a Ph.D. in Chemistry from University of Illinois Urbana-Champaign with professional training and experience in education research, program and policy evaluation, business analytics, and methodologies for process, team, and organizational improvement.  She joins OES from the National Science Foundation (NSF), where she integrates principles and practices of evaluation, human-centered design, change management, strategic facilitation, and co-creation approaches to support evidence building and use. 
