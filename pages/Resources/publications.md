@@ -11,7 +11,7 @@ All of our work is available on our website, regardless of outcome, in line with
 
 
 ## 2020
-Aderaw Anteneh, Kelly Bidwell, Woldemariam Girma, Kristen Little, Nicholas Wilson and Endale Workalemahu. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1761939">"Appraising praise: experimental evidence on positive framing and demand for health services."</a> Applied Economics Letters, (2020).
+Aderaw Anteneh, Kelly Bidwell, Woldemariam Girma, Kristen Little, Nicholas Wilson, and Endale Workalemahu. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1761939">"Appraising praise: experimental evidence on positive framing and demand for health services."</a> Applied Economics Letters, (2020).
 - This study used field experiment with over 800 HIV+ female sex workers (FSWs) in Ethiopia testing the effects of providing of Praise Message phone calls on retention in antiretroviral (ART) care and adherence to ART medication. We find mixed evidence on the effects of Praise Messages, suggesting further investigation into the effects of praise or other non-informative communication on health behaviour.
 
 Shereen J. Chaudhry, Michael Hand, and Howard Kunreuther. <a href="https://www.nber.org/papers/w27319">Broad Bracketing for Low Probability Events.</a> NBER Working Paper No. 27319, (June 2020).
