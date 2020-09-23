@@ -9,7 +9,7 @@ summary: OES develops resources to help agencies learn from leading evaluation p
 ---
 
 ## Evaluation Working Group Case Study
-GSA formed an Evaluation Working Group (EWG) in 2020 to provide feedback on the agency's FY22 Annual Evaluation Plan and other Evidence Act deliverables. Meeting three times between April and June, the group helped develop criteria for significant evaluations and drafts of the Annual Evaluation Plan and GSA Evaluation Policy. The case study summary describes the EWG's purpose and how they went about their work, and provides materials and agendas for forming similar groups at other agencies.
+GSA formed an Evaluation Working Group (EWG) in 2020 to provide feedback on the agency's FY22 Annual Evaluation Plan and other Evidence Act deliverables. Meeting three times between April and June, the group helped develop criteria for significant evaluations and drafts of the Annual Evaluation Plan and GSA Evaluation Policy. The case study summary describes the EWG's purpose and how they went about their work, as well as provides materials and agendas for forming similar groups at other agencies.
 <br/>
 <a href="{{ '/assets/files/ewg-case-study.pdf' | prepend: site.baseurl }}">Evaluation Working Group Case Study</a>
 <br/>
