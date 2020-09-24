@@ -34,7 +34,7 @@ summary: Learn more about joining OES and working with us as an agency collabora
   </div>
 </div>
 
-## Join OES - Accepting new fellowship applications September 2020! 
+## Join OES - Accepting new fellowship applications October 2020! 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
 ### OES Annual Fellowship Overview
