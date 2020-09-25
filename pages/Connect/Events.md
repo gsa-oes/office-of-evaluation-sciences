@@ -14,12 +14,12 @@ This training series is a continuing partnership between the Office of Managemen
 ## Upcoming Federal Workshops
 ### Evaluation 101
 An introduction to evaluation as a research method: what it is, what questions it can answer, and how it can help agencies better understand their programs, policies, and operations.
-- October 5, 2020 from 3:00 to 4:30 pm (virtual)
-- January 19, 2021 from 9:00 to 10:30 am (virtual)
+- October 5, 2020 from 3:00 to 4:30 pm 
+- January 19, 2021 from 9:00 to 10:30 am 
 
 ### Understanding Null Results
 Discuss and dispel misconceptions about evaluations that show no evidence of impact or provide evidence of no impact, and highlight uses for null results.
-- November 2, 2020 - time TBD
+- November 2, 2020 from 3:00 to 4:15 pm
 
 ### Evidence and Strategic Planning (Hosted by OMB Evidence Team)
 Concrete strategies and approaches that agencies can use to maximize the benefit of evidence use in strategic planning.
