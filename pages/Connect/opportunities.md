@@ -5,7 +5,7 @@ permalink: /opps/
 image:
 image_full: true
 class:
-summary: Learn more about joining OES and working with us as an agency collaborator or affililate.
+summary: Learn more about joining OES and working with us as an agency collaborator or affiliate.
 ---
 <br>
 <div class="banner contact">
