@@ -13,4 +13,13 @@ layout: page
       {% endfor %}
     {% endfor %}
   </div>
+{% if page.collaborations_tags.size > 0 %}
+  <div class="project-container">
+    {% for page_collaborations_tag in page.collaborations_tags %}
+      {% assign tagged_collaborations = site.collaborations | where_exp:"collaborations", "collaborations.tags contains page_collaborations_tag" %}
+        {% for project in tagged_projects reversed %}
+          {% include project-card.html %}
+      {% endfor %}
+    {% endfor %}
+  </div>
 {% endif %}
