@@ -1,7 +1,9 @@
 ---
 title: Increasing FAFSA Renewal Rates
 permalink: /projects/increasing-fafsa-renewal-rates/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/1716.jpg
 image-credit: https://flic.kr/p/4kSAPe
 abstract: /assets/abstracts/1716-Increasing-Student-FAFSA-Renewal-Rates.pdf
