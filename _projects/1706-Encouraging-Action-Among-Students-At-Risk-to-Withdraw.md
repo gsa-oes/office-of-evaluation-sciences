@@ -1,7 +1,9 @@
 ---
 title: Encouraging Action Among Students At Risk to Withdraw
 permalink: /projects/students-at-risk/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/1706.jpg
 image-credit: https://flic.kr/p/URogRg
 abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf
