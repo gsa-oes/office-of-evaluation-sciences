@@ -2,7 +2,8 @@
 layout: portfolio
 title: Higher Education
 permalink: /highereducation/
-image:
+image: /assets/img/project-images/1717.jpg  
+image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
 summary: OES has partnered with federal agencies to implement low-cost, evidence-based program changes to improve student experiences throughout the postsecondary lifecycle from planning to attend a postsecondary program to the repayment of federal student loans.
 project_tags:
   - highered
