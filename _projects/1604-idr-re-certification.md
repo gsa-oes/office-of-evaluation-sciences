@@ -1,7 +1,9 @@
 ---
 title: Increasing IDR Re-certification Among Student Borrowers
 permalink: /projects/idr-re-certification/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/idr-recert.jpg
 image-credit: https://www.flickr.com/photos/niallkennedy/
 abstract: /assets/abstracts/1604-Income-Driven Repayment-Recertification.pdf
