@@ -1,7 +1,9 @@
 ---
 title: Increasing IDR Applications Among Eligible Student Loan Borrowers through Targeted Messages
 permalink: /projects/idr-applications-targeted-messages/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/pslf1.jpg
 image-credit: https://www.flickr.com/photos/pagedooley/
 abstract: /assets/abstracts/1603-1-Income-Driven Repayment-Targeted-Messages.pdf
