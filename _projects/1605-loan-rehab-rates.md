@@ -1,7 +1,9 @@
 ---
 title: Increasing Student Loan Rehabilitation Rates for Defaulted Borrowers
 permalink: /projects/loan-rehab-rates/
-tags: project
+tags: 
+  - project
+  - highered
 image: /assets/img/project-images/loan-rehab.jpg
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
