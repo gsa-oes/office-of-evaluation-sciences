@@ -3,15 +3,14 @@ layout: portfolio
 title: Higher Education
 permalink: /highereducation/
 image:
-summary: forthcoming
+summary: OES has partnered with federal agencies to implement low-cost, evidence-based program changes to improve student experiences throughout the postsecondary lifecycle from planning to attend a postsecondary program to the repayment of federal student loans.
 project_tags:
   - highered
 ---
 
 ## Background
-
+The federal financial aid system plays a key role in expanding postsecondary access and affordability for students struggling to pay for college. However, many students that could benefit most from Federal financial aid struggle to complete the Free Application for Federal Student Aid (FAFSA), leaving an estimated $2.6 billion in federal student aid on the table each year. Moreover, with 1.4 trillion in student loan debt, and almost half of students in default, forbearance, or delinquency, the Department of Education has made improving the customer experience of federal financial aid a priority.
 
 
 ## Portfolio
-
-Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving higher education.
+In collaboration with a variety of federal agencies including the Department of Education, Department of Housing and Urban Development, and Department of Veterans Affairs, OES has built a portfolio of evidence on the impact of low-cost interventions that are designed to improve FAFSA completion, postsecondary access and success, and student loan repayment. 
