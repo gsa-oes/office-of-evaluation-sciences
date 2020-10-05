@@ -44,7 +44,7 @@ The Office of Evaluation Sciences (OES) is currently accepting applications for 
 
 *Note: A Google email is required to submit the Annual Fellowship Application. If you are unable to access the application through Google Forms, please see the <a href="https://oes.gsa.gov/assets/files/oes-fy21-fellowship-application.pdf">full application here.</a>* 
 
-#### We are recruiting for the following positions:**
+#### We are recruiting for the following positions:
 - **Fellows** have substantial expertise in the social and behavioral sciences field. Typically they are researchers with a PhD and publication record in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
 - **Associate Fellows** typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.
 - **Health Fellow** should possess expertise in an area of health policy or the application of behavioral insights to health behaviors, experience and familiarity with or deep interest in using health datasets, and be available for a two-year fellowship
