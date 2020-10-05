@@ -22,7 +22,7 @@ The Office of Evaluation Sciences (OES) is currently accepting applications for 
 - **Health Fellow** should possess expertise in an area of health policy or the application of behavioral insights to health behaviors, experience and familiarity with or deep interest in using health datasets, and be available for a two-year fellowship
 
 ### A Few Fellow Profiles 
-Fellows have joined our team from a range of academic disciplines and backgrounds. Meet a few of our current and former team members:
+Fellows have joined our team from a range of academic disciplines and backgrounds. Meet a few of our current team members:
 ![image]({{site.baseurl}}/assets/img/fellows-1.jpg)
 ![image]({{site.baseurl}}/assets/img/fellows-2.jpg)
 
