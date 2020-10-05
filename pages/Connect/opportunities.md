@@ -49,8 +49,8 @@ The Office of Evaluation Sciences (OES) is currently accepting applications for 
 
 ### A Few Fellow Profiles 
 Fellows have joined our team from a range of academic disciplines and backgrounds. Meet a few of our current and former team members:
-![image]({{site.baseurl}}/assets/img/fellow-profiles-1.jpg)
-![image]({{site.baseurl}}/assets/img/fellow-profiles-2.jpg)
+![image]({{site.baseurl}}/assets/img/fellows-1.jpg)
+![image]({{site.baseurl}}/assets/img/fellows-2.jpg)
 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
