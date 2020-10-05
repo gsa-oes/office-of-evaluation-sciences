@@ -7,34 +7,6 @@ image_full: true
 class:
 summary: Learn more about joining OES and working with us as an agency collaborator or affiliate.
 ---
-<br>
-<div class="banner contact">
-  <div class="grid-container">
-  {% for form in site.forms %}
-    {% if form.type == 'newsletter' %}
-      {% assign f = form %}
-    {% endif %}
-  {% endfor %}
-    <div class="grid-row">
-      <div class="grid-col-8 contact-form">
-          <h2 id="whats-new-at-oes">What's new at OES?</h2>
-          <p>Sign up for our email list to receive updates on events, results released, and opportunities to work with the team.</p>      
-          <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
-      </div>
-      <div class="grid-col-4 privacy-policy">
-        {% if f.privacypolicy %}
-          {% include icons/privacy.svg %}
-          <h3 class="h4">Your privacy and security are important to us.</h3>
-          <p class="font-small">We’ll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
-        {% else %}
-          <p></p>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-</div>
-
-
 
 ## OES Annual Fellowship Overview
 The Office of Evaluation Sciences (OES) is currently accepting applications for fellowships beginning in Fall 2021. These positions will be based in Washington DC, with some flexibility based on the COVID-19 pandemic. <a href="{{ '/assets/files/GSA_OES_SolicitationFY21.pdf' | prepend: site.baseurl }}">Learn more about the fellowship here.</a> 
@@ -63,3 +35,31 @@ We’re excited to work with agency collaborators across government. Send us inf
 ## Supporting OES as an Academic Affiliate 
 
 We often require specific subject matter expertise as we identify opportunities to work with agencies on an ongoing basis. As an Academic Affiliate, you will be able to apply your work to improve government, and have the opportunity to publish results. Tell us about your area of expertise by emailing <a href="mailto:oes@gsa.gov?subject=Academic Affiliate Inquiry">oes@gsa.gov</a>, and we may reach out to you to collaborate on a specific project. 
+
+<br>
+<div class="banner contact">
+  <div class="grid-container">
+  {% for form in site.forms %}
+    {% if form.type == 'newsletter' %}
+      {% assign f = form %}
+    {% endif %}
+  {% endfor %}
+    <div class="grid-row">
+      <div class="grid-col-8 contact-form">
+          <h2 id="whats-new-at-oes">What's new at OES?</h2>
+          <p>Sign up for our email list to receive updates on events, results released, and opportunities to work with the team.</p>      
+          <a class="usa-button usa-button-marginless" href="https://goo.gl/forms/VgSGvpAZZn61oxy62">Sign up</a>
+      </div>
+      <div class="grid-col-4 privacy-policy">
+        {% if f.privacypolicy %}
+          {% include icons/privacy.svg %}
+          <h3 class="h4">Your privacy and security are important to us.</h3>
+          <p class="font-small">We’ll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">{{ f.privacypolicy.name }}</a>.</p>
+        {% else %}
+          <p></p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
