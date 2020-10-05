@@ -37,16 +37,15 @@ summary: Learn more about joining OES and working with us as an agency collabora
 
 
 ## OES Annual Fellowship Overview
-The Office of Evaluation Sciences (OES) is currently accepting applications for fellowships beginning in Fall 2021. These positions will be based in Washington DC, with some flexibility based on the COVID-19 pandemic. *Learn more about the fellowship here*. 
+The Office of Evaluation Sciences (OES) is currently accepting applications for fellowships beginning in Fall 2021. These positions will be based in Washington DC, with some flexibility based on the COVID-19 pandemic. <a href="{{ '/assets/files/GSA_OES_SolicitationFY21.pdf' | prepend: site.baseurl }}">Learn more about the fellowship here.</a> 
  
 ### Application Details
-*Applicants may apply online here*. **The deadline to submit is 11:59 p.m. EST Sunday, December 13, 2020.**
+<a href="https://docs.google.com/forms/d/1jQYihtWnsD9ZK-xQws4sZDheQryxHDT3Yn3HieXQf2s/prefill">Applicants may apply online here.</a> The deadline to submit is **11:59 p.m. EST Sunday, December 13, 2020.**
 
 #### We are recruiting for the following positions:**
-OES is currently recruiting individuals with associated experience:
 - **Fellows** have substantial expertise in the social and behavioral sciences field. Typically they are researchers with a PhD and publication record in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
 - **Associate Fellows** typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.
-- **Health Fellow** We are additionally recruiting for a two-year fellowship in the area of health policy. Applicants should possess expertise in an area of health policy or the application of behavioral insights to health behaviors and experience and familiarity with or deep interest in using health datasets. 
+- **Health Fellow** should possess expertise in an area of health policy or the application of behavioral insights to health behaviors, experience and familiarity with or deep interest in using health datasets, and be available for a two-year fellowship
 
 ### A Few Fellow Profiles 
 Fellows have joined our team from a range of academic disciplines and backgrounds. Meet a few of our current and former team members:
