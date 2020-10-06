@@ -14,7 +14,7 @@ Research indicates that support in finding housing, transportation, and employme
 
 The <a href="https://oes.gsa.gov/assets/abstracts/1619-reentry-handbook.pdf">handbook</a> has three checklists of discrete steps to take at three different points in time: immediately before release, within one week of returning home, and within one month of returning home. In many cases, the proper timing and sequencing of steps is important for preventing setbacks. For example, encouraging individuals to obtain a birth certificate and any education records prior to release can accelerate their ability to obtain a government-issued photo ID and apply for work upon release. 
 
-<img src="{{ '/assets/img/project-images/othercollabs/DOJ-checklist.png' | prepend: site.baseurl }}" height="400" width="200"/>
+<img src="{{ '/assets/img/project-images/othercollabs/DOJ-checklist.png' | prepend: site.baseurl }}" height="425" width="250"/>
 
 OES reviewed each recommendation to ensure it was broken down into discrete steps and connected individuals to relevant resources, such as organizations that help people navigate housing and legal services. OES also recommended that individuals be addressed as “community members” and provided ideas for how to de-stigmatize subjects such as mental health. 
 
