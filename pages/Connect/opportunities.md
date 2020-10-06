@@ -5,7 +5,7 @@ permalink: /opps/
 image:
 image_full: true
 class:
-summary: Join OES: Now accepting fellowship applications
+summary: Join OES - Now accepting fellowship applications
 ---
 
 ## OES Annual Fellowship Overview
