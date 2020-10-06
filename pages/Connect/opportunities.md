@@ -9,7 +9,7 @@ summary: Learn more about joining OES and working with us as an agency collabora
 ---
 
 ## OES Annual Fellowship Overview
-The Office of Evaluation Sciences (OES) is currently accepting applications for fellowships beginning in Fall 2021. These positions will be based in Washington DC, with some flexibility based on the COVID-19 pandemic. <a href="{{ '/assets/files/GSA_OES_SolicitationFY21.pdf' | prepend: site.baseurl }}">Learn more about the fellowship here.</a> 
+The Office of Evaluation Sciences (OES) is currently accepting applications for fellowships beginning in Fall 2021. These positions will be based in Washington DC, with some flexibility based on the COVID-19 pandemic. <a href="https://oes.gsa.gov/assets/files/GSA_OES_SolicitationFY21.pdf">Learn more about the fellowship here.</a> 
  
 ### Application Details
 <a href="https://docs.google.com/forms/d/1jQYihtWnsD9ZK-xQws4sZDheQryxHDT3Yn3HieXQf2s/prefill">Applicants may apply online here.</a> The deadline to submit is **11:59 p.m. EST Sunday, December 13, 2020.**
