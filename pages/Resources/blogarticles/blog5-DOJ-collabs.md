@@ -12,9 +12,9 @@ To combat COVID-19, <a href="https://www.cdc.gov/coronavirus/2019-ncov/community
 
 Research indicates that support in finding housing, transportation, and employment is linked to lower rearrest rates following release from prison. This support is often given by employees, but a more efficient way might be to provide formerly incarcerated individuals with concrete steps they can follow on their own--<a href="https://link.springer.com/article/10.1007/s11292-014-9216-5">such as how to obtain a driver’s license or health insurance.</a> In 2016, <a href="https://oes.gsa.gov/projects/improving-reentry/">OES contributed to work by the Bureau of Prisons (BOP)</a> to design a re-entry handbook outlining these and other concrete steps to assist individuals with their transition.
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/DOJ-checklist.png)	
-
 The <a href="https://oes.gsa.gov/assets/abstracts/1619-reentry-handbook.pdf">handbook</a> has three checklists of discrete steps to take at three different points in time: immediately before release, within one week of returning home, and within one month of returning home. In many cases, the proper timing and sequencing of steps is important for preventing setbacks. For example, encouraging individuals to obtain a birth certificate and any education records prior to release can accelerate their ability to obtain a government-issued photo ID and apply for work upon release. 
+
+<img src="{{ '/assets/img/project-images/othercollabs/DOJ-checklist.png' | prepend: site.baseurl }}" height="400" width="200"/>
 
 OES reviewed each recommendation to ensure it was broken down into discrete steps and connected individuals to relevant resources, such as organizations that help people navigate housing and legal services. OES also recommended that individuals be addressed as “community members” and provided ideas for how to de-stigmatize subjects such as mental health. 
 
