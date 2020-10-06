@@ -26,8 +26,6 @@ Fellows have joined our team from a range of academic disciplines and background
 ![image]({{site.baseurl}}/assets/img/fellows-1.jpg)
 ![image]({{site.baseurl}}/assets/img/fellows-2.jpg)
 
-<iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
-
 ## Collaborate with OES
 
 We’re excited to work with agency collaborators across government. Send us information on the question you are trying to answer, outcome you are trying to improve, area you may be seeking training in, or the resources you may need to <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
