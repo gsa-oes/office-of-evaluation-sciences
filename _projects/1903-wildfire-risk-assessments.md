@@ -25,6 +25,8 @@ The Montana DNRC sent letters with information about how to request a risk asses
 
 Properties in Park and Gallatin Counties, Montana, located in moderate or high wildfire hazard areas (N=9,109) were randomly assigned to be sent one of three versions of the letter or no letter. The Montana DNRC collected requests for on-site risk assessments made through a DNRC website and by phone. Requests were matched by address to the list of properties included in the evaluation to compare request rates among the randomly assigned groups.
 
+![image]({{site.baseurl}}/assets/img/project-images/1903-graph.png)
+
 ## What was the impact?
 
 Sending letters to property owners increased the share of property owners requesting assessments by 6.9 percentage points.  The effect of sending letters did not vary between the two counties, or between properties in moderate vs. high wildfire hazard areas. Differences in the request rate between groups sent different versions of the letter were not statistically significant, although the analysis rules out differences between letter groups as small as 2.5 percentage points. The letter that provided information plus framed wildfire risks in terms of effects on the community yielded the highest request rate.
