@@ -5,7 +5,7 @@ permalink: /opps/
 image:
 image_full: true
 class:
-summary: Learn more about joining OES and working with us as an agency collaborator or affiliate.
+summary: Join OES: Now accepting fellowship applications
 ---
 
 ## OES Annual Fellowship Overview
