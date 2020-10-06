@@ -17,6 +17,8 @@ featured: homepage
 
 Wildfires pose substantial risks to communities, but property owners who take action to reduce wildfire risks on their property can contribute to more fire-adapted communities and decreased risk to homes, neighboring properties, and firefighters. The Montana Department of Natural Resources and Conservation (DNRC), supported by the USDA Forest Service, seeks to increase participation in wildfire risk assessments to promote fire-adapted communities.
 
+![image]({{site.baseurl}}/assets/img/project-images/1903-groups.png)
+
 ## What was the program change?
 
 The Montana DNRC sent letters with information about how to request a risk assessment to property owners in two Montana counties in September 2019. One version of the letter only provided information about how to request an assessment; a second letter provided the same information plus a statement highlighting wildfire risks to one’s own property; a third letter provided information plus a statement about how taking action to reduce risk may protect their community.
