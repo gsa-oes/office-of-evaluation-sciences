@@ -26,10 +26,19 @@ summary: Because results from OES evaluations impact the lives of millions of Am
     {% endif %}
   </div>
   {% endif %}
-<h2>OES Evaluation Policy & Process</h2>
+<h1>OES Evaluation Policy & Process</h1>
 <p>We follow the <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">OES Evaluation Policy</a> and six steps to ensure our findings are relevant and reliable.<br>
   <img src="{{ '/assets/img/oes-project-process-small.png' | prepend: site.baseurl }}" width="400"><br>
 <br><a href="{{ '/projectprocess' | prepend: site.baseurl }}">Learn more about our project process here.</a><p>
+  
+<h1>Methods for Evaluation Design and Statistical Analysis</h1>
+We have produced a series of methods papers for our own team’s use in designing randomized evaluations and conducting statistical analysis. Take a look if you would like to know more about our methods. If you find these useful in your own evaluation work, or if you have questions or would like to request additional resources, please <a href="mailto:oes@gsa.gov?subject=Methods">let us know.</a>
+  
+<h2>Reporting Statistical Results in Text and in Graphs</h2>
+This <a href="https://oes.gsa.gov/assets/files/reporting-statistical-results.pdf">guidance paper</a> describes OES’s preferred methods for reporting statistical results from a randomized evaluation. It explains how to report a regression coefficient that estimates the effect of a treatment or intervention, as well as how to produce the graphs that OES includes in its project abstracts. Code for generating graphs, both in R and in Stata, is included.
+  
+<h2>Blocking in Randomized Evaluations</h2>
+Whenever possible, we incorporate background information about individuals (or other units) into an evaluation through block randomization. This helps make our estimates of the effects of a program or intervention as precise as possible. This <a href="https://oes.gsa.gov/assets/files/block-randomization.pdf">guidance paper</a> describes OES’s approach to block randomization.
   
   <h2>Calculating Standard Errors Guide</h2>
   <p> This <a href="/assets/files/calculating-standard-errors-guidance.pdf">guidance paper</a> describes OES’s preferred method for calculating parametric standard errors for OLS regressions — in particular, the reasons for using HC2 standard errors — and how to calculate them in R and Stata. OES often analyzes the results of RCTs by estimating a parametric statistical model — typically an ordinary least squares (OLS) regression — where one of the parameters represents the effect of a treatment or intervention. In order to infer whether this treatment effect is statistically significant, we typically depend on an estimate of the standard error associated with this parameter.</p>
