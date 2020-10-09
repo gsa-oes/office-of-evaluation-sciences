@@ -27,9 +27,10 @@ summary: Because results from OES evaluations impact the lives of millions of Am
   </div>
   {% endif %}
 <h1>OES Evaluation Policy & Process</h1>
-<p>We follow the <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">OES Evaluation Policy</a> and six steps to ensure our findings are relevant and reliable.<br>
+<p>The <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">OES Evaluation Policy</a>lays out the principles that guide our work.<br>
+  Our evaluation projects follow six steps to produce results that are relevant and reliable.<br>
   <img src="{{ '/assets/img/oes-project-process-small.png' | prepend: site.baseurl }}" width="400"><br>
-<br><a href="{{ '/projectprocess' | prepend: site.baseurl }}">Learn more about our project process here.</a></p>
+<br><h3><a href="{{ '/projectprocess' | prepend: site.baseurl }}">Learn more about our project process here.</a></h3></p>
   
 <h1>Methods for Evaluation Design and Statistical Analysis</h1>
 <p>We have produced a series of methods papers for our own team’s use in designing randomized evaluations and conducting statistical analysis. Take a look if you would like to know more about our methods. If you find these useful in your own evaluation work, or if you have questions or would like to request additional resources, please <a href="mailto:oes@gsa.gov?subject=Methods">let us know.</a></p>
@@ -41,10 +42,8 @@ summary: Because results from OES evaluations impact the lives of millions of Am
 <p>Whenever possible, we incorporate background information about individuals (or other units) into an evaluation through block randomization. This helps make our estimates of the effects of a program or intervention as precise as possible. This <a href="https://oes.gsa.gov/assets/files/block-randomization.pdf">guidance paper</a> describes OES’s approach to block randomization.</p>
   
   <h2>Calculating Standard Errors Guide</h2>
-  <p> This <a href="/assets/files/calculating-standard-errors-guidance.pdf">guidance paper</a> describes OES’s preferred method for calculating parametric standard errors for OLS regressions — in particular, the reasons for using HC2 standard errors — and how to calculate them in R and Stata. OES often analyzes the results of RCTs by estimating a parametric statistical model — typically an ordinary least squares (OLS) regression — where one of the parameters represents the effect of a treatment or intervention. In order to infer whether this treatment effect is statistically significant, we typically depend on an estimate of the standard error associated with this parameter.</p>
-  
+  <p> OES often analyzes the results of a randomized evaluation by estimating a statistical model — typically an ordinary least squares (OLS) regression — where one of the parameters represents the effect of an intervention. In order to decide whether a result is statistically significant, we must estimate the standard error for this parameter. This <a href="/assets/files/calculating-standard-errors-guidance.pdf">guidance paper</a> describes our preferred method for doing this. In particular, it explains the reasons for using so-called HC2 standard errors — and how to calculate them in R and Stata.</p>
+
   <h2>Multiple Comparison Adjustment Guide</h2>
-  <p>This <a href="/assets/files/multiple-comparison-adjustment.pdf">guidance paper</a> describes OES's approach to adjusting for multiple comparisons. When evaluators run multiple statistical tests -- for example, looking at multiple possible outcomes of a program or intervention, or testing multiple versions of an intervention -- it is important to account for this when reporting and interpreting the results. </p>
-  
-  <h2>Preregistration in External Registries Guide</h2>
-  <p>This <a href="/assets/files/preregistration-external-registries.pdf">guidance paper</a> describes the importance and benefits of preregistration and addresses concerns that Federal evaluators might have. In order to ensure that evaluation findings are reliable and that statistical results are well founded, it is essential that evaluators commit to specific design choices and analytic methods in advance. By making these details publicly available -- a practice known as preregistration -- we promote transparency and reduce the risk of inadvertently tailoring methods to obtain certain results or selectively reporting positive results.</p>
+  <p>When evaluators run multiple statistical tests — for example, looking at multiple possible outcomes of a program or intervention, or testing multiple versions of an intervention — they run the risk of getting a “false positive” result unless they account for these multiple tests in some way. There are various approaches to this, and OES’s preferred approach is described in this <a href="/assets/files/multiple-comparison-adjustment.pdf">guidance paper.</a></p>
+ 
