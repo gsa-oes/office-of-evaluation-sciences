@@ -14,7 +14,6 @@ This training series is a continuing partnership between the Office of Managemen
 ## Upcoming Federal Workshops
 ### Evaluation 101
 An introduction to evaluation as a research method: what it is, what questions it can answer, and how it can help agencies better understand their programs, policies, and operations.
-- October 5, 2020 from 3:00 to 4:30 pm 
 - January 19, 2021 from 9:00 to 10:30 am 
 
 ### Understanding Null Results
@@ -42,9 +41,10 @@ This session helped participants learn how to conduct randomized controlled tria
 
 ### Evaluation 101
 In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- January 23, 2020 at GSA
-- April 8, 2020 (virtual)
-- July 30, 2020 (virtual)
+- January 23, 2020 
+- April 8, 2020
+- July 30, 2020
+- October 5, 2020
 
 ### Creative Uses of Administrative Data
 OES hosted a virtual session on creative uses of administrative data. This session highlighted creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
