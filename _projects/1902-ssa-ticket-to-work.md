@@ -1,18 +1,17 @@
 ---
-title:  Timely Wage Reporting Among SSI Recipients
-permalink: /projects/ssi-wage-reporting/
+title:  Ticket to Work Notice Optimization
+permalink: /projects/ticket-to-work/
 tags: 
-  - complete
+  - in progress
   - project
-  - cost savings
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
-year: 2019
+year: 2020
 domain: Government Efficiency
-status: Complete
+status: In-Progress
 agency: Social Security Administration
-summary: A reminder encouraged SSI recipients to self-report changes in wages earlier, potentially reducing overpayment.
+summary: This project seeks to increase participation in the Ticket to Work program by developing targeting outreach to eligible beneficiaries. 
 featured: homepage
 ---
 
