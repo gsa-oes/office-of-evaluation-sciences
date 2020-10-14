@@ -2,7 +2,7 @@
 title:  Ticket to Work Notice Optimization
 permalink: /projects/ticket-to-work/
 tags: 
-  - ongoing
+  - cost savings
   - project
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
