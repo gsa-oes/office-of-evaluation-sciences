@@ -2,14 +2,14 @@
 title:  Ticket to Work Notice Optimization
 permalink: /projects/ticket-to-work/
 tags: 
-  - in progress
+  - ongoing
   - project
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
 year: 2020
 domain: Government Efficiency
-status: In-Progress
+status: Ongoing
 agency: Social Security Administration
 summary: This project seeks to increase participation in the Ticket to Work program by developing targeting outreach to eligible beneficiaries. 
 featured: homepage
