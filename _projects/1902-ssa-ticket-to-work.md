@@ -1,17 +1,17 @@
 ---
-title:  Ticket to Work Notice Optimization
+title:  Increasing Participation in Ticket to Work
 permalink: /projects/ticket-to-work/
 tags: 
   - cost savings
   - project
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
-abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
+analysis plan: /assets/analysis/1902 - 3 - Analysis Plan_Update.docx.pdf
 year: 2020
-domain: Government Efficiency
+domain: Employment
 status: Ongoing
 agency: Social Security Administration
-summary: This project seeks to increase participation in the Ticket to Work program by developing targeting outreach to eligible beneficiaries. 
+summary: Analysis Plan Registration
 featured: homepage
 ---
 
