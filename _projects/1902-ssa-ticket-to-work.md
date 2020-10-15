@@ -4,7 +4,7 @@ permalink: /projects/ticket-to-work/
 tags: 
   - cost savings
   - project
-image: /assets/img/project-images/1902-ticket-to-work.jpg
+image: /assets/img/project-images/1902-ticket-to-work.jpeg
 image-credit: https://www.nypl.org/blog/2015/06/24/employment-services-disabilities
 analysis-plan: /assets/analysis/1902-analysis-plan.pdf
 year: 2020
