@@ -21,6 +21,8 @@ The Office of Evaluation Sciences (OES) is currently accepting applications for 
 - **Associate Fellows** typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.
 - **Health Fellow** should possess expertise in an area of health policy or the application of behavioral insights to health behaviors, experience and familiarity with or deep interest in using health datasets, and be available for a two-year fellowship
 
+*The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.*
+
 ### A Few Fellow Profiles 
 Fellows have joined our team from a range of academic disciplines and backgrounds. Meet a few of our current team members:
 ![image]({{site.baseurl}}/assets/img/fellows-1.jpg)
