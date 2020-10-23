@@ -22,9 +22,13 @@ The Social Security Administration (SSA) administers Supplemental Security Incom
 
 SSA identified over 4 million individuals age 65-80 who were potentially eligible for SSI, and sent one of four letter variations to a sub-sample of them. 
 
+![image]({{site.baseurl}}/assets/img/project-images/1723-image.png)
+
 ## How did the evaluation work?
 
 Individuals were randomly assigned to receive one of four letter types or to a control condition (i.e., no targeted information about potential SSI eligibility): (1) a basic letter; (2) a letter which states the maximum benefit; (3) a letter which states that applying is simple; (4) a letter combining the maximum benefit element and the “applying is simple” element. SSA sent 100,000 of each letter variation.
+
+![image]({{site.baseurl}}/assets/img/project-images/1723-graph.png)
 
 ## What was the impact?
 
