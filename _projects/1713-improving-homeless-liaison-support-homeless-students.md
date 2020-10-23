@@ -24,6 +24,8 @@ New email communication materials were developed using behavioral insights to sh
 
 LEAs were randomly assigned to use one of two conditions: 1) less frequent, more formal emails on updated guidance (control); or 2) a modified set of timely emails informed by behavioral science principles(treatment).
 
+![image]({{site.baseurl}}/assets/img/project-images/1713-graph.png)
+
 ## What was the impact?
 
 After the school year, LEAs in the intervention group identified on average 3.62 more homeless students, a 12% relative change compared to the control group baseline average.
