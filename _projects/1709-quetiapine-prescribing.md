@@ -27,6 +27,8 @@ CPI and OES sent a series of peer comparison letters to high volume prescribers 
 
 CPI and OES randomly assigned high volume prescribers (N = 5,055) to get a treatment or control letter. CPI and OES compared the days of quetiapine supplied by the prescribers and the days of quetiapine received by the prescribers’ baseline patients (N = 89,500) over 9 months.
 
+![image]({{site.baseurl}}/assets/img/project-images/1709-graph.png)
+
 ## What was the impact?
 
 Sending peer comparison letters to high volume prescribers of quetiapine reduced prescribing, and did so without any detectable adverse impacts.
