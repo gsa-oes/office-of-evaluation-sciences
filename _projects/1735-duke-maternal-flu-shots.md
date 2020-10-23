@@ -27,10 +27,10 @@ In collaboration with the Duke University health system, the Office of Evaluatio
 Patients were randomly assigned to the treatment condition, in which they received the newly developed targeted message highlighting the importance of the flu vaccine, or a control condition in which they did not receive this targeted message.
 
 ![image]({{site.baseurl}}/assets/img/project-images/1735-graph1.png)<br>
-*Figure 1: Flu vaccine  uptake by arm (full sample)
+*Figure 1: Flu vaccine  uptake by arm (full sample)*
 
 ![image]({{site.baseurl}}/assets/img/project-images/1735-graph2.png)<br>
-*Figure 2: Flu vaccine uptake by arm (restricted sample)
+*Figure 2: Flu vaccine uptake by arm (restricted sample)*
 
 ## What was the impact?
 
