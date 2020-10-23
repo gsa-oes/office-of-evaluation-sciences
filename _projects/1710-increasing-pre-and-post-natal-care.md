@@ -20,6 +20,8 @@ The Department of Health and Human Services (HHS) supports a wide range of evide
 
 To increase take up, a new evidence-based postcard was sent to eligible expectant mothers in Colorado. The postcard highlighted the benefits of the program, shared personal experiences from clients, and highlighted Invest in Kids (IIK) contact information for  a dedicated staff member. The postcard was created in both English and Spanish and alerted potentially eligible mothers that they would receive a phone call from a nurse to set up an appointment. The postcard  sought to create an additional communication channel to relay information on the program benefits,  increase mothers proactively reaching out to IIK, and accepting calls from IIK nurses to discuss the introduce the home visiting program.
 
+![image]({{site.baseurl}}/assets/img/project-images/1710-image.png)
+
 ## How did the evaluation work?
 
 The evidence-based postcard was tested with an individual level randomized control trial. 6,846 IIK referrals were randomly assigned to receive the business as usual outreach or the behaviorally-informed postcard prior to the standard IIK phone call. The test was fielded between July 2016 to March 2017.
