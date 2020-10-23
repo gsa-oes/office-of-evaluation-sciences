@@ -26,6 +26,8 @@ In collaboration with the St. Cloud VA Health Care System, the Office of Evaluat
 
 Veterans were randomly assigned to receive one of three postcards: a basic informational postcard, a motivation postcard, or an implementation postcard. Data from VA electronic health records were used to compare flu shot uptake and timing among the three groups between September 14, 2017, and May 1, 2018.
 
+![image]({{site.baseurl}}/assets/img/project-images/1740-graph.png)
+
 ## What was the impact?
 
 There were no significant differences among the three postcards in either uptake or timing of flu shots.
