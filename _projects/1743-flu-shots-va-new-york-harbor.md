@@ -26,6 +26,8 @@ In collaboration with the New York Harbor VA Health Care System, the Office of E
 
 Veterans were randomly assigned to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
 
+![image]({{site.baseurl}}/assets/img/project-images/1743-graph.png)
+
 ## What was the impact?
 
 There was no significant effect of the emails on either uptake or timing of flu shots.
