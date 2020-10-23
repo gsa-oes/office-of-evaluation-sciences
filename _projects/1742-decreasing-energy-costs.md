@@ -24,6 +24,8 @@ OES sent flyers with either one or five energy-saving tips to a random sample of
 
 OES randomized 2,796 apartment units to be sent no flyer, a single-tip flyer, or a multiple-tips flyer. Wireless energy monitors recorded unit-level daily energy consumption.
 
+![image]({{site.baseurl}}/assets/img/project-images/1742-graph.png)
+
 ## What was the impact?
 
 Energy use among the units that were sent any flyer (single- or multiple-tips) was 0.235 kWh per day lower than units that were not sent a flyer, but this difference was not statistically significant. Future work will build on this study to examine how informational communications can have greater impact on energy use and costs.
