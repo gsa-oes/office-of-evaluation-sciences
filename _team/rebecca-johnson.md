@@ -8,6 +8,8 @@ agency:
   - Housing and Urban Development
   - Education
   - Veterans Affairs
+  - Small Business Administration
+  - Census
 home: University
 title: Academic Affiliate
 ---
