@@ -12,9 +12,6 @@ summary: Upcoming and previous events
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a> A PDF of the training schedule is <a href="http://oes.gsa.gov/assets/files/fy21-oes-training-calendar.pdf">available here.</a>
 
 ## Upcoming Federal Workshops
-### Evaluation 101
-An introduction to evaluation as a research method: what it is, what questions it can answer, and how it can help agencies better understand their programs, policies, and operations.
-- January 19, 2021 from 9:00 to 10:30 am 
 
 ### Understanding Null Results
 Discuss and dispel misconceptions about evaluations that show no evidence of impact or provide evidence of no impact, and highlight uses for null results.
@@ -27,6 +24,10 @@ Concrete strategies and approaches that agencies can use to maximize the benefit
 ### Introduction to Quasi-Experimental Designs
 Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
 - December 8, 2020 from 10:00 am to 12:00 pm
+
+### Evaluation 101
+An introduction to evaluation as a research method: what it is, what questions it can answer, and how it can help agencies better understand their programs, policies, and operations.
+- January 19, 2021 from 9:00 to 10:30 am 
 
 ### Using Evidence to Inform Agency Priorities (Hosted by OMB Evidence Team)
 Highlight ways that agencies can use evidence to inform agency priorities, both mission and operational.
