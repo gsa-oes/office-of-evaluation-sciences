@@ -29,4 +29,4 @@ There were three basic models for distributing grants and loans. Some funds were
 
 ![image]({{site.baseurl}}/assets/img/project-images/sba-grant-image1.png)
  
-Read the full report<a href="https://oes.gsa.gov/assets/publications/sba-grant-equity-report.pdf">here.</a>
+Read the full report <a href="https://oes.gsa.gov/assets/publications/sba-grant-equity-report.pdf">here.</a>
