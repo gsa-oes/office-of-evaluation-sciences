@@ -9,7 +9,7 @@ academic-pub: https://oes.gsa.gov/assets/publications/sba-grant-equity-report.pd
 year: 2020
 domain: Economic Opportunity
 agency: Small Business Administration
-summary: Documenting approaches and challenges in ensuring accessto small business grant and loan programs.
+summary: Documenting approaches and challenges in ensuring access to small business grant and loan programs.
 ---
 ## What was the challenge?
 
