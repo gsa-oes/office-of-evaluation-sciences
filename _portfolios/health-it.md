@@ -13,4 +13,4 @@ Health information technology (“health IT”), refers to the technologies and 
 
 ## Portfolio
 
-OES collaborated with The Department of Defense (DOD), the Office of the National Coordinator for Health IT (ONC) at the US Department of Health and Human Services (HHS), and Veteran’s Health Administration (VHA)  to test interventions increasing the adoption of health IT. 
+OES collaborated with the Department of Defense (DOD), the Office of the National Coordinator for Health IT (ONC) at the US Department of Health and Human Services (HHS), and the Department of  Veterans Affairs (VA)  to test interventions increasing the adoption of health IT. 
