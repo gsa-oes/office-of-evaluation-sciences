@@ -1,7 +1,9 @@
 ---
 title: Increasing Military Patient Use of Secure Messaging through Email Reminders
 permalink: /projects/military-patient-messaging-emails/
-tags: project 
+tags: 
+  - project 
+  - healthit
 image: /assets/img/project-images/1620-2.jpg
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
 abstract: /assets/abstracts/1620-2-secure-messaging.pdf
