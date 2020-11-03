@@ -17,7 +17,7 @@ collaborations_tags:
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</center>
 </section>
-<br><br>
+<br>
 <section>
 	<center> 
 		<h4>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES / USAID partnership.</h4>
