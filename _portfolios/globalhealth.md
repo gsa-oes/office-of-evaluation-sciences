@@ -24,13 +24,6 @@ collaborations_tags:
 	<p>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership.</p></center>
 </section>
 
-<section>
-	<center>
-		<h2>How do OES and USAID Work together?</h2>
-		<img src="/assets/img/project-images/1715-partnership.gif" width="560" alt="Animated image of people working in partnership"> 
-	<p>Read more below about the specific studies that have been completed through the OES and USAID partnership.</p></center>
-</section>
-
 <h2>Portfolio:</h2>
 <p>OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidence-based insights from behavioral science to critical development challenges in Global Health.</p>
 
