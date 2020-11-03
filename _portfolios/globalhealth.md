@@ -4,7 +4,7 @@ title: Global Health
 permalink: /usaid/
 image: /assets/img/project-images/1722.jpg  
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
-summary: OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidenced-based insights from behavioral science to critical development challenges in Global Health.
+summary: OES and the U.S. Agency for International Development (USAID) have partnered to apply and evaluate evidenced-based insights from behavioral science to critical development challenges in Global Health.
 project_tags:
   - USAID
 collaborations_tags:
