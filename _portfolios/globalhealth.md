@@ -13,15 +13,16 @@ collaborations_tags:
 <br/>
 <section>
 	<center>
+		<h2>Why is the OES/USAID Partnership important?</h2>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</center>
 </section>
-
+<br><br>
 <section>
 	<center>
-		<h2>Why is the OES/USAID Partnership important?</h2>
+		<h2>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership.</h2>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/d00vuBcA1y4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	<p>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership.</p></center>
+	</center>
 </section>
 
 <h2>Portfolio:</h2>
