@@ -1,7 +1,9 @@
 ---
 title: Increasing Health Insurance Enrollment Among Uninsured Americans
 permalink: /projects/health-insurance-enrollment-1/
-tags: project
+tags: 
+  - project
+  - health insurance
 image: /assets/img/project-images/healthcare-gov.PNG
 image-credit: https://www.healthcare.gov/
 abstract: /assets/abstracts/1609-Federal-Health-Insurance-Marketplace-Enrollment-Emails.pdf
