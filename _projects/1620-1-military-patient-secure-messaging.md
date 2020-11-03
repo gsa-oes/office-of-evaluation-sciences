@@ -1,7 +1,9 @@
 ---
 title: Increasing Military Patient Use of Secure Messaging through Personal Appeal and Assistance
 permalink: /projects/military-secure-messaging/
-tags: project
+tags: 
+  - project
+  - healthit
 image: /assets/img/project-images/1620.jpg 
 image-credit: https://pixabay.com/photo-1149148/
 abstract: /assets/abstracts/1620-1_DHA Secure-messaging.pdf
