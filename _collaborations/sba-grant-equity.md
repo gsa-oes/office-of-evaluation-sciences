@@ -4,7 +4,7 @@ permalink: /othercollabs/sba-grant-equity/
 tags:
   - project 
   - Small Business Administration
-image: /assets/img/project-images/sba-loan-image.png
+image: /assets/img/project-images/othercollabs/sba-loan-image.jpg
 academic-pub: https://oes.gsa.gov/assets/publications/sba-grant-equity-report.pdf
 year: 2020
 domain: Economic Opportunity
