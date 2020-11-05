@@ -4,7 +4,7 @@ title: Vaccines
 permalink: /vaccines/
 image: /assets/img/project-images/1737.jpg
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
-summary: OES has collaborated with several federal agencies to build a portfolio of evidence regarding how low-cost insights can improve vaccination rates. 
+summary: Low-cost interventions to increase vaccination rates
 project_tags:
   - vaccines
 ---
