@@ -13,10 +13,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Understanding Null Results
-Discuss and dispel misconceptions about evaluations that show no evidence of impact or provide evidence of no impact, and highlight uses for null results.
-- November 2, 2020 from 3:00 to 4:15 pm
-
 ### Evidence and Strategic Planning (Hosted by OMB Evidence Team)
 Concrete strategies and approaches that agencies can use to maximize the benefit of evidence use in strategic planning.
 - November 18, 2020 from 3:00 to 4:30 pm
@@ -35,6 +31,10 @@ Highlight ways that agencies can use evidence to inform agency priorities, both 
 
 
 ## Past Federal Workshops
+
+### Understanding Null Results
+Discuss and dispel misconceptions about evaluations that show no evidence of impact or provide evidence of no impact, and highlight uses for null results.
+- November 2, 2020 from 3:00 to 4:15 pm
 
 ### How to Conduct Randomized Controlled Trials
 This session helped participants learn how to conduct randomized controlled trials, and addressed common challenges and misconceptions.
