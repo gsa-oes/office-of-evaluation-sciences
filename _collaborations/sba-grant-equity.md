@@ -23,6 +23,7 @@ The Coronavirus Aid, Relief, and Economic Security (CARES) Act signed on March 2
 
 The demand for COVID-relief funding for small businesses was massive. Many local governments attempted to address concerns about access for business owners from historically underserved groups, but even those with similar aims often took different approaches, given the lack of evidence to inform program design. Regardless of the program model, there were several challenges for the local officials and potential applicants. There is reason to think that some of these challenges may increase the barriers to accessing capital for members of historically underrepresented groups, in particular minorities. 
 
+![image]({{site.baseurl}}/assets/img/project-images/sba-grant-image1.png)
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/sba-comparison-program-models.pdf">See a Comparison of Program Models here.</a>
 
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/sba-process-map-challenges.pdf">See a visualization of the Challenges Related to Grant and Loan Programs here.</a>
