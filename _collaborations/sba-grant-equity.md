@@ -28,5 +28,5 @@ The demand for COVID-relief funding for small businesses was massive. Many local
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/sba-process-map-challenges.pdf">See a visualization of the Challenges Related to Grant and Loan Programs here.</a>
 
 In sum, this work showed strong demand for evidence to inform program designs which address these challenges and increase access to small business grants and loan programs for historically underserved groups. More can be done to systematically address the lack of evidence to prepare the way for future programming. Read more about this in the full report here. 
- 
-Read the full report <a href="https://oes.gsa.gov/assets/publications/sba-grant-equity-report.pdf">here.</a>
+
+<a class="usa-button" href=" https://oes.gsa.gov/assets/publications/sba-grant-equity-report.pdf">Read the full report here.</a>
