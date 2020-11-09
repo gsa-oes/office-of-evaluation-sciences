@@ -27,4 +27,4 @@ The demand for COVID-relief funding for small businesses was massive. Many local
 
 ![image]({{site.baseurl}}/assets/img/project-images/sba-grant-image1.png)
 
-In sum, this work showed strong demand for evidence to inform program designs which address these challenges and increase access to small business grants and loan programs for historically underserved groups. More can be done to systematically address the lack of evidence to prepare the way for future programming. Read more about this in the full report here. 
+In sum, this work showed strong demand for evidence to inform program designs which address these challenges and increase access to small business grants and loan programs for historically underserved groups. More can be done to systematically address the lack of evidence to prepare the way for future programming. 
