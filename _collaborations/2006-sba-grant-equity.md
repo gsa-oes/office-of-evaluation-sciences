@@ -5,7 +5,7 @@ tags:
   - project 
   - Small Business Administration
 image: /assets/img/project-images/othercollabs/sba-loan-image.jpg
-academic-pub: assets/abstracts/2006-Small Business Grant Loan Access Report-Nov2020.pdf
+academic-pub: assets/abstracts/2006-SmallBusinessGrantLoanAccessReport-Nov2020.pdf
 model: /assets/files/sba-comparison-program-models.pdf
 visualization: /assets/files/sba-process-map-challenges.pdf
 year: 2020
