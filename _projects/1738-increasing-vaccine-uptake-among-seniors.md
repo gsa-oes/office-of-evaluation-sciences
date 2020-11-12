@@ -39,3 +39,7 @@ Individuals in the control group received 8.58 percent of their four vaccination
 The increase in vaccinations in October is detectable, while increases in November and December are not.  
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf">click here</a>.</i>
+
+<i> Related Publication</i>
+<br>
+Noule Chen, Pompa Debroy, Stacy Hall, and Quan Le. <a href="http://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/infectious-epi/LMR/2011-2020/2019/marapr19.pdf#page=3">Postcards-increasing vaccination rates among elderly: U.S. Office of Evaluation Sciences and LDH Immunization Program.</a> Louisiana Morbidity Report 30 no. 2 (April 2019): 3-7.
