@@ -36,3 +36,7 @@ The phone calls did not increase ART adherence or retention. The phone calls wer
 This study demonstrated that programmatic data from HIV/AIDS programs can be used to conduct a rigorous randomized test on priority USAID outcomes during the course of a program. Such data can also measure the effect of behaviorally-informed program changes on key targeted health outcomes. In future studies, larger sample sizes may be required to detect smaller changes resulting from low-cost interventions. 
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1722-increasing-ART-adherence.pdf">click here</a>.</i>
+
+<i> Related Publication</i>
+<br>
+Aderaw Anteneh, Kelly Bidwell, Woldemariam Girma, Kristen Little, Nicholas Wilson, and Endale Workalemahu. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1761939">"Appraising praise: experimental evidence on positive framing and demand for health services."</a> Applied Economics Letters, (2020).
