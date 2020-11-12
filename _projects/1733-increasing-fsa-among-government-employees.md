@@ -9,6 +9,7 @@ abstract: /assets/abstracts/1733-project-abstract.pdf
 year: 2018
 domain: 
 status: Complete
+academic-pub: /assets/publications/1733 - Leight and Wilson_GSA FSA (1).pdf
 agency: General Services Administration
 summary: Targeted email outreach to GSA employees did not increase enrollment in Flexible Spending Accounts.
 ---
