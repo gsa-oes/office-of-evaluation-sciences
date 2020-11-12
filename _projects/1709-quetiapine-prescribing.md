@@ -38,3 +38,5 @@ Sending peer comparison letters to high volume prescribers of quetiapine reduced
 Adam Sacarny, Michael L. Barnett, and Jackson Le. <a href="https://pubmed.ncbi.nlm.nih.gov/30073273/">Effect of peer comparison letters for high-volume primary care prescribers of quetiapine in older and disabled adults: a randomized clinical trial.</a> JAMA Psychiatry 75 no. 10 (October 2018): 1003-1011.
 <br>
 Adam Sacarny, Michael L. Barnett, and Shantanu Agrawal. New Evidence on Stemming Low-Value Prescribing. NEJM Catalyst, April 10, 2019, <a href="https://catalyst.nejm.org/new-evidence-stemming-overprescribing/">catalyst.nejm.org/new-evidence-stemming-overprescribing/</a>.
+<br>
+Adam Sacarny, Andrew R. Olenski, and Michael L. Barnett. Association of Quetiapine Overuse Letters With Prescribing by Physician Peers of Targeted Recipients: A Secondary Analysis of a Randomized Clinical Trial. JAMA Psychiatry, June 4, 2019, <a href="https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441?resultClick=1">jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441</a>.
