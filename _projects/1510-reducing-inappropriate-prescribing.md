@@ -28,3 +28,9 @@ CMS identified potential improper prescribers (those who prescribed far more tha
 ## What was the impact?
 
 Using data collected over the 90 days after the letter was mailed, comparisons failed to detect an effect of the letter on Schedule II prescribing.
+
+<i> Related Publications</i>
+<br>
+Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Arawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> Health Affairs 35 no. 3 (2017): 471-479. 
+<br>
+Adam Sacarny, David Yokum, and Shantanu Agrawal. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> American Economic Review 107, no. 5, (2017): 466-470.	
