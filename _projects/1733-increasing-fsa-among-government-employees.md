@@ -6,10 +6,10 @@ image: /assets/img/project-images/1733.jpg
 image-credit:
 analysis-plan: /assets/analysis/1733-flexible-spending-accounts-gsa-analysis-plan.pdf
 abstract: /assets/abstracts/1733-project-abstract.pdf
+academic-pub: /assets/publications/1733 - Leight and Wilson_GSA FSA (1).pdf
 year: 2018
 domain: 
 status: Complete
-academic-pub: /assets/publications/1733 - Leight and Wilson_GSA FSA (1).pdf
 agency: General Services Administration
 summary: Targeted email outreach to GSA employees did not increase enrollment in Flexible Spending Accounts.
 ---
