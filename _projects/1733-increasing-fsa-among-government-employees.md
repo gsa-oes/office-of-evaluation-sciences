@@ -35,3 +35,7 @@ At no material cost, OES worked with GSA communications and human resources to d
 The probability of FSA enrollment was unchanged by the targeted communications delivered; employees who did and did not receive targeted communications both had a probability of enrolling of around 28%. Data suggests that around 50% of recipients of GSA Today opened the messages, but click-through rates for the information about FSAs were only about 1%.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1733-flexible-spending-accounts-gsa-analysis-plan.pdf">click here</a>.</i>
+
+<i> Related Publication</i>
+<br>
+Jessica Leight and Nicholas Wilson. <a href="https://ashecon.confex.com/ashecon/2019/webprogram/Paper7031.html">Framing Flexible Spending Accounts: A Large-Scale Field Experiment on Communicating the Return on Medical Savings Accounts.</a> Health Economics 29, no. 2 (2019): 195–208.
