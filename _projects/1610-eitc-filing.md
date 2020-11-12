@@ -5,6 +5,7 @@ tags: project
 image: /assets/img/project-images/eitc.jpg
 image-credit: https://www.flickr.com/photos/pulpolux/
 abstract: /assets/abstracts/1610-Tax-Filing-and-EITC-Take-up.pdf
+academic-pub: /assets/publications/1610_Reminders-and-Recidivism-Using-Administrative-Data_NBER.pdf
 year: 2016
 status: Complete
 domain: Economic Opportunity
@@ -26,3 +27,7 @@ OES identified a total sample of 360,352 eligible individuals who had not filed 
 ## What was the impact?
 
 The notices lead to an increase in the rates of individuals filing a 2013 tax return between 0.6 and 1.0 percentage points. The notices were effective at modestly increasing the rate of tax filing among the targeted population; while they did not increase the rates at which individuals claimed the EITC, they did increase the amount of EITC dollars paid to individuals that received a postcard.
+
+<i> Related Publication</i>
+<br>
+John Guyton, Dayanand S. Manoli, Brenda Scafer, and Michael Sebastiani. “Reminders & recidivism: evidence from tax filing & EITC participation among low-income nonfilers,” National Bureau of Economic Research, Inc. NBER Working Paper no. 21904, (2016).
