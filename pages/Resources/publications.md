@@ -25,6 +25,9 @@ Adam Sacarny, Andrew R. Olenski, and Michael L. Barnett. Association of Quetiapi
 Adam Sacarny, Michael L. Barnett, and Shantanu Agrawal. New Evidence on Stemming Low-Value Prescribing. NEJM Catalyst, April 10, 2019, <a href="https://catalyst.nejm.org/new-evidence-stemming-overprescribing/">catalyst.nejm.org/new-evidence-stemming-overprescribing/</a>.
 - This article examines the effect that different types of messaging  can have on reducing overprescribing.
 
+Jessica Leight and Nicholas Wilson. <a href="https://ashecon.confex.com/ashecon/2019/webprogram/Paper7031.html">Framing Flexible Spending Accounts: A Large-Scale Field Experiment on Communicating the Return on Medical Savings Accounts.</a> Health Economics 29, no. 2 (2019): 195–208.
+-This paper seeks to address this gap in the literature, reporting on a randomized controlled field experiment conducted with over 11,000 U.S federal employees in 2017 in order to evaluate the effectiveness of targeted messages designed to increase FSA contributions. Our results suggest that the provision of basic information about FSAs delivered via an emailed employee newsletter did not affect the likelihood of contribution or the contribution level.
+
 Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa/article/view/55">Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial.</a> Journal of Behavioral Public Administration 2, no. 2 (2019).
 - This paper reports on the results of a randomized controlled trial in which researchers collaborated with a department of health in a mid-size city to evaluate the effectiveness of targeted communications highlighting descriptive social norms to increase immunization compliance across 700 schools.
 
@@ -33,7 +36,7 @@ Noule Chen, Pompa Debroy, Stacy Hall, and Quan Le. <a href="http://ldh.la.gov/as
 
 
 ## 2018
-Adam Sacarny, Michael L. Barnett, and Jackson Le. <a href="https://pubmed.ncbi.nlm.nih.gov/30073273/">Effect of peer comparison letters for high-volume primary care prescribers of quetiapine in older and disabled adults: a randomized clinical trial.</a> JAMA Psychiatry 75 no. 10 (October 2018): 1003-1011.	
+Adam Sacarny, Michael L. Barnett, and Jackson Le. <a href="https://pubmed.ncbi.nlm.nih.gov/30073273/">Effect of peer comparison letters for high-volume primary care prescribers of quetiapine in older and disabled adults: a randomized clinical trial.</a> JAMA Psychiatry 75 no. 10 (October 2018): 1003-1011.
 - In this randomized clinical trial, a peer comparison letter randomized across the 5055 highest Medicare prescribers of the antipsychotic quetiapine fumarate reduced prescribing for at least 2 years. Effects were larger than those observed in existing large-scale behavioral interventions, potentially because of the content of the peer comparison letter, which mentioned the potential for a review of prescribing activity.
 
 David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry. Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries. Nature Human Behaviour 2 (2018): 743–749.
