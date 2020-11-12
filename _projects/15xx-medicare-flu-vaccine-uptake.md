@@ -8,6 +8,7 @@ image: /assets/img/project-images/15xx.jpg
 image-credit: https://www.cdc.gov/flu/pdf/freeresources/seniors/seniors-vaccination-factsheet-final.pdf
 analysis-plan: 
 abstract: /assets/abstracts/15xx-medicare-flu-vaccine-uptake-abstract.pdf
+academic-pub: /assets/publications/15xx - Yokum et al (2018) - Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries.pdf
 year: 2015  
 status: Complete
 domain: Health
@@ -29,3 +30,7 @@ We randomly sampled 228,000 Medicare fee-for-service beneficiaries 66 and older 
 ## What was the impact?
 
 Receiving any of the four letters increased flu vaccination uptake by 0.59 percentage points, from 25.9% in the control group to 26.5% in the treatment group. The increase is equivalent to 673 additional Medicare beneficiaries receiving their flu vaccination.
+
+<i> Related Publication</i>
+<br>
+David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry. Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries. Nature Human Behaviour 2 (2018): 743–749.
