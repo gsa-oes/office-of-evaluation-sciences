@@ -40,12 +40,12 @@ class: page-project-single
     <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
   {% endif %}
     <br><br>
-  {% if page.intervention %}
-  <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}">View Intervention Pack</a>
-{% endif %}
-    <br><br>
   {% if page.academic-pub %}
   <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}">View Publication</a>
+{% endif %}
+        <br><br>
+  {% if page.intervention %}
+  <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}">View Intervention Pack</a>
 {% endif %}
   </div>
 </div>
