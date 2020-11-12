@@ -32,3 +32,9 @@ CPI and OES randomly assigned high volume prescribers (N = 5,055) to get a treat
 ## What was the impact?
 
 Sending peer comparison letters to high volume prescribers of quetiapine reduced prescribing, and did so without any detectable adverse impacts.
+
+<i> Related Publications</i>
+<br>
+Adam Sacarny, Michael L. Barnett, and Jackson Le. <a href="https://pubmed.ncbi.nlm.nih.gov/30073273/">Effect of peer comparison letters for high-volume primary care prescribers of quetiapine in older and disabled adults: a randomized clinical trial.</a> JAMA Psychiatry 75 no. 10 (October 2018): 1003-1011.
+<br>
+Adam Sacarny, Michael L. Barnett, and Shantanu Agrawal. New Evidence on Stemming Low-Value Prescribing. NEJM Catalyst, April 10, 2019, <a href="https://catalyst.nejm.org/new-evidence-stemming-overprescribing/">catalyst.nejm.org/new-evidence-stemming-overprescribing/</a>.
