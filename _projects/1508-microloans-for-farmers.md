@@ -31,3 +31,4 @@ The letters more than doubled the amount of microloan-related activity in FSA co
 <i> Related Publication</i>
 <br>
 U.S. Department of Agriculture. Economic Research Service. USDA Microloans for Farmers: Participation Patterns and Effects of Outreach, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. <a href="https://www.ers.usda.gov/publications/pub-details/?pubid=81870">ers.usda.gov/publications/pub-details/?pubid=81870</a>.	
+Jake Bowers, Nathaniel Higgins, Dean Karlan, Sarah Tulman, and Jonathan Zinman. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171060">Challenges to replication and iteration in field experiments: evidence from two direct mail shots,</a> American Economic Review 107, no. 5: (2017): 462-465. 	
