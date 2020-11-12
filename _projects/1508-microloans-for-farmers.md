@@ -28,4 +28,6 @@ FSA mailed the new letter to a sampling of farmers in randomly- selected zip cod
 
 The letters more than doubled the amount of microloan-related activity in FSA county offices, and increased the number of successful applicant from approximately .09% percent to .11% percent.
 
-
+<i> Related Publication</i>
+<br>
+U.S. Department of Agriculture. Economic Research Service. USDA Microloans for Farmers: Participation Patterns and Effects of Outreach, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. <a href="https://www.ers.usda.gov/publications/pub-details/?pubid=81870">ers.usda.gov/publications/pub-details/?pubid=81870</a>.	
