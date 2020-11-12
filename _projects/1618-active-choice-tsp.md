@@ -29,3 +29,7 @@ OES ran two pilots at large Army installations — Fort Bragg and Fort Lewis —
 ## What was the impact?
 
 During the five-week period including the pilot at both bases, the enrollment rate was 10.47% at Fort Bragg and 8.39% at Fort Lewis, compared to a maximum of 1.86% at the other three bases.
+
+<i> Related Publication</i>
+<br>
+Jacob Goldin, Tatiana Homonoff, and William Tucker-Ray. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171059">Retirement contribution rate nudges and plan participation: evidence from a field experiment,</a> American Economic Review 107, no. 5 (2017): 456-461.
