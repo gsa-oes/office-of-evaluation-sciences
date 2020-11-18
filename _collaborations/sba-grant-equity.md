@@ -8,7 +8,7 @@ image: /assets/img/project-images/othercollabs/sba-loan-image.jpg
 academic-pub: /assets/abstracts/2006-smallbusinessaccessreport-nov2020.pdf
 model: /assets/files/sba-comparison-program-models.pdf
 visualization: /assets/files/sba-process-map-challenges.pdf
-year: 2020
+year: 2021
 domain: Economic Opportunity
 agency: Small Business Administration
 summary: Documenting approaches and challenges in ensuring access to small business grant and loan programs during COVID-19.
