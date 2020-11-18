@@ -3,7 +3,7 @@ title:  Increasing requests for wildfire risk assessments
 permalink: /projects/wildfire-risk-assessments/
 tags: project  
 image: /assets/img/project-images/1903.jpg  
-image-credit: USDA NRCS Montana
+image-credit: https://www.flickr.com/photos/160831427@N06/46168230601/in/photolist-2dkJftT
 analysis-plan: /assets/analysis/1903-analysis-plan-MT-wildfire.pdf
 abstract: /assets/abstracts/1903-MT-wildfire-abstract.pdf
 intervention: /assets/interventions/1903-intervention-pack.pdf
