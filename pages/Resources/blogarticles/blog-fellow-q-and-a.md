@@ -32,4 +32,6 @@ Heather: I’ve been interested for a long time in doing research that’s relev
 - **Heather**: I’m really excited about work we are doing on <a href="https://oes.gsa.gov/othercollabs/sba-grant-equity/">equity in allocating federal funds (e.g., during the COVID pandemic)</a>. I’m also enthusiastic about possible work on financial education (which was an interest of mine before joining OES) and on <a href="https://oes.gsa.gov/projects/improving-reentry/">post-prison programs</a>. I’m trying not to get TOO excited about any individual project, since a lot of projects are still in development. 
 - **Mattie**: Several! I've enjoyed scoping out new opportunities as well as building on existing OES projects in the health policy space, for instance on <a href="https://oes.gsa.gov/vaccines/">evaluations around vaccination uptake</a> and <a href="https://oes.gsa.gov/prescriber-decision-making/">off-guideline prescribing</a>. Recently, I've also become interested in learning more about how decision makers in government interpret and utilize evidence, and interventions that might improve this process. 
 
-*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps/">Opportunities</a> page. The deadline to apply for Fall 2021 fellowships is December 13, 2020.*
+*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps/">Opportunities</a> page. 
+<br/>
+The deadline to apply for Fall 2021 fellowships is December 13, 2020.*
