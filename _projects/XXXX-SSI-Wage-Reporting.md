@@ -1,5 +1,5 @@
 ---
-title:  Timely Wage Reporting Among SSI Recipients
+title:  Encouraging SSI Recipients to Self-Report Wage Changes
 permalink: /projects/ssi-wage-reporting/
 tags: 
   - complete
@@ -12,12 +12,12 @@ year: 2019
 domain: Government Efficiency
 status: Complete
 agency: Social Security Administration
-summary: A reminder encouraged SSI recipients to self-report changes in wages earlier, potentially reducing overpayment.
+summary: A reminder encouraged SSI recipients to self-report changes in earnings earlier, potentially reducing overpayment.
 featured: homepage
 ---
 ## What was the challenge?
 
-Under the Supplemental Security Income (SSI) program, **recipients are required to report to SSA any changes in circumstances, including a change in income, that could affect their eligibility** in the program or the amount of their monthly payment. In order to reduce improper payments, SSA aimed to encourage more accurate and timely reporting of changes in wages among SSI recipients.
+Under the Supplemental Security Income (SSI) program, **recipients are required to report to SSA any changes in circumstances, including a change in earnings, that could affect their eligibility** in the program or the amount of their monthly payment. In order to reduce improper payments, SSA aimed to encourage more accurate and timely reporting of changes in earnings among SSI recipients.
 
 ## What was the program change?
 
@@ -31,6 +31,6 @@ SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years 
 
 ## What was the impact?
 
-Three months after the intervention, **SSI recipients who received any letter were 34 percent  more likely to have reported any earnings for the previous three months, and they reported about 75 percent more in earnings.** Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.
+Three months after the intervention, **SSI recipients who received any letter were 34 percent more likely to have reported any earnings for the previous three months, and they reported about 55 percent more in countable income.** Based on the increase in the amount of countable income reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $5.91 per $1 spent by SSA.
 
 ![image]({{site.baseurl}}/assets/img/project-images/graph-ssiwage.png)
