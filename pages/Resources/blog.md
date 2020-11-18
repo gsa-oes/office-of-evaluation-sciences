@@ -8,6 +8,13 @@ class:
 summary: Our team posts updates on our collaborations, resources and evidence utilization
 ---
 
+<h2><a href="https://oes.gsa.gov/blog/2020-fellows/">Q&A with the 2020 OES Fellows</a></h2>
+![image]({{site.baseurl}}/assets/img/oes-header-evidence.png)
+The OES team had the pleasure of bringing on <a href="https://oes.gsa.gov/team/">seven new fellows in 2020</a> from various disciplines - including cost effectiveness, quantitative methods, economics, public administration, marketing, human-centered design, and psychology - to work on different project teams supporting agencies to build and use evidence. 
+ 
+As we approach nearly nine months into the COVID-19 pandemic here in Washington D.C., we recognize that this is our first cohort of fellows working with the team entirely remotely. We asked a few of our fellows to reflect on their experiences working with the team this year.
+  <a href="/blog/2020-fellows/">Read more.</a>
+
 <h2><a href="https://oes.gsa.gov/blog/doj-collaborations/">Department of Justice collaborations have new relevance in 2020</a></h2>
 ![image]({{site.baseurl}}/assets/img/project-images/Federal_Prison.jpg)
 In 2016, <a href="https://oes.gsa.gov/projects/improving-reentry/">OES contributed to work by the Bureau of Prisons (BOP)</a> to design a re-entry handbook outlining these and other concrete steps to assist individuals with their transition. The <a href="https://oes.gsa.gov/assets/abstracts/1619-reentry-handbook.pdf">handbook</a> has three checklists of discrete steps to take at three different points in time: immediately before release, within one week of returning home, and within one month of returning home.
