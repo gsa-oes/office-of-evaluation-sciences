@@ -8,7 +8,7 @@ class:
 summary: Our team posts updates on our collaborations, resources and evidence utilization
 ---
 
-<h2><a href="https://oes.gsa.gov/blog/2020-fellows/">Q&A with the 2020 OES Fellows</a></h2>
+<h2><a href="https://oes.gsa.gov/blog/2020-fellows/">A discussion with OES fellows</a></h2>
 ![image]({{site.baseurl}}/assets/img/oes-header-crop.png)
 The OES team had the pleasure of bringing on <a href="https://oes.gsa.gov/team/">seven new fellows in 2020</a> from various disciplines - including cost effectiveness, quantitative methods, economics, public administration, marketing, human-centered design, and psychology - to work on different project teams supporting agencies to build and use evidence. 
  
