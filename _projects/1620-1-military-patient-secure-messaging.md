@@ -25,6 +25,8 @@ The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and 
 
 Patient registration for secure messaging at the NMCCL Family Medicine Clinic was compared to registration at seven other, demographically similar military treatment facilities selected by DHA over six and a half months.
 
+![image]({{site.baseurl}}/assets/img/project-images/1620-1-graph.png)
+
 ## What was the impact?
 
 We estimate that the intervention was associated with an additional 224 patients registering in the secure messaging system per month, compared to a background growth in registrations of 48 per month across all of the sites — a greater than five-fold increase in the rate at which registrations grew.
