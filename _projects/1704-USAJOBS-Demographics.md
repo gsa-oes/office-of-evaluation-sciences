@@ -23,6 +23,8 @@ OPM and OES implemented two main structural changes to USAJOBS: 1) applicants we
 
 Roughly 2.6 million applicants were randomly assigned to one of four variants: V1- No change (Control), V2- Voluntary opt-out of demographics submission, V3- Voluntary opt-in + simplified language, and V4- Voluntary opt-out + simplified language.
 
+![image]({{site.baseurl}}/assets/img/project-images/1704-graph.png)
+
 ## What was the impact?
 
 Variants that allowed applicants to voluntarily opt-out of providing demographics were most effective in increasing the submission of demographic information. Additionally, providing simplified language on how this information was used in V4 proved most effective. On average, users in V1 submitted demographics with 59.3% of their applications: this number was 9.4 percentage points higher for the average applicant in V2, and 11.3 percentage points higher for the average applicant in V4.
