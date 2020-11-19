@@ -25,6 +25,8 @@ In the summer after their first year of school, the U.S. Department of Education
 
 The U.S. Department of Education identified a pool of student borrowers who were at risk of withdrawing from school prior to completing their course of study. From the pool of at-risk students, approximately 195,000 borrowers were randomly selected to be emailed in July, 2015 --- the summer after their first academic year. An additional 50,000 borrowers were randomly selected into a control group and were not emailed. Differences in enrollment rates were compared for the spring 2016 and fall 2016 academic terms.
 
+![image]({{site.baseurl}}/assets/img/project-images/1706-graph.png)
+
 ## What was the impact?
 
 Borrowers who were emailed were 1.0 percentage point less likely to be enrolled the following spring semester (37.5 percent) than those who were not emailed (38.5 percent). The results persisted through the fall 2016 semester, with borrowers who were emailed 0.9 percentage points less likely to be enrolled (31.3 percent compared to 30.3 percent). This could mean that reminding borrowers of financial aid and loan repayment decisions prompted them to review their decision to return to school. Given that the borrowers included in the study were at risk to withdraw, it is possible some made the decision not to return to school earlier than they otherwise would have.
