@@ -24,6 +24,8 @@ Research is emerging to demonstrate that priming a growth mindset, or the belief
 
 Approximately 300 federal managers at the Departments of Labor and Energy were emailed materials on a bi-weekly basis. OES paired together managers with the same gender, GS-level, employee characteristics, and employee-assessment baseline score created from  14  assessment questions asked of their employees in the baseline. One manager in each pair was randomly assigned to receive the growth mindset materials. 
 
+![image]({{site.baseurl}}/assets/img/project-images/1702-graph.png)
+
 ## What was the impact?
 
 The Growth Mindset tools did not have any detectable effect on employee or self-assessments, although the effects are imprecisely measured due to employee and manager survey response rates. As this is a no-cost intervention, and seems promising from the private sector, PIC and OES are continuing to explore ways to adapt the intervention and conduct a more rigorous evaluation.
