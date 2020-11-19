@@ -26,6 +26,8 @@ The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and 
 
 Patients of roughly half of the providers in the NMCCL Family Medicine Clinic, who were assigned at random to a treatment condition, received follow-up emails. Patients of the remaining providers (the control condition) received no follow-up emails.  We compared the numbers of patients in each group who registered for secure messaging. 
 
+![image]({{site.baseurl}}/assets/img/project-images/1620-2-graph.png)
+
 ## What was the impact?
 
 Although we earlier found that in-person encouragement and assistance was associated with increases in patient registration, we found no evidence of additional increases in secure messaging registration due to follow-up emails.
