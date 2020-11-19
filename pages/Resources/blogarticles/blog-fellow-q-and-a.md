@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: Q&A with the 2020 OES Fellows
+title: A discussion with OES fellows
 permalink: /blog/2020-fellows/	
 image: /assets/img/oes-header-crop.png
 class:	
@@ -12,8 +12,6 @@ The OES team had the pleasure of bringing on <a href="https://oes.gsa.gov/team/"
 As we approach nearly nine months into the COVID-19 pandemic here in Washington D.C., we recognize that this is our first cohort of fellows working with the team entirely remotely. We asked a few of our fellows to reflect on their experiences working with the team this year.
 
 ### Why did you join OES?
-- **Elizabeth**: As a professor, your incentives are to publish, regardless of whether the work you’re doing is impacting policy. This fellowship provides the opportunity to use academic expertise to generate actionable evidence for policymakers, while at the same time publishing academic articles, and improving government effectiveness.
-
 - **Erin**: The nation wide reach of OES projects has tremendous potential. In particular, building on the foundation laid by the 2018 Evidence Act to shape and deliver on learning agendas across many different government agencies is a unique and momentous opportunity.
 
 - **Heather**: I’ve been interested for a long time in doing research that’s relevant to public policy, but that can be pretty abstract when you’re sitting in a university. The OES Fellowship seemed like a great way to do that kind of work hands-on, and I’m learning a lot that will shape the research and teaching I do after I go back to my university job. Also, after 8 years at the same institution working on a specific set of projects, it’s been really energizing to dive into a fresh set of challenges with a new batch of collaborators.
