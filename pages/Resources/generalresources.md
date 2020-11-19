@@ -26,9 +26,9 @@ Responding to the COVID-19 epidemic has made it more important than ever for the
 
 ## Effective Strategies to Encourage COVID-19 Prevention Behaviors
 This quick turnaround effort shares insights on what works to promote healthy behaviors, as relevant in the effort to combat COVID-19. These insights come from previous research on decision making and behavior change in other contexts, and more recent evaluations in the specific context of the COVID-19 crisis. The document includes relevant evidence on the message and the format. 
-
 <br/>
 <a href="{{ '/assets/files/OES_Encouraging_COVID-19_Prevention_Behaviors.pdf' | prepend: site.baseurl }}">Encouraging COVID-19 Prevention Behaviors</a>
+<br><br>
 
 
 
