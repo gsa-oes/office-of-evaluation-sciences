@@ -25,7 +25,7 @@ Responding to the COVID-19 epidemic has made it more important than ever for the
 <br><br>
 Relatedly, our team put together a rapid effort to share insights on what works to promote healthy behaviors, and may be useful in the effort to combat COVID-19. These insights come from previous research on decision-making and behavior change in other contexts, and more recent evaluations in the context of the COVID-19 crisis. The document includes relevant evidence on the message and the format of potential communications efforts. 
 <br/>
-<a href="{{ '/assets/OES_Encouraging_COVID-19_Prevention_Behaviors.pdf' | prepend: site.baseurl }}">Encouraging COVID-19 Prevention Behaviors</a>
+<a href="{{ '/assets/files/OES_Encouraging_COVID-19_Prevention_Behaviors.pdf' | prepend: site.baseurl }}">Encouraging COVID-19 Prevention Behaviors</a>
 
 
 
