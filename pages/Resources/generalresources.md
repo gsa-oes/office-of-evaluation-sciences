@@ -22,6 +22,12 @@ The United States government sends hundreds of millions of letters and emails to
 Responding to the COVID-19 epidemic has made it more important than ever for the government to design effective health communications. Here’s what these collaborations have revealed about how to design more effective health communications:
 <br>
 <a href="{{ '/assets/files/oes-health-communications.pdf' | prepend: site.baseurl }}">Health Communications Tips</a>
+<br>
+Relatedly, our team put together a rapid effort to share insights on what works to promote healthy behaviors, and may be useful in the effort to combat COVID-19. These insights come from previous research on decision-making and behavior change in other contexts, and more recent evaluations in the context of the COVID-19 crisis. The document includes relevant evidence on the message and the format of potential communications efforts. 
+<br/>
+<a href="{{ '/assets/abstracts/OES_Encouraging_COVID-19_Prevention_Behaviors.pdf' | prepend: site.baseurl }}">Encouraging COVID-19 Prevention Behaviors</a>
+
+
 
 
 
