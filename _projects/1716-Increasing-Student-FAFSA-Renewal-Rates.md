@@ -21,9 +21,13 @@ Many students fail to submit a renewal FAFSA each year, potentially missing out 
 
 The office of Federal Student Aid sent several versions of emails to students who had filed a FAFSA the previous year, encouraging them to submit a renewal FAFSA for the upcoming academic year.
 
+![image]({{site.baseurl}}/assets/img/project-images/1716-graph-1.png)
+
 ## How did the evaluation work?
 
 Students were segmented into groups based on dependency status and Federal Pell Grant eligibility. Students in each group were randomly assigned to receive different versions of emails targeted to their specific group. The most effective emails were then sent to the remainder of students over a period of several weeks. The timing of the emails was essentially random, which created an experiment over that time period.
+
+![image]({{site.baseurl}}/assets/img/project-images/1716-graph-1.png)
 
 ## What was the impact?
 
