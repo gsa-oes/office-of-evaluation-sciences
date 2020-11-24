@@ -19,3 +19,14 @@ scripts:
 filter_button_title: Filter the blog listing
 filter_button_message: By year completed, domain, and agency collaborator
 --
+
+{% include filter.html items=site.blog filters=page.filters %}
+<div class="margin-top-4">
+  <div class="grid-row grid-gap">
+    {% assign sorted_blog = site.blog | sort:"year" | reverse %}
+    {% for project in sorted_blog %}
+      {% include project-card.html %}
+    {% endfor %}
+  </div>
+</div>
+
