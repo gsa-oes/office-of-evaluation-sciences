@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Other Collaborations
-permalink: /collaborations/
+title: Blog
+permalink: /blog/
 image:
-summary: OES supports agencies on a variety of pressing implementation challenges. 
+summary: Our team posts regular updates on our collaborations, resources and evidence utilization. 
 
 
 filters:
@@ -21,8 +21,6 @@ scripts:
 filter_button_title: Filter the collaboration listing
 filter_button_message: By year completed, domain, and agency collaborator
 ---
-
-<p>In addition to supporting agencies in conducting evaluations, OES has provided support to agency partners in developing resources and answering key questions. </p>
 
 {% include filter.html items=site.collaborations filters=page.filters %}
 <div class="margin-top-4">
