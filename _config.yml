@@ -42,6 +42,11 @@ defaults:
       layout: collaboration-single
   - scope:
       path: ''
+      type: blog
+    values:
+      layout: blog-single
+  - scope:
+      path: ''
       type: portfolios
     values:
       layout: portfolio
@@ -77,6 +82,9 @@ forms:
       name: fbzx
       value: -7861934959779167198
 
+# jekyll plugins
+plugins:
+  - jekyll-paginate
 
 # Build settings
 include:
