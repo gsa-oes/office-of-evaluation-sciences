@@ -9,8 +9,8 @@ summary: Our team posts regular updates on our collaborations, resources and evi
 filters:
   - key: year
     title: Year Completed
-  - key: domain
-    title: Domain
+  - key: tag
+    title: Tags
   - key: agency
     title: Agency Collaborator
     multiple: true
