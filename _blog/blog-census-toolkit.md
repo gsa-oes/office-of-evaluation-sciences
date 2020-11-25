@@ -3,6 +3,8 @@ layout: page
 title: Census Community Outreach Toolkit targets various outreach barriers	
 permalink: /blog/census-toolkit/	
 image: /assets/img/project-images/census.jpg	
+tags: blog
+year: 2020
 image_full: 	
 class:	
 summary: 	
@@ -29,4 +31,4 @@ To help overcome these barriers, the Toolkit then provides useful evidence-based
 
 We hope the Community Outreach Toolkit can provide tangible tips and guidance for anyone working to ensure an accurate count in 2020! To learn more about the 2020 Census, please visit <a href="https://2020census.gov/">2020census.gov</a>. 	
 
-Read the full toolkit <a href="https://oes.gsa.gov/assets/publications/census-community-outreach-toolkit.pdf">here</a>.
+Read the full toolkit <a href="https://www.census.gov/partners/toolkit.pdf">here</a>.

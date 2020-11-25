@@ -1,41 +1,16 @@
 ---
 layout: page
-title: OES Blog
+title: Blog
 permalink: /blog/
 image:
-image_full: 
-class:
-summary: Our team posts updates on our collaborations, resources and evidence utilization
+summary: Our team posts regular updates on our collaborations, resources and evidence utilization. 
 ---
 
-<h2><a href="https://oes.gsa.gov/blog/2020-fellows/">A discussion with OES fellows</a></h2>
-![image]({{site.baseurl}}/assets/img/oes-header-crop.png)
-The OES team had the pleasure of bringing on <a href="https://oes.gsa.gov/team/">seven new fellows in 2020</a> from various disciplines - including cost effectiveness, quantitative methods, economics, public administration, marketing, human-centered design, and psychology - to work on different project teams supporting agencies to build and use evidence. 
- 
-As we approach nearly nine months into the COVID-19 pandemic here in Washington D.C., we recognize that this is our first cohort of fellows working with the team entirely remotely. We asked a few of our fellows to reflect on their experiences working with the team this year.
-  <a href="/blog/2020-fellows/">Read more.</a>
-
-<h2><a href="https://oes.gsa.gov/blog/doj-collaborations/">Department of Justice collaborations have new relevance in 2020</a></h2>
-![image]({{site.baseurl}}/assets/img/project-images/Federal_Prison.jpg)
-In 2016, <a href="https://oes.gsa.gov/projects/improving-reentry/">OES contributed to work by the Bureau of Prisons (BOP)</a> to design a re-entry handbook outlining these and other concrete steps to assist individuals with their transition. The <a href="https://oes.gsa.gov/assets/abstracts/1619-reentry-handbook.pdf">handbook</a> has three checklists of discrete steps to take at three different points in time: immediately before release, within one week of returning home, and within one month of returning home.
-  <a href="/blog/doj-collaborations/">Read more.</a>
-
-<h2><a href="/blog/census-toolkit/">Census Community Outreach Toolkit targets various outreach barriers</a></h2>
-![image]({{site.baseurl}}/assets/img/project-images/census-crop.png)
-In 2017, OES developed the <a href="{{site.baseurl}}/othercollabs/census-community-outreach-toolkit"> Community Outreach Toolkit</a> with the U.S. Census Bureau’s <a href="https://opportunity.census.gov/coil/">Center for Open Innovation Lab (COIL)</a> team in an effort to summarize behavioral insights that could be employed to increase completion of the 2020 Decennial. This Toolkit is meant to support the extensive network of external partners’ Census communication and outreach efforts.
-  <a href="/blog/census-toolkit/">Read more.</a>
-
-<h2><a href="https://oes.gsa.gov/blog/health-it-technology/">Using evidence to encourage patients’ and providers’ to engage in health information technology</a></h2>
-![image]({{site.baseurl}}/assets/img/project-images/1729.jpg)
-In collaboration with the Department of Health and Human Services Office of the National Coordinator for Health Information Technology and Inova Health Systems, OES applied behavioral insights to develop two interventions to increase the use of patient-generated health data among patients with diabetes. The impacts of these interventions were then evaluated using data from the electronic health record. 
-<a href="https://oes.gsa.gov/blog/health-it-technology/">Read more.</a> 
-
-
-<h2><a href="https://oes.gsa.gov/blog/gi-bill-communication/">Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans</a></h2>
-![image]({{site.baseurl}}/assets/img/project-images/1810.jpg)
-OES and the Veterans Benefits Administration in the Department of Veterans Affairs developed and <a href="https://oes.gsa.gov/projects/gi-bill-proactive-communication/">tested a proactive communication</a> to increase college enrollment for Post-9/11 GI Bill beneficiaries. This communication encouraged beneficiaries to enroll full-time and increase their enrollment intensity. It also provided information on accessing financial aid, and connected delays in degree completion with potential monetary impacts. <a href="https://oes.gsa.gov/blog/gi-bill-communication/">Read more.</a>
-
-
-<h2><a href="https://oes.gsa.gov/blog/wage-reporting/">Using evidence to improve government efficiency through timely wage reporting</a></h2>
-![image]({{site.baseurl}}/assets/img/project-images/xxxx-ssi-wage-reporting.jpg)
-OES and the Social Security Administration (SSA) worked together to address improper payments <a href="https://oes.gsa.gov/projects/ssi-wage-reporting/">by developing and testing reminder notices</a> to Supplemental Security Income (SSI) recipients in order to increase timely wage reporting. Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters **generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.** <a href="https://oes.gsa.gov/blog/wage-reporting/">Read more.</a>
+<div class="margin-top-4">
+  <div class="grid-row grid-gap">
+    {% assign sorted_blog = site.blog | sort:"year" | reverse %}
+    {% for project in sorted_blog %}
+      {% include project-card.html %}
+    {% endfor %}
+  </div>
+</div>
