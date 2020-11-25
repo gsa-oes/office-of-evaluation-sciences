@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 image:
-summary: Our team posts regular updates on our collaborations, resources and evidence utilization. 
+summary: Our team posts updates on our collaborations, resources and evidence utilization. 
 ---
 
 <div class="margin-top-4">
