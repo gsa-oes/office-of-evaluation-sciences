@@ -9,7 +9,7 @@ summary: Upcoming and previous events
 ---
 
 ## What is the impact of applying behavioral insights in government? 
-### Discussion of positive findings from a recent large-scale review
+## Discussion of positive findings from a recent large-scale review
 Join OES in a discussion of the impact of behavioral insights in government. UC Berkeley’s Elizabeth Linos will present their findings from a massive review of behavioral interventions in federal and local government. Members of the Office of Evaluation Sciences and the Behavioral Insights Team, along with federal experts, will share reactions and offer thoughts on next steps. 
 
 The recent paper “RCTs to Scale: Comprehensive Evidence from Two Nudge Units” analyzes how effective behaviorally informed interventions were in 126 trials across many policy areas and involving 24 million people. The researchers found an overall effect of these interventions to be statistically significant and positive at 1.4 percentage points, which translates to a relative increase of 8.1% on priority program and policy outcomes.  Notably, 87% of the OES interventions analyzed were of no marginal cost or low cost, suggesting  that applying behavioral insights can be very cost effective. 
