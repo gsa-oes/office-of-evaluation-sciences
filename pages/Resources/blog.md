@@ -8,7 +8,7 @@ summary: Our team posts regular updates on our collaborations, resources and evi
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
-    {% assign sorted_blog = site.blog}
+    {% assign sorted_blog = site.blog | sort:"year" | reverse %}
     {% for project in sorted_blog %}
       {% include project-card.html %}
     {% endfor %}
