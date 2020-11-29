@@ -1,5 +1,5 @@
 ---
-title:  Increasing requests for wildfire risk assessments
+title:  Increasing Requests for Wildfire Risk Assessments
 permalink: /projects/wildfire-risk-assessments/
 tags: project  
 image: /assets/img/project-images/1903.jpg  
