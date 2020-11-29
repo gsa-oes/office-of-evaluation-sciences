@@ -18,13 +18,9 @@ In addition to discussing the findings in detail, the conversation will underlin
 - Friday, December 18 from 12:00-1:00PM EST via Zoom. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd77_FWmvQwsoZkkEYM1pVAWRDet-KNSGMsyIUc1y9gVDoMrA/viewform">RSVP here</a>.
 
 # Evaluation and Evidence Training Series
-This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a> A PDF of the training schedule is <a href="http://oes.gsa.gov/assets/files/fy21-oes-training-calendar.pdf">available here.</a>
+This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe">MAX.gov site.</a> A PDF of the FY2021 training schedule is <a href="http://oes.gsa.gov/assets/files/fy21-oes-training-calendar.pdf">available here.</a>
 
 ## Upcoming Federal Workshops
-
-### Evidence and Strategic Planning (Hosted by OMB Evidence Team)
-Concrete strategies and approaches that agencies can use to maximize the benefit of evidence use in strategic planning.
-- November 18, 2020 from 3:00 to 4:30 pm
 
 ### Introduction to Quasi-Experimental Designs
 Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
@@ -37,7 +33,6 @@ An introduction to evaluation as a research method: what it is, what questions i
 ### Using Evidence to Inform Agency Priorities (Hosted by OMB Evidence Team)
 Highlight ways that agencies can use evidence to inform agency priorities, both mission and operational.
 - January 27, 2021 from 3:00 to 4:30 pm
-
 
 ## Past Federal Workshops
 
