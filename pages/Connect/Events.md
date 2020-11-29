@@ -34,6 +34,10 @@ An introduction to evaluation as a research method: what it is, what questions i
 Highlight ways that agencies can use evidence to inform agency priorities, both mission and operational.
 - January 27, 2021 from 3:00 to 4:30 pm
 
+### Building Logic Models for Evaluation
+Hands-on practice in developing and using a logic model to inform evaluation activities. 
+- February 18, 2021 - Time TBD
+
 ## Past Federal Workshops
 
 ### Understanding Null Results
