@@ -2,7 +2,7 @@
 
 @mixin nav-border {
   &:after {
-    background-color: color($oem-blue);
+    background-color: color($color-brand);
     height: units(0.5);
     bottom: units(-0.5);
   }
@@ -17,7 +17,7 @@
 
   a {
     &.usa-current:after {
-      background-color: color($oem-blue);
+      background-color: color($color-brand);
     }
   }
 }
