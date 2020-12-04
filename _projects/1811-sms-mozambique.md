@@ -5,7 +5,6 @@ tags:
   - project 
   - USAID
   - ongoing
-  - healthit
 image: /assets/img/project-images/1811.jpg
 image-credit: 
 analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
