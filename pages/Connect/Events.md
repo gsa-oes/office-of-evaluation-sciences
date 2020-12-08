@@ -24,10 +24,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Introduction to Quasi-Experimental Designs
-Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
-- December 8, 2020 from 10:00 am to 12:00 pm
-
 ### Evaluation 101
 An introduction to evaluation as a research method: what it is, what questions it can answer, and how it can help agencies better understand their programs, policies, and operations.
 - January 19, 2021 from 9:00 to 10:30 am 
@@ -41,6 +37,10 @@ Hands-on practice in developing and using a logic model to inform evaluation act
 - February 18, 2021 - Time TBD
 
 ## Past Federal Workshops
+
+### Introduction to Quasi-Experimental Designs
+Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
+- December 8, 2020 from 10:00 am to 12:00 pm
 
 ### Understanding Null Results
 Discuss and dispel misconceptions about evaluations that show no evidence of impact or provide evidence of no impact, and highlight uses for null results.
