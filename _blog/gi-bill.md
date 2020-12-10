@@ -5,7 +5,7 @@ permalink: /blog/gi-bill-communication/
 image: /assets/img/project-images/1810.jpg
 image_full: 
 tags: blog
-year: 10-2019
+year: 11-2019
 class:
 summary: 
 ---
