@@ -4,7 +4,7 @@ title: Census Community Outreach Toolkit targets various outreach barriers
 permalink: /blog/census-toolkit/	
 image: /assets/img/project-images/census.jpg	
 tags: blog
-year: August 2020
+year: 08-2020
 image_full: 	
 class:	
 summary: 	
