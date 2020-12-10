@@ -3,7 +3,7 @@ layout: page
 title: A discussion with OES fellows
 permalink: /blog/2020-fellows/	
 image: /assets/img/oes-header-crop.png
-year: 11-2020
+year: 2020
 class:	
 summary: 	
 ---	
