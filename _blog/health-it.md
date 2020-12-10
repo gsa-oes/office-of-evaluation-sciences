@@ -5,7 +5,7 @@ permalink: /blog/health-it-technology/
 image: /assets/img/project-images/1729.jpg
 image_full: 
 tags: blog
-year: 2019
+year: 09-2019
 class:
 summary: 
 ---
