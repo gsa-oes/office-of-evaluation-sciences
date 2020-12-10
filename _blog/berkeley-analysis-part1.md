@@ -3,7 +3,7 @@ layout: page
 title: OES behavioral interventions found to be effective at improving government programs in recent large-scale review
 permalink: /blog/meta-analysis-part-1/	
 image: /assets/img/kites.jpg
-year: 2020
+year: December 2020
 class:	
 summary: 	
 ---	
