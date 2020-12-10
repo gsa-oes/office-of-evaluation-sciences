@@ -5,7 +5,7 @@ permalink: /blog/wage-reporting/
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image_full: 
 tags: blog
-year: 2019
+year: 2018
 class:
 summary: 
 ---
