@@ -8,6 +8,11 @@ class:
 summary: OES develops resources to help agencies learn from leading evaluation practices. 
 ---
 
+## Effect Size and Evaluation: The Basics
+An impact evaluation aims to detect and measure the effect of a program or policy on a priority outcome. To plan for an evaluation, we need to decide how large or small an effect we want to be able to detect. This important decision will influence all aspects of evaluation planning, including budget, operations, duration, and sample. This resource explains what effect sizes are and their importance in designing an evaluation. 
+<br/>
+<a href=""{{ '/assets/files/effect-size-evaluation-basics.pdf' | prepend: site.baseurl }}">Effect Size Guide</a>
+
 ## Evidence Reviews to Support Evidence-Based Policymaking 
 The Foundations for Evidence-Based Policymaking Act of 2018 (the Evidence Act) directs Federal agencies to develop evidence to support policymaking. A crucial component of developing evidence is understanding what evidence already exists. This helps ensure that key learnings are incorporated into new and existing programming, and that the resources available for evidence-building activities are targeted towards areas where there are bigger evidence gaps. This resource introduces a framework for how to conduct a review of existing evidence, and provides additional resources for those seeking to conduct more systematic reviews. 
 <br/>
