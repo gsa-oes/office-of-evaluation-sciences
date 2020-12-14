@@ -35,6 +35,4 @@ As we approach nearly nine months into the COVID-19 pandemic here in Washington 
 - **Erin**: The commitment to transparency and accountability on all projects is remarkable; it’s very exciting to be part of a team that is pushing for non-partisan, disciplined institutional practice within government agencies.
 - **Miles**: Joining a new team, and feeling truly plugged in, is no easy thing to foster in person, much less remotely. For this reason, my happiest surprise at becoming an associate fellow with OES is how little time it took to feel connected to the team. I couldn’t ask for a better group of people to work with.
 
-*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps/">Opportunities</a> page. 
-<br/>
-The deadline to apply for Fall 2021 fellowships is December 13, 2020.*
+*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps/">Opportunities</a> page.*
