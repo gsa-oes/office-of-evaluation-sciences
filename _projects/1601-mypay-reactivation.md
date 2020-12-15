@@ -1,7 +1,9 @@
 ---
 title: Increasing Military Retiree Reactivation of Online MyPay Accounts
 permalink: /projects/mypay-reactivation/
-tags: project
+tags: 
+  - project
+  - retirement
 image: /assets/img/project-images/military6.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys/
 abstract: /assets/abstracts/1601-Military-Retiree-myPay-Reactivation.pdf
