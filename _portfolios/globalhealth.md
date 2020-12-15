@@ -5,7 +5,7 @@ permalink: /usaid/
 image: /assets/img/project-images/1722.jpg  
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
 summary: Evidenced-based insights from behavioral science applied to critical development challenges in Global Health
-year: 2018
+year: 2019
 project_tags:
   - USAID
 collaborations_tags:
