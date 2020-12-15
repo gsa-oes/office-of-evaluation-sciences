@@ -9,8 +9,6 @@ summary: OES supports agencies on a variety of pressing implementation challenge
 filters:
   - key: year
     title: Year Completed
-  - key: status
-    title: Status
   - key: domain
     title: Domain
   - key: agency
