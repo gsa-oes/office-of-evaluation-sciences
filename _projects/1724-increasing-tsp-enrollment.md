@@ -8,7 +8,7 @@ image: /assets/img/project-images/1724.jpg
 image-credit: https://www.flickr.com/photos/120360673@N04/13856204644
 analysis-plan: /assets/analysis/1724-increasing-tsp-enrollment-usps.pdf
 abstract: /assets/abstracts/1724-project-abstract-TSP-enrollment-USPS.pdf
-year: 2017
+year: 
 status: Complete
 domain: Retirement Security
 agency: Postal Service
@@ -21,7 +21,7 @@ The US Postal Service (USPS) offers a Thrift Savings Plan (TSP) program to help 
 
 ## What was the program change?
 
-OES designed a new mailing to encourage TSP enrollment and contributions. The new mailing included a behaviorally-informed cover letter and TSP participation form designed to address each of these barriers to participation. To clarify how to sign up, the cover letter described what TSP was, explained how employees could participate, and provided an example of how an employee might contribute to TSP. 
+In 2017, OES designed a new mailing to encourage TSP enrollment and contributions. The new mailing included a behaviorally-informed cover letter and TSP participation form designed to address each of these barriers to participation. To clarify how to sign up, the cover letter described what TSP was, explained how employees could participate, and provided an example of how an employee might contribute to TSP. 
 
 ## How did the evaluation work?
 
