@@ -7,8 +7,8 @@ layout: page
 {% if page.project_tags.size > 0 %}
   <div class="project-container">
     {% for page_project_tag in page.project_tags %}
-      {% assign tagged_projects = site.projects | where_exp:"project", "project.tags contains page_project_tag" %}
-        {% for project in tagged_projects reversed %}
+      {% assign tagged_projects = site.projects | where_exp:"project", "project.tags contains page_project_tag", | sort:"year" | reverse %}
+        {% for project in tagged_projects %}
     {% include project-card.html %}
     {% endfor %}
         {% assign sorted_collaborations = site.collaborations | where_exp:"project", "project.tags contains page_project_tag" %}

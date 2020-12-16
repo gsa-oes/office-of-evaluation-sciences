@@ -3,6 +3,7 @@ layout: portfolio
 title: Accessing Health Benefits
 permalink: /health-insurance-benefits/
 image: /assets/img/project-images/health-benefits.png
+year: 2015
 summary: Interventions to increase enrollment in health benefits programs
 project_tags:
   - health insurance

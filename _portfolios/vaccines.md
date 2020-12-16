@@ -4,6 +4,7 @@ title: Vaccines
 permalink: /vaccines/
 image: /assets/img/project-images/1737.jpg
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
+year: 2020
 summary: Low-cost interventions to increase vaccination rates
 project_tags:
   - vaccines

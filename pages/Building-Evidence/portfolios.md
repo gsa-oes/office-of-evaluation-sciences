@@ -14,7 +14,7 @@ Our portfolios have spanned areas such as global health, improving vaccination r
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
-    {% assign sorted_portfolios = site.portfolios %}
+    {% assign sorted_portfolios = site.portfolios | sort:"year" | reverse %}
     {% for project in sorted_portfolios %}
       {% include project-card.html %}
     {% endfor %}
