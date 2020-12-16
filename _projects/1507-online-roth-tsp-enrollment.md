@@ -1,5 +1,5 @@
 ---
-title: Increasing Online TSP Enrollment by Servicemembers
+title: Increasing Online TSP Enrollment through Emails
 permalink: /projects/online-tsp-enrollment/
 tags:
   - project
