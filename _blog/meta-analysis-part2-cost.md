@@ -2,7 +2,7 @@
 layout: page	
 title: What does it cost to deliver behavioral interventions within government programs?
 permalink: /blog/cost-analysis/	
-image: /assets/img/project-images/cost-analysis-table.png
+image: /assets/img/oes-banner-light.jpg
 year: 2022
 class:	
 summary: 	
