@@ -29,14 +29,6 @@ Hands-on practice in developing and using a logic model to inform evaluation act
 Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
 - March 10, 2021 from 3:00 to 4:30 pm
 
-### Introduction to Formative and Process Evaluations 
-Introduction to formative and process evaluations: common tools and methodologies used in these types of evaluations.
-- June 2021, Time TBD
-
-### Interactive Case Study: Why Randomize?
-Real-life case study to demonstrate how different evaluation methods can lead to different conclusions. (Presented by the Abdul Latif Jameel Poverty Action Lab)
-- August 2021, Time TBD
-
 ## Past Federal Workshops
 
 ### Introduction to Quasi-Experimental Designs
