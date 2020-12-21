@@ -23,7 +23,7 @@ Highlight ways that agencies can use evidence to inform agency priorities, both 
 
 ### Building Logic Models for Evaluation
 Hands-on practice in developing and using a logic model to inform evaluation activities. 
-- February 18, 2021 from 3:00 to 5:00pm
+- February 18, 2021 from 3:00 to 5:00 pm
 
 ### Evidence Act – Lessons from the First Two Years of Implementation
 Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
