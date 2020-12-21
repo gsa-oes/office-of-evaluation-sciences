@@ -23,7 +23,19 @@ Highlight ways that agencies can use evidence to inform agency priorities, both 
 
 ### Building Logic Models for Evaluation
 Hands-on practice in developing and using a logic model to inform evaluation activities. 
-- February 18, 2021 - Time TBD
+- February 18, 2021 from 3:00 to 5:00pm
+
+### Evidence Act – Lessons from the First Two Years of Implementation
+Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
+- March 10, 2021 from 3:00 to 4:30 pm
+
+### Introduction to Formative and Process Evaluations 
+Introduction to formative and process evaluations: common tools and methodologies used in these types of evaluations.
+- June 2021, Time TBD
+
+### Interactive Case Study: Why Randomize?
+Real-life case study to demonstrate how different evaluation methods can lead to different conclusions. (Presented by the Abdul Latif Jameel Poverty Action Lab)
+- August 2021, Time TBD
 
 ## Past Federal Workshops
 
@@ -57,15 +69,6 @@ OES staff shared a summary of the motivation for toolkits to assist agencies in 
 ### Exploring Ways to Identify Resources and Opportunities to Support Evaluation Activities
 OES and the Office of Management and Budget's Evidence Team co-hosted a workshop on identifying the resources needed to support evaluation activities. Agency partners shared ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource‐limited environments. 
 - February 19, 2020 at GSA
-
-### Mapping Strategy to Evidence
-This workshop with GSA's Office of Shared Solutions and Performance Imporvement (OSSPI) provided an introduction to mapping agency strategy to the new evidence-building activities required under the Evidence Act, including hands-on practice in drafting Learning Agenda priorities.
-- December 6, 2019 at GSA
-
-### Evidence-Building Success Stories
-This workshop with GSA's Office of Shared Solutions and Performance Imporvement (OSSPI) was an interactive session on sharing success stories of how evidence has been used to strengthen agencies programs and policies, and shared tips and tricks for creating buy-in and excitement around evidence-building activities within agencies.
-- November 22, 2019 at GSA
-
 
 # Past OES Events 
 
