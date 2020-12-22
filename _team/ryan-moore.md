@@ -4,6 +4,7 @@ image: /assets/img/team/ryan_moore.png
 year:
   - 2019
   - 2020
+  - 2021
 home: University
 title: Fellow
 ---
