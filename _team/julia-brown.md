@@ -4,6 +4,7 @@ image: /assets/img/team/julia_brown.jpg
 year:
   - 2019
   - 2020
+  - 2021
 home: University
 agency:
   - Small Business Administration
