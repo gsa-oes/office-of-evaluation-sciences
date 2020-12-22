@@ -4,6 +4,7 @@ image: /assets/img/team/alyssa-galik.png
 year:
   - 2019
   - 2020
+  - 2021
 home: Government
 agency:
   - Small Business Administration
