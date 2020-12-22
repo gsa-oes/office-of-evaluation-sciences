@@ -3,6 +3,7 @@ name: Miles Williams
 image: /assets/img/team/miles-williams.jpeg
 year:
   - 2020
+  - 2021
 home: University
 title: Associate Fellow
 ---
