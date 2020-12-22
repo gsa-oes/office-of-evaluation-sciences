@@ -3,6 +3,7 @@ name: Heather Kappes
 image: /assets/img/team/heather-kappes.png
 year:
   - 2020
+  - 2021
 home: University
 agency:
   - Treasury
