@@ -27,3 +27,5 @@ SBA piloted the forms over three months and recorded form completion rates versu
 ## What was the impact?
 
 Over the three months, 64.1% of users continued the course after completing the form, compared to 57.6% prior to the changes. The second updated version of the form also appeared to increase the amount of information voluntarily provided during registration, enabling SBA to learn vital information about the small business owners they serve.
+
+![image]({{site.baseurl}}/assets/img/project-images/1614-graph.png)
