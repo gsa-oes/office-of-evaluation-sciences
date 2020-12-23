@@ -23,6 +23,8 @@ OES developed two letters for LTD account holders applying the research insight 
 
 33,500 remaining LTD account holders received letters mailed over 16 business days.
 
+![image]({{site.baseurl}}/assets/img/project-images/1509-graph.png)
+
 ## What was the impact?
 
 Creating a moment of action to call in resulted in more investors calling in to discuss account options with Treasury Representatives - the letter including the appointment resulted in a 2.37% increase in call-in rates. However, the mailings did not result in significant customer account changes from LTD to TreasuryDirect.
