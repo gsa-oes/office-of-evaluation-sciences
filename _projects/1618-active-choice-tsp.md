@@ -26,6 +26,8 @@ OES developed several interventions applying research insights to be used at in-
 
 OES ran two pilots at large Army installations — Fort Bragg and Fort Lewis — testing active choice interventions during the orientations that occur as service members are newly assigned to a base.
 
+![image]({{site.baseurl}}/assets/img/project-images/1618-graph.png)
+
 ## What was the impact?
 
 During the five-week period including the pilot at both bases, the enrollment rate was 10.47% at Fort Bragg and 8.39% at Fort Lewis, compared to a maximum of 1.86% at the other three bases.
