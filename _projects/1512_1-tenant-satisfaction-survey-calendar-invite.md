@@ -23,6 +23,8 @@ Small details, like framing of an email, can matter more than might be expected.
 
 29,997 employees were randomly assigned to receive one of two emails: 14,997 received the business as usual launch email, and 15,000 received an email with an embedded calendar invite to use as a reminder to take the survey. The two emails had distinct links to two identical versions of the survey, allowing tracking of views, starts, and completions by email group.
 
+![image]({{site.baseurl}}/assets/img/project-images/1512-1-graph.png)
+
 ## What was the impact?
 
 One week after sending the emails, the calendar reminder resulted in a nearly one percentage point higher completion rate amongst people sent the email, and a 13.5% higher relative completion rate.
