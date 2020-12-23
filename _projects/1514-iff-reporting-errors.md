@@ -26,6 +26,8 @@ At no material cost, OES designed an electronic signature box included at the be
 
 Vendors were randomly assigned to use one of two options: 1) the existing reporting system (control); or 2) a modified interface (treatment) with the redesigned electronic signature box.
 
+![image]({{site.baseurl}}/assets/img/project-images/1514-image.png)
+
 ## What was the impact?
 
 As a result of the evaluation, the median self-reported sales amount was $445 higher for vendors signing at the top of the form, translating into an extra $1.59 million in IFF paid to the government in a single quarter.
