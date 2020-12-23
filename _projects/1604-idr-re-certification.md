@@ -25,6 +25,8 @@ OES worked with ED’s Office of Federal Student Aid (FSA) to develop an email o
 
 Nearly 300,000 eligible borrowers were divided into three cohorts and then randomly assigned to be sent one of three different email approach variants that utilized individual or average payment increase comparisons, follow up emails, and inclusion of signatures.
 
+![image]({{site.baseurl}}/assets/img/project-images/1604-graph.png)
+
 ## What was the impact?
 
 Including borrowers’ actual payment increase was most effective at getting borrowers to recertify for IDR plans, resulting in a 8.4% increase. The timing of reminder emails and the inclusion of an official’s signature were not effective.
