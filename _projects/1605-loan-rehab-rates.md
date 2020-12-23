@@ -25,6 +25,8 @@ OES developed emails with four different subject lines informed by research insi
 
 An iterative randomized control trial was conducted, sending emails to three separate cohorts of borrowers in default, where the most effective email from the previous cohort was tested against a new intervention in the next cohort.
 
+![image]({{site.baseurl}}/assets/img/project-images/1605-graph.png)
+
 ## What was the impact?
 
 Prompting delinquent borrowers with a specific moment of action in the form of an appointment increases the rate at which they take an initial step to rehabilitate their student loans. Emphasizing negative consequences of default is more effective than describing default more generally.
