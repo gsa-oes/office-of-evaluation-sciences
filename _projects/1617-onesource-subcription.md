@@ -24,6 +24,8 @@ OES designed six email variants applying research insights to be sent to active 
 
 491,879 servicemembers were randomly assigned to receive one of the six email communications.
 
+![image]({{site.baseurl}}/assets/img/project-images/1617-graph.png)
+
 ## What was the impact?
 
 Overall, the study added over 6,000 new subscribers to the newsletter, expanding the subscription list by more than 10%, and spurred 8,700 web visits. The study suggests simple, clear communications that present decisions as an active choice are effective at increasing subscriptions, and that lists appear to be more effective than quizzes, but brevity is most important.
