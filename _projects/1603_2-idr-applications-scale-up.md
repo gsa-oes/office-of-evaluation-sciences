@@ -25,6 +25,8 @@ OES worked with ED’s Office of Federal Student Aid (FSA) to design and test th
 
 3,036,691 borrowers were randomly selected to receive either the most effective message from the Targeted Messages pilot, or no email.
 
+![image]({{site.baseurl}}/assets/img/project-images/1603-2-graph.png)
+
 ## What was the impact?
 
 On average, sending an email increased submissions by 0.35 percentage points over the control submission rate. The campaign resulted in more than 6,000 additional borrowers signing up for IDR plans, shifting approximately $300 million of Federal student loans into income-driven repayment plans.
