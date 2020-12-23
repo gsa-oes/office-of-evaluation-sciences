@@ -25,6 +25,8 @@ Sending students text message reminders about key tasks related to college matri
 
 High school students from five cities were randomly assigned to one of three groups: 1) a control group that did not receive messages, 2) a group in which only students were sent messages, 3) a group in which both students and their parents were sent messages.
 
+![image]({{site.baseurl}}/assets/img/project-images/1515-graph.png)
+
 ## What was the impact?
 
 Among all students sent text messages, 68.0 percent enrolled in college in the fall compared with 64.9 percent of those not sent messages. Enrollment effects were larger for the lowest-income students and for first-generation students. Among low-income students, the text messages increased enrollment from 66.4 percent to 72.1 percent, a nearly 6% increase in enrollment.
