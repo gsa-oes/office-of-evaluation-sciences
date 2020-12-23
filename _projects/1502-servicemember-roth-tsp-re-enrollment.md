@@ -33,7 +33,7 @@ Redesigned email sent to participants
 
 The redesigned email shows how OES incorporated specific behavioral insights into the adapted message.
 
-[Citations](#citations) are below.
+![image]({{site.baseurl}}/assets/img/project-images/11502-graph.png)
 
 ## What was the impact?
 
