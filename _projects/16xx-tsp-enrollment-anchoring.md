@@ -7,12 +7,12 @@ tags:
 image: /assets/img/project-images/military12.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/16xx-tsp-enrollment-anchoring.pdf
-year: 2017
+year: 2016
 status: Complete
 domain: Retirement Security
 agency: Defense
 impact:
-summary: Suggesting contribution rates promotes savings enrollment and contributions
+summary: Suggesting contribution rates increases savings enrollment and contributions
 ---
 ## What was the challenge?
 
@@ -20,7 +20,7 @@ The Federal government operates a workplace savings program called the Thrift Sa
 
 ## What was the program change?
 
-**OES designed several versions of an email message** about how and why to enroll in TSP.  Some of the emails included a suggested contribution rate, which may act as an anchor value and affect decisions about whether and how much to contribute.
+OES designed several versions of an email message about how and why to enroll in TSP.  **Some of the emails included a suggested contribution rate,** which may act as an *anchor* value and affect decisions about whether and how much to contribute.
 
 ## How did the evaluation work?
 
