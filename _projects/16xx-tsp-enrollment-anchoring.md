@@ -4,7 +4,7 @@ permalink: /projects/tsp-anchoring/
 tags:
   - project
   - retirement
-image: /assets/img/project-images/16xx-image-.jpeg
+image: /assets/img/project-images/16xx-image.jpeg
 image-credit: https://www.pexels.com/photo/person-typing-on-laptop-1174775/
 abstract: /assets/abstracts/16xx-tsp-enrollment-anchoring.pdf
 year: 2016
