@@ -10,7 +10,7 @@ filters:
   - key: year
     title: Years active
     multiple: true
-    default: 2020
+    default: 2021
   - key: title
     title: Title
     multiple: true
