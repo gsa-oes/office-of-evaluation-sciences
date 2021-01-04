@@ -1,11 +1,11 @@
 ---
 layout: portfolio
-title: Vaccines
+title: Vaccination uptake
 permalink: /vaccines/
 image: /assets/img/project-images/1737.jpg
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
 year: 2020
-summary: Low-cost interventions to increase vaccination rates
+summary: Low-cost interventions to increase vaccination uptake
 project_tags:
   - vaccines
 ---
@@ -17,5 +17,5 @@ In partnership with the <a href="https://www.hhs.gov/nvpo/featured-priorities/in
 
 ## Portfolio
 
-Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving vaccine uptake. 
+Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to test the impact of low-cost evidence-based program changes in improving vaccination uptake. 
 
