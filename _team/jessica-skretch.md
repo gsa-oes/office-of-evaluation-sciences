@@ -3,6 +3,7 @@ name: Jessica Skretch
 image: /assets/img/team/jessica-skretch.jpg
 year:
   - 2020
+  - 2021
 home: Federal Reserve Board
 agency:
   - Small Business Administration

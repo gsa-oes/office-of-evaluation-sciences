@@ -3,6 +3,7 @@ name: Mattie Toma
 image: /assets/img/team/mattie-toma.png
 year:
   - 2020
+  - 2021
 home: University
 agency:
   - Small Business Administration

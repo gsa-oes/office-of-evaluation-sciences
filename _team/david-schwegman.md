@@ -3,6 +3,7 @@ name: David Schwegman
 image: /assets/img/team/david-schwegman.png
 year:
   - 2020
+  - 2021
 home: University
 agency:
   - Treasury
