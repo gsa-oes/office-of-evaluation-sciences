@@ -4,8 +4,8 @@ permalink: /projects/irs-uninsured/
 tags: 
   - project  
   - health insurance
-image: /assets/img/project-images/1727.jpg
-image-credit: https://www.flickr.com/photos/marine_corps/4586886190/in/photolist-7ZjZsE
+image: /assets/img/project-images/1711-image.jpeg
+image-credit: https://plex.page/Quality_Health_Insurance
 abstract: /assets/abstracts/1711-irs-uninsured-abstract.pdf
 year: 2017
 status: Complete
