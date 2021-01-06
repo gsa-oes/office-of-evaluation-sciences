@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/1711-image.jpeg
 image-credit: https://plex.page/Quality_Health_Insurance
 abstract: /assets/abstracts/1711-irs-uninsured-abstract.pdf
-year: 2017
+year: 2018
 status: Complete
 domain: Health
 agency: Internal Revenue Service
@@ -30,3 +30,5 @@ During the open-enrollment period for 2017 health insurance coverage, the Intern
 ## What was the impact?
 
 **Receiving any letter increased the probability of an individual obtaining at least one month of 2017 health insurance coverage by 0.85 percentage points.** This represents a 1.24% increase relative to 68.5% coverage among individuals in households that did not receive a letter. The most effective letter was the one sent early in the open-enrollment period which also included a personalized estimate; this letter led to a 1.19 percentage point increase in enrollment.
+
+*This project was designed and fielded before OES formalized the OES Evaluation Policy and standardized the six steps we now use to ensure our findings are relevant and reliable.*
