@@ -8,7 +8,7 @@ image: /assets/img/project-images/1738.jpg
 image-credit: http://www.freestockphotos.biz/stockphoto/15813
 analysis-plan: /assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf
 abstract: /assets/abstracts/1738-increasing-vaccine-uptake.pdf
-academic-pub: /assets/publciations/1738-publication-postcards-increasing-vaccination-rates-among-elderly.pdf
+academic-pub: /assets/publications/1738-publication-postcards-increasing-vaccination-rates-among-elderly.pdf
 year: 2018  
 status: Complete
 domain: Health
