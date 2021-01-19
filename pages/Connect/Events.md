@@ -13,10 +13,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Evaluation 101
-An introduction to evaluation as a research method: what it is, what questions it can answer, and how it can help agencies better understand their programs, policies, and operations.
-- January 19, 2021 from 9:00 to 10:30 am 
-
 ### Using Evidence to Inform Agency Priorities (Hosted by OMB Evidence Team)
 Highlight ways that agencies can use evidence to inform agency priorities, both mission and operational.
 - January 27, 2021 from 3:00 to 4:30 pm
@@ -49,6 +45,7 @@ In partnership with the Office of Management and Budget’s Evidence Team, OES o
 - April 8, 2020
 - July 30, 2020
 - October 5, 2020
+- January 19, 2021
 
 ### Creative Uses of Administrative Data
 OES hosted a virtual session on creative uses of administrative data. This session highlighted creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
