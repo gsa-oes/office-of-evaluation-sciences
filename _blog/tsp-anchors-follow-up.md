@@ -12,7 +12,7 @@ A <a href="https://www.nber.org/system/files/working_papers/w27575/w27575.pdf">2
 
 In 2016, OES collaborated with the Department of Defense to evaluate the effect of email messages with a suggested contribution rate on military Servicemembers’ enrollment in the Thrift Savings Plan (TSP). The Thrift Savings Plan (TSP) is a retirement savings and investment plan for Federal employees and members of the uniformed services.
 
-Many Servicemembers were not automatically enrolled at the time of the intervention, and <a href="https://docs.house.gov/meetings/AS/AS00/20150204/102859/HHRG-114-AS00-20150204-SD001.pdf">many have insufficient retirement savings</a>. 
+Some Servicemembers were not automatically enrolled at the time of the intervention, and <a href="https://docs.house.gov/meetings/AS/AS00/20150204/102859/HHRG-114-AS00-20150204-SD001.pdf">many have insufficient retirement savings</a>. 
 
 In January 2016, nearly 700,000 Servicemembers from the Army, Navy, Air Force, and Marine Corps were not yet enrolled in TSP. They were randomly assigned to one of 10 groups: a no-email control group, an email that listed the action steps needed to enroll in TSP and emphasized the potential long term benefits of saving even a little each month, or one of eight emails with a suggested contribution rate. The eight different suggested contribution rate emails added a statement that many Servicemembers start contributing at a specific rate, which ranged from 1% to 8%. One month later, 1.94% of those in the no-email group had enrolled in TSP, compared to 2.58% who received the basic email and 2.73% of those who received an email with a suggested contribution rate. 
 
@@ -26,4 +26,4 @@ The lasting difference after two years suggests that the emails did not just spe
 
 There was clear willingness to contribute more than 3% of monthly pay. In fact, as of October 1, 2020, the Federal Retirement Thrift Investment Board (the government board that administers the TSP) increased the default contribution rate for new enrollers in TSP <a href="https://www.federalregister.gov/documents/2020/09/16/2020-17811/automatic-enrollment-program">from 3% to 5%</a>. That increase is consistent with the 2016 and longer-term findings that suggesting a higher contribution rate can boost retirement savings. 
 
-The full portfolio of OES work on retirement savings can be seen <a href="https://oes.gsa.gov/retirement-savings/>here</a>. 
+The full portfolio of OES work on retirement savings can be seen <a href="https://oes.gsa.gov/retirement-savings/">here</a>. 
