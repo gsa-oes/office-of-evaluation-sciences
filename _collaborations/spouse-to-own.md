@@ -17,7 +17,7 @@ Individual choices—including the age at which individuals claim Social Securit
 
 ## What did we do?
 
-SSA and OES piloted opportunities to help the public make more informed decisions about claiming Social Security retirement benefits. In one pilot, OES worked with SSA to redesign the notice informing spousal benefit recipients that they might receive a higher benefit if they applied for retirement benefits on their own record. The redesigned notice simplified the language and emphasized the action steps that recipients needed to take.  The Intervention Pack shows the original and redesigned letters, and describes the best practices adopted in the re-design for effective communications.
+SSA and OES piloted opportunities to help the public make more informed decisions about claiming Social Security retirement benefits. In one pilot, OES worked with SSA to redesign the notice informing spousal benefit recipients that they might receive a higher benefit if they applied for retirement benefits on their own record. The redesigned notice simplified the language and emphasized the action steps that recipients needed to take.  The <a href="https://oes.gsa.gov/assets/interventions/spouse-to-own-intervention-pack.pdf">Intervention Pack</a> shows the original and redesigned letters, and describes the best practices adopted in the re-design for effective communications.
 
 ## What did we learn?
 
