@@ -1,5 +1,5 @@
 ---
-title: Increasing Online TSP Enrollment with Anchoring
+title: Simple Suggestion Increases Savings Enrollment, Contributions
 permalink: /projects/tsp-anchoring/
 tags:
   - project
@@ -16,7 +16,7 @@ summary: Suggesting contribution rates increases savings enrollment and contribu
 ---
 ## What was the challenge?
 
-The Federal government operates a workplace savings program called the Thrift Savings Plan (TSP) for all of its employees. Servicemembers’ enrollment rates average roughly 42 percent, compared to 87% among civilians, and many Servicemembers **have insufficient retirement savings.**
+The Thrift Savings Plan (TSP) is a retirement savings and investment plan for Federal employees and members of the uniformed services. Servicemembers’ enrollment rates average roughly 42 percent, compared to 87% among civilians, and many Servicemembers **have insufficient retirement savings.**
 
 ## What was the program change?
 
