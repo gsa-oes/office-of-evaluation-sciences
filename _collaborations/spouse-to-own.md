@@ -3,7 +3,7 @@ title:  Improving Claiming Choices for Recipients of Social Security Survivor Be
 permalink: /othercollabs/spouse-to-own/
 tags:
   - project 
-image: /assets/img/project-images/spouse-to-own-image.png
+image: /assets/img/project-images/image-spouse-to-own.png
 intervention: /assets/interventions/spouse-to-own-intervention-pack.pdf
 year: 2016
 domain: Communications
@@ -23,7 +23,7 @@ SSA and OES piloted opportunities to help the public make more informed decision
 
 SSA mailed the notice in May 2016 to roughly 9,000 spousal beneficiaries, age 70 and older, whose data suggested they were entitled to larger benefits. 
 
-SBST 2016 report:
+<a href="https://oes.gsa.gov/assets/files/2016 SBST Annual Report.pdf">SBST 2016 report:</a>
 
 **Assisting the public with making informed decisions about when to claim Social Security retirement benefits through improved information presentation.**
 Assisting the public with making informed decisions about when to claim Social Security retirement benefits through improved information presentation. Social Security retirement benefits are the foundation of retirement security for tens of millions of Americans and represent 85 percent of total income on average for all lower-income individuals over 65. Individual choices—including the age at which individuals claim Social Security benefits, whether and how much to work during retirement, and how to manage claiming decisions jointly with their spouse—play an important role in how well these benefits protect against the risks of outliving one’s savings. The Social Security Administration (SSA) and SBST are piloting opportunities to help the public make more informed decisions about claiming Social Security retirement benefits.
