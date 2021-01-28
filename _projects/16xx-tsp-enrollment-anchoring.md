@@ -6,7 +6,7 @@ tags:
   - retirement
 image: /assets/img/project-images/16xx-image.jpeg
 image-credit: https://www.pexels.com/photo/person-typing-on-laptop-1174775/
-abstract: /assets/abstracts/16xx-tsp-enrollment-anchoring.pdf
+abstract: /assets/abstracts/16xx-anchoring-tsp-enrollment.pdf
 year: 2016
 status: Complete
 domain: Retirement Security
