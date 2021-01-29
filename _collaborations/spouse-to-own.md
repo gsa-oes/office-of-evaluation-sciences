@@ -1,5 +1,5 @@
 ---
-title:  Improving Claiming Choices for Recipients of Social Security Survivor Benefits 
+title:  Improving Claiming Choices for Recipients of Social Security Spousal Benefits 
 permalink: /othercollabs/spouse-to-own/
 tags:
   - project 
