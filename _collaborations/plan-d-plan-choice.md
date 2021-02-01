@@ -1,14 +1,14 @@
 ---
 title:  Encouraging Active Plan Choice Among LIS Beneficiaries
-permalink: /othercollabs/spouse-to-own/
+permalink: /othercollabs/plan-d-plan-choice/
 tags:
   - project 
 image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.png
 image-credit: https://www.gao.gov/products/GAO-19-627
 intervention: /assets/interventions/Intervention Pack - Part D Plan Choice.pdf
-year: 2016
+year: 2018
 domain: Health
-agency: Social Security Administration
+agency: Health and Human Services
 summary: Revising letters to encourage Low-Income Subsidy (LIS) beneficiaries to make an active choice between Medicare Part D prescription drug plans. 
 ---
 
