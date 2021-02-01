@@ -13,10 +13,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Using Evidence to Inform Agency Priorities (Hosted by OMB Evidence Team)
-Highlight ways that agencies can use evidence to inform agency priorities, both mission and operational.
-- January 27, 2021 from 3:00 to 4:30 pm
-
 ### Building Logic Models for Evaluation
 Hands-on practice in developing and using a logic model to inform evaluation activities. 
 - February 18, 2021 from 3:00 to 5:00 pm
