@@ -20,7 +20,7 @@ Tens of millions of Americans choose health insurance coverage within federal pr
 
 OES partnered with SSA to re-design the L448 and L447 letters in an effort to increase LIS and MSP enrollment. The redesigned letters made potential savings salient, made the letters personal by clarifying how eligibility depends on the recipient’s own income and asset limits, and summarized the takeaways in clear language and easy-to-digest tables. 
 
-The Intervention Pack shows the original and redesigned letters, and highlights the best practices adopted in the re-design for effective communications.
+The <a href="{{site.baseurl}}/assets/interventions/Intervention Pack - LIS and MSP Enrollment.pdf">Intervention Pack</a> shows the original and redesigned letters, and highlights the best practices adopted in the re-design for effective communications.
 
 ## What did we learn?
 
