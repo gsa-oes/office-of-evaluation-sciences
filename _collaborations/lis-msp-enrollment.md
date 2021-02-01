@@ -14,7 +14,7 @@ summary: Revising letters to individuals who may be eligible for the Medicare Pa
 
 ## What was the challenge?
 
-Tens of millions of Americans choose health insurance coverage within federal programs that offer a selection of private plans, including the Medicare Part D prescription drug plan. Medicare Part D Low-Income Subsidy (LIS or “Extra Health”) beneficiaries who previously chose a Medicare Part D prescription drug plan on their own and face increased premiums in the future qualify to pay a $0 premium if they switch to a different plan. However, beneficiaries must actively “opt in” to choose to switch plans. We know from the <a href="https://academic.oup.com/qje/article-abstract/124/4/1639/1917201">behavioral science literature</a> that, unless otherwise prompted, individuals often stick to the default rather than make an explicit, opt-in choice, even if the default is not the best option for them. 
+Participation levels for the Medicare Part D Low-Income Subsidy (LIS or “Extra Help”) and Medicare Savings Programs (MSP) are estimated to be lower than the number of eligible individuals. A 2010 report, for instance, estimated that as many as 2.3 million Medicare beneficiaries who may be eligible for LIS are not receiving the benefit. In May of each year, the Social Security Administration (SSA) mails out the “Social Security LIS and MSP Outreach Notice” to individuals who may be eligible for both the Medicare Savings Programs (MSPs) and Extra Help (Form L448), or those who may be eligible only for the MSPs (Form L447), to inform them of the benefits and how to apply.
 
 ## What did we do?
 
