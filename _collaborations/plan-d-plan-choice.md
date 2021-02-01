@@ -14,7 +14,7 @@ summary: Revising letters to encourage Low-Income Subsidy (LIS) beneficiaries to
 
 ## What was the challenge?
 
-Tens of millions of Americans choose health insurance coverage within federal programs that offer a selection of private plans, including the Medicare Part D prescription drug plan. Medicare Part D Low-Income Subsidy (LIS or “Extra Health”) beneficiaries who previously chose a Medicare Part D prescription drug plan on their own and face increased premiums in the future qualify to pay a $0 premium if they switch to a different plan. However, beneficiaries must actively “opt in” to choose to switch plans. We know from the behavioral science literature that, unless otherwise prompted, individuals often stick to the default rather than make an explicit, opt-in choice, even if the default is not the best option for them. 
+Tens of millions of Americans choose health insurance coverage within federal programs that offer a selection of private plans, including the Medicare Part D prescription drug plan. Medicare Part D Low-Income Subsidy (LIS or “Extra Health”) beneficiaries who previously chose a Medicare Part D prescription drug plan on their own and face increased premiums in the future qualify to pay a $0 premium if they switch to a different plan. However, beneficiaries must actively “opt in” to choose to switch plans. We know from the <a href="https://academic.oup.com/qje/article-abstract/124/4/1639/1917201">behavioral science literature</a> that, unless otherwise prompted, individuals often stick to the default rather than make an explicit, opt-in choice, even if the default is not the best option for them. 
 
 ## What did we do?
 
