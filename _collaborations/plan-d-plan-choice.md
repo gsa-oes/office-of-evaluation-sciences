@@ -22,4 +22,4 @@ OES partnered with the Centers for Medicare and Medicaid Services (CMS) to redes
 
 ## What did we learn?
 
-SSA mailed the notice in May 2016 to roughly 9,000 spousal beneficiaries, age 70 and older, whose data suggested they were entitled to larger benefits. 
+Starting in 2018, CMS mailed the redesigned letters to roughly 1.2 million LIS Choosers, who faced a Part D premium increase for the next year but had the option to make an active choice to switch to a new $0 premium plan. Although OES did not conduct a randomized evaluation, CMS usability testing suggested that the revised notice provided greater clarity. 
