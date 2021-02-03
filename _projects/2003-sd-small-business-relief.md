@@ -2,7 +2,7 @@
 title:  Evaluation of San Diego Small Business Relief Fund
 permalink: /projects/sd-small-business-relief/
 tags: project  
-image: /assets/img/project-images/2003-sd-image.jpg
+image: /assets/img/project-images/2003-san-diego-image.jpg
 image-credit: https://commons.wikimedia.org/wiki/File:San_Diego_Skyline_at_Dawn.jpg
 analysis-plan: /assets/analysis/2003_SD_SBRF_Evaluation.pdf
 abstract:  
