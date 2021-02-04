@@ -40,4 +40,4 @@ This study demonstrated that programmatic data from HIV/AIDS programs can be use
 
 <i> Related Publication</i>
 <br>
-Aderaw Anteneh, Kelly Bidwell, Woldemariam Girma, Kristen Little, Nicholas Wilson, and Endale Workalemahu. <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1761939">"Appraising praise: experimental evidence on positive framing and demand for health services."</a> Applied Economics Letters, (2020).
+Aderaw Anteneh, Kelly Bidwell, Woldemariam Girma, Kristen Little, Nicholas Wilson, and Endale Workalemahu. <a href="{{site.baseurl}}/assets/publications/1722 - USAID Ethiopia Anteneh et al AEL 2020.pdf">"Appraising praise: experimental evidence on positive framing and demand for health services."</a> Applied Economics Letters, (2020).
