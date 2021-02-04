@@ -8,6 +8,7 @@ image: /assets/img/project-images/1722.jpg
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
 analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
 abstract: /assets/abstracts/1722-Project Abstract-6 Month.pdf
+academic-pub: /assets/publications/1722 - USAID Ethiopia Anteneh et al AEL 2020.pdf
 year: 2018 
 status: Complete
 domain: Health
@@ -26,8 +27,8 @@ To increase retention in care and ART adherence, health workers delivered encour
 
 The evidence-based insight was tested with an individual level randomized control trial. All 866 study participants, HIV+ individuals not yet on ARTs, consented into the study. Approximately one-half of participants (n=436) were randomly assigned to receive the encouraging phone call and approximately one-half (n=430) were randomly assigned to the standard of care. An ordinary least squares (OLS) regression was used to compare retention in care and ART adherence, using existing administrative data, at 1 month, 3 months and 6 months. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1722-graph1.png)
-![image]({{site.baseurl}}/assets/img/project-images/1722-graph2.png)
+![image]({{site.baseurl}}/assets/img/project-images/1722-graph-1.png)
+![image]({{site.baseurl}}/assets/img/project-images/1722-graph-2.png)
 
 ## What was the impact?
 
