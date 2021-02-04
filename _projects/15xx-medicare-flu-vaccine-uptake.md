@@ -33,4 +33,4 @@ Receiving any of the four letters increased flu vaccination uptake by 0.59 perce
 
 <i> Related Publication</i>
 <br>
-David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry. Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries. Nature Human Behaviour 2 (2018): 743–749.
+David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry. <a href="{{site.baseurl}}/assets/publications/15xx - Yokum et al (2018) - Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries.pdf">Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries</a>. Nature Human Behaviour 2 (2018): 743–749.
