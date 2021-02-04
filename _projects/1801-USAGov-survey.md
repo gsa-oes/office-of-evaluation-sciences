@@ -31,4 +31,6 @@ USAGov email subscribers were randomly assigned to be sent one of four email mes
 
 Compared to the business-as-usual email group, survey completion was 0.10% higher in the process email group, 0.13% lower in the personal plus gratitude email group, and 0.05% lower, but not statistically different, in the personal email group.
 
+![image]({{site.baseurl}}/assets/img/project-images/1801-graph.png)
+
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1801-USAGov-survey-analysis-plan-updated.pdf">click here</a>.</i>
