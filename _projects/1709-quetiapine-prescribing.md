@@ -7,6 +7,7 @@ tags:
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf
+academic-pub: /assets/publications/1709 - jamapsychiatry_sacarny_2018_oi_180047.pdf
 year: 2018
 status: Complete
 domain: Health
