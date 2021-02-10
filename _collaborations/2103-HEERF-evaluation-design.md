@@ -19,7 +19,7 @@ Given the urgency and severity of the COVID-19 pandemic it was likely infeasible
 
 ## What did we do?
 
-OES designed an impact evaluation using a regression discontinuity (RD) design—a type of quasi-experimental method—to help ED and IHEs answer the question: What is the effect of providing HEERF aid on short- and medium-term student outcomes? OES identified that many institutions used strict eligibility cutoffs that lend themselves to an RD design that can be applied with many IHEs. 
+OES designed an impact evaluation using a regression discontinuity (RD) design—a type of quasi-experimental method—to help ED and IHEs answer the question: _**What is the effect of providing HEERF aid on short- and medium-term student outcomes?**_ OES identified that many institutions used strict eligibility cutoffs that lend themselves to an RD design that can be applied with many IHEs. 
 
 ## How is the evaluation designed to build evidence?
 
@@ -29,6 +29,6 @@ In most cases an ordinary least squares (OLS) regression of academic outcomes on
 
 ## What did we learn?
 
-The RD design can provide evidence of the effect of one-time emergency aid on student outcomes. Evaluations using an RD design can indicate how much emergency aid programs change student outcomes. 
+**The RD design can provide evidence of the effect of one-time emergency aid on student outcomes.** Evaluations using an RD design can indicate how much emergency aid programs change student outcomes. 
 
-Building robust evidence may benefit from coordinated evaluations with multiple IHEs. Because of variation between institutions in how funds were disbursed, results from an evaluation at any one institution may not be generalizable to other institutions. Developing a coordinated effort—for example, with a consortium of IHEs—to conduct RD evaluations at multiple institutions may yield a fuller picture of how HEERF aid affects student academic outcomes.
+**Building robust evidence may benefit from coordinated evaluations with multiple IHEs.** Because of variation between institutions in how funds were disbursed, results from an evaluation at any one institution may not be generalizable to other institutions. Developing a coordinated effort—for example, with a consortium of IHEs—to conduct RD evaluations at multiple institutions may yield a fuller picture of how HEERF aid affects student academic outcomes.
