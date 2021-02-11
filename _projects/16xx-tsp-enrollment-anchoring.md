@@ -32,4 +32,4 @@ OES designed several versions of an email message about how and why to enroll in
 
 Emails with anchor rates increased participation in the TSP by 0.77 percentage points compared to no email, leading to **more than $1 million in new TSP contributions in February 2016** alone.
 
-<i><a href="https://oes.gsa.gov/blog/tsp-anchors-follow-up/">See here for an associated blog post on the persistance of this intervention two years later</i></a>
+<i><a href="https://oes.gsa.gov/blog/tsp-anchors-follow-up/">See here for an associated blog post on the persistance of this intervention two years later</a>
