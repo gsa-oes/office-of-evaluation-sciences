@@ -30,4 +30,4 @@ Starting in 2018, OES evaluations tested communications to providers rather than
 
 In early 2021, OES developed lessons learned from the OES portfolio to inform the COVID-19 vaccination effort. <br><br>
 <a class="usa-button" href="{{site.baseurl}}/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Read our 2-page summary here</a>
-<br><br><br>
+<br><br>
