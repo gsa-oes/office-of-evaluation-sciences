@@ -4,7 +4,7 @@ permalink: /othercollabs/HEERF-eval-design/
 tags:
   - project 
   - Education
-image: 
+image: /assets/img/project-images/othercollabs/grad-photo-ed.jpg
 academic-pub: /assets/abstracts/2103-HEERF-evaluation-design-report.pdf
 year: 2021
 domain: Education
