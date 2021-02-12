@@ -4,7 +4,6 @@ title: Vaccination uptake
 permalink: /vaccines/
 image: /assets/img/project-images/1737.jpg
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
-academic-pub: /assets/publications/OES-vaccine-paper-2-page-summary.pdf
 year: 2020
 summary: Low-cost interventions to increase vaccination uptake
 project_tags:
@@ -30,4 +29,5 @@ Together, results of these evaluations suggest that behaviorally-informed direct
 Starting in 2018, OES evaluations tested communications to providers rather than patients or intermediaries, with interventions including a <a href="https://oes.gsa.gov/projects/increasing-adult-vaccines-atlanta-va/">change to a hospital’s electronic health record (EHR)</a> vaccination bundling and clinical reminders.  Some of this work is ongoing. 
 
 In early 2021, OES developed lessons learned from the OES portfolio to inform the COVID-19 vaccination effort. 
+<a class="usa-button" href="{{site.baseurl}}/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Read our 2-page summary here</a>
 <br><br>
