@@ -4,6 +4,7 @@ title: Vaccination uptake
 permalink: /vaccines/
 image: /assets/img/project-images/1737.jpg
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
+academic-pub: /assets/publications/OES-vaccine-paper-2-page-summary.pdf
 year: 2020
 summary: Low-cost interventions to increase vaccination uptake
 project_tags:
