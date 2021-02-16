@@ -6,7 +6,7 @@ tags:
 image: /assets/img/project-images/othercollabs/lis-msp-enrollment-image.png
 image-credit: https://images.app.goo.gl/VkYfpduj7DZrttKX7
 intervention: /assets/interventions/Intervention Pack - LIS and MSP Enrollment.pdf
-year: 2017
+year: 2021
 domain: Health
 agency: Social Security Administration
 summary: Revising letters to individuals who may be eligible for the Medicare Part D Low-Income Subsidy and Medicare Savings Program
