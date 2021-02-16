@@ -6,7 +6,7 @@ tags:
 image: /assets/img/project-images/image-spouse-to-own.jpg
 image-credit: https://blog.ssa.gov/why-social-security-retirement-is-important-to-woman/ 
 intervention: /assets/interventions/spouse-to-own-intervention-pack.pdf
-year: 2016
+year: 2021
 domain: Communications
 agency: Social Security Administration
 summary: Revising a notice to increase filings for higher benefits.
