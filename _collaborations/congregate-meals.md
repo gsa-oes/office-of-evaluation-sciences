@@ -7,7 +7,7 @@ image: /assets/img/project-images/othercollabs/congregate-meals-image.png
 image-credit: https://pixy.org/1398140/ 
 abstract: /assets/abstracts/Abstract - Congregate Meals_2020-12-22.pdf
 intervention: 
-year: 2020
+year: 2021
 domain: Communications
 agency: Health and Human Services
 summary: Using behavioral science to increase voluntary contributions in a senior meal program 
