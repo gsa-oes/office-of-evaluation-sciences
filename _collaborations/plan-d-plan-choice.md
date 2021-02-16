@@ -6,7 +6,7 @@ tags:
 image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.png
 image-credit: https://www.gao.gov/products/GAO-19-627
 intervention: /assets/interventions/Intervention Pack - Part D Plan Choice.pdf
-year: 2018
+year: 2021
 domain: Health
 agency: Health and Human Services
 summary: Revising letters to encourage Low-Income Subsidy (LIS) beneficiaries to make an active choice between Medicare Part D prescription drug plans. 
