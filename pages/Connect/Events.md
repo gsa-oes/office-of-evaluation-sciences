@@ -21,6 +21,10 @@ Hands-on practice in developing and using a logic model to inform evaluation act
 Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
 - March 10, 2021 from 3:00 to 4:30 pm
 
+### Cost Analysis in Research
+Introduction to cost analysis: discuss the types of cost analysis used in research and highlight how answering cost questions can inform policies and programs.  
+- March 31, 2021 from 2:00 to 3:30 pm
+
 ## Past Federal Workshops
 
 ### Introduction to Quasi-Experimental Designs
