@@ -1,5 +1,5 @@
 ---
-title:  Reducing the Cost of Government Travel: Encouraging Earlier Travel Booking 
+title: Reducing the Cost of Government Travel: Encouraging Earlier Travel Booking
 permalink: /othercollabs/gsa-travel-mapping
 tags:
   - project 
@@ -11,7 +11,6 @@ domain: Government Efficiency
 agency: General Services Administration
 summary: How behavioral interventions could encourage earlier booking and generate government-wide cost savings 
 ---
-
 ## What was the challenge?
 The majority of government travelers in the General Services Administration (GSA) book airline tickets within 10 days of the trip, even if they know the travel dates well in advance. Encouraging earlier booking of airline travel could create significant cost savings by increasing the likelihood that travelers will be able to book cheaper capacity-controlled fares. As part of GSA’s efforts to increase efficiency in government travel, the Office of Evaluation Sciences (OES) created a traveler journey map to inform future intervention designs.
 
