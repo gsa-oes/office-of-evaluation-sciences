@@ -9,7 +9,9 @@ abstract:
 year: 2021
 domain: Economic Opportunity
 status: Ongoing
-agency: Small Business Administration
+agency: 
+  - Small Business Administration
+  - City of San Diego
 summary: Analysis Plan Registration
 featured: homepage
 ---
