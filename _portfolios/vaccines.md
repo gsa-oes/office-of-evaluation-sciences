@@ -22,9 +22,8 @@ OES evaluations in this domain tested low-cost and behaviorally-informed interve
 
 The interventions ranged from emails, postcards, letters, or social media notifications for potential vaccine recipients, to a more formal report card of a school’s vaccination compliance rate for school administrators and a modified clinical reminder in an Electronic Health Record system. The behavioral insights used in the interventions included reminders, planning prompts, social norms messaging, persuasive appeals, and message timing variations. 
 
-<br><br>
 <a class="usa-button" href="{{site.baseurl}}/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Read our 2-page summary here</a>
-<br><br>
+
 
 ## What did we learn?
 
