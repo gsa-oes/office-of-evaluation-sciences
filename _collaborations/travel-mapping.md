@@ -1,6 +1,6 @@
 ---
 title: Reducing the Cost of Government Travel: Encouraging Earlier Travel Booking
-permalink: /othercollabs/gsa-travel-mapping
+permalink: /othercollabs/gsa-travel-mapping/
 tags:
   - project 
   - mapping
