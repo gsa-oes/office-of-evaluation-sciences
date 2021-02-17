@@ -22,7 +22,7 @@ To better understand traveler booking experiences and diagnose the behavioral bo
 The behavioral map identifies key bottlenecks that contribute to travelers booking airline tickets close to the date of travel, such as the hassle factor and planning fallacy. The top panel presents the current process, and the bottom panel shows possible interventions that can encourage earlier travel booking. The proposed intervention includes three touch points: 
 1. an email notification informing employees that making an early reservation in Concur is policy compliant and can be done before receiving other approvals, 
 2. a notification within Concur that reminds travelers of the benefits of booking early, and 
-3. an email reminder to those who have upcoming travel that they should not wait for Salesforce approval to create an airline reservation. 
+3. an email reminder to those who have upcoming travel that they should not wait for Salesforce approval to create an airline reservation.  
 OES plans to evaluate the effectiveness of the intervention with a randomized control trial.
 
 
