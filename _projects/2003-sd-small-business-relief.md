@@ -11,7 +11,6 @@ domain: Economic Opportunity
 status: Ongoing
 agency: 
   - Small Business Administration
-  - City of San Diego
 summary: Analysis Plan Registration
 featured: homepage
 ---
@@ -21,3 +20,5 @@ This evaluation is currently being implemented. We have created this project pag
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2003_San_Diego_SBRF_Analysis_Plan.pdf">here</a>. 
 
 Check back for results!
+
+*This project is also being conducted in partnership with the City of San Diego.*
