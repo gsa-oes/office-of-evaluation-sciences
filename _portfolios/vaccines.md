@@ -22,6 +22,10 @@ OES evaluations in this domain tested low-cost and behaviorally-informed interve
 
 The interventions ranged from emails, postcards, letters, or social media notifications for potential vaccine recipients, to a more formal report card of a school’s vaccination compliance rate for school administrators and a modified clinical reminder in an Electronic Health Record system. The behavioral insights used in the interventions included reminders, planning prompts, social norms messaging, persuasive appeals, and message timing variations. 
 
+<br><br>
+<a class="usa-button" href="{{site.baseurl}}/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Read our 2-page summary here</a>
+<br><br>
+
 ## What did we learn?
 
 Together, results of these evaluations suggest that behaviorally-informed direct communications can increase vaccination rates at scale but may have smaller, less reliable effects than the published literature suggests. Two of the individual evaluations yielded significant effects: <a href="https://oes.gsa.gov/projects/medicare-flu-vaccine-uptake/">Letter reminders to Medicare beneficiaries</a> increased the probability of influenza vaccination, and <a href="https://oes.gsa.gov/projects/increasing-vaccine-uptake-among-seniors/">postcard reminders to older Louisiana residents</a> in October increased uptake of four recommended vaccinations.  However, the increases in these evaluations ranged from 0.27 to 0.7 percentage points, smaller than effects observed in published papers with smaller samples. 
@@ -29,5 +33,3 @@ Together, results of these evaluations suggest that behaviorally-informed direct
 Starting in 2018, OES evaluations tested communications to providers rather than patients or intermediaries, with interventions including a <a href="https://oes.gsa.gov/projects/increasing-adult-vaccines-atlanta-va/">change to a hospital’s electronic health record (EHR)</a> vaccination bundling and clinical reminders.  Some of this work is ongoing. 
 
 In early 2021, OES developed lessons learned from the OES portfolio to inform the COVID-19 vaccination effort. <br><br>
-<a class="usa-button" href="{{site.baseurl}}/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Read our 2-page summary here</a>
-<br><br>
