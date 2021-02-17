@@ -18,7 +18,7 @@ The majority of government travelers in the General Services Administration (GSA
 ## What did we do?
 To better understand traveler booking experiences and diagnose the behavioral bottlenecks, OES conducted interviews with GSA employees who travel for work.  The OES team utilized this qualitative data to generate a behavioral map of travelers’ experiences in cooperation with the Travel, Relocation, Mail & Transportation Policy Division at GSA.
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/GSA-Travel-Timing-Behavioral-Map.jpg)
+![image]({{site.baseurl}}/assets/img/project-images/othercollabs/GSA-Travel-Timing-Behavioral-Map.jpg)<br>
 <a href="https://oes.gsa.gov/assets/files/GSA-Travel-Timing-Behavioral-Map.pdf">**View larger image here**</a>
 
 ## What did we learn?
