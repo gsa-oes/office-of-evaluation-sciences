@@ -21,4 +21,4 @@ The Analysis Plan at the right indicates the date locked, and you can verify our
 
 Check back for results!
 
-*This project is also being conducted in partnership with the City of San Diego.*
+*This project is being conducted in partnership with the City of San Diego.*
