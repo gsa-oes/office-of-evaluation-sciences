@@ -1,5 +1,5 @@
 ---
-title: Reducing the Cost of Government Travel: Encouraging Earlier Travel Booking
+title: Reducing the Cost of Government Travel by Encouraging Earlier Travel Booking
 permalink: /othercollabs/gsa-travel-mapping/
 tags: project 
 image: /assets/img/project-images/othercollabs/gsa-travel-image.png
