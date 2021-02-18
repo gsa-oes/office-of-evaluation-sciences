@@ -23,6 +23,7 @@ The behavioral map identifies key bottlenecks that contribute to travelers booki
 1. an email notification informing employees that making an early reservation in Concur is policy compliant and can be done before receiving other approvals, 
 2. a notification within Concur that reminds travelers of the benefits of booking early, and 
 3. an email reminder to those who have upcoming travel that they should not wait for Salesforce approval to create an airline reservation.  
+
 OES plans to evaluate the effectiveness of the intervention with a randomized control trial.
 
 
