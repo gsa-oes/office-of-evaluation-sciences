@@ -6,7 +6,7 @@ tags:
   - Education
 image: /assets/img/project-images/othercollabs/grad-photo-ed.jpg
 image-credit: https://www.flickr.com/photos/alan-light/7184218434
-academic-pub: /assets/abstracts/2103-HEERF-evaluation-design-report.pdf
+academic-pub: /assets/abstracts/2103-HEERF-eval-design-report.pdf
 year: 2021
 domain: Education
 agency: Education
