@@ -3,7 +3,7 @@ title:  Counterfactual Equity—Evaluating the Fairness of Different Small Busin
 permalink: /projects/sb-counterfactual-equity/
 tags: project  
 image: /assets/img/project-images/othercollabs/sb-equity-image.jpg
-image-credit: https://insidesources.com/rural-businesses-wait-for-relief/
+image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.jpg
 analysis-plan: /assets/analysis/2105_SBequity_analysisplan.pdf
 abstract:  
 year: 2021
