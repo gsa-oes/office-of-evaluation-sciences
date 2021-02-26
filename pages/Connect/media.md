@@ -49,9 +49,6 @@ summary: Read more about OES through media coverage or contact our press office.
 <a href="https://sciencetrends.com/using-descriptive-social-norms-to-improve-immunization-compliance/">Using Descriptive Social Norms To Improve Immunization Compliance</a>
 <br/><i>Science Trends</i>, July 2019
 
-<a href="https://www2.deloitte.com/us/en/insights/industry/public-sector/government-trends/2020/government-nudge-thinking.html">Nudging for good: Using behavioral science to improve government outcomes</a>
-<br/><i>Deloitte Insights</i>, June 2019
-
 <a href="https://www.govexec.com/management/2019/06/think-government-cant-do-anything-quickly-and-cheaply-think-again/157765/">Think Government Can't Do Anything Quicky and Cheaply? Think Again</a>
 <br/><i>GovExec</i>, June 2019
 
@@ -94,8 +91,6 @@ summary: Read more about OES through media coverage or contact our press office.
 <a href="https://apnews.com/2d954eb9e82447c19134ec9504a7171e">IRS letters warn millions about health insurance penalty</a>
 <br/><i>The Associated Press</i>, January 2017
 
-<a href="https://medium.com/presidential-innovation-fellows/shipping-in-government-5-things-we-learned-from-vote-usa-gov-b13ecd98b0a1">Shipping in Government: 5 Things We Learned from Vote.USA.Gov</a>
-<br/><i>Presidential Innovation Fellows Foundation</i>, January 2016
 
 ## Press inquiries
 
