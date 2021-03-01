@@ -4,6 +4,7 @@ permalink: /othercollabs/HEERF-eval-design/
 tags:
   - project 
   - Education
+  - highered
 image: /assets/img/project-images/othercollabs/grad-photo-ed.png
 image-credit: https://www.flickr.com/photos/alan-light/7184218434
 academic-pub: /assets/abstracts/2103-HEERF-eval-design-report.pdf
