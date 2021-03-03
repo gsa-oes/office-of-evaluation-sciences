@@ -4,7 +4,7 @@ permalink: /othercollabs/plan-d-plan-choice/
 tags:
   - collaborations
   - health insurance
-image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.png
+image: /assets/img/project-images/collaborations/plan-d-plan-choice-image.png
 image-credit: https://www.gao.gov/products/GAO-19-627
 intervention: /assets/interventions/Intervention Pack - Part D Plan Choice.pdf
 year: 2021
