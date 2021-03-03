@@ -41,6 +41,7 @@ page.tagline and page.intro %}
 
 {% assign featured_ongoing = site.projects | where_exp: "project" , "project.featured == 'homepage' and project.status == 'Ongoing'" %}
 {% assign featured_completed = site.projects | where: "featured" , "homepage" | where: "status", "Complete" %}
+{% assign featured_collaborations = site.collaborations | where: "featured" , "homepage" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-secondary-lighter">
