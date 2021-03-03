@@ -1,6 +1,6 @@
 ---
 title:  Increasing Access to Small Business Grant and Loan Programs for Historically Underserved Groups
-permalink: /othercollabs/sba-grant-equity/
+permalink: /collaborations/sba-grant-equity/
 tags:
   - collaborations
   - Small Business Administration
