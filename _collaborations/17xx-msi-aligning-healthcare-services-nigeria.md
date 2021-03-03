@@ -2,7 +2,7 @@
 title:  Integrating Health Care Services in Nigeria
 permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
-  - collaborations 
+  - collaborations
   - USAID
 image: /assets/img/project-images/mis-nigeria.jpg  
 image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.jpg
