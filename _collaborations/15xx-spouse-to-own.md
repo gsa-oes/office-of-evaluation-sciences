@@ -2,7 +2,7 @@
 title:  Improving Claiming Choices for Recipients of Social Security Spousal Benefits 
 permalink: /othercollabs/spouse-to-own/
 tags:
-  - project 
+  - collaborations
 image: /assets/img/project-images/image-spouse-to-own.jpg
 image-credit: https://blog.ssa.gov/why-social-security-retirement-is-important-to-woman/ 
 intervention: /assets/interventions/spouse-to-own-intervention-pack.pdf
