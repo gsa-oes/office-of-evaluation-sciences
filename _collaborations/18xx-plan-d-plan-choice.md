@@ -2,7 +2,7 @@
 title:  Encouraging Active Plan Choice Among LIS Beneficiaries
 permalink: /othercollabs/plan-d-plan-choice/
 tags:
-  - project 
+  - collaboration
 image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.png
 image-credit: https://www.gao.gov/products/GAO-19-627
 intervention: /assets/interventions/Intervention Pack - Part D Plan Choice.pdf
