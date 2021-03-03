@@ -1,6 +1,6 @@
 ---
 title:  Census Community Outreach Toolkit
-permalink: /othercollabs/census-community-outreach-toolkit/
+permalink: /collaborations/census-community-outreach-toolkit/
 tags:
   - collaborations
   - census
