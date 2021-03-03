@@ -1,6 +1,6 @@
 ---
 title:  Improving Claiming Choices for Recipients of Social Security Spousal Benefits 
-permalink: /othercollabs/spouse-to-own/
+permalink: /collaborations/spouse-to-own/
 tags:
   - collaborations
   - retirement 
