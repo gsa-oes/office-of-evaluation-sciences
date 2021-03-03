@@ -10,7 +10,7 @@ class:
 summary: 	
 ---	
 
-In 2017, OES developed the <a href="{{site.baseurl}}/othercollabs/census-community-outreach-toolkit"> Community Outreach Toolkit</a> with the U.S. Census Bureau’s <a href="https://opportunity.census.gov/coil/">Center for Open Innovation Lab (COIL)</a> team in an effort to summarize behavioral insights that could be employed to increase completion of the 2020 Decennial. These insights were organized around common reasons understood from customer research for not completing the census. This Toolkit is meant to support the extensive network of external partners’ Census communication and outreach efforts. 	
+In 2017, OES developed the <a href="{{site.baseurl}}/collaborations/census-community-outreach-toolkit"> Community Outreach Toolkit</a> with the U.S. Census Bureau’s <a href="https://opportunity.census.gov/coil/">Center for Open Innovation Lab (COIL)</a> team in an effort to summarize behavioral insights that could be employed to increase completion of the 2020 Decennial. These insights were organized around common reasons understood from customer research for not completing the census. This Toolkit is meant to support the extensive network of external partners’ Census communication and outreach efforts. 	
 
 In the Toolkit, four common participation “barriers” are identified:	
 - **“I don’t think the census has any impact on my life.”** This person isn’t sure what the census does, how its data affects them, and why their participation matters.	
