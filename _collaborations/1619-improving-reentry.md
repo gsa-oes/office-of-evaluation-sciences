@@ -1,7 +1,7 @@
 ---
 title: Improving Re-entry to Reduce Recidivism
 permalink: /projects/improving-reentry/
-tags: project
+tags: collaborations
 image: /assets/img/project-images/Federal_Prison.jpg
 image-credit: https://www.flickr.com/photos/8126271@N04/855127147
 academic-pub: /assets/abstracts/1619-reentry-handbook.pdf
