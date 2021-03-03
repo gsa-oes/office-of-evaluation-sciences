@@ -1,6 +1,6 @@
 ---
 title: Increasing Voluntary Contributions at Congregate Meals Program Sites
-permalink: /othercollabs/congregate-meals/
+permalink: /collaborations/congregate-meals/
 tags:
   - collaborations
 image: /assets/img/project-images/othercollabs/congregate-meals-image.png
