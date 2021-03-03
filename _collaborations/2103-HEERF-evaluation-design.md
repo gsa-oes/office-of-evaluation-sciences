@@ -1,6 +1,6 @@
 ---
 title:  Evaluating the Effects of HEERF Aid to Students
-permalink: /othercollabs/HEERF-eval-design/
+permalink: /collaborations/HEERF-eval-design/
 tags:
   - collaborations
   - Education
