@@ -1,6 +1,6 @@
 ---
 title:  Increasing Enrollment in Low-Income Medicare Programs 
-permalink: /othercollabs/lis-msp-enrollment/
+permalink: /collaborations/lis-msp-enrollment/
 tags:
   - collaborations
   - health insurance 
