@@ -1,6 +1,6 @@
 ---
 title: Facilitating Individual Action to Build Stronger Community-Police Relationships
-permalink: /projects/community-police-relationships/
+permalink: /collaborations/community-police-relationships/
 image: /assets/img/project-images/IMG_2920.jpg
 tags: collaborations
 academic-pub: /assets/abstracts/1606-1-Community-Action-Deck.pdf
