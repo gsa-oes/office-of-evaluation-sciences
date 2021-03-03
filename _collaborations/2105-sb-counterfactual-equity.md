@@ -1,6 +1,6 @@
 ---
 title:  Counterfactual Equity—Evaluating the Fairness of Different Small Business Relief Allocation Methods
-permalink: /projects/sb-counterfactual-equity/
+permalink: /collaborations/sb-counterfactual-equity/
 tags: collaborations
 image: /assets/img/project-images/othercollabs/sb-equity-image.jpg
 image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.jpg
