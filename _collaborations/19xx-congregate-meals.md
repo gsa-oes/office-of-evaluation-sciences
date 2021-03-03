@@ -2,7 +2,7 @@
 title: Increasing Voluntary Contributions at Congregate Meals Program Sites
 permalink: /othercollabs/congregate-meals/
 tags:
-  - project 
+  - collaborations
 image: /assets/img/project-images/othercollabs/congregate-meals-image.png
 image-credit: https://pixy.org/1398140/ 
 abstract: /assets/abstracts/Abstract - Congregate Meals_2020-12-22.pdf

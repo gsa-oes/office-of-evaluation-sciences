@@ -2,7 +2,7 @@
 title:  Census Community Outreach Toolkit
 permalink: /othercollabs/census-community-outreach-toolkit/
 tags:
-  - project 
+  - collaborations
   - census
 image: /assets/img/project-images/census.jpg
 image-credit: https://www.flickr.com/photos/uscensusbureau/7024455607
