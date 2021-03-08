@@ -19,7 +19,7 @@ Discuss agencies’ experiences and lessons learned from the first two years of 
 
 ### Cost Analysis in Evaluation
 Introduction to cost analysis: discuss the types of cost analysis used in evaluation and highlight how answering cost questions can inform policies and programs. 
-- Thursday April 8, 2021 from 2:00 to 3:30 pm
+- April 6, 2021 from 2:00 to 3:30 pm
 
 ## Past Federal Workshops
 
