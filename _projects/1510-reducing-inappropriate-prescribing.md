@@ -7,6 +7,7 @@ tags:
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
+academic-pub: /assets/publications/1510 - Government-Academic Partnerships in Randomized Evaluations - The Case of Inappropriate Prescribing.pdf
 year: 2015
 status: Complete
 domain: Health
