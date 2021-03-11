@@ -4,6 +4,7 @@ permalink: /collaborations/sba-grant-equity/
 tags:
   - collaborations
   - Small Business Administration
+  - business
 image: /assets/img/project-images/othercollabs/sba-loan-image.jpg
 academic-pub: /assets/abstracts/2006-smallbusinessaccessreport-nov2020.pdf
 model: /assets/files/sba-comparison-program-models.pdf
