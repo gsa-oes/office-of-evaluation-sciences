@@ -2,7 +2,7 @@
 layout: portfolio
 title: Small Business
 permalink: /small-business/
-image: /assets/img/project-images/othercollabs/sba-equity-image.jpg  
+image: /assets/img/project-images/othercollabs/sba-equity-image.jpg 
 image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.jpg
 year: 2021
 summary: Building evidence about how to support small business growth and success
