@@ -2,7 +2,7 @@
 layout: portfolio
 title: Small Business
 permalink: /small-business/
-image: /assets/img/project-images/othercollabs/sba-equity-image.jpg
+image: /assets/img/project-images/othercollabs/2105-image.jpg
 year: 2021
 summary: Building evidence about how to support small business growth and success
 project_tags:
