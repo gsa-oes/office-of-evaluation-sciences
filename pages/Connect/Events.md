@@ -13,15 +13,15 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Evidence Act – Lessons from the First Two Years of Implementation
-Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
-- March 10, 2021 from 3:00 to 4:30 pm
-
 ### Cost Analysis in Evaluation
 Introduction to cost analysis: discuss the types of cost analysis used in evaluation and highlight how answering cost questions can inform policies and programs. 
 - April 6, 2021 from 2:00 to 3:30 pm
 
 ## Past Federal Workshops
+
+### Evidence Act – Lessons from the First Two Years of Implementation
+Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
+- March 10, 2021 from 3:00 to 4:30 pm
 
 ### Building Logic Models for Evaluation
 Hands-on practice in developing and using a logic model to inform evaluation activities. 
