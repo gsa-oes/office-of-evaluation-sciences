@@ -5,6 +5,7 @@ tags:
   - collaborations
   - Education
   - highered
+  - covid
 image: /assets/img/project-images/othercollabs/grad-photo-ed.png
 image-credit: https://www.flickr.com/photos/alan-light/7184218434
 academic-pub: /assets/abstracts/2103-HEERF-eval-design-report.pdf
