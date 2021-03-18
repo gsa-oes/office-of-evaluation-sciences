@@ -1,7 +1,9 @@
 ---
 title: Increasing Enrollment in the Small Business Administration's Learning Center
 permalink: /projects/learning-center-enrollment/
-tags: project
+tags: 
+  - project
+  - business
 image: /assets/img/project-images/sba.jpg
 image-credit: https://www.flickr.com/photos/seattlecommunitytech/
 abstract: /assets/abstracts/1614-SBA-Learning-Center.pdf
