@@ -16,9 +16,10 @@ The coronavirus (COVID-19) outbreak has caused both a public health and an econo
 OES worked with the Department of Education, the Small Business Administration, the Department of Health and Human Services, and other agencies to provide evaluation support to assess the impact of COVID-19 policy responses, as well as to share relevant lessons learned from past evaluations on communicating about health behavior. 
 
 ### Relevant OES Guides
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Using Behavioral Science to Increase COVID-19 Vaccination Uptake</a>
+<br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf">Encouraging COVID-19 prevention behaviors</a>
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf">Designing effective health communications</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Low-cost interventions to increase vaccination uptake</a>
-<br><br>
+
