@@ -4,7 +4,7 @@ title: Responding to the COVID-19 Pandemic
 permalink: /covid-19-response/
 image: /assets/img/project-images/covid-19-portfolio-image.jpg
 year: 2021
-summary: OES Evaluations and Insights to Inform the COVID-19 Response
+summary: OES evaluations and insights to inform the COVID-19 response
 project_tags:
   - covid
 ---
