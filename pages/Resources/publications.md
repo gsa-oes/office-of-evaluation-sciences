@@ -44,7 +44,7 @@ David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry.  
 
 
 ## 2017
-Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Arawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> Health Affairs 35 no. 3 (2017): 471-479. 
+Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Agrawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> Health Affairs 35 no. 3 (2017): 471-479. 
 - This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 Adam Sacarny, David Yokum, and Shantanu Agrawal. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> American Economic Review 107, no. 5, (2017): 466-470.	
