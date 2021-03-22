@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
-academic-pub: /assets/publications/1510 - Government-Academic Partnerships in Randomized Evaluations - The Case of Inappropriate Prescribing.pdf
+academic-pub: /assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf
 year: 2015
 status: Complete
 domain: Health
@@ -32,6 +32,6 @@ Using data collected over the 90 days after the letter was mailed, comparisons f
 
 <i> Related Publications</i>
 <br>
-Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Arawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> Health Affairs 35 no. 3 (2017): 471-479. 
+Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Agrawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> Health Affairs 35 no. 3 (2017): 471-479. 
 <br>
 Adam Sacarny, David Yokum, and Shantanu Agrawal. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> American Economic Review 107, no. 5, (2017): 466-470.	
