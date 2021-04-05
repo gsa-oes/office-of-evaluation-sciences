@@ -1,7 +1,7 @@
 ---	
 layout: page	
 title: What are the best ways to encourage COVID-19 vaccination?
-permalink: /blog/cost-analysis/	
+permalink: /blog/encourage-covid-19-vacciantion/	
 image: /assets/img/project-images/1740.jpg
 year: 2023
 class:	
