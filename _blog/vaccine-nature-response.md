@@ -8,7 +8,7 @@ class:
 summary: 	
 ---	
 
-A coordinated and transparent effort to conduct rapid evaluations would allow vaccination programs to quickly learn about the most effective ways to encourage vaccination. A recent article in the journal *Nature* calls on health systems to use the COVID-19 vaccination rollout to conduct rapid evaluations on how best to encourage people to get their vaccines. 
+A coordinated and transparent effort to conduct rapid evaluations would allow vaccination programs to quickly learn about the most effective ways to encourage vaccination. A recent article in the journal *Nature*₁ calls on health systems to use the COVID-19 vaccination rollout to conduct rapid evaluations on how best to encourage people to get their vaccines. 
 
 Our team at OES has done this type of work before. We have completed eight randomized evaluations of direct communications intended to boost the uptake of influenza and routine vaccinations with our agency collaborators (see <a href="https://oes.gsa.gov/vaccines/">oes.gsa.gov/vaccines</a>).
 
