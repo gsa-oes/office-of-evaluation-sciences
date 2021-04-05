@@ -18,4 +18,4 @@ Conducting these rapid evaluations required health and data systems that were ab
 
 Vaccination encouragement will be particularly important when supply exceeds demand, so right now is an opportune time to plan for incorporating rapid evaluation of different approaches to encouraging vaccination. As OES’s pre-COVID vaccination uptake interventions have shown, implementing and evaluating large scale approaches to vaccination encouragement is feasible, and will pay dividends for years to come. 
 
-1. Patel M. Test behavioural nudges to boost COVID immunization. Nature. 2021 Feb 1;590(7845):185.
+1. Patel M. Test behavioural nudges to boost COVID immunization. *Nature*. 2021 Feb 1;590(7845):185.
