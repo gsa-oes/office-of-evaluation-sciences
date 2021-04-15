@@ -8,6 +8,7 @@ image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
 academic-pub: /assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf
+intervention: /assets/interventions/Intervention Pack - CPI.pdf
 year: 2015
 status: Complete
 domain: Health
