@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: New working paper shows how OES letters tripled Supplemental Security Income awards?
+title: New working paper shows how OES letters tripled Supplemental Security Income awards
 permalink: /blog/ssi-awards/	
 image: /assets/img/project-images/1723.jpg
 year: 2024
