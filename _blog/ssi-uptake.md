@@ -22,4 +22,4 @@ Cost estimates suggest that letters that increase take-up by any letter constitu
 
 The new working paper details impacts by individual characteristics, and shows that the letters had the largest effects on widows, younger individuals, people in states where an SSI award also includes Medicaid eligibility, and people with a lower potential SSI amount — important populations to consider, as the Administration supports underserved communities. 
 
-For more information about the working paper, intervention pack, and project abstract, see <a href="https://oes.gsa.gov/projects/increasing-ssi-uptake/">the project page here</a>.
+For more information about the working paper, intervention pack, and project abstract, see <a href="https://oes.gsa.gov/projects/increasing-ssi-uptake/">the project page here</a>. 
