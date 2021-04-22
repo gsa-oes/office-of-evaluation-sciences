@@ -13,10 +13,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Cost Analysis in Evaluation
-Introduction to cost analysis: discuss the types of cost analysis used in evaluation and highlight how answering cost questions can inform policies and programs. 
-- April 6, 2021 from 2:00 to 3:30 pm
-
 ### Asking the Right Question: Tips and Tools to Help Agencies Formulate Strong Questions to Yield Actionable Results
 In order to get what you need, you have to ask the right question! This workshop will help participants understand how to articulate and write learning agenda and evaluation questions that will result in useful information for decision-making.
 - May 12, 2021 from 3:00 to 4:30 pm
@@ -26,6 +22,10 @@ Formative and Process Evaluations can be important tools for assessing whether a
 - June 15, 2021 from 12:00 to 1:30 PM
 
 ## Past Federal Workshops
+
+### Cost Analysis in Evaluation
+Introduction to cost analysis: discuss the types of cost analysis used in evaluation and highlight how answering cost questions can inform policies and programs. 
+- April 6, 2021 from 2:00 to 3:30 pm
 
 ### Evidence Act – Lessons from the First Two Years of Implementation
 Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
