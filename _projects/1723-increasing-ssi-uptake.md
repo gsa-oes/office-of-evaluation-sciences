@@ -9,6 +9,7 @@ image-credit: https://pixabay.com/photo-3113574/
 analysis-plan: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
 abstract: /assets/abstracts/1723-Increasing-SSI-Uptake.pdf
 academic-pub: /assets/publications/1723 - Hemmeter et al (2021) - Communicating Program Eligibility A Supplemental Security Income (SSI) Field Experiment.pdf
+intervention: /assets/interventions/Intervention Pack - SSI 65+ (1).pdf
 year: 2018  
 status: Complete
 domain: Retirement Security
