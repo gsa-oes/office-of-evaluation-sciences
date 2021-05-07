@@ -11,6 +11,9 @@ All of our work is available on our website, regardless of outcome, in line with
 
 
 ## 2020
+Daniel D. Shephard, Crystal C. Hall, and Cait Lamberton. "<a href="https://journals.sagepub.com/doi/abs/10.3102/0013189X20981067">Increasing Identification of Homeless Students: An Experimental Evaluation of Increased Communication Incorporating Behavioral Insights.</a>" Educational Researcher, 50 (4), 239-248 (2020).
+- Across 1,732 local education agencies in New Jersey, New Mexico, and New York, we conducted a randomized controlled trial of increased email communication incorporating behavioral insights targeting homeless liaison staff in order to increase the identification of homeless students. The intervention had an impact on the mean number of identified homeless students among the treatment local education agencies.
+
 Aderaw Anteneh, Kelly Bidwell, Woldemariam Girma, Kristen Little, Nicholas Wilson, and Endale Workalemahu. <a href="https://oes.gsa.gov/assets/publications/1722%20-%20USAID%20Ethiopia%20Anteneh%20et%20al%20AEL%202020.pdf">"Appraising praise: experimental evidence on positive framing and demand for health services."</a> Applied Economics Letters, (2020).
 - This study used field experiment with over 800 HIV+ female sex workers (FSWs) in Ethiopia testing the effects of providing of Praise Message phone calls on retention in antiretroviral (ART) care and adherence to ART medication. We find mixed evidence on the effects of Praise Messages, suggesting further investigation into the effects of praise or other non-informative communication on health behaviour.
 
