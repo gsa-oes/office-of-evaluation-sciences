@@ -13,7 +13,6 @@ year: 2021
 domain: Education
 agency: Education
 summary: A regression-discontinuity design to estimate the effects of emergency aid on student academic outcomes.
-featured: homepage
 ---
 ## What was the challenge?
 
