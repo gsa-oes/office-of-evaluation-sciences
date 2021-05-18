@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mission
-permalink: /about/
+permalink: /mission/
 image:
 image_full: true
 class:
