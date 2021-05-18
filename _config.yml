@@ -25,6 +25,10 @@ collections:
     output: true
   blog:
     output: true
+  about:
+    output: true
+  services:
+    output: true
 
 defaults:
   - scope:
@@ -46,10 +50,20 @@ defaults:
       path: ''
       type: blog
     values:
-      layout: blog-single
+      layout: page
   - scope:
       path: ''
       type: portfolios
+    values:
+      layout: portfolio
+  - scope:
+      path: ''
+      type: about
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: services
     values:
       layout: portfolio
 
