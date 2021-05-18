@@ -2,6 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
+tags: blog
 image:
 class: page-team
 summary: Meet the team
