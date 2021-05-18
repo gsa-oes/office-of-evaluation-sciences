@@ -11,7 +11,7 @@ summary: Working with the Office of Evaluation Sciences - What We Do
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
-    {% assign sorted_about = site.about | sort:"year" | reverse %}
+    {% assign sorted_about = site.about %}
     {% for project in sorted_about %}
       {% include project-card.html %}
     {% endfor %}
