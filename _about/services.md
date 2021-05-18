@@ -2,6 +2,7 @@
 layout: page
 title: Our Services
 permalink: /services/
+tags: blog
 image:
 image_full: true
 class:
