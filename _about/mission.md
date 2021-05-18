@@ -2,6 +2,7 @@
 layout: page
 title: Mission
 permalink: /mission/
+tags: blog
 image:
 image_full: true
 class:
