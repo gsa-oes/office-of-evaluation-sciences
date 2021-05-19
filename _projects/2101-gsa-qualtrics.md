@@ -4,7 +4,7 @@ permalink: /projects/policymakers-impact/
 tags: 
   - project
 image: /assets/img/project-images/2101.jpeg
-image-credit:
+image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.jpg
 analysis-plan: 
 year: 2021
 domain: Government Operations
