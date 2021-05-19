@@ -3,7 +3,7 @@ title: Understanding and Improving Policymakers’ Sensitivity to Impact
 permalink: /projects/policymakers-impact/
 tags: 
   - project
-image: /assets/img/project-images/1902-ticket-to-work.jpeg
+image: /assets/img/project-images/2101.jpeg
 image-credit:
 analysis-plan: 
 year: 2021
