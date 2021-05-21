@@ -5,7 +5,6 @@ tags:
   - project
 image: /assets/img/project-images/2101.jpeg
 image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.jpg
-analysis-plan: /assets/analysis/2101 - 3 - Analysis Plan - Final.pdf
 year: 2021
 domain: Government Operations
 status: Ongoing
