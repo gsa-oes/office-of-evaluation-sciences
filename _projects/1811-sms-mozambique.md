@@ -17,6 +17,6 @@ summary: Analysis Plan Registration
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1811-Mozambique-SMS-v2.pdf">here</a>. You can also access the registration information for this project in the American Economic Association Registry for randomized control trials <a href="https://www.socialscienceregistry.org/trials/5383">here</a>.
+The Analysis Plan is provided via the link at the right.  For this project, the upload date can be verified via the project registration in the American Economic Association Registry for randomized control trials <a href="https://www.socialscienceregistry.org/trials/5383">here</a>.
 
 Check back for results!
