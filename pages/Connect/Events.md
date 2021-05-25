@@ -18,7 +18,7 @@ Formative and Process Evaluations can be important tools for assessing whether a
 - June 15, 2021 from 12:00 to 1:30 PM EST
 
 ### Evaluation 101
-In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+In partnership with the Office of Management and Budget’s Evidence Team, this workshop serves as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - July 8, 2021 from 9:00 to 10:30 AM EST 
 
 ### When Existing Evidence Isn't Perfect: How to Use and Apply Imperfect Evidence
