@@ -13,15 +13,15 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Asking the Right Question: Tips and Tools to Help Agencies Formulate Strong Questions to Yield Actionable Results
-In order to get what you need, you have to ask the right question! This workshop will help participants understand how to articulate and write learning agenda and evaluation questions that will result in useful information for decision-making.
-- May 12, 2021 from 3:00 to 4:30 pm
-
 ### Introduction to Formative and Process Evaluations
 Formative and Process Evaluations can be important tools for assessing whether a program is appropriate and feasible in a given context, and understanding how a program is working. This workshop will provide an introduction to common tools and methodologies used in these types of evaluations. 
 - June 15, 2021 from 12:00 to 1:30 PM
 
 ## Past Federal Workshops
+
+### Asking the Right Question: Tips and Tools to Help Agencies Formulate Strong Questions to Yield Actionable Results
+In order to get what you need, you have to ask the right question! This workshop will help participants understand how to articulate and write learning agenda and evaluation questions that will result in useful information for decision-making.
+- May 12, 2021 from 3:00 to 4:30 pm
 
 ### Cost Analysis in Evaluation
 Introduction to cost analysis: discuss the types of cost analysis used in evaluation and highlight how answering cost questions can inform policies and programs. 
