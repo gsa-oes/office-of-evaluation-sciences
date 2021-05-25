@@ -15,7 +15,23 @@ This training series is a continuing partnership between the Office of Managemen
 
 ### Introduction to Formative and Process Evaluations
 Formative and Process Evaluations can be important tools for assessing whether a program is appropriate and feasible in a given context, and understanding how a program is working. This workshop will provide an introduction to common tools and methodologies used in these types of evaluations. 
-- June 15, 2021 from 12:00 to 1:30 PM
+- June 15, 2021 from 12:00 to 1:30 PM EST
+
+### Evaluation 101
+In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+- July 8, 2021 from 9:00 to 10:30 AM EST 
+
+### When Existing Evidence Isn't Perfect: How to Use and Apply Imperfect Evidence
+Agencies are being called to better use evidence across agency functions and decisions. Yet, we know that evidence is often imperfect, and staff need strategies to make sense of this evidence in their work. This workshop will provide a high-level overview of the various types of imperfect evidence and approaches to using that evidence. 
+- July 21, 2021 from 3:00 to 4:30 PM EST
+
+### Why Randomize?: Case Study
+This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, will walk participants through a real‐life case.
+- August 3, 2021 from 3:00 to 4:30 PM EST
+
+### Understanding the Paperwork Reduction Act and its Implications for Evaluation Information Collections
+This workshop will provide participants with a deeper understanding the Paperwork Reduction Act (PRA) and its implications for data collected for evaluations. Featuring speakers from OMB’s Office of Information and Regulatory Affairs (OIRA) and Evidence Team, this interactive session will provide an overview of the PRA and its requirements and offer insight as to OIRA’s review of evaluation-focused packages. 
+- September 15, 2021 from 3:00 to 4:30 PM EST
 
 ## Past Federal Workshops
 
@@ -45,27 +61,17 @@ Discuss and dispel misconceptions about evaluations that show no evidence of imp
 
 ### How to Conduct Randomized Controlled Trials
 This session helped participants learn how to conduct randomized controlled trials, and addressed common challenges and misconceptions.
-- August 17, 2020 (virtual).
+- August 17, 2020
 
 ### Evaluation 101
 In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- January 23, 2020 
-- April 8, 2020
 - July 30, 2020
 - October 5, 2020
 - January 19, 2021
 
 ### Creative Uses of Administrative Data
 OES hosted a virtual session on creative uses of administrative data. This session highlighted creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
-- June 15, 2020 (virtual)
-
-### Evidence Act Toolkits: A Guide to Learning Agendas and Annual Evaluation Plans
-OES staff shared a summary of the motivation for toolkits to assist agencies in building Learning Agendas and Annual Evaluation Plans, as well as highlighted specific tools and resources developed. For more information on the toolkits, please visit <a href="https://oes.gsa.gov/toolkits/">oes.gsa.gov/toolkits.</a>
-- February 24, 2020 at GSA
-
-### Exploring Ways to Identify Resources and Opportunities to Support Evaluation Activities
-OES and the Office of Management and Budget's Evidence Team co-hosted a workshop on identifying the resources needed to support evaluation activities. Agency partners shared ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource‐limited environments. 
-- February 19, 2020 at GSA
+- June 15, 2020
 
 # Past OES Events 
 
