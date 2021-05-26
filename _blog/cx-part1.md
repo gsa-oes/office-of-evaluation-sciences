@@ -2,7 +2,7 @@
 layout: page	
 title: Using behavioral insights at the Office of Evaluation Sciences to improve customer experience with government
 permalink: /blog/cx-part-1/	
-image: /assets/img/project-images/1723.jpg
+image: /assets/img/project-images/customer-experience.jpeg
 year: 2025
 class:	
 summary: 	
