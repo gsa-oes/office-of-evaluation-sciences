@@ -2,7 +2,7 @@
 layout: page	
 title: Using behavioral insights to improve customer experience with government
 permalink: /blog/cx-part-1/	
-image: /assets/img/project-images/customer-experience.jpeg
+image: /assets/img/project-images/customer-experience.png
 year: 2025
 class:	
 summary: 	
