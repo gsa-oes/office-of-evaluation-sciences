@@ -8,7 +8,7 @@ class:
 summary: 	
 ---	
 
-*This is the first part of a two-part discussion about how OES work improves the federal customer experience. An <a href="https://www.performance.gov/blog/spotlight-government-team-works-to-improve-services-for-all/">abbreviated version of this post</a> appears on the Performance.gov CX blog.*
+*This is the first part of a two-part discussion about how OES work improves the federal customer experience. An <a href="https://www.performance.gov/blog/spotlight-government-team-works-to-improve-services-for-all/">abbreviated version of this post</a> appears on the Performance.gov blog.*
 
 Shannon currently sees her doctor at the Naval Medical Center Camp Lejeune. Keeping track of her communications with her doctor, making sure she doesn’t miss important lab results or messages about her care, is one more to-do when she has a full time job as a Marine Logistics/Mobility Chief and mom of three.
 
