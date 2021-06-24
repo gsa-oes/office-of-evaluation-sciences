@@ -1,5 +1,5 @@
 ---
-title:  Encouraging SSI Recipients to Self-Report Wage Changes
+title:  Encouraging Social Security Income Recipients to Self-Report Wage Changes
 permalink: /projects/ssi-wage-reporting/
 tags: 
   - complete
