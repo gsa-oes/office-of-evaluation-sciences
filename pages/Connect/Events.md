@@ -13,10 +13,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Introduction to Formative and Process Evaluations
-Formative and Process Evaluations can be important tools for assessing whether a program is appropriate and feasible in a given context, and understanding how a program is working. This workshop will provide an introduction to common tools and methodologies used in these types of evaluations. 
-- June 15, 2021 from 12:00 to 1:30 PM EST
-
 ### Evaluation 101
 In partnership with the Office of Management and Budget’s Evidence Team, this workshop serves as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - July 8, 2021 from 9:00 to 10:30 AM EST 
@@ -34,6 +30,10 @@ This workshop will provide participants with a deeper understanding the Paperwor
 - September 15, 2021 from 3:00 to 4:30 PM EST
 
 ## Past Federal Workshops
+
+### Introduction to Formative and Process Evaluations
+Formative and Process Evaluations can be important tools for assessing whether a program is appropriate and feasible in a given context, and understanding how a program is working. This workshop will provide an introduction to common tools and methodologies used in these types of evaluations. 
+- June 15, 2021 from 12:00 to 1:30 PM EST
 
 ### Asking the Right Question: Tips and Tools to Help Agencies Formulate Strong Questions to Yield Actionable Results
 In order to get what you need, you have to ask the right question! This workshop will help participants understand how to articulate and write learning agenda and evaluation questions that will result in useful information for decision-making.
