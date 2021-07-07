@@ -21,7 +21,7 @@ In partnership with the Office of Management and Budget’s Evidence Team, this 
 Agencies are being called to better use evidence across agency functions and decisions. Yet, we know that evidence is often imperfect, and staff need strategies to make sense of this evidence in their work. This workshop will provide a high-level overview of the various types of imperfect evidence and approaches to using that evidence. 
 - July 21, 2021 from 3:00 to 4:30 PM EST
 
-### Why Randomize?: Case Study
+### Why Randomize? A Case Study
 This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, will walk participants through a real‐life case.
 - August 3, 2021 from 3:00 to 4:30 PM EST
 
