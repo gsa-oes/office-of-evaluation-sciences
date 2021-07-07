@@ -1,5 +1,5 @@
 ---
-title:  Counterfactual Equity—Evaluating the Fairness of Different Small Business Relief Allocation Methods
+title:  Who Receives Access to Small Business Relief? A Simulation-based Approach
 permalink: /collaborations/sb-counterfactual-equity/
 tags: 
   - collaborations
