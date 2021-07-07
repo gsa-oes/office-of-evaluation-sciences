@@ -28,6 +28,9 @@ Second was counterfactual equity—or how businesses from different groups and g
 
 We compare the portion of funding that would be awarded to applicants from businesses owned by women, businesses with other types of underserved owners (e.g., minority-owned), and businesses located in low-to-moderate income areas, under 10 different allocation methods including approaches that do or do not explicitly prioritize businesses from historically underserved groups. 
 
+![image]({{site.baseurl}}/assets/img/project-images/2105-procedure.jpg)
+**Figure 1:** Here, we show the procedure for simulating the impact of allocation methods on outcomes for underserved businesses. We started with business-level application data (N ~ 16,000), compare ten allocation methods (different variations of first-come first-served, lotteries, and points systems), and examine the impact on award rates for underserved businesses.
+
 ## What did we learn?
 Analyses of descriptive equity show the importance of precise measurement of underserved, including defining the unit of analysis (individuals versus areas) and whether being underserved comes from possessing any underserved attributes versus multiple. Simulations showed that both basic first-come, first-served methods and points systems that do not explicitly prioritize businesses from historically underserved groups disadvantage those businesses. 
 
