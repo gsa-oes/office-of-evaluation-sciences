@@ -35,20 +35,19 @@ class: page-collaborations-single
   {% if page.abstract %}
     <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
   {% endif %}
-  <br><br>
   {% if page.academic-pub %}
   <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}">View Publication</a>
 {% endif %}
-  <br><br>
 {% if page.intervention %}
   <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}">View Intervention Pack</a>
+{% endif %}
+  <br><br>
+  {% if page.visualization %}
+  <a class="usa-button" href="{{ page.visualization | prepend: site.baseurl }}">View Visualization</a>
 {% endif %}
   {% if page.model %}
   <a class="usa-button" href="{{ page.model | prepend: site.baseurl }}">View Model Comparision</a>
 {% endif %}
-   <br><br>
-  {% if page.visualization %}
-  <a class="usa-button" href="{{ page.visualization | prepend: site.baseurl }}">View Visualization</a>
-{% endif %}
+
   </div>
 </div>
