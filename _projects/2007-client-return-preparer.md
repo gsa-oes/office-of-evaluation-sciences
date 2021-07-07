@@ -1,6 +1,6 @@
 ---
 title:  Increasing Voluntary Tax Compliance Through Outreach to Clients of Return Preparers
-permalink: /projects/voluntary-tax-compliance-clients/
+permalink: /projects/client-tax-compliance/
 tags: project  
 image: /assets/img/project-images/2007-tax-image.jpg  
 image-credit: https://www.pexels.com/photo/calculator-and-tax-forms-inside-the-clear-envelope-6863518/
