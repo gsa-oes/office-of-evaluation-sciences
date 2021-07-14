@@ -2,7 +2,6 @@
 title:  Encouraging Social Security Income Recipients to Self-Report Wage Changes
 permalink: /projects/ssi-wage-reporting/
 tags: 
-  - complete
   - project
   - cost savings
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
@@ -13,7 +12,6 @@ domain: Government Efficiency
 status: Complete
 agency: Social Security Administration
 summary: A reminder encouraged SSI recipients to self-report changes in earnings earlier, potentially reducing overpayment.
-featured: homepage
 ---
 ## What was the challenge?
 
