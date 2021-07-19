@@ -5,7 +5,7 @@ tags:
   - project
   - business
 image: /assets/img/project-images/2106.jpeg
-image-credit: 
+image-credit: https://media.architecturaldigest.com/photos/595e4567c5ba1157bf2ba26f/master/w_4288,h_2848,c_limit/Bedford.jpg
 analysis-plan: /assets/analysis/2106 - Equity Documentation - 3 - Analysis Plan.pdf
 abstract: 
 year: 2021
