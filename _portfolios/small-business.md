@@ -14,6 +14,4 @@ Nearly half of American employees work for a business with fewer than 500 employ
 
 
 ## Portfolio
-Projects in this portfolio have focused on improving access to economic and non-economic resources for small businesses, such as encouraging farmers to apply for microloans. Some projects focused specifically on how to connect groups that have faced higher barriers in establishing and growing a business, like women, with the resources they need for business success. 
-
-During COVID-19, OES worked with the Small Business Administration to evaluate the impact of relief funding disbursed by local governments, to identify barriers to getting this funding to businesses owned by members of historically underserved groups, and to evaluate methods to overcome those barriers. 
+Projects in this portfolio have focused on improving access to economic and non-economic resources for small businesses. During COVID-19, OES worked with the Small Business Administration to evaluate the impact of relief funding disbursed by local governments, to identify barriers to getting this funding to businesses owned by members of historically underserved groups, and to evaluate methods to overcome those barriers. 
