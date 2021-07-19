@@ -29,3 +29,5 @@ The sample was 5,370 phone numbers corresponding to women who received a referra
 The results suggest that the text reminders led to a significant increase in clinic visits, particularly among younger women and women in the period prior to the COVID-19 state of emergency. Among women whose phone number received a text message, 49.4 percent visited a clinic during the observed follow-up period, compared with 47.2 percent of women who did not receive a text message.
 
 ![image](https://oes.gsa.gov/assets/img/project-images/1811-graph.png)
+
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1811-Mozambique-SMS-v2.pdf">click here</a>.</i>
