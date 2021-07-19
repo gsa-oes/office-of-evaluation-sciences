@@ -17,7 +17,7 @@ summary: Text reminders increased clinic visits for family planning services
 featured: homepage
 ---
 ## What was the challenge?
-Population Services International (PSI) leads a component of the USAID-funded and Pathfinder International-led Integrated Family Planning Program, in which family planning promoters have one-on-one interactions with women in urban areas, share information about family planning, and, where appropriate, give out referrals to clinics for free family planning services. USAID/Mozambique and PSI seek to improve referral mechanisms with evidence-based insights.
+Population Services International (PSI) leads a component of the USAID-funded and Pathfinder International-led Integrated Family Planning Program, in which family planning promoters deliver one-on-one counseling with women in urban areas in order to share information about family planning, and, where appropriate, provide referrals to clinics for free family planning services. USAID/Mozambique and PSI seek to increase the effectiveness of these referrals using evidence-based insights.
 
 ## What was the program change?
 In collaboration with PSI and USAID, the Office of Evaluation Sciences (OES) designed a series of eight messages to send via text to women during the first week and month following a promoter interaction, reminding them of their referral for family planning and encouraging them to visit a clinic.
