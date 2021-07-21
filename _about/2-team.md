@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-tags: blog
+tags: 
 image: /assets/img/icons/oes-blue.jpg
 hide_image: true
 class: page-team
