@@ -3,6 +3,7 @@ layout: page
 title: What does it cost to incorporate behaviorally informed interventions within government programs?
 permalink: /blog/cost-analysis/	
 image: /assets/img/oes-banner-light.jpg
+hide_image: true
 year: 2022
 class:	
 summary: 	
