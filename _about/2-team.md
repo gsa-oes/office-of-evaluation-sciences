@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team/
 tags: blog
-image:
+image: /assets/img/icons/oes-blue.jpg
 image_full: true
 class: page-team
 summary: Meet our current and former staff and affiliates who share a passion for applying their expertise to improve government.
