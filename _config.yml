@@ -82,10 +82,10 @@ analytics:
 search_site_handle: oes.gsa.gov
 
 footer:
-  image: /assets/img/icons/gsa-white.svg
+  image: /assets/img/icons/gsa-logo.svg
   email: oes@gsa.gov
   twitter:
-    - usgsa
+    - oesatgsa
   text:
 
 forms:
