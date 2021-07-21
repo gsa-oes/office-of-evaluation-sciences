@@ -4,8 +4,9 @@ title: Team
 permalink: /team/
 tags: blog
 image:
+image_full: true
 class: page-team
-summary: Meet the team
+summary: Meet our current and former staff and affiliates who share a passion for applying their expertise to improve government.
 
 filters:
   - key: year
