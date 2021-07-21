@@ -27,7 +27,11 @@ collections:
     output: true
   about:
     output: true
-  services:
+  work:
+    output: true
+  resources:
+    output: true
+  connect:
     output: true
 
 defaults:
@@ -63,9 +67,19 @@ defaults:
       layout: page
   - scope:
       path: ''
-      type: services
+      type: work
     values:
-      layout: portfolio
+      layout: page
+  - scope:
+      path: ''
+      type: resources
+    values:
+      layout: page
+ - scope:
+      path: ''
+      type: connect
+    values:
+      layout: page
 
 colors:
   primary: '#0071bc'
