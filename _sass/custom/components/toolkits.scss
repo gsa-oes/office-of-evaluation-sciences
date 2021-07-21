@@ -14,7 +14,7 @@
 }
 
 .billboard-message-toolkits {
-  color: #81848b;
+  color: #5c5c5c;
   font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
     sans-serif;
   font-size: 28px;
@@ -62,11 +62,11 @@ table {
 
 .tool-link {
   text-decoration: underline;
-  color: #2e9ac4;
+  color: #19677f;
 }
 
 .tool-link:visited {
-  color: #2e9ac4;
+  color: #156b5c;
 }
 
 .wrapper-div {
@@ -110,7 +110,7 @@ table {
 }
 
 .flip-card-front {
-  background-color: #2e9ac4;
+  background-color: #19677f
   border-radius: 10px;
   padding: 25px;
   padding-top: 18px;
@@ -121,8 +121,8 @@ table {
 }
 
 .flip-card-back {
-  border: solid 1px #2e9ac4;
-  color: #2e9ac4;
+  border: solid 1px #19677f;
+  color: #19677f;
   transform: rotateY(180deg);
   border-radius: 10px;
   display: flex;
@@ -269,7 +269,7 @@ li {
 }
 
 .workbook_link {
-  color: #81848b;
+  color: #757575;
   font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
     sans-serif;
   font-size: 25px;
@@ -292,7 +292,7 @@ a {
     sans-serif;
   font-size: 25px;
   font-weight: 400;
-  color: #2e9ac4;
+  color: #19677f;
   margin-bottom: 40px;
 }
 
@@ -306,7 +306,7 @@ a {
   font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial',
     sans-serif;
   // width: 4000px;
-  background-color: #d0d0d0;
+  background-color: #adadad;
   padding: 10px;
 }
 
@@ -337,7 +337,7 @@ ul {
 
 .blue_div {
   border: 1px solid black;
-  background-color: #03cab9;
+  background-color: #0d8473;
   padding: 10px;
   box-shadow: 0 0 0 1px color("base-lighter");
 }
