@@ -4,7 +4,7 @@ title: Mission
 permalink: /mission/
 tags: blog
 image: /assets/img/icons/oes-green.jpg
-image_full: true
+image_full: false
 class:
 summary: Deliver a better government for the public by enabling agencies to build and use evidence to continually learn what works.
 ---
