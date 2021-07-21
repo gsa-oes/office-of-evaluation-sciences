@@ -10,7 +10,7 @@ project_tags:
 
 
 ## Overview
-Our portfolios have spanned areas such as global health, improving vaccination rates, and increasing educational opportunity. 
+Our portfolios have spanned areas such as supporting small business growth, improving vaccination rates, and increasing educational opportunity. 
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
