@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Our Services
+title: Services
 permalink: /services/
 tags: blog
 image:
 image_full: true
 class:
-summary: Deliver a better government for the public by enabling agencies to build and use evidence to continually learn what works.
+summary: Learn about the three types of work and services our team provides.
 ---
 
 placeholder text
