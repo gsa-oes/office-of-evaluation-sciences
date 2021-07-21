@@ -13,6 +13,7 @@ summary: Learn about the three types of work and services our team provides.
 
 **Design and Evaluate Evidence-based Program Changes**<br>
 OES works with agency partners to apply evidence from the social and behavioral sciences to design a program change and evaluate its impact. 
+
 Examples: 
 AHS (ongoing)
 SSI 
@@ -34,8 +35,5 @@ OES works with agency partners to design an evaluation to measure the impact of 
 Examples:
 HEERF
 
-
-OES works with agency partners to design an evaluation to measure the impact of an existing program or an evidence-based program change.
-Evaluation Design
 
 
