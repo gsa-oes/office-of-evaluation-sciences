@@ -3,7 +3,7 @@ layout: page
 title: Our Portfolios
 permalink: /portfolios/
 image:
-summary: OES has developed portfolios of evidence on a range of goverment-wide priorities. 
+summary: OES has developed portfolios of evidence on a range of government-wide priorities. 
 project_tags:
 
 ---
