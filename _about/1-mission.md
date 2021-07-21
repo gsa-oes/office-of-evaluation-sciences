@@ -2,7 +2,7 @@
 layout: page
 title: Mission
 permalink: /mission/
-tags: blog
+tags: 
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
 class:
