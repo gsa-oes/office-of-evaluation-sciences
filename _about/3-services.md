@@ -2,7 +2,7 @@
 layout: page
 title: Services
 permalink: /services/
-tags: blog
+tags: 
 image: /assets/img/icons/oes-red.jpg
 hide_image: true
 class:
