@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Portfolios
+title: Portfolios
 permalink: /portfolios/
 image: /assets/img/icons/oes-orange.jpg
 hide_image: true
