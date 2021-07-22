@@ -9,31 +9,31 @@ class:
 summary: Learn about the three types of work and services our team provides.
 ---
 
-<h2>We partner with agencies across government to:</h2>
+<h2>We partner with agencies across government to:</h2><br>
 
-**Design and Evaluate Evidence-based Program Changes**<br>
+<h3>Apply findings from the social sciences to design and evaluate evidence-based program changes</h3>
 OES works with agency partners to apply evidence from the social and behavioral sciences to design a program change and evaluate its impact. 
 
 Examples: 
-AHS (ongoing)
-SSI 
-GI bill 
+- AHS (ongoing)
+- SSI 
+- GI bill 
 
 
-**Evaluate Impact of Existing Programs**<br>
+<h3>Evaluate existing programs or policy changes</h3><br>
 OES works with agency partners to design and conduct an evaluation to measure the impact of a program.
 
 Examples:
-Dallas SB 
-San Diego SB
-SOAR
+- Dallas SB 
+- San Diego SB
+- SOAR
 
 
-**Design of an Impact Evaluation**<br>
+<h3> Provide technical assistance on evaluation design</h3><br>
 OES works with agency partners to design an evaluation to measure the impact of an existing program or an evidence-based program change.
 
-Examples:
-HEERF
+Example:
+- HEERF
 
 
 
