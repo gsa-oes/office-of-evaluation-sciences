@@ -1,13 +1,11 @@
-<footer class="usa-footer usa-section background-brand-dark" role="contentinfo">
+<footer class="usa-footer usa-section background-light" role="contentinfo">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-6">
         <div class="footer-logo-links">
-        <a class="graphic-list-link" href="https://oes.gsa.gov">
-        <img src="{{ site.baseurl }}/assets/img/icons/oes.svg" height="60" width="60"/>
-       <a class="graphic-list-link" href="https://www.gsa.gov/">
-        <img src="{{ site.baseurl }}/assets/img/icons/gsa-logo.svg" height="60" width="60"/>
+          {% include icons/oes.svg %}
           {% if site.footer.image %}
+            <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA"/>
           {% endif %}
         </div>
       </div>
