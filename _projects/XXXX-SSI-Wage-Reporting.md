@@ -9,6 +9,7 @@ image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
 year: 2019
+type: Program Change and Evaluation
 domain: Government Efficiency
 status: Complete
 agency: Social Security Administration
