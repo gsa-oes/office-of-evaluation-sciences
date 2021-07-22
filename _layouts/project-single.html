@@ -23,6 +23,10 @@ class: page-project-single
     <h3 class="h4">Status</h3>
     <p>{{ page.status }}</p>
   {% endif %}
+     {% if page.type %}
+    <h3 class="h4">Project Type</h3>
+    <p>{{ page.type }}</p>
+  {% endif %}
   {% if page.agency %}
     <h3 class="h4">Agency</h3>
     <p>{{ page.agency  | join: ', ' }}</p>
