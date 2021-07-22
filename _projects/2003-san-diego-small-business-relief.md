@@ -12,6 +12,7 @@ abstract:
 year: 2021
 domain: Economic Opportunity
 status: Ongoing
+type: Program Evaluation
 agency: 
   - Small Business Administration
 summary: Analysis Plan Registration
