@@ -2,7 +2,7 @@
 layout: page
 title: Evaluations
 permalink: /evaluations/
-image: /assets/img/icons/oes-yellow.jpg
+image: /assets/img/icons/oes-orange.jpg
 hide_image: true
 tag: work
 summary: Since 2015, the Office of Evaluation Sciences has completed more than 90 evaluations with more than 20 agency collaborators. 
