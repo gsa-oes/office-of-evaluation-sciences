@@ -12,6 +12,8 @@ filters:
     title: Year Completed
   - key: status
     title: Status
+  - key: type
+    title: Project Type
   - key: domain
     title: Domain
   - key: agency
