@@ -20,7 +20,7 @@ Examples:
 - GI bill 
 
 
-<h3>Evaluate existing programs or policy changes</h3><br>
+<h3>Evaluate existing programs or policy changes</h3>
 OES works with agency partners to design and conduct an evaluation to measure the impact of a program.
 
 Examples:
@@ -29,7 +29,7 @@ Examples:
 - SOAR
 
 
-<h3> Provide technical assistance on evaluation design</h3><br>
+<h3> Provide technical assistance on evaluation design</h3>
 OES works with agency partners to design an evaluation to measure the impact of an existing program or an evidence-based program change.
 
 Example:
