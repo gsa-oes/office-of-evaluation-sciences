@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Building evidence
-permalink: /work/
+title: Evaluations
+permalink: /evaluations/
 image: /assets/img/icons/oes-yellow.jpg
 hide_image: true
 tag: work
