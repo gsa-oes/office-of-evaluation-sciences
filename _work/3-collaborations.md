@@ -12,6 +12,8 @@ filters:
     title: Year Completed
   - key: domain
     title: Domain
+  - key: type
+    title: Project Type
   - key: agency
     title: Agency Collaborator
     multiple: true
