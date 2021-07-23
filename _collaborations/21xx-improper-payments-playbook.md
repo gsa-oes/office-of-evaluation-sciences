@@ -4,9 +4,7 @@ permalink: /collaborations/improper-payments-playbook/
 tags:
   - collaborations
   - payments
-image: /assets/img/project-images/othercollabs/improper-payments-image.png
-image_full: true
-academic-pub: /assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf
+image: /assets/img/project-images/othercollabs/improper-payments.png
 year: 2021
 domain: Government Operations
 agency: 
@@ -23,7 +21,7 @@ At the request of the Office of Federal Financial Management, a component of the
 
 ## What did we learn?
 
-The behavioral insights guide created by OES aims to help government employees assess whether a behavioral insights approach is a good fit for their program, identify which interventions are appropriate, and implement those interventions with the goal of reducing improper payments.  OES team members are available for discussions with agencies and can provide advice about applying the ideas in the playbook. 
+This behavioral insights guide aims to help government employees assess whether a behavioral insights approach is a good fit for their program, identify which interventions are appropriate, and implement those interventions with the goal of reducing improper payments.  OES team members are available for discussions with agencies and can provide advice about applying the ideas in this guide. 
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf">Behavioral Insights Guide</a>
 <br><br>
