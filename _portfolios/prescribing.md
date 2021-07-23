@@ -3,6 +3,7 @@ layout: portfolio
 title: Prescriber Decision-Making
 permalink: /prescriber-decision-making/
 image: /assets/img/project-images/prescriber.png
+hide_image: true
 year: 2016
 summary: Communications interventions to reduce off-guideline prescribing
 project_tags:
