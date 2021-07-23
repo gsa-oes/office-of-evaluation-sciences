@@ -11,6 +11,7 @@ year: 2021
 domain: Government Operations
 agency: 
 summary: A guide helps readers explore how a behavioral insights approach can reduce improper payments.
+featured: homepage
 ---
 ## What was the challenge?
 
