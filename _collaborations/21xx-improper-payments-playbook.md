@@ -4,7 +4,7 @@ permalink: /collaborations/improper-payments-playbook/
 tags:
   - collaborations
   - payments
-image: /assets/img/project-images/othercollabs/grad-photo-ed.png
+image: /assets/img/project-images/othercollabs/improper-payments-image.png
 image_full: true
 academic-pub: /assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf
 year: 2021
