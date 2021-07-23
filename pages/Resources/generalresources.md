@@ -1,7 +1,7 @@
 ---
 layout: page
 title: General Resources
-permalink: /resources/
+permalink: /general-resources/
 image:
 image_full: 
 class:
