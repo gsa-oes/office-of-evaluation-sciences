@@ -14,3 +14,7 @@ summary:
     {% endfor %}
   </div>
 </div>
+
+<section class="usa-section bg-white">
+  {% include contact.html %}
+</section>
