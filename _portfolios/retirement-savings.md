@@ -4,6 +4,7 @@ title: Retirement Savings
 permalink: /retirement-savings/
 image: /assets/img/project-images/1723.jpg
 hide_image: true
+image-credit: https://pixabay.com/photos/couple-passion-love-elderly-person-3113574/
 year: 2021
 summary: Interventions to improve financial preparation for retirement
 project_tags:
