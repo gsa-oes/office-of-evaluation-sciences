@@ -29,6 +29,8 @@ collections:
     output: true
   work:
     output: true
+  resources:
+    output: true
 
 
 defaults:
@@ -65,6 +67,11 @@ defaults:
   - scope:
       path: ''
       type: work
+    values:
+      layout: page
+  - scope:
+      path: ''
+      type: resources
     values:
       layout: page
 
