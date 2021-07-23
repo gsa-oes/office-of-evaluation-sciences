@@ -9,7 +9,7 @@ image: /assets/img/project-images/othercollabs/sb-equity-image.jpg
 image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.jpg
 analysis-plan: /assets/analysis/2105_SBequity_analysisplan.pdf
 abstract: /assets/abstracts/2105_small-business-counterfactual-equity.pdf
-publication: /assets/publications/2105_SBequity_report_20210723.pdf
+academic-pub: /assets/publications/2105_SBequity_report_20210723.pdf
 year: 2021
 domain: Economic Opportunity
 status: Ongoing
