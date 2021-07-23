@@ -11,24 +11,10 @@ project_tags:
 collaborations_tags:
   - USAID
 ---
-<br/>
-<section>
-	<center>
-		<h2>Why is the OES / USAID Partnership important?</h2>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</center>
-</section>
-<br>
-<section>
-	<center> 
-		<h4>USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES / USAID partnership.</h4>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/d00vuBcA1y4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</center>
-</section>
+## Background
+Millions of lives could be saved globally through <a href="https://www.usaid.gov/global-health/health-areas/maternal-and-child-health/ending-preventable-child-and-maternal-deaths">social and behavior change interventions</a>. The U.S. Agency for International Development’s (USAID) global health programs have identified behaviors with the most potential to reduce the risk of preventable maternal and child deaths, and with low uptake in USAID’s 25 maternal and child health priority countries.
 
-<h2>Portfolio:</h2>
-<p>OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidence-based insights from behavioral science to critical development challenges in Global Health.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-
-
+## Portfolio
+OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidence-based insights from behavioral science to critical development challenges in Global Health.
