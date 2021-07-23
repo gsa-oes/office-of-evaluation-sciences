@@ -1,5 +1,5 @@
 ---
-title:  A Behavioral Insights Guide for Payment Integrity 
+title:  A Behavioral Insights Guide for Improving Payment Integrity
 permalink: /collaborations/improper-payments-playbook/
 tags:
   - collaborations
