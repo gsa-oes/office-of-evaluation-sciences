@@ -3,6 +3,7 @@ layout: page
 title: New working paper shows how OES letters quadrupled Supplemental Security Income awards
 permalink: /blog/ssi-awards/	
 image: /assets/img/project-images/1723.jpg
+hide_image: true
 year: 2024
 class:	
 summary: 	
