@@ -1,7 +1,7 @@
 ---
 layout: page
 title: General Resources
-permalink: /resources/
+permalink: /general-resources/
 image: /assets/img/icons/oes-grey.jpg
 hide_image: true
 class:
