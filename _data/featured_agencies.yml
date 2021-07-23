@@ -1,0 +1,18 @@
+- name: Department of Education
+  acronym: ED
+  logo: /assets/img/logos/agencies/USDA.svg
+- name: Department of Veterans Affairs
+  acronym: VA
+  logo: /assets/img/logos/agencies/usmc.png
+- name: Department of Commerce
+  acronym: DOC
+  logo: /assets/img/logos/agencies/OMB.svg
+- name: Center for Medicaid and Medicare Services
+  acronym: CMS
+  logo: /assets/img/logos/agencies/centers-for-medicare-and-medicaid.png
+- name: Department of Housing and Human Development
+  acronym: HUD
+  logo: /assets/img/logos/agencies/usaf.png
+- name: Deparment of the Treasury
+  acronym: USDT
+  logo: /assets/img/logos/agencies/nga.png
