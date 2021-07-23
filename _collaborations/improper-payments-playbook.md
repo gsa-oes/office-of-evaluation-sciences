@@ -28,4 +28,4 @@ The behavioral insights guide created by OES aims to help government employees a
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-worksheets.pdf">Blank Worksheets</a>
 <br><br>
-*As a guide to help agencies implement behavioral insights, this project does not have an Analysis Plan.*
+*As a guide to help agencies implement behavioral insights, this project does not have an Analysis Plan.* 
