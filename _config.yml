@@ -31,6 +31,8 @@ collections:
     output: true
   resources:
     output: true
+  connect:
+    output: true
 
 
 defaults:
@@ -74,6 +76,12 @@ defaults:
       type: resources
     values:
       layout: page
+  - scope:
+      path: ''
+      type: connect
+    values:
+      layout: page
+
 
 colors:
   primary: '#0071bc'
