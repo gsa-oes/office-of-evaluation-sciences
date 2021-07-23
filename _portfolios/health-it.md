@@ -3,6 +3,7 @@ layout: portfolio
 title: Health IT
 permalink: /health-it/
 image: /assets/img/project-images/1729.jpg
+hide_image: true
 summary: Interventions to increase adoption and use of health IT features
 year: 2017
 project_tags:
