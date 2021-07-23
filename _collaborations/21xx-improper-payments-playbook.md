@@ -5,6 +5,7 @@ tags:
   - collaborations
   - payments
 image: /assets/img/project-images/othercollabs/improper-payments-image.png
+image_full: true
 academic-pub: /assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf
 year: 2021
 domain: Government Operations
