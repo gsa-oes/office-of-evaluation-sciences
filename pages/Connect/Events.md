@@ -13,10 +13,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### When Existing Evidence Isn't Perfect: How to Use and Apply Imperfect Evidence
-Agencies are being called to better use evidence across agency functions and decisions. Yet, we know that evidence is often imperfect, and staff need strategies to make sense of this evidence in their work. This workshop will provide a high-level overview of the various types of imperfect evidence and approaches to using that evidence. 
-- July 21, 2021 from 3:00 to 4:30 PM EST
-
 ### Why Randomize? A Case Study
 This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, will walk participants through a real‐life case.
 - August 3, 2021 from 3:00 to 4:30 PM EST
@@ -61,14 +57,9 @@ This session helped participants learn how to conduct randomized controlled tria
 
 ### Evaluation 101
 In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- July 30, 2020
 - October 5, 2020
 - January 19, 2021
 - July 8, 2021
-
-### Creative Uses of Administrative Data
-OES hosted a virtual session on creative uses of administrative data. This session highlighted creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
-- June 15, 2020
 
 # Past OES Events 
 
