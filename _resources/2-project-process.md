@@ -3,7 +3,6 @@ layout: default
 title: OES Project Process
 permalink: /projectprocess/
 image: /assets/img/icons/oes-blue.jpg
-hide_image: true
 class:
 summary: We follow a number of steps to ensure our findings are relevant and reliable.
 ---
@@ -18,7 +17,6 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
   <p class="billboard-message">{{ page.summary }}</p>
   {% endif %}
   {% unless page.hide_image %}
-  {% if page.image and page.image_full %}
   <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
   {% elsif page.image %}
   <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption" {% endif %}>
