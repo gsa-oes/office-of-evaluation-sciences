@@ -38,5 +38,17 @@ OES works with agency partners to design an evaluation to measure the impact of 
 Example:
 - HEERF
 
+<section class="usa-section bg-secondary-lighter">
+  <section class="grid-container">
+    {% assign agency_partners = site.data.featured_agencies %} {% assign
+    partner_groups = agency_partners | in_groups: 3 %}
+    <h2>Collaborate with us</h2>
+    <p>OES forms innovative partnerships with agency collaborators to tackle some of the most pressing challenges in the United States and abroad. Here are a few of our recent collaborators.</p>
+  <p><a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a></p>
+  </section>
+
+<section class="usa-section background-tint">
+  {% include contact.html %}
+</section>
 
 
