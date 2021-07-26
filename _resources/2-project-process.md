@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: OES Project Process
 permalink: /projectprocess/
 image: /assets/img/icons/oes-blue.jpg
