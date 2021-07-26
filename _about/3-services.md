@@ -9,7 +9,7 @@ class:
 summary: Learn about the three types of work and services our team provides.
 ---
 
-<h2>We partner with agencies across government to:</h2><br>
+<h2>We partner with agencies across government to:</h2>
 <h3>Apply findings from the social sciences to design and evaluate evidence-based program changes</h3>
 OES works with agency partners to apply evidence from the social and behavioral sciences to design a program change and evaluate its impact. 
 
