@@ -27,8 +27,6 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       </div>
     {% endif %}
   {% endunless %}
-  </div>
-  {% endif %}
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
