@@ -1,7 +1,7 @@
 ---
 layout: toolkit
 title: Evidence Act Toolkits
-permalink: /toolkits/
+permalink: /toolkits-home/
 image: /assets/img/icons/oes-red.jpg
 hide_image: true
 class:
