@@ -10,7 +10,6 @@
     {% endif %}
   </head>
   <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
-    {% unless page.hide_image %}
     {% include skipnav.html %}
     {% include header.html %}
 
