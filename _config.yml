@@ -117,6 +117,7 @@ forms:
 # jekyll plugins
 plugins:
   - jekyll-paginate
+plugins_dir: ./_plugins
 
 # Build settings
 include:
