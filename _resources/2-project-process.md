@@ -17,6 +17,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
   {% if page.summary %}
   <p class="billboard-message">{{ page.summary }}</p>
   {% endif %}
+  {% unless page.hide_image %}
   {% if page.image and page.image_full %}
   <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
   {% elsif page.image %}
