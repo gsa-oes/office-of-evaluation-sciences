@@ -46,6 +46,8 @@ Example:
   </div>
 <br><br>
 <section class="usa-section bg-white">
+    <div class="grid-container">
   {% include contact.html %}
 </section>
+      </div>
 
