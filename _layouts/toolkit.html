@@ -11,7 +11,7 @@ layout: default
   {% if page.summary %}
   <p class="billboard-message">{{ page.summary }}</p>
   {% endif %}
-    {% unless page.hide_image %}
+  {% if page.image and page.image_full %}
   <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
   {% elsif page.image %}
   <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img"
@@ -30,7 +30,7 @@ layout: default
         <img src="../assets/toolkits/learning_agenda_bg_hq_w.png" style="max-height: 200px;">
       </div>
       <div class="card-banner">
-        <h3 class="card-description" style="color: #156b5c; text-align: center;">
+        <h3 class="card-description" style="color: #2CBEB3; text-align: center;">
           <span>Learning Agenda Toolkit</span>
         </h3>
         <p class="card-summary">
@@ -64,7 +64,7 @@ layout: default
         <img src="../assets/toolkits/annual_eval_bg_hq_w.png" style="max-height: 200px;">
       </div>
       <div class="card-banner">
-        <h3 class="card-description" style="color: #19677f; text-align: center;">
+        <h3 class="card-description" style="color: #2e9ac4; text-align: center;">
           <span>Annual Evaluation Plan Toolkit</span>
         </h3>
         <p class="card-summary">
@@ -93,7 +93,7 @@ layout: default
         <img src="../assets/toolkits/coming_soon_bg_hq_w.png" style="max-height: 200px;">
       </div>
       <div class="card-banner">
-        <h3 class="card-description" style="color: #b72929; text-align: center;">
+        <h3 class="card-description" style="color: #fa5546; text-align: center;">
           <span>Capacity Assesment Toolkit</span>
         </h3>
         <p class="card-summary">
@@ -209,7 +209,7 @@ layout: default
     <hr />
     <table class="download-footer" style="border: none;">
       <tr class="table-border">
-        <td class="table-border" style="color: #19677f; font-size: 20px;"><b> Downloads <b /></td>
+        <td class="table-border" style="color: #2E9AC4; font-size: 20px;"><b> Downloads <b /></td>
         <td class="table-border" style="text-decoration: underline;"> <a
             href="{{ page.download-one | prepend: site.baseurl }}"> Evidence Act: Phase 1 Overview </a></td>
         <td class="table-border" style="text-decoration: underline;"> <a
