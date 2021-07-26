@@ -16,13 +16,17 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
   {% if page.summary %}
   <p class="billboard-message">{{ page.summary }}</p>
   {% endif %}
-  {% if page.image and page.image_full %}
-  <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
-  {% elsif page.image %}
-  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption" {% endif %}>
-    {% if page.image_alt_text %}
-    <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
+ {% unless page.hide_image %}
+    {% if page.image and page.image_full %}
+      <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
+    {% elsif page.image %}
+      <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption"{% endif %}>
+      {% if page.image_alt_text %}
+        <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
+      {% endif %}
+      </div>
     {% endif %}
+  {% endunless %}
   </div>
   {% endif %}
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
