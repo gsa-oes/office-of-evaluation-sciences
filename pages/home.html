@@ -61,28 +61,24 @@ page.tagline and page.intro %}
     partner_groups = agency_partners | in_groups: 3 %}
     <h2>Who we've worked with</h2>
     <p>OES forms innovative partnerships with agency collaborators to tackle some of the most pressing challenges in the United States and abroad. Here are a few of our recent collaborators.</p>
-    <ul class="grid-row list-columns grid-gap">
-      {% for group in partner_groups %}
-      <li class="tablet:grid-col-4">
-        <ul class="list-columns list-images">
-          {% for partner in group %}
-          <li class="list-images-item">
-            <img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" height="60" width="60"/>
-            {% if partner.agency_url %}
-            <a
-              class="list-images-text"
-              href="{{ partner.agency_url | prepend: site.baseurl }}"
-              >{{ partner.name }}</a
-            >
-            {% else %}
-            <span class="list-images-text">{{ partner.name }}</span>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </li>
-      {% endfor %}
-    </ul>
+<ul class="grid-row list-columns grid-gap">
+{% for group in partner_groups %}
+<li class="tablet:grid-col-4">
+<ul class="list-columns list-images">
+{% for partner in group %}
+<li class="list-images-item">
+<img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" height="60" width="60"/>
+{% if partner.agency_url %}
+<a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}">{{ partner.name }}</a>
+{% else %}
+<span class="list-images-text">{{ partner.name }}</span>
+{% endif %}
+</li>
+{% endfor %}
+</ul>
+</li>
+{% endfor %}
+</ul>
   <p><a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a></p>
   </section>
 </section>
