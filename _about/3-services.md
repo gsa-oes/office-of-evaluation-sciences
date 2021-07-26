@@ -10,10 +10,8 @@ summary: Learn about the three types of work and services our team provides.
 ---
 
 <h2>We partner with agencies across government to:</h2><br>
-
 <h3>Apply findings from the social sciences to design and evaluate evidence-based program changes</h3>
 OES works with agency partners to apply evidence from the social and behavioral sciences to design a program change and evaluate its impact. 
-
 
 Examples: 
 - AHS (ongoing)
@@ -40,11 +38,9 @@ Example:
 
 <section class="usa-section bg-secondary-lighter">
   <section class="grid-container">
-    {% assign agency_partners = site.data.featured_agencies %} {% assign
-    partner_groups = agency_partners | in_groups: 3 %}
     <h2>Collaborate with us</h2>
     <p>OES forms innovative partnerships with agency collaborators to tackle some of the most pressing challenges in the United States and abroad. Here are a few of our recent collaborators.</p>
-  <p><a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a></p>
+  <a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a>
   </section>
 <br><br>
 <section class="usa-section bg-white">
