@@ -2,8 +2,8 @@
 layout: toolkit
 title: Evidence Act Toolkits
 permalink: /toolkits/
-image:
-image_full:
+image: /assets/img/icons/oes-red.jpg
+hide_image: true
 class:
 summary: These toolkits are intended as resources to help agencies learn from leading practices and case studies to build a culture and infrastructure for continuous learning and improvement.
 download-one: /assets/toolkits/evidence_act_overview.pdf
