@@ -47,8 +47,7 @@ Example:
   <p><a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a></p>
   </section>
 <br><br>
-<section class="usa-section background-tint">
+<section class="usa-section bg-white">
   {% include contact.html %}
 </section>
-
 
