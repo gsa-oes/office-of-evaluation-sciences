@@ -5,7 +5,7 @@ permalink: /events/
 image: /assets/img/icons/oes-blue.jpg
 hide_image: true
 class:
-summary: Check out upcoming events as well as our  training series, a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES.
+summary: Check out our upcoming events and workshops
 ---
 
 # Evaluation and Evidence Training Series
