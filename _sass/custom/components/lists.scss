@@ -5,10 +5,10 @@
 
   li {
     margin-bottom: units(3);
-
+  list-style: none;
     &:last-child {
       margin-bottom: units(3);
-
+  list-style: none;
       @include at-media('tablet') {
         margin-bottom: 0;
       }
