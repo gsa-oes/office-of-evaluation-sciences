@@ -1,4 +1,5 @@
 .agency-lists {
+  @include unstyled-list();
   line-height: lh('body', 3);
   margin-top: units(2);
   list-style: none;
