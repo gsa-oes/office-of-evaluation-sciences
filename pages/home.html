@@ -58,7 +58,7 @@ page.tagline and page.intro %}
 <section class="usa-section background-tint">
   <section class="grid-container">
     {% assign agency_partners = site.data.featured_agencies %} {% assign
-    partner_groups = agency_partners | in_groups: 3 %}
+    partner_groups = agency_partners | in_groups: 3 | list-style: none %}
     <h2>Who we've worked with</h2>
     <p>OES forms innovative partnerships with agency collaborators to tackle some of the most pressing challenges in the United States and abroad. Here are a few of our recent collaborators.</p>
 <ul class="grid-row list-columns grid-gap">
