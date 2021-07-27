@@ -63,15 +63,15 @@ page.tagline and page.intro %}
     <p>OES forms innovative partnerships with agency collaborators to tackle some of the most pressing challenges in the United States and abroad. Here are a few of our recent collaborators.</p>
 <ul class="grid-row list-columns grid-gap">
 {% for group in partner_groups %}
-<li class="tablet:grid-col-4">
-<ul class="list-columns list-images">
+<li class="tablet:grid-col-4" list-style: none>
+<ul class="list-columns list-images" list-style: none>
 {% for partner in group %}
 <li class="list-images-item">
-<img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" height="60" width="60"/>
+<img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" list-style: none height="60" width="60"/>
 {% if partner.agency_url %}
-<h4><a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}">{{ partner.name }}</a></h4>
+<h4><a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}" list-style: none>{{ partner.name }}</a></h4>
 {% else %}
-<h4><span class="list-images-text">{{ partner.name }}</span></h4>
+<h4><span class="list-images-text" list-style: none>{{ partner.name }}</span></h4>
 {% endif %}
 </li>
 {% endfor %}
