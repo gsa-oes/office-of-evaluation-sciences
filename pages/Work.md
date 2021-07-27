@@ -3,7 +3,7 @@ layout: page
 title: Our work
 permalink: /work/
 image:
-summary: Since 2015, the Office of Evaluation Sciences has completed more than 90 impact evaluations with more than 20 agency collaborators.
+summary: Since 2015, the Office of Evaluation Sciences has completed more than 80 impact evaluations with more than 20 agency collaborators.
 ---
  
 <div class="margin-top-4">
