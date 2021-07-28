@@ -11,7 +11,7 @@ tags: work
 
 
 ## Overview
-Our portfolios have spanned areas such as supporting small business growth, improving vaccination rates, and increasing educational opportunity. 
+Our portfolio has spanned areas such as retirement security, reducing the cost of government operations, improving public health outcomes, and increasing educational opportunity
 
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
