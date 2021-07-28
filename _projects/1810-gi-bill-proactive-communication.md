@@ -8,7 +8,7 @@ image: /assets/img/project-images/1810.jpg
 image-credit: U.S. Army photo by Nell King
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
 abstract: /assets/abstracts/1810-gi-bill-proactive-communication.pdf
-year: 2019
+year: 2020
 status: Complete
 domain: Education
 agency: Veterans Affairs
