@@ -3,7 +3,7 @@ layout: page
 title: Other Collaborations
 permalink: /collaborations/
 tag: work
-image: /assets/img/icons/oes-grey.jpg
+image: /assets/img/icons/oes-red.jpg
 hide_image: true
 summary: OES supports agencies on a variety of pressing implementation challenges. 
 
