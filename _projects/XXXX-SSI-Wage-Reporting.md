@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
-year: 2019
+year: 2020
 domain: Government Efficiency
 status: Complete
 agency: Social Security Administration
