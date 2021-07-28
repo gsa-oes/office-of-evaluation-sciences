@@ -9,7 +9,7 @@ image-credit:
 analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
 intervention: /assets/interventions/1811 - Intervention Pack .pdf
 abstract: /assets/abstracts/1811 - Project Abstract.pdf
-year: 2020 
+year: 2021
 status: Complete
 domain: Health
 agency: United States Agency for International Development
