@@ -14,7 +14,6 @@ type: Program Change and Evaluation
 domain: Education
 agency: Veterans Affairs
 summary: A general proactive email, encouraging increased postsecondary enrollment, influenced the enrollment intensity of Post-9/11 GI Bill users
-featured: homepage
 ---
 ## What was the challenge?
 
