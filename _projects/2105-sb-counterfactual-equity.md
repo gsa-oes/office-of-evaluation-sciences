@@ -2,7 +2,6 @@
 title:  Who Receives Access to Small Business Relief? A Simulation-based Approach
 permalink: /collaborations/sb-counterfactual-equity/
 tags: 
-  - collaborations
   - business
   - covid
 image: /assets/img/project-images/othercollabs/sb-equity-image.jpg
