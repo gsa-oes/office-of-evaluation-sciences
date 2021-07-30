@@ -1,13 +1,13 @@
 ---
 title: Increasing Voluntary Contributions at Congregate Meals Program Sites
 permalink: /collaborations/congregate-meals/
-tags:
-  - collaborations
+tags: 
 image: /assets/img/project-images/othercollabs/congregate-meals-image.png
 image-credit: https://pixy.org/1398140/ 
 abstract: /assets/abstracts/Abstract - Congregate Meals_2020-12-22.pdf
 intervention: /assets/interventions/Intervention Pack - Congregate Meals (1).pdf
 year: 2021
+status: Complete
 domain: Communications
 agency: Health and Human Services
 summary: Using behavioral science to increase voluntary contributions in a senior meal program 
