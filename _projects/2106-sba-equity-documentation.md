@@ -10,6 +10,7 @@ image-credit: https://media.architecturaldigest.com/photos/595e4567c5ba1157bf2ba
 analysis-plan: /assets/analysis/2106 - Equity Documentation - 3 - Analysis Plan.pdf
 abstract: 
 year: 2021
+type: Program Change and Evaluation
 domain: Economic Opportunity
 status: Ongoing
 agency: Small Business Administration
