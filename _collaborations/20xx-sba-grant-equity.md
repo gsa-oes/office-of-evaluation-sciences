@@ -16,7 +16,7 @@ agency: Small Business Administration
 summary: Documenting approaches and challenges in ensuring access to small business grant and loan programs during COVID-19.
 ---
 ## What was the challenge?
-
+ 
 The Small Business Administration (SBA) has strategic goals to support small business revenue and restore small businesses after disasters, such as the 2020 COVID-19 pandemic. There was concern that the pandemic would exacerbate the challenges in obtaining working capital faced by historically underserved groups including racial and ethnic minorities and women.
 
 ## What did we do?
