@@ -9,6 +9,7 @@ image-credit: https://health.mil/-/media/Images/MHS/Photos/IPAP.ashx
 analysis-plan: /assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf
 abstract: 
 year: 2019  
+type: Program Change and Evaluation
 status: Ongoing
 domain: Health
 agency: Veterans Affairs
