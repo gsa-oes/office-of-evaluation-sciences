@@ -10,6 +10,7 @@ image-credit: https://www.flickr.com/photos/texaseagle/3782314675
 analysis-plan: /assets/analysis/Dallas SBCF Analysis Plan.pdf
 abstract:  
 year: 2021
+type: Program Evaluation
 domain: Economic Opportunity
 status: Ongoing
 type: Program Evaluation
