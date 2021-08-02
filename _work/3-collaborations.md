@@ -21,7 +21,7 @@ filters:
 scripts:
   - src: /assets/js/filters.js
 filter_button_title: Filter the collaboration listing
-filter_button_message: By year completed, project type, domain, and agency collaborator
+filter_button_message: By year completed, domain, and agency collaborator
 ---
 
 <p>In addition to supporting agencies in conducting evaluations, OES has provided support to agency partners in developing resources and answering key questions. </p>
