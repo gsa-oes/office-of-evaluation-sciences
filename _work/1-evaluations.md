@@ -5,7 +5,7 @@ permalink: /evaluations/
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
 tag: work
-summary: Since 2015, the Office of Evaluation Sciences has completed more than 80 evaluations with more than 20 agency collaborators. 
+summary: We design and conduct evaluations of both existing programs and evidence-based program changes.
 
 filters:
   - key: year
