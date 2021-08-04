@@ -6,7 +6,7 @@ tags:
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
 class:
-summary: Deliver a better government for the public by enabling agencies to build and use evidence to continually learn what works.
+summary: Our mission is to build and use evidence to better serve the public.
 ---
 <iframe src="https://www.youtube.com/embed/T_Vk4gwCs58" width="512" height="384"></iframe>
 
@@ -16,7 +16,7 @@ Since 2015, OES has recruited over 100 interdisciplinary experts (psychologists,
 
 ## What we do
 
-Team members work alongside agency collaborators to translate behavioral insights into concrete recommendations for how to improve government and evaluate their impact using administrative data. We also work with agencies to interpret and apply what we’ve learned together, and share leading practices, resources, and build the skills of civil servants to continue this work.
+OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes.
 
 ## Why is OES at GSA?
 
