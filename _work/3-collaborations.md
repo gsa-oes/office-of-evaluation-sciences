@@ -5,7 +5,7 @@ permalink: /collaborations/
 tag: work
 image: /assets/img/icons/oes-red.jpg
 hide_image: true
-summary: OES supports agencies on a variety of pressing implementation challenges. 
+summary: We support agencies on a variety of pressing implementation challenges.
 
 
 filters:
