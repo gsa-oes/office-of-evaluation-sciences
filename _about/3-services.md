@@ -37,14 +37,6 @@ Example:
 - HEERF
 
 <br>
-<section class="usa-section bg-secondary-lighter">
-<div class="grid-container">
-    <h2>Collaborate with us</h2>
-    <p>OES forms innovative partnerships with agency collaborators to tackle some of the most pressing challenges in the United States and abroad. Here are a few of our recent collaborators.</p>
-  <a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a>
-  </div>
-    </section>
-<br>
 <section class="usa-section bg-white">
     <div class="grid-container">
   {% include contact.html %}
