@@ -17,11 +17,11 @@ Want to learn how evidence-based insights can help your agency? Here are three k
  
 <h3>1. Identify and address the key drivers of customer-satisfaction</h3>
 Federal government customers are the individuals and groups that interact with a Federal government agency or program. We <a href="http://performance.gov/cx/blog/what-we-learned-from-customers-2020/">say they've had a good customer experience</a> when they report (usually via a survey) that they trust the agency or program and are satisfied with the service. Federal government customers need a huge variety of services, from obtaining benefits, to ordering a passport, to buying stamps. But across this variety of services, trust and satisfaction are driven by factors such as ease of interaction, transparency in communication, and employee warmth and helpfulness during a customer interaction. 
-- **Ease**
+- **Ease**<br>
 Agencies can improve customer satisfaction by applying insights on how to make the customer experience easier. Our previous post about <a href="https://www.performance.gov/blog/spotlight-government-team-works-to-improve-services-for-all/">Shannon enrolling in the online messaging system</a> is an example of making an interaction easier for the customer. OES and DHA designed an approach to better inform patients about the system and make it easier for them to enroll. 
-- **Transparency**
+- **Transparency** <br>
 Including a timeline that makes government operations more transparent proves helpful for customer satisfaction. For example, in a <a href="https://oes.gsa.gov/projects/USAGov-survey/">2019 collaboration with USAGov</a>, transparency helped to increase survey responses.
-- **Human connection**
+- **Human connection** <br>
 Using a personal signature or an employee photograph can improve customer satisfaction. One version of a <a href="https://oes.gsa.gov/assets/abstracts/1615-Financial-Aid-for-HUD-Assisted-Youth.pdf">communication about the Free Application for Federal Student Aid</a> included a personal message from then-First Lady Michelle Obama. Elements that build a personal connection between customers and government service providers can be an essential and easy change. 
 
 <h3>2. Use A/B testing to evaluate changes </h3>
