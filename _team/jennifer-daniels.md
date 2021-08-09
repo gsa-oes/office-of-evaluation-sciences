@@ -1,6 +1,6 @@
 ---
 name: Jennifer Daniels
-image: /assets/img/team/jennifer-daniels.jpg
+image: /assets/img/team/jennifer-daniels.png
 year:
   - 2021
 home: University
