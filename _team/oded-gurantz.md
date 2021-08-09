@@ -1,3 +1,4 @@
+---
 name: Oded Gurantz
 image: /assets/img/team/oded-gurantz.jpg
 year:
