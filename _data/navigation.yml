@@ -5,7 +5,7 @@ primary:
       href: /mission/
     - text: Team
       href: /team/
-   - text: Services
+    - text: Services
       href: /services/
   - text: Our work
     links:
@@ -25,7 +25,7 @@ primary:
         href: /opps/
       - text: OES Blog
         href: /blog/
-      - text: Events & Workshops
+      - text: Events
         href: /events/
       - text: Media
         href: /media/
