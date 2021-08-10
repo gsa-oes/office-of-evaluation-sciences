@@ -16,9 +16,7 @@ primary:
     - text: Other Collaborations
       href: /collaborations/
   - text: Resources
-    links:
-    - text: Resources
-      href: /resources/
+    href: /resources/
   - text: Connect
     links:
       - text: Work with us
