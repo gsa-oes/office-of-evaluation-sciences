@@ -34,12 +34,12 @@ ul.list-columns {
     margin: 0;
     min-width: units(7);
     width: units(7);
-    margin-right: 4px;
+    margin-right: 2px;
     list-style: none;
   }
 
   .list-images-image {
-    margin-right: units('15');
+    margin-right: units('105');
   }
 }
 
@@ -47,7 +47,7 @@ ul.list-columns {
 .list-images-item {
   align-items: center;
   display: inline-flex;
-  min-height: 54px;
+  min-height: 64px;
   width: 100%;
   list-style: none;
 }
