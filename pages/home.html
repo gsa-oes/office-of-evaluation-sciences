@@ -57,7 +57,7 @@ page.tagline and page.intro %}
 
 <section class="usa-section background-tint" list-style: none>
   <section class="grid-container" list-style: none>
-    {% assign agency_partners = site.data.featured_agencies %} {% assign
+    {% assign agency_partners = site.data.featured_agencies | list-style: none %} {% assign
     partner_groups = agency_partners | in_groups: 3 | list-style: none %}
     <h1>Some agencies we've worked with</h1>
 <ul class="grid-row list-columns grid-gap" list-style: none>
