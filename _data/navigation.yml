@@ -1,9 +1,29 @@
 primary:
   - text: About
-    href: /about/
+    links:
+    - text: Mission
+      href: /mission/
+    - text: Team
+      href: /team/
+   - text: Services
+      href: /services/
   - text: Our work
-    href: /work/
+    links:
+    - text: Evaluations
+      href: /work/
+    - text: Portfolios
+      href: /portfolios/
+    - text: Other Collaborations
+      href: /collaborations/
   - text: Resources
     href: /resources/
   - text: Connect
-    href: /connect/
+    links:
+      - text: Work with us
+        href: /opps/
+      - text: OES Blog
+        href: /blog/
+      - text: Events & Workshops
+        href: /events/
+      - text: Media
+        href: /media/
