@@ -19,10 +19,6 @@ class: page-collaborations-single
     <h3 class="h4">Year</h3>
     <p>{{ page.year }}</p>
     {% endif %}
-     {% if page.type %}
-    <h3 class="h4">Project Type</h3>
-    <p>{{ page.type }}</p>
-  {% endif %}
   {% if page.agency %}
     <h3 class="h4">Agency</h3>
     <p>{{ page.agency  | join: ', ' }}</p>
