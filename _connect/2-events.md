@@ -13,15 +13,15 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Why Randomize? A Case Study
-This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, will walk participants through a real‐life case.
-- August 3, 2021 from 3:00 to 4:30 PM EST
-
 ### Understanding the Paperwork Reduction Act and its Implications for Evaluation Information Collections
 This workshop will provide participants with a deeper understanding the Paperwork Reduction Act (PRA) and its implications for data collected for evaluations. Featuring speakers from OMB’s Office of Information and Regulatory Affairs (OIRA) and Evidence Team, this interactive session will provide an overview of the PRA and its requirements and offer insight as to OIRA’s review of evaluation-focused packages. 
 - September 15, 2021 from 3:00 to 4:30 PM EST
 
 ## Past Federal Workshops
+
+### Why Randomize? A Case Study
+This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, will walk participants through a real‐life case.
+- August 3, 2021 from 3:00 to 4:30 PM EST
 
 ### Introduction to Formative and Process Evaluations
 Formative and Process Evaluations can be important tools for assessing whether a program is appropriate and feasible in a given context, and understanding how a program is working. This workshop provided an introduction to common tools and methodologies used in these types of evaluations. 
