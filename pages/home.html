@@ -55,8 +55,8 @@ page.tagline and page.intro %}
   </section>
 {% endif %}
 
-<section class="usa-section background-tint">
-  <section class="grid-container">
+<section class="usa-section background-tint" list-style: none>
+  <section class="grid-container" list-style: none>
     {% assign agency_partners = site.data.featured_agencies %} {% assign
     partner_groups = agency_partners | in_groups: 3 | list-style: none %}
     <h1>Some agencies we've worked with</h1>
@@ -65,7 +65,7 @@ page.tagline and page.intro %}
 <li class="tablet:grid-col-4" list-style: none>
 <ul class="list-columns list-images" list-style: none>
 {% for partner in group | list-style: none %}
-<li class="list-images-item">
+<li class="list-images-item" list-style: none>
 <img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" list-style: none height="70" width="70"/>
 {% if partner.agency_url | list-style: none %}
 <h4><a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}" list-style: none>{{ partner.name }}</a></h4>
