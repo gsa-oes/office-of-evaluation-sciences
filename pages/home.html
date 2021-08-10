@@ -55,22 +55,22 @@ page.tagline and page.intro %}
   </section>
 {% endif %}
 
-<section class="usa-section background-tint" list-style: none>
-  <section class="grid-container" list-style: none>
-    {% assign agency_partners = site.data.featured_agencies | list-style: none %} {% assign
-    partner_groups = agency_partners | in_groups: 3 | list-style: none %}
+<section class="usa-section background-tint">
+  <section class="grid-container">
+    {% assign agency_partners = site.data.featured_agencies %} {% assign
+    partner_groups = agency_partners | in_groups: 3 %}
     <h1>Some agencies we've worked with</h1>
-<ul class="grid-row list-columns grid-gap" list-style: none>
-{% for group in partner_groups | list-style: none %}
-<li class="tablet:grid-col-4" list-style: none>
-<ul class="list-columns list-images" list-style: none>
-{% for partner in group | list-style: none %}
-<li class="list-images-item" list-style: none>
-<img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" list-style: none; height="70" width="70"/>
-{% if partner.agency_url | list-style: none %}
-<h4><a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}" list-style: none>{{ partner.name }}</a></h4>
+<ul class="grid-row list-columns grid-gap">
+{% for group in partner_groups %}
+<li class="tablet:grid-col-4">
+<ul class="list-columns list-images">
+{% for partner in group %}
+<li class="list-images-item">
+<img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" height="70" width="70"/>
+{% if partner.agency_url %}
+<h4><a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}">{{ partner.name }}</a></h4>
 {% else %}
-<h4><span class="list-images-text" list-style: none>{{ partner.name }}</span></h4>
+<h4><span class="list-images-text">{{ partner.name }}</span></h4>
 {% endif %}
 </li>
 {% endfor %}
