@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evaluations
-permalink: /evaluations/
+permalink: /work/
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
 tag: work
