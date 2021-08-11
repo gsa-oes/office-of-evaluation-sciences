@@ -6,6 +6,7 @@ image: /assets/img/project-images/treasury.jpg
 image-credit: https://www.flickr.com/photos/kevlar/
 abstract: /assets/abstracts/1501-Delinquent-Debt-Repayment.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: Treasury
