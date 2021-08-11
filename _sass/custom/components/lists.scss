@@ -24,6 +24,7 @@
 ul.list-columns {
   list-style: none;
   margin-right: 2px;
+  margin-left: 2px;
 }
 
 .list-images {
@@ -36,11 +37,13 @@ ul.list-columns {
     min-width: units(7);
     width: units(7);
     margin-right: 2px;
+    margin-left: 2px;
     list-style: none;
   }
 
   .list-images-image {
     margin-right: 2px;
+    margin-left: 2px;
   }
 }
 
