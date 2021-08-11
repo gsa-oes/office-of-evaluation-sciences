@@ -6,6 +6,7 @@ image: /assets/img/project-images/duplex-printing.jpg
 image-credit: https://www.flickr.com/photos/featheredtar/
 abstract: /assets/abstracts/1505-Double-Sided-Printing.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: Agriculture
