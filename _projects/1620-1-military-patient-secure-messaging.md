@@ -8,6 +8,7 @@ image: /assets/img/project-images/1620.jpg
 image-credit: https://pixabay.com/photo-1149148/
 abstract: /assets/abstracts/1620-1_DHA Secure-messaging.pdf
 year: 2017 
+type: Program Change and Evaluation
 status: Complete
 domain: Health 
 agency: Defense 
