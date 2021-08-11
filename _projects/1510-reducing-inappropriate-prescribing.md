@@ -10,6 +10,7 @@ abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
 academic-pub: /assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf
 intervention: /assets/interventions/Intervention Pack - CPI.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
