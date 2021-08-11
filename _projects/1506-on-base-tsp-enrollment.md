@@ -8,6 +8,7 @@ image: /assets/img/project-images/military12.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1506-On-Base-Servicemember-TSP-Enrollment.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
