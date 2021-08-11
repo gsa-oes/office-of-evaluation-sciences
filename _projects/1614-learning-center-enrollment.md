@@ -8,6 +8,7 @@ image: /assets/img/project-images/sba.jpg
 image-credit: https://www.flickr.com/photos/seattlecommunitytech/
 abstract: /assets/abstracts/1614-SBA-Learning-Center.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: Small Business Administration
