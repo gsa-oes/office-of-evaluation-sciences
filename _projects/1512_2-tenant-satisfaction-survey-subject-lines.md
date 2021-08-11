@@ -6,6 +6,7 @@ image: /assets/img/project-images/gsa-tenant2.jpg
 image-credit: https://gsablogs.gsa.gov/gsablog/2012/11/08/gsa-completes-restoration-of-hipolito-federal-building/
 abstract: /assets/abstracts/1512-2-Tenant-Satisfaction-Survey-Response-Subject-Lines-and-Day-of-Week.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration
