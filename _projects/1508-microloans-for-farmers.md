@@ -8,6 +8,7 @@ image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Economic Opportunity
 agency: Agriculture
