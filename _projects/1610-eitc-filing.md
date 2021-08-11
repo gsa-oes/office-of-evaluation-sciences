@@ -7,6 +7,7 @@ image-credit: https://www.flickr.com/photos/pulpolux/
 abstract: /assets/abstracts/1610-Tax-Filing-and-EITC-Take-up.pdf
 academic-pub: /assets/publications/1610_Reminders-and-Recidivism-Using-Administrative-Data_NBER.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Economic Opportunity
 agency: Treasury
