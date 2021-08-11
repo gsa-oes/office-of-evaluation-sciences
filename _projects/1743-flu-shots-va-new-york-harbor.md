@@ -9,6 +9,7 @@ image-credit: https://www.va.gov/health/NewsFeatures/2014/May/VHA-Benefits-Goal-
 analysis-plan: /assets/analysis/1743-flu-shots-va-new-york-harbor-analysis-plan.pdf
 abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 year: 2018
+type: Program Change and Evaluation
 domain: Health
 status: Complete
 agency: Veterans Affairs
