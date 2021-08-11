@@ -7,6 +7,7 @@ image-credit:
 analysis-plan: /assets/analysis/1801-USAGov-survey-analysis-plan-updated.pdf
 abstract: /assets/abstracts/1801_USAGov_survey_abstract.pdf
 year: 2019  
+type: Program Change and Evaluation
 domain: Communications
 status: Complete
 agency: General Services Administration
