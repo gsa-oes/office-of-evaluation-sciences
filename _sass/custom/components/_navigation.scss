@@ -35,7 +35,7 @@
       background-color: $oem-blue;
 
       span {
-        color: #fff;
+        color: #d3eaf2;
       }
     }
   }
@@ -59,8 +59,8 @@
 
 .usa-nav__primary > .usa-nav__primary-item {
  & > a {
-  @include at-media($theme-header-min-width) {
-    @include u-padding-y(1.5);
+  @include at-media('desktop') {
+    @include u-padding-y(1);
   }
  }
  & > a:hover,
