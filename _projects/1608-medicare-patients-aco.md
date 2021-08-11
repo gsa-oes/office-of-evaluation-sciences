@@ -6,6 +6,7 @@ image: /assets/img/project-images/aco.jpg
 image-credit: https://www.flickr.com/photos/thenationalguard/
 abstract: /assets/abstracts/1608-Accountable-Care-Organization-Voluntary-Alignment.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
