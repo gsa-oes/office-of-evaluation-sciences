@@ -10,6 +10,7 @@ analysis-plan: /assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf
 abstract: /assets/abstracts/1738-increasing-vaccine-uptake.pdf
 academic-pub: /assets/publications/1738-publication-postcards-increasing-vaccination-rates-among-elderly.pdf
 year: 2018  
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
