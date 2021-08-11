@@ -10,6 +10,7 @@ analysis-plan: /assets/analysis/2105_SBequity_analysisplan.pdf
 abstract: /assets/abstracts/2105_small-business-counterfactual-equity.pdf
 academic-pub: /assets/publications/2105_SBequity_report_20210723.pdf
 year: 2021
+type: Program Evaluation
 domain: Economic Opportunity
 status: Complete
 agency: 
