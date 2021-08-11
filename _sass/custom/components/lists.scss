@@ -2,8 +2,8 @@
   @include unstyled-list();
   line-height: lh('body', 3);
   margin-top: units(2);
-  margin-right: 2px;
-  margin-left: 2px;
+  margin-right: units(2);
+  margin-left: units(2);
   list-style: none;
 
   li {
@@ -20,15 +20,15 @@
 
   .agency-lists {
     margin-top: 0;
-    margin-right: 2px;
-    margin-left: 2px;
+    margin-right: units(2);
+    margin-left: units(2);
   }
 }
 
 ul.list-columns {
   list-style: none;
-  margin-right: 2px;
-  margin-left: 2px;
+  margin-right: units(2);
+  margin-left: units(2);
 }
 
 .list-images {
@@ -40,14 +40,14 @@ ul.list-columns {
     margin: 0;
     min-width: units(7);
     width: units(7);
-    margin-right: 2px;
-    margin-left: 2px;
+    margin-right: units(2);
+    margin-left: units(2);
     list-style: none;
   }
 
   .list-images-image {
-    margin-right: 2px;
-    margin-left: 2px;
+    margin-right: units(2);
+    margin-left: units(2);
   }
 }
 
@@ -58,4 +58,6 @@ ul.list-columns {
   min-height: 64px;
   width: 100%;
   list-style: none;
+  margin-right: units(2);
+  margin-left: units(2);
 }
