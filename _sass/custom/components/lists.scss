@@ -2,6 +2,8 @@
   @include unstyled-list();
   line-height: lh('body', 3);
   margin-top: units(2);
+  margin-right: 2px;
+  margin-left: 2px;
   list-style: none;
 
   li {
@@ -18,6 +20,8 @@
 
   .agency-lists {
     margin-top: 0;
+    margin-right: 2px;
+    margin-left: 2px;
   }
 }
 
@@ -49,7 +53,7 @@ ul.list-columns {
 
 
 .list-images-item {
-  align-items: center;
+  align-items: left;
   display: inline-flex;
   min-height: 64px;
   width: 100%;
