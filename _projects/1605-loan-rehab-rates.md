@@ -8,6 +8,7 @@ image: /assets/img/project-images/loan-rehab.jpg
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Education
 agency: Education
