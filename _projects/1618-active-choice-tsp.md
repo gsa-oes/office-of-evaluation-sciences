@@ -8,6 +8,7 @@ image: /assets/img/project-images/navy-paperwork.jpg
 image-credit: https://www.flickr.com/photos/navyjagcorps/
 abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
