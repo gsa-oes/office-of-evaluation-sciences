@@ -6,6 +6,7 @@ image: /assets/img/project-images/military5.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1617-Military-OneSource-Subscription.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Communications
 agency: Defense
