@@ -7,6 +7,7 @@ image-credit: https://commons.wikimedia.org/wiki/File:Dallas_skyline_and_suburbs
 analysis-plan: 
 abstract: /assets/abstracts/1726-increasing-ahs-response.pdf
 year: 2018  
+type: Program Change and Evaluation
 status: Complete
 domain: Communications
 agency: Census
