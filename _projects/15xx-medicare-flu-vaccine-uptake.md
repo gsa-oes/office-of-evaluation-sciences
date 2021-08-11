@@ -10,6 +10,7 @@ analysis-plan:
 abstract: /assets/abstracts/15xx-medicare-flu-vaccine-uptake-abstract.pdf
 academic-pub: /assets/publications/15xx - Yokum et al (2018) - Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries.pdf
 year: 2015  
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
