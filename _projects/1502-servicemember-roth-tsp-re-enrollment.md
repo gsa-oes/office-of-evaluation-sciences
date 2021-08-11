@@ -8,6 +8,7 @@ image: /assets/img/project-images/service-member-re-enrollment.jpg
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/abstracts/1502-Servicemember-Roth-TSP-Re-Enrollment.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
