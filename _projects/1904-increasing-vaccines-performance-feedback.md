@@ -21,7 +21,7 @@ The Department of Veterans Affairs (VA) National Center for Health Promotion and
 
 ## What was the program change?
 The Atlanta VA and OES developed a **performance feedback intervention**, including four monthly performance feedback emails, a leaflet with evidence-based practices to increase flu vaccination rates and an online Frequently Asked Questions document. The performance feedback included flu vaccination rates for each provider group, or Patient Aligned Care Team (PACT). Specifically, it contained each PACT’s current and past flu vaccination rates, the number of unvaccinated patients assigned to the PACT, and peer vaccination rates in the form of the “Top 10%” of PACTs at the Atlanta VA. It also highlighted the Healthy People 2020 vaccination targets for adults aged 18-64 (i.e., 70%).
-
+<br>
 ![image](https://oes.gsa.gov/assets/img/project-images/1904-letter.png)<br>
 *Figure 1: The performance feedback email included current and past vaccination rates for each provider group.*
 
