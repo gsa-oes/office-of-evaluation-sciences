@@ -14,6 +14,7 @@ domain: Government Efficiency
 status: Complete
 agency: Social Security Administration
 summary: A reminder encouraged SSI recipients to self-report changes in earnings earlier, potentially reducing overpayment.
+featured: services
 ---
 ## What was the challenge?
 
