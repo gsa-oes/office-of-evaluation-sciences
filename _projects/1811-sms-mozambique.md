@@ -14,7 +14,9 @@ status: Complete
 domain: Health
 agency: United States Agency for International Development
 summary: Text reminders increased clinic visits for family planning services
-featured: homepage
+featured: 
+  - homepage
+  - services
 ---
 ## What was the challenge?
 Population Services International (PSI) leads a component of the USAID-funded and Pathfinder International-led Integrated Family Planning Program, in which family planning promoters deliver one-on-one counseling with women in urban areas in order to share information about family planning, and, where appropriate, provide referrals to clinics for free family planning services. USAID/Mozambique and PSI seek to increase the effectiveness of these referrals using evidence-based insights.
