@@ -8,7 +8,8 @@ analysis-plan: /assets/analysis/1733-flexible-spending-accounts-gsa-analysis-pla
 abstract: /assets/abstracts/1733-project-abstract.pdf
 academic-pub: /assets/publications/1733 - Leight and Wilson_GSA FSA (1).pdf
 year: 2018
-domain: 
+type: Program Change and Evaluation
+domain: Government Operations
 status: Complete
 agency: General Services Administration
 summary: Targeted email outreach to GSA employees did not increase enrollment in Flexible Spending Accounts.
