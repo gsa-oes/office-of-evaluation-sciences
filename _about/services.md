@@ -6,7 +6,7 @@ tags:
 image: /assets/img/icons/oes-red.jpg
 hide_image: true
 class:
-summary: Learn about the three types of work and services our team provides.
+summary: 
 ---
 
 <h1>We partner with agencies across government to:</h1>
