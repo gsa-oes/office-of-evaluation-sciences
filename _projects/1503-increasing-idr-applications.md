@@ -9,6 +9,7 @@ image-credit: https://www.flickr.com/photos/timetrax/
 abstract: /assets/abstracts/1503-Income-Driven-Repayment.pdf
 year: 2015
 status: Complete
+type: Program Change and Evaluation
 domain: Education
 agency: Education
 summary: Sending emails to delinquent borrowers positively impacted IDR application completion.
