@@ -7,6 +7,7 @@ image-credit: https://pixy.org/1398140/
 abstract: /assets/abstracts/Abstract - Congregate Meals_2020-12-22.pdf
 intervention: /assets/interventions/Intervention Pack - Congregate Meals (1).pdf
 year: 2021
+type: Program Change and Evaluation
 status: Complete
 domain: Communications
 agency: Health and Human Services
