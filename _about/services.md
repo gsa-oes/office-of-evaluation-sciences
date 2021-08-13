@@ -16,7 +16,7 @@ OES works with agency partners to apply evidence from the social and behavioral 
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-white">
-      <div class="grid-row grid-gap-lg">
+      <div class="grid-row grid-gap-sm">
         {% for project in featured_change %}
           {% include project-card.html %}
         {% endfor %}
@@ -30,7 +30,7 @@ OES works with agency partners to design and conduct an evaluation to measure th
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-white">
-      <div class="grid-row grid-gap-lg">
+      <div class="grid-row grid-gap-sm">
         {% for project in featured_evaluation %}
           {% include project-card.html %}
         {% endfor %}
@@ -44,7 +44,7 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-white">
-      <div class="grid-row grid-gap-lg">
+      <div class="grid-row grid-gap-sm">
         {% for project in featured_design %}
           {% include project-card.html %}
         {% endfor %}
