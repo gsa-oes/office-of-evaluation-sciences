@@ -15,16 +15,14 @@ OES works with agency partners to apply evidence from the social and behavioral 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-section featured bg-white">
       <div class="grid-row grid-gap-sm">
         {% for project in featured_change %}
           {% include project-card.html %}
         {% endfor %}
     </div>
-  </section>
 {% endif %}
 
-<h2>2. Evaluate existing programs or policy changes</h2>
+<h2>2. Evaluate existing programs or policies</h2>
 OES works with agency partners to design and conduct an evaluation to measure the impact of a program.
 {% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
 {% if featuredprojects.size == 0 %}
