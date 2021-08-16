@@ -30,7 +30,73 @@
     </div>
       
       
-      {% if header.type == 'basic' or header.type == 'basic-mega' %}
+     
+
+    <nav role="navigation" class="usa-nav">
+      <div class="usa-nav__inner">
+        <button class="usa-nav__close">
+          <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
+        </button>
+
+        {% assign _primary = header.primary.links %}
+        {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
+        {% if primary_links %}
+        <ul class="usa-nav__primary usa-accordion">
+          {% for _section in primary_links %}
+          <li class="usa-nav__primary-item">
+            {% if _section.links %}
+              {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
+              {% assign _section_id = _section.id %}
+              {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
+            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="{{ _section_id }}">
+              <span>{{ _section.text }}</span>
+            </button>
+            {% if header.type == 'basic' or header.type == 'extended' %}
+            <ul id="{{ _section_id }}" class="usa-nav__submenu">
+            {% endif %}
+            {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
+            <div id="{{ _section_id }}" class="usa-nav__submenu usa-megamenu">
+              <div class="grid-row grid-gap-4">
+            {% endif %}
+              {% for _link in section_links %}
+                {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
+                <!-- wrap every 3 links in a usa-megamenu-col div -->
+                {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
+                  {% if modulo == '1' %}
+                    <div class="desktop:grid-col-3">
+                      <ul class="usa-nav__submenu-list">
+                  {% endif %}
+                {% endif %}
+                <li class="usa-nav__submenu-item">
+                  <a href="{% if _link.external %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{{ _link.text }}</a>
+                </li>
+                {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
+                  {% if modulo == '0' or forloop.last %}
+                    </ul>
+                    </div>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% if header.type == 'basic' or header.type == 'extended' %}
+            </ul>
+            {% endif %}
+            {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
+              </div><!-- /grid-row -->
+            </div>
+            {% endif %}
+            {% else %}
+              <a class="{% if _section.class %}{{ _section.class }}{% else %} usa-nav__link {% endif %} {% if _section.href == page.permalink %} usa-current{% endif %}" href="{% if _section.external %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}">
+                <span>{{ _section.text }}</span>
+              </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        </div>
+      </div>
+       {% if header.type == 'basic' or header.type == 'basic-mega' %}
           {% assign _secondary = header.secondary %}
           {% if site.search_site_handle  %}
             <form
@@ -117,71 +183,6 @@
             {% endif %}
           </div>
           {% endif %}
-
-    <nav role="navigation" class="usa-nav">
-      <div class="usa-nav__inner">
-        <button class="usa-nav__close">
-          <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
-        </button>
-
-        {% assign _primary = header.primary.links %}
-        {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
-        {% if primary_links %}
-        <ul class="usa-nav__primary usa-accordion">
-          {% for _section in primary_links %}
-          <li class="usa-nav__primary-item">
-            {% if _section.links %}
-              {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
-              {% assign _section_id = _section.id %}
-              {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
-            <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="{{ _section_id }}">
-              <span>{{ _section.text }}</span>
-            </button>
-            {% if header.type == 'basic' or header.type == 'extended' %}
-            <ul id="{{ _section_id }}" class="usa-nav__submenu">
-            {% endif %}
-            {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
-            <div id="{{ _section_id }}" class="usa-nav__submenu usa-megamenu">
-              <div class="grid-row grid-gap-4">
-            {% endif %}
-              {% for _link in section_links %}
-                {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
-                <!-- wrap every 3 links in a usa-megamenu-col div -->
-                {% capture modulo %}{{ forloop.index | modulo: 3 }}{% endcapture %}
-                  {% if modulo == '1' %}
-                    <div class="desktop:grid-col-3">
-                      <ul class="usa-nav__submenu-list">
-                  {% endif %}
-                {% endif %}
-                <li class="usa-nav__submenu-item">
-                  <a href="{% if _link.external %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">{{ _link.text }}</a>
-                </li>
-                {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
-                  {% if modulo == '0' or forloop.last %}
-                    </ul>
-                    </div>
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
-            {% if header.type == 'basic' or header.type == 'extended' %}
-            </ul>
-            {% endif %}
-            {% if header.type == 'basic-mega' or header.type == 'extended-mega' %}
-              </div><!-- /grid-row -->
-            </div>
-            {% endif %}
-            {% else %}
-              <a class="{% if _section.class %}{{ _section.class }}{% else %} usa-nav__link {% endif %} {% if _section.href == page.permalink %} usa-current{% endif %}" href="{% if _section.external %}{{ _section.href }}{% else %}{{ _section.href | relative_url }}{% endif %}">
-                <span>{{ _section.text }}</span>
-              </a>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-
-        </div>
-      </div>
     </nav>
   {% if header.type == 'basic' or header.type == 'basic-mega' %}
     </div>
