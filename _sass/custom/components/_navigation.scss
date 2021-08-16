@@ -32,7 +32,7 @@
     }
 
     &:hover {
-      background-color: #2e9ac4;
+      background-color: #247f9b;
 
       span {
         color: #fff;
@@ -44,16 +44,16 @@
 }
 
 .usa-nav__submenu {
-  background-color: #247f9b;
+  background-color: #fff;
 
   a:hover {
-    background-color: #fff;
+    background-color: #247f9b;
   }
 }
 
 .usa-nav__primary {
   a, button[aria-expanded='true'] {
-      color: #2e9ac4;
+      color: #fff;
   }
 }
 
