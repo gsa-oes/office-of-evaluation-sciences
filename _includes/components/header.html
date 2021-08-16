@@ -20,7 +20,7 @@
           title="Home">
           <div class="usa-logo-img">
             {% include icons/oes.svg %}
-             </div>
+          </div>
           <em class="usa-logo__text">
             {{ header.title | default: site.title }}
           </em>
@@ -28,9 +28,6 @@
       </div>
       <button class="usa-menu-btn">Menu</button>
     </div>
-      
-      
-     
 
     <nav role="navigation" class="usa-nav">
       <div class="usa-nav__inner">
@@ -94,9 +91,7 @@
         </ul>
         {% endif %}
 
-        </div>
-      </div>
-       {% if header.type == 'basic' or header.type == 'basic-mega' %}
+        {% if header.type == 'basic' or header.type == 'basic-mega' %}
           {% assign _secondary = header.secondary %}
           {% if site.search_site_handle  %}
             <form
@@ -183,6 +178,8 @@
             {% endif %}
           </div>
           {% endif %}
+
+
         </div>
       </div>
     </nav>
