@@ -11,7 +11,6 @@ status: Complete
 domain: Health
 agency: Veterans Affairs
 summary: Using targeted outreach to increase flu vaccine uptake among Veterans at the Dorn VA Medical Center
-featured: homepage
 ---
 ## What was the challenge?
 
