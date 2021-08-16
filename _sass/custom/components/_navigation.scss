@@ -2,7 +2,7 @@
 
 @mixin nav-border {
   &:after {
-    background-color: color($color-brand);
+    background-color: #247f9b;
     height: units(0.5);
     bottom: units(-0.5);
   }
@@ -17,7 +17,7 @@
 
   a {
     &.usa-current:after {
-      background-color: color($color-brand);
+      background-color: #247f9b;
     }
   }
 }
@@ -47,7 +47,7 @@
   background-color: #247f9b;
 
   a:hover {
-    background-color: #2e9ac4;
+    background-color: #fff;
   }
 }
 
@@ -69,7 +69,7 @@
     @include nav-border;
   }
   span {
-    color: color($color-base);
+    color: #247f9b;
   }
  }
 }
