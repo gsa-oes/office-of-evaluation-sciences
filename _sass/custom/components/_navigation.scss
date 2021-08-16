@@ -28,11 +28,11 @@
     background-color: #fff;
 
     span {
-      border-bottom-color: #03cab9;
+      border-bottom-color: #247f9b;
     }
 
     &:hover {
-      background-color: #03cab9;
+      background-color: #2e9ac4;
 
       span {
         color: #fff;
@@ -47,13 +47,13 @@
   background-color: #247f9b;
 
   a:hover {
-    background-color: #03cab9;
+    background-color: #2e9ac4;
   }
 }
 
 .usa-nav__primary {
   a, button[aria-expanded='true'] {
-      color: #03cab9;
+      color: #2e9ac4;
   }
 }
 
