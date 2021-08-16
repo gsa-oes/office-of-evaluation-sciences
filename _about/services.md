@@ -17,10 +17,12 @@ OES works with agency partners to apply evidence from the social and behavioral 
 {% else %}
   <section class="usa-section featured bg-white">
       <div class="grid-row">
+        <div class="grid-col-auto">
         {% for project in featured_change %}
           {% include project-card.html %}
       {% endfor %}
     </div>
+   </div>
 </section>
 {% endif %}
 <h2>2. Evaluate existing programs or policies</h2>
