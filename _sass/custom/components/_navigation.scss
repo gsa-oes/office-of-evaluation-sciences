@@ -2,7 +2,7 @@
 
 @mixin nav-border {
   &:after {
-    background-color: color(#03cab9);
+    background-color: color($color-brand);
     height: units(0.5);
     bottom: units(-0.5);
   }
@@ -17,7 +17,7 @@
 
   a {
     &.usa-current:after {
-      background-color: color(#03cab9);
+      background-color: color($color-brand);
     }
   }
 }
@@ -25,14 +25,14 @@
 // Custom styles --------- //
 .usa-nav__primary-item {
   button[aria-expanded='true'] {
-    background-color: $oem-blue;
+    background-color: #fff;
 
     span {
       border-bottom-color: #03cab9;
     }
 
     &:hover {
-      background-color: $oem-blue;
+      background-color: #03cab9;
 
       span {
         color: #fff;
@@ -69,7 +69,7 @@
     @include nav-border;
   }
   span {
-    color: color(#03cab9);
+    color: color($color-base);
   }
  }
 }
