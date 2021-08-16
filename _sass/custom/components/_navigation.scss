@@ -2,7 +2,7 @@
 
 @mixin nav-border {
   &:after {
-    background-color: color($oem-green);
+    background-color: color(#03cab9);
     height: units(0.5);
     bottom: units(-0.5);
   }
@@ -17,7 +17,7 @@
 
   a {
     &.usa-current:after {
-      background-color: color($oem-green);
+      background-color: color(#03cab9);
     }
   }
 }
@@ -28,7 +28,7 @@
     background-color: $oem-blue;
 
     span {
-      border-bottom-color: $oem-green;
+      border-bottom-color: #03cab9;
     }
 
     &:hover {
@@ -47,13 +47,13 @@
   background-color: #247f9b;
 
   a:hover {
-    background-color: $oem-green;
+    background-color: #03cab9;
   }
 }
 
 .usa-nav__primary {
   a, button[aria-expanded='true'] {
-      color: $oem-green;
+      color: #03cab9;
   }
 }
 
@@ -69,7 +69,7 @@
     @include nav-border;
   }
   span {
-    color: color($oem-green);
+    color: color(#03cab9);
   }
  }
 }
