@@ -25,17 +25,17 @@
 // Custom styles --------- //
 .usa-nav__primary-item {
   button[aria-expanded='true'] {
-    background-color: #fff;
+    background-color: #247f9b;
 
     span {
       border-bottom-color: #247f9b;
     }
 
     &:hover {
-      background-color: #247f9b;
+      background-color: #fff;
 
       span {
-        color: #fff;
+        color: #247f9b;
       }
     }
   }
@@ -44,16 +44,16 @@
 }
 
 .usa-nav__submenu {
-  background-color: #fff;
+  background-color: #247f9b;
 
   a:hover {
-    background-color: #247f9b;
+    background-color: #fff;
   }
 }
 
 .usa-nav__primary {
   a, button[aria-expanded='true'] {
-      color: #fff;
+      color: #247f9b;
   }
 }
 
