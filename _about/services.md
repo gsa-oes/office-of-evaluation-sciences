@@ -13,7 +13,7 @@ summary:
 <h2>1. Apply evidence from the social sciences to design program modifications and evaluate them </h2>
 OES works with agency partners to apply evidence from the social and behavioral sciences to design a program change and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
-{% if featuredprojects.size == 1 %}
+{% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-white">
       <div class="grid-row">
