@@ -3,19 +3,15 @@
   line-height: lh('body', 3);
   margin-top: units(2);
   list-style: none;
-  margin-right: -12px;
 
   li {
     margin-bottom: units(3);
-    margin-right: -12px;
   list-style: none;
     &:last-child {
       margin-bottom: units(3);
-      margin-right: -12px;
   list-style: none;
       @include at-media('tablet') {
         margin-bottom: 0;
-        margin-right: -12px;
       }
     }
   }
@@ -28,7 +24,6 @@
 
 ul.list-columns {
   list-style: none;
-   margin-right: -12px;
 }
 
 .list-images {
@@ -40,12 +35,12 @@ ul.list-columns {
     margin: 0;
     min-width: units(7);
     width: units(7);
-    margin-right: -12px;
+    margin-right: 12px;
     list-style: none;
   }
 
   .list-images-image {
-    margin-right: units(-4);
+    margin-right: units(2);
   }
 }
 
@@ -56,5 +51,4 @@ ul.list-columns {
   min-height: 54px;
   width: 100%;
   list-style: none;
-  margin-right: -12px;
 }
