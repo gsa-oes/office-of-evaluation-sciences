@@ -3,9 +3,11 @@
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-6">
         <div class="footer-logo-links">
-        <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA"/>
+          <a href="https://www.gsa.gov/" class="usa-footer-logo-img">
+        <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA"/></a>
           {% if site.footer.image %}
-              {% include icons/oes.svg %}
+          <a href="https://www.oes.gsa.gov/">
+            {% include icons/oes.svg %}</a>
           {% endif %}
         </div>
       </div>
