@@ -10,7 +10,6 @@
 
   {% include components/banner.html %}
 
-/* -------------------- Main Nav -------------------- */
   {% if header.type == 'basic' or header.type == 'basic-mega' %}
     <div class="usa-nav-container">
   {% endif %}
@@ -30,7 +29,7 @@
       <button class="usa-menu-btn">Menu</button>
     </div>
       
- /* -------------------- Search Bar -------------------- */
+      
       {% if header.type == 'basic' or header.type == 'basic-mega' %}
           {% assign _secondary = header.secondary %}
           {% if site.search_site_handle  %}
@@ -119,7 +118,6 @@
           </div>
           {% endif %}
 
-/* -------------------- Navigation Bar -------------------- */
     <nav role="navigation" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
