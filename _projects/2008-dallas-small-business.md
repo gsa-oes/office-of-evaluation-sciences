@@ -2,7 +2,7 @@
 title:  Dallas Small Business Continuity Fund Impact Evaluation
 permalink: /projects/dallas-small-business/
 tags: 
-  - project 
+  - project  
   - business
   - covid
 image: /assets/img/project-images/2008-dallas.jpeg
@@ -10,11 +10,16 @@ image-credit: https://www.flickr.com/photos/texaseagle/3782314675
 analysis-plan: /assets/analysis/Dallas SBCF Analysis Plan.pdf
 abstract:  
 year: 2021
+type: Program Evaluation
 domain: Economic Opportunity
 status: Ongoing
+type: Program Evaluation
 agency: 
   - Small Business Administration
 summary: Analysis Plan Registration
+featured: 
+  - homepage
+  - services
 ---
 
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
