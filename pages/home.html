@@ -29,9 +29,8 @@ page.tagline and page.intro %}
 <section class="usa-section background-tint">
   <div class="grid-container">
     <div class="usa-grid" align="left">
-      <h1>OES makes government better by helping agencies</h1><br> 
-      <h1>build and use evidence to learn what works.</h1>
-      <p class="font-size: 14px;">
+      <h1>OES makes government better by helping agencies build and use evidence to learn what works.</h1>
+      <p class="font-size: 20px;">
         The Office of Evaluation Sciences (OES) is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes.
       </p>
       <p>
@@ -44,9 +43,9 @@ page.tagline and page.intro %}
 {% assign featured_completed = site.projects | where: "featured", "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-section featured bg-secondary-lighter padding-1">
+  <section class="usa-section featured bg-secondary-lighter">
     <div class="grid-container">
-      <h2>Featured evaluations</h2>
+      <h1>Featured evaluations</h1>
       <div class="grid-row grid-gap-sm">
         {% for project in featured_completed %}
           {% include project-card.html %}
@@ -66,8 +65,8 @@ page.tagline and page.intro %}
   <section class="grid-container">
     {% assign agency_partners = site.data.featured_agencies %}
     {% assign partner_groups = agency_partners | in_groups : 3 %}
-    <h2>Some agencies we've worked with</h2>
-    <br><br>
+    <h1>Some agencies we've worked with</h1>
+    <br>
     <!--<ul class="grid-row list-columns grid-gap">-->
     <ul class="grid-row grid-gap usa-list--unstyled">
       {% for group in partner_groups %}
@@ -91,7 +90,7 @@ page.tagline and page.intro %}
         </li>
       {% endfor %}
     </ul>
-<br><br>
+<br>
     <p>
       <a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a>
     </p>
