@@ -2,8 +2,8 @@
 layout: default
 title: OES Project Process
 permalink: /projectprocess/
-image:
-image_full: true
+image: /assets/img/icons/oes-green.jpg
+hide_image: true
 class:
 summary: We follow a number of steps to ensure our findings are relevant and reliable.
 ---
