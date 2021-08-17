@@ -11,7 +11,7 @@ summary:
 
 <h1>We partner with agencies across government to:</h1>
 <h2>Apply evidence from the social sciences to design program modifications and evaluate them </h2>
-OES works with agency partners to apply evidence from the social and behavioral sciences to design a program change and evaluate its impact. 
+OES works with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how its implemented, and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
@@ -46,10 +46,15 @@ OES works with agency partners to design an evaluation to measure the impact of 
         {% for project in featured_design %}
           {% include project-card.html %}
         {% endfor %}
+   </div>
+      <div class="grid-row grid-gap-sm">
+        <p>
+          <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
+        </p>
       </div>
+    </div>
   </section>
-{% endif %}
-<a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
+
 <br><br>
 
 
