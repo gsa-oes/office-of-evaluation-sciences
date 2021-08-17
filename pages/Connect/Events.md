@@ -2,10 +2,10 @@
 layout: page
 title: Events
 permalink: /events/
-image:
-image_full: 
+image: /assets/img/icons/oes-blue.jpg
+hide_image: true
 class:
-summary: Upcoming and previous events
+summary: Check out our upcoming events and workshops
 ---
 
 # Evaluation and Evidence Training Series
