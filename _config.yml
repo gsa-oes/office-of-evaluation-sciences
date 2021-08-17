@@ -10,8 +10,8 @@ permalink: pretty
 theme: uswds-jekyll
 
 # Styles
-styles:
-  - /assets/css/main.css
+# styles:
+#   - /assets/css/main.css
 
 # Collections
 collections:

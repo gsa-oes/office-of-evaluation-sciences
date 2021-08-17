@@ -28,16 +28,19 @@ page.tagline and page.intro %}
 
 <section class="usa-section background-tint">
   <div class="grid-container">
-    <div class= "usa-grid" align="left">
+    <div class="usa-grid" align="left">
       <h1>OES makes government better by helping agencies build and use evidence to learn what works.</h1>
-      <p class="font-size: 10px;"> The Office of Evaluation Sciences (OES) is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes.
+      <p class="font-size: 10px;">
+        The Office of Evaluation Sciences (OES) is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes.
       </p>
-      <p><a class="usa-button" href="{{site.baseurl}}/services">Learn about our services</a></p>
+      <p>
+        <a class="usa-button" href="{{site.baseurl}}/services">Learn about our services</a>
+      </p>
     </div>
   </div>
 </section>
 
-{% assign featured_completed = site.projects | where: "featured" , "homepage" | where: "status", "Complete" %}
+{% assign featured_completed = site.projects | where: "featured", "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-secondary-lighter">
@@ -49,35 +52,45 @@ page.tagline and page.intro %}
         {% endfor %}
       </div>
       <div class="grid-row grid-gap-lg">
-        <p><a class="usa-button" href="{{site.baseurl}}/work">See all work</a></p>
+        <p>
+          <a class="usa-button" href="{{site.baseurl}}/work">See all work</a>
+        </p>
       </div>
     </div>
   </section>
 {% endif %}
 
-<section class="usa-section background-tint">
+<!--<section class="usa-section background-tint">-->
+<section class="usa-section usa-section--mobile-no-x">
   <section class="grid-container">
-    {% assign agency_partners = site.data.featured_agencies %} {% assign
-    partner_groups = agency_partners | in_groups: 3 %}
+    {% assign agency_partners = site.data.featured_agencies %}
+    {% assign partner_groups = agency_partners | in_groups : 3 %}
     <h1>Some agencies we've worked with</h1>
-<ul class="grid-row list-columns grid-gap">
-{% for group in partner_groups %}
-<li class="tablet:grid-col-4">
-<ul class="list-columns list-images">
-{% for partner in group %}
-<li class="list-images-item">
-<img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" height="80" width="80"/>
-{% if partner.agency_url %}
-<h4><a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}">{{ partner.name }}</a></h4>
-{% else %}
-<h4><span class="list-images-text">{{ partner.name }}</span></h4>
-{% endif %}
-</li>
-{% endfor %}
-</ul>
-</li>
-{% endfor %}
-</ul>
-  <p><a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a></p>
+    <!--<ul class="grid-row list-columns grid-gap">-->
+    <ul class="grid-row grid-gap usa-list--unstyled">
+      {% for group in partner_groups %}
+        <li class="tablet:grid-col-4">
+          <ul class="agency-lists list-images">
+            {% for partner in group %}
+              <li class="list-images-item">
+                <img class="list-images-image" src="{{ partner.logo | prepend: site.baseurl }}" alt="{{ partner.logo }} logo" height="80" width="80"/>
+                {% if partner.agency_url %}
+                  <!--<h4>-->
+                    <a class="list-images-text" href="{{ partner.agency_url | prepend: site.baseurl }}">{{ partner.name }}</a>
+                  <!--</h4>-->
+                {% else %}
+                  <!--<h4>-->
+                    <span class="list-images-text">{{ partner.name }}</span>
+                  </h4>
+                <!--{% endif %}-->
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+    <p>
+      <a class="usa-button" href="{{site.baseurl}}/opps">Collaborate with us</a>
+    </p>
   </section>
 </section>
