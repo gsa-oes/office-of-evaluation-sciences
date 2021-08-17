@@ -2,7 +2,6 @@
 title:  Who Receives Access to Small Business Relief? A Simulation-based Approach
 permalink: /collaborations/sb-counterfactual-equity/
 tags: 
-  - collaborations
   - business
   - covid
 image: /assets/img/project-images/othercollabs/sb-equity-image.jpg
@@ -11,12 +10,15 @@ analysis-plan: /assets/analysis/2105_SBequity_analysisplan.pdf
 abstract: /assets/abstracts/2105_small-business-counterfactual-equity.pdf
 academic-pub: /assets/publications/2105_SBequity_report_20210723.pdf
 year: 2021
+type: Program Evaluation
 domain: Economic Opportunity
-status: Ongoing
+status: Complete
 agency: 
   - Small Business Administration
 summary: Simulations using application data from three cities showed how outcomes for historically underserved businesses depend on the allocation method.
-featured: homepage
+featured: 
+  - homepage
+  - services
 ---
 
 ## What was the challenge?
