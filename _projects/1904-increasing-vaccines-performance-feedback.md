@@ -9,11 +9,14 @@ image-credit: https://health.mil/-/media/Images/MHS/Photos/IPAP.ashx
 analysis-plan: /assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf
 abstract: /assets/abstracts/1904-project-abstract.pdf
 year: 2021
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Veterans Affairs
 summary: Provider vaccine performance feedback did not increase flu vaccine uptake among Veterans at the Atlanta VA
-featured: homepage
+featured: 
+  - homepage
+  - services
 ---
 
 ## What was the challenge?
