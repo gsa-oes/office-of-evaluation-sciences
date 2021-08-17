@@ -46,7 +46,6 @@ OES works with agency partners to design an evaluation to measure the impact of 
         {% for project in featured_design %}
           {% include project-card.html %}
         {% endfor %}
-   </div>
       <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
