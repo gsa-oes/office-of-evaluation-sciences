@@ -15,9 +15,9 @@ OES helps agencies build and use evidence to learn what works.  We look  to our 
 ### What makes an opportunity a good fit for an OES collaboration?
 - You have an important question  related to an established policy priority 
 - You are already collecting data on the program and outcome of interest
-- The Program or Program change has potential for significant impact
+- The program or program change has potential for significant impact
 - Your agency is interested in acting on and sharing results 
-- The Program operates on a large scale or with many people 
+- The program operates on a large scale or with many people 
 - There is the ability to give groups of people different versions of a program or program change
 
 If this sounds like you, please get in touch! We’re excited to work with agency collaborators across government. Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
