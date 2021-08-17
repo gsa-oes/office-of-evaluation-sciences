@@ -52,9 +52,6 @@ OES works with agency partners to design an evaluation to measure the impact of 
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
         </p>
       </div>
-    </div>
   </section>
 {% endif %}
-
-<br><br>
 
