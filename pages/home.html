@@ -43,15 +43,15 @@ page.tagline and page.intro %}
 {% assign featured_completed = site.projects | where: "featured", "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-section featured bg-secondary-lighter">
+  <section class="usa-section featured bg-secondary-lighter padding-1">
     <div class="grid-container">
       <h2>Featured evaluations</h2>
-      <div class="grid-row grid-gap-lg">
+      <div class="grid-row grid-gap-sm">
         {% for project in featured_completed %}
           {% include project-card.html %}
         {% endfor %}
       </div>
-      <div class="grid-row grid-gap-lg">
+      <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See all work</a>
         </p>
