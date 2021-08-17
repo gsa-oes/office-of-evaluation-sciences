@@ -41,11 +41,12 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-section featured bg-white padding-1">
-      <div class="grid-row grid-gap-sm">
+<section class="usa-section featured bg-white padding-1">
+<div class="grid-row grid-gap-sm">
         {% for project in featured_design %}
           {% include project-card.html %}
         {% endfor %}
+      </div>
       <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
@@ -53,7 +54,7 @@ OES works with agency partners to design an evaluation to measure the impact of 
       </div>
     </div>
   </section>
+{% endif %}
 
 <br><br>
-
 
