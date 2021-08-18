@@ -2,7 +2,7 @@ primary:
   - text: About
     links:
     - text: Mission
-      href: /mission/
+      href: /about/
     - text: Team
       href: /team/
     - text: Services
