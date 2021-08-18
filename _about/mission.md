@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mission
-permalink: /mission/
+permalink: /about/
 tags: 
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
