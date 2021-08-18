@@ -6,10 +6,8 @@ tags:
 image: /assets/img/icons/oes-red.jpg
 hide_image: true
 class:
-summary: 
+summary: We partner with agencies across government to:
 ---
-
-<h1>We partner with agencies across government to:</h1>
 <h2>Design and evaluate program changes</h2>
 OES works with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how its implemented, and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
