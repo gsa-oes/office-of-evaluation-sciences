@@ -5,7 +5,7 @@ permalink: /events/
 image: /assets/img/icons/oes-blue.jpg
 hide_image: true
 class:
-summary: Check out our upcoming events and workshops
+summary: Check out our upcoming events and workshops.
 ---
 
 # Evaluation and Evidence Training Series
