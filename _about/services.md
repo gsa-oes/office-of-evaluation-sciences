@@ -10,7 +10,7 @@ summary:
 ---
 
 <h1>We partner with agencies across government to:</h1>
-<h2>Apply evidence from the social sciences to design program modifications and evaluate them </h2>
+<h2>Design and evaluate program changes</h2>
 OES works with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how its implemented, and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
 {% if featuredprojects.size == 0 %}
@@ -23,7 +23,7 @@ OES works with agency partners to apply evidence from the social and behavioral 
    </div>
 </section>
 {% endif %}
-<h2>Evaluate existing programs or policies</h2>
+<h2>Evaluate existing programs</h2>
 OES works with agency partners to design and conduct an evaluation to measure the impact of a program.
 {% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
 {% if featuredprojects.size == 0 %}
