@@ -8,7 +8,7 @@ hide_image: true
 class:
 summary: 
 ---
-<h1>We partner with agencies across government to:</h1>
+<h1><span style='color:#757575'>We partner with agencies across government to:</h1></span>
 <h2>Design and evaluate program changes</h2>
 OES works with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how its implemented, and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
@@ -79,12 +79,12 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% endfor %}
   </div>
    </div>
-    </section>
-{% endif %}
-  <br>
+  <br><br>
       <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
         </p>
       </div>
+</section>
+{% endif %}
 <br>
