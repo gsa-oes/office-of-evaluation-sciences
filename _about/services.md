@@ -14,11 +14,24 @@ OES works with agency partners to apply evidence from the social and behavioral 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-section featured bg-white padding-1">
+  <section class="usa-accordion featured bg-white padding-1">
+  <h3 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="a1"
+    >
+      Recent examples
+    </button>
+  </h3>
+  <div id="a1" class="usa-accordion__content usa-prose">
+    <p>
       <div class="grid-row">
         {% for project in featured_change %}
           {% include project-card.html %}
       {% endfor %}
+        </p>
+  </div>
    </div>
 </section>
 {% endif %}
