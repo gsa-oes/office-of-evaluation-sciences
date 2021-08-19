@@ -18,19 +18,17 @@ OES works with agency partners to apply evidence from the social and behavioral 
   <h3 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
-      aria-expanded="true"
+      aria-expanded="false"
       aria-controls="a1"
     >
       Recent examples
     </button>
   </h3>
   <div id="a1" class="usa-accordion__content usa-prose">
-    <p>
       <div class="grid-row">
         {% for project in featured_change %}
           {% include project-card.html %}
       {% endfor %}
-        </p>
   </div>
    </div>
 </section>
