@@ -32,7 +32,6 @@ OES works with agency partners to apply evidence from the social and behavioral 
   </div>
    </div>
 </section>
-{% endif %}
 <h2>Evaluate existing programs</h2>
 OES works with agency partners to design and conduct an evaluation to measure the impact of a program.
 {% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
@@ -56,7 +55,6 @@ OES works with agency partners to design and conduct an evaluation to measure th
   </div>
    </div>
 </section>
-{% endif %}
 <h2>Provide technical assistance on evaluation design</h2>
 OES works with agency partners to design an evaluation to measure the impact of an existing program or an evidence-based program change.
 {% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
