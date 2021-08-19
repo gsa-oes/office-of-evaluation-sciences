@@ -25,7 +25,7 @@ OES works with agency partners to apply evidence from the social and behavioral 
     </button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
-      <div class="grid-row grid-gap-sm">
+      <div class="grid-row grid-gap-lg">
         {% for project in featured_change %}
           {% include project-card.html %}
         {% endfor %}
@@ -49,7 +49,7 @@ OES works with agency partners to design and conduct an evaluation to measure th
     </button>
   </h2>
   <div id="a2" class="usa-accordion__content usa-prose">
-      <div class="grid-row grid-gap-sm">
+      <div class="grid-row grid-gap-lg">
         {% for project in featured_evaluation %}
           {% include project-card.html %}
         {% endfor %}
@@ -73,18 +73,16 @@ OES works with agency partners to design an evaluation to measure the impact of 
     </button>
   </h2>
   <div id="a3" class="usa-accordion__content usa-prose">
-      <div class="grid-row grid-gap-sm">
+      <div class="grid-row grid-gap-lg">
         {% for project in featured_design %}
           {% include project-card.html %}
 {% endfor %}
   </div>
    </div>
   <br><br>
-      <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more work</a>
         </p>
-      </div>
 </section>
 {% endif %}
 <br>
