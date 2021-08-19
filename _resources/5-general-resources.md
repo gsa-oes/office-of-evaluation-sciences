@@ -2,7 +2,7 @@
 layout: page
 title: General Resources
 permalink: /general-resources/
-image: /assets/img/icons/oes-grey.jpg
+image: /assets/img/icons/oes-yellow.jpg
 hide_image: true
 class:
 summary: We hope others can use and build on what we've learned.
