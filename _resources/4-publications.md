@@ -2,7 +2,7 @@
 layout: page
 title: Academic Publications
 permalink: /publications/
-image: /assets/img/icons/oes-yellow.jpg
+image: /assets/img/icons/oes-orange.jpg
 hide_image: true
 class:
 summary: Below are selected publications resulting from OES collaborations.
