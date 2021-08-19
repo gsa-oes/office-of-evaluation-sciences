@@ -79,12 +79,12 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% endfor %}
   </div>
    </div>
+    </section>
+{% endif %}
   <br>
       <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
         </p>
       </div>
-  </section>
-{% endif %}
 <br>
