@@ -39,7 +39,7 @@ OES works with agency partners to design and conduct an evaluation to measure th
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
-  <h1 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -47,15 +47,15 @@ OES works with agency partners to design and conduct an evaluation to measure th
     >
       Recent examples
     </button>
-  </h1>
+  </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
       <div class="grid-row grid-gap-sm">
         {% for project in featured_evaluation %}
           {% include project-card.html %}
-        {% endfor %}
-      </div>
+ {% endfor %}
   </div>
-  </section>
+   </div>
+</section>
 {% endif %}
 <h2>Provide technical assistance on evaluation design</h2>
 OES works with agency partners to design an evaluation to measure the impact of an existing program or an evidence-based program change.
@@ -63,7 +63,7 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
-  <h3 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -71,7 +71,7 @@ OES works with agency partners to design an evaluation to measure the impact of 
     >
       Recent examples
     </button>
-  </h3>
+  </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
 <div class="grid-row grid-gap-sm">
         {% for project in featured_design %}
@@ -79,7 +79,7 @@ OES works with agency partners to design an evaluation to measure the impact of 
         {% endfor %}
       </div>
   </div>
-  <br><br>
+  <br>
       <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
