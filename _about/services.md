@@ -15,7 +15,7 @@ OES works with agency partners to apply evidence from the social and behavioral 
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
-  <h3 class="usa-accordion__heading">
+  <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
       aria-expanded="false"
@@ -23,9 +23,9 @@ OES works with agency partners to apply evidence from the social and behavioral 
     >
       Recent examples
     </button>
-  </h3>
+  </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
-      <div class="grid-row">
+      <div class="grid-row grid-gap-sm">
         {% for project in featured_change %}
           {% include project-card.html %}
       {% endfor %}
@@ -38,12 +38,23 @@ OES works with agency partners to design and conduct an evaluation to measure th
 {% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-section featured bg-white padding-1">
+  <section class="usa-accordion featured bg-white padding-1">
+  <h1 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a1"
+    >
+      Recent examples
+    </button>
+  </h1>
+  <div id="a1" class="usa-accordion__content usa-prose">
       <div class="grid-row grid-gap-sm">
         {% for project in featured_evaluation %}
           {% include project-card.html %}
         {% endfor %}
       </div>
+  </div>
   </section>
 {% endif %}
 <h2>Provide technical assistance on evaluation design</h2>
@@ -51,12 +62,24 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-<section class="usa-section featured bg-white padding-1">
+  <section class="usa-accordion featured bg-white padding-1">
+  <h3 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a1"
+    >
+      Recent examples
+    </button>
+  </h3>
+  <div id="a1" class="usa-accordion__content usa-prose">
 <div class="grid-row grid-gap-sm">
         {% for project in featured_design %}
           {% include project-card.html %}
         {% endfor %}
       </div>
+  </div>
+  <br><br>
       <div class="grid-row grid-gap-sm">
         <p>
           <a class="usa-button" href="{{site.baseurl}}/work">See more examples</a>
