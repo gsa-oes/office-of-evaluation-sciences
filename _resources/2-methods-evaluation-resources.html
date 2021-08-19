@@ -28,45 +28,45 @@ summary: Because results from OES evaluations impact the lives of millions of Am
       </div>
     {% endif %}
   {% endunless %}
-<h1>OES Evaluation Policy & Process</h1>
+<h2>OES Evaluation Policy & Process</h2>
 <p>The <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}">OES Evaluation Policy</a> lays out the principles that guide our work.<br>
   Our evaluation projects follow six steps to produce results that are relevant and reliable.<br>
   <img src="{{ '/assets/img/oes-project-process-small.png' | prepend: site.baseurl }}" width="400"><br>
 <br><p><a class="usa-button" href="{{ '/projectprocess' | prepend: site.baseurl }}">Learn more about our project process here</a></p>
   
-<h1>Statistical Analysis Resources</h1>
+<h2>Statistical Analysis Resources</h2>
 <p>We have produced a series of methods papers for our own team’s use in designing randomized evaluations and conducting statistical analysis. Take a look if you would like to know more about our methods. If you find these useful in your own evaluation work, or if you have questions or would like to request additional resources, please <a href="mailto:oes@gsa.gov?subject=Methods">let us know.</a></p>
   
-<h2>Reporting Statistical Results in Text and in Graphs</h2>
+<h3>Reporting Statistical Results in Text and in Graphs</h3>
 <p>Our guidance paper, <a href="https://oes.gsa.gov/assets/files/reporting-statistical-results.pdf">Reporting Statistical Results in Text and in Graphs</a>, describes OES’s preferred methods for reporting statistical results from a randomized evaluation. It explains how to report a regression coefficient that estimates the effect of a treatment or intervention, as well as how to produce the graphs that OES includes in its project abstracts. Code for generating graphs, both in R and in Stata, is included.</p>
   
-<h2>Blocking in Randomized Evaluations</h2>
+<h3>Blocking in Randomized Evaluations</h3>
 <p>Whenever possible, we incorporate background information about individuals (or other units) into an evaluation through block randomization. This helps make our estimates of the effects of a program or intervention as precise as possible. Our guidance paper <a href="https://oes.gsa.gov/assets/files/block-randomization.pdf">Blocking in Randomized Evaluations</a> describes OES’s approach to block randomization.</p>
   
-  <h2>Calculating Standard Errors Guide</h2>
+  <h3>Calculating Standard Errors Guide</h3>
   <p> OES often analyzes the results of a randomized evaluation by estimating a statistical model — typically an ordinary least squares (OLS) regression — where one of the parameters represents the effect of an intervention. In order to decide whether a result is statistically significant, we must estimate the standard error for this parameter. Our <a href="/assets/files/calculating-standard-errors-guidance.pdf">Calculating Standard Errors Guide</a> describes our preferred method for doing this. In particular, it explains the reasons for using so-called HC2 standard errors — and how to calculate them in R and Stata.</p>
 
-  <h2>Multiple Comparison Adjustment Guide</h2>
+  <h3>Multiple Comparison Adjustment Guide</h3>
   <p>When evaluators run multiple statistical tests — for example, looking at multiple possible outcomes of a program or intervention, or testing multiple versions of an intervention — they run the risk of getting a “false positive” result unless they account for these multiple tests in some way. There are various approaches to this, and OES’s preferred approach is described in this <a href="/assets/files/multiple-comparison-adjustment.pdf">Multiple Comparison Adjustments Guide.</a></p>
  
-  <h1>Evaluation Resources</h2>
-  <h2>Effect Size and Evaluation: The Basics</h2>
-<p>An impact evaluation aims to detect and measure the effect of a program or policy on a priority outcome. To plan for an evaluation, we need to decide how large or small an effect we want to be able to detect. This important decision will influence all aspects of evaluation planning, including budget, operations, duration, and sample. This resource explains what effect sizes are and their importance in designing an evaluation.</p>
+  <h2>Evaluation Resources</h2>
+  <h3>Effect Size and Evaluation: The Basics</h3>
+<p>An impact evaluation aims to detect and measure the effect of a program or policy on a priority outcome. To plan for an evaluation, we need to decide how large or small an effect we want to be able to detect. This important decision will influence all aspects of evaluation planning, including budget, operations, duration, and sample. This resource explains what effect sizes are and their importance in designing an evaluation.
 <br/><br>
-<a class="usa-button" href="{{ '/assets/files/effect-size-evaluation-basics.pdf' | prepend: site.baseurl }}">Effect Size Guide</a>
+<a class="usa-button" href="{{ '/assets/files/effect-size-evaluation-basics.pdf' | prepend: site.baseurl }}">Effect Size Guide</a></p>
 
-  <h2>Evidence Reviews to Support Evidence-Based Policymaking</h2>
-<p>The Foundations for Evidence-Based Policymaking Act of 2018 (the Evidence Act) directs Federal agencies to develop evidence to support policymaking. A crucial component of developing evidence is understanding what evidence already exists. This helps ensure that key learnings are incorporated into new and existing programming, and that the resources available for evidence-building activities are targeted towards areas where there are bigger evidence gaps. This resource introduces a framework for how to conduct a review of existing evidence, and provides additional resources for those seeking to conduct more systematic reviews.</p>
+  <h3>Evidence Reviews to Support Evidence-Based Policymaking</h3>
+<p>The Foundations for Evidence-Based Policymaking Act of 2018 (the Evidence Act) directs Federal agencies to develop evidence to support policymaking. A crucial component of developing evidence is understanding what evidence already exists. This helps ensure that key learnings are incorporated into new and existing programming, and that the resources available for evidence-building activities are targeted towards areas where there are bigger evidence gaps. This resource introduces a framework for how to conduct a review of existing evidence, and provides additional resources for those seeking to conduct more systematic reviews.
 <br/><br>
-<a class="usa-button" href="{{ '/assets/files/evidence-reviews-to-support-evidence-based-policymaking.pdf' | prepend: site.baseurl }}">Evidence Reviews Guide</a>
+<a class="usa-button" href="{{ '/assets/files/evidence-reviews-to-support-evidence-based-policymaking.pdf' | prepend: site.baseurl }}">Evidence Reviews Guide</a></p>
 
-  <h2>Preregistration as a Tool for Strengthening Federal Evaluation</h2>
-<p>In order to ensure that evaluation findings are reliable and that statistical results are well founded, it is essential that evaluators commit to specific design choices and analytic methods in advance. By making these details publicly available -- a practice known as preregistration -- we promote transparency and reduce the risk of inadvertently tailoring methods to obtain certain results or selectively reporting positive results. This guidance paper describes the importance and benefits of preregistration and addresses concerns that Federal evaluators might have.</p>
+  <h3>Preregistration as a Tool for Strengthening Federal Evaluation</h3>
+<p>In order to ensure that evaluation findings are reliable and that statistical results are well founded, it is essential that evaluators commit to specific design choices and analytic methods in advance. By making these details publicly available -- a practice known as preregistration -- we promote transparency and reduce the risk of inadvertently tailoring methods to obtain certain results or selectively reporting positive results. This guidance paper describes the importance and benefits of preregistration and addresses concerns that Federal evaluators might have.
 <br/><br>
-<a class="usa-button" href="{{ '/assets/files/preregistration-as-a-tool-in-federal-evaluation.pdf' | prepend: site.baseurl }}">Preregistration guide</a>
+<a class="usa-button" href="{{ '/assets/files/preregistration-as-a-tool-in-federal-evaluation.pdf' | prepend: site.baseurl }}">Preregistration guide</a></p>
 
-  <h2>How to Use Unexpected and Null Results</h2>
+  <h3>How to Use Unexpected and Null Results</h3>
 <p>Recent research shows that null results in federal evaluations are more common than we think, and occur for a variety of reasons. When agencies share both expected and unexpected results, we can learn about what programs work, what effect sizes are realistic, and improve Federal evaluations. This post dispels misconceptions about null results and highlights different uses and lessons from null results. </p>
 <br/><br>
-<a class="usa-button" href="{{ '/assets/files/unexpected-results-2-pager.pdf' | prepend: site.baseurl }}">Unexpected results guide</a>
+<a class="usa-button" href="{{ '/assets/files/unexpected-results-2-pager.pdf' | prepend: site.baseurl }}">Unexpected results guide</a></p>
 
