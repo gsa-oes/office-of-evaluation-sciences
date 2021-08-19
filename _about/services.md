@@ -38,7 +38,7 @@ OES works with agency partners to design and conduct an evaluation to measure th
 {% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-accordion featured bg-white padding-1">
+ <section class="usa-accordion featured bg-white padding-1">
   <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
@@ -52,7 +52,7 @@ OES works with agency partners to design and conduct an evaluation to measure th
       <div class="grid-row grid-gap-sm">
         {% for project in featured_evaluation %}
           {% include project-card.html %}
- {% endfor %}
+      {% endfor %}
   </div>
    </div>
 </section>
@@ -62,7 +62,7 @@ OES works with agency partners to design an evaluation to measure the impact of 
 {% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-  <section class="usa-accordion featured bg-white padding-1">
+ <section class="usa-accordion featured bg-white padding-1">
   <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
@@ -73,12 +73,12 @@ OES works with agency partners to design an evaluation to measure the impact of 
     </button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
-<div class="grid-row grid-gap-sm">
+      <div class="grid-row grid-gap-sm">
         {% for project in featured_design %}
           {% include project-card.html %}
-        {% endfor %}
-      </div>
+      {% endfor %}
   </div>
+   </div>
   <br>
       <div class="grid-row grid-gap-sm">
         <p>
