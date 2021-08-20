@@ -8,7 +8,7 @@ hide_image: true
 class:
 summary: 
 ---
-<p class="billboard-message><span style='color:#757575'>We partner with agencies across government to:</span></p>
+<p class="billboard-message"><span style='color:#757575'>We partner with agencies across government to:</span></p>
 <h2>Design and evaluate program changes</h2>
 OES works with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how its implemented, and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
