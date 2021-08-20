@@ -14,11 +14,11 @@ featured: homepage
 ---
 ## What was the challenge?
 
-Improper payments include payments made by the government to the wrong person or in the wrong amount. Ensuring payment integrity by reducing improper payments is a top priority for the Federal government, to make certain that taxpayer money is serving its intended purpose.
+Improper payments include payments made by the government to the wrong person or in the wrong amount. While improper payments may compromise citizens' trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. Payment integrity is a priority area of the United States Chief Financial Officers Council that is focused on demonstrating stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time.
 
 ## What did we do?
 
-At the request of the Office of Federal Financial Management, a component of the Office of Management and Budget, OES developed a guide that allows agencies to become better acquainted with ways to apply behavioral insights to reduce improper payments in their programs. This guide builds on work such as a Behavioral Insights Toolkit created by the Internal Revenue Service, which describes ways to integrate a behavioral insights approach into tax administration. 
+OES developed a guide that allows agencies to become better acquainted with ways to apply behavioral insights to reduce improper payments in their programs. This guide builds on work such as a Behavioral Insights Toolkit created by the Internal Revenue Service, which describes ways to integrate a behavioral insights approach into tax administration. 
 
 ## What did we learn?
 
