@@ -29,24 +29,24 @@ class: page-collaborations-single
   {% endif %}
   {% if page.analysis-plan %}
   <h3 class="h4">Resources</h3>
-    <a class="usa-button" href="{{ page.analysis-plan | prepend: site.baseurl }}">View Analysis Plan (PDF)</a>
+    <a class="usa-button" href="{{ page.analysis-plan | prepend: site.baseurl }}" target="_blank">View Analysis Plan (PDF)</a>
   {% endif %}
   {% if page.abstract %}
-    <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract (PDF)</a>
+    <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}" target="_blank">View Abstract (PDF)</a>
   {% endif %}
   {% if page.academic-pub %}
-  <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}">View Publication (PDF)</a>
+  <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
 {% endif %}
   <br><br>
 {% if page.intervention %}
-  <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}">View Intervention Pack (PDF)</a>
+  <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
 {% endif %}
   {% if page.model %}
-  <a class="usa-button" href="{{ page.model | prepend: site.baseurl }}">View Model Comparision (PDF)</a>
+  <a class="usa-button" href="{{ page.model | prepend: site.baseurl }}" target="_blank">View Model Comparision (PDF)</a>
 {% endif %}
    <br><br>
   {% if page.visualization %}
-  <a class="usa-button" href="{{ page.visualization | prepend: site.baseurl }}">View Visualization (PDF)</a>
+  <a class="usa-button" href="{{ page.visualization | prepend: site.baseurl }}" target="_blank">View Visualization (PDF)</a>
 {% endif %}
   </div>
 </div>
