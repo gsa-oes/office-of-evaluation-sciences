@@ -11,7 +11,7 @@ project_tags:
 ---
 ## Background
 
-Health information technology (“health IT”), refers to the technologies and tools that allow health care professionals and patients to store, share, and analyze health information. The 2015-2020 Federal Health IT Strategic Plan identifies the increased adoption and effective use of health IT as a key goal. To aid in efforts to improve health IT adoption and use by patients and providers, the Office of Evaluation Sciences (OES) has completed several rigorous evaluations to learn what works. 
+Health information technology (“health IT”), refers to the technologies and tools that allow health care professionals and patients to store, share, and analyze health information. The <a href="https://www.healthit.gov/sites/default/files/9-5-federalhealthitstratplanfinal_0.pdf" target="_blank">2015-2020 Federal Health IT Strategic Plan</a> identifies the increased adoption and effective use of health IT as a key goal. To aid in efforts to improve health IT adoption and use by patients and providers, the Office of Evaluation Sciences (OES) has completed several rigorous evaluations to learn what works. 
 
 ## Portfolio
 
