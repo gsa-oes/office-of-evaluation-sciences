@@ -17,7 +17,7 @@ The majority of government travelers in the General Services Administration (GSA
 To better understand traveler booking experiences and diagnose the behavioral bottlenecks, OES conducted interviews with GSA employees who travel for work.  The OES team utilized this qualitative data to generate a behavioral map of travelers’ experiences in cooperation with the Travel, Relocation, Mail & Transportation Policy Division at GSA.
 
 ![image]({{site.baseurl}}/assets/img/project-images/othercollabs/GSA-Travel-Timing-Behavioral-Map.jpg)<br>
-<a href="https://oes.gsa.gov/assets/files/GSA-Travel-Timing-Behavioral-Map.pdf">**View larger image here**</a>
+<a href="https://oes.gsa.gov/assets/files/GSA-Travel-Timing-Behavioral-Map.pdf" target="_blank">**View larger image here**</a>
 
 ## What did we learn?
 The behavioral map identifies key bottlenecks that contribute to travelers booking airline tickets close to the date of travel, such as the hassle factor and planning fallacy. The top panel presents the current process, and the bottom panel shows possible interventions that can encourage earlier travel booking. The proposed intervention includes three touch points: 
