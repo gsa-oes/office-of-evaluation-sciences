@@ -20,7 +20,9 @@ OES helps agencies build and use evidence to learn what works.  We look  to our 
 - The program operates on a large scale or with many people 
 - There is the ability to give groups of people different versions of a program or program change
 
-If this sounds like you, please get in touch! We’re excited to work with agency partners across government. A brief overview of what these partnerships look like can be found [here]({{site.baseurl}}/assets/files/oes-services-list-fy21-22.pdf). Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
+If this sounds like you, please get in touch! We’re excited to work with agency partners across government. A brief overview of what these partnerships look like can be found [here]({{site.baseurl}}/assets/files/oes-services-list-fy21-22.pdf). 
+
+Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
 <br><br><br><br>
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 ## OES Annual Fellowship Overview
