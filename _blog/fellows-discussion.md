@@ -9,7 +9,7 @@ class:
 summary: 	
 ---	
 
-The OES team had the pleasure of bringing on <a href="https://oes.gsa.gov/team/">seven new fellows in 2020</a> from various disciplines -  including economics, public policy, marketing, and psychology - to support agencies build and use evidence. Our fellows provide rigorous academic expertise and ensure our projects meet the highest standards of evaluation rigor and research integrity. 
+The OES team had the pleasure of bringing on <a href="https://oes.gsa.gov/team/" target="_blank">seven new fellows in 2020</a> from various disciplines -  including economics, public policy, marketing, and psychology - to support agencies build and use evidence. Our fellows provide rigorous academic expertise and ensure our projects meet the highest standards of evaluation rigor and research integrity. 
  
 As we approach nearly nine months into the COVID-19 pandemic here in Washington D.C., we recognize that this is our first cohort of fellows working with the team entirely remotely. We asked a few of our fellows to reflect on their experiences working with the team this year.
 
@@ -21,8 +21,8 @@ As we approach nearly nine months into the COVID-19 pandemic here in Washington 
 - **Miles**: As an academic, it’s unfortunately quite easy to feel alienated from the tangible policy questions that governments face on a regular basis. So, when the opportunity came along to join a diverse team of social scientists whose work has direct policy applications, and immediate public impact, I lept at the chance.
 
 ### What OES project are you most excited about? 
-- **Heather**: I’m really excited about work we are doing on <a href="https://oes.gsa.gov/othercollabs/sba-grant-equity/">equity in allocating federal funds (e.g., during the COVID pandemic)</a>. I’m also enthusiastic about possible work on financial education (which was an interest of mine before joining OES) and on <a href="https://oes.gsa.gov/projects/improving-reentry/">post-prison programs</a>. I’m trying not to get TOO excited about any individual project, since a lot of projects are still in development. 
-- **Mattie**: Several! I've enjoyed scoping out new opportunities as well as building on existing OES projects in the health policy space, for instance on <a href="https://oes.gsa.gov/vaccines/">evaluations around vaccination uptake</a> and <a href="https://oes.gsa.gov/prescriber-decision-making/">off-guideline prescribing</a>. Recently, I've also become interested in learning more about how decision makers in government interpret and utilize evidence, and interventions that might improve this process. 
+- **Heather**: I’m really excited about work we are doing on <a href="https://oes.gsa.gov/othercollabs/sba-grant-equity/" target="_blank">equity in allocating federal funds (e.g., during the COVID pandemic)</a>. I’m also enthusiastic about possible work on financial education (which was an interest of mine before joining OES) and on <a href="https://oes.gsa.gov/projects/improving-reentry/ target="_blank"">post-prison programs</a>. I’m trying not to get TOO excited about any individual project, since a lot of projects are still in development. 
+- **Mattie**: Several! I've enjoyed scoping out new opportunities as well as building on existing OES projects in the health policy space, for instance on <a href="https://oes.gsa.gov/vaccines/">evaluations around vaccination uptake</a> and <a href="https://oes.gsa.gov/prescriber-decision-making/" target="_blank">off-guideline prescribing</a>. Recently, I've also become interested in learning more about how decision makers in government interpret and utilize evidence, and interventions that might improve this process. 
 
 ### What does a usual week look like for a fellow?
 - **Elizabeth**: Instead of writing lectures and grading, I’m putting together slide decks for exciting new interventions that have the potential to improve public experiences of government. Similar to my professor duties, I am engaging in project management, including meeting with public servants across the federal government, data analysis, and writing for a variety of audiences including the public, policymakers, and academics.  
@@ -36,4 +36,4 @@ As we approach nearly nine months into the COVID-19 pandemic here in Washington 
 - **Erin**: The commitment to transparency and accountability on all projects is remarkable; it’s very exciting to be part of a team that is pushing for non-partisan, disciplined institutional practice within government agencies.
 - **Miles**: Joining a new team, and feeling truly plugged in, is no easy thing to foster in person, much less remotely. For this reason, my happiest surprise at becoming an associate fellow with OES is how little time it took to feel connected to the team. I couldn’t ask for a better group of people to work with.
 
-*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps/">Opportunities</a> page.*
+*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps/" target="_blank">Opportunities</a> page.*
