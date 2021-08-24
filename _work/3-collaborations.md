@@ -30,6 +30,9 @@ filter_button_message: By year completed, domain, and agency collaborator
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
     {% assign sorted_collaborations = site.collaborations | sort:"year" | reverse %}
+    <div id="filter-message" class="usa-sr-only" role="region" aria-live="polite" aria-atomic="true">
+      {{ sorted_collaborations.size }} matches to your selected filters
+    </div>
     {% for project in sorted_collaborations %}
       {% include project-card.html %}
     {% endfor %}

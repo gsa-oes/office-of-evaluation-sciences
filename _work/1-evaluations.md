@@ -49,6 +49,9 @@ filter_button_message: By year completed, status, project type, domain, and agen
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
     {% assign sorted_projects = site.projects | sort:"year" | reverse %}
+    <div id="filter-message" class="usa-sr-only" role="region" aria-live="polite" aria-atomic="true">
+      {{ sorted_projects.size }} matches to your selected filters
+    </div>
     {% for project in sorted_projects %}
       {% include project-card.html %}
     {% endfor %}

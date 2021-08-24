@@ -27,6 +27,13 @@ var update = function() {
         : (value !== val);
     });
   });
+
+  // Get count of all filtered elements for aria-live region
+  var filteredCount = document.querySelectorAll('[data-year]:not([hidden])').length;
+
+  // Update aria-live region with filterablesCount
+  var filterMessage = document.querySelector('#filter-message');
+  filterMessage.innerHTML = filteredCount + ' matches to your selected filters';
 };
 
 // Attach filter function to run whenever page changes
