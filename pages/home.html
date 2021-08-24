@@ -41,14 +41,14 @@ page.tagline and page.intro %}
   </div>
 </section>
 
-{% assign featured_completed = site.projects | where: "featured", "homepage" | where: "status", "Complete" %}
+{% assign featured_homepage = site.projects, site.collaborations | where: "featured", "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-section featured bg-secondary-lighter">
     <div class="grid-container">
       <h1>Featured evaluations</h1>
       <div class="grid-row grid-gap-lg">
-        {% for project in featured_completed %}
+        {% for project in featured_homepage %}
           {% include project-card.html %}
         {% endfor %}
       </div>
