@@ -8,6 +8,8 @@ year: 2020
 summary: Low-cost interventions to increase vaccination uptake
 project_tags:
   - vaccines
+collaborations_tags:
+  - vaccines
 ---
 ## Background
 
