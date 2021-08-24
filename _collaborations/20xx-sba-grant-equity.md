@@ -3,7 +3,6 @@ title:  Increasing Access to Small Business Grant and Loan Programs for Historic
 permalink: /collaborations/sba-grant-equity/
 tags:
   - project
-  - Small Business Administration
   - business
   - covid
 image: /assets/img/project-images/othercollabs/sba-loan-image.jpg
