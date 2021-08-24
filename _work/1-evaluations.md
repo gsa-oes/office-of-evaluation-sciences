@@ -5,7 +5,7 @@ permalink: /work/
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
 tag: work
-summary: We design and conduct evaluations of both existing programs and evidence-based program changes.
+summary: Since 2015, we have completed more than 80 impact evaluations with more than 20 agency collaborators.
 
 filters:
   - key: year
