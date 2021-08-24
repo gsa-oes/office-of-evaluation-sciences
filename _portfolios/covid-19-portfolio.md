@@ -8,6 +8,8 @@ year: 2021
 summary: OES evaluations and insights to inform the COVID-19 response
 project_tags:
   - covid
+collaborations_tags:
+  - covid
 ---
 
 ## Background
