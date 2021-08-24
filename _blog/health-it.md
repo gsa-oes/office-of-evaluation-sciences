@@ -12,7 +12,7 @@ summary:
 
 OES works alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. For example, in collaboration with the Department of Health and Human Services Office of the National Coordinator for Health Information Technology and Inova Health Systems, OES applied behavioral insights to develop two interventions to increase the use of patient-generated health data among patients with diabetes. The impacts of these interventions were then evaluated using data from the electronic health record. 
 
-The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data-provider-encouragement/">encouraged providers to place bulk orders for electronic blood glucose flow sheets</a>, while the second intervention  <a href="https://oes.gsa.gov/projects/patient-health-data-patient-reminders/">reminded patients to log their own health data into the flow sheets.</a>
+The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data-provider-encouragement/" target="_blank">encouraged providers to place bulk orders for electronic blood glucose flow sheets</a>, while the second intervention  <a href="https://oes.gsa.gov/projects/patient-health-data-patient-reminders/" target="_blank">reminded patients to log their own health data into the flow sheets.</a>
 
 ![image]({{site.baseurl}}/assets/img/project-images/blog1table1.png)
 
@@ -24,4 +24,4 @@ The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data
 
 *Table 2: Reminder messages to patients significantly increased patient use of blood glucose flowsheets*
 
-*This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</a>*
+*This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/" target="_blank">here.</a>*
