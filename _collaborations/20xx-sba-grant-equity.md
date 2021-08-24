@@ -2,7 +2,7 @@
 title:  Increasing Access to Small Business Grant and Loan Programs for Historically Underserved Groups
 permalink: /collaborations/sba-grant-equity/
 tags:
-  - collaborations
+  - project
   - Small Business Administration
   - business
   - covid
