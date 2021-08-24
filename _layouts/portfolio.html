@@ -9,12 +9,10 @@ layout: page
     {% for page_project_tag in page.project_tags %}
       {% assign tagged_projects = site.projects | where_exp:"project", "project.tags contains page_project_tag", | sort:"year" | reverse %}
         {% for project in tagged_projects %}
-    {% include project-card.html %}
-    {% endfor %}
-        {% assign sorted_collaborations = site.collaborations | where_exp:"project", "project.tags contains page_project_tag" %}
+            {% assign sorted_collaborations = site.collaborations | where_exp:"project", "project.tags contains page_project_tag" %}
         {% for project in sorted_collaborations reversed %}
           {% include project-card.html %}
-      {% endfor %}
+    {% endfor %}
     {% endfor %}
   </div>
 {% endif %}
