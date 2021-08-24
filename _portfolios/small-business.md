@@ -8,6 +8,8 @@ year: 2021
 summary: Building evidence about how to support small business growth and success
 project_tags:
   - business
+collaborations_tags:
+  - business
 ---
 
 ## Background
