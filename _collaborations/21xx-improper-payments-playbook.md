@@ -24,7 +24,7 @@ Payment integrity demonstrates stewardship of taxpayer dollars by reducing monet
 
 This guide aims to help government employees assess whether a behavioral insights approach is a good fit for their program, identify which interventions are appropriate, and implement those interventions with the goal of reducing improper payments.  The behavioral insights approach draws on multiple disciplines including cognitive sciences like psychology and social sciences like economics to understand how people make decisions. OES team members are available for discussions with agencies and can provide advice about applying the ideas in this guide. 
 
-<br><br>
+<br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf">Behavioral Insights Guide</a>
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-worksheets.pdf">Blank Worksheets</a>
