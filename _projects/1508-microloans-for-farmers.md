@@ -3,9 +3,11 @@ title: Increasing Farmer Microloan Applications
 permalink: /projects/microloans-for-farmers-1/
 tags: 
   - project
+  - business
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
+academic-pub: /assets/publications/1508-publication-bowers-higgins-replication-2017.pdf
 year: 2015
 status: Complete
 domain: Economic Opportunity
@@ -29,7 +31,7 @@ FSA mailed the new letter to a sampling of farmers in randomly- selected zip cod
 
 The letters more than doubled the amount of microloan-related activity in FSA county offices, and increased the number of successful applicant from approximately .09% percent to .11% percent.
 
-<i> Related Publication</i>
+<i> Related Publications</i>
 <br>
-U.S. Department of Agriculture. Economic Research Service. USDA Microloans for Farmers: Participation Patterns and Effects of Outreach, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. <a href="https://www.ers.usda.gov/publications/pub-details/?pubid=81870">ers.usda.gov/publications/pub-details/?pubid=81870</a>.	
-Jake Bowers, Nathaniel Higgins, Dean Karlan, Sarah Tulman, and Jonathan Zinman. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171060">Challenges to replication and iteration in field experiments: evidence from two direct mail shots,</a> American Economic Review 107, no. 5: (2017): 462-465. 	
+- U.S. Department of Agriculture. Economic Research Service. USDA Microloans for Farmers: Participation Patterns and Effects of Outreach, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. <a href="https://www.ers.usda.gov/publications/pub-details/?pubid=81870" target="_blank">ers.usda.gov/publications/pub-details/?pubid=81870</a>.	
+- Jake Bowers, Nathaniel Higgins, Dean Karlan, Sarah Tulman, and Jonathan Zinman. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171060" target="_blank">Challenges to replication and iteration in field experiments: evidence from two direct mail shots,</a> American Economic Review 107, no. 5: (2017): 462-465. 	
