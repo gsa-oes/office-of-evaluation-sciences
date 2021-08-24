@@ -2,7 +2,7 @@
 title:  Evaluating the Effects of HEERF Aid to Students
 permalink: /collaborations/HEERF-eval-design/
 tags:
-  - collaborations
+  - project
   - Education
   - highered
   - covid
