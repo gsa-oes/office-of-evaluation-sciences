@@ -10,7 +10,7 @@ class:
 summary: 
 ---
 
-OES and the Social Security Administration (SSA) worked together to address improper payments <a href="https://oes.gsa.gov/projects/ssi-wage-reporting/">by developing and testing reminder notices</a> to Supplemental Security Income (SSI) recipients in order to increase timely wage reporting. Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters **generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.**
+OES and the Social Security Administration (SSA) worked together to address improper payments <a href="https://oes.gsa.gov/projects/ssi-wage-reporting/" target="_blank">by developing and testing reminder notices</a> to Supplemental Security Income (SSI) recipients in order to increase timely wage reporting. Based on the increase in the amount of wages reported, a cost-benefit analysis suggests that the letters **generated a reduction in overpayments of approximately $9.44 per $1 spent by SSA.**
 
 This study tested whether a behaviorally-informed letter would encourage SSI recipients to report any changes to their earnings in a more accurate and timely manner. Fifty thousand SSI recipients who were between 18 and 50 years of age, had no earnings, and were deemed by SSA as more likely to experience changes in their earnings were randomly assigned to either a no-letter control group or one of four treatment conditions: 
     1. A basic letter with simple language about the need to report any information about earnings that might affect SSI payment amounts
@@ -29,4 +29,4 @@ Second, by improving the target efficiency of the notice using administrative da
 
 Once SSA has refined the letters, they will develop a proposal to send the letters to the entire target population on a regular basis.  
 
-*This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/">here.</a>*
+*This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/" target="_blank">here.</a>*
