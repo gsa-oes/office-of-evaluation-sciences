@@ -117,6 +117,8 @@ forms:
 # jekyll plugins
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 plugins_dir: ./_plugins
 
 # Build settings
