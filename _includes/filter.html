@@ -10,8 +10,8 @@
     {% for filter in include.filters %}
     <div class="filter-section">
       <fieldset class="usa-fieldset">
+        <legend class="filter-category tablet:grid-col-3 float-left">{{ filter.title }}</legend>
         <div class="grid-row">
-          <legend class="filter-category tablet:grid-col-3">{{ filter.title }}</legend>
           <ul class="add-list-reset tablet:grid-col">
             <li>
               <input id="{{ filter.key }}-all" type="radio" {% unless filter.default %}checked{% endunless %} name="{{ filter.key }}">

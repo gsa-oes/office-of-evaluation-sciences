@@ -31,7 +31,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img src="{{ '/assets/img/icons/1.png' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15">
+        <img alt="" src="{{ '/assets/img/icons/1.png' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 1: Partner with Federal Agencies to target priority outcomes</h3>
@@ -45,7 +45,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img
+        <img alt="" 
           src="{{ '/assets/img/icons/2.png' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -60,7 +60,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img
+        <img alt="" 
           src="{{ '/assets/img/icons/3.png' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -78,7 +78,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img
+        <img alt="" 
           src="{{ '/assets/img/icons/4.png' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -93,7 +93,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img
+        <img alt="" 
           src="{{ '/assets/img/icons/5.png' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -108,7 +108,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img
+        <img alt="" 
           src="{{ '/assets/img/icons/6.png' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
