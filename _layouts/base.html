@@ -2,13 +2,9 @@
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
-  <head>
-    {% include meta.html %}
-    {% include styles.html %}
-    {% if site.google_analytics_ua or site.dap_agency %}
-      {% include analytics.html %}
-    {% endif %}
-  </head>
+
+  {% include head.html %}
+
   <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
 
     {% include skipnav.html %}
