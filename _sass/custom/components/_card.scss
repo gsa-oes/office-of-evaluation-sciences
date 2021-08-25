@@ -75,7 +75,10 @@
 
   &:visited {
     color: color('primary');
-  }
+   em {
+    font-style: normal;
+   }
+ }
 
   svg {
     @include u-square(1.5);
