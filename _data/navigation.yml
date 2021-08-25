@@ -5,33 +5,25 @@ primary:
       href: /about/
     - text: Team
       href: /team/
-  - text: Collaborations
+    - text: Services
+      href: /services/
+  - text: Our work
     links:
     - text: Evaluations
       href: /work/
-    - text: Other Collaborations
-      href: /collaborations/
     - text: Portfolios
       href: /portfolios/
+    - text: Other Collaborations
+      href: /collaborations/
   - text: Resources
-    links:
-    - text: OES Methods
-      href: /methods/
-    - text: Evaluation Resources
-      href: /evaluationresources/
-    - text: Evidence Act Toolkits
-      href: /toolkits/
-    - text: Academic Publications
-      href: /publications/
-    - text: General Resources
-      href: /resources/
+    href: /resources/
   - text: Connect
     links:
+      - text: Work with us
+        href: /opps/
       - text: OES Blog
         href: /blog/
-      - text: Events & Workshops
+      - text: Events
         href: /events/
-      - text: Opportunities & Fellowships
-        href: /opps/
       - text: Media
         href: /media/

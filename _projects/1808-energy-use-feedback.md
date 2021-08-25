@@ -8,6 +8,7 @@ image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_Th
 analysis-plan: /assets/analysis/1808-energy-use-feedback.pdf
 abstract: /assets/abstracts/1808 - Project Abstract HUD Energy.pdf
 year: 2019  
+type: Program Change and Evaluation
 domain: Communications
 status: Complete
 agency: Housing and Urban Development

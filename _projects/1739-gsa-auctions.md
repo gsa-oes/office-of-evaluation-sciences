@@ -8,6 +8,7 @@ image: /assets/img/project-images/1739.jpg
 image-credit: https://www.gsaauctions.gov
 abstract: /assets/abstracts/1739-gsa-auctions.pdf
 year: 2017
+type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration 

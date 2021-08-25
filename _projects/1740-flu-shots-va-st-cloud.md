@@ -9,6 +9,7 @@ image-credit: https://www.va.gov/health/NewsFeatures/2013/August/Veterans-Are-Yo
 analysis-plan: /assets/analysis/1740-flu-shots-va-st-cloud-analysis-plan.pdf
 abstract: /assets/abstracts/1740-flu-shots-va-st-cloud.pdf
 year: 2018
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Veterans Affairs

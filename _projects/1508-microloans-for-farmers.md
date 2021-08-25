@@ -9,6 +9,7 @@ image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
 academic-pub: /assets/publications/1508-publication-bowers-higgins-replication-2017.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Economic Opportunity
 agency: Agriculture

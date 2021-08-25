@@ -10,6 +10,7 @@ analysis-plan: /assets/analysis/1737-vaccine-report-cards-plan.pdf
 abstract: /assets/abstracts/1737-vaccine-report-cards.pdf
 academic-pub: /assets/publications/1737-academic-publication-immunization-report-cards-2019.pdf
 year: 2018 
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services

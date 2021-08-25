@@ -2,7 +2,7 @@
 
 @mixin nav-border {
   &:after {
-    background-color: color($color-brand);
+    background-color: #247f9b;
     height: units(0.5);
     bottom: units(-0.5);
   }
@@ -17,44 +17,70 @@
 
   a {
     &.usa-current:after {
-      background-color: color($color-brand);
+      background-color: #fff;
     }
+  }
+
+  .usa-menu-btn {
+    background-color: $color-brand;
   }
 }
 
 // Custom styles --------- //
 .usa-nav__primary-item {
   button[aria-expanded='true'] {
-    background-color: $oem-blue;
+    background-color: #247f9b;
 
     span {
-      border-bottom-color: $oem-green;
+      border-bottom-color: #247f9b;
     }
 
     &:hover {
-      background-color: $oem-blue;
+      background-color: #247f9b
 
       span {
         color: #fff;
+      }
+    }    
+  }
+
+  button[aria-expanded='false'] {
+    &:hover {
+      &:after {
+        background-color: color($color-brand);
       }
     }
   }
 
 
+
+
 }
 
 .usa-nav__submenu {
-  background-color: #2E9AC4;
+  background-color: #247f9b;
 
   a:hover {
-    background-color: $oem-green;
+    background-color: #fff;
   }
+
+  .usa-nav__submenu-item > a, button[aria-expanded='true'] {
+    color: #FFF;
+}
 }
 
 .usa-nav__primary {
+
   a, button[aria-expanded='true'] {
-      color: #fff;
+      color: #565c65;
   }
+  
+  @include at-media($theme-header-min-width) {
+    a, button[aria-expanded='true'] {
+      color: #fff;
+    }
+  }
+
 }
 
 .usa-nav__primary > .usa-nav__primary-item {
@@ -69,7 +95,8 @@
     @include nav-border;
   }
   span {
-    color: color($color-base);
+    color: #247f9b;
   }
  }
 }
+

@@ -11,20 +11,55 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta name="twitter:card" content="summary_large_image">
-  {% if site.feature_image %}<meta property="og:image" content="{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
-  {% if site.feature_image %}<meta name="twitter:image" content="{{ site.feature_image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
+  {% if site.feature_image %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.feature_image }}">{% endif %}
+  {% if site.feature_image %}<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.feature_image }}">{% endif %}
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/uswds-theme.css' | prepend: site.baseurl }}" media="screen">
 
   <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,900" rel="stylesheet">
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}" />
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
   <script>
     if (/^www\./.test(window.location.hostname)) {
       window.location = window.location.href.replace('www.', '');
     }
-  </script>
+    </script>
+  
+  <!-- Image -->
+{% if page.image %}
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <meta name="image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}" />
+
+  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+
+  {% if page.image_accessibility %}
+    <meta name="twitter:image:alt" content="{{ page.image_accessibility }}">
+  {% endif %}
+{% else %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/logos/logo-name.png">
+  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/logos/logo-name.png">
+{% endif %}
+
+  
+  <!-- Favicons
+================================================== -->
+
+  <!--  Touch icon for iOS 2.0+ and Android 2.1+ -->
+  <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/img/logos/logo-name.png">
+
+  <!--  Desktop icon -->
+  <link rel="icon" href="{{ site.baseurl }}/assets/img/logos/logo-name.png" type="image/png">
+
+  <!--  More info: https://github.com/audreyr/favicon-cheat-sheet -->
+ 
+  
 </head>

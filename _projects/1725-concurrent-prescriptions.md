@@ -11,6 +11,7 @@ analysis-plan: /assets/analysis/1725-concurrent-prescriptions.pdf
 abstract: 
 status: Ongoing
 year: 2020
+type: Program Change and Evaluation
 domain: Health
 agency: Defense
 summary: Analysis Plan Registration

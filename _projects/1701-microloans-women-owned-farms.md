@@ -8,6 +8,7 @@ image: /assets/img/project-images/1701.jpg
 image-credit: https://www.flickr.com/photos/140641142@N05/
 abstract: /assets/abstracts/1701-microloans-women-owned-farms.pdf
 year: 2017
+type: Program Change and Evaluation
 status: Complete
 domain: Economic Opportunity
 agency: Agriculture

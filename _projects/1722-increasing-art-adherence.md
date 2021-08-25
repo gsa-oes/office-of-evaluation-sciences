@@ -10,6 +10,7 @@ analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
 abstract: /assets/abstracts/1722-Project Abstract-6 Month.pdf
 academic-pub: /assets/publications/1722 - USAID Ethiopia Anteneh et al AEL 2020.pdf
 year: 2018 
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: United States Agency for International Development

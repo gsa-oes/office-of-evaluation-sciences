@@ -6,6 +6,7 @@ image: /assets/img/project-images/ch36.jpg
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1511-Chapter 36-Benefits-for Veterans.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Economic Opportunity
 agency: Veterans Affairs

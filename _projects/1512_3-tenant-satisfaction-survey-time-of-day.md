@@ -6,6 +6,7 @@ image: /assets/img/project-images/tenant-statisfaction.jpg
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 abstract: /assets/abstracts/1512-3-Tenant-Satisfaction-Survey-Response-Time-of-Day.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration

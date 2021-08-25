@@ -8,6 +8,7 @@ analysis-plan: /assets/analysis/1901-NRBAnalysisPlan.pdf
 abstract:
 year: 2020  
 status: Ongoing
+type: Program Change and Evaluation
 domain: Government Efficiency
 agency:
     - Housing and Urban Development

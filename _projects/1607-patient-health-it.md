@@ -8,6 +8,7 @@ image: /assets/img/project-images/health-it.jpg
 image-credit: https://www.flickr.com/photos/armymedicine/
 abstract: /assets/abstracts/1607-Increasing-Patient-Use-of-Health-IT.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services

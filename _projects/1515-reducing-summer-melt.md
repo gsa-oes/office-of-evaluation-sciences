@@ -8,6 +8,7 @@ image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/abstracts/1515-Summer-Melt.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Education
 agency: Education

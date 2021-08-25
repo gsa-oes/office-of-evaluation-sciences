@@ -8,6 +8,7 @@ image: /assets/img/project-images/student-loans3.jpg
 image-credit: https://unsplash.com/@tfaustin
 abstract: /assets/abstracts/1603-2-Income-Driven Repayment-Scale-Up.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Education
 agency: Education

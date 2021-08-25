@@ -6,6 +6,7 @@ image: /assets/img/project-images/project-management-2.png
 image-credit: https://www.forbes.com/sites/meghancasserly/2013/07/17/google-management-is-evil-harvard-study-startups/#1e9b47e95ddb
 abstract: /assets/abstracts/1702-Project-MGMT.pdf
 year: 2017
+type: Program Change and Evaluation
 status: Complete
 domain: Government Efficiency
 agency: General Services Administration

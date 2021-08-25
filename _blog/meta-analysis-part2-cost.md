@@ -9,7 +9,7 @@ class:
 summary: 	
 ---	
 
-A recent review of behaviorally informed interventions OES designed between 2015 and 2018 found that the <a href="https://oes.gsa.gov/blog/meta-analysis-part-1/">interventions had a small but significant impact</a>. This exciting result left us wondering: what did it cost to deliver these interventions? And how do these costs help us interpret the impact findings? To supplement the large-scale review, OES analyzed the cost of delivering the interventions included in the review. 
+A recent review of behaviorally informed interventions OES designed between 2015 and 2018 found that the <a href="https://oes.gsa.gov/blog/meta-analysis-part-1/" target="_blank">interventions had a small but significant impact</a>. This exciting result left us wondering: what did it cost to deliver these interventions? And how do these costs help us interpret the impact findings? To supplement the large-scale review, OES analyzed the cost of delivering the interventions included in the review. 
 
 ### What did it cost to deliver these interventions? And how do these costs help us interpret the impact findings? 
 
@@ -17,9 +17,9 @@ A vast majority of interventions — 92% — were of no, very low or low ongoing
 
 ![image]({{site.baseurl}}/assets/img/project-images/table-oes-cost-analysis.png)
 
-One example of an opportunity for applying behavioral insights at no ongoing marginal cost is the introduction of prompts to guide users in an online system. In 2015, <a href="https://oes.gsa.gov/projects/iff-reporting-errors/">OES designed an electronic signature box</a> for GSA’s online sales reporting portal, aimed at improving accuracy and reducing errors. As a result of this change — which incurred no ongoing cost for the agency — portal users more accurately reported sales; the median self-reported sales amount was $445 higher for vendors using the behaviorally informed signature prompt, translating into an extra $1.59 million paid to the government in one single quarter.  
+One example of an opportunity for applying behavioral insights at no ongoing marginal cost is the introduction of prompts to guide users in an online system. In 2015, <a href="https://oes.gsa.gov/projects/iff-reporting-errors/" target="_blank">OES designed an electronic signature box</a> for GSA’s online sales reporting portal, aimed at improving accuracy and reducing errors. As a result of this change — which incurred no ongoing cost for the agency — portal users more accurately reported sales; the median self-reported sales amount was $445 higher for vendors using the behaviorally informed signature prompt, translating into an extra $1.59 million paid to the government in one single quarter.  
 
-Paired with <a href="https://oes.gsa.gov/blog/meta-analysis-part-1/">the impact findings</a> — average improvement of 8.1% on key policy outcomes — this suggests that OES interventions between 2015-2018 generally yielded statistically significant improvements at no to low ongoing marginal cost. While OES did not conduct robust cost-effectiveness analyses, which would require detailed implementation and cost data, this review of interventions suggests a promising return on investment for agencies incorporating behavioral insights into their programs.
+Paired with <a href="https://oes.gsa.gov/blog/meta-analysis-part-1/" target="_blank">the impact findings</a> — average improvement of 8.1% on key policy outcomes — this suggests that OES interventions between 2015-2018 generally yielded statistically significant improvements at no to low ongoing marginal cost. While OES did not conduct robust cost-effectiveness analyses, which would require detailed implementation and cost data, this review of interventions suggests a promising return on investment for agencies incorporating behavioral insights into their programs.
 
 ### What’s next? 
 

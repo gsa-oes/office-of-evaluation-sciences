@@ -8,6 +8,7 @@ image: /assets/img/project-images/student-loans4.jpg
 image-credit: https://www.flickr.com/photos/whatcouldgowrong/
 abstract: /assets/abstracts/1513-Missed-Student-Loan-Payments.pdf
 year: 2015
+type: Program Change and Evaluation
 status: Complete
 domain: Education
 agency: Education

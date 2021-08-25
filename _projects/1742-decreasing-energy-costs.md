@@ -7,6 +7,7 @@ image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jp
 analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstracts/1742-reducing-energy-costs.pdf
 year: 2018  
+type: Program Change and Evaluation
 domain: Communications
 status: Complete
 agency: Housing and Urban Development

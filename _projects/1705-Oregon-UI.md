@@ -7,6 +7,7 @@ image-credit: https://www.flickr.com/photos/bytemarks/5409428957
 analysis-plan: /assets/analysis/1705-Oregon-UI.pdf
 abstract: /assets/abstracts/1705-Oregon-UI.pdf
 year: 2019  
+type: Program Change and Evaluation
 status: Complete
 domain: Employment
 agency: Department of Labor

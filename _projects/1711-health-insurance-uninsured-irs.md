@@ -8,6 +8,7 @@ image: /assets/img/project-images/1711-image.jpeg
 image-credit: https://plex.page/Quality_Health_Insurance
 abstract: /assets/abstracts/1711-irs-uninsured-abstract.pdf
 year: 2018
+type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: Treasury

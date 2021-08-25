@@ -8,6 +8,7 @@ image: /assets/img/project-images/pslf1.jpg
 image-credit: https://www.flickr.com/photos/pagedooley/
 abstract: /assets/abstracts/1603-1-Income-Driven Repayment-Targeted-Messages.pdf
 year: 2016
+type: Program Change and Evaluation
 status: Complete
 domain: Education
 agency: Education

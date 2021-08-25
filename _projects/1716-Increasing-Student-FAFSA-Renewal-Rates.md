@@ -8,6 +8,7 @@ image: /assets/img/project-images/1716.jpg
 image-credit: https://flic.kr/p/4kSAPe
 abstract: /assets/abstracts/1716-Increasing-Student-FAFSA-Renewal-Rates.pdf
 year: 2017
+type: Program Change and Evaluation
 status: Complete
 domain: Education
 agency: Education
