@@ -8,7 +8,7 @@ class:
 summary: Help build and use evidence to better serve the public.
 ---
 
-## Collaborate with OES
+## Become an Agency Partner
 
 OES helps agencies build and use evidence to learn what works.  We look  to our agency partners to identify priority areas where they would like to see improved outcomes, and then we work closely with them to learn how people process information, make decisions, and interact with  government programs.  We are a small team and can only take on a limited number of projects. 
 
@@ -20,10 +20,10 @@ OES helps agencies build and use evidence to learn what works.  We look  to our 
 - The program operates on a large scale or with many people 
 - There is the ability to give groups of people different versions of a program or program change
 
-If this sounds like you, please get in touch! We’re excited to work with agency partners across government. A brief overview of what these partnerships look like can be found <a href="{{ '/assets/files/oes-services-list-fy21-22.pdf' | prepend: site.baseurl }}" target="_blank">here</a>.
+If this sounds like you, please get in touch! We’re excited to work with agency partners across government. The structure of our collaborations can vary but often follow one of several <a href="{{ '/assets/files/oes-services-list-fy21-22.pdf' | prepend: site.baseurl }}" target="_blank">common partnership formats</a>.
 
 Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
-<br><br><br><br>
+<br><br><br>
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 ## OES Annual Fellowship Overview
 OES accepts applications annually for one-year fellowships beginning in the fall in Washington, D.C. Based at the General Services Administration (GSA), <a href="https://oes.gsa.gov/team/" target="_blank">OES is a team of interdisciplinary experts</a> that works across government to help agencies build and use evidence. 
