@@ -2,7 +2,6 @@
 title:  Evaluating the Effects of HEERF Aid to Students
 permalink: /collaborations/HEERF-eval-design/
 tags:
-  - project
   - Education
   - highered
   - covid
@@ -10,9 +9,12 @@ image: /assets/img/project-images/othercollabs/grad-photo-ed.png
 image-credit: https://www.flickr.com/photos/alan-light/7184218434
 academic-pub: /assets/abstracts/2103-HEERF-eval-design-report.pdf
 year: 2021
+status: Complete
+type: Evaluation Design
 domain: Education
 agency: Education
 summary: A regression-discontinuity design to estimate the effects of emergency aid on student academic outcomes.
+featured: services
 ---
 ## What was the challenge?
 
