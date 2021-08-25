@@ -12,7 +12,7 @@ year: 2018
 type: Program Change and Evaluation
 status: Complete
 domain: Health
-agency: US Agency for International Development
+agency: United States Agency for International Development
 summary: Redesigned referral process did not increase antenatal care (ANC) attendance for pregnant women.
 ---
 ## What was the challenge?
