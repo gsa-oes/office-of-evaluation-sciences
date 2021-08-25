@@ -18,7 +18,7 @@
         </h3>
         <p class="card-summary">{{ project.summary }}</p>
       </div>
-      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}" font-family: 'Lato'>
+      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
         Read more
         <span class="usa-sr-only">about {{ project.title }}</span>
         {% include icons/arrow-right.svg %}
