@@ -1,72 +1,74 @@
-<footer class="usa-footer usa-section background-light" role="contentinfo">
-  <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-6">
-        <div class="footer-logo-links">
-          {% include icons/oes.svg %}
-          {% if site.footer.image %}
-            <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA"/>
+<footer class="usa-footer usa-section background-light" role="contentinfo"><div class="grid-container"><div class="grid-row grid-gap"><div class="tablet:grid-col-6"><div class="footer-logo-links"><a href="https://www.gsa.gov/" target="_blank" class="usa-footer-logo-img"><img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA"/></a>{% if site.footer.image %}
+          <a href="https://oes.gsa.gov/">
+            {% include icons/oes.svg %}</a>
           {% endif %}
         </div>
       </div>
       <div class="tablet:grid-col">
         <div class="footer-links">
-          <h2 class="footer-links-heading">Navigate</h2>
+          <h2 class="footer-links-heading">About</h2>
           <ul class="add-list-reset">
             <li>
-              <a href="{{ site.baseurl }}/about/">About</a>
+              <a href="{{ site.baseurl }}/about/">Mission</a>
             </li>
             <li>
-              <a href="{{ site.baseurl }}/work/">OES Evaluations</a>
+              <a href="{{ site.baseurl }}/team/">Team</a>
             </li>
             <li>
-              <a href="{{ site.baseurl }}/methods/">OES Methods</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/evaluationresources/">Evaluation Resources</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/toolkits/">Evidence Act Toolkits</a>
+              <a href="{{ site.baseurl }}/services/">Services</a>
             </li>
           </ul>
         </div>
       </div>
-      <div class="tablet:grid-col">
+       <div class="tablet:grid-col">
         <div class="footer-links">
-          <h2 class="footer-links-heading">Links</h2>
+          <h2 class="footer-links-heading">Our work</h2>
           <ul class="add-list-reset">
             <li>
-              <a href="https://twitter.com/OESatGSA">@OESatGSA</a>
+              <a href="{{ site.baseurl }}/work/">Evaluations</a>
+            </li>
+             <li>
+              <a href="{{ site.baseurl }}/portfolios/">Portfolios</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/collaborations/">Collaborations</a>
+            </li>
+          </ul>
+      </div>
+    </div>
+       <div class="tablet:grid-col">
+        <div class="footer-links">
+          <h2 class="footer-links-heading">Connect</h2>
+          <ul class="add-list-reset">
+            <li>
+              <a href="{{ site.baseurl }}/resources/">Resources</a>
+            </li>
+             <li>
+              <a href="{{ site.baseurl }}/opps/">Work with us</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/blog/">OES Blog</a>
+            </li>
+          </ul>
+      </div>
+    </div>
+      <div class="tablet:grid-col">
+        <div class="footer-links">
+         <h2 class="footer-links-heading">Links</h2>
+          <ul class="add-list-reset">
+            <li>
+             <a href="https://twitter.com/OESatGSA" target="_blank">@OESatGSA</a>
             </li>
             <li>
               <a href="mailto:oes@gsa.gov?subject=Inquiry">oes@gsa.gov</a>
             </li>
             <li>
-              <a href="{{ site.baseurl }}/linking-policy/">Linking Policy</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform?c=0&w=1" target="_blank">Subscribe</a>
             </li>
           </ul>
         </div>
+       </div>
       </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <h2 class="footer-links-heading">Connect</h2>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/events/">Events</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/opps/">Opportunities</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/blog/">OES Blog</a>
-            </li>
-             <li>
-              <a href="{{ site.baseurl }}/media/">Media</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
     <!-- <h2>Drop us a line.</h2>
     <p>To share your thoughts, email us any time at <a href="mailto:{{ site.footer.email }}">{{ site.footer.email }}</a>.</p>
     <p>
