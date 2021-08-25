@@ -20,4 +20,4 @@ OES is an interdisciplinary team that works across the federal government to hel
 
 ## Why is OES at GSA?
 
-At the General Services Administration (GSA), OES is uniquely situated in a central entity that can easily deploy technical support, provide an independent yet intragovernmental perspective, and develop standards for high-quality evidence activities in the federal environment.
+At the General Services Administration's (GSA) Office of Government-wide Policy, OES is uniquely situated in a central entity that can easily deploy technical support, provide an independent yet intragovernmental perspective, and develop standards for high-quality evidence activities in the federal environment.
