@@ -10,7 +10,7 @@ year: 2018
 type: Program Change and Evaluation
 status: Complete
 domain: Health
-agency: US Agency for International Development
+agency: United States Agency for International Development
 summary: A feasibility pilot to increase access to voluntary family planning services.
 ---
 ## What was the challenge?
