@@ -1,0 +1,21 @@
+{% if page.hero %}
+<section class="usa-hero" aria-label="Introduction" ;="">
+  <div class="grid-container">
+    <div class="usa-hero__callout">
+      {% if page.hero.callout %}
+        <h1 class="usa-hero__heading">
+          {{ page.hero.callout.text }}
+        </h1>
+      {% endif %}
+
+      {% if page.hero.button %}
+        <a class="usa-button" href="{{ page.hero.button.href | relative_url }}">
+        {{ page.hero.button.text }}
+      </a>
+      {% endif %}
+
+
+    </div>
+  </div>
+</section>
+{% endif %}
