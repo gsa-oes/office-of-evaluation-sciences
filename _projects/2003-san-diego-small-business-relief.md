@@ -18,7 +18,6 @@ agency:
   - Small Business Administration
 summary: Analysis Plan Registration
 featured: 
-  - homepage
   - services
 ---
 
