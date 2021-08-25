@@ -69,10 +69,9 @@
 .card-read {
   @include u-margin-top(0);
   @include u-margin-x(4);
-  @include typeset('Lato', 5);
+  @include typeset('body', 'sm', 5);
   color: color('primary');
   font-weight: fw('bold');
-  text-decoration: none;
 
   &:visited {
     color: color('primary');
