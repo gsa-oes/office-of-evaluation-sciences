@@ -4,6 +4,7 @@ permalink: /projects/opioid-buyback/
 tags: 
   - project
 image: /assets/img/project-images/1804.jpeg
+image_full: true
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: 
