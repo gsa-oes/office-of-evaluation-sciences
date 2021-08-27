@@ -4,7 +4,7 @@ permalink: /projects/opioid-buyback/
 tags: 
   - project
 image: /assets/img/project-images/1804.jpeg
-image-credit: 
+image-credit: www.povertyactionlab.org/sites/default/files/styles/full_width_medium_cropped/public/images/2020/09/shutterstock_56850349%20%281%29.jpg?itok=hP7k_NOE
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: 
 year: 2021
