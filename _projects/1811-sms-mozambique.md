@@ -29,7 +29,7 @@ In collaboration with PSI and USAID, the Office of Evaluation Sciences (OES) des
 The sample was 5,370 phone numbers corresponding to women who received a referral from a promoter, provided a phone number, and consented to participate in the evaluation. Of those, 2,728 were randomly assigned to be sent text message reminders, and 2,642 received normal follow-up from promoters.
 
 ## What was the impact?
-The results suggest that the text reminders led to a significant increase in clinic visits, particularly among younger women and women in the period prior to the COVID-19 state of emergency. Among women whose phone number received a text message, 49.4 percent visited a clinic during the observed follow-up period, compared with 47.4 percent of women who did not receive a text message.
+The results suggest that the text reminders led to an increase in clinic visits, particularly among younger women and women in the period prior to the COVID-19 state of emergency. The text messages increased clinic visits by 2.26 percentage points, from a baseline of 47.4 percent of women visiting a clinic in the control group. 
 
 ![image](https://oes.gsa.gov/assets/img/project-images/1811-graph.png)
 
