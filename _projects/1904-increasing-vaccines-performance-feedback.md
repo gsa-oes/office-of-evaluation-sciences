@@ -16,7 +16,6 @@ agency: Veterans Affairs
 summary: Provider vaccine performance feedback did not increase flu vaccine uptake among Veterans at the Atlanta VA
 featured: 
   - homepage
-  - services
 ---
 
 ## What was the challenge?
