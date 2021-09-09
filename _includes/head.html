@@ -30,9 +30,23 @@
     }
     </script>
   
+  <!-- Twitter Site -->
+<meta name="twitter:site" content="@OESatGSA" />
+  
+  <!-- Description -->
+{% if page.excerpt %}
+  <meta name="description" content="{{ page.excerpt | xml_escape }}">
+  <meta property="og:description" content="{{ page.excerpt | xml_escape }}" />
+  <meta property="twitter:description" content="{{ page.excerpt | xml_escape }}" />
+{% else %}
+  <meta name="description" content="{{ site.description | xml_escape }}">
+  <meta property="og:description" content="{{ site.description | xml_escape }}" />
+  <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+{% endif %}
+
   <!-- Image -->
 {% if page.image %}
-  <!-- Twitter Card -->
+ <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
   <meta name="image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
@@ -45,9 +59,10 @@
   {% endif %}
 {% else %}
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/logos/logo-name.png">
-  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/logos/logo-name.png">
+  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/logos/18F-Logo-M.png">
+  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/logos/18F-Logo-M.png">
 {% endif %}
+
 
   
   <!-- Favicons
