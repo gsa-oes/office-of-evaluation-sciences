@@ -48,18 +48,18 @@
 {% if page.image %}
  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
-  <meta name="image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <link rel="image_src" href="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
+  <meta name="image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
   <meta property="og:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png" />
 
-  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
 
   {% if page.image_accessibility %}
     <meta name="twitter:image:alt" content="{{ page.image_accessibility }}">
   {% endif %}
 {% else %}
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image }}">
+  <meta name="twitter:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
   <meta property="og:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
 {% endif %}
 
