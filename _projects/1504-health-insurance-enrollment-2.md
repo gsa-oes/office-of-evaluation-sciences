@@ -7,6 +7,7 @@ tags:
 image: /assets/img/project-images/enrollment2.jpg
 image-credit: https://www.flickr.com/photos/dmc_heals/
 abstract: /assets/abstracts/1504-Federal-Health-Insurance-Marketplace-Enrollment.pdf
+intervention: /assets/interventions/1504-FHIM-intervention-pack.pdf
 year: 2015
 type: Program Change and Evaluation
 status: Complete
