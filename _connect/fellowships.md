@@ -8,9 +8,7 @@ class:
 summary: 
 ---
 
-Interested agency collaborators can find more information on our <a href="https://oes.gsa.gov/services/#become-an-agency-partner" target="_blank">Services page</a>.
-
-<iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
+Interested agency collaborators can find more information on our <a href="{{ site.baseurl}}/services/#become-an-agency-partner" target="_blank">Services page</a>.
 
 ## Fellowship Details
 Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. Federal Employees serve as Fellows via detail assignments.
@@ -22,6 +20,8 @@ The work and role of OES is unique and includes directly designing, implementing
 Fellows and Associate Fellows join OES on-loan from academic, nonprofit or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science and MDRC) and federal departments (e.g., Department of Labor, the US Forest Service and the National Science Foundation). Current <a href="https://oes.gsa.gov/team/" target="_blank">team member bios are available here</a>.  Fellows coming from academic or non-profit institutions will join the team through an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Act</a> agreement (IPA), and Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). 
 
 *Note: A Google email is required to access the Fellowship Application. If you are unable to access the application through Google Forms, please see the full application here and send the required documents in PDF format to <a href="mailto:oes@gsa.gov?subject=Last Name, First Name, OES Fellowship Application 2022">oes@gsa.gov</a> with the subject line: "Last Name, First Name, OES Fellowship Application 2022." PDF document titles must also follow this format (eg, “Last Name, First Name, Cover Letter”).* 
+
+<iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
 ## Frequently Asked Questions
 **Do I need to be a US citizen to apply?**<br>
