@@ -38,7 +38,7 @@ OES is made up of interdisciplinary experts from federal agencies and academic, 
 
 ### What was your favorite part of working with OES? 
 
-**Amira:** Working on the <a href="https://obamawhitehouse.archives.gov/blog/2016/09/15/learn-how-behavioral-science-being-used-better-serve-american-people"> target="_blank">Federal Re-Entry Guide</a> felt like one of the most meaningful things we could do. Returning community members are coming back into a world that sometimes has changed so dramatically, and so many “systems” are setup to fail them. Recreating that document into a pocket-sized booklet, with concrete and ordered actions, at three distinct points in time, hopefully helped to breakdown what can be an overwhelming experience into some manageable steps. 
+**Amira:** Working on the <a href="https://obamawhitehouse.archives.gov/blog/2016/09/15/learn-how-behavioral-science-being-used-better-serve-american-people" target="_blank">Federal Re-Entry Guide</a> felt like one of the most meaningful things we could do. Returning community members are coming back into a world that sometimes has changed so dramatically, and so many “systems” are setup to fail them. Recreating that document into a pocket-sized booklet, with concrete and ordered actions, at three distinct points in time, hopefully helped to breakdown what can be an overwhelming experience into some manageable steps. 
 
 **Lula:** The people! Everyone there is so smart and passionate and wants to make the intervention and evaluation as strong as possible – it’s great to be a part of that kind of team.  The projects and their challenges were also really interesting.
 
