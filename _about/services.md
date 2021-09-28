@@ -81,11 +81,12 @@ We work with agency partners to design an evaluation to measure the impact of an
    </div>
 </section>
 {% endif %}
-## Become an Agency Partner
+
+# Become an Agency Partner
 
 OES helps agencies build and use evidence to learn what works.  First, we look to our agency partners to identify priority areas where they would like to see improved outcomes. Next, we work closely together to learn how people process information, make decisions, and interact with government programs. 
 
-### What makes an opportunity a good fit for an OES collaboration?
+## What makes an opportunity a good fit for an OES collaboration?
 - You have an important question  related to an established policy priority 
 - You are already collecting data on the program and outcome of interest
 - The program or program change has potential for significant impact
