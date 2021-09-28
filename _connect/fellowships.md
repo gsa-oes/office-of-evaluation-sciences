@@ -8,6 +8,8 @@ class:
 summary: 
 ---
 
+Interested agency collaborators can find more information on our <a href="https://oes.gsa.gov/services/#become-an-agency-partner "target="_blank">Services page</a>.
+
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
 ## Fellowship Details
