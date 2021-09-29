@@ -9,12 +9,12 @@ summary: Check out our upcoming events and workshops.
 ---
 # Upcoming OES Events
 ## OES@100: Celebrating 100 Collaborations Across Government
-### Tuesday, November 16, 2021, 1:00-2:30 ET on Zoom, <a href="https://feedback.gsa.gov/jfe/preview/SV_7NVQzhfLxRrYITA?Q_CHL=preview&Q_SurveyVersionID=current">RSVP here</a>.
+### Tuesday, November 16, 2021, 1:00-2:30pm ET
 This year OES celebrates completing 100 evaluations and collaborations across government. OES will highlight an array of speakers who can speak to the diversity of OES’s portfolio as well as insights that OES has gained after many collaborations.
- - Panel 1: takeaways and lessons from completed collaborations, and insights around characteristics that make projects successful. 
- - Panel 2: OES’ recent collaboration with the Small Business Administration and results from a portfolio of evidence on equity and economic recovery. 
- - Panel 3: What’s next for evidence building in government. 
-
+ - **Panel 1:** What makes some collaborations succeed and some fail? 
+ - **Panel 2:** Portfolio of evidence on equity and economic recovery 
+ - **Panel 3:** New frontier for evidence in government: what’s next?  
+**<a href="https://feedback.gsa.gov/jfe/preview/SV_7NVQzhfLxRrYITA?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">RSVP here</a>** and email any questions to <a href="mailto:oes@gsa.gov?subject=OES at 100 Event">oes@gsa.gov</a>.
 
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> A PDF of the FY2021 training schedule is <a href="http://oes.gsa.gov/assets/files/fy21-oes-training-calendar.pdf" target="_blank">available here.</a>
