@@ -1,6 +1,6 @@
 ---
 name: Uzaib Saya
-image: /assets/img/team/uzaib-saya.png
+image: /assets/img/team/uzaib-saya.jpeg
 year:
   - 2021
 agency:
