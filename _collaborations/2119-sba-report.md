@@ -16,7 +16,7 @@ academic-pub: /assets/publications/OES-SBA Descriptive Equity Report.pdf
 year: 2021
 domain: Economic Opportunity
 agency: Small Business Administration
-summary: Summarizing promising approaches taken by local governments disbursing COVID-19 relief 
+summary: Summarizing promising approaches taken by local governments disbursing COVID-19 relief.
 ---
 ## What was the challenge? 
 The Small Business Administration (SBA) has strategic goals to support small business revenue and job growth and restore small businesses after disasters. As part of these goals, the <a href="https://www.sba.gov/sites/default/files/2021-06/FY2021_Enterprise_Learning_Agenda-508.pdf" target="_blank">SBA wants to know what strategies it can implement</a> to help women, minority, and other underserved entrepreneurs recover from the coronavirus (COVID-19) pandemic. A great deal of federal COVID-19 relief funding was disbursed at the local level, and SBA’s partnership with the Office of Evaluation Sciences (OES) allows it to better understand local community-based approaches to helping small businesses.
