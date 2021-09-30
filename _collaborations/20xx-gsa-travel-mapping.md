@@ -7,7 +7,7 @@ visualization: /assets/files/GSA-Travel-Timing-Behavioral-Map.pdf
 year: 2021
 domain: Government Efficiency
 agency: General Services Administration
-summary: How behavioral interventions could encourage earlier booking and generate cost savings 
+summary: How behavioral interventions could encourage earlier booking and generate cost savings.
 featured: homepage
 ---
 ## What was the challenge?
