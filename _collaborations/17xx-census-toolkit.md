@@ -10,7 +10,7 @@ academic-pub: https://oes.gsa.gov/assets/publications/census-community-outreach-
 year: 2017  
 domain: Communications
 agency: Census
-summary: A quickstart guide to tailoring census outreach efforts for the people they serve
+summary: A quickstart guide to tailoring census outreach efforts for the people they serve.
 ---
 ## What was the challenge?
 
