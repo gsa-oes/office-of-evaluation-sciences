@@ -13,10 +13,6 @@ filters:
     title: Years active
     multiple: true
     default: 2021
-  - key: status
-    title: Status
-    multiple: true
-    default: Current
   - key: title
     title: Title
     multiple: true
@@ -26,6 +22,10 @@ filters:
   - key: agency
     title: Agency collaborator
     multiple: true
+  - key: status
+    title: Status
+    multiple: true
+    default: Current
 scripts:
   - src: /assets/js/filters.js
   - src: /assets/js/modal.js
