@@ -8,5 +8,6 @@ agency:
   - Agriculture
   - Treasury
 home: University
+status: Alum
 title: Alum
 ---
