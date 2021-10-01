@@ -13,6 +13,10 @@ filters:
     title: Years active
     multiple: true
     default: 2021
+  - key: status
+    title: Status
+    multiple: true
+    default: Current
   - key: title
     title: Title
     multiple: true
