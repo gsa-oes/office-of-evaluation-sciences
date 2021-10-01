@@ -22,6 +22,10 @@ filters:
   - key: agency
     title: Agency collaborator
     multiple: true
+  - key: status
+    title: Status
+    multiple: true
+    default: Current
 scripts:
   - src: /assets/js/filters.js
   - src: /assets/js/modal.js

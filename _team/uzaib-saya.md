@@ -4,6 +4,7 @@ image: /assets/img/team/uzaib-saya.jpeg
 year:
   - 2021
 agency:
+status: Current
 home: University
 title: Associate Fellow
 ---
