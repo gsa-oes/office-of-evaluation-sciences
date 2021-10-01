@@ -12,6 +12,7 @@ agency:
   - Small Business Administration
 home: University 
 title: Academic Affiliate 
+status: Current
 ---
 
 Jasper Cooper is an Assistant Professor at the UCSD Department of Political Science, specialized in the comparative politics of developing countries
