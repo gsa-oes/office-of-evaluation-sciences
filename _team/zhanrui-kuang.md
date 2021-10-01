@@ -5,6 +5,7 @@ year:
   - 2015
   - 2016
 domain:
+status: Alum
 agency:
   - Agriculture
   - Defense
