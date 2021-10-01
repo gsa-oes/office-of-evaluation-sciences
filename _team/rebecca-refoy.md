@@ -6,4 +6,5 @@ year:
   - 2020
 home: Government
 title: Alum
+status: Alum
 ---
