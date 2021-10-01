@@ -7,5 +7,6 @@ agency:
   - US Agency for International Development
 home: Non-profit
 title: Alum
+status: Alum
 ---
 
