@@ -7,4 +7,5 @@ year:
 agency:  
 home: University
 title: Alum
+status: Alum
 ---
