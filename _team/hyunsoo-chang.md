@@ -15,4 +15,5 @@ agency:
   - Treasury
 home: Non-profit
 title: Alum
+status: Alum
 ---
