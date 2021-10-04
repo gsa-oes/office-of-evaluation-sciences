@@ -5,5 +5,6 @@ year:
   - 2019
 home: Labor
 title: Alum
+status: Alum
 ---
 
