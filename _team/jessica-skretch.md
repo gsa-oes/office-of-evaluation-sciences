@@ -9,6 +9,7 @@ agency:
   - Small Business Administration
   - Treasury
 title: Design Fellow
+status: Alum
 ---
 Jessica joins OES from the Federal Reserve Board. As a senior UX designer, she helps to research and design solutions that support monetary policy work. This often involves creating digital tools that support production and collaboration for unique policy-making processes.
 
