@@ -17,6 +17,7 @@ agency:
   - Agriculture
 home: Government
 title: Alum
+status: Alum
 ---
 
 Amira is currently working with the Office of Management and Budget leading the implementation of the Cross-Agency Priority Goal on Improving  Customer Experience with Federal Services and the establishment of the Government Effectiveness Advanced Research (GEAR) Center. 
