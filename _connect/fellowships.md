@@ -22,7 +22,7 @@ Fellows and Associate Fellows join OES on loan from academic, non-profit or gove
 *Note: A Google email is required to access the Fellowship Application. If you are unable to access the application through Google Forms, please see the full application here and send the required documents in PDF format to <a href="mailto:oes@gsa.gov?subject=Last Name, First Name, OES Fellowship Application 2022">oes@gsa.gov</a> with the subject line: "Last Name, First Name, OES Fellowship Application 2022." PDF document titles must also follow this format (eg, “Last Name, First Name, Cover Letter”).* 
 
 ## Federal Detail Opportunities
-Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees and direct hires. We’ve also had Presidential Management Fellows join for a rotation. 
+Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from federal agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees and direct hires. We’ve also had Presidential Management Fellows join for a rotation. 
 - View solicitation here<br>
 <a class="usa-button" href="{{site.baseurl}}/work">Federal detail solicitation (PDF)</a>
 <br>
