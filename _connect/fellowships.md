@@ -10,7 +10,7 @@ summary:
 
 Interested agency partners can find more information on our <a href="{{ site.baseurl}}/services/#become-an-agency-partner" target="_blank">Services page</a>.
 
-## Fellowship Details 
+## Join OES - Apply Now 
 Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. 
 - View solicitation here
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a>
