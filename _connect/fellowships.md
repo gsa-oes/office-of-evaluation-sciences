@@ -8,18 +8,23 @@ class:
 summary: 
 ---
 
-Interested agency collaborators can find more information on our <a href="{{ site.baseurl}}/services/#become-an-agency-partner" target="_blank">Services page</a>.
+Interested agency partners can find more information on our <a href="{{ site.baseurl}}/services/#become-an-agency-partner" target="_blank">Services page</a>.
 
-## Fellowship Details
-Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. Federal Employees serve as Fellows via detail assignments.
+## Fellowship Details 
+Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. 
 - View solicitation here
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a>
 
-The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. Learn about former OES fellow’s experiences here.
+The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="{{site.baseurl}}/blog/alumni">Learn about former OES fellow’s experiences here</a>.
 
-Fellows and Associate Fellows join OES on-loan from academic, nonprofit or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science and MDRC) and federal departments (e.g., Department of Labor, the US Forest Service and the National Science Foundation). Current <a href="https://oes.gsa.gov/team/" target="_blank">team member bios are available here</a>.  Fellows coming from academic or non-profit institutions will join the team through an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Act</a> agreement (IPA), and Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). 
+Fellows and Associate Fellows join OES on loan from academic, non-profit or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science and MDRC) and federal departments (e.g., Department of Labor, the US Forest Service and the National Science Foundation). Current <a href="https://oes.gsa.gov/team/" target="_blank">team member bios are available here</a>.  Fellows coming from academic or non-profit institutions will join the team through an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Act</a> agreement (IPA).
 
 *Note: A Google email is required to access the Fellowship Application. If you are unable to access the application through Google Forms, please see the full application here and send the required documents in PDF format to <a href="mailto:oes@gsa.gov?subject=Last Name, First Name, OES Fellowship Application 2022">oes@gsa.gov</a> with the subject line: "Last Name, First Name, OES Fellowship Application 2022." PDF document titles must also follow this format (eg, “Last Name, First Name, Cover Letter”).* 
+
+## Federal Detail Opportunities
+Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees and direct hires. We’ve also had Presidential Management Fellows join for a rotation. 
+- View solicitation here
+<a class="usa-button" href="{{site.baseurl}}/work">Federal detail solicitation (PDF)</a>
 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
