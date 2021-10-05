@@ -23,9 +23,9 @@ Fellows and Associate Fellows join OES on loan from academic, non-profit or gove
 
 ## Federal Detail Opportunities
 Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees and direct hires. We’ve also had Presidential Management Fellows join for a rotation. 
-- View solicitation here
+- View solicitation here<br>
 <a class="usa-button" href="{{site.baseurl}}/work">Federal detail solicitation (PDF)</a>
-
+<br>
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
 ## Frequently Asked Questions
