@@ -13,7 +13,7 @@ Interested agency partners can find more information on our <a href="{{ site.bas
 ## Join OES - Apply Now 
 Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. The deadline to submit is 11:59 p.m. ET on **Monday, January 3, 2022** for general fellows and federal details. The deadline to submit a design fellow application is Friday, December 10, 2021.
 
-<a class="usa-button" href="{{site.baseurl}}/work">General Fellowship Solicitation (PDF)</a>    
+<a class="usa-button" href="{{site.baseurl}}/work">Fellowship Solicitation (PDF)</a>    
      <a class="usa-button" href="{{site.baseurl}}/work">Federal Detail Solicitation (PDF)</a><br><br>
 <a class="usa-button" href="{{site.baseurl}}/work">Design Fellow solicitation (PDF)</a>
      <a class="usa-button" href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a>
