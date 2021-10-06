@@ -17,7 +17,7 @@ Full-time fellowships begin in Fall 2022.  All fellowship positions will be remo
 - <a href="https://oes.gsa.gov/assets/files/GSA_OES_Fellowship_Federal_Detail_FY22.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Monday, January 3, 2022
 - <a href="https://oes.gsa.gov/assets/files/GSA OES - Design Fellowship Solicitation FY22.pdf">Design Fellow Solicitation (PDF)</a> - deadline: 11:59pm ET on Friday, December 10, 2021<br>
 
-<a class="usa-button" href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a><br><br>
+<a class="usa-button" href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a><br>
 
 The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="{{site.baseurl}}/blog/alumni">Learn about former OES fellow’s experiences here</a>.
 
@@ -77,8 +77,9 @@ What is the difference between Fellows and Associate Fellows?
   </h2>
   <div id="b3" class="usa-accordion__content usa-prose">
 <p>
-- *Fellows* have substantial expertise in the social and behavioral sciences field. Typically they are researchers with a PhD and publication record in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
-- *Associate Fellows* typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.
+  - <i>Fellows</i> have substantial expertise in the social and behavioral sciences field. Typically they are researchers with a PhD and publication record in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
+  <br>
+  - <i>Associate Fellows</i> typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.<br>
 - Please note that it’s the same application process, just with different qualifications.
     </p>
    </div>
@@ -179,10 +180,10 @@ What type of writing sample is needed?
   </h2>
   <div id="b9" class="usa-accordion__content usa-prose">
 <p>
-An ideal writing sample would demonstrate three things:
-- ability to conduct rigorous research
-- knowledge of the relevant subject matter area
-- precision, conciseness, and clarity in writing.
+An ideal writing sample would demonstrate three things:<br>
+- ability to conduct rigorous research<br>
+- knowledge of the relevant subject matter area<br>
+- precision, conciseness, and clarity in writing.<br>
 An academic paper (working or published) that you personally wrote is most helpful, as are any shorter pieces you might have written for broader audience (such as a memo or blog).  </p>
    </div>
 </section>
