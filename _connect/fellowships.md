@@ -36,9 +36,21 @@ Applicants may apply by emailing <a href="mailto:oes@gsa.gov?subject=Last Name, 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
 ## Frequently Asked Questions
-
-**Do I need to be able to relocate to Washington, D.C.?**<br>
-No you do not need to relocate to Washington, D.C. All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred.
+<section class="usa-accordion featured bg-white padding-1">
+  <h2 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b1"
+    >
+      Do I need to be able to relocate to Washington, D.C.?
+    </button>
+  </h2>
+  <div id="b1" class="usa-accordion__content usa-prose">
+<p>No you do not need to relocate to Washington, D.C. All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred.</p>
+  </div>
+   </div>
+</section>
 
 **I just got the notice - can I turn in my application late?**<br>
 We are holding to a firm deadline at this time as we need to evaluate candidates for the first and second round interviews on the same timeline. We do sometimes have need for off cycle support, if you would like to share your CV and a cover letter - we are happy to review it. 
