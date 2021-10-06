@@ -13,9 +13,9 @@ Interested agency partners can find more information on our <a href="{{ site.bas
 ## Join OES - Apply Now 
 Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. 
 
-<a class="usa-button" href="{{site.baseurl}}/work">Fellowship Solicitation (PDF)</a>   deadline: 11:59pm ET on Monday, January 3, 2022<br><br>
-  <a class="usa-button" href="{{site.baseurl}}/work">Federal Detail Solicitation (PDF)</a>  deadline: 11:59pm ET on Monday, January 3, 2022<br><br>
-<a class="usa-button" href="{{site.baseurl}}/work">Design Fellow solicitation (PDF)</a>    deadline: 11:59pm ET on Friday, December 10, 2021<br><br>
+<a class="usa-button" href="{{site.baseurl}}/work">Fellowship Solicitation</a>  deadline: 11:59pm ET on Monday, January 3, 2022<br><br>
+  <a class="usa-button" href="{{site.baseurl}}/work">Federal Detail Solicitation</a>  deadline: 11:59pm ET on Monday, January 3, 2022<br><br>
+<a class="usa-button" href="{{site.baseurl}}/work">Design Fellow Solicitation</a>  deadline: 11:59pm ET on Friday, December 10, 2021<br><br>
   <a class="usa-button" href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a><br><br>
 
 The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="{{site.baseurl}}/blog/alumni">Learn about former OES fellow’s experiences here</a>.
