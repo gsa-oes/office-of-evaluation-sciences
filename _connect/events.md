@@ -7,6 +7,16 @@ hide_image: true
 class:
 summary: Check out our upcoming events and workshops.
 ---
+# Upcoming OES Events
+## OES@100: Celebrating 100 Collaborations Across Government
+### Tuesday, November 16, 2021, 1:00-2:30pm ET via Zoom
+![image]({{site.baseurl}}/assets/img/OESat100_4by3_with-subtitle.png)
+OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building.  
+ - **Panel 1:** What makes some collaborations succeed and some fail? 
+ - **Panel 2:** Portfolio of evidence on equity and economic recovery 
+ - **Panel 3:** New frontier for evidence in government: what’s next?  <br>
+
+Join us! **<a href="https://feedback.gsa.gov/jfe/preview/SV_7NVQzhfLxRrYITA?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">RSVP here</a>** and email any questions to <a href="mailto:oes@gsa.gov?subject=OES at 100 Event">oes@gsa.gov</a>.
 
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> A PDF of the FY2021 training schedule is <a href="http://oes.gsa.gov/assets/files/fy21-oes-training-calendar.pdf" target="_blank">available here.</a>
