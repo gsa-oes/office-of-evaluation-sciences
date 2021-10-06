@@ -79,10 +79,22 @@ We work with agency partners to design an evaluation to measure the impact of an
 {% endfor %}
   </div>
    </div>
-  <br>
-        <p>
-          <a class="usa-button" href="{{site.baseurl}}/opps">Work with us</a>
-        </p>
 </section>
 {% endif %}
-<br>
+
+# Become an Agency Partner
+
+OES helps agencies build and use evidence to learn what works.  First, we look to our agency partners to identify priority areas where they would like to see improved outcomes. Next, we work closely together to learn how people process information, make decisions, and interact with government programs. 
+
+## What makes an opportunity a good fit for an OES collaboration?
+- You have an important question  related to an established policy priority 
+- You are already collecting data on the program and outcome of interest
+- The program or program change has potential for significant impact
+- Your agency is interested in acting on and sharing results 
+- The program operates on a large scale or with many people 
+- There is the ability to give groups of people different versions of a program or program change
+
+If this sounds like you, please get in touch! We’re excited to work with agency partners across government. The structure of our collaborations can vary but often follow one of several **<a href="{{ '/assets/files/oes-services-list-fy21-22.pdf' | prepend: site.baseurl }}" target="_blank">common partnership formats</a>**.
+
+Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
+
