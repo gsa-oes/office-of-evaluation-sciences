@@ -13,9 +13,9 @@ Interested agency partners can find more information on our <a href="{{ site.bas
 ## Join OES - Apply Now 
 Full-time fellowships begin in Fall 2022.  All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve additional years preferred. 
 
-- Fellowship Solicitation (PDF) - deadline: 11:59pm ET on Monday, January 3, 2022
-- Federal Detail Solicitation (PDF) - deadline: 11:59pm ET on Monday, January 3, 2022
-- Design Fellow Solicitation (PDF) - deadline: 11:59pm ET on Friday, December 10, 2021<br>
+- <a href="https://oes.gsa.gov/assets/files/GSA_OES_Fellowship_SolicitationFY22.pdf">Fellowship Solicitation (PDF)</a> - deadline: 11:59pm ET on Monday, January 3, 2022
+- <a href="https://oes.gsa.gov/assets/files/GSA_OES_Fellowship_Federal_Detail_FY22.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Monday, January 3, 2022
+- <a href="https://oes.gsa.gov/assets/files/GSA OES - Design Fellowship Solicitation FY22.pdf">Design Fellow Solicitation (PDF)</a> - deadline: 11:59pm ET on Friday, December 10, 2021<br>
 
 <a class="usa-button" href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a><br><br>
 
