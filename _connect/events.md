@@ -16,7 +16,7 @@ OES celebrates completing 100 collaborations across government this year. Distin
  - **Panel 2:** Portfolio of evidence on equity and economic recovery 
  - **Panel 3:** New frontier for evidence in government: what’s next?  <br>
 
-Join us! **<a href="https://feedback.gsa.gov/jfe/preview/SV_7NVQzhfLxRrYITA?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">RSVP here</a>** and email any questions to <a href="mailto:oes@gsa.gov?subject=OES at 100 Event">oes@gsa.gov</a>.
+Join us! **<a href="https://feedback.gsa.gov/jfe/form/SV_7NVQzhfLxRrYITA" target="_blank">RSVP here</a>** and email any questions to <a href="mailto:oes@gsa.gov?subject=OES at 100 Event">oes@gsa.gov</a>.
 
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> 
