@@ -24,7 +24,7 @@ This training series is a continuing partnership between the Office of Managemen
 ## Upcoming Federal Workshops
 ### Evaluation 101
 An introduction to evaluation for Federal staff. This workshop will serve as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- Wednesday, October 27, 2021 from 9:00-10:30 AM EST
+- Wednesday, October 27, 2021 from 9:00 to 10:30 AM EST
 
 ## Past Federal Workshops
 
