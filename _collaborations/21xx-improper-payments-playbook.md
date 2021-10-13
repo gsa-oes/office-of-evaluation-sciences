@@ -18,15 +18,15 @@ Payment integrity is a longstanding priority of the legislative and executive br
 
 ## What did we do?
 
-Payment integrity demonstrates stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time. Working with the United States Chief Financial Officers Council, OES developed a guide that allows agencies to become better acquainted with ways to apply behavioral insights to improve payment integrity and reduce improper payments in their programs. This guide builds on work such as a Behavioral Insights Toolkit created by the Internal Revenue Service, which describes ways to integrate a behavioral insights approach into tax administration. 
+Payment integrity demonstrates stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time. Working with the United States Chief Financial Officers Council, OES developed a guide that allows agencies to become better acquainted with ways to apply behavioral insights to improve payment integrity and reduce improper payments in their programs. This guide builds on work such as a <a href="https://www.irs.gov/pub/irs-soi/17rpirsbehavioralinsights.pdf" target="_blank">Behavioral Insights Toolkit</a> created by the Internal Revenue Service, which describes ways to integrate a behavioral insights approach into tax administration. 
 
 ## What did we learn?
 
 This guide aims to help government employees assess whether a behavioral insights approach is a good fit for their program, identify which interventions are appropriate, and implement those interventions with the goal of reducing improper payments.  The behavioral insights approach draws on multiple disciplines including cognitive sciences like psychology and social sciences like economics to understand how people make decisions. OES team members are available for discussions with agencies and can provide advice about applying the ideas in this guide. 
 
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf">Behavioral Insights Guide</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">Behavioral Insights Guide</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-worksheets.pdf">Blank Worksheets</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-worksheets.pdf" target="_blank">Blank Worksheets</a>
 <br><br>
 *As a guide to help agencies implement behavioral insights, this project does not have an Analysis Plan.* 
