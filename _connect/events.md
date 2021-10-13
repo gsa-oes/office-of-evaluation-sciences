@@ -21,14 +21,19 @@ Join us! **<a href="https://feedback.gsa.gov/jfe/form/SV_7NVQzhfLxRrYITA" target
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> 
 
+## Upcoming Federal Workshops
+### Evaluation 101
+An introduction to evaluation for Federal staff. This workshop will serve as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+- Wednesday, October 27, 2021 from 9:00-10:30 AM EST
+
 ## Past Federal Workshops
 
 ### Understanding the Paperwork Reduction Act and its Implications for Evaluation Information Collections
-This workshop will provide participants with a deeper understanding the Paperwork Reduction Act (PRA) and its implications for data collected for evaluations. Featuring speakers from OMB’s Office of Information and Regulatory Affairs (OIRA) and Evidence Team, this interactive session will provide an overview of the PRA and its requirements and offer insight as to OIRA’s review of evaluation-focused packages. 
+This workshop provided participants with a deeper understanding the Paperwork Reduction Act (PRA) and its implications for data collected for evaluations. Featuring speakers from OMB’s Office of Information and Regulatory Affairs (OIRA) and Evidence Team, this interactive session provided an overview of the PRA and its requirements and offered insight as to OIRA’s review of evaluation-focused packages. 
 - September 15, 2021 from 3:00 to 4:30 PM EST
 
 ### Why Randomize? A Case Study
-This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, will walk participants through a real‐life case.
+This interactive session, presented by the Abdul Latif Jameel Poverty Action Lab - North America, walked participants through a real‐life case.
 - August 3, 2021 from 3:00 to 4:30 PM EST
 
 ### Introduction to Formative and Process Evaluations
@@ -60,7 +65,7 @@ Discuss and dispel misconceptions about evaluations that show no evidence of imp
 - November 2, 2020 from 3:00 to 4:15 pm
 
 ### Evaluation 101
-In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop, conducted three times, served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - January 19, 2021
 - July 8, 2021
 
