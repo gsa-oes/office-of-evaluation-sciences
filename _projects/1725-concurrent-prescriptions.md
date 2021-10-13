@@ -22,9 +22,6 @@ The Department of Veterans Affairs (VA) and the Department of Defense (DoD) Clin
 ## What was the program change?
 OES and DHA designed targeted messages to communicate with providers about the guidelines and to encourage care coordination.
 
-![image]({{site.baseurl}}/assets/img/project-images/1725-individual-email.png)
-![image]({{site.baseurl}}/assets/img/project-images/1725-group-email.png)
-
 ## How did the evaluation work?
 Patients newly identified as having concurrent opioid-benzodiazepine prescriptions were randomly assigned to one of two provider messaging conditions: no email with as usual access to an existing opioid registry (control), or a group email to all associated providers with encouragement to coordinate across providers. 
 
