@@ -14,7 +14,7 @@ year: 2021
 type: Program Change and Evaluation
 domain: Health
 agency: Defense
-summary: 
+summary: Targeted messages to providers to reduce concurrent prescriptions
 ---
 ## What was the challenge?
 The Department of Veterans Affairs (VA) and the Department of Defense (DoD) Clinical Practice Guideline for Opioid Therapy for Chronic Pain strongly recommends against the concurrent use of opioids and benzodiazepines. The Defense Health Agency (DHA) in the DoD sought to increase adherence to prescribing guidelines by reducing concurrent prescribing of opioids and benzodiazepines.
