@@ -8,16 +8,27 @@ tags:
 image: /assets/img/project-images/1725.JPG
 image-credit: https://media.defense.gov/2015/Jun/19/2001076394/780/780/0/150617-F-SI704-003.JPG
 analysis-plan: /assets/analysis/1725-concurrent-prescriptions.pdf
-abstract: 
-status: Ongoing
-year: 2020
+abstract: /assets/abstracts/1725-Concurrent Rx-OES Abstract-results-forthcoming.pdf
+status: Complete
+year: 2021
 type: Program Change and Evaluation
 domain: Health
 agency: Defense
-summary: Analysis Plan Registration
+summary: 
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What was the challenge?
+The Department of Veterans Affairs (VA) and the Department of Defense (DoD) Clinical Practice Guideline for Opioid Therapy for Chronic Pain strongly recommends against the concurrent use of opioids and benzodiazepines. The Defense Health Agency (DHA) in the DoD sought to increase adherence to prescribing guidelines by reducing concurrent prescribing of opioids and benzodiazepines.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">here</a>. 
+## What was the program change?
+OES and DHA designed targeted messages to communicate with providers about the guidelines and to encourage care coordination.
 
-Check back for results!
+![image]({{site.baseurl}}/assets/img/project-images/1725-individual-email.png)
+![image]({{site.baseurl}}/assets/img/project-images/1725-group-email.png)
+
+## How did the evaluation work?
+Patients newly identified as having concurrent opioid-benzodiazepine prescriptions were randomly assigned to one of two provider messaging conditions: no email with as usual access to an existing opioid registry (control), or a group email to all associated providers with encouragement to coordinate across providers. 
+
+## What was the impact?
+Results are forthcoming.
+
+*You can verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">here</a>.*
