@@ -63,7 +63,7 @@ Also, that we don’t know as much as we’d like to think we know about strateg
 
 **Lula:** Apply!  I approached the whole process as a chance to contribute to public service and as a great learning opportunity, and I found the experience very fulfilling.  
 
-**Russ:** RCrowdsource knowledge and insights--that is how you make the most of being on such an interdisciplinary and talented team.
+**Russ:** Crowdsource knowledge and insights--that is how you make the most of being on such an interdisciplinary and talented team.
 
 **Rebecca:**  There is a  lot of brain trust to learn from!
 
