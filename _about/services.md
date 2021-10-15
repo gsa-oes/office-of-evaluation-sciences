@@ -81,7 +81,7 @@ We work with agency partners to design an evaluation to measure the impact of an
    </div>
 </section>
 {% endif %}
-<p class="billboard-message"><span style='color:#757575'>Become an Agency Partner</span></p>
+# Become an agency partner
 OES helps agencies build and use evidence to learn what works.  First, we look to our agency partners to identify priority areas where they would like to see improved outcomes. Next, we work closely together to learn how people process information, make decisions, and interact with government programs. 
 
 ## What makes an opportunity a good fit for an OES collaboration?
