@@ -16,8 +16,6 @@ status: Complete
 agency: 
   - Small Business Administration
 summary: Simulations using application data from three cities showed how outcomes for historically underserved businesses depend on the allocation method.
-featured: 
-  - homepage
 ---
 
 ## What was the challenge? 
