@@ -15,6 +15,7 @@ domain: Economic Opportunity
 status: Complete
 agency: Small Business Administration
 summary: A city small business relief program that reduced documentation requirements subsequently received a higher share of completed applications from historically underserved businesses
+featured: homepage
 ---
 
 ## What was the challenge? 
