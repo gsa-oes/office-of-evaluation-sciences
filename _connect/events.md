@@ -12,7 +12,7 @@ summary: Check out our upcoming events and workshops.
 ### Tuesday, November 16, 2021, 1:00-2:30pm ET via Zoom
 ![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.png)
 OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building.  
- - **Panel 1:** What leads to a successful evaluation: reflections from 100 OES collaborations
+ - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
  - **Panel 2:** Portfolio of evidence on equity and economic recovery 
  - **Panel 3:** New frontier for evidence in government: what’s next?  <br>
 
