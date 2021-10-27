@@ -59,7 +59,7 @@ Also, that we don’t know as much as we’d like to think we know about strateg
 
 ### What advice would you give to individuals considering working with OES? 
 
-**Amira:** This Administration, through an Executive Order on advancing racial equity and support for underserved communities, a Presidential Memoranda on increasing trust in government through scientific integrity, and so many other actions, has made OES’ work more important than ever. This is an exciting moment for the team to be able to do such good work. Importantly though, enjoy working with the amazing people around you who will make you better. It’s so much fun – just find the dancing chicken video.   
+**Amira:** This Administration, through an Executive Order on advancing racial equity and support for underserved communities, a Presidential Memorandum on increasing trust in government through scientific integrity, and so many other actions, has made OES’ work more important than ever. This is an exciting moment for the team to be able to do such good work. Importantly though, enjoy working with the amazing people around you who will make you better. It’s so much fun – just find the dancing chicken video.   
 
 **Lula:** Apply!  I approached the whole process as a chance to contribute to public service and as a great learning opportunity, and I found the experience very fulfilling.  
 
