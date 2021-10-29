@@ -3,8 +3,8 @@ title: Employee Voice Initiative
 permalink: /projects/employee-voice/
 tags: 
   - project
-image: /assets/img/project-images/2203.jpeg
-image-credit: 
+image: /assets/img/project-images/2203.jpg
+image-credit: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd92f9ffef6b13303a4d267%2FVideo-call-group-business-people-meeting-on-virtual-workplace-or-remote-office%2F960x0.jpg%3Ffit%3Dscale
 year: 2022
 domain: Government Operations
 status: Ongoing
