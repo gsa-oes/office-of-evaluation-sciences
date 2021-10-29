@@ -1,0 +1,20 @@
+---
+title: Employee Voice Initiative
+permalink: /projects/employee-voice/
+tags: 
+  - project
+image: /assets/img/project-images/2203.jpg
+image-credit: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd92f9ffef6b13303a4d267%2FVideo-call-group-business-people-meeting-on-virtual-workplace-or-remote-office%2F960x0.jpg%3Ffit%3Dscale
+year: 2022
+domain: Government Operations
+status: Ongoing
+agency: Office of Personnel Management
+summary: Analysis Plan Registration
+featured: homepage
+---
+
+This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+
+The Analysis Plan for this project has been locked, and the date when it was uploaded can be verified <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2103-3-analysis-plan.pdf">here</a>. A link to the document itself will be made available here on this page when data collection has been completed. 
+
+Check back for results!
