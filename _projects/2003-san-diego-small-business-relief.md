@@ -8,7 +8,7 @@ tags:
 image: /assets/img/project-images/2003-san-diego-image.jpg
 image-credit: https://commons.wikimedia.org/wiki/File:San_Diego_Skyline_at_Dawn.jpg
 analysis-plan: /assets/analysis/2003_San_Diego_SBRF_Analysis_Plan.pdf
-abstract: /assets/abstracts/2003 - Project Abstract.pdf
+abstract: /assets/abstracts/2003-abstract-san-diego.pdf
 year: 2021
 type: Program Evaluation
 domain: Economic Opportunity
@@ -44,4 +44,4 @@ OES identified at least two directions for future work to improve both program i
 ![image](https://oes.gsa.gov/assets/img/project-images/2003-graph-2.png)
 *Figure 2: Rate at which business-owners failed to follow up on invitations to submit documents for funding over time.*
 
-*The upload date of the Analysis Plan can be confirmed<a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2003_San_Diego_SBRF_Analysis_Plan.pdf">here</a>.*
+*The upload date of the Analysis Plan can be confirmed <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2003_San_Diego_SBRF_Analysis_Plan.pdf">here</a>.*
