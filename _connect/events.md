@@ -24,7 +24,7 @@ This training series is a continuing partnership between the Office of Managemen
 ## Upcoming Federal Workshops
 ### Evaluation Utilization: How to Promote Evaluation Use
 How Federal staff can support the dissemination and use of evaluation by colleagues across their agencies.
- - Tuesday November 30, 2021 from 3:00 to 4:30 pm ET
+ - Tuesday, November 30, 2021 from 3:00 to 4:30 pm ET
 
 ### Identifying Resources for Evaluation
 Explore ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource-limited environments.
