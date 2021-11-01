@@ -22,11 +22,29 @@ Join us! **<a href="https://feedback.gsa.gov/jfe/form/SV_7NVQzhfLxRrYITA" target
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> A PDF of the FY2022 training schedule is <a href="http://oes.gsa.gov/assets/files/FY2022-training-calendar.pdf" target="_blank">available here.</a>
 
 ## Upcoming Federal Workshops
-### Evaluation 101
-An introduction to evaluation for Federal staff. This workshop will serve as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- Wednesday, October 27, 2021 from 9:00 to 10:30 AM EST
+### Evaluation Utilization: How to Promote Evaluation Use
+How Federal staff can support the dissemination and use of evaluation by colleagues across their agencies.
+ - Tuesday November 30, 2021 from 3:00 to 4:30 pm ET
+
+### Identifying Resources for Evaluation
+Explore ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource-limited environments.
+- Wednesday, December 15, 2021 from 3:00 to 4:30 pm ET
+
+### Making the Case for Evaluation
+Highlights ways to demonstrate the value of evaluation to peers, leaders, and others in their agency
+- Wednesday, January 19, 2022 from 3:00 to 4:30 pm ET
+
+### Understanding Null Results
+This workshop will dispel misconceptions about null results and highlight different uses for and lessons from null results.
+- Wednesday, February 16, 2022 from 3:00 to 4:30 pm ET
 
 ## Past Federal Workshops
+
+### Evaluation 101
+In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+- January 19, 2021
+- July 8, 2021
+- October 27, 2021
 
 ### Understanding the Paperwork Reduction Act and its Implications for Evaluation Information Collections
 This workshop provided participants with a deeper understanding the Paperwork Reduction Act (PRA) and its implications for data collected for evaluations. Featuring speakers from OMB’s Office of Information and Regulatory Affairs (OIRA) and Evidence Team, this interactive session provided an overview of the PRA and its requirements and offered insight as to OIRA’s review of evaluation-focused packages. 
@@ -59,15 +77,6 @@ Hands-on practice in developing and using a logic model to inform evaluation act
 ### Introduction to Quasi-Experimental Designs
 Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
 - December 8, 2020 from 10:00 am to 12:00 pm
-
-### Understanding Null Results
-Discuss and dispel misconceptions about evaluations that show no evidence of impact or provide evidence of no impact, and highlight uses for null results.
-- November 2, 2020 from 3:00 to 4:15 pm
-
-### Evaluation 101
-In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- January 19, 2021
-- July 8, 2021
 
 # Past OES Events 
 
