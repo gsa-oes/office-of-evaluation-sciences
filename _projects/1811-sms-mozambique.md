@@ -16,7 +16,6 @@ domain: Health
 agency: United States Agency for International Development
 summary: Text reminders increased clinic visits for family planning services
 featured: 
-  - homepage
   - services
 ---
 ## What was the challenge?
