@@ -12,12 +12,12 @@ abstract: /assets/abstracts/2003 - Project Abstract.pdf
 year: 2021
 type: Program Evaluation
 domain: Economic Opportunity
-status: Ongoing
-type: Program Evaluation
+status: Complete
 agency: 
   - Small Business Administration
 summary: A selection on observables analysis was unable to determine the effect of funding for small businesses on business outcomes during the pandemic.
 featured: 
+  - homepage
   - services
 ---
 ## What was the challenge? 
