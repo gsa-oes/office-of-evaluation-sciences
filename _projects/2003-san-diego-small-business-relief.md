@@ -8,7 +8,7 @@ tags:
 image: /assets/img/project-images/2003-san-diego-image.jpg
 image-credit: https://commons.wikimedia.org/wiki/File:San_Diego_Skyline_at_Dawn.jpg
 analysis-plan: /assets/analysis/2003_San_Diego_SBRF_Analysis_Plan.pdf
-abstract:  
+abstract: /assets/abstracts/2003 - Project Abstract.pdf
 year: 2021
 type: Program Evaluation
 domain: Economic Opportunity
