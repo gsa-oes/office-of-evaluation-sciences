@@ -17,7 +17,6 @@ agency:
   - Small Business Administration
 summary: A selection on observables analysis was unable to determine the effect of funding for small businesses on business outcomes during the pandemic.
 featured: 
-  - homepage
   - services
 ---
 ## What was the challenge? 
