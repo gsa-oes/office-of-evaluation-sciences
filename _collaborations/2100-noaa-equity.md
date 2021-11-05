@@ -4,7 +4,7 @@ permalink: /collaborations/noaa-equity-assessment/
 tags:
   - collaborations
   - climate
-image: /assets/img/project-images/othercollabs/noaa.jpg
+image: /assets/img/project-images/othercollabs/noaa.png
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949
 year: 2021
 domain: 
