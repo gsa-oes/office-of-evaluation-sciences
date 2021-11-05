@@ -9,7 +9,7 @@ image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coas
 year: 2021
 domain: 
 agency: 
-summary: Evaluation options to inform NOAA’s approach for evaluating program changes to advance equitable service delivery
+summary: Evaluations options to build evidence for equity action plans at NOAA
 featured: 
 ---
 ## What was the challenge? 
