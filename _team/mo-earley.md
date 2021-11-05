@@ -4,7 +4,7 @@ image: /assets/img/team/earley_mo.jpg
 year:
   - 2017
 agency:
-  - Census
+  - Commerce
 home: Government
 title: Alum
 status: Alum
