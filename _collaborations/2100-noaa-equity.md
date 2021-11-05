@@ -6,6 +6,7 @@ tags:
   - climate
 image: /assets/img/project-images/othercollabs/noaa.png
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949
+visualization: /assets/files/NOAA-Equity-Diagram.pdf
 year: 2021
 domain: 
 agency: 
