@@ -10,7 +10,7 @@ agency:
   - Education
   - Veterans Affairs
   - Small Business Administration
-  - Census
+  - Commerce
 home: University
 title: Academic Affiliate
 status: Current
