@@ -10,12 +10,12 @@ visualization: /assets/files/NOAA-Equity-Diagram.pdf
 year: 2021
 domain: 
 agency: 
-summary: Evaluations options to build evidence for equity action plans at NOAA
+summary: Evaluation options to build evidence for equity action plans at NOAA
 featured: 
 ---
 ## What was the challenge? 
 
-In response to Executive Order 13985, On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government (The Equity EO), Equity Assessment Teams within the National Weather Service, the National Sea Grant College Program, and the Office for Coastal Management conducted service equity assessments for their programs. Their goal was to understand what aspects of their programs perpetuate systemic barriers for members of underserved communities and identify program changes  to address these barriers in their upcoming Equity Action Plans. 
+In response to Executive Order 13985, *On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government (The Equity EO)*, Equity Assessment Teams within the National Weather Service, the National Sea Grant College Program, and the Office for Coastal Management conducted service equity assessments for their programs. Their goal was to understand what aspects of their programs perpetuate systemic barriers for members of underserved communities and identify program changes  to address these barriers in their upcoming Equity Action Plans. 
 
 ## What did we do? 
 
@@ -23,7 +23,7 @@ OES partnered with three NOAA Equity Assessment Teams to develop several evaluat
 
 ## How are the evaluations designed to build evidence? 
 ### National Weather Service 
-The National Weather Service (NWS) aims to ensure that services offered by their Weather Forecast Offices are benefitting all members of the public and prioritizing those that are most vulnerable to loss of life or property as a result of severe weather events. NWS is focused on learning how to define, conduct, and measure effective engagement to better serve historically underserved and socially vulnerable communities.
+The National Weather Service (NWS) aims to ensure that services offered by Weather Forecast Offices benefit all members of the public and prioritize those that are most vulnerable to loss of life or property as a result of severe weather events. NWS is focused on learning how to define, conduct, and measure effective engagement to better serve historically underserved and socially vulnerable communities.
 The recommended evaluation approaches are designed to help NWS describe engagement with historically underserved and socially vulnerable communities among Weather Forecast Offices, identify best practices for engagement, and support promising engagement efforts in Weather Forecast Offices across the nation. 
 
 Proposed evaluation activities include: 
