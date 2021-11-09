@@ -5,7 +5,8 @@ tags:
   - collaborations
   - covid
 image: /assets/img/project-images/othercollabs/osg-toolkit.png
-image-credit: https://pxhere.com/en/photo/1448019
+image_full: true
+image-credit: https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit
 year: 2021
 domain: Health
 agency: Health and Human Services
@@ -36,7 +37,7 @@ The toolkit provides five tips for community leaders and individuals interested 
 5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
 <br><br>
 <div>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>
+<a class="usa-button" href="{{ site.baseurl }}/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>
 <br><br>
 <i>The toolkit is available in other languages along with additional resources on <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit" target="_blank">HHS.gov</a>.</i>
 <h3>Notes</h3>
