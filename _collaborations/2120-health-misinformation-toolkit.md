@@ -37,5 +37,5 @@ The toolkit provides five tips for community leaders and individuals interested 
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>   
 <br>
-### Notes
+<h3>Notes</h3>
 <p>1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.</p>
