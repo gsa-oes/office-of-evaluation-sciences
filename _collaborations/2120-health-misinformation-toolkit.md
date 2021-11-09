@@ -28,12 +28,12 @@ The toolkit provides information and exercises to help people recognize false he
 
 ## What did we learn?
 
-The toolkit provides five tips for community leaders and individuals interested in learning about how to talk to others who are sharing misinformation:
+<p>The toolkit provides five tips for community leaders and individuals interested in learning about how to talk to others who are sharing misinformation:
 1. **Listen** to people’s fears and why they believe what they do.
 2. **Empathize** with the fact that there are often reasons why people find it difficult to trust certain sources of information.
 3. **Point to credible sources** who are not in a position to personally profit or to gain power or influence.
 4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages. on social media sites.
-5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
+5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.</p>
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>   
 <br>
