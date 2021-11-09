@@ -12,11 +12,11 @@ agency:
 summary: A guide helps readers explore how a behavioral insights approach can reduce improper payments.
 featured: 
 ---
-## What was the challenge?
+## What was the challenge? 
 
 Payment integrity is a longstanding priority of the legislative and executive branches. Efforts to promote payment integrity often focus on improper payments which include payments made by the government to the wrong person, in the wrong amount, or for the wrong reason. Improper payments are not always indicative of fraud, nor do they necessarily represent payments that should not have been made, but these payments may still compromise citizens' trust in government. 
 
-## What did we do?
+## What did we do? 
 
 Payment integrity demonstrates stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time. Working with the United States Chief Financial Officers Council, OES developed a guide that allows agencies to become better acquainted with ways to apply behavioral insights to improve payment integrity and reduce improper payments in their programs. This guide builds on work such as a <a href="https://www.irs.gov/pub/irs-soi/17rpirsbehavioralinsights.pdf" target="_blank">Behavioral Insights Toolkit</a> created by the Internal Revenue Service, which describes ways to integrate a behavioral insights approach into tax administration. 
 
