@@ -36,6 +36,6 @@ The toolkit provides five tips for community leaders and individuals interested 
 5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>   
-<br><br>
-#### Notes
-1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.
+<br>
+### Notes
+<p>1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.</p>
