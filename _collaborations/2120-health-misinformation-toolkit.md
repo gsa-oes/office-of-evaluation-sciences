@@ -24,8 +24,8 @@ The Office of the Surgeon General developed a Health Misinformation Toolkit to e
 2. We want to protect the people we care about; 
 3. We may be seeking explanations or want to share information that helps us to make sense of events; and 
 4. We want to feel connected to others. 
-<br>
-The toolkit provides information and exercises to help people recognize false health information and also to effectively talk with others prone to spreading misinformation. Office of Evaluation Sciences experts supported the development of this toolkit through written feedback, cross-agency discussions, and team-wide review. 
+<br><br>
+<p>The toolkit provides information and exercises to help people recognize false health information and also to effectively talk with others prone to spreading misinformation. Office of Evaluation Sciences experts supported the development of this toolkit through written feedback, cross-agency discussions, and team-wide review. </p>
 
 ## What did we learn?
 
