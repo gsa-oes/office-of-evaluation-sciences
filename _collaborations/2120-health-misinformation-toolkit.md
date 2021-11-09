@@ -35,8 +35,8 @@ The toolkit provides five tips for community leaders and individuals interested 
 3. **Point to credible sources** who are not in a position to personally profit or to gain power or influence.
 4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages. on social media sites.
 5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
-<br><br><p>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a> </p>  
+<br><br><p> </p>
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>
 <br>
 *The toolkit is available in other languages along with additional resources on <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit" target="_blank">HHS.gov</a>.*
 <h3>Notes</h3>
