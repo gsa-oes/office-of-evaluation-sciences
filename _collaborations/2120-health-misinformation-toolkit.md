@@ -8,7 +8,9 @@ image: /assets/img/project-images/othercollabs/osg-toolkit.png
 image_full: true
 image-credit: https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit
 year: 2021
-domain: Health
+domain: 
+  - Health
+  - Communications
 agency: Health and Human Services
 academic-pub: /assets/publications/2120-health-misinformation-toolkit.pdf
 summary: A toolkit developed by the Office of the Surgeon General provides information and exercises to slow the spread of health misinformation.
