@@ -28,13 +28,12 @@ The Office of the Surgeon General developed a Health Misinformation Toolkit to e
 <p>The toolkit provides information and exercises to help people recognize false health information and also to effectively talk with others prone to spreading misinformation. Office of Evaluation Sciences experts supported the development of this toolkit through written feedback, cross-agency discussions, and team-wide review. </p>
 
 ## What did we learn?
-<div>
 The toolkit provides five tips for community leaders and individuals interested in learning about how to talk to others who are sharing misinformation:
 1. **Listen** to people’s fears and why they believe what they do.
 2. **Empathize** with the fact that there are often reasons why people find it difficult to trust certain sources of information.
 3. **Point to credible sources** who are not in a position to personally profit or to gain power or influence.
 4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages. on social media sites.
-5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.</div>
+5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>
 <br>
