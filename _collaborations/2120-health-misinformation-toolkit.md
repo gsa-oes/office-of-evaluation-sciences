@@ -5,6 +5,7 @@ tags:
   - collaborations
   - covid
 image: /assets/img/project-images/othercollabs/osg-toolkit.png
+image-credit: https://pxhere.com/en/photo/1448019
 year: 2021
 domain: Health
 agency: Health and Human Services
@@ -18,7 +19,7 @@ People frequently interact with misinformation:  information that is false, inac
 
 ## What did we do? 
 
-The Office of the Surgeon General (OSG) developed a Health Misinformation Toolkit to explain what motivates people to share misinformation and to help slow the spread of health misinformation. Research in the social and behavioral sciences has shown that people are prone to unknowingly sharing false information for several reasons, as described in the toolkit: 
+The Office of the Surgeon General developed a Health Misinformation Toolkit to explain what motivates people to share misinformation and to help slow the spread of health misinformation. Research in the social and behavioral sciences has shown that people are prone to unknowingly sharing false information for several reasons, as described in the toolkit: 
 1. We like to feel that we have new information that others don’t know;
 2. We want to protect the people we care about; 
 3. We may be seeking explanations or want to share information that helps us to make sense of events; and 
@@ -34,6 +35,6 @@ The toolkit provides five tips for community leaders and individuals interested 
 4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages. on social media sites.
 5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">OSG Misinformation Toolkit (PDF)</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>
 <br><br>
 1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.
