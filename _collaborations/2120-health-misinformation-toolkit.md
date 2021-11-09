@@ -9,7 +9,7 @@ image-credit: https://pxhere.com/en/photo/1448019
 year: 2021
 domain: Health
 agency: Health and Human Services
-academic-pub: 
+academic-pub: /assets/publications/2120-health-misinformation-toolkit.pdf
 summary: A toolkit developed by the Office of the Surgeon General provides information and exercises to slow the spread of health misinformation.
 featured: 
 ---
@@ -24,6 +24,7 @@ The Office of the Surgeon General developed a Health Misinformation Toolkit to e
 2. We want to protect the people we care about; 
 3. We may be seeking explanations or want to share information that helps us to make sense of events; and 
 4. We want to feel connected to others. 
+<br>
 The toolkit provides information and exercises to help people recognize false health information and also to effectively talk with others prone to spreading misinformation. Office of Evaluation Sciences experts supported the development of this toolkit through written feedback, cross-agency discussions, and team-wide review. 
 
 ## What did we learn?
@@ -35,7 +36,7 @@ The toolkit provides five tips for community leaders and individuals interested 
 4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages. on social media sites.
 5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/BIGuide-for-Improving-Payment-Integrity-final.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>   
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>   
 <br>
 <h3>Notes</h3>
 <p>1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.</p>
