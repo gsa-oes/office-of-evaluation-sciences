@@ -38,6 +38,6 @@ The toolkit provides five tips for community leaders and individuals interested 
 <div>
 <a class="usa-button" href="https://oes.gsa.gov/assets/publications/2120-health-misinformation-toolkit.pdf" target="_blank">Health Misinformation Toolkit (PDF)</a>
 <br><br>
-<i>The toolkit is available in other languages along with additional resources on <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit" target="_blank">HHS.gov</a>.*</i>
+<i>The toolkit is available in other languages along with additional resources on <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit" target="_blank">HHS.gov</a>.</i>
 <h3>Notes</h3>
 <p>1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.</p>
