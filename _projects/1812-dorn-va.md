@@ -1,5 +1,5 @@
 ---
-title:  Increasing flu vaccine uptake among Veterans at the Dorn VA Medical Center via a reminder postcard
+title:  Increasing Flu Vaccine Uptake Among Veterans at the Dorn VA Medical Center via a Reminder Postcard
 permalink: /collaborations/dorn-va-postcard-reminder/
 tags:
   - vaccines
