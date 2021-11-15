@@ -31,7 +31,7 @@ There were two main takeaways from the experiment. First, policymakers’ respon
 
 ### Notes
 1. 1 Pub. L. No. 115-435, 132 Stat. 5529 (2019), available at <a href="https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf">https://www.congress.gov/J l5/plaws/publ435/PLA W-l l 5publ435.pdf</a>.
-2. Office of Management and Budget. Evidence-Based Policymaking: Learning Agendas and Annual Evaluation Plans (2021), <a href=
+2. Office of Management and Budget. Evidence-Based Policymaking: Learning Agendas and Annual Evaluation Plans (2021), <a href="
 https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf">https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf.</a>
 3. Hsee, C., G. Loewenstein, S. Blount, and M. Bazerman. “Preference reversals between joint and separate evaluations of options: A review and theoretical analysis.” Psychological Bulletin 125 no. 5 (1999): 576-590.
 
