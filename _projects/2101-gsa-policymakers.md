@@ -8,10 +8,13 @@ image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.jpg
 analysis-plan: /assets/analysis/2101 - 3 - Analysis Plan - Final.pdf
 abstract: /assets/abstracts/2101-abstract-gsa-policymakers.pdf
 year: 2021
+type: Program Change and Evaluation
 domain: Government Operations
 status: Complete
 agency: General Services Administration
 summary: Decision aids can help policymakers incorporate evidence in program funding decisions. 
+featured: 
+- homepage
 ---
 
 ## What was the challenge? 
