@@ -25,4 +25,5 @@ OES worked with the Department of Education, the Small Business Administration, 
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf" target="_blank">Designing effective health communications</a>
 <br><br>
+<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery</a>
 
