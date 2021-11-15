@@ -11,7 +11,7 @@ summary: Check out our upcoming events and workshops.
 ## OES@100: Celebrating 100 Collaborations Across Government
 ### Tuesday, November 16, 2021, 1:00-2:30pm ET via Zoom
 ![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.png)
-OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. **A detailed agenda can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf">here</a>.**
+OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. **A detailed agenda can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf">here</a>.** The virtual packet for the event is <a href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf">available here</a>.
  - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
  - **Panel 2:** Portfolio of evidence on equity and economic recovery 
  - **Panel 3:** New frontier for evidence in government: what’s next?  <br>
