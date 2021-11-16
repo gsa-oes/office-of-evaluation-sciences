@@ -22,5 +22,5 @@ Projects in this portfolio have focused on improving access to economic and non-
 During COVID-19, OES worked with the Small Business Administration to evaluate the impact of relief funding disbursed by local governments, to identify barriers to getting this funding to businesses owned by members of historically underserved groups, and to evaluate methods to overcome those barriers. 
 
 ### Relevant OES Guides
-<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery</a>
+<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
 <br><br>
