@@ -18,12 +18,14 @@ The coronavirus (COVID-19) outbreak has caused both a public health and an econo
 ## Portfolio
 OES worked with the Department of Education, the Small Business Administration, the Department of Health and Human Services, and other agencies to provide evaluation support to assess the impact of COVID-19 policy responses, as well as to share relevant lessons learned from past evaluations on communicating about health behavior. 
 
-### Relevant OES Guides
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf" target="_blank">Using behavioral science to increase COVID-19 vaccination uptake</a>
+### Relevant OES Resources
+<a class="usa-button" href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf" target="_blank">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf" target="_blank">Encouraging COVID-19 prevention behaviors</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf" target="_blank">Encouraging COVID-19 prevention behaviors (PDF)</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf" target="_blank">Designing effective health communications</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf" target="_blank">Designing effective health communications (PDF)</a>
 <br><br>
-<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery</a>
+<a class="usa-button" href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">Blog: What are the best ways to encourage COVID-19 vaccination?</a>
+<br><br>
+<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
 <br><br>
