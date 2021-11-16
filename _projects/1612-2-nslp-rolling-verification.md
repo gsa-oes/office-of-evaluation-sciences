@@ -1,7 +1,9 @@
 ---
 title: National School Lunch Program Eligibility Verification
 permalink: /projects/nslp-rolling-verification/
-tags: project
+tags: 
+  - project
+  - payments
 image: /assets/img/project-images/school-lunch.jpg
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-2-nslp-rolling-verification.pdf
