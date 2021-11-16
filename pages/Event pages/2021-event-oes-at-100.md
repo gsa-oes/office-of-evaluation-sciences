@@ -24,9 +24,9 @@ The first panel reflected on what the Office of Evaluation Scineces (OES) has le
 ## What leads to a successful evaluation? Reflections from 100 OES collaborations 
 - **Pompa Debroy**, Strategy and Operations Lead, OES, GSA
 - **Michael Hand**, Portfolio Lead, OES, GSA
-- **Mary Clair Turner**, - Portfolio Lead, OES, GSA
-- **Elana Safran**, - Portfolio Lead, OES, GSA
-- **Jasper Cooper**, - Portfolio Lead, OES, GSA
+- **Mary Clair Turner**, Portfolio Lead, OES, GSA
+- **Elana Safran**, Portfolio Lead, OES, GSA
+- **Jasper Cooper**, Portfolio Lead, OES, GSA
 
 OES has completed 100 collaborations across government since 2015. Our evaluations have involved over 44 million individuals. During this session, OES shared the following reflections: 
 1. A program change and evaluation approach don’t have to be ideal to be valuable.
@@ -37,7 +37,7 @@ OES has completed 100 collaborations across government since 2015. Our evaluatio
 <a class="usa-button" href="http://oes.gsa.gov/assets/files/Reflections-from-100-OES-collaborations.pdf" target="_blank">Reflections from 100 OES Collaborations (PDF)</a><br>
 
 ## Portfolio of evidence on equity and economic recovery 
-- **Crystal Hall**,Academic Affiliate, OES, GSA; Associate Professor of Public Policy and Governance, University of Washington
+- **Crystal Hall**, Academic Affiliate, OES, GSA; Associate Professor of Public Policy and Governance, University of Washington
 - **Julia Brown**, Associate Fellow, OES, GSA; Doctoral Student, Department of Economics, University of Maryland<br>
 
 OES presented their <a href="https://oes.gsa.gov/small-business/" target="_blank">portfolio of evaluations with the Small Business Administration (SBA)</a>. These evaluations focused on how city governments distributed COVID-19 relief to small businesses and lessons learned in order to increase equal access to these resources. <br>
