@@ -14,9 +14,6 @@ project_tags:
 ## Background
 Payment integrity demonstrates stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time and is a top priority across the executive and legislative branches. <a href="https://www.paymentaccuracy.gov/about-payment-accuracy/"  target="_blank">Improper payments</a>, which constitute any “payment that should not have been made or that was made in an incorrect amount under statutory, contractual, administrative, or other legally applicable requirement,” totaled approximately <a href="https://www.paymentaccuracy.gov/payment-accuracy-the-numbers/" target="_blank">$206 billion</a> across all government agencies in FY 2020.  
 
-<a href="https://www.federalreserve.gov/econresdata/older-adults-survey/July-2013-Financial-Stress-and-Well-Being-of-Older-Adults.htm#SourcesOfFinancialStress-F2584C6A" target="_blank">Insufficient saving</a> puts pressure on Social Security benefits, burdens safety net programs, and creates financial stress.
-
-
 ## Portfolio
 OES has collaborated with the Social Security Administration (SSA), U.S. Department of Agriculture (USDA), the U.S. General Services Administration (GSA), the Internal Revenue Service (IRS), and the U.S. Chief Financial Officers Council to help agencies build and use evidence to improve payment integrity and reduce improper payments. 
 
