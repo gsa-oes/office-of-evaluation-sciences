@@ -14,6 +14,8 @@ The first panel reflected on what the Office of Evaluation Scineces (OES) has le
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/2021-event-OES@100-slide-deck.pdf" target="_blank">OES@100 Presentation Slides (PDF)</a>
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf" target="_blank">OES@100 Virtual Packet (PDF)</a>
+<br><br>
+<a class="usa-button" href="https://gsa.zoomgov.com/rec/share/Z-NsDeMGmRBi01TXPkBs07ZfkGUbT04ZrOnWCfAapuDlz-Z_z2mkmBiZnzL5DA1w.9Uoo4kk7b0czKhOD?startTime=1637085596000" target="_blank">Watch the Event Recording</a>
 
 ### Welcome and Introduction: 
  - **Robin Carnahan**, Administrator, General Services Administration
@@ -59,5 +61,3 @@ During this session, panelists discussed the increased focus on Evidence Act imp
 
 ### Closing Remarks
    - **Krystal Brumfield**, Associate Administrator, Office of Government-wide Policy, GSA
-
-  <iframe src="https://www.youtube.com/embed/iPzguLOo89Y" width="512" height="384"></iframe>
