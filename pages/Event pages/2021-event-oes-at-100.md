@@ -1,12 +1,13 @@
 ---
 layout: page
-title: OES@100 - Celebrating 100 Collaborations Across Government 
+title: OES@100
 permalink: /oes-at-100/
 image:
 image_full: 
 class:
 summary: 
 ---
+# Celebrating 100 Collaborations Across Government 
 ### November 16, 2021 
 The first panel reflected on what the Office of Evaluation Scineces (OES) has learned after 100 collaborations, using the results from panelists’ projects to illustrate what makes successful projects. The second panel discussed how OES and contributes to the portfolio of evidence on equity and economic recovery. Finally, the third panel considered what’s next for OES and evidence in government. **A detailed agenda and speaker biographies can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf" target="_blank">here</a>.** 
 
