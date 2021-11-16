@@ -13,13 +13,12 @@ The first panel reflected on what the Office of Evaluation Scineces (OES) has le
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf" target="_blank">OES@100 Presentation Slides (PDF)</a>
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf" target="_blank">OES@100 Virtual Packet (PDF)</a>
-<br><br>
 
 ### Welcome and Introduction: 
  - **Robin Carnahan**, Administrator, General Services Administration
  - **Kelly Bidwell**, Director, OES, General Services Administration
 
-### What leads to a successful evaluation? Reflections from 100 OES collaborations 
+## What leads to a successful evaluation? Reflections from 100 OES collaborations 
 - **Pompa Debroy**, Strategy and Operations Lead, OES, GSA
 - **Michael Hand**, Portfolio Lead, OES, GSA
 - **Mary Clair Turner**, - Portfolio Lead, OES, GSA
@@ -30,14 +29,15 @@ OES has completed 100 collaborations across government since 2015. Our evaluatio
 1. A program change and evaluation approach don’t have to be ideal to be valuable.
 2. Coupling randomized evaluations with administrative data let’s us learn things quickly, rigorously and at low-cost. 
 3. There’s more to sample size than counting the number of participants in a program.
-4. Being transparent about implementation — as well as results — has enormous value.
+4. Being transparent about implementation — as well as results — has enormous value.<br>
 <a class="usa-button" href="http://oes.gsa.gov/assets/files/Reflections-from-100-OES-collaborations.pdf" target="_blank">Reflections from 100 OES Collaborations (PDF)</a>
 
-### Portfolio of evidence on equity and economic recovery 
+## Portfolio of evidence on equity and economic recovery 
 - **Crystal Hall**,Academic Affiliate, OES, GSA; Associate Professor of Public Policy and Governance, University of Washington
-- **Julia Brown**, Associate Fellow, OES, GSA; Doctoral Student, Department of Economics, University of Maryland
+- **Julia Brown**, Associate Fellow, OES, GSA; Doctoral Student, Department of Economics, University of Maryland<br>
+
 OES presented their <a href="https://oes.gsa.gov/small-business/" target="_blank">portfolio of evaluations with the Small Business Administration (SBA)</a>. These evaluations focused on how city governments distributed COVID-19 relief to small businesses and lessons learned in order to increase equal access to these resources. <br>
-<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a><br>
+<a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity & Small Business Recovery (PDF)</a><br>
 
 This was followed by a panel discussion that included:
 - **Brittany Borg**, (Acting) Director of Program Performance, Analysis & Evaluation, SBA
@@ -46,7 +46,7 @@ This was followed by a panel discussion that included:
 - **Exodie Roe III**, Associate Administrator, Office of Small and Disadvantaged Business Utilization, GSA
 - **Andrea M. O’Neal**, Senior Advisor to the Administrator (Equity), GSA
 
-### New frontier for evidence in government - what’s next?
+## New frontier for evidence in government - what’s next?
 During this session, panelists discussed the increased focus on Evidence Act implementation through an equity lense.  
 - **David Yokum**, Director The Policy Lab, Brown University
 - **Cass Sunstein**, Senior Counselor, Department of Homeland Security
