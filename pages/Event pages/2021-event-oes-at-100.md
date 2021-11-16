@@ -38,6 +38,7 @@ OES has completed 100 collaborations across government since 2015. Our evaluatio
 - **Julia Brown**, Associate Fellow, OES, GSA; Doctoral Student, Department of Economics, University of Maryland<br>
 
 OES presented their <a href="https://oes.gsa.gov/small-business/" target="_blank">portfolio of evaluations with the Small Business Administration (SBA)</a>. These evaluations focused on how city governments distributed COVID-19 relief to small businesses and lessons learned in order to increase equal access to these resources. <br>
+
 <a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity & Small Business Recovery (PDF)</a><br>
 
 This was followed by a panel discussion that included:
