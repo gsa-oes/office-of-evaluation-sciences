@@ -1,7 +1,9 @@
 ---
 title: Industrial Funding Fee Reports Update
 permalink: /projects/iff-confirmation-prompt-update/
-tags: project
+tags: 
+  - project
+  - payments
 image: /assets/img/project-images/IFF.jpg
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-2-iff-confirmation-prompt-update.pdf
