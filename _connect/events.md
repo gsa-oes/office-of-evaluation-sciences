@@ -11,13 +11,14 @@ summary: Check out our upcoming events and workshops.
 ## OES@100: Celebrating 100 Collaborations Across Government
 ### Tuesday, November 16, 2021, 1:00-2:30pm ET via Zoom
 ![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.png)
-OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. **A detailed agenda can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf">here</a>.** The virtual packet for the event is <a href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf">available here</a>.
+OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. **A detailed agenda can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf">here</a>.** 
  - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
  - **Panel 2:** Portfolio of evidence on equity and economic recovery 
  - **Panel 3:** New frontier for evidence in government: what’s next?  <br>
 
 Join us! **<a href="https://feedback.gsa.gov/jfe/form/SV_7NVQzhfLxRrYITA" target="_blank">RSVP here</a>** and email any questions to <a href="mailto:oes@gsa.gov?subject=OES at 100 Event">oes@gsa.gov</a>.
-
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf" target="_blank">OES@100 Virtual Packet (PDF)</a>
+<br>
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> **A PDF of the FY2022 training schedule is <a href="http://oes.gsa.gov/assets/files/FY2022-training-calendar.pdf" target="_blank">available here.</a>**
 
