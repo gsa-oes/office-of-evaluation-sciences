@@ -47,17 +47,17 @@ OES presented their <a href="https://oes.gsa.gov/small-business/" target="_blank
 This was followed by a panel discussion that included:
 - **Brittany Borg**, (Acting) Director of Program Performance, Analysis & Evaluation, SBA
 - **Jason Bossie**, (Acting) Chief Financial Officer, SBA
-- **Clarence Wardell III**, White House Domestic Policy Council 
+- **Clarence Wardell III**, Chief Data and Equitable Delivery Officer, ARP Implementation team; Senior Advisor for Policy Implementation & Delivery, White House Domestic Policy Council 
 - **Exodie Roe III**, Associate Administrator, Office of Small and Disadvantaged Business Utilization, GSA
 - **Andrea M. O’Neal**, Senior Advisor to the Administrator (Equity), GSA
 
 ## New frontier for evidence in government - what’s next?
 During this session, panelists discussed the increased focus on Evidence Act implementation through an equity lense.  
-- **David Yokum**, Director The Policy Lab, Brown University
+- **David Yokum**, Director, The Policy Lab, Brown University
 - **Cass Sunstein**, Senior Counselor, Department of Homeland Security
 - **Christina Ciocca Eller**, Assistant Director of Evidence and Policy, White House Office of Science and Technology
 - **Pam Coleman**, Associate Director of Performance and Personnel Management, Office of Management and Budget
 - **Jeanne Holm**, Deputy Mayor, City of Los Angeles  
 
 ### Closing Remarks
-   - **Krystal Brumfield**, Associate Administrator, Office of Government-wide Policy, GSA
+   - **Krystal J. Brumfield**, Chief Acquisition Officer and Associate Administrator, Office of Government-wide Policy, GSA
