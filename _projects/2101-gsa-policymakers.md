@@ -30,9 +30,9 @@ In the evaluation, respondents reported their maximum willingness to pay for hyp
 There were two main takeaways from the experiment. First, policymakers’ responsiveness to program impact at baseline is low: When program impact increases by 100%, policymakers’ assessment of the value of the program increases by just 33%. Second, each of the two decision aids have large and statistically significant impacts on increasing responsiveness. These results identify decision aids that evaluators, policymakers, and researchers can use to more effectively disseminate the results of program evaluations.
 
 ### Notes
-1. 1 Pub. L. No. 115-435, 132 Stat. 5529 (2019), available at <a href="https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf">https://www.congress.gov/J l5/plaws/publ435/PLA W-l l 5publ435.pdf</a>.
+1. 1 Pub. L. No. 115-435, 132 Stat. 5529 (2019), available at <a href="https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf" target="_blank">https://www.congress.gov/J l5/plaws/publ435/PLA W-l l 5publ435.pdf</a>.
 2. Office of Management and Budget. Evidence-Based Policymaking: Learning Agendas and Annual Evaluation Plans (2021), <a href="
-https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf">https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf.</a>
+https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf" target="_blank">https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf.</a>
 3. Hsee, C., G. Loewenstein, S. Blount, and M. Bazerman. “Preference reversals between joint and separate evaluations of options: A review and theoretical analysis.” Psychological Bulletin 125 no. 5 (1999): 576-590.
 
-*To verify the upload date of this Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2101 - 3 - Analysis Plan - Final.pdf">click here</a>.*
+*To verify the upload date of this Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2101 - 3 - Analysis Plan - Final.pdf" target="_blank">click here</a>.*
