@@ -7,16 +7,15 @@ hide_image: true
 class:
 summary: Check out our upcoming events and workshops.
 ---
-# Upcoming OES Events
-## OES@100: Celebrating 100 Collaborations Across Government
+
+# Recent OES Events 
+## <a href="https://oes.gsa.gov/oes-at-100" target="_blank">OES@100: Celebrating 100 Collaborations Across Government</a>
 ### Tuesday, November 16, 2021, 1:00-2:30pm ET via Zoom
 ![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.png)
-OES celebrates completing 100 collaborations across government this year. Distinguished speakers will discuss insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. **A detailed agenda can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf">here</a>.** The virtual packet for the event is <a href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf">available here</a>.
+OES celebrated completing 100 collaborations across government this year. Distinguished speakers discussed insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. 
  - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
  - **Panel 2:** Portfolio of evidence on equity and economic recovery 
  - **Panel 3:** New frontier for evidence in government: what’s next?  <br>
-
-Join us! **<a href="https://feedback.gsa.gov/jfe/form/SV_7NVQzhfLxRrYITA" target="_blank">RSVP here</a>** and email any questions to <a href="mailto:oes@gsa.gov?subject=OES at 100 Event">oes@gsa.gov</a>.
 
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> **A PDF of the FY2022 training schedule is <a href="http://oes.gsa.gov/assets/files/FY2022-training-calendar.pdf" target="_blank">available here.</a>**
@@ -78,8 +77,7 @@ Hands-on practice in developing and using a logic model to inform evaluation act
 Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
 - December 8, 2020 from 10:00 am to 12:00 pm
 
-# Past OES Events 
-
+# Past OES Events
 ## What is the impact of applying behavioral insights in government? 
 ### Discussion of positive findings from a recent large-scale review
 Join OES in a discussion of the impact of behavioral insights in government. UC Berkeley’s Elizabeth Linos will present their <a href="https://www.nber.org/papers/w27594" target="_blank">findings from a massive review</a> of behavioral interventions in federal and local government. Members of the Office of Evaluation Sciences and the Behavioral Insights Team, along with federal experts, will share reactions and offer thoughts on next steps. 
@@ -93,3 +91,4 @@ In addition to discussing the findings in detail, the conversation will underlin
 ## <a href="https://oes.gsa.gov/2019annualevent" target="_blank">Using evidence: Learning from low-cost federal evidence building activities</a>
 The U.S. General Services Administration’s (GSA) Office of Evaluation Sciences (OES) and numerous agency collaborators presented on how the federal government uses low-cost evaluations, unexpected results, and administrative data to inform policy and program decisions. OES staff, collaborators from multiple agencies, and distinguished academic partners presented new results and lessons learned from over 10 OES evaluations in three sessions: Learning from Low-Cost Evaluations, Learning from Unexpected Results, and Learning from Administrative Data. All sessions included information and examples relevant to meeting the requirements of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act)
 - October 30, 2019 at GSA
+
