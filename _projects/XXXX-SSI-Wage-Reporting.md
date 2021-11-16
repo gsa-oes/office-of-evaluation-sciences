@@ -2,9 +2,9 @@
 title:  Encouraging Social Security Income Recipients to Self-Report Wage Changes
 permalink: /projects/ssi-wage-reporting/
 tags: 
-  - complete
   - project
   - cost savings
+  - payments
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
