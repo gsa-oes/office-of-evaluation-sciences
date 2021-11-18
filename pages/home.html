@@ -26,6 +26,14 @@ page.tagline and page.intro %}
   </section>
 {% endif %}
 
+<section class="background-medium">
+ <div class="usa-grid main-content">
+    <div class= "usa-grid" align="center">
+      <h1>Join the OES Team:<br><a href="https://oes.gsa.gov/opps/">Fellowship Applications Now Open</a></h1>
+   </div>
+ </div>
+   </section>
+
 <section class="usa-section background-tint">
   <div class="grid-container">
     <div class="usa-grid" align="left">
@@ -40,14 +48,6 @@ page.tagline and page.intro %}
     </div>
   </div>
 </section>
-
-<section class="background-medium">
- <div class="usa-grid main-content">
-    <div class= "usa-grid" align="center">
-      <h2>Join the OES Team:<br><a href="https://oes.gsa.gov/opps/">Fellowship Applications Now Open</a></h2>
-   </div>
- </div>
-   </section>
 
 {% assign featured_homepage = site.projects, site.collaborations | where: "featured", "homepage" | where: "status", "Complete" %}
 {% if featuredprojects.size == 0 %}
