@@ -10,6 +10,9 @@ summary: Read more about OES through media coverage or contact our press office.
 
 ## Selected Coverage of OES
 
+<a href="https://federalnewsnetwork.com/big-data/2021/11/agency-evaluation-offices-reviewing-equity-in-pandemic-spending-and-recovery/" target="_blank">Agency evaluation offices reviewing equity in pandemic spending and recovery</a>
+<br/><i>Federal News Network</i>, November 2021
+
 <a href="https://www.psychologicalscience.org/observer/fellow-notes-jan-feb21" target="_blank">From Academia to Government: A Whole New World</a>
 <br/><i>Observer</i> Magazine, January 2021
 
