@@ -34,4 +34,4 @@ Vendors were randomly assigned to use one of two options: 1) the existing report
 
 As a result of the evaluation, the median self-reported sales amount was $445 higher for vendors signing at the top of the form, translating into an extra $1.59 million in IFF paid to the government in a single quarter.
 
-*Update December 2021:* The abstract for this project was updated on December X, 2021 to include a retraction of a paper cited in the abstract. You can view the original abstract and verify our original upload date [here](https://github.com/gsa-oes/office-of-evaluation-sciences/blob/master/assets/abstracts/1514-Industrial-Funding-Fee-Reports.pdf).
+*Update December 2021:* The abstract for this project was updated on December 3, 2021 to include a retraction of a paper cited in the abstract. You can view the original abstract and verify our original upload date [here](https://github.com/gsa-oes/office-of-evaluation-sciences/blob/master/assets/abstracts/1514-Industrial-Funding-Fee-Reports.pdf).
