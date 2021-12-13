@@ -15,7 +15,6 @@ All fellowship positions will be remote and location flexible within the United 
 
 - <a href="https://oes.gsa.gov/assets/files/GSA_OES_Fellowship_SolicitationFY22.pdf">Fellowship Solicitation (PDF)</a> - deadline: 11:59pm ET on Monday, January 3, 2022
 - <a href="https://oes.gsa.gov/assets/files/GSA_OES_Fellowship_Federal_Detail_FY22.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Monday, January 3, 2022
-- <a href="https://oes.gsa.gov/assets/files/GSA OES - Design Fellowship Solicitation FY22.pdf">Design Fellow Solicitation (PDF)</a> - deadline: 11:59pm ET on Friday, December 10, 2021<br>
 
 <a class="usa-button" href="https://docs.google.com/forms/d/e/1FAIpQLScuFpfcpsxMaR6YHxzxGyriv2DCoUS4BxRr7RgNVLPd4BXQgA/viewform" target="_blank">Submit application here*</a><br>
 
@@ -29,10 +28,6 @@ Fellows and Associate Fellows join OES on loan from academic, non-profit or gove
 ## Federal Detail Opportunities
 Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from federal agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees and direct hires. We’ve also had Presidential Management Fellows join for a rotation. 
 
-## Design Fellow Details
-Design Fellows will serve at least a six-month term or detail, with interest and availability to serve additional years preferred. OES is looking to bring on an expert in human centered design methods to embed qualitative approaches into how we develop solutions. 
-
-Applicants may apply by emailing <a href="mailto:oes@gsa.gov?subject=Last Name, First Name, Design Fellow Application">oes@gsa.gov</a> with their resume and cover letter by **Friday, December 10 at 11:59pm ET**. A design portfolio link should be included in the resume, or attach a PDF that includes work samples. Finalists will be invited to an interview process that will include a design exercise, interviews and a presentation.
 <br>
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
