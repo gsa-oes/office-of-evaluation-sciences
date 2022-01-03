@@ -9,6 +9,9 @@ summary: Below are selected publications resulting from OES collaborations.
 ---
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners.
 
+## 2021
+Rekha Balu, Russell Burnett, Nuole Chen, Pompa Debroy, Rebecca A. Johnson, Heather Kappes, Jessica Leight, Saad B. Omer, Elana Safran, Mary Steffel, Mattie Toma, Kris-Stella Trump, and David Yokum. "Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations." *Behavioral Science & Policy*, Forthcoming, Available at SSRN: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610" target="_blank">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610</a>.
+- We discuss eight randomized evaluations intended to increase vaccination uptake conducted by the US General Services Administration’s Office of Evaluation Sciences (OES). Two studies yielded statistically significant increases, of 0.59 and 0.16 percentage points. The other six were not statistically significant, although the studies were powered to detect effect sizes in line with published research. This work highlights the likely effects of government communications and demonstrates the value of conducting rapid evaluations to support COVID-19 vaccination efforts.
 
 ## 2020
 Daniel D. Shephard, Crystal C. Hall, and Cait Lamberton. "<a href="https://journals.sagepub.com/doi/abs/10.3102/0013189X20981067" target="_blank">Increasing Identification of Homeless Students: An Experimental Evaluation of Increased Communication Incorporating Behavioral Insights.</a>" Educational Researcher, 50 (4), 239-248 (2020).
