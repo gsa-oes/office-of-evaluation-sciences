@@ -21,9 +21,6 @@ OES celebrated completing 100 collaborations across government this year. Distin
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> **A PDF of the FY2022 training schedule is <a href="http://oes.gsa.gov/assets/files/FY2022-training-calendar.pdf" target="_blank">available here.</a>**
 
 ## Upcoming Federal Workshops
-### Identifying Resources for Evaluation
-Explore ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource-limited environments.
-- Wednesday, December 15, 2021 from 3:00 to 4:30 pm ET
 
 ### Making the Case for Evaluation
 Highlights ways to demonstrate the value of evaluation to peers, leaders, and others in their agency
@@ -34,6 +31,10 @@ This workshop will dispel misconceptions about null results and highlight differ
 - Wednesday, February 16, 2022 from 3:00 to 4:30 pm ET
 
 ## Past Federal Workshops
+
+### Identifying Resources for Evaluation
+Explored ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource-limited environments.
+- Wednesday, December 15, 2021
 
 ### Evaluation Utilization: How to Promote Evaluation Use
 How Federal staff can support the dissemination and use of evaluation by colleagues across their agencies.
