@@ -3,6 +3,7 @@ name: Jessica Lasky-Fink
 image: /assets/img/team/lasky-fink.jpg
 year:
   - 2021
+  - 2022
 agency:
 home: University
 title: Associate Fellow
