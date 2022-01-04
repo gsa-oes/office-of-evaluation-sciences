@@ -3,6 +3,7 @@ name: Bhavya Mohan
 image: /assets/img/team/Mohan_Bhavya.jpg
 year:
   - 2021
+  - 2022
 home: University
 agency:
 title: Fellow
