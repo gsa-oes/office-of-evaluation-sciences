@@ -3,6 +3,7 @@ name: Syon Bhanot
 image: /assets/img/team/syon_bhanot.jpg
 year:
   - 2021
+  - 2022
 home: University
 agency:
   - Treasury
