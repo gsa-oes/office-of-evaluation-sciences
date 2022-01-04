@@ -3,6 +3,7 @@ name: Maya Duru
 image: /assets/img/team/maya-duru.png
 year:
   - 2021
+  - 2022
 agency:
 home: Non-profit
 title: Fellow
