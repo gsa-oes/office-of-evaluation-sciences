@@ -3,6 +3,7 @@ name: Aidan Hudson-Lapore
 image: /assets/img/team/aidan-hudson-lapore.png
 year:
   - 2021
+  - 2022
 home: University
 agency:
   - Commerce
