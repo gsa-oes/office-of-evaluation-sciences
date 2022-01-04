@@ -4,6 +4,7 @@ image: /assets/img/team/mattie-toma.png
 year:
   - 2020
   - 2021
+  - 2022
 home: University
 agency:
   - Small Business Administration
