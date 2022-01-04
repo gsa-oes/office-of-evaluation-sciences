@@ -4,6 +4,7 @@ image: /assets/img/team/heather-kappes.png
 year:
   - 2020
   - 2021
+  - 2022
 home: University
 agency:
   - Treasury
