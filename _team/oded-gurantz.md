@@ -3,6 +3,7 @@ name: Oded Gurantz
 image: /assets/img/team/oded-gurantz.png
 year:
   - 2021
+  - 2022
 home: University
 agency:
 title: Fellow
