@@ -4,6 +4,7 @@ image: /assets/img/team/elizabeth-bell.png
 year:
   - 2020
   - 2021
+  - 2022
 home: University
 agency:
   - General Services Administration
