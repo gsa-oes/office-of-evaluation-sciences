@@ -3,6 +3,7 @@ name: John Ternovski
 image: /assets/img/team/john-ternovski.png
 year:
   - 2021
+  - 2022
 agency:
 home: University
 title: Postdoctoral Fellow
