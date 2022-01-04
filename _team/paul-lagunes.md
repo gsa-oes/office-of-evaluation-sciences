@@ -3,6 +3,7 @@ name: Paul Lagunes
 image: /assets/img/team/paul-lagunes.jpg
 year:
   - 2021
+  - 2022
 agency:
 home: University
 title: Postdoctoral Fellow
