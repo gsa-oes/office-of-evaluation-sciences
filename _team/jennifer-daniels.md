@@ -3,6 +3,7 @@ name: Jennifer Daniels
 image: /assets/img/team/jennifer-daniels.png
 year:
   - 2021
+  - 2022
 home: University
 agency:
 title: Equity Fellow
