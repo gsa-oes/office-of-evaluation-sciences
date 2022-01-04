@@ -7,6 +7,7 @@ year:
   - 2019
   - 2020
   - 2021
+  - 2022
 agency:  
   - General Services Administration
   - Housing and Urban Development
