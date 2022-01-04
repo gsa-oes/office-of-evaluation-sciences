@@ -3,6 +3,7 @@ name: Michelangelo Landgrave
 image: /assets/img/team/michelangelo-landgrave.png
 year:
   - 2021
+  - 2022
 agency:
 home: University
 title: Associate Fellow
