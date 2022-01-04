@@ -3,6 +3,7 @@ name: Jessica Norton
 image: /assets/img/team/jessica-norton.png
 year:
   - 2021
+  - 2022
 home: University
 agency:
 title: Associate Fellow
