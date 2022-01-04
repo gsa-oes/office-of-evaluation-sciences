@@ -4,6 +4,7 @@ image: /assets/img/team/miles-williams.jpeg
 year:
   - 2020
   - 2021
+  - 2022
 home: University
 title: Associate Fellow
 status: Current
