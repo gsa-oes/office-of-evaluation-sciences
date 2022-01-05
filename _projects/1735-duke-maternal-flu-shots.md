@@ -1,5 +1,5 @@
 ---
-title:  Encouraging Flu Vaccine Uptake Among Pregnant Patients at Duke
+title:  Increasing Flu Shot Uptake Among Pregnant Women
 permalink: /projects/duke-maternal-flu-shots/
 tags:
   - project
