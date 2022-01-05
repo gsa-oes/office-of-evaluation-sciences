@@ -1,5 +1,5 @@
 ---
-title: Increasing Vaccine Uptake Among Seniors
+title: Increasing Vaccine Uptake Among Seniors in Louisiana
 permalink: /projects/increasing-vaccine-uptake-among-seniors/
 tags:
   - project
