@@ -62,9 +62,6 @@ We work with agency partners to design an evaluation to measure the impact of an
 {% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
-{% assign featured_designeval = site.collaborations | where: "featured" , "services" | where: "type", "Evaluation Design" %}
-{% if featuredprojects.size == 0 %}
-{% else %}
  <section class="usa-accordion featured bg-white padding-1">
   <h2 class="usa-accordion__heading">
     <button
@@ -78,7 +75,6 @@ We work with agency partners to design an evaluation to measure the impact of an
   <div id="a3" class="usa-accordion__content usa-prose">
       <div class="grid-row grid-gap-lg">
         {% for project in featured_design %}
-        {% for project in featured_designeval %}
           {% include project-card.html %}
 {% endfor %}
   </div>
