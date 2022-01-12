@@ -6,7 +6,7 @@ image: /assets/img/project-images/improper-payments.jpg
 hide_image: true
 image-credit: https://www.piqsels.com/en/public-domain-photo-sbixv 
 year: 2022
-summary: Applying behavioral insights to how agencies share and collect information can improve payment integrity and reduce improper payments.
+summary: Applying behavioral insights to how agencies share and collect information can improve payment integrity and reduce improper payments
 project_tags:
   - payments
 ---
