@@ -4,6 +4,7 @@ permalink: /collaborations/capital-projects-fund/
 tags:
   - collaborations
   - arp
+  - project
 image: /assets/img/project-images/othercollabs/2115A-CPF.jpg
 image-credit: https://www.flickr.com/photos/smemon/12695864505
 year: 2021
