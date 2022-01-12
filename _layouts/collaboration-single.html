@@ -27,6 +27,10 @@ class: page-collaborations-single
     <h3 class="h4">Domain</h3>
     <p>{{ page.domain }}</p>
   {% endif %}
+      {% if page.type %}
+    <h3 class="h4">Project Type</h3>
+    <p>{{ page.type }}</p>
+  {% endif %}
   {% if page.analysis-plan %}
   <h3 class="h4">Resources</h3>
     <a class="usa-button" href="{{ page.analysis-plan | prepend: site.baseurl }}" target="_blank">View Analysis Plan (PDF)</a>
