@@ -33,7 +33,7 @@ The toolkit provides five tips for community leaders and individuals interested 
 1. **Listen** to people’s fears and why they believe what they do.
 2. **Empathize** with the fact that there are often reasons why people find it difficult to trust certain sources of information.
 3. **Point to credible sources** who are not in a position to personally profit or to gain power or influence.
-4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages. on social media sites.
+4. **Don’t publicly shame** and have conversations one on one, either face to face or via direct messages on social media sites.
 5. **Use inclusive language** that makes it clear that you see yourself being impacted in the same way.
 <br>
 <div>
