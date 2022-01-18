@@ -5,8 +5,8 @@ tags:
   - collaborations
   - arp
   - project
-image: 
-image-credit: 
+image: /assets/img/project-images/othercollabs/2112A-SLFRF.jpg
+image-credit: https://www.dcpolicycenter.org/publications/federal-tax-bill-will-increase-district-revenue-no-windfall/
 year: 2021
 domain: Economic Opportunity
 agency: Treasury
