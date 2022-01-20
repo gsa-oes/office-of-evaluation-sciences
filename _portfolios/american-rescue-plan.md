@@ -22,6 +22,6 @@ OES team members will work closely with agency partners to design and implement 
 OES is collaborating with the Office of Management and Budget Evidence Team and the ARP Implementation Team, as well as the U.S. Department of Treasury, the Department of Education, and other agencies, to undertake a portfolio of evaluations with agency partners to better understand how to improve awareness, access, and allocation of ARP programs and resources, focusing on ARP programs with equity goals. This set of evaluations will be intentional and strategic in building evidence to understand the role of ARP programs and supported interventions in improving outcomes for historically underserved populations. 
 
 ### Relevant OES Resources
-<a class="usa-button" href="https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan" target="_blank">Blog: GSA to Build Evidence to Advance Equitable Outcomes through the American Rescue Plan</a>
+<a class="usa-button" href="https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan" target="_blank">Blog: GSA to Build Evidence to Advance Equitable Outcomes through the ARP</a>
 <br><br>
 
