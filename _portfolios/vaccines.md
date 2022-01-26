@@ -31,7 +31,7 @@ Together, results of these evaluations suggest that behaviorally-informed direct
 Starting in 2018, OES evaluations tested communications to providers rather than patients or intermediaries, with interventions including a <a href="https://oes.gsa.gov/projects/increasing-adult-vaccines-atlanta-va/" target="_blank">change to a hospital’s electronic health record (EHR)</a> vaccination bundling and clinical reminders.  Some of this work is ongoing. 
 
 In early 2021, OES developed lessons learned from the OES portfolio to inform the COVID-19 vaccination effort. <br><br>
-<a class="usa-button" href="{{site.baseurl}}/assets/publications/OES-vaccine-paper-2-page-summary.pdf" target="_blank">Read our 2-page summary (PDF)</a><br>
+<a class="usa-button" href="{{site.baseurl}}/assets/filess/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">Read our 3-page summary (PDF)</a><br>
 
 ### Relevant OES Resources
 <a class="usa-button" href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">Blog: What are the best ways to encourage COVID-19 vaccination?</a>
