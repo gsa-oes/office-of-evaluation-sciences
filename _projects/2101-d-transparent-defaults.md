@@ -2,8 +2,8 @@
 title:  Survey uptake decisions with transparent default choices
 permalink: /projects/transparent-defaults/
 tags: project  
-image:   
-image-credit: 
+image: /assets/img/project-images/2101.jpeg
+image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.jpg
 analysis-plan: 
 abstract: 
 year: 2021  
