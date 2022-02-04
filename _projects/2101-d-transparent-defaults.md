@@ -1,5 +1,5 @@
 ---
-title:  Survey uptake decisions with transparent default choices
+title:  Survey Uptake Decisions with Transparent Default Choices
 permalink: /projects/transparent-defaults/
 tags: project  
 image: /assets/img/project-images/2101.jpeg
