@@ -10,6 +10,9 @@ summary: Read more about OES through media coverage or contact our press office.
 
 ## Selected Coverage of OES
 
+<a href="https://www.govexec.com/management/2022/02/using-behavioral-science-one-way-increase-satisfaction-government-services/361330/" target="_blank">Using Behavioral Science is One Way to Increase Satisfaction With Government Services</a>
+<br/><i>Government Executive</i>, February 2022
+
 <a href="https://federalnewsnetwork.com/big-data/2021/11/agency-evaluation-offices-reviewing-equity-in-pandemic-spending-and-recovery/" target="_blank">Agency evaluation offices reviewing equity in pandemic spending and recovery</a>
 <br/><i>Federal News Network</i>, November 2021
 
@@ -38,13 +41,13 @@ summary: Read more about OES through media coverage or contact our press office.
 <br/><i>The Regulatory Review</i>, December 2019
 
 <a href="https://www.govexec.com/management/2019/10/why-agencies-need-tap-revolutionary-potential-behavioral-science/160524/" target="_blank">Why Agencies Need to Tap the Revolutionary Potential of Behavioral Science</a>
-<br/><i>GovExec</i>, October 2019
+<br/><i>Government Executive</i>, October 2019
 
 <a href="https://fcw.com/blogs/lectern/2019/09/kelman-nudge-gsa.aspx" target="_blank">Government steps out on ‘nudges’</a>
 <br/><i>FCW</i>, September 2019
 
 <a href="https://www.govexec.com/management/2019/08/after-federal-officials-sent-letters-over-prescribing-docs-prescriptions-fell-and-patient-safety-rose/159443/" target="_blank">After Federal Officials Sent Letters to Over-Prescribing Docs, Prescriptions Fell and Patient Safety Rose</a>
-<br/><i>GovExec</i>, August 2019
+<br/><i>Government Executive</i>, August 2019
 
 <a href="https://www.povertyactionlab.org/blog/8-22-19/j-pal-north-americas-us-health-care-delivery-initiative-six-reflections-after-six-years" target="_blank">J-PAL North America’s US Health Care Delivery Initiative: Six reflections after six years</a>
 <br/><i>The Abdul Latif Jameel Poverty Action Lab</i>, August 2019
