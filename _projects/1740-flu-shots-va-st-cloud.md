@@ -8,6 +8,7 @@ image: /assets/img/project-images/1740.jpg
 image-credit: https://www.va.gov/health/NewsFeatures/2013/August/Veterans-Are-Your-Immunizations-Current.asp
 analysis-plan: /assets/analysis/1740-flu-shots-va-st-cloud-analysis-plan.pdf
 abstract: /assets/abstracts/1740-flu-shots-va-st-cloud.pdf
+intervention: /assets/interventions/1740-St-Cloud-VA-Intervention-Pack.pdf
 year: 2018
 type: Program Change and Evaluation
 status: Complete
