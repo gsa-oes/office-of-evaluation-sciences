@@ -9,6 +9,7 @@ image-credit: http://www.freestockphotos.biz/stockphoto/15813
 analysis-plan: /assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf
 abstract: /assets/abstracts/1738-increasing-vaccine-uptake.pdf
 academic-pub: /assets/publications/1738-publication-postcards-increasing-vaccination-rates-among-elderly.pdf
+intervention: /assets/interventions/1738-Louisiana-DoH-postcards-intervention-pack.pdf
 year: 2018  
 type: Program Change and Evaluation
 status: Complete
