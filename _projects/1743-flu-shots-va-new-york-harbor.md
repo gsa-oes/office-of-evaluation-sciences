@@ -1,5 +1,5 @@
 ---
-title:  Increasing Flu Vaccine Uptake Among Veterans at the New York Harbor VA
+title:  Email sent via GovDelivery to Veterans enrolled with the VA New York Harbor
 permalink: /projects/flu-shots-va-new-york-harbor/
 tags:
   - project
