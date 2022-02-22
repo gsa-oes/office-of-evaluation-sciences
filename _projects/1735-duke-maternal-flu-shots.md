@@ -1,5 +1,5 @@
 ---
-title:  Testing Variations of Maternal Immunization Messages
+title:  Increasing Flu Shot Uptake Among Pregnant Women
 permalink: /projects/duke-maternal-flu-shots/
 tags:
   - project
