@@ -9,6 +9,7 @@ image-credit: https://www.cdc.gov/flu/pdf/freeresources/seniors/seniors-vaccinat
 analysis-plan: 
 abstract: /assets/abstracts/15xx-medicare-flu-vaccine-uptake-abstract.pdf
 academic-pub: /assets/publications/15xx - Yokum et al (2018) - Letters designed with behavioural science increase influenza vaccination in Medicare beneficiaries.pdf
+intervention: /assets/interventions/15xx-Medicare-Flu-Vaccine-Intervention-Pack.pdf
 year: 2015  
 type: Program Change and Evaluation
 status: Complete
