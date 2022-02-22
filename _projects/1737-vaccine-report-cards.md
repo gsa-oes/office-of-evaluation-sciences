@@ -9,6 +9,7 @@ image-credit: https://www.flickr.com/photos/pahowho/13383587795
 analysis-plan: /assets/analysis/1737-vaccine-report-cards-plan.pdf
 abstract: /assets/abstracts/1737-vaccine-report-cards.pdf
 academic-pub: /assets/publications/1737-academic-publication-immunization-report-cards-2019.pdf
+intervention: /assets/interventions/1737-Immunization-compliance-in-schools-Intervention-pack.pdf
 year: 2018 
 type: Program Change and Evaluation
 status: Complete
