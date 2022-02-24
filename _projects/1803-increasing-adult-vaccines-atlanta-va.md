@@ -9,6 +9,7 @@ image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-phot
 image-credit: https://www.army.mil/article/191935/increasing_patient_satisfaction_and_health_communication_through_relayhealth
 analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf
 abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
+intervention: /assets/interventions/1803-Atlanta-VA-Intervention-Pack.pdf
 year: 2019
 type: Program Change and Evaluation
 status: Complete
