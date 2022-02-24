@@ -34,7 +34,7 @@ An internal meta-analysis of the six evaluations that measured vaccination rates
 <a class="usa-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610" target="_blank">Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations (PDF)</a>
 <br><br>
 <p>
-<i>Footnotes</i>
-1. Approved by the National Vaccine Advisory Committee on September 17, 2019. (2020). 2020 National Vaccine Plan Development: Recommendations From the National Vaccine Advisory Committee. Public Health Reports, 135(2), 181-188.
+<i>Footnotes</i><br>
+1. Approved by the National Vaccine Advisory Committee on September 17, 2019. (2020). 2020 National Vaccine Plan Development: Recommendations From the National Vaccine Advisory Committee. Public Health Reports, 135(2), 181-188.<br>
 2. Centers for Disease Control and Prevention: <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total" target="_blank">https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total</a>
 </p>
