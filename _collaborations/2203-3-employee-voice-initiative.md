@@ -1,5 +1,5 @@
 ---
-title:  Federal Pulse Surveys - Employee Voice Initiative
+title:  Government-wide Pulse Survey
 permalink: /collaborations/employee-voice-initiative/
 tags:
   - collaborations
