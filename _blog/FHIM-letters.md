@@ -2,7 +2,7 @@
 layout: page	
 title: How much do low-cost, behaviorally informed letters increase health insurance enrollment? 
 permalink: /blog/fhim-letters/	
-image: /assets/img/project-images/1740.jpg
+image: /assets/img/project-images/enrollment2.jpg
 hide_image: true
 year: 2029
 class:	
