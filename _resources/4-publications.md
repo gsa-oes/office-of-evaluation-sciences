@@ -10,6 +10,10 @@ summary: Below are selected publications resulting from OES collaborations.
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners.
 
 ## 2021
+Andrew Feher, Daniel J. Hopkins, Elana Safran, Joshua Peck, and David Yokum. "<a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2789707" target="_blank">Effectiveness of Behaviorally Informed Letters on Health Insurance Marketplace Enrollment: A Randomized Clinical Trial</a>." *JAMA Health Forum*, 3(3):e220034 (2022). 
+- In this randomized clinical trial that included 744,510 individuals on the HealthCare.gov platform during the final 2 weeks of the 2015 open enrollment period, use of a single behaviorally informed letter caused a statistically significant increase in health insurance enrollment. Letters that used action language caused larger effects, particularly among Black and Hispanic individuals in Medicaid expansion states.
+
+
 Rekha Balu, Russell Burnett, Nuole Chen, Pompa Debroy, Rebecca A. Johnson, Heather Kappes, Jessica Leight, Saad B. Omer, Elana Safran, Mary Steffel, Mattie Toma, Kris-Stella Trump, and David Yokum. "Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations." *Behavioral Science & Policy*, Forthcoming, Available at SSRN: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610" target="_blank">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610</a>.
 - We discuss eight randomized evaluations intended to increase vaccination uptake conducted by the US General Services Administration’s Office of Evaluation Sciences (OES). Two studies yielded statistically significant increases, of 0.59 and 0.16 percentage points. The other six were not statistically significant, although the studies were powered to detect effect sizes in line with published research. This work highlights the likely effects of government communications and demonstrates the value of conducting rapid evaluations to support COVID-19 vaccination efforts.
 
