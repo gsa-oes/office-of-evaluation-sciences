@@ -1,6 +1,6 @@
 ---
 title:  Government-wide Pulse Survey
-permalink: /collaborations/employee-voice-initiative/
+permalink: /collaborations/government-wide-pulse-survey/
 tags:
   - collaborations
 image: /assets/img/project-images/othercollabs/2203-3-image.jpg
@@ -13,7 +13,7 @@ agency:
 summary: Pilot initiative informs government on how to best support the Federal workforce
 featured: 
 ---
-## What is the Employee Voice Initiative? 
+## What is the Government-wide Pulse Survey? 
 
 In October 2021, the federal government launched a pilot pulse survey initiative, which invites Federal employees to share their thoughts via 3-4 questions to help inform the Administration’s actions on how best to support the Federal workforce. This pilot is a collaborative effort of the President’s Management Council, together with the Office of Management and Budget, the Office of Personnel Management, and the General Services Administration. 
 
