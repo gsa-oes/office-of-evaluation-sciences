@@ -24,7 +24,7 @@ In total, the pilot initiative will include three pulse survey rounds, each appr
 The first pulse survey round, launched in October 2021, included two embedded experiments aimed at evaluating differences in response rate by (1) messenger, and (2) survey theme.
 
 ### Response rates by messenger
-In October 2021, civilian employees of the 24 CFO Act agencies received an email inviting them to participate in the first pulse survey of the Employee Voice Initiative. Prior to sending the email invitations, all employees were randomly assigned to receive an email:
+In October 2021, civilian employees of the 24 CFO Act agencies received an email inviting them to participate in the first pulse survey of the Government-wide Pulse Survey initiative. Prior to sending the email invitations, all employees were randomly assigned to receive an email:
 - Signed by the Deputy Director for Management at OMB, or
 - Signed by their agency’s President's Management Council representative.
  
