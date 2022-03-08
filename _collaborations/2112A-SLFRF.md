@@ -6,7 +6,7 @@ tags:
   - arp
   - project
 image: /assets/img/project-images/othercollabs/SLFRF.jpg
-image-credit: https://www.nga.org/wp-content/uploads/2021/09/broadband-main-teaser-720x600.jpg
+image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.jpg
 year: 2021
 domain: Economic Opportunity
 agency: Treasury
