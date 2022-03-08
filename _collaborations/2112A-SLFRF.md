@@ -6,7 +6,7 @@ tags:
   - arp
   - project
 image: /assets/img/project-images/othercollabs/SLFRF.jpg
-image-credit: https://www.dcpolicycenter.org/publications/federal-tax-bill-will-increase-district-revenue-no-windfall/
+image-credit: https://www.nga.org/wp-content/uploads/2021/09/broadband-main-teaser-720x600.jpg
 year: 2021
 domain: Economic Opportunity
 agency: Treasury
