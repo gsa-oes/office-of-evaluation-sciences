@@ -22,15 +22,23 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Upcoming Federal Workshops
 
-### Making the Case for Evaluation
-Highlights ways to demonstrate the value of evaluation to peers, leaders, and others in their agency
-- Wednesday, January 19, 2022 from 3:00 to 4:30 pm ET
+### Evaluation 101
+In partnership with the Office of Management and Budget’s Evidence Team, OES will offer Evaluation 101, an introduction to evaluation for Federal staff. This workshop serves as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
+- Wednesday, April 20, 2022
 
-### Understanding Null Results
-This workshop will dispel misconceptions about null results and highlight different uses for and lessons from null results.
-- Wednesday, February 16, 2022 from 3:00 to 4:30 pm ET
+### Creative Uses of Adminitrative Data
+Highlights creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
+- Wednesday, May 18, 2022
 
 ## Past Federal Workshops
+
+### Making the Case for Evaluation
+Highlighted ways to demonstrate the value of evaluation to peers, leaders, and others in their agency
+- Wednesday, January 19, 2022
+
+### Understanding Null Results
+This workshop dispelled misconceptions about null results and highlight different uses for and lessons from null results.
+- Wednesday, February 16, 2022
 
 ### Identifying Resources for Evaluation
 Explored ways that agencies have identified new or leveraged existing resources to support evaluation and build capacity in resource-limited environments.
@@ -65,18 +73,6 @@ In order to get what you need, you have to ask the right question! This workshop
 ### Cost Analysis in Evaluation
 Introduction to cost analysis: discuss the types of cost analysis used in evaluation and highlight how answering cost questions can inform policies and programs. 
 - April 6, 2021 from 2:00 to 3:30 pm
-
-### Evidence Act – Lessons from the First Two Years of Implementation
-Discuss agencies’ experiences and lessons learned from the first two years of implementation of the Evidence Act.
-- March 10, 2021 from 3:00 to 4:30 pm
-
-### Building Logic Models for Evaluation
-Hands-on practice in developing and using a logic model to inform evaluation activities. 
-- February 18, 2021 from 3:00 to 5:00 pm
-
-### Introduction to Quasi-Experimental Designs
-Introduction to impact evaluation designs, other than randomized controlled trials, to understand program impacts.
-- December 8, 2020 from 10:00 am to 12:00 pm
 
 # Past OES Events
 ## What is the impact of applying behavioral insights in government? 
