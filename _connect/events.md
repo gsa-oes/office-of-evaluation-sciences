@@ -28,7 +28,7 @@ In partnership with the Office of Management and Budget’s Evidence Team, OES w
 
 ### Creative Uses of Administrative Data
 Highlights creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
-- Wednesday, May 18, 2022
+- Wednesday, May 18, 2022 from 3:00 - 4:30 PM ET
 
 ## Past Federal Workshops
 
