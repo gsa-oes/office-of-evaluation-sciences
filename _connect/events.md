@@ -26,7 +26,7 @@ This training series is a continuing partnership between the Office of Managemen
 In partnership with the Office of Management and Budget’s Evidence Team, OES will offer Evaluation 101, an introduction to evaluation for Federal staff. This workshop serves as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - Wednesday, April 20, 2022 from 3:00 - 4:30 PM ET
 
-### Creative Uses of Adminitrative Data
+### Creative Uses of Administrative Data
 Highlights creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
 - Wednesday, May 18, 2022
 
