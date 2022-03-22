@@ -15,5 +15,5 @@ Evidence-based prescribing guidelines can help health care practitioners provide
 
 ## Portfolio
 
-Since 2014, OES has collaborated with The Center for Program Integrity (CPI) at the Centers for Medicare and Medicaid Services (CMS), the Department of Veterans Affairs (VA), and the Defense Health Agency (DHA) in the Department of Defense (DOD) to develop, implement, and test communications interventions to improve prescriber decision-making.
+Since 2014, OES has collaborated with The Center for Program Integrity (CPI) at the Centers for Medicare and Medicaid Services (CMS) and the Defense Health Agency (DHA) in the Department of Defense (DOD) to develop, implement, and test communications interventions to improve prescriber decision-making.
  
