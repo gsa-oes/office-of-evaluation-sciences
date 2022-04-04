@@ -10,7 +10,7 @@ summary: Check out our upcoming events and workshops.
 
 # Recent OES Events 
 ## <a href="{{ site.baseurl}}/oes-at-100" target="_blank">OES@100: Celebrating 100 Collaborations Across Government</a>
-### Tuesday, November 16, 2021, 1:00-2:30pm ET via Zoom
+### Tuesday, November 16, 2021
 ![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.png)
 OES celebrated completing 100 collaborations across government this year. Distinguished speakers discussed insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. 
  - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
