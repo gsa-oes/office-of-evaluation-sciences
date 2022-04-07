@@ -10,9 +10,6 @@ summary: Read more about OES through media coverage or contact our press office.
 
 ## Selected Coverage of OES
 
-<a href="https://blogs.worldbank.org/impactevaluations/how-sensitive-are-policymakers-impact?CID=WBW_AL_BlogNotification_EN_EXT?cid=SHR_BlogSiteShare_EN_EXT" target="_blank">How sensitive are policymakers to impact?</a>
-<br/><i>Development Impact</i> by the World Bank, March 2022
-
 <a href="https://www.govexec.com/management/2022/02/using-behavioral-science-one-way-increase-satisfaction-government-services/361330/" target="_blank">Using Behavioral Science is One Way to Increase Satisfaction With Government Services</a>
 <br/><i>Government Executive</i>, February 2022
 
