@@ -4,8 +4,8 @@ permalink: /projects/slfrf-reporting/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/othercollabs/SLFRF.jpg
-image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.jpg
+image: /assets/img/project-images/slfrf-town.jpg
+image-credit: https://pixabay.com/photos/gadsden-alabama-small-towns-1616084/
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF
 abstract: 
 year: 2022 
