@@ -1,5 +1,5 @@
 ---
-title:  Increasing Local Government Compliance with Reporting Requirements for the State and Local Fiscal Recovery Funds
+title:  Increasing Timely Reporting for the State and Local Fiscal Recovery Funds through Peer Comparisons and Encouragements
 permalink: /projects/slfrf-reporting/
 tags: 
  - project
