@@ -35,5 +35,5 @@ The results suggest that the text reminders led to an increase in clinic visits,
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1811-Mozambique-SMS-v2.pdf">click here</a>.</i>
 
-*Related Publication*
+### Related Publication
 Jessica Leight, Catherine Hensley, Marcos Chissano, Elana Safran, Liza Ali, Domingos Dustan, and Julian Jamison. "<a href="https://gh.bmj.com/content/7/4/e007862" target="_blank">The effects of text reminders on the use of family planning services: evidence from a randomised controlled trial in urban Mozambique</a>." BMJ Global Health 7:e007862 (2022).
