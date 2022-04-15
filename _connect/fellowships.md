@@ -13,7 +13,7 @@ We are excited to announce that the GSA Office of Evaluation Sciences (OES) is c
  
 **Data Scientist Position Details**: The Data Scientist will join a small team of experts in the design and statistical analysis of randomized and quasi-experimental evaluations. The Data Scientist will directly support high priority evaluations and descriptive studies, cleaning, coding, merging and analyzing large and complex federal data.
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Solicitation-FY22-Methods-Team-Data-Scientist-April.pdf" target="_blank">View Solicitation</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Position-Description-FY22-Methods-Team-Data-Scientist-April.pdf" target="_blank">View Solicitation</a>
 <br><br>
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
