@@ -8,12 +8,12 @@ class:
 summary: 
 ---
 
-## Data Analyst Position
-We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for a Data Analyst position, beginning September 2022. Applicants may apply by emailing <a href="mailto:oes@gsa.gov?subject=Data Analyst Application">oes@gsa.gov</a> with their resume and cover letter by **May 8, 2022 at 11:59pm ET**.
+## Data Scientist Position
+We are excited to announce that the GSA Office of Evaluation Sciences (OES) is currently accepting applications for a Data Scientist position, beginning September 2022. Applicants may apply by emailing <a href="mailto:oes@gsa.gov?subject=Data Scientist Application">oes@gsa.gov</a> with their resume and cover letter by **May 8, 2022 at 11:59pm ET**.
  
-**Data Analyst Position Details**: The Data Analyst will join a small team of experts in the design and statistical analysis of randomized and quasi-experimental evaluations. The Data Analyst will directly support high priority evaluations and descriptive studies, cleaning, coding, merging and analyzing large and complex federal data.
+**Data Scientist Position Details**: The Data Scientist will join a small team of experts in the design and statistical analysis of randomized and quasi-experimental evaluations. The Data Scientist will directly support high priority evaluations and descriptive studies, cleaning, coding, merging and analyzing large and complex federal data.
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Solicitation-FY22-Methods-Team-Data-Analyst-April.pdf" target="_blank">View Solicitation</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Solicitation-FY22-Methods-Team-Data-Scientist-April.pdf" target="_blank">View Solicitation</a>
 <br><br>
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
