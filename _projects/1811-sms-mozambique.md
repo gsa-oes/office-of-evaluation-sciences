@@ -9,6 +9,7 @@ image-credit:
 analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
 intervention: /assets/interventions/1811 - Intervention Pack .pdf
 abstract: /assets/abstracts/1811 - Project Abstract.pdf
+academic-pub: /assets/publications/1811-The effects of text reminders on the use of family planning services- evidence from a randomised controlled trial in Mozambique.pdf
 year: 2021
 type: Program Change and Evaluation
 status: Complete
