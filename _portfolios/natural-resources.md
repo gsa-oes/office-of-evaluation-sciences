@@ -5,7 +5,7 @@ permalink: /natural-resources/
 image: /assets/img/project-images/1903.jpg  
 hide_image: true
 image-credit: https://www.flickr.com/photos/160831427@N06/46168230601/in/photolist-2dkJftT
-year: 2023
+year: 2024
 summary: Evidence-based interventions to increase environmental protection
 project_tags:
   - resources
