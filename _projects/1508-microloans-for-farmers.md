@@ -4,6 +4,7 @@ permalink: /projects/microloans-for-farmers-1/
 tags: 
   - project
   - business
+  - resources
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
