@@ -1,0 +1,21 @@
+---
+title:  Encouraging Early Signup Through Action Summaries for the State and Local Fiscal Recovery Funds
+permalink: /projects/slfrf-early-signup/
+tags: 
+ - project
+ - arp
+image: /assets/img/project-images/othercollabs/SLFRF.jpg
+image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.jpg
+analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
+abstract: 
+year: 2022 
+domain: Economic Opportunity
+agency: Treasury
+status: Ongoing
+summary: Analysis Plan Registration
+---
+This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf">here</a>. 
+
+Check back for results!
