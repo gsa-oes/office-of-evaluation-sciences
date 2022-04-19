@@ -1,11 +1,11 @@
 ---
-title:  Encouraging Early Signup Through Action Summaries for the State and Local Fiscal Recovery Funds
+title:  Increasing Timely Reporting by Local Governments through Action Summaries
 permalink: /projects/slfrf-early-signup/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/othercollabs/SLFRF.jpg
-image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.jpg
+image: /assets/img/project-images/othercollabs/SLFRF-2112D.jpg
+image-credit: https://images.app.goo.gl/gbHDshzV56D8TXd76
 analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
 abstract: 
 year: 2022 
