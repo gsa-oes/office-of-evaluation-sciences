@@ -1,5 +1,5 @@
 ---
-title:  Increasing Timely Reporting for the State and Local Fiscal Recovery Funds through Peer Comparisons and Encouragements
+title:  Increasing Timely Reporting by Local Governments through Peer Comparisons and Encouragements
 permalink: /projects/slfrf-reporting/
 tags: 
  - project
