@@ -3,6 +3,7 @@ title: Supporting NOAA’s Equity Assessment Teams
 permalink: /collaborations/noaa-equity-assessment/
 tags:
   - collaborations
+  - resources
   - climate
 image: /assets/img/project-images/othercollabs/noaa.png
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949
