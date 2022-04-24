@@ -8,9 +8,11 @@ tags:
 image: /assets/img/project-images/othercollabs/SLFRF.jpg
 image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.jpg
 year: 2021
+type: Evaluation Design
 domain: Economic Opportunity
 agency: Treasury
 summary: Working with the Department of the Treasury to design evaluations of a fiscal transfer program
+featured: services
 ---
 ## What was the challenge? 
 
