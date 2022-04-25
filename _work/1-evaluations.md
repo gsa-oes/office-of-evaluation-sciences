@@ -27,7 +27,7 @@ filter_button_message: By year completed, status, project type, domain, and agen
 
 <p>Because results from OES evaluations impact the lives of millions of Americans, the quality of our work is of paramount importance. We follow the <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}" target="_blank">OES Evaluation Policy (PDF)</a> and six steps to ensure our findings are relevant and reliable.</p>
 
-<img src="{{ '/assets/img/oes-process-line.png' | prepend: site.baseurl }}" alt="" width="1500">
+<img src="{{ '/assets/img/oes-process-line.png' | prepend: site.baseurl }}" alt="1. Partner with Federal Agencies to target priority outcomes. 2. Translate behavioral insights into concrete recommendations. 3. Embed evaluations. 4. Analyze results using existing administrative data. 5. Ensure our work meets evaluation best practice. 6. Mesure impact and generate evidence to continiously improve." width="1500">
 
 <!-- begin visually hidden alt text for oes-process-line.png -->
 <div class="usa-sr-only">
