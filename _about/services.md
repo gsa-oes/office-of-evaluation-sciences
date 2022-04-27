@@ -59,7 +59,8 @@ We work with agency partners to design and conduct an evaluation to measure the 
 {% endif %}
 <h2>Provide technical assistance on evaluation design</h2>
 We work with agency partners to design an evaluation to measure the impact of an existing program or an evidence-based program change.
-{% assign featured_design = site.projects , site.collaborations | where: "featured" , "services" | where: "type", "Evaluation Design" %}
+{% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
+   {% assign sorted_collaborations = site.collaborations | where: "featured" , "services" | where: "type", "Evaluation Design" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
  <section class="usa-accordion featured bg-white padding-1">
