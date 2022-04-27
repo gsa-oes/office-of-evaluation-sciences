@@ -6,7 +6,7 @@ tags:
  - arp
 image: /assets/img/project-images/slfrf-town.jpg
 image-credit: https://pixabay.com/photos/gadsden-alabama-small-towns-1616084/
-analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF
+analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: 
 year: 2022 
 domain: Economic Opportunity
