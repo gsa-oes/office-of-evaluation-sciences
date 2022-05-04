@@ -38,6 +38,9 @@ Prior to the first pulse round, all employees were also randomly assigned to one
 We evaluated differences in survey response rates by theme in the five days after sending the initial email invitation. This analysis was also conducted for 23 of the 24 agencies (N = 1,320,587) included in the sample. Overall, 16.0% of invited employees responded to the reentry survey, compared to 15.3% for the engagement survey, and 13.9% for the equity and inclusion survey. These differences in response rate are all statistically significant (F = 399.92, p < .001). 
 
 This analysis focuses on response in the first five days following the initial email invitation. Since the survey was open for nine days, however, the final response rates are higher (<a href="https://d2d.gsa.gov/report/government-wide-pulse-survey-pilot" target="_blank">see more here</a>). Nevertheless, the overall trends in response by survey theme remain the same.
+<br>
+<a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2203-3-analysis-plan.pdf" target="_blank">Pulse Survey 1 Analysis Plan</a>
+<br><br>
 
 ## Pulse 2 Survey Experiment Results
 The second pulse survey, launched in February 2022, included an embedded experiment in the reentry survey. All employees who were randomly assigned to the reentry survey theme prior to pulse 1 again received an invitation to complete the reentry survey in pulse 2. Like the first pulse survey, the second pulse also included three questions, although questions differed between the two rounds. 
@@ -48,6 +51,13 @@ Everyone who started the reentry survey in the second pulse round was randomly a
 
 Both questions were measured on a five-point scale from “strongly disagree” to “strongly agree.” We evaluated differences in agreement between the two questions among 126,540 respondents who answered one of the two questions. We found that, on average, respondents were more likely to express that they would take a job with more pay/benefits than one with more flexibility. Average agreement with "I would take another job with more flexibility/remote options" was 3.56 on a five-point scale. In comparison, average agreement with "I would take another job with better pay/benefits" was 3.70 on a five-point scale. This difference of 0.14 pp is statistically significant (p < .001; 95% CI [-0.15, -0.12]).
 
+<br>
+<a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2203-3-analysis-plan-pulse-2.pdf" target="_blank">Pulse Survey 2 Analysis Plan</a>
+<br><br>
+
 ## Pulse 3 Survey Experiment Results
 *Forthcoming*
+<br>
+<a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2203-3-analysis-plan-pulse-3.pdf" target="_blank">Pulse Survey 3 Analysis Plan</a>
+<br><br>
 
