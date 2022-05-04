@@ -57,6 +57,6 @@ Both questions were measured on a five-point scale from “strongly disagree” 
 <br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2203-3-analysis-plan-pulse-3.pdf" target="_blank">Pulse Survey 3 Analysis Plan</a>
 <br>
-*Forthcoming*
+*Results forthcoming*
 
 
