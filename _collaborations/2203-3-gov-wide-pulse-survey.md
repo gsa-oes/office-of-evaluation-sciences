@@ -50,7 +50,6 @@ Everyone who started the reentry survey in the second pulse round was randomly a
 2. If I found a job elsewhere with more pay or better benefits, I would take it.
 
 Both questions were measured on a five-point scale from “strongly disagree” to “strongly agree.” We evaluated differences in agreement between the two questions among 126,540 respondents who answered one of the two questions. We found that, on average, respondents were more likely to express that they would take a job with more pay/benefits than one with more flexibility. Average agreement with "I would take another job with more flexibility/remote options" was 3.56 on a five-point scale. In comparison, average agreement with "I would take another job with better pay/benefits" was 3.70 on a five-point scale. This difference of 0.14 pp is statistically significant (p < .001; 95% CI [-0.15, -0.12]).
-
 <br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2203-3-analysis-plan-pulse-2.pdf" target="_blank">Pulse Survey 2 Analysis Plan</a>
 <br><br>
