@@ -31,7 +31,7 @@ OES used existing administrative data from the VA electronic health records to c
 The treatment increased the likelihood that a patient would return unused opioid pills by 7.0 percentage points over a baseline of 24.8% in the control group (p = 0.043, 95% CI [-0.98, 15.01]). The treatment also increased the average number of unused opioid pills returned by 1.08 (p = 0.014, 95% CI [0.11, 2.04]) on a baseline of 2.08 pills, including patients who did not return any pills. The treatment did not have any statistically significant impact on the time from surgery
 to pill return.
 
-<img src="{{ '/assets/img//project-images/1804-graph.png' | prepend: site.baseurl }}" alt="The Y axis title is Pill Return Likelihood (90% Confidence Interval) on a scale of 0 to 1.00. The X axis shows the control and treatment groups in a bar chart. The control group returned pills at 0.248 percentage points. The treatment group returned pills at 0.318 percentage points, which has one star of statistical significance.">
+<img src="{{ '/assets/img//project-images/1804-graph.png' | prepend: site.baseurl }}" alt="The Y axis title is Pill Return Likelihood (90% Confidence Interval) on a scale of 0 to 1.00. The X axis shows the control and treatment groups in a bar chart. The control group returned pills at 0.248 percentage points. The treatment group returned pills at 0.318 percentage points, which has one star of statistical significance at the 90th percentile.">
 *Figure 2: Treatments increase the likelihood that patients return unused pills by 7.0 percentage points.*
 
 ## Build Evidence
