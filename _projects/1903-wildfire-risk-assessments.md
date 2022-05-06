@@ -15,7 +15,6 @@ status: Complete
 domain: Communications
 agency: Agriculture
 summary: Letters mailed to property owners increased requests for on-site wildfire risk assessments in Montana.
-featured: services
 ---
 ## What was the challenge?
 
