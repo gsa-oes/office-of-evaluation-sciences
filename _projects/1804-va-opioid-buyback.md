@@ -33,7 +33,7 @@ Patients in a treatment condition received the cards in addition to the standard
 ## What was the impact?
 The intervention increased the likelihood that a patient would return unused pills by 7.0 percentage points over a baseline of 24.8% in the control group (p = 0.043).
 
-<img src="{{ '/assets/img//project-images/1804-graph.png' | prepend: site.baseurl }}" alt="The Y axis title is Pill Return Likelihood (90% Confidence Interval) on a scale of 0 to 1.00. The X axis shows the control and treatment groups in a bar chart. The control group returned pills at 0.248 percentage points. The treatment group returned pills at 0.318 percentage points, which has one star of statistical significance.">
+<img src="{{ '/assets/img//project-images/1804-graph.png' | prepend: site.baseurl }}" alt="The Y axis title is Pill Return Likelihood (90% Confidence Interval) on a scale of 0 to 1.00. The X axis shows the control and treatment groups in a bar chart. The control group returned pills at 0.248 percentage points. The treatment group returned pills at 0.318 percentage points, which has one star of statistical significance at the 90th percentile.">
 *Figure 2: Treatments increase the likelihood that patients return unused pills by 7.0 percentage points.*
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">click here</a>. 
