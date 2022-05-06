@@ -1,8 +1,6 @@
 ---
 title:  Enhancing the Effect of Cash Buyback on Return of Unused Opioid Pills
-
 permalink: /results/opioid-buyback/
-layout: abstract
 tags: 
   - abstract
 image: /assets/img/project-images/1804.png
