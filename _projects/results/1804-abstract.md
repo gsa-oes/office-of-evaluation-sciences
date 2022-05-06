@@ -1,8 +1,10 @@
 ---
 title:  Enhancing the Effect of Cash Buyback on Return of Unused Opioid Pills
+
 permalink: /results/opioid-buyback/
+layout: abstract
 tags: 
-  - project
+  - abstract
 image: /assets/img/project-images/1804.png
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
 abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
