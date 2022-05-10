@@ -1,5 +1,5 @@
 ---
-title:  Reducing Inappropriate Prescribing and Co-Prescribing Behaviors: A Retrospective Analysis
+title:  Reducing Inappropriate Prescribing and Co-Prescribing Behaviors - A Retrospective Analysis
 permalink: /projects/opioid-retrospective-analysis/
 tags: 
   - project 
