@@ -5,7 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2112F-image.jpg
-image-credit: https://curs.unc.edu/wp-content/uploads/sites/400/2020/09/Jennings-Play-Street-New-York300.jpg&imgrefurl=https://curs.unc.edu/2020/09/16/viewpoints-on-resilient-equitable-responses-to-the-pandemic-tab-combs-shifting-streets/&tbnid=8FrAGedOWQuPBM&vet=1&docid=4WlbypE_2Xjz5M&w=300&h=200&hl=en&source=sh/x/im
+image-credit: https://curs.unc.edu/wp-content/uploads/sites/400/2020/09/Jennings-Play-Street-New-York300.jpg
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: 
 year: 2022 
