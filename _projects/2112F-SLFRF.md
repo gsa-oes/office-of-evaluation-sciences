@@ -1,6 +1,6 @@
 ---
 title:  Increasing Timely Reporting by Local Governments through Reminders
-permalink: /projects/slfrf-reporting/
+permalink: /projects/slfrf-reminders/
 tags: 
  - project
  - arp
