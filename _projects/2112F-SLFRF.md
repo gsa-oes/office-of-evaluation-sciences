@@ -5,7 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2112F-image.jpg
-image-credit: https://curs.unc.edu/wp-content/uploads/sites/400/2020/09/Jennings-Play-Street-New-York300.jpg
+image-credit: https://www.streetlab.org/wp-content/uploads/sites/1/nggallery/20212020_flushingmeadowspark_highlights/08_2020-10-21-151736_flushingmeadowspark_1080px.jpg
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: 
 year: 2022 
