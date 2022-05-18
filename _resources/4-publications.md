@@ -10,7 +10,7 @@ summary: Below are selected publications resulting from OES collaborations.
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners.
 
 ## 2022
-Allyson Root, Christopher Connolly, Season Majors, Hassan Ahmed, and Mattie Toma. "<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac069/6587354?login=true" target="_blank">Electronic blood glucose monitoring impacts on provider and patient behavior</a>." Journal of the American Medical Informatics Association, ocac069 (2022).
+Allyson Root, Christopher Connolly, Season Majors, Hassan Ahmed, and Mattie Toma. "<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac069/6587354?login=true" target="_blank">Electronic blood glucose monitoring impacts on provider and patient behavior</a>." *Journal of the American Medical Informatics Association*, ocac069 (2022).
 
 Jessica Leight, Catherine Hensly, Marcos Chissano, Elana Safran, Liza Ali, Domingos Dustan, and Julian Jamison. "<a href="https://gh.bmj.com/content/7/4/e007862" target="_blank">The effects of text reminders on the use of family planning services: evidence from a randomised controlled trial in urban Mozambique</a>." *BMJ Global Health* 7:e007862 (2022).
 - The evaluation enrolled 5,370 women in 2020 who received a clinic referral for family planning services. Evidence from this trial suggests that text message reminders are a promising nudge that increases the probability that women receive contraception.
