@@ -6,7 +6,7 @@ image: /assets/img/project-images/arp-portfolio.jpg
 hide_image: true
 image-credit: https://www.flickr.com/photos/toby_d1/4273541069
 year: 2023
-summary: Learning what works to support equitable delivery of the American Rescue Plan.
+summary: Learning what works to support equitable delivery of the American Rescue Plan
 project_tags:
   - arp
 ---
