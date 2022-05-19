@@ -11,13 +11,11 @@ summary: Check out our upcoming events and workshops.
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> **A PDF of the FY2022 training schedule is <a href="http://oes.gsa.gov/assets/files/FY2022-training-calendar.pdf" target="_blank">available here.</a>**
 
-## Upcoming Federal Workshops
+## Past Federal Workshops
 
 ### Creative Uses of Administrative Data
 Highlights creative and innovative ways that agencies have used administrative data to conduct evaluations and build evidence.
-- Wednesday, May 18, 2022 from 3:00 - 4:30 PM ET
-
-## Past Federal Workshops
+- Wednesday, May 18, 2022
 
 ### Evaluation 101
 In partnership with the Office of Management and Budget’s Evidence Team, OES offered Evaluation 101, an introduction to evaluation for Federal staff. This workshop served as an introduction to evaluation as a method to answer important questions, including what evaluation is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
