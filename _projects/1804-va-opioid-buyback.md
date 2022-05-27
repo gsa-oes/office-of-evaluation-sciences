@@ -7,6 +7,7 @@ image: /assets/img/project-images/1804.png
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
+intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
 year: 2022
 type: Program Change and Evaluation
 status: Complete
@@ -35,5 +36,10 @@ The intervention increased the likelihood that a patient would return unused pil
 
 <img src="{{ '/assets/img/project-images/1804-graph.png' | prepend: site.baseurl }}" alt="The Y axis title is Pill Return Likelihood (90% Confidence Interval) on a scale of 0 to 1.00. The X axis shows the control and treatment groups in a bar chart. The control group returned pills at 0.248 percentage points. The treatment group returned pills at 0.318 percentage points, which has one star of statistical significance at the 90th percentile." width="1500">
 *Figure 2: Treatments increase the likelihood that patients return unused pills by 7.0 percentage points.*
+
+Additional cost effectiveness analysis indicated that the reminder cards **reduced the cost per pill returned**.
+- When using reminder cards, the cost per pill returned was $12.57.
+- When no reminder cards were used, the cost per pill returned was $15.66.
+Read more on the cost analysis in this *blog post*.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">click here</a>. 
