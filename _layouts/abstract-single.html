@@ -1,0 +1,22 @@
+---
+layout: abstract
+class: abstract-single
+---
+<div class="image-credit">
+  {% if page.image-credit %}
+  <p><a href="{{ page.image-credit }}" target="_blank">Photo credit</a></p>
+  {% endif %}
+</div>
+
+<div class="grid-row grid-gap-lg">
+  <div class="tablet:grid-col-8">
+    <div class="usa-prose">
+      {{ content }}
+    </div>
+  </div>
+  <div class="tablet:grid-col single-sidebar">
+  {% if page.abstract %}
+    <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}" target="_blank">View Abstract (PDF)</a>
+  {% endif %}
+  </div>
+</div>
