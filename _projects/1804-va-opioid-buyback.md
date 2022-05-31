@@ -40,6 +40,5 @@ The intervention increased the likelihood that a patient would return unused pil
 Additional cost effectiveness analysis indicated that the reminder cards **reduced the cost per pill returned**.
 - When using reminder cards, the cost per pill returned was $12.57.
 - When no reminder cards were used, the cost per pill returned was $15.66.
-Read more on the cost analysis in this *blog post*.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">click here</a>. 
