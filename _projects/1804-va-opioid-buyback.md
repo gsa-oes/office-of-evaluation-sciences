@@ -6,7 +6,7 @@ tags:
 image: /assets/img/project-images/1804.png
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
-abstract: /results/opioid-buyback/
+abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
 year: 2022
 type: Program Change and Evaluation
