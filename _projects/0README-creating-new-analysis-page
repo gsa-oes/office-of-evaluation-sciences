@@ -1,7 +1,6 @@
 Steps to create a new project page for an analysis plan and post to the website:
 
-TO CREATE A PAGE PREVIEW FOR YOUR ANALYSIS PLAN
-1) In the _projects folder, click "create new file" in the uper right corner
+1) In the _projects folder, click "create new file" in the upper right corner
 2) Once the new page opens, in the text box after "/assets/_projects/", type in:
   - the project number (all four digits), followed by a dash
   - a shorthand project title, with any words separated by dashes (not spaces)
@@ -16,10 +15,9 @@ TO CREATE A PAGE PREVIEW FOR YOUR ANALYSIS PLAN
    where the analysis plan file name is the same path as specified in line 50.
 5) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
 6) Name the branch with your project number
-7) CLick the green button that reads "Propose new file"
+7) Click the green button that reads "Propose new file"
 
-Once you have clicked that button, you've successfully created a branch that your agency will be able to preview. Now that 
-you have created the page and specific project branch, complete the following final items: 
+Once you have clicked that button, you've successfully created a branch that your agency will be able to preview. Now that you have created the page and specific project branch, complete the following final items: 
 
 8) Search on Google Images (using only "Licenses for reuse in the "Advanced" filter criteria) or Flickr.com (using only 
    "US Government work" or "No known copyrights" as the license filter in the top left corner to choose a picture that will 
@@ -32,19 +30,19 @@ you have created the page and specific project branch, complete the following fi
 10) Being sure that you are still in the new branch you created (you can check this by looking in the grey box to the right of 
     where it says "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), navigate 
     to /assets/analysis/, and upload the pdf file of the analysis plant, naming it as follows: project number and the project 
-    title, with dashes (-) between words <<DO NOT ues spaces in the file name>> 
+    title, with dashes (-) between words <<DO NOT use spaces in the file name>> 
     (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
     - leave this window open in a separate tab for easy copy/pasting later
     - Note: file names are case sensitive and must match exactly
 11) Return to the original project page you first created. For the three fields you left blank (image, image-source, and analysis 
     plan), replace the existing content with the information for the new image and abstract you just created.
 12) Commit changes
-13) Go to the federalist to preview the page (this will take a few minutes to build). You will be auto-logged in through GitHub. If you don't have access to federalist the link is in the following format: 
-    https://federalist-9dc074d2-9bb0-4720-8e37-036899ae1463.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/projects/permalink/
-    where the branch is the branch number you are saving to in Step 6 and the permalink is what you specify in line 50. An example
-    is: https://federalist-9dc074d2-9bb0-4720-8e37-036899ae1463.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/2004/projects/return-preparer-tax-compliance/
-14) Email Alyssa and Pompa to let us know you have built the page for review.
-
+13) Go to the federalist to preview the page (this will take several minutes to build). You will be auto-logged in through GitHub. If you don't have access to federalist the link is in the following format:   
+https://federalist-9dc074d2-9bb0-4720-8e37-036899ae1463.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/projects/permalink/
+where the branch is the branch number you are saving to in Step 6 and the permalink is what you specify in line 50. An example
+    is: 
+https://federalist-9dc074d2-9bb0-4720-8e37-036899ae1463.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/2004/projects/return-preparer-tax-compliance/
+14) Check that the preview page has loaded correctly, do the images look good? Are all of the buttons and PDF files loading correctly? Create a pull request and tag Pompa to review the page before making it live.
 
 ---
 title:  Decreasing Energy Costs in Federally Assisted Housing
@@ -56,6 +54,7 @@ analysis-plan: /assets/analysis/1742-reducing-energy-costs.pdf
 abstract: 
 year: 2021  
 domain: Communications
+type: Program Change and Evaluation
 agency: Housing and Urban Development
 status: Ongoing
 summary: Analysis Plan Registration
@@ -66,4 +65,3 @@ This evaluation is currently being implemented. We have created this project pag
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/XXXX-analysis-plan.pdf">here</a>. 
 
 Check back for results!
-
