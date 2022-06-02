@@ -20,82 +20,48 @@ Now, upload your Abstract and complete the following final items:
     and upload the pdf file of the abstract. Name it with the project number and project title. Use dashes (-) between words.
     <<DO NOT use spaces in the file name>> (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
 9) Go to the federalist to preview the page. You will be auto-logged in through GitHub. The link is of the form: 
-    https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/permalink/
+https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/permalink/
     where the branch is the branch number you are saving to in Step 6 and the permalink is what you specify in line 3 at the top of
     your project page. An example
-    is: https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/1809/projects/increasing-attendance-seattle/
-10) Email Amira and Kelly to let us know you have built the page for review
-
-TO CREATE A NEW PROJECT (SHOULD NOT APPLY POST 2019)
-1) In the _projects folder, click "create new file" in the uper right corner
-2) Once the new page opens, in the text box after "/assets/_projects/", type in:
-  - the project number (all four digits), followed by a dash
-  - a shorthand project title, with any words separated by dashes (not spaces)
-  - ".md" to ensure the page formats correctly
-  - EXAMPLE: 1619-active-choice-tsp.md
-3) In the blank text box of the new page you created, copy and paste the text below, staring on line 71. Be sure to include 
-   the dashes (---) at the top when you copy the example. The information between the two sets of three dashes (lines 71-84)  
-   is needed to define key parameters on the webpage.
-   NOTE: delete the text following the colons (:) in the header section and replace with the relevant project information.
-4) Update the path in line 101 below to link directly to the history for your commits to the analysis plan document. The path is of
-   the form: https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/analysis-plan-file-name.pdf
-   where the analysis plan file name is the same path as specified in line 77 below.
-5) Scroll down to the radio buttons at the bottom of the page below the text entry box and select "Create a new branch"
-6) Name the branch with your project number
-7) CLick the green button that reads "Propose new file"
-
-Once you have clicked that button, you've successfully created a branch that your agency will be able to preview. Now that you have
-created the page and specific project branch, complete the following final items: 
-9) Search on Google Images (using only "Licenses for reuse in the "Advanced" filter criteria) or Flickr.com (using only "US Government 
-   work" or "No known copyrights") as the license filter in the top left corner, to choose a picture that will be the thumbnail and
-   header photo. Save the image to your desktop with your project number as the file name, note the image credit (link to the
-   photographer's flickr site) for later use.
-10) Being sure that you are still in the new branch you created (check this by looking in the grey box to the right of where it says 
-    "office-of-evaluation-sciences in the top left of the page; it should read "Branch: projectnumber"), upload the image into
-     assets/img/project-images/.
-   - leave this window open in a separate tab for easy copy/pasting later
-11) Being sure that you are still in the new branch you created (check this by looking in the grey box to the right of where it says 
-    "office-of-evaluation-sciences" in the top left of the page; it should read "Branch: projectnumber"), navigate to /assets/abstracts/,
-    and upload the pdf file of the abstract. Name it with the project number and project title. Use dashes (-) between words.    
-    <<DO NOT use spaces in the file name>> (abstract file name e.g., "1618-On-Base-Active-Choice-for-TSP.pdf")
-    - leave this window open in a separate tab for easy copy/pasting later
-12) Return to the original project page you first created. For the three fields you left blank (image, image-source, and abstract),
-    replace the existing content with the information for the new image and abstract you just created.
-13) Commit changes
-14) Go to the federalist to preview the page. You will be auto-logged in through GitHub. The link is of the form: 
-    https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/branch/permalink/
-    where the branch is the branch number you are saving to in Step 6 and the permalink is what you specify in line 73 below. An example
-    is: https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/1809/projects/increasing-attendance-seattle/
-15) Email Amira and Kelly to let us know you have built the page for review
+    is: 
+https://federalist-proxy.app.cloud.gov/preview/gsa-oes/office-of-evaluation-sciences/1809/projects/increasing-attendance-seattle/
+10) Check that the preview page has loaded correctly, do the images look good? Are all of the buttons and PDF files loading correctly? Create a pull request and tag Pompa to review the page before making it live.
 
 ---
 title:  Increasing AHS Response Rates
 permalink: /projects/increasing-ahs-response/
-tags: project  
+tags: 
+project  
+highered  <<-- include any portfolio tags here, this is just an example
 image: /assets/img/project-images/1726.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:Dallas_skyline_and_suburbs.jpg
 analysis-plan: /assets/analysis/1726-increasing-ahs-response.pdf
 abstract: /assets/abstracts/1726-increasing-ahs-response.pdf
-year: 2018  
+year: 2018 <<-- UPDATE this to be the year the project was completed 
 domain: Communications
 agency: Census
+status: Complete
+type: Program Change and Evaluation
 summary: A second advance letter does not significantly improve outcomes.
-featured: homepage
+featured: 
+homepage
+services
 ---
 ## What was the challenge?
 
-[PASTE IN FROM PROJECT SLIDE]
+[PASTE IN FROM PROJECT CLOSEOUT SLIDE]
 
 ## What was the program change?
 
-[PASTE IN FROM PROJECT SLIDE]
+[INCLUDE INTERVENTION IMAGES]
+[PASTE IN FROM PROJECT CLOSEOUT SLIDE]
 
 ## How did the evaluation work?
 
-[PASTE IN FROM PROJECT SLIDE]
+[PASTE IN FROM PROJECT CLOSEOUT SLIDE]
 
 ## What was the impact?
+[INCLUDE GRAPH]
+[PASTE IN FROM PROJECT CLOSEOUT SLIDE]
 
-[PASTE IN FROM PROJECT SLIDE]
-
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/analysis-plan.pdf">here</a>. 
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/analysis-plan.pdf">click here</a>.<i>
