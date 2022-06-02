@@ -1,21 +1,18 @@
 Steps to create a new team member page and post to the website:
 
-TO CREATE A PAGE
-1) save your headshot to your desktop, title it as "first name-last name" being sure to separate the names with a dash, upload your headshot into /assets/img/team/
+1) save your headshot to your desktop, title it as "first name-last name" being sure to separate the names with a dash and without spaces, upload your headshot into /assets/img/team/
   - leave this window open in a separate tab for easy copy/pasting later
 3) have two windows/tabs open - this instructional readme, and then the _team folder on github
-4) click "create new file" in the uper right corner
+4) click "create new file" in the upper right corner
 5) in the text box following /assets/_team/, enter in:
   - your first and last name, separated by a dash
   - ".md" to ensure the page formats correctly
-  - EXAMPLE: mo-earley.md
+  - EXAMPLE: alyssa-galik.md
 6) copy and paste the text below this numbered list (beginning with ---, being sure to include the three dashes (---) in line 1) into the new page you created in the separate tab. NOTE: the text following the colons (:) below has been maintained as an example, and additional notes have been provided following the arrows <<--.
 7) Per instructions next to the arrows (<<--), update information for your project and paste in content from project slide where instructed
 8) remove all notes pasted in to the form (including <<-- and comments)
-9) scroll down to the radio buttons and select "Create a new branch"
-10) name the branch with your name
-11) commit changes
-12) email Amira and Mo to let us know you have built the page for our review
+9) commit changes
+10) confirm the new bio is loaded correctly and that the headshot is centered. If not, crop the headshot to be centered and reupload it with the same file title.
 
 
 ---
@@ -29,8 +26,9 @@ agency:  <<-- List all agencies you have collaborated with on projects with OES.
   - Health and Human Services
   - Postal Service
   - Treasury
-home: University <<-- depending on where you came from, choose from either "University": you are on-loan from a university; "Government": you are a full-time government employee; or "Non-profit": you are on-loan from a non-profit)
+home: University <<-- depending on where you came from, choose from either "University": you are on-loan from a university; "Government": you are a full-time GSA employee; or "Non-profit": you are on-loan from a non-profit); other “Agency”: you are a federal detail;
 title: Associate Fellow <<-- Enter your title here
+status: Current <<-- change to “Alum” when the person is no longer with the team
 ---
 
 [INSERT BIO TEXT HERE] <<-- If you need inspiration, review bio styles and content at oes.gsa.gov/team/
