@@ -14,7 +14,6 @@ status: Complete
 agency: General Services Administration
 summary: Decision aids can help policymakers incorporate evidence in program funding decisions. 
 featured: 
-- homepage
 ---
 
 ## What was the challenge? 
