@@ -26,4 +26,4 @@ Respondents who saw the final survey question were randomly assigned to see the 
 ## What was the impact?
 Including the transparency statement increased the acceptance of the default (“Yes”) option by 14.7 percentage points. This difference was statistically significant (p = .001).
 
-<i>To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2101-d-Analysis-Plan-transparent-defaults.pdf">click here</a>.</i>
+<i>To verify the upload date of our analysis plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2101-d-Analysis-Plan-transparent-defaults.pdf" target="_blank">click here</a>.</i>
