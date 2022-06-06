@@ -10,7 +10,7 @@ year: 2022
 domain: Government Operations
 agency: General Services Administration
 status: Complete
-summary: Disclosing the purpose of a default selection increases the likelihood that survey respondents choose to receive future contacts.
+summary: Disclosing the purpose of a default selection increases the likelihood that survey respondents choose to receive future contacts
 featured: homepage
 ---
 
