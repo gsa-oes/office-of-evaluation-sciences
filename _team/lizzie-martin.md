@@ -4,7 +4,6 @@ image: /assets/img/team/lizzie-martin.jpg
 year:
   - 2022
 agency:
-  - 
 home: Centers for Disease Control and Prevention
 title: Presidential Management Fellow
 status: Current
