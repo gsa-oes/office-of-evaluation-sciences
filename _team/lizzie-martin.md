@@ -4,7 +4,7 @@ image: /assets/img/team/lizzie-martin.jpg
 year:
   - 2022
 agency:
-home: Centers for Disease Control and Prevention
+home: Health and Human Services
 title: Associate Fellow
 status: Current
 ---
