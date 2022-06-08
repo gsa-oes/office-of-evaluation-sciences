@@ -33,6 +33,7 @@ We found that the Cash for Your Stash program with reminder cards cost $12.57 pe
 
 For other VA facilities considering implementing this program, we estimate that the recurring costs with reminder cards may range from $9.79 to $19.55 per pill returned. 
 
+### Notes
 1. Rounding errors may occur.
 
 
