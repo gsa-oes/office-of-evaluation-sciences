@@ -1,6 +1,6 @@
 ---
 layout: page	
-title: Incorporating Costing Information, An Example from ‘Enhancing the Effect of Cash Buyback on Return of Unused Opioid Pills
+title: Incorporating Costing Information, An Example from ‘Enhancing the Effect of Cash Buyback on Return of Unused Opioid Pills'
 permalink: /blog/1804-costing/	
 image: /assets/img/project-images/1804.png
 hide_image: true
