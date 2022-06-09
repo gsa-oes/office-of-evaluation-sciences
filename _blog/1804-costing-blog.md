@@ -35,6 +35,6 @@ For other VA facilities considering implementing this program, we estimate that 
 
 ### Notes
 1. Dhaliwal, Iqbal, Esther Duflo, Rachel Glennerster, and Caitlin Tulloch. "Comparative cost-effectiveness analysis to inform policy in developing countries: a general framework with applications for education." <i>Education policy in developing countries</i> 17 (2013): 285-338, <a href="https://economics.mit.edu/files/15014" target="_blank">https://economics.mit.edu/files/15014</a>.
-2. Rounding errors may occur.
+2. Rounding errors may occur. 
 
 
