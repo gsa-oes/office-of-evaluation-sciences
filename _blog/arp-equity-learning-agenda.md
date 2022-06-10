@@ -1,7 +1,7 @@
 ---
 layout: page	
 title: Learning What Works to Build an Equitable Recovery
-permalink: /blog/build-equityable-recovery/	
+permalink: /blog/build-equitable-recovery/	
 image: /assets/img/project-images/arp-equity-la.png
 hide_image: true
 year: 2031
