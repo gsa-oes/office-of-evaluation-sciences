@@ -13,7 +13,7 @@ This was cross-posted from the <a href="https://www.evaluation.gov/build-equitab
 By Maia Jachimowicz, White House American Rescue Plan Implementation Team
 <br>
 June 9, 2022
-</i><br><br>
+</i><br>
 
 The $1.9 trillion American Rescue Plan (ARP) pandemic relief bill, signed into law by President Biden on March 11, 2021, has fueled <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/" target="_blank">the most equitable economic recovery in recent history</a>. This progress is the result of both the design and implementation of ARP to advance equity through a concerted, whole-of-government approach.
 
