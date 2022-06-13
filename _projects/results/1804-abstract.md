@@ -9,6 +9,7 @@ image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shuttersto
 summary: Reminder cards increased the return of unused prescription opioids
 
 ---
+<br>
 <a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/1804-VA-opioid-buyback-abstract.pdf/" target="_blank">View the PDF Version</a>
 
 ## Target a Priority Outcome
