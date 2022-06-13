@@ -40,5 +40,9 @@ The intervention increased the likelihood that a patient would return unused pil
 Additional cost effectiveness analysis indicated that the reminder cards **reduced the cost per pill returned**.
 - When using reminder cards, the cost per pill returned was $12.57.
 - When no reminder cards were used, the cost per pill returned was $15.66.
-
+<br>
+<p>
+<a class="usa-button" href="https://oes.gsa.gov/blog/1804-costing/" target="_blank">Blog: Incorporating Costing Information, An Example from ‘Enhancing the Effect of Cash Buyback on Return of Unused Opioid Pills'</a>
+</p>
+<br>
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">click here</a>. 
