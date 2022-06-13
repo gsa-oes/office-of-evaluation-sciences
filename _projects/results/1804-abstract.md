@@ -5,10 +5,11 @@ tags:
   - abstract
 image: /assets/img/project-images/1804.png
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
-abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
 summary: Reminder cards increased the return of unused prescription opioids
 
 ---
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/1804-VA-opioid-buyback-abstract.pdf/" target="_blank">View the PDF Version</a>
+
 ## Target a Priority Outcome
 Unused prescription opioid pills stored in the home can contribute to opioid abuse. It is estimated that between one quarter and three quarters of patients prescribed opioids either misplace unused pills or store them for future use, presenting a risk to those who may later find them.¹ Clinical practice guidelines issued by the Department of Veterans Affairs and the Department of Defense stress the importance of encouraging patients to return their unused opioid pills for proper disposal.² The White River Junction Veterans Affairs Medical Center implemented a cash buyback program, called “Cash for Your Stash,” in which patients who return unused opioid pills to the VA pharmacy can receive $5 per returned pill, up to $50.³ The program is offered to patients who receive one-time, short-term prescriptions for opioids to manage pain following outpatient surgery. 
 
