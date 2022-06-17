@@ -1,6 +1,6 @@
 ---
 name: Adam Rudy
-image: /assets/img/team/adam-rudy.JPG
+image: /assets/img/team/adam-rudy.jpg
 year:
   - 2022
 status: Current
