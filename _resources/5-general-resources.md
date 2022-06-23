@@ -9,6 +9,27 @@ summary: We hope others can use and build on what we've learned.
 ---
 Below are resources we’ve developed through our work building evidence government-wide.
 
+## Newsletters
+OES sends out regular newsletters with upcoming events, recent project results, and other news. You can subscribe to our newsletter <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">here</a>.
+
+### 2022
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/31bf701?reqfrom=share" target="_blank">June 2022: Reminder cards increased the return of unused prescription opioids</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/314f329?reqfrom=share" target="_blank">April 2022: A series of emails and a letter increased take-up of the American Opportunity Tax Credit</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/310d80b?reqfrom=share" target="_blank">March 2022: How much do low-cost, behaviorally informed letters increase health insurance enrollment?</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/30bcc58?reqfrom=share" target="_blank">February 2022: What are the best ways to encourage COVID-19 vaccination?</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/30690f8?reqfrom=share" target="_blank">January 2022: Supporting NOAA’s Equity Assessment Teams</a>
+
+### 2021
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/3005258?reqfrom=share" target="_blank">December 2021: A Community Toolkit for Addressing Health Misinformation from the Office of the Surgeon General</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2f99f82?reqfrom=share" target="_blank">November 2021: A Behavioral Insights Guide for Improving Payment Integrity</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2f99f82?reqfrom=share" target="_blank">October 2021: OES@100: Celebrating 100 Collaborations Across Government</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2ee35fe?reqfrom=share" target="_blank">August 2021: Text reminders increased clinic visits for family planning services in Mozambique</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2e6fed5?reqfrom=share" target="_blank">July 2021: Using behavioral insights to improve customer experience within government</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2cc7dff?reqfrom=share" target="_blank">April 2021: New working paper shows how OES letters tripled SSI awards</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2c5f7ee?reqfrom=share" target="_blank">March 2021: Learn more about OES behavioral maps, intervention packs, and evaluation designs</a>
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/2c1e13f?reqfrom=share" target="_blank">February 2021: Two-year follow up shows that effects of an OES anchoring intervention persist</a>
+
+
 ## What leads to a successful evaluation? Reflections from 100 OES collaborations
 OES has completed 100 collaborations across government since 2015. This has entailed working with agency collaborators across 21 federal departments, in addition to 139 OES team members from 83 institutions. Our evaluations have involved over 44 million individuals. In this document, we share our reflections on what we have learned about how to build and use evidence in government to date across 100 completed collaborations.
 <br/>
@@ -35,8 +56,4 @@ This quick turnaround effort shares insights on what works to promote healthy be
 OES uses the Intergovernmental Personnel Act (IPA) Mobility Program to bring on unique talent to support agency priorities and evidence needs. The purpose of this toolkit is to provide internal guidance on how OES has utilized the IPA Mobility Program in the past to fill highly technical positions in a quick and simple way where there might otherwise be capacity gaps. Personnel with IPAs at OES have served in roles as fellows, academic affiliates, and statistical methods support.
 <br/>
 <a class="usa-button" href="{{ '/assets/files/ipa-toolkit-oes.pdf' | prepend: site.baseurl }}" target="_blank">OES IPA Toolkit (PDF)</a>
-
-
-
-
 
