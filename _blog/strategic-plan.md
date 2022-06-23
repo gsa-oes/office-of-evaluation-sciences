@@ -10,7 +10,7 @@ summary:
 ---
 
 The OES four-year Strategic Plan outlines our goals, strategic objectives, performance measures, and key capabilities for fiscal years 2022–2026. The plan will guide our decisions over the coming years, allowing the team to make meaningful contributions to and achievements within the federal government. The plan positions our team to support federal agency leadership and policymakers in expanding their use of evidence to inform decisions and investments in three priority areas.
-
+<br><br><br>
 <center>
   <img src="{{ '/assets/img/project-images/othercollabs/equity-hand.png' | prepend: site.baseurl }}" alt="Hand with a key in the palm" width="300">
   <h3>Make access to federal programs easier and more equitable.</h3>
@@ -24,7 +24,7 @@ The OES four-year Strategic Plan outlines our goals, strategic objectives, perfo
   <h3>Promote and support excellence in federal evaluation.</h3>
 <p>The OES team will continue to develop and maintain strong relationships with federal agencies across government. We will provide guidance and resources on rigorous evaluation, quantitative methods, and using administrative data that support long-term capacity building within the federal workforce.</p>
 </center>
-
+<br><br><br>
 In addition to the strategic objectives set above, we will continue to focus on key organizational components, namely our team, partnerships, and services. 
 
 In the years ahead, we will focus on building evidence to make federal programs more equitable, on supporting evidence application and use, and strengthening the federal evaluation ecosystem. By investing in these priorities, we will concentrate impact in priority areas where we have comparative advantage, a proven track record of success, and the opportunity to create meaningful change.
