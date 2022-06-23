@@ -8,7 +8,7 @@ image: /assets/img/project-images/prescribe.jpg
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf
 academic-pub: /assets/publications/1709 - jamapsychiatry_sacarny_2018_oi_180047.pdf
-intervention: /assets/interventions/Intervention Pack - CPI.pdf
+intervention: intervention: /assets/interventions/2002-CMS-intervention-pack.pdf
 year: 2018
 type: Program Change and Evaluation
 status: Complete
