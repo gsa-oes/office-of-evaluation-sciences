@@ -2,7 +2,7 @@
 title:  Incorporating Evaluation into Digital Forms
 permalink: /projects/digital-forms/
 tags: project  
-image: /assets/img/project-images/1742.jpg  
+image: /assets/img/project-images/2118.jpg  
 image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
 analysis-plan: /assets/analysis/2118-digital-forms-analysis-plan.pdf
 abstract: 
