@@ -6,7 +6,7 @@ year:
   - 2020
   - 2021
   - 2022
-status: Current
+status: Alum
 home: Government
 agency:
   - Small Business Administration
