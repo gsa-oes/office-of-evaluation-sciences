@@ -3,8 +3,8 @@ name: Shannon Parker
 image: /assets/img/team/shannon-parker.jpg
 year:
   - 2022
-agency:
 home: Government
+agency:
 title: Senior Program Manager
 status: Current
 ---
