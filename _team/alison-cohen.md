@@ -5,7 +5,7 @@ year:
   - 2022
 home: University
 agency:
-title: Associate Fellow
+title: Fellow
 status: Current
 ---
 
