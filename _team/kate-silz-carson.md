@@ -3,7 +3,7 @@ name: Kate Silz-Carson
 image: /assets/img/team/Katherine-Silz-Carson.jpg
 year:
   - 2022
-home: Air Force Academy
+home: University
 title: Fellow
 status: Alum
 ---
