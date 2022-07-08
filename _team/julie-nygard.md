@@ -4,7 +4,7 @@ image: /assets/img/team/julie-nygard.jpg
 year: 2020
 agency:
   - Interior
-home: US Forest Service
+home: Government
 title: Alum
 status: Alum
 ---
