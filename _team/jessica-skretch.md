@@ -4,7 +4,7 @@ image: /assets/img/team/jessica-skretch.jpg
 year:
   - 2020
   - 2021
-home: Federal Reserve Board
+home: Government
 agency:
   - Small Business Administration
   - Treasury
