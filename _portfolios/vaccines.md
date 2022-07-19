@@ -35,6 +35,8 @@ In early 2021, OES developed lessons learned from the OES portfolio to inform th
 
 <a class="usa-button" href="{{site.baseurl}}/assets/publications/SSRN-id3967610 (1).pdf" target="_blank">Publication: Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations (PDF)</a><br>
 
+<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-Vaccine-Portfolio-Intervention-Packs.pdf" target="_blank">View Vaccine Portfolio Intervention Packs (PDF)</a><br>
+
 ### Relevant OES Resources
 <a class="usa-button" href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">Blog: What are the best ways to encourage COVID-19 vaccination?</a>
 <br><br>
