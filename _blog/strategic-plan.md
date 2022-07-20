@@ -28,3 +28,5 @@ In addition to the strategic objectives set above, we will continue to focus on 
 In the years ahead, we will focus on building evidence to make federal programs more equitable, on supporting evidence application and use, and strengthening the federal evaluation ecosystem. By investing in these priorities, we will concentrate impact in priority areas where we have comparative advantage, a proven track record of success, and the opportunity to create meaningful change.
 
 We welcome you to share feedback on our strategic plan and ideas for collaboration. Please email <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. 
+
+<p><a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Strategic-Plan-FY22-26.pdf">Read our Strategic Plan (PDF)</a></p>
