@@ -9,7 +9,7 @@ image-credit: https://pxhere.com/en/photo/1598093
 analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112D-SLFRF-abstract.pdf
 year: 2022 
-domain: Economic Opportunity
+domain: Economic Opportunit
 agency: Treasury
 status: Complete
 summary: Adding to-do lists to emails and calls to action to subject lines increased signup
