@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/slfrf-town.jpg
 image-credit: https://pixabay.com/photos/gadsden-alabama-small-towns-1616084/
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
-abstract: /assets/abstract/2112E-SLFRF-abstract.pdf
+abstract: /assets/abstracts/2112E-SLFRF-abstract.pdf
 year: 2022 
 domain: Economic Opportunity
 agency: Treasury
