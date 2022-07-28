@@ -27,12 +27,12 @@ We find statistically significant evidence that both the to-do list and call to 
 
 The <b>call to action treatment</b> was also effective at increasing signup, though less so. One day following the email, the estimated effect is very close to zero and is statistically insignificant. After two weeks, portal signup was 26.1 percent among those who got the <b>call to action treatment</b> and 24.6 percent among those who did not, a statistically significant increase of 1.5 percentage points. This represents a six percent increase in signups relative to the group that did not receive the call to action email. 
 
-<img src="{{ '/assets/img/2112D-fig1.png' | prepend: site.baseurl }}" alt="Line chart showing that both the to-do list and call to action treatments increased portal signup." width="1500">
+<img src="{{ '/assets/img/project-images/2112D-fig1.png' | prepend: site.baseurl }}" alt="Line chart showing that both the to-do list and call to action treatments increased portal signup." width="1500">
 <i>Figure 1. Numbers of NEUs signed up on Treasury’s ARP Reporting and Compliance Portal</i>
 
 In March, Treasury sent the same randomized email again to a larger set of NEUs (N=23,911). As an exploratory analysis (not included in the pre-analysis plan), OES estimated the impact of this email on NEUs’ <b>submission of spending reports</b> – the outcome that Treasury intended to influence by having NEUs sign up on the portal. Effects were again positive and statistically significant. Two weeks after the second email was sent, report submissions were 3.0 percentage points higher among the NEUs who got the to-do list treatment than those who did not and report submissions were 1.2 percentage points higher for the NEUs who got the call to action treatment compared to those that did not. This represents an increase in submission of 20 percent and seven percent relative to the groups that did not get the to-do list treatment and call to action treatment, respectively.
 
-<img src="{{ '/assets/img/2112D-fig2.png' | prepend: site.baseurl }}" alt="Line chart showing the positive, statistically significant effect of both treatments on submission of spending reports." width="1500">
+<img src="{{ '/assets/img/project-images/2112D-fig1.png' | prepend: site.baseurl }}" alt="Line chart showing the positive, statistically significant effect of both treatments on submission of spending reports." width="1500">
 <i>Figure 2. Numbers of NEUs that submitted spending reports on Treasury’s ARP Reporting and Compliance Portal</i>
 
 ## Key Takeaways
