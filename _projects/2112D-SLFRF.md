@@ -5,7 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/SLFRF-2112D-image.jpg
-image-credit: https://images.app.goo.gl/gbHDshzV56D8TXd76
+image-credit: https://pxhere.com/en/photo/1598093
 analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstract/2112D-SLFRF-abstract.pdf
 year: 2022 
