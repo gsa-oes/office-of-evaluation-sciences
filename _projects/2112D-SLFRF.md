@@ -4,7 +4,7 @@ permalink: /projects/slfrf-early-signup/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/othercollabs/SLFRF-2112D.jpg
+image: /assets/img/project-images/othercollabs/SLFRF-2112D-image.jpg
 image-credit: https://images.app.goo.gl/gbHDshzV56D8TXd76
 analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstract/2112D-SLFRF-abstract.pdf
