@@ -13,6 +13,7 @@ Below are resources we’ve developed through our work building evidence governm
 OES sends out regular newsletters with upcoming events, recent project results, and other news. You can subscribe to our newsletter <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">here</a>.
 
 ### 2022
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/" target="_blank">August 2022: Sharing the purpose of a default increases responses</a>
 - <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/31bf701?reqfrom=share" target="_blank">June 2022: Reminder cards increased the return of unused prescription opioids</a>
 - <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/314f329?reqfrom=share" target="_blank">April 2022: A series of emails and a letter increased take-up of the American Opportunity Tax Credit</a>
 - <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/310d80b?reqfrom=share" target="_blank">March 2022: How much do low-cost, behaviorally informed letters increase health insurance enrollment?</a>
