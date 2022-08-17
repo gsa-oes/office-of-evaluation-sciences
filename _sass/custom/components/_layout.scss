@@ -65,7 +65,7 @@ body:not(.page-home) {
 
 .background-medium {
   @include background-dark;
-  background-color: #247f9b;
+  background-color: #14576C;
 }
 
 .background-gray-dark {
@@ -76,7 +76,7 @@ body:not(.page-home) {
 // TODO: use the actual USWDS color token for this
 .background-brand-dark {
   @include background-dark;
-  background-color: #247f9b;
+  background-color: #14576C;
 }
 
 .background-light,
