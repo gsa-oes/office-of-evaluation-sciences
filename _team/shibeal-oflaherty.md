@@ -1,6 +1,6 @@
 ---
 name: Shibeal O'Flaherty
-image: /assets/img/team/shibeal-oflaherty.jpg
+image: /assets/img/team/shibeal-oflaherty.JPG
 year:
   - 2022
 home: Government
