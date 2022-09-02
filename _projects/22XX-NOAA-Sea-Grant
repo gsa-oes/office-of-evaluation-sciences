@@ -1,18 +1,18 @@
 ---
 title:  Understanding barriers to access and equity in the Sea Grant Knauss Fellowship Program
 permalink: /projects/increasing-ahs-response/
-tags: 
-project  
-highered  <<-- include any portfolio tags here, this is just an example
-image: /assets/img/project-images/1726.jpg  
-image-credit: https://commons.wikimedia.org/wiki/File:Dallas_skyline_and_suburbs.jpg
-analysis-plan: 
-abstract: /assets/abstracts/1726-increasing-ahs-response.pdf
-year: 2018 <<-- UPDATE this to be the year the project was completed 
-domain: Communications
-agency: Census
+tags:
+  - collaborations
+  - resources
+  - climate
+image: /assets/img/project-images/othercollabs/noaa.png
+image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949analysis-plan: 
+abstract: /assets/abstracts/Sea-Grant-Knauss-summary.pdf
+year: 2022  
+domain: 
+agency: Commerce
 status: Complete
-type: Program Change and Evaluation
+type: 
 summary: Administrative data and survey responses describe program challenges and opportunities to improve access and equity. 
 featured: 
 homepage
