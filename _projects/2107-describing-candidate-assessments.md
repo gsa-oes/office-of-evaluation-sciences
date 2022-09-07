@@ -2,7 +2,7 @@
 title:  Describing Candidate Assessments and Hiring Outcomes
 permalink: /projects/describing-candidate-assessments/
 tags: project  
-image: /assets/img/project-images/  
+image: /assets/img/project-images/2107-image-briefcase.jpg
 image-credit: Photo by <a href="https://unsplash.com/@martenbjork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marten Bjork</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf
 abstract: 
