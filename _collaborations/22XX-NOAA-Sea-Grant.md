@@ -1,24 +1,20 @@
 ---
-title:  Understanding barriers to access and equity in the Sea Grant Knauss Fellowship Program
-permalink: /projects/increasing-ahs-response/
+title: Understanding barriers to access and equity in the Sea Grant Knauss Fellowship Program
+permalink: /collaborations/noaa-sea-grant/
 tags:
   - collaborations
   - resources
   - climate
 image: /assets/img/project-images/othercollabs/noaa.png
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949analysis-plan: 
-abstract: /assets/abstracts/Sea-Grant-Knauss-summary.pdf
 visualization: /assets/files/Knauss-Fellowship-process-map.pdf
-year: 2022  
+year: 2022
 domain: 
 agency: Commerce
-status: Complete
-type: 
-summary: Administrative data and survey responses describe program challenges and opportunities to improve access and equity. 
+summary: Administrative data and survey responses describe program challenges and opportunities to improve access and equity.
 featured: 
-homepage
-services
 ---
+
 ## What was the challenge?
 The National Oceanic and Atmospheric Administration’s (NOAA) National Sea Grant College Program (Sea Grant) has identified the Knauss Fellowship program as a key avenue for advancing a more diverse workforce.  
 
