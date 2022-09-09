@@ -34,3 +34,8 @@ SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years 
 Three months after the intervention, **SSI recipients who received any letter were 34 percent more likely to have reported any earnings for the previous three months, and they reported about 55 percent more in countable income.** Based on the increase in the amount of countable income reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $5.91 per $1 spent by SSA.
 
 ![image]({{site.baseurl}}/assets/img/project-images/graph-ssiwage.png)
+
+<br>
+<p>
+<a class="usa-button" href="https://oes.gsa.gov/blog/wage-reporting/" target="_blank">Read the Blog: Timely Wage Reporting</a>
+</p>
