@@ -1,5 +1,5 @@
 ---
-title: Understanding barriers to access and equity in the Sea Grant Knauss Fellowship Program
+title: Understanding barriers to access and equity in the Knauss Fellowship Program
 permalink: /collaborations/noaa-sea-grant/
 tags:
   - collaborations
