@@ -8,8 +8,6 @@ image: /assets/img/project-images/2004-tax-image.jpg
 image-credit: https://www.pexels.com/photo/wood-man-people-woman-7821676/
 analysis-plan: /assets/analysis/2004-analysis-plan.pdf
 abstract: /assets/abstracts/2004-return-preparers-abstract.pdf
-=======
-abstract: /assets/abstracts/2004-return-preparers-abstract.pdf
 year: 2022  
 type: Program Change and Evaluation
 domain: Communications
