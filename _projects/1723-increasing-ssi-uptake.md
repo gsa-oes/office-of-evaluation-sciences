@@ -36,6 +36,10 @@ Individuals were randomly assigned to receive one of four letter types or to a c
 ## What was the impact?
 
 All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 6.0 percent applied for SSI in the nine months after the letters were sent out, compared with 1.0 percent of beneficiaries who did not receive a letter. Similarly, 2.3 percent of beneficiaries who received a letter were awarded SSI during this time, compared with 0.5 percent of beneficiaries who did not receive a letter, an increase of 340%.
+<br>
+<p>
+<a class="usa-button" href="https://oes.gsa.gov/blog/ssi-awards/" target="_blank">Read the Blog: OES Letters Quadrupled SSI awards</a>
+</p>
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">click here</a>.</i>
 
