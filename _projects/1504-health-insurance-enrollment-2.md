@@ -33,5 +33,8 @@ OES developed eight different letters to assist these individuals with completin
 ## What was the impact?
 
 By the open enrollment deadline, enrollments increased by 7.15%, amounting to 1,924 marginal enrollments.
-
+<br>
+<p>
+<a class="usa-button" href="https://oes.gsa.gov/blog/fhim-letters/" target="_blank">Read the Blog: How Much Do Letters Increase Health Insurance Enrollment?</a>
+</p>
 <i>Yokum D, Hopkins DJ, Feher A, Safran E, Peck J. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2789707" target="_blank">Effectiveness of Behaviorally Informed Letters on Health Insurance Marketplace Enrollment: A Randomized Clinical Trial</a>. JAMA Health Forum. 2022;3(3):e220034. doi:10.1001/jamahealthforum.2022.0034</i>
