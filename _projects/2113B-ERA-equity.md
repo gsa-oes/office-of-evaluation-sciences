@@ -22,7 +22,7 @@ OES partnered with Treasury to understand how the demographic profile of renters
 OES estimated the demographics of renters using grantee reports on households who received ERA (which included gender, race, ethnicity, and income) and compared this to the profile of ERA-eligible renters, estimated using Census data. OES took a multiple datasets approach to estimate differences in the race, ethnicity, gender, and income of renters who received and renters who were eligible for ERA.
 
 <img src="{{ '/assets/img/project-images/2113B-fig0.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/analysis/2113B-fig0.svg">Expand image</a></i>
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2113B-fig0.svg">Expand image</a></i>
 
 ## What did we learn?
 Existing research illustrates that Black and women renters were the most likely to receive eviction notices prior to the pandemic. In ERA, an unprecedented rental assistance program that Treasury and hundreds of grantees stood up and implemented in a number of months, OES found that those renters were most likely to receive funds, across all regions of the US. 
