@@ -15,7 +15,7 @@ summary: Five GSA offices and the American public worked together to improve fed
 featured:
 ---
 ## What was the challenge? 
-The American public spends approximately 11.5 billion hours per year filling out federal government forms. Form complexity can result in lack of submission or completion, and errors on forms can cause processing delays and affect whether the form is accepted–which can have far-reaching consequences.
+The American public spends approximately 11.5 billion hours per year filling out federal government forms.¹ Form complexity can result in lack of submission or completion, and errors on forms can cause processing delays and affect whether the form is accepted–which can have far-reaching consequences.
 
 ## What was the program change?
 OES implemented a randomized control trial (RCT) to build evidence on the magnitude and direction of the effect of instruction positioning in federal forms. OES evaluated two versions of a brief digital form which included questions typical of federal forms. One version included the form instructions on the first page, while the other version embedded the form instructions within each page of the form. 
@@ -25,5 +25,8 @@ To generate a sample of users, OES conducted outreach among the general public a
 
 ## What was the impact?
 This evaluation—a first of its kind  in the federal government—brought together multiple GSA offices and the American public to learn about the feasibility of incorporating  A/B testing into federal forms and to show that form design matters for form completion. The empirical findings show that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
+
+## Notes
+1.  Office of Management and Budget, Information Collection Budget of the United States, FY 2018. https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf 
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">click here</a>.</i>
