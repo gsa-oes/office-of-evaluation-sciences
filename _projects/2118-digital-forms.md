@@ -27,6 +27,6 @@ To generate a sample of users, OES conducted outreach among the general public a
 This evaluation—a first of its kind  in the federal government—brought together multiple GSA offices and the American public to learn about the feasibility of incorporating  A/B testing into federal forms and to show that form design matters for form completion. The empirical findings show that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
 
 ## Notes
-1.  Office of Management and Budget, Information Collection Budget of the United States, FY 2018. https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf 
+1.  Office of Management and Budget, Information Collection Budget of the United States, FY 2018. https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">click here</a>.</i>
