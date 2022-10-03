@@ -5,9 +5,9 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2113B-image.jpg
-image-credit: https://www.flickr.com/photos/stevenpisano/49932827397/
+image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.jpg
 analysis-plan: /assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf
-abstract: /assets/abstracts/2113B-era-descriptive-study.pdf
+abstract: /assets/abstracts/2113B-era-descriptive-study-abstract.pdf
 year: 2022 
 domain: Economic Opportunity
 agency: Treasury
@@ -17,6 +17,14 @@ summary: A descriptive study of equity in the first-ever nationwide eviction pre
 ## What priority outcome did we evaluate?
 The first and second rounds of the Emergency Rental Assistance (ERA) program provided over $46 billion USD in funding to states, territories, Tribal governments, counties, and cities (“grantees”) to prevent eviction and housing instability in the wake of the pandemic. Overseen by the U.S. Department of the Treasury (“Treasury”), ERA provided direct cash assistance to renters and landlords to assist with rent, utilities, and other housing-related expenses. It was the first-ever nationwide program aimed at preventing eviction through direct assistance to renters. 
 OES partnered with Treasury to understand how the demographic profile of renters who were eligible for ERA compared to the demographic profile of renters who received ERA. 
+
+## What were the key findings?
+Extremely low income renters were overrepresented: at 64%, their share of the recipient population was twice their share of the eligible population.
+Black renters were strongly overrepresented among recipients of ERA – their share of the recipient population was 21-22 percentage points higher than their share of the eligible population
+
+The share of recipients who identify as women was 14-15 percentage points higher than their share of eligible renters.
+Renters who identify as AIAN, Pacific Islander, or Hawaiian Native were overrepresented.
+Consistent with other benefits programs, Asian renters were underrepresented among recipients of ERA.
 
 ## What did we do?
 OES estimated the demographics of renters using grantee reports on households who received ERA (which included gender, race, ethnicity, and income) and compared this to the profile of ERA-eligible renters, estimated using Census data. OES took a multiple datasets approach to estimate differences in the race, ethnicity, gender, and income of renters who received and renters who were eligible for ERA.
@@ -29,7 +37,7 @@ Existing research illustrates that Black and women renters were the most likely 
 
 Renters who identify as Native American, Alaska Native, Pacific Islander, or Hawaiian Native were overrepresented among recipients, which is notable given OES likely underestimated receipt by these groups due to the unavailability of demographic data from Tribal governments. Due to incompatibility between datasets, we were unable to estimate over- and underrepresentation of those who identify as Non-Binary or as Mixed Race.
 
-Among eligible renters, ERA funds were much more likely to reach those with the lowest incomes. This matters for the representation of ethnic and racial groups, because income distributions vary by race and ethnicity. OES estimated underrepresentation of White and Latinx renters only at the higher end of the eligible income spectrum—extremely low income White and Latinx renters were overrepresented among recipients. For Asian renters, who were underrepresented in the program, gaps appeared less stark when accounting for income but remained nonetheless. The category “Asian”  represents a diverse group of ERA-eligible renters who, according to analyses in the <a href="https://oes.gsa.gov/assets/abstracts/2113B-technical-appendix.pdf">technical appendix,</a> generally have low access to other government programs. OES recommends further research focusing on ways to boost access to and receipt of government benefits among this group.
+Among eligible renters, ERA funds were much more likely to reach those with the lowest incomes. This matters for the representation of ethnic and racial groups, because income distributions vary by race and ethnicity. OES estimated underrepresentation of White and Latinx renters only at the higher end of the eligible income spectrum—extremely low income White and Latinx renters were overrepresented among recipients. For Asian renters, who were underrepresented in the program, gaps appeared less stark when accounting for income but remained nonetheless. The category “Asian”  represents a diverse group of ERA-eligible renters who, according to analyses in the <a href="https://oes.gsa.gov/assets/abstracts/2113B-technical-appendix.pdf">technical appendix,</a>, generally have low uptake of other government programs. OES recommends further research focusing on ways to boost access to and receipt of government benefits among this group.
 
 <b>Figure 1.</b> <i>Demographic characteristics of renters who received and renters who were eligible for ERA.</i>
 
