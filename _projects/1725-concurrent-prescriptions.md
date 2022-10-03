@@ -9,7 +9,6 @@ image: /assets/img/project-images/1725.JPG
 image-credit: https://media.defense.gov/2015/Jun/19/2001076394/780/780/0/150617-F-SI704-003.JPG
 analysis-plan: /assets/analysis/1725-concurrent-prescriptions.pdf
 abstract: /assets/abstracts/1725-concurrent-rx-abstract.pdf
-academic-pub: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898
 status: Complete
 year: 2021
 type: Program Change and Evaluation
@@ -28,5 +27,8 @@ Patients newly identified as having concurrent opioid-benzodiazepine prescriptio
 
 ## What was the impact?
 Results are forthcoming.
+
+## Related Publications
+Sacarny A, Safran E, Steffel M, et al. Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial. <i>JAMA Health Forum.</i> 2022;3(9):e223378. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898</a>.
 
 *You can verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">here</a>.*
