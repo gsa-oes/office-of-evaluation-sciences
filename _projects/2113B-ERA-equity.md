@@ -8,11 +8,11 @@ image: /assets/img/project-images/2113B-image.jpg
 image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.jpg
 analysis-plan: /assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf
 abstract: /assets/abstracts/2113B-era-descriptive-study-abstract.pdf
-technical-appendix: /assets/abstracts/2113B-technical-appendix.pdf
 year: 2022 
 domain: Economic Opportunity
 agency: Treasury
 status: Complete
+technical-appendix: /assets/abstracts/2113B-technical-appendix.pdf
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
 ---
 ## What priority outcome did we evaluate?
