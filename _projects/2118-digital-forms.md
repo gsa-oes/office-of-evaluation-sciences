@@ -18,4 +18,4 @@ This evaluation is currently being implemented. We have created this project pag
 
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">here</a>. 
 
-Check back for results!
+Check back for results.
