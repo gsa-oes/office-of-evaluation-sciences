@@ -14,7 +14,7 @@ year: 2021
 type: Program Change and Evaluation
 domain: Health
 agency: Defense
-summary: Targeted messages to providers to reduce concurrent prescriptions
+summary: Targeted messages to providers did not reduce concurrent prescriptions
 ---
 ## What was the challenge?
 The Department of Veterans Affairs (VA) and the Department of Defense (DoD) Clinical Practice Guideline for Opioid Therapy for Chronic Pain strongly recommends against the concurrent use of opioids and benzodiazepines. The Defense Health Agency (DHA) in the DoD sought to increase adherence to prescribing guidelines by reducing concurrent prescribing of opioids and benzodiazepines.
@@ -30,7 +30,8 @@ There was no statistically significant difference in patients’ total receipt o
 
 <img src="{{ '/assets/img/project-images/1725-fig1.png' | prepend: site.baseurl }}" alt="A line graph comparing the control and treatment groups on average days of opioid-benzodiazepine overlap and days relative to enrollment." width="1500">
 
-## Related Publications
+<i>Related Publications</i>
+
 Sacarny A, Safran E, Steffel M, et al. Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial. <i>JAMA Health Forum.</i> 2022;3(9):e223378. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898</a>.
 
 *You can verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">here</a>.*
