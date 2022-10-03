@@ -9,6 +9,7 @@ image: /assets/img/project-images/1725.JPG
 image-credit: https://media.defense.gov/2015/Jun/19/2001076394/780/780/0/150617-F-SI704-003.JPG
 analysis-plan: /assets/analysis/1725-concurrent-prescriptions.pdf
 abstract: /assets/abstracts/1725-concurrent-rx-abstract.pdf
+academic-pub-web: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898
 status: Complete
 year: 2021
 type: Program Change and Evaluation
