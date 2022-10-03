@@ -19,12 +19,11 @@ The first and second rounds of the Emergency Rental Assistance (ERA) program pro
 OES partnered with Treasury to understand how the demographic profile of renters who were eligible for ERA compared to the demographic profile of renters who received ERA. 
 
 ## What were the key findings?
-Extremely low income renters were overrepresented: at 64%, their share of the recipient population was twice their share of the eligible population.
-Black renters were strongly overrepresented among recipients of ERA – their share of the recipient population was 21-22 percentage points higher than their share of the eligible population
-
-The share of recipients who identify as women was 14-15 percentage points higher than their share of eligible renters.
-Renters who identify as AIAN, Pacific Islander, or Hawaiian Native were overrepresented.
-Consistent with other benefits programs, Asian renters were underrepresented among recipients of ERA.
+- Extremely low income renters were overrepresented: at 64%, their share of the recipient population was twice their share of the eligible population.
+- Black renters were strongly overrepresented among recipients of ERA – their share of the recipient population was 21-22 percentage points higher than their share of the eligible population
+- The share of recipients who identify as women was 14-15 percentage points higher than their share of eligible renters.
+- Renters who identify as AIAN, Pacific Islander, or Hawaiian Native were overrepresented.
+- Consistent with other benefits programs, Asian renters were underrepresented among recipients of ERA.
 
 ## What did we do?
 OES estimated the demographics of renters using grantee reports on households who received ERA (which included gender, race, ethnicity, and income) and compared this to the profile of ERA-eligible renters, estimated using Census data. OES took a multiple datasets approach to estimate differences in the race, ethnicity, gender, and income of renters who received and renters who were eligible for ERA.
