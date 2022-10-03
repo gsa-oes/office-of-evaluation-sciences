@@ -10,6 +10,9 @@ summary: Below are selected publications resulting from OES collaborations.
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners.
 
 ## 2022
+Adam Sacarny, Elana Safran, Mary Steffel, Jacob R. Dunham, Orolo D. Abili, Lobat Mohajeri, Patricia T. Oh, Alan Sim, Robert E. Brutcher, and Christopher Spevak. "<a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial</a>." <i>JAMA Health Forum.</i> 3(9):e223378 (2022).
+- In this randomized clinical trial, email alerts failed to detectably reduce concurrent prescribing of opioids and benzodiazepines, which can put patients at risk of overdose. The email alerts had no statistically significant effect on patient receipt of these medications or on practitioner prescribing.
+
 Allyson Root, Christopher Connolly, Season Majors, Hassan Ahmed, and Mattie Toma. "<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac069/6587354?login=true" target="_blank">Electronic blood glucose monitoring impacts on provider and patient behavior</a>." *Journal of the American Medical Informatics Association*, ocac069 (2022).
 - A large randomized controlled trial tested the impact of multiple interventions to promote use of electronic blood glucose tracking on both health providers and patients.
 
