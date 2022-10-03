@@ -32,6 +32,6 @@ There was no statistically significant difference in patients’ total receipt o
 
 <i>Related Publications</i>
 
-Sacarny A, Safran E, Steffel M, et al. Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial. <i>JAMA Health Forum.</i> 2022;3(9):e223378. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898</a>.
+Sacarny A, Safran E, Steffel M, et al. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial.</a> <i>JAMA Health Forum.</i> 2022;3(9):e223378.
 
 *You can verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">here</a>.*
