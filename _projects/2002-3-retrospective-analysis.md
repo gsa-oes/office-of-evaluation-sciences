@@ -15,8 +15,6 @@ domain: Health
 agency: Health and Human Services
 status: Complete
 summary: A retrospective analysis of targeted letters to outlier prescribers of opioids and benzodiazepines
-featured:
-  - homepage
 ---
 ## What was the challenge?
 Opioid overprescribing represents a significant public health issue. Under the Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities (SUPPORT) Act, the Centers for Medicare & Medicaid Services’ (CMS) sends annual notifications to outlier prescribers to encourage appropriate prescribing of opioids.
