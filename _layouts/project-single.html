@@ -45,11 +45,15 @@ class: page-project-single
   {% endif %}
     <br><br>
   {% if page.intervention %}
-  <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
+    <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
   {% endif %}
-   <br><br>
+    
+  {% if page.technical-appendix %}
+    <a class="usa-button" href="{{ page.technical-appendix | prepend: site.baseurl }}" target="_blank">View Technical Appendix (PDF)</a>
+  {% endif %}
+    <br><br>
   {% if page.academic-pub %}
-  <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
-{% endif %}
+    <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
+  {% endif %}
   </div>
 </div>
