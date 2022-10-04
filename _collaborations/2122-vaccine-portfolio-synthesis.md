@@ -32,7 +32,10 @@ An internal meta-analysis of the six evaluations that measured vaccination rates
 4. Leveraging vaccination administration systems to support randomized evaluations can make evidence building easier.
 <br><br>
 <p>
-<a class="usa-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610" target="_blank">Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations (PDF)</a>
+<a class="usa-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610" target="_blank">Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations</a>
+</p>
+<p>
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">Using Behavioral Science to Increase COVID-19 Vaccination Uptake (PDF)</a>
 </p>
 <br>
 <p>
