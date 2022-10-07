@@ -3,8 +3,8 @@ title: Measuring the Downstream Health Effects of SSI Take-up Among Older Adults
 permalink: /projects/ssi-health-effects/
 tags: 
   - project
-image: /assets/img/project-images/2205-image.jpeg
-image-credit:  
+image: /assets/img/project-images/2205-image.jpg
+image-credit:  https://unsplash.com/photos/78hTqvjYMS4
 analysis-plan: /assets/analysis/2205-analysis-plan.pdf
 abstract: 
 year: 2022  
