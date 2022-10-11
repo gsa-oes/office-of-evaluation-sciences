@@ -5,10 +5,10 @@ tags:
   - collaborations
   - vaccines
 image: /assets/img/project-images/othercollabs/vaccine-synthesis.jpg
+academic-pub-web: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610
 year: 2021
 domain: Health
 agency: General Services Administration
-academic-pub-web: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610
 summary: Past OES evaluations can help inform vaccination efforts 
 featured: 
 ---
