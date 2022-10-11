@@ -48,5 +48,8 @@ class: page-collaborations-single
   {% if page.visualization %}
   <a class="usa-button" href="{{ page.visualization | prepend: site.baseurl }}" target="_blank">View Visualization (PDF)</a>
 {% endif %}
+    {% if page.academic-pub-web %}
+    <a class="usa-button" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
+  {% endif %}
   </div>
 </div>
