@@ -8,8 +8,8 @@ image: /assets/img/project-images/othercollabs/vaccine-synthesis.jpg
 year: 2021
 domain: Health
 agency: General Services Administration
-summary: Past OES evaluations can help inform vaccination efforts 
 academic-pub-web: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610
+summary: Past OES evaluations can help inform vaccination efforts 
 featured: 
 ---
 ## What was the challenge? 
