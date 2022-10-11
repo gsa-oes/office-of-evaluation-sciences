@@ -36,6 +36,10 @@ class: page-collaborations-single
   {% endif %}
   {% if page.academic-pub %}
   <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
+  {% endif %}
+    {% if page.academic-pub-web %}
+    <a class="usa-button" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
+  {% endif %}
 {% endif %}
   <br><br>
 {% if page.intervention %}
@@ -48,8 +52,5 @@ class: page-collaborations-single
   {% if page.visualization %}
   <a class="usa-button" href="{{ page.visualization | prepend: site.baseurl }}" target="_blank">View Visualization (PDF)</a>
 {% endif %}
-    {% if page.academic-pub-web %}
-    <a class="usa-button" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
-  {% endif %}
   </div>
 </div>
