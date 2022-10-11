@@ -9,6 +9,7 @@ year: 2021
 domain: Health
 agency: General Services Administration
 summary: Past OES evaluations can help inform vaccination efforts 
+academic-pub-web: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610
 featured: 
 ---
 ## What was the challenge? 
@@ -31,9 +32,6 @@ An internal meta-analysis of the six evaluations that measured vaccination rates
 3. Rapid evaluations of vaccination uptake interventions in real-world contexts are essential for learning what works in specific contexts for populations of interest.
 4. Leveraging vaccination administration systems to support randomized evaluations can make evidence building easier.
 <br><br>
-<p>
-<a class="usa-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967610" target="_blank">Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations</a>
-</p>
 <p>
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">Using Behavioral Science to Increase COVID-19 Vaccination Uptake (PDF)</a>
 </p>
