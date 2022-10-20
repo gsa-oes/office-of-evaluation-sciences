@@ -24,9 +24,9 @@ OES is collaborating with the Office of Management and Budget Evidence Team and 
 ### Relevant OES Resources
 | Date  | Resource |
 | :--- | :--- |
-| December 15, 2021 |<a class="usa-button" href="https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan" target="_blank">Blog: GSA to Build Evidence to Advance Equitable Outcomes through the ARP </a>|
-| June 9, 2022  | <a class="usa-button" href="https://oes.gsa.gov/blog/build-equitable-recovery/" target="_blank">Blog: Learning What Works to Build an Equitable Recovery</a> |
-| October 20, 2022  | <a class="usa-button" href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-to-build-evidence-on-advancing-equitable-outcomes-through-the-american-rescue-plan-10202022" target="_blank">News Release: GSA Awards Multi-Year Evaluation Contract on Equity and the ARP </a> |
+| December 15, 2021 |<a href="https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan" target="_blank">Blog: GSA to Build Evidence to Advance Equitable Outcomes through the ARP </a>|
+| June 9, 2022  | <a href="https://oes.gsa.gov/blog/build-equitable-recovery/" target="_blank">Blog: Learning What Works to Build an Equitable Recovery</a> |
+| October 20, 2022  | <a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-to-build-evidence-on-advancing-equitable-outcomes-through-the-american-rescue-plan-10202022" target="_blank">News Release: GSA Awards Multi-Year Evaluation Contract on Equity and the ARP </a> |
 
 
 
