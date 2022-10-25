@@ -15,7 +15,26 @@ OES accepts applications annually for one-year fellowships beginning in the fall
 
 Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. To date, OES has completed <a href="http://oes.gsa.gov/work" target="_blank">many randomized evaluations</a> with dozens of agency partners. OES follows the best practices in social science research to build evidence in order to be a <a href="http://oes.gsa.gov/methods" target="_blank">leader in transparency and accountability.</a> OES forms innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as  opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency. 
 
-Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by <a href="{{ '/assets/files/GSA_OES_Fellowship_SolicitationFY22.pdf' | prepend: site.baseurl }}" target="_blank">viewing the 2022 Fellowship Solicitation</a>. 
+Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail.
+
+### Join OES - Apply Now
+All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve full-time in additional years preferred. 
+- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf">Fellowship Solicitation (PDF)</a>  - deadline: 11:59pm ET on Wednesday, January 11, 2023
+- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Detail-Solicitation-FY23.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Wednesday, January 11, 2023
+
+<a class="usa-button" href="https://forms.gle/2Hnz8AFv42Nz7uWY7">Submit application here</a>
+
+The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES fellows’ experiences here</a>.
+
+<i>Note: If you are unable to access the application through Google Forms, <a href="https://oes.gsa.gov/assets/files/oes-fy23-fellowship-application.pdf">please see the full application here</a> and send the required documents in PDF format to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> with the subject line: "Last Name, First Name, OES Fellowship Application 2023." PDF document titles should also follow this format (eg, “Last Name, First Name, Cover Letter”). </i>
+
+#### Fellowship Details
+
+Fellows and Associate Fellows join OES on loan from academic, non-profit or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University, and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science, and MDRC) and federal departments (e.g., Department of Labor, the US Forest Service, and the National Science Foundation). <a href="http://oes.gsa.gov/team">Current team member bios are available here</a>.  Fellows coming from academic or non-profit institutions will join the team through an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a>. Full-time fellowships begin in Fall 2023.
+
+#### Federal Detail Opportunities
+
+Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees. We’ve also had Presidential Management Fellows join for a rotation. 
 
 ## Frequently Asked Questions
 <section class="usa-accordion featured bg-white padding-1">
@@ -73,7 +92,7 @@ What is the difference between Fellows and Associate Fellows?
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b4">
-My fall semester (Fall 2022) is already scheduled - what about Jan. 2023?
+My fall semester (Fall 2023) is already scheduled - what about Jan. 2024?
       </button>
   </h2>
   <div id="b4" class="usa-accordion__content usa-prose">
@@ -129,7 +148,7 @@ Do you offer summer internships (Associate Fellows Candidates)?
   </h2>
   <div id="b7" class="usa-accordion__content usa-prose">
 <p>
-OES is not currently seeking summer interns, as we believe the value derived from supporting our work lends itself to a longer timeline. The work of  opportunity identification, experiment design, implementation, and analysis often takes longer than 2-3 months. If you are a graduate student  interested in applying to our team, we would encourage you to speak with your department or school regarding a minimum 6-month / full semester Fellowship. 
+OES is not currently seeking summer interns, as we believe the value derived from supporting our work lends itself to a longer timeline. The work of opportunity identification, experiment design, implementation, and analysis often takes longer than 2-3 months.
   </p>
    </div>
 </section>
