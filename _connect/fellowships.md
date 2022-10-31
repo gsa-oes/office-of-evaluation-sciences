@@ -215,7 +215,7 @@ I am very interested in applying for this fellowship, but saw from the descripti
   </h2>
   <div id="b11" class="usa-accordion__content usa-prose">
 <p>
-The mechanism we use to bring on fellows for this position is via an IPA agreement and requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This agreement allows for up to a 4-year term with an agency. If you are still verifying what organization you will be affiliated with next year, you can still apply to the fellowship. We plan to discuss potential candidates intended IPA mechanisms at the point of final round interviews, around February or March.
+The mechanism we use to bring on fellows for this position is via an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a> and requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This agreement allows for up to a 4-year term with an agency. If you are still verifying what organization you will be affiliated with next year, you can still apply to the fellowship. We plan to discuss potential candidates intended IPA mechanisms at the point of final round interviews, around February or March.
   </p>
    </div>
 </section>
