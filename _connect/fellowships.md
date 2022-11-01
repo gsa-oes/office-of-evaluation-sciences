@@ -17,14 +17,15 @@ Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or gove
 
 ### Join OES - Apply Now
 All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve full-time in additional years preferred. 
-- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf">Fellowship Solicitation (PDF)</a>  - deadline: 11:59pm ET on Wednesday, January 11, 2023
-- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Detail-Solicitation-FY23.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Wednesday, January 11, 2023
 
 <a class="usa-button" href="https://forms.gle/2Hnz8AFv42Nz7uWY7">Submit application here</a>
 
-The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES fellows’ experiences here</a>.
+- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf">Fellowship Solicitation (PDF)</a>  - deadline: 11:59pm ET on Wednesday, January 11, 2023
+- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Detail-Solicitation-FY23.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Wednesday, January 11, 2023
 
-<i>Note: If you are unable to access the application through Google Forms, <a href="https://oes.gsa.gov/assets/files/oes-fy23-fellowship-application.pdf">please see the full application here</a> and send the required documents in PDF format to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> with the subject line: "Last Name, First Name, OES Fellowship Application 2023." PDF document titles should also follow this format (eg, “Last Name, First Name, Cover Letter”). </i>
+Please apply for both applications via the button above. If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out before the deadline above.
+
+The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES fellows’ experiences here</a>.
 
 #### Fellowship Details
 
@@ -32,7 +33,7 @@ Fellows and Associate Fellows join OES on loan from academic, non-profit or gove
 
 #### Federal Detail Opportunities
 
-Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments. Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees. We’ve also had Presidential Management Fellows join for a rotation. 
+Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments (minimum of six months, and preferably for two or more years). Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees. We’ve also had Presidential Management Fellows join for a rotation. 
 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
@@ -77,9 +78,9 @@ What is the difference between Fellows and Associate Fellows?
   </h2>
   <div id="b3" class="usa-accordion__content usa-prose">
 <p>
-  - <i>Fellows</i> have substantial expertise in the social and behavioral sciences field. Typically they are researchers with a PhD and publication record in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
+  - <u>Fellows</u> have substantial expertise in a social and behavioral sciences field. Typically they are researchers with a PhD and publication record in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
   <br>
-  - <i>Associate Fellows</i> typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.<br>
+  - <u>Associate Fellows</u> typically have recently completed a PhD or postdoc, or have a Master’s Degree plus two or more years of relevant experience.<br>
 - Please note that it’s the same application process, just with different qualifications.
     </p>
    </div>
@@ -97,7 +98,7 @@ My fall semester (Fall 2023) is already scheduled - what about Jan. 2024?
   </h2>
   <div id="b4" class="usa-accordion__content usa-prose">
 <p>
-We understand academic timelines are locked well in advance and some have already made commitments for this fall. We do encourage you to apply in this round for a 2022 calendar-year Fellowship, and are open to having a conversation regarding timeline with qualified individuals. In general we will prioritize individuals that are available in the Fall, but are open to year long Fellowships which start a bit later in some cases. 
+We understand academic timelines are locked well in advance and some candidates have already made commitments for this fall. We do encourage you to apply in this round for a 2022 calendar-year Fellowship, and are open to having a conversation regarding timeline with qualified individuals. In general we will prioritize individuals that are available in the Fall, but are open to year long Fellowships which start a bit later in some cases. 
     </p>
    </div>
 </section>
