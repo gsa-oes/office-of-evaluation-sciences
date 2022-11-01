@@ -98,7 +98,7 @@ My fall semester (Fall 2023) is already scheduled - what about Jan. 2024?
   </h2>
   <div id="b4" class="usa-accordion__content usa-prose">
 <p>
-We understand academic timelines are locked well in advance and some candidates have already made commitments for this fall. We do encourage you to apply in this round for a 2022 calendar-year Fellowship, and are open to having a conversation regarding timeline with qualified individuals. In general we will prioritize individuals that are available in the Fall, but are open to year long Fellowships which start a bit later in some cases. 
+We understand academic timelines are locked well in advance and some candidates have already made commitments for this fall. We do encourage you to apply in this round for a 2023 calendar-year Fellowship, and are open to having a conversation regarding timeline with qualified individuals. In general we will prioritize individuals that are available in the Fall, but are open to year long Fellowships which start a bit later in some cases. 
     </p>
    </div>
 </section>
