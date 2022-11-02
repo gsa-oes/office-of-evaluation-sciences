@@ -27,7 +27,7 @@ Please apply for both applications via the button above. If you are not able to 
 
 The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES fellows’ experiences here</a>.
 
-#### Fellowship Details
+#### Fellowship Opportunities
 
 Fellows and Associate Fellows join OES on loan from academic, non-profit or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University, and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science, and MDRC) and federal departments (e.g., Department of Labor, the US Forest Service, and the National Science Foundation). <a href="http://oes.gsa.gov/team">Current team member bios are available here</a>.  Fellows coming from academic or non-profit institutions will join the team through an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a>. Full-time fellowships begin in Fall 2023.
 
