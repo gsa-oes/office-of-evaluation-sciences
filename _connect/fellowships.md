@@ -9,7 +9,7 @@ summary:
 ---
 
 ## OES Annual Fellowship
-<a class="usa-button" href="https://forms.gle/2Hnz8AFv42Nz7uWY7">Apply Now</a>
+<a class="usa-button" href="https://forms.gle/2Hnz8AFv42Nz7uWY7">Apply now</a>
 
 OES accepts applications annually for one-year fellowships beginning in the fall. Based at the U.S. General Services Administration (GSA), <a href="https://oes.gsa.gov/team/" target="_blank">OES is a team of interdisciplinary experts</a> that works across government to help agencies build and use evidence. 
 
