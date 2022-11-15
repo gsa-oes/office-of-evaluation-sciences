@@ -37,6 +37,13 @@ Fellows and Associate Fellows join OES on loan from academic, non-profit or gove
 
 Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments (minimum of six months, and preferably for two or more years). Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees. We’ve also had Presidential Management Fellows join for a rotation. 
 
+### Office Hours
+Our team will also be holding two office hours sessions in early December to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required. 
+| Date | Time | Registration |
+| ---- | ---- |------------- |
+| Thursday, December 8, 2022 | 2:30pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJIsdeyprzMiHiPj4ylC5oYvpbVVvyJ6Ugo">Register here</a> | 
+|Tuesday, December 13, 2022 | 1pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJItcOCgrzkqHLPQvOfYZSlU8EcWxPFNrdU">Register here</a> |
+
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 
 ## Frequently Asked Questions
