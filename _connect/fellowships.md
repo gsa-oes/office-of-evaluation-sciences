@@ -39,6 +39,7 @@ Federal employees serve as Fellows via detail assignments with negotiable start 
 
 ### Office Hours
 Our team will also be holding two office hours sessions in early December to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required. 
+
 | Date | Time | Registration |
 | :--- | :--- | :--- |
 | Thursday, December 8, 2022 | 2:30pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJIsdeyprzMiHiPj4ylC5oYvpbVVvyJ6Ugo">Register here</a> | 
