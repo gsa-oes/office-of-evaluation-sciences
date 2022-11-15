@@ -9,7 +9,7 @@ class:
 summary: 	
 ---
 
-The OES four-year Strategic Plan outlines our goals, strategic objectives, performance measures, and key capabilities for fiscal years 2022–2026. The plan will guide our decisions over the coming years, allowing the team to make meaningful contributions to and achievements within the federal government. The plan positions our team to support federal agency leadership and policymakers in expanding their use of evidence to inform decisions and investments in three priority areas.
+The OES four-year Strategic Plan outlines our goals, strategic objectives, performance measures, and key capabilities for fiscal years 2022–2025. The plan will guide our decisions over the coming years, allowing the team to make meaningful contributions to and achievements within the federal government. The plan positions our team to support federal agency leadership and policymakers in expanding their use of evidence to inform decisions and investments in three priority areas.
 <br>
   <img src="{{ '/assets/img/project-images/othercollabs/equity-hand.png' | prepend: site.baseurl }}" alt="Hand with a key in the palm" width="300">
   <h2>Make access to federal programs easier and more equitable.</h2>
@@ -29,4 +29,4 @@ In the years ahead, we will focus on building evidence to make federal programs 
 
 We welcome you to share feedback on our strategic plan and ideas for collaboration. Please email <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. 
 
-<p><a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Strategic-Plan-FY22-26.pdf">Read our Strategic Plan (PDF)</a></p>
+<p><a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Strategic-Plan-FY22-25.pdf">Read our Strategic Plan (PDF)</a></p>
