@@ -7,6 +7,13 @@ hide_image: true
 class:
 summary: Check out our upcoming events and workshops.
 ---
+## 2023 Fellowship Office Hours
+OES is <a href="https://oes.gsa.gov/opps/">currently accepting applications for our 2023 Fellowship</a>! We will be holding two office hours sessions in early December to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required.
+
+| Date | Time | Registration |
+| :--- | :--- | :--- |
+| Thursday, December 8, 2022 | 2:30pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJIsdeyprzMiHiPj4ylC5oYvpbVVvyJ6Ugo">Register here</a> | 
+|Tuesday, December 13, 2022 | 1pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJItcOCgrzkqHLPQvOfYZSlU8EcWxPFNrdU">Register here</a> |
 
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> **A PDF of the FY2023 training schedule is <a href="http://oes.gsa.gov/assets/files/FY23-workshop-calendar.pdf" target="_blank">available here.</a>**
