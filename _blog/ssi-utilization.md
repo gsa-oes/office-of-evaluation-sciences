@@ -1,7 +1,7 @@
 ---
 layout: page	
 title: Using OES evidence to inform SSA’s outreach to low-income elderly populations
-permalink: /blog/ssi-takeup/	
+permalink: /blog/ssi-utilization/	
 image: /assets/img/project-images/2205-image.jpg
 hide_image: true
 year: 2033
@@ -32,7 +32,7 @@ The initial OES study explored the effects of tailored mailings on SSI applicati
 
 In combination, these studies will help policymakers understand how to continue to implement policy changes to effectively encourage SSI uptake and improve recipient outcomes.
 
-<img src="{{ '/assets/img/project-images/ssi-timeline.svg' | prepend: site.baseurl }}" alt="" width="1500">
+<img src="{{ '/assets/img/project-images/ssi-timeline.svg' | prepend: site.baseurl }}" alt="A timeline showing media coverage and evidence-based policy commitments following the OES evaluation in 2018." width="1500">
 <i><a href="https://oes.gsa.gov/assets/img/project-images/ssi-timeline.svg">Expand image</a></i>
 
 ### Notes
