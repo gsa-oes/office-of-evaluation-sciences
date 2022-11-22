@@ -39,6 +39,8 @@ All of the letters had a large and statistically significant impact on applicati
 <br>
 <p>
 <a class="usa-button" href="https://oes.gsa.gov/blog/ssi-awards/" target="_blank">Read the Blog: OES Letters Quadrupled SSI awards</a>
+
+  <a class="usa-button" href="https://oes.gsa.gov/blog/ssi-utilization/">Read the Blog: Using OES Evidence to Inform SSA Outreach</a>
 </p>
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">click here</a>.</i>
