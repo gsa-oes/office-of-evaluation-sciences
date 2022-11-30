@@ -68,6 +68,7 @@ Figure 3 illustrates the prevalence of unidentified Help Desk accounts (in blue)
 
 <b>Figure 3.</b> <i>Cumulative Proportion of Help Desk Ticket Requests</i>
 <img src="{{ '/assets/img/project-images/2112G-fig3.png' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig3.png">Expand image</a></i>
 
 Figure 4 shows Help Desk tickets that can be matched to Tribes (orange) and NEUs (green). Compared to the entire population of Help Desk tickets with names, among the matched population of Tribe and NEUs there is less overrepresentation of select Tribes and NEUs: 10% of Tribes and NEUs contributed about 30% of Tribes’ and NEUs’ Help Desk ticket submissions compared to 10% of accounts submitting 40% of tickets across all identified accounts. In the middle and low-end of Help Desk ticket submitters, Tribes and NEUs are comparable to the total identified population: 25% of Tribe and NEU accounts contribute about 60% of tickets, which closely mirrors the full identified population, and 50% of Tribe and NEU accounts contribute about 80% of Help Desk tickets, resembling the entire identified population. 
 
@@ -77,6 +78,7 @@ NEUs with greater budgets and allocation amounts tended to request more support 
 
 <b>Figure 4.</b> <i>Cumulative Proportion of Tribe and NEU Help Desk Ticket Submissions</i>
 <img src="{{ '/assets/img/project-images/2112G-fig4.png' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig4.png">Expand image</a></i>
 
 #### Efficiency of Help Desk System in Resolving Recipients’ Questions 
 The median closure time of Help Desk tickets ranged between 13-15 days for the entire recipient population, Tribes, and NEUs.¹¹ While 25% of all recipients had a closure time of three days or less, another 25% of recipients had a closure time of 30 days or more. Closure times were similar, on average, among the three types of recipients (Tribes, NEUs, and non-Tribes/NEUs). 
@@ -91,6 +93,7 @@ Tribes and NEUs that did not submit spending reports  on-time also filed more He
 
 <b>Figure 5.</b> <i>NEU Help Desk Tickets and Resolution Times Before and After the April 2022 Submission Deadline</i>
 <img src="{{ '/assets/img/project-images/2112G-fig5.svg' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig5.svg">Expand image</a></i>
 
 ## Build Evidence
 Treasury and OES undertook this analysis early in the life cycle of the SLFRF program. Key findings from the study were that for many Tribes and NEUs, SLFRF was the first time that they received federal funding and there was uncertainty about the processes and potential requirements around receiving SLFRF funds. Tribe and NEU context varies widely, which created practical barriers for some Tribes’ and NEUs’ participation in the program. Both Tribes and NEUs expressed appreciation for the funding, the flexibility in how it can be used, and for the streamlined reporting requirements under the Final Rule. 
@@ -101,6 +104,7 @@ Using these findings, OES and Treasury will work together to identify methods  t
 
 <b>Figure 1:</b> <i>Tribal Government (Tribe) SLFRF Journey</i>
 <img src="{{ '/assets/img/project-images/2112G-fig1.svg' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
 
 <b>Notes for figures 1 and 2:</b> 
   1. N refers  to the number of times a feeling/statement was mentioned throughout all conversations. Therefore, total N may sum to more than the number of individuals present in any one conversation. Total N is 193 for Tribes and 163 for NEUs.
@@ -108,6 +112,7 @@ Using these findings, OES and Treasury will work together to identify methods  t
 
 <b>Figure 2:</b> <i>Non-Entitlement Unit of local government (NEUs) SLFRF Journey</i>
 <img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
 
 ## Notes
 1. As defined in section 602(g)(7) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021.
