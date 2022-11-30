@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/2112G-image.jpg
 image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=391292&picture=street-in-a-town
 analysis-plan: /assets/analysis/2112G-3-analysis-plan.pdf
-abstract: /assets/abstracts/2112G-abstract.pdf
+abstract-web: /results/slfrf-tribal-govs-neus/
 year: 2022 
 domain: Economic Opportunity
 agency: Treasury
