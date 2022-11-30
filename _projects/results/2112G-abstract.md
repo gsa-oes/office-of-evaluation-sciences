@@ -34,6 +34,18 @@ The qualitative analysis revealed that there is significant variation in Tribes�
 
 Figures 1 and 2 show the journey that Tribes and NEUs went through, from learning about the SLFRF program to submitting their spending reports. The figures include information about the number of times a statement was made (including by the same speaker) during the conversations, summing to a total N of 193 for Tribes and 163 for NEUs. Only statements that were made more than once are included in the figures. Throughout their journey, Tribes and NEUs relied on Treasury’s resources and staff to learn about the program, how to allocate and spend their funds, and how to submit their spending reports. At the outset of the program, both Tribe and NEU representatives were initially concerned about accepting SLFRF funds. For representatives of Tribes, this was due to mistrust of federal funding, uncertainty around the potential for audits, and perceptions that Tribes were competing with one another for funds. For representatives of NEUs, their concern derived from their inexperience with federal funding and concern about needing to repay unspent funds. The funding that Tribes and NEUs received was greatly appreciated. Both entities, however, felt that it was insufficient to cover all their needs. For some Tribes, there was uncertainty about how they should allocate their funds to maximize impact and a lack of capacity to oversee project contractors. A number of NEUs felt that the funding was insufficient to cover long-standing infrastructure needs and most delayed spending funds until the release of the Final Rule (which built on the Interim Final Rule to clarify eligible and ineligible uses of SLFRF funds) due to fear of having to repay funds in the event that the rules changed from the Interim Final Rule. Both Tribes and NEUs identified inflation and constrained supply chains as issues that prevented them from realizing some of their anticipated project aims.
 
+<b>Figure 1:</b> <i>Tribal Government (Tribe) SLFRF Journey</i>
+<img src="{{ '/assets/img/project-images/2112G-fig1.svg' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
+
+<b>Figure 2:</b> <i>Non-Entitlement Unit of local government (NEUs) SLFRF Journey</i>
+<img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
+
+<b>Notes for figures 1 and 2:</b> 
+  1. N refers  to the number of times a feeling/statement was mentioned throughout all conversations. Therefore, total N may sum to more than the number of individuals present in any one conversation. Total N is 193 for Tribes and 163 for NEUs.
+  2. Tribes and NEUs shared the opportunity areas based on their experience. Treasury may not be able to implement them due to legal, logistical, or other reasons.
+
 Tribes and NEUs generally expressed appreciation for Treasury’s resources and responsiveness when they needed to submit spending reports on their use of funds. However, the desire for additional support early in the process was noted by a large number of NEUs, and representatives of both Tribes and NEUs experienced significant issues with registering for Treasury’s reporting portal. While the flexibility provided by the standard allowance in the Final Rule was welcome, both Tribes and NEUs expressed concern with the required frequency and extent of reporting that are required when receiving federal funding.
 
 ### Quantitative Analysis
@@ -101,18 +113,6 @@ Treasury and OES undertook this analysis early in the life cycle of the SLFRF pr
 Tribes and NEUs were appreciative of the wide variety of resources Treasury provided, both for allocating, and reporting on, SLFRF funding. Both types of recipients experienced notable difficulty in accessing the reporting portal, but stated that the portal and reporting process were easy to use once the technical issues were resolved. Analysis of Help Desk tickets confirms this; both Tribes and NEUs submitted a significant number of Help Desk requests for technical support from Treasury. However, Treasury was generally able to sustain Help Desk support for recipients despite large surges in demand around key deadlines.
 
 Using these findings, OES and Treasury will work together to identify methods  to further support Tribes and NEUs to most effectively use and report on their SLFRF funds.
-
-<b>Figure 1:</b> <i>Tribal Government (Tribe) SLFRF Journey</i>
-<img src="{{ '/assets/img/project-images/2112G-fig1.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
-
-<b>Notes for figures 1 and 2:</b> 
-  1. N refers  to the number of times a feeling/statement was mentioned throughout all conversations. Therefore, total N may sum to more than the number of individuals present in any one conversation. Total N is 193 for Tribes and 163 for NEUs.
-  2. Tribes and NEUs shared the opportunity areas based on their experience. Treasury may not be able to implement them due to legal, logistical, or other reasons.
-
-<b>Figure 2:</b> <i>Non-Entitlement Unit of local government (NEUs) SLFRF Journey</i>
-<img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
 
 ## Notes
 1. As defined in section 602(g)(7) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021.
