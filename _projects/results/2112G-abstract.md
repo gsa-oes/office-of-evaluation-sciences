@@ -44,7 +44,17 @@ Turning to NEUs, the statistics generally mirror the U.S. population average. Th
 
 <b>Table 1.</b> <i>Descriptive Statistics for Tribes and NEUs</i>
 
+| Indicator | Tribe <br>Mean <br>[Q₁-Q₃] | NEU <br>Mean <br>[Q₁-Q₃] | US <br>Mean |
+| :--- | :--- | :--- | :--- |
+| Population | 48,758 <br>[3,456-86,168] | 27,064 <br>[4,773-28,349] | 325 m |
+| Median age | 31 <br>[27-33] | 40 <br>[36-44] | 38 |
+| Pct. experiencing poverty | 31 <br>[22-39] | 8 <br>[3-12] | 12 |
+| Pct. BA or greater | 11 <br>[7-14] | 23 <br>[13-30] | 34 |
+| Pct.  commute >=60 minutes | N/A | 9 <br>[4-12] | 9 |
+| Pct.  without internet | 40 <br>[27-55] | 15 <br>[8-19] | 15 |
+
 Note: The statistic for age is the mean of median age in all jurisdictions within each column.
+
 Source: 2015–2019 sampling frame of the American Community Survey.
 
 For Tribes and NEUs, about 80% of the variation in the variables listed in Table 1 occurs within regional and state boundaries, respectively. This result shows that Tribes and NEUs are very heterogeneous, even within their regional and state boundaries, and is relevant insofar as this diversity affects Treasury’s ability to administer the program. For example, this result might indicate that Treasury should not target resources (e.g., technical support) to Tribes/NEUs by region/state since characteristics of Tribes/NEUs are nearly as variable within the boundary as they are across the country. 
