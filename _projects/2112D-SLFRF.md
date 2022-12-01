@@ -8,7 +8,6 @@ image: /assets/img/project-images/SLFRF-2112D-image.jpg
 image-credit: https://pxhere.com/en/photo/1598093
 analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112D-SLFRF-abstract.pdf
-intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
 domain: Economic Opportunity
 agency: Treasury
