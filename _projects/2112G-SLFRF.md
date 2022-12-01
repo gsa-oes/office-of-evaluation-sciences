@@ -12,7 +12,7 @@ year: 2022
 domain: Economic Opportunity
 agency: Treasury
 status: Ongoing
-summary: Analysis Plan Registration
+summary:
 ---
 
 ## What priority outcome did we evaluate?
