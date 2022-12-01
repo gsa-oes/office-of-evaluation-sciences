@@ -42,10 +42,6 @@ Figures 1 and 2 show the journey that Tribes and NEUs went through, from learnin
 <img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
 <i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
 
-<b>Notes for figures 1 and 2:</b> 
-  1. N refers  to the number of times a feeling/statement was mentioned throughout all conversations. Therefore, total N may sum to more than the number of individuals present in any one conversation. Total N is 193 for Tribes and 163 for NEUs.
-  2. Tribes and NEUs shared the opportunity areas based on their experience. Treasury may not be able to implement them due to legal, logistical, or other reasons.
-
 Tribes and NEUs generally expressed appreciation for Treasury’s resources and responsiveness when they needed to submit spending reports on their use of funds. However, the desire for additional support early in the process was noted by a large number of NEUs, and representatives of both Tribes and NEUs experienced significant issues with registering for Treasury’s reporting portal. While the flexibility provided by the standard allowance in the Final Rule was welcome, both Tribes and NEUs expressed concern with the required frequency and extent of reporting that are required when receiving federal funding.
 
 ### Quantitative Analysis
