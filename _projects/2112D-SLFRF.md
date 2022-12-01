@@ -14,7 +14,6 @@ domain: Economic Opportunity
 agency: Treasury
 status: Complete
 summary: Adding to-do lists and calls to action to emails increased signup on an online expenditure reporting portal
-featured: homepage
 ---
 ## What was the challenge? 
 As part of the American Rescue Plan (ARP), the Department of the Treasury (“Treasury”) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
