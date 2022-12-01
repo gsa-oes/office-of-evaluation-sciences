@@ -28,11 +28,9 @@ The Office of Evaluation Sciences (OES) and Treasury collaborated to understand 
 The qualitative analysis revealed that there is significant variation among Tribes and NEUs, which created potential challenges for some Tribes and NEUs as they worked to allocate and report on their use of funds. Local contexts range from remote locations, where costs are high, there are no dedicated administrative staff, materials/contractors are scarce, and internet connectivity is limited, to large and prosperous urban jurisdictions with dedicated administrative staff. Many Tribes and NEUs shared that they felt concerned about receiving and misspending federal funds. Tribes and NEUs relied on Treasury’s resources to learn about and implement SLFRF. And, although many NEUs and Tribes experienced challenges with registering for Treasury’s reporting portal, they appreciated the support provided by Treasury and, once in the system, most found reporting to be straightforward – largely owing to Treasury’s streamlined reporting requirements. 
 
 <img src="{{ '/assets/img/project-images/2112G-fig1.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<b>Figure 1.</b> <i>Tribal Government journey map</i>
 <br><i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
 
 <img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<b>Figure 2.</b> <i>NEU journey map</i>
 <br><i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
 
 ### Quantitative results
