@@ -11,8 +11,7 @@ abstract-web: /results/slfrf-tribal-govs-neus/
 year: 2022 
 domain: Economic Opportunity
 agency: Treasury
-status: Ongoing
-summary:
+status: Complete
 featured: homepage
 ---
 
