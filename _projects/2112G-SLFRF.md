@@ -13,6 +13,7 @@ domain: Economic Opportunity
 agency: Treasury
 status: Ongoing
 summary:
+featured: homepage
 ---
 
 ## What priority outcome did we evaluate?
