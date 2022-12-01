@@ -1,5 +1,5 @@
 ---
-title:  Understanding and Improving Tribal Governments’ and Non Entitlement Units’ Experiences with the State and Local Fiscal Recovery Funds Program
+title:  Understanding and Improving Tribal Governments’ and Non-Entitlement Units’ Experiences with the State and Local Fiscal Recovery Funds Program
 permalink: /projects/slfrf-tribal-govs-neus/
 tags: 
  - project
