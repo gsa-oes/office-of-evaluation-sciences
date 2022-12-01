@@ -44,6 +44,10 @@ class: page-project-single
     <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}" target="_blank">View Abstract (PDF)</a>
   {% endif %}
     <br><br>
+  {% if page.abstract-web %}
+    <a class="usa-button" href="{{ page.abstract-web | prepend: site.baseurl }}" target="_blank">View Abstract</a>
+  {% endif %}
+    <br><br>
   {% if page.intervention %}
     <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
   {% endif %}
