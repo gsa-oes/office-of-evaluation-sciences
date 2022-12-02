@@ -13,6 +13,7 @@ Below are resources we’ve developed through our work building evidence governm
 OES sends out regular newsletters with upcoming events, recent project results, and other news. You can subscribe to our newsletter <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">here</a>.
 
 ### 2022
+- <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/338510f?reqfrom=share" target="_blank">November 2022: The Office of Evaluation Sciences (OES) is Hiring!</a>
 - <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/325c020?reqfrom=share" target="_blank">August 2022: Sharing the purpose of a default increases responses</a>
 - <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/31bf701?reqfrom=share" target="_blank">June 2022: Reminder cards increased the return of unused prescription opioids</a>
 - <a href="https://content.govdelivery.com/accounts/USGSA/bulletins/314f329?reqfrom=share" target="_blank">April 2022: A series of emails and a letter increased take-up of the American Opportunity Tax Credit</a>
