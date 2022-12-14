@@ -12,7 +12,7 @@ project_tags:
 ---
 
 ## Background
-The <a href="https://www.congress.gov/bill/117th-congress/house-bill/1319/text" target="_blank">American Rescue Plan Act of 2021</a> (ARP) was designed to address immediate needs related to the pandemic, with a specific focus on addressing historically disparate outcomes across race, class, and geography that were further exacerbated by the pandemic. As federal programs are innovating and finding new ways to achieve these goals, OES’ evaluations will measure whether ARP-funded interventions are working as intended and share lessons learned. 
+The <a class="usa-link usa-link--external" href="https://www.congress.gov/bill/117th-congress/house-bill/1319/text" target="_blank">American Rescue Plan Act of 2021</a> (ARP) was designed to address immediate needs related to the pandemic, with a specific focus on addressing historically disparate outcomes across race, class, and geography that were further exacerbated by the pandemic. As federal programs are innovating and finding new ways to achieve these goals, OES’ evaluations will measure whether ARP-funded interventions are working as intended and share lessons learned. 
 
 OES team members will work closely with agency partners to design and implement an evaluation, analyze data, and share findings. We’re excited to work with agency partners across government. OES will be reviewing ideas on a rolling basis in 2022. If you are interested in collaborating, please email <a href="mailto:elana.safran@gsa.gov">elana.safran@gsa.gov</a>. 
 
