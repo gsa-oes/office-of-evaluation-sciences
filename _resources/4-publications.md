@@ -41,7 +41,7 @@ Shereen J. Chaudhry, Michael Hand, and Howard Kunreuther. <a class="usa-link usa
 
 
 ## 2019
-Adam Sacarny, Andrew R. Olenski, and Michael L. Barnett. Association of Quetiapine Overuse Letters With Prescribing by Physician Peers of Targeted Recipients: A Secondary Analysis of a Randomized Clinical Trial. *JAMA Psychiatry*, June 4, 2019, <a class="usa-link usa-link--external" href="https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441?resultClick=1" target="_blank">jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441</a>.
+Adam Sacarny, Andrew R. Olenski, and Michael L. Barnett. <a class="usa-link usa-link--external" href="https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2735441?resultClick=1" target="_blank">Association of Quetiapine Overuse Letters With Prescribing by Physician Peers of Targeted Recipients: A Secondary Analysis of a Randomized Clinical Trial</a>. *JAMA Psychiatry*, June 4, 2019.
 - A randomized clinical trial of antipsychotic overuse letters that were sent by the Centers for Medicare and Medicaid Services (CMS) to high prescribers of quetiapine reduced prescribing by targeted physicians by 16% over 2 years. This study examines whether these letters led to changes in prescribing by peers of the original physicians, which would suggest that overuse interventions can have broader effects.
 
 Adam Sacarny, Michael L. Barnett, and Shantanu Agrawal. New Evidence on Stemming Low-Value Prescribing. NEJM Catalyst, April 10, 2019, <a class="usa-link usa-link--external" href="https://catalyst.nejm.org/new-evidence-stemming-overprescribing/" target="_blank">catalyst.nejm.org/new-evidence-stemming-overprescribing/</a>.
@@ -66,7 +66,7 @@ David Yokum, Julie C. Lauffenburger, Roya Ghazinouri, and Niteesh K. Choudhry.  
 
 
 ## 2017
-Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Agrawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025" target="_blank">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> *Health Affairs* 35 no. 3 (2017): 471-479. 
+Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Agrawal. <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025" target="_blank">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> *Health Affairs* 35 no. 3 (2017): 471-479. 
 - This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 Adam Sacarny, David Yokum, and Shantanu Agrawal. <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061" target="_blank">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> *American Economic Review* 107, no. 5, (2017): 466-470.	
