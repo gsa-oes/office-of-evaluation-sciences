@@ -7,16 +7,10 @@ hide_image: true
 class:
 summary: Check out our upcoming events and workshops.
 ---
-## 2023 Fellowship Office Hours
-OES is <a href="https://oes.gsa.gov/opps/">currently accepting applications for our 2023 Fellowship</a>! We will be holding two office hours sessions in early December to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required.
-
-| Date | Time | Registration |
-| :--- | :--- | :--- |
-| Thursday, December 8, 2022 | 2:30pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJIsdeyprzMiHiPj4ylC5oYvpbVVvyJ6Ugo">Register here</a> | 
-|Tuesday, December 13, 2022 | 1pm EST | <a href="https://gsa.zoomgov.com/meeting/register/vJItcOCgrzkqHLPQvOfYZSlU8EcWxPFNrdU">Register here</a> |
-
 # Evaluation and Evidence Training Series
-This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> **A PDF of the FY2023 training schedule is <a href="http://oes.gsa.gov/assets/files/FY23-workshop-calendar.pdf" target="_blank">available here.</a>**
+This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a class="usa-link usa-link--external" href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> 
+
+A PDF of the FY2023 training schedule is <a href="http://oes.gsa.gov/assets/files/FY23-workshop-calendar.pdf" target="_blank">available here.</a>
 
 ## Upcoming Federal Workshops
 
@@ -86,7 +80,7 @@ OES celebrated completing 100 collaborations across government this year. Distin
 
 ## What is the impact of applying behavioral insights in government? 
 ### Discussion of positive findings from a recent large-scale review
-Join OES in a discussion of the impact of behavioral insights in government. UC Berkeley’s Elizabeth Linos will present their <a href="https://www.nber.org/papers/w27594" target="_blank">findings from a massive review</a> of behavioral interventions in federal and local government. Members of the Office of Evaluation Sciences and the Behavioral Insights Team, along with federal experts, will share reactions and offer thoughts on next steps. 
+Join OES in a discussion of the impact of behavioral insights in government. UC Berkeley’s Elizabeth Linos will present their <a class="usa-link usa-link--external" href="https://www.nber.org/papers/w27594" target="_blank">findings from a massive review</a> of behavioral interventions in federal and local government. Members of the Office of Evaluation Sciences and the Behavioral Insights Team, along with federal experts, will share reactions and offer thoughts on next steps. 
 
 The recent paper “RCTs to Scale: Comprehensive Evidence from Two Nudge Units” analyzes how effective behaviorally informed interventions were in 126 trials across many policy areas and involving 24 million people. The researchers found an overall effect of these interventions to be statistically significant and positive at 1.4 percentage points, which translates to a relative increase of 8.1% on priority program and policy outcomes.  Notably, 87% of the OES interventions analyzed were of no marginal cost or low cost, suggesting  that applying behavioral insights can be very cost effective. 
 
