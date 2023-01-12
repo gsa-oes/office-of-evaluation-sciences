@@ -4,6 +4,7 @@ image: /assets/img/team/maya-duru.png
 year:
   - 2021
   - 2022
+  - 2023
 agency:
 home: Non-profit
 title: Fellow

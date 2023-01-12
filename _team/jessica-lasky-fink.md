@@ -4,6 +4,7 @@ image: /assets/img/team/lasky-fink.jpg
 year:
   - 2021
   - 2022
+  - 2023
 agency:
 home: University
 title: Associate Fellow

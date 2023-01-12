@@ -14,7 +14,7 @@ agency:
   - US Agency for International Development
   - Veterans Affairs
 home: University
-title: Academic Affiliate 
+title: Alum
 status: Alum
 ---
 

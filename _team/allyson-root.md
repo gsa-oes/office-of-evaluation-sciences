@@ -15,7 +15,7 @@ agency:
   - Postal Service
   - Treasury
 home: University
-title: Academic Affiliate
+title: Alum
 status: Alum
 ---
 

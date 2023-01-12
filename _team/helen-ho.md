@@ -3,6 +3,7 @@ name: Helen Ho
 image: /assets/img/team/helen-ho.jpg
 year:
   - 2022
+  - 2023
 home: University
 agency:
 title: Academic Affiliate

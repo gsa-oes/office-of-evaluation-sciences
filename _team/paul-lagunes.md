@@ -6,7 +6,7 @@ year:
   - 2022
 agency:
 home: University
-title: Postdoctoral Fellow
+title: Alum
 status: Alum
 ---
 

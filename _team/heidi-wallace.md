@@ -3,6 +3,7 @@ name: Heidi Wallace
 image: /assets/img/team/heidi-wallace.jpg
 year:
   - 2022
+  - 2023
 home: University
 agency:
 title: Academic Affiliate
