@@ -3,6 +3,7 @@ name: Adam Rudy
 image: /assets/img/team/adam-rudy.jpg
 year:
   - 2022
+  - 2023
 status: Current
 home: Government
 title: Program Manager, Talent
