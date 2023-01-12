@@ -3,6 +3,7 @@ name: Blair Read
 image: /assets/img/team/blair-read.jpg
 year:
   - 2022
+  - 2023
 home: Government
 agency:
 title: Associate Fellow
