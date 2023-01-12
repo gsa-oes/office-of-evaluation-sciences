@@ -3,9 +3,10 @@ name: Amanda Girard
 image: /assets/img/team/amanda-girard.png
 year:
   - 2022
+  - 2023
 home: University
 agency:
-title: Design Associate Fellow
+title: Design & Communications Strategist
 status: Current
 ---
 
