@@ -4,6 +4,7 @@ image: /assets/img/team/uzaib-saya.jpeg
 year:
   - 2021
   - 2022
+  - 2023
 agency:
 status: Current
 home: University
