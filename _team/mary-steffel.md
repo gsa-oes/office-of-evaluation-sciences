@@ -14,7 +14,7 @@ agency:
   - Postal Service
   - Veterans Affairs
 home: University
-title: Academic Affiliate 
+title: Alum
 status: Alum
 ---
 
