@@ -3,6 +3,7 @@ name: Bill Schultz
 image: /assets/img/team/bill-schultz.jpg
 year:
   - 2022
+  - 2023
 home: Government
 agency:
 title: Data Scientist
