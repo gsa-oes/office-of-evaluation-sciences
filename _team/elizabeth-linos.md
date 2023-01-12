@@ -3,6 +3,7 @@ name: Elizabeth Linos
 image: /assets/img/team/elizabeth-linos.jpg
 year:
   - 2022
+  - 2023
 home: University
 agency:
 title: Academic Affiliate

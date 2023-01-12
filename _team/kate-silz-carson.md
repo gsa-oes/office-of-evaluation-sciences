@@ -4,7 +4,7 @@ image: /assets/img/team/Katherine-Silz-Carson.jpg
 year:
   - 2022
 home: University
-title: Fellow
+title: Alum
 status: Alum
 ---
 

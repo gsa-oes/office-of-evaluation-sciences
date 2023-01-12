@@ -8,34 +8,12 @@ class:
 summary: 
 ---
 
-## OES Annual Fellowship
-<a class="usa-button" href="https://forms.gle/2Hnz8AFv42Nz7uWY7">Apply now</a>
-
+## OES Annual Fellowship Overview
 OES accepts applications annually for one-year fellowships beginning in the fall. Based at the U.S. General Services Administration (GSA), <a href="https://oes.gsa.gov/team/" target="_blank">OES is a team of interdisciplinary experts</a> that works across government to help agencies build and use evidence. 
 
-Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. We are uniquely situated at the center of government to share leading practices, develop resources, and build skills in the Federal workforce on evidence and evaluation. To date, we have completed <a href="http://oes.gsa.gov/work" target="_blank">over 120 collaborations</a>, including nearly 100 impact evaluations, with dozens of agency partners. We follow the best practices in social science research to build evidence in order to be a <a href="http://oes.gsa.gov/methods" target="_blank">leader in transparency and accountability.</a> We form innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as  opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency. 
+Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. To date, OES has completed <a href="http://oes.gsa.gov/work" target="_blank">many randomized evaluations</a> with dozens of agency partners. OES follows the best practices in social science research to build evidence in order to be a <a href="http://oes.gsa.gov/methods" target="_blank">leader in transparency and accountability.</a> OES forms innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as  opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency. 
 
-Fellows and Associate Fellows join the OES team on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail.
-
-### Join OES - Apply Now
-All fellowship positions will be remote and location flexible within the United States. Fellows will serve at least a one year term, with interest and availability to serve full-time in additional years preferred. 
-
-<a class="usa-button" href="https://forms.gle/2Hnz8AFv42Nz7uWY7">Submit application here</a>
-
-- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf">Fellowship Solicitation (PDF)</a>  - deadline: 11:59pm ET on Wednesday, January 11, 2023
-- <a href="https://oes.gsa.gov/assets/files/GSA-OES-Detail-Solicitation-FY23.pdf">Federal Detail Solicitation (PDF)</a> - deadline: 11:59pm ET on Wednesday, January 11, 2023
-
-Please apply for both applications via the button above. If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out before the deadline above.
-
-The work and role of OES is unique and includes directly designing, implementing, and analyzing behavioral interventions through impact evaluations in a large-scale federal policy environment. OES Fellows apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Fellows design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES fellows’ experiences here</a>.
-
-#### Fellowship Opportunities
-
-Fellows and Associate Fellows join OES on loan from academic, non-profit or government offices on either a reimbursable or non-reimbursable basis.  Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University, and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science, and MDRC) and federal departments (e.g., Department of Labor, the US Forest Service, and the National Science Foundation). <a href="http://oes.gsa.gov/team">Current team member bios are available here</a>.  Fellows coming from academic or non-profit institutions will join the team through an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a>. Full-time fellowships begin in Fall 2023.
-
-#### Federal Detail Opportunities
-
-Federal employees serve as Fellows via detail assignments with negotiable start dates and lengths of assignments (minimum of six months, and preferably for two or more years). Fellows coming from Federal Agencies will join the team on a reimbursable detail using an Inter-Agency Agreement (IAA). We’ve had federal employees join the team from other federal agencies including HUD, USDA, DOL, and ED as detailees. We’ve also had Presidential Management Fellows join for a rotation. 
+Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by <a href="{{ '/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf' | prepend: site.baseurl }}" target="_blank">viewing the 2023 Fellowship Solicitation</a>. 
 
 <iframe src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 

@@ -3,6 +3,7 @@ name: Lizzie Martin
 image: /assets/img/team/lizzie-martin.jpg
 year:
   - 2022
+  - 2023
 agency:
 home: Government
 title: Associate Fellow

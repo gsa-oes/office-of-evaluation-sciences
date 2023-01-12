@@ -4,6 +4,7 @@ image: /assets/img/team/syon_bhanot.jpg
 year:
   - 2021
   - 2022
+  - 2023
 home: University
 agency:
   - Treasury

@@ -11,7 +11,7 @@ agency:
   - Housing and Urban Development
   - Veterans Affairs
 home: Non-profit
-title: Academic Affiliate
+title: Alum
 status: Alum
 ---
 

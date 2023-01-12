@@ -3,6 +3,7 @@ name: Tyler Simko
 image: /assets/img/team/tyler-simko.jpg
 year:
   - 2022
+  - 2023
 home: Government
 agency:
 title: Data Scientist

@@ -9,7 +9,7 @@ domain:
 agency:
   - US Agency for International Development
 home: 
-title: Academic Affiliate
+title: Alum
 status: Alum
 ---
 

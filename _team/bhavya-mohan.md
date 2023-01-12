@@ -4,6 +4,7 @@ image: /assets/img/team/Mohan_Bhavya.jpg
 year:
   - 2021
   - 2022
+  - 2023
 home: University
 agency:
 title: Fellow

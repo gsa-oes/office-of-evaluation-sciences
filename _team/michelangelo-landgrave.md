@@ -6,7 +6,7 @@ year:
   - 2022
 agency:
 home: University
-title: Associate Fellow
+title: Alum
 status: Alum
 ---
 
