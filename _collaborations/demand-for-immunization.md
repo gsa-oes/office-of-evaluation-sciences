@@ -3,7 +3,7 @@ title:  Evaluating Global Vaccine Demand and Uptake - A Collaboration between OE
 permalink: /collaborations/demand-for-immunization/
 tags:
   - collaborations
-image: /assets/img/project-images/othercollabs/2203-3-image.jpg
+image: /assets/img/cdc-gid.jpg
 year: 2023
 domain: Global Helth
 agency: 
