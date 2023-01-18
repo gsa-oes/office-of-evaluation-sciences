@@ -1,5 +1,5 @@
 ---
-title:  Guiding evaluations of Global Vaccine Demand and Uptake
+title:  Guiding Evaluations of Global Vaccine Demand and Uptake
 permalink: /collaborations/demand-for-immunization/
 tags:
   - collaborations
