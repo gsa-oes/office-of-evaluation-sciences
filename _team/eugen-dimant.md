@@ -3,6 +3,7 @@ name: Eugen Dimant
 image: /assets/img/team/eugen-dimant.jpg
 year:
   - 2022
+  - 2023
 home: Government
 agency:
 title: Associate Fellow

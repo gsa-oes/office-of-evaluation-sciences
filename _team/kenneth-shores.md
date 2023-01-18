@@ -3,6 +3,7 @@ name: Kenneth Shores
 image: /assets/img/team/kenneth-shores.jpg
 year:
   - 2022
+  - 2023
 home: University
 agency:
 title: Fellow

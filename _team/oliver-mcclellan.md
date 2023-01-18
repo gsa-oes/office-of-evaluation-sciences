@@ -3,6 +3,7 @@ name: Oliver McClellan
 image: /assets/img/team/oliver-mcclellan.jpg
 year:
   - 2022
+  - 2023
 home: Government
 title: Methods Lead
 status: Current

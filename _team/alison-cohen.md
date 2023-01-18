@@ -3,6 +3,7 @@ name: Alison Cohen
 image: /assets/img/team/alison-cohen.png
 year:
   - 2022
+  - 2023
 home: University
 agency:
 title: Fellow
