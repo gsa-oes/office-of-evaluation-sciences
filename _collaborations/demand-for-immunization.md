@@ -5,7 +5,7 @@ tags:
   - collaborations
 image: /assets/img/cdc-gid.jpg
 year: 2023
-domain: Global Helth
+domain: Global Health
 agency: 
   - Health and Human Services
 summary: A collaboration between OES and CDC's Demand for Immunization Team (DIT)
