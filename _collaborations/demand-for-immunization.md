@@ -46,6 +46,6 @@ The guide suggests key tips for thinking about conducting impact evaluations in 
 
 The guide may be used by the DIT in several ways: in scoping out new projects within GID and with its external partners, especially as the team builds, tests, and uses various tools to assess behavioral and social drivers of vaccine demand and uptake; in evaluating existing vaccine demand and uptake interventions with partners; and in shaping the research agenda with other programmatic and research stakeholders where DIT may request impact evaluations of interventions it supports. Ultimately, the DIT can also use estimates derived from impact evaluations alongside empirical cost data collected by other GID teams to estimate the cost-effectiveness and sustainability of vaccine demand interventions.
 
-## Notes
+### Notes
 1. <a class="usa-link usa-link--external" href="https://www.who.int/news/item/15-07-2022-covid-19-pandemic-fuels-largest-continued-backslide-in-vaccinations-in-three-decades" target="_blank">Immunization Coverage</a>. World Health Organization. July 14, 2022.
 2. <a class="usa-link usa-link--external" href="https://apps.who.int/iris/handle/10665/354459" target="_blank">Behavioural and social drivers of vaccination: tools and practical guidance for achieving high uptake</a>. Geneva: World Health Organization; 2022. License: CC BY-NC-SA 3.0 IGO
