@@ -4,7 +4,7 @@ permalink: /projects/haf-pilot/
 tags: 
   - project
 image: /assets/img/project-images/2206-image.jpg
-image-credit:  
+image-credit: https://unsplash.com/photos/7DziDCBnhiE
 analysis-plan: /assets/analysis/2206-HAF-Pilot.pdf
 abstract: 
 year: 2023 
