@@ -4,6 +4,7 @@ permalink: /projects/era-equity/
 tags: 
  - project
  - arp
+ - descriptive study
 image: /assets/img/project-images/2113B-image.jpg
 image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.jpg
 analysis-plan: /assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf
@@ -14,7 +15,7 @@ domain: Economic Opportunity
 agency: Treasury
 status: Complete
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
-featured: homepage
+featured: homepage, services
 ---
 ## What priority outcome did we evaluate?
 The first and second rounds of the Emergency Rental Assistance (ERA) program provided over $46 billion USD in funding to states, territories, Tribal governments, counties, and cities (“grantees”) to prevent eviction and housing instability in the wake of the pandemic. Overseen by the U.S. Department of the Treasury (“Treasury”), ERA provided direct cash assistance to renters and landlords to assist with rent, utilities, and other housing-related expenses. It was the first-ever nationwide program aimed at preventing eviction through direct assistance to renters. 
