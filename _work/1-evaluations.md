@@ -5,7 +5,7 @@ permalink: /work/
 image: /assets/img/icons/oes-green.jpg
 hide_image: true
 tag: work
-summary: Since 2015, we have completed more than 90 impact evaluations with more than 20 agency collaborators.
+summary: Since 2015, we have completed nearly 100 evaluations with dozens of agency partners.
 
 filters:
   - key: year
