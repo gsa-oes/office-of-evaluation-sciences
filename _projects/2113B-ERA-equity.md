@@ -4,7 +4,6 @@ permalink: /projects/era-equity/
 tags: 
  - project
  - arp
- - descriptivestudy
 image: /assets/img/project-images/2113B-image.jpg
 image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.jpg
 analysis-plan: /assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf
