@@ -59,8 +59,8 @@ We work with agency partners to design and conduct an evaluation to measure the 
 {% endif %}
 <h2>Design and conduct descriptive studies</h2>
 We design and conduct descriptive studies using administrative data. Descriptive studies seek to document and understand a phenomenon, program or process, which could include  some set of features of a program or its intended recipients, without measuring effectiveness.
-{% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Evaluation Design" %}
-   {% assign featured_design2 = site.collaborations | where: "featured" , "services" | where: "type", "Evaluation Design" %}
+{% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Descriptive Study" %}
+   {% assign featured_design2 = site.collaborations | where: "featured" , "services" | where: "type", "Descriptive Study" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
  <section class="usa-accordion featured bg-white padding-1">
