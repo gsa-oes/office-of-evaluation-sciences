@@ -96,7 +96,7 @@ OES helps agencies build and use evidence to learn what works.  First, we look t
 - The program operates on a large scale or with many people 
 - There is the ability to give groups of people different versions of a program or program change
 
-If this sounds like you, please get in touch! We’re excited to work with agency partners across government. The structure of our collaborations can vary but often follow one of several **<a href="{{ '/assets/files/oes-services-list-fy-23.pdf' | prepend: site.baseurl }}" target="_blank">common partnership formats</a>**.
+If this sounds like you, please get in touch! We’re excited to work with agency partners across government. **<a href="{{ '/assets/files/oes-services-list-fy-23.pdf' | prepend: site.baseurl }}" target="_blank">Learn more about working with the Office of Evaluation Sciences</a>**, our service offerings, and criteria for collaborations.
 
 Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
 
