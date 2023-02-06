@@ -10,12 +10,10 @@ year: 2022
 domain: Government Operations
 type: Descriptive Evaluation
 agency: Interior
-status: Ongoing
-summary: Analysis Plan Registration
+status: Complete
+summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior.
 featured: homepage
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf">here</a>. 
-
-Check back for results!
+The upload date of the Analysis Plan can be verified <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf">here</a>. 
