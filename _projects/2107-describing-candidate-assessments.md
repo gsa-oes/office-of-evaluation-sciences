@@ -1,14 +1,14 @@
 ---
-title:  Describing Candidate Assessments and Hiring Outcomes
+title:  Describing Candidate Assessments and Hiring Outcomes at DOI
 permalink: /projects/describing-candidate-assessments/
 tags: project  
 image: /assets/img/project-images/2107-image-briefcase.jpg
 image-credit: https://unsplash.com/photos/6dW3xyQvcYE
 analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/2107-describing-candidate-assessments-and-hiring-outcomes-doi.pdf
 year: 2022  
 domain: Government Operations
-type: 
+type: Descriptive Evaluation
 agency: Interior
 status: Ongoing
 summary: Analysis Plan Registration
