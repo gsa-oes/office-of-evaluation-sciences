@@ -12,8 +12,7 @@ type: Descriptive Evaluation
 agency: Interior
 status: Complete
 summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior.
-featured: 
-- homepage
+featured:
 - services
 ---
 ## What was the challenge? 
