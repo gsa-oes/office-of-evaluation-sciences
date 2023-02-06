@@ -12,9 +12,12 @@ type: Descriptive Evaluation
 agency: Interior
 status: Complete
 summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior.
+featured: 
+- homepage
+- services
 ---
 ## What was the challenge? 
-Executive Order 13932 calls for the increased use of skills- and competency-based assessments in the federal hiring process and requires agencies to use alternative methods to assess applicants’ qualifications for federal jobs.
+<a href="https://www.federalregister.gov/documents/2020/07/01/2020-14337/modernizing-and-reforming-the-assessment-and-hiring-of-federal-job-candidates.htm" target="_blank">Executive Order 13932</a> calls for the increased use of skills- and competency-based assessments in the federal hiring process and requires agencies to use alternative methods to assess applicants’ qualifications for federal jobs.
 
 The Department of Interior (DOI) began implementing EO 13932 in 2021 by using one of two types of candidate assessment methods: (1) subject-matter experts (SMEs) to manually evaluate candidate resumes; or (2) USA Hire scored assessments of general competencies. These assessment methods were coupled with questionnaires typically used for candidates to self-assess their technical competencies. 
 
