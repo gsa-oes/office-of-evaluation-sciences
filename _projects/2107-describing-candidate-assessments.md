@@ -12,8 +12,6 @@ type: Descriptive Evaluation
 agency: Interior
 status: Complete
 summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior.
-featured:
-- services
 ---
 ## What was the challenge? 
 Executive Order 13932 calls for the increased use of skills- and competency-based assessments in the federal hiring process and requires agencies to use alternative methods to assess applicants’ qualifications for federal jobs.
