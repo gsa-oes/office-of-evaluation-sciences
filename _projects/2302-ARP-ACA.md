@@ -1,6 +1,6 @@
 ---
 title: Identifying Interventions to Increase Affordable Care Act Uptake through a Systematic Review and Meta-analysis
-permalink: /projects/ARP-ACA
+permalink: /projects/ARP-ACA/
 tags: 
   - project
   - arp
