@@ -5,8 +5,8 @@ tags:
   - project
   - arp
   - health insurance
-image: 
-image-credit: 
+image: /assets/img/project-images/2302-image.png
+image-credit: https://www.healthcare.gov/blog/4-steps-to-getting-covered-in-the-health-insurance-marketplace/
 analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
 abstract: 
 year: 2023
