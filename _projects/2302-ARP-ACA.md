@@ -21,4 +21,3 @@ This evaluation is currently being implemented. We have created this project pag
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2302-ARP-ACA-analysis.pdf">here</a>. 
 
 Check back for results!
-
