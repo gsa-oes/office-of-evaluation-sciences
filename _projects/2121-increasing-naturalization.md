@@ -1,12 +1,12 @@
 ---
 title: Increasing Naturalization Rates for Lawful Permanent Residents
-permalink: /projects/ARP-ACA/
+permalink: /projects/increasing-naturalization/
 tags: 
   - project
 image: /assets/img/project-images/2302-image.png
 image-credit: https://unsplash.com/photos/fYqQBr0EzkA
-analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
-abstract: /assets/analysis/2121-dhs-increasing-naturalization-analysis-plan.pdf
+analysis-plan: /assets/analysis/2121-dhs-increasing-naturalization-analysis-plan.pdf
+abstract: 
 year: 2023
 domain: 
 agency: Health and Human Services
