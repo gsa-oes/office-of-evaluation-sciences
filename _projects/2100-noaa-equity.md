@@ -2,17 +2,17 @@
 title: Supporting NOAA’s Equity Assessment Teams
 permalink: /collaborations/noaa-equity-assessment/
 tags:
-  - collaborations
   - resources
   - climate
 image: /assets/img/project-images/othercollabs/noaa.png
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949
 visualization: /assets/files/NOAA-Equity-Diagram.pdf
 year: 2021
+type: Evaluation Design
+status: Complete
 domain: 
 agency: 
-summary: Evaluation options to build evidence for equity action plans at NOAA
-featured: 
+summary: Evaluation options to build evidence for equity action plans at NOAA.
 ---
 ## What was the challenge? 
 
