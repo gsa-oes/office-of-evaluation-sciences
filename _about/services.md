@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Our Services
 permalink: /services/
 tags: 
 image: /assets/img/icons/oes-red.jpg
@@ -8,9 +8,10 @@ hide_image: true
 class:
 summary: 
 ---
-<p class="billboard-message"><span style='color:#757575'>We partner with agencies across government to:</span></p>
 
 OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes.
+
+<h1>We partner with agencies across government to:</h1>
 
 <h2>Design and evaluate program changes</h2>
 We work with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how it's implemented, and evaluate its impact. 
