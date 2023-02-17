@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Our Services
 permalink: /services/
 tags: 
 image: /assets/img/icons/oes-red.jpg
