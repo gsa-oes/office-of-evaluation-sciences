@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Our Services
 permalink: /services/
 tags: 
 image: /assets/img/icons/oes-red.jpg
@@ -8,7 +8,9 @@ hide_image: true
 class:
 summary: 
 ---
-<p class="billboard-message"><span style='color:#757575'>We partner with agencies across government to:</span></p>
+
+OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes. We partner with agencies across government to:
+
 <h2>Design and evaluate program changes</h2>
 We work with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how it's implemented, and evaluate its impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
@@ -99,4 +101,3 @@ OES helps agencies build and use evidence to learn what works.  First, we look t
 If this sounds like you, please get in touch! We’re excited to work with agency partners across government. **<a href="{{ '/assets/files/oes-services-list-fy-23.pdf' | prepend: site.baseurl }}" target="_blank">Learn more about working with the Office of Evaluation Sciences</a>**, our service offerings, and criteria for collaborations.
 
 Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. We do not have the ability to respond to all collaboration proposals, but we consider each opportunity carefully. We look forward to hearing from you!
-
