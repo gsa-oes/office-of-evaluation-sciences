@@ -9,10 +9,10 @@ class:
 summary: 
 ---
 
-OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes. We partner with agencies across government to:
+OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes. We partner with agencies across government to provide the following services:
 
-<h2>Design and evaluate program changes</h2>
-We work with agency partners to apply evidence from the social and behavioral sciences to change how the program works or how it's implemented, and evaluate its impact. 
+<h2>Impact Evaluation of a Program Change</h2>
+OES designs an evidence-based program change, usually to address a behavioral barrier, and conducts an evaluation of it to measure impact. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
@@ -35,8 +35,8 @@ We work with agency partners to apply evidence from the social and behavioral sc
    </div>
 </section>
 {% endif %}
-<h2>Evaluate existing programs</h2>
-We work with agency partners to design and conduct an evaluation to measure the impact of a program.
+<h2>Impact Evaluation of a Program</h2>
+OES designs and conducts an evaluation to measure the impact of a new or existing program.
 {% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
@@ -59,8 +59,8 @@ We work with agency partners to design and conduct an evaluation to measure the 
    </div>
 </section>
 {% endif %}
-<h2>Design and conduct descriptive studies</h2>
-We design and conduct descriptive studies using administrative data. Descriptive studies seek to document and understand a phenomenon, program or process, which could include  some set of features of a program or its intended recipients, without measuring effectiveness.
+<h2>Descriptive Study</h2>
+OES designs and conducts a descriptive study using administrative data. Descriptive studies seek to document and understand a phenomenon, program, or process, which could include some set of features of a program or its intended recipients, without measuring effectiveness.
 {% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Descriptive Study" %}
    {% assign featured_design2 = site.collaborations | where: "featured" , "services" | where: "type", "Descriptive Study" %}
 {% if featuredprojects.size == 0 %}
@@ -88,15 +88,16 @@ We design and conduct descriptive studies using administrative data. Descriptive
 </section>
 {% endif %}
 # Become an Agency Partner
-OES helps agencies build and use evidence to learn what works.  First, we look to our agency partners to identify priority areas where they would like to see improved outcomes. Next, we work closely together to learn how people process information, make decisions, and interact with government programs. 
+OES helps agencies build and use evidence to learn what works. First, we look to our agency partners to identify priority areas where they would like to see improved outcomes. Next, we work closely together to learn how people process information, make decisions, and interact with government programs. 
 
-## What makes an opportunity a good fit for an OES collaboration?
-- You have an important question  related to an established policy priority 
-- You are already collecting data on the program and outcome of interest
-- The program or program change has potential for significant impact
-- Your agency is interested in acting on and sharing results 
-- The program operates on a large scale or with many people 
-- There is the ability to give groups of people different versions of a program or program change
+## Criteria for OES collaborations
+The criteria below describe required components for OES collaborations, and were developed with an aim to guide team decision making and prioritization for new and ongoing projects.
+
+- Support: An agency collaborator willing to act on and share results and other key deliverables
+- Data availability: Data for the study is currently collected (or could be easily collected) by the federal agency
+- Rigor: Sample size large enough for statistical power and policy relevance
+- Relevance: Answers a priority question and fills an important evidence gap 
+- Evidence-Based: Program or program change has a plausible and clear theory of change with potential for impact on a priority outcome
 
 If this sounds like you, please get in touch! We’re excited to work with agency partners across government. **<a href="{{ '/assets/files/oes-services-list-fy-23.pdf' | prepend: site.baseurl }}" target="_blank">Learn more about working with the Office of Evaluation Sciences</a>**, our service offerings, and criteria for collaborations.
 
