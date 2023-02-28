@@ -12,6 +12,9 @@ Below are resources we’ve developed through our work building evidence governm
 ## Newsletters
 OES sends out regular newsletters with upcoming events, recent project results, and other news. You can subscribe to our newsletter <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">here</a>.
 
+### 2023
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/349ef73?reqfrom=share" target="_blank">February 2023: Results from four evaluations of the American Rescue Plan’s State and Local Fiscal Recovery Funds Program</a>
+
 ### 2022
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/33d8e04?reqfrom=share" target="_blank">December 2022: Results from a descriptive study of equity and efforts to improve Supplemental Security Income outreach</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/338510f?reqfrom=share" target="_blank">November 2022: The Office of Evaluation Sciences (OES) is Hiring!</a>
