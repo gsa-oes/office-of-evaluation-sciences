@@ -8,7 +8,7 @@ year: 2023
 domain: Global Health
 agency: 
   - Health and Human Services
-summary: A collaboration between OES and CDC's Demand for Immunization Team (DIT)
+summary: A collaboration between OES and CDC's Demand for Immunization Team 
 featured: 
 ---
  
@@ -24,7 +24,7 @@ The Demand for Immunization Team (DIT) in the U.S. Centers for Disease Control a
 Evaluating demand interventions can be challenging for various reasons, including that projects in the DIT portfolio occur in complex implementation environments where data quality can be highly variable due to ongoing conflict or other health systems challenges. In these environments, there is often a need for more rapid emergency response, which can influence how evaluation of these activities can be conducted. However, robust evaluations of demand interventions can help build the evidence base on vaccine demand and uptake, inform the funding strategy (e.g., for improved cost-effectiveness), and shape stakeholder commitment to specific interventions. 
 
 ## What did we do?
-The Office of Evaluation Sciences (OES) is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partnered with the DIT to develop a practical guide that describes the various tasks that could be done by a team member or evaluation partner when conducting an impact evaluation of vaccine demand interventions. In addition to outlining the pros, cons, and prerequisites for different causal and correlational (i.e., non-causal) designs, the practical guide addressing the topics outlined below also describes steps and questions that users could ask of program implementers as they considered an evaluation. 
+OES partnered with the DIT to develop a practical guide that describes the various tasks that could be done by a team member or evaluation partner when conducting an impact evaluation of vaccine demand interventions. In addition to outlining the pros, cons, and prerequisites for different causal and correlational (i.e., non-causal) designs, the practical guide addressing the topics outlined below also describes steps and questions that users could ask of program implementers as they considered an evaluation. 
 
 **Before planning an intervention:** 
 - What is the current status of an immunization program and how does it address vaccine demand and uptake? Are there approaches that can be varied or tailored to specific concerns and demographic populations?
