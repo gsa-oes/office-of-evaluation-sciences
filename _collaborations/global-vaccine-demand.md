@@ -5,7 +5,7 @@ tags:
   - collaborations
 image: /assets/img/project-images/othercollabs/cdc-gid.jpg
 year: 2023
-domain: Global Health
+domain: Health
 agency: 
   - Health and Human Services
 summary: A collaboration between OES and CDC's Demand for Immunization Team 
