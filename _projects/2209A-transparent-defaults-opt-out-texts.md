@@ -4,7 +4,7 @@ permalink: /projects/2209A-transparent-defaults-opt-out-texts/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/1742.jpg  
+image: /assets/img/project-images/2209A-image.jpg  
 image-credit: https://www.flickr.com/photos/bcgovphotos/47309318202/in/photostream/
 analysis-plan: /assets/analysis/2209A-analysis-plan.pdf
 abstract: 
