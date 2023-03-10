@@ -5,7 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2209A-image.jpg  
-image-credit: https://www.flickr.com/photos/bcgovphotos/47309318202/in/photostream/
+image-credit: https://www.pexels.com/photo/crop-ethnic-woman-with-mobile-phone-5838215/
 analysis-plan: /assets/analysis/2209A-analysis-plan.pdf
 abstract: 
 year: 2023  
