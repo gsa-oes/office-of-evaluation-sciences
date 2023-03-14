@@ -12,7 +12,7 @@ collaborations_tags:
   - USAID
 ---
 ## Background
-Millions of lives could be saved globally through <a href="https://www.usaid.gov/news-information/speeches/jun-21-2021-administrator-samantha-power-keynote-remarks-united-nations-behavioral" target="_blank">social and behavior change interventions</a>. The U.S. Agency for International Development’s (USAID) global health programs have identified behaviors with the most potential to <a href="https://www.usaid.gov/global-health/health-areas/maternal-and-child-health/ending-preventable-child-and-maternal-deaths" target="_blank">reduce the risk of preventable maternal and child deaths</a>, and with low uptake in USAID’s 25 maternal and child health priority countries.
+Millions of lives could be saved globally through <a href="https://www.usaid.gov/news-information/speeches/jun-21-2021-administrator-samantha-powers-keynote-remarks-united-nations-behavioral-science-week" target="_blank">social and behavior change interventions</a>. The U.S. Agency for International Development’s (USAID) global health programs have identified behaviors with the most potential to <a href="https://www.usaid.gov/global-health/health-areas/maternal-and-child-health/ending-preventable-child-and-maternal-deaths" target="_blank">reduce the risk of preventable maternal and child deaths</a>, and with low uptake in USAID’s 25 maternal and child health priority countries.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JcOg-4C56ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
