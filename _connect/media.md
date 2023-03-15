@@ -52,7 +52,7 @@ summary: Read more about OES through media coverage or contact our press office.
 <a class="usa-link usa-link--external" href="https://www.govexec.com/management/2019/08/after-federal-officials-sent-letters-over-prescribing-docs-prescriptions-fell-and-patient-safety-rose/159443/" target="_blank">After Federal Officials Sent Letters to Over-Prescribing Docs, Prescriptions Fell and Patient Safety Rose</a>
 <br/><i>Government Executive</i>, August 2019
 
-<a class="usa-link usa-link--external" href="https://www.povertyactionlab.org/blog/8-22-19/j-pal-north-americas-us-health-care-delivery-initiative-six-reflections-after-six-years" target="_blank">J-PAL North America’s US Health Care Delivery Initiative: Six reflections after six years</a>
+<a class="usa-link usa-link--external" href="https://www.povertyactionlab.org/blog/8-22-19/j-pal-north-americas-us-health-care-delivery-initiative-six-reflections-after-six" target="_blank">J-PAL North America’s US Health Care Delivery Initiative: Six reflections after six years</a>
 <br/><i>The Abdul Latif Jameel Poverty Action Lab</i>, August 2019
 
 <a class="usa-link usa-link--external" href="https://sciencetrends.com/using-descriptive-social-norms-to-improve-immunization-compliance/" target="_blank">Using Descriptive Social Norms To Improve Immunization Compliance</a>
