@@ -13,7 +13,7 @@ A recent <a href="https://oes.gsa.gov/projects/opioid-buyback" target="_blank">r
 
 As part of this evaluation, OES compared the cost of the Cash for Your Stash program to the cost including OES-designed reminder cards. We found that <b>the reminder cards increased the return of unused pills, and reduced the cost per pill returned:</b> when using reminder cards, the total program cost per pill returned was $12.57. When no reminder cards were used, the total program cost per pill returned was higher at $15.66.
 
-In order to build evidence on impact and identify cost effective program improvements across government, we think it is valuable to be transparent about how cost estimates are produced. In this post, we detail the methodology and assumptions to produce these cost estimates, using a project example. (See our previous blog post on <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">what it costs to incorporate behaviorally informed interventions</a>)
+In order to build evidence on impact and identify cost effective program improvements across government, we think it is valuable to be transparent about how cost estimates are produced. In this post, we detail the methodology and assumptions to produce these cost estimates, using a project example. (See our previous blog post on <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">what it costs to incorporate behaviorally informed interventions</a>).
 
 ## What did this analysis involve?
 We can break our process of costing the program into four main steps:
