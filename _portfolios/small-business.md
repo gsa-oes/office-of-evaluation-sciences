@@ -13,7 +13,7 @@ collaborations_tags:
 ---
 
 ## Background
-Nearly half of American employees work for a business with fewer than 500 employees.  There are thirty million of these small businesses in the U.S., and they <a href="https://www.sba.gov/article/2016/jul/20/advocacy-releases-updated-faq" target="_blank">create the majority of new jobs</a> each year. Many government agencies have a focus on supporting small businesses, to promote community development (Housing and Urban Development), develop technology (National Aeronautics and Space Administration), or enhance job creation (Department of Commerce).
+Nearly half of American employees work for a business with fewer than 500 employees.  There are thirty million of these small businesses in the U.S., and they create the majority of new jobs each year. Many government agencies have a focus on supporting small businesses, to promote community development (Housing and Urban Development), develop technology (National Aeronautics and Space Administration), or enhance job creation (Department of Commerce).
 
 
 ## Portfolio
