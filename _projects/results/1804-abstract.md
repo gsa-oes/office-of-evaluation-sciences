@@ -47,7 +47,7 @@ the cost per pill returned.**⁹
 
 ### Footnotes
 1. U.S. Government Accountability Office (2019): Prescription Opioids: Patient Options for Safe and Effective Disposal of Unused Opioids (<a href="https://www.gao.gov/products/gao-19-650" target="_blank">https://www.gao.gov/products/gao-19-650</a>).
-2. US Department of Veterans Affairs and US Department of Defense (2017): Clinical Practice Guideline for Opioid Therapy for Chronic Pain. (<a href="https://www.va.gov/HOMELESS/nchav/resources/docs/mental-health/substance-abuse/VA_DoD-CLINICAL-PRACTICE-GUIDELINE-FOR-OPIOID-THERAPY-FOR-CHRONIC-PAIN-508.pdf" target="_blank">https://www.va.gov/HOMELESS/nchav/resources/docs/mental-health/substance-abuse/VA_DoD-CLINICAL-PRACTICE-GUIDELINE-FOR-OPIOID-THERAPY-FOR-CHRONIC-PAIN-508.pdf</a>)
+2. US Department of Veterans Affairs and US Department of Defense (2017): Clinical Practice Guideline for Opioid Therapy for Chronic Pain. (<a href="https://www.healthquality.va.gov/Guidelines/Pain/Cot/Vadodotcpg022717.Pdf" target="_blank">https://www.healthquality.va.gov/Guidelines/Pain/Cot/Vadodotcpg022717.Pdf</a>)
 3. Liu, Jean; et al. (2021). “Nudging patients and surgeons to change ambulatory surgery pain management: Results from an opioid buyback program,” Surgery. 170: 485-492.
 4. Kahneman, Daniel; Knetsch, Jack L.; Thaler, Richard H. (1990). "Experimental Tests of the Endowment Effect and the Coase Theorem". Journal of Political Economy. 98 (6): 1325–1348.
 5. The stopping rule for the project was ultimately determined by factors related to project utilization. While the full results were not known, a midpoint analysis had already been conducted when the stopping decision was made. 
