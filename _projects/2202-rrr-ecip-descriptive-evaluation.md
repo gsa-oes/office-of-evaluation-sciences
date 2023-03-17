@@ -13,8 +13,6 @@ domain: Economic Opportunity
 agency: Treasury
 status: Complete
 summary: Relief funds were awarded to financial institutions that serve low- and moderate-income and minority communities.
-featured:
-- services
 ---
 ## What was the challenge?
 
