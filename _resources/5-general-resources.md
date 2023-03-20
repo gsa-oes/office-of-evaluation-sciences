@@ -58,6 +58,18 @@ This quick turnaround effort shares insights on what works to promote healthy be
 <a class="usa-button" href="{{ '/assets/abstracts/OEScovidinsightssummaryNov2020.pdf' | prepend: site.baseurl }}" target="_blank">Encouraging COVID-19 Prevention Behaviors (PDF)</a>
 <br>
 
+## OES Equity Evaluation Series Memos
+This memo series is intended to guide OES’ commitment to equity in our evaluation process and our efforts toward understanding and reducing barriers to equitable access to federal programs. These memos are intended to be internal guidance documents for OES team members, covering a range of topics including defining equity in quantitative evaluations and methodological guidance on choosing control variables in regression analyses. Their goal is to improve the consistency and quality of equity in OES evaluations, as well as to provide training resources for OES researchers in this field.
+<br/>
+<a class="usa-button" href="{{ '/assets/files/defining-equity-in-federal-government-evaluations.pdf' | prepend: site.baseurl }}" target="_blank">Defining Equity in Federal Government Evaluations (PDF)</a>
+    
+  <a class="usa-button" href="{{ '/assets/files/matching-an-evaluation-method-to-your-equity-question.pdf' | prepend: site.baseurl }}" target="_blank">Matching an Evaluation Method to Your Equity Question (PDF)</a>
+    
+<a class="usa-button" href="{{ '/assets/files/choosing-controls-in-regression-analyses-involving-equity.pdf' | prepend: site.baseurl }}" target="_blank">Choosing Controls in Regression Analyses Involving Equity</a>
+    
+<a class="usa-button" href="{{ '/assets/files/guidance-on-using-multinomial-tests-for-differences-in-distribution.pdf' | prepend: site.baseurl }}" target="_blank">Guidance on Using Multinomial Tests for Differences in Distribution (PDF)</a>
+<br>
+
 ## Intergovernmental Personnel Act (IPA) Toolkit
 OES uses the Intergovernmental Personnel Act (IPA) Mobility Program to bring on unique talent to support agency priorities and evidence needs. The purpose of this toolkit is to provide internal guidance on how OES has utilized the IPA Mobility Program in the past to fill highly technical positions in a quick and simple way where there might otherwise be capacity gaps. Personnel with IPAs at OES have served in roles as fellows, academic affiliates, and statistical methods support.
 <br/>
