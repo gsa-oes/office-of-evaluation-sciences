@@ -14,7 +14,7 @@ domain: Communications
 agency: Treasury
 status: Complete
 summary: Letters sent to clients reduced likely errors in tax credit claims.
-featured: homepage
+
 ---
 ## What was the challenge?
 The Internal Revenue Service (IRS) Return Preparer Program (RPP) is an agency-wide effort to enforce compliance of tax return preparers. Paid tax preparers complete the majority of returns that claim benefits, helping their clients to file tens of millions of tax returns each year. In 2020, the IRS estimated over $22 billion in overpayments from improperly claimed refundable tax credits and other tax benefits. As part of RRP, the IRS is evaluating the impact on voluntary tax compliance of education and outreach to clients of tax preparers.
