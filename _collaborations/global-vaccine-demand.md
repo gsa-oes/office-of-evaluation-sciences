@@ -3,6 +3,8 @@ title: Guiding Evaluations of Global Vaccine Demand and Uptake
 permalink: /collaborations/global-vaccine-demand/
 tags:
   - collaborations
+  - USAID
+  - vaccines
 image: /assets/img/project-images/othercollabs/cdc-gid.jpg
 year: 2023
 domain: Global Health
