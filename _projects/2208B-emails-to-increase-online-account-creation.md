@@ -3,7 +3,7 @@ title: Encouraging the Use of USCIS’ Online Services- Email Notifications to I
 permalink: /projects/2208B-emails-to-increase-online-account-creation/
 tags: project  
 image: /assets/img/project-images/2208B-image.jpg  
-image-credit: https://www.pexels.com/photo/woman-in-a-hijab-using-a-laptop-5206271/
+image-credit: https://www.pexels.com/photo/black-and-gray-digital-device-193003/
 analysis-plan: /assets/analysis/2208B-analysis-plan.pdf
 abstract: 
 year: 2023  
