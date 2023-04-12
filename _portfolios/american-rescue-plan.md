@@ -24,7 +24,7 @@ The goal of the national evaluation is to look systematically across a selected 
 ## Portfolio
 OES is collaborating with the Office of Management and Budget Evidence Team and the ARP Implementation Team, as well as the U.S. Department of Treasury, the Department of Education, and other agencies, to undertake a portfolio of evaluations with agency partners to better understand how to improve awareness, access, and allocation of ARP programs and resources, focusing on ARP programs with equity goals. This set of evaluations will be intentional and strategic in building evidence to understand the role of ARP programs and supported interventions in improving outcomes for historically underserved populations. 
 
-OES team members will work closely with agency partners to design and implement an evaluation, analyze data, and share findings. OES will be reviewing ideas on a rolling basis in 2023. If you are interested in collaborating, please <a href="mailto:elana.safran@gsa.gov">email shannon.parker@gsa.gov</a>.  
+OES team members will work closely with agency partners to design and implement an evaluation, analyze data, and share findings. OES will be reviewing ideas on a rolling basis in 2023. If you are interested in collaborating, please <a href="mailto:oes@gsa.gov">email oes@gsa.gov</a>.  
 
 <a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-Evaluations-Overview.pdf" target="_blank">Learn more about the collaboration (PDF)</a>
 
