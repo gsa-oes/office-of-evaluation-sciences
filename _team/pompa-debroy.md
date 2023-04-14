@@ -1,6 +1,6 @@
 ---
 name: Pompa Debroy
-image: /assets/img/team/pompa_debroy.jpg
+image: /assets/img/team/pompa-debroy.jpg
 year:
   - 2018
   - 2019
