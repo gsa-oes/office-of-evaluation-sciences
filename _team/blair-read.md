@@ -1,6 +1,6 @@
 ---
 name: Blair Read
-image: /assets/img/team/blair-read.jpg
+image: /assets/img/team/blair-read.png
 year:
   - 2022
   - 2023
