@@ -6,6 +6,7 @@ year:
   - 2023
 home: University
 agency:
+  - Treasury
 title: Design & Communications Strategist
 status: Current
 ---

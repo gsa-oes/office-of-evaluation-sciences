@@ -13,7 +13,7 @@ A recent <a href="https://oes.gsa.gov/projects/opioid-buyback" target="_blank">r
 
 As part of this evaluation, OES compared the cost of the Cash for Your Stash program to the cost including OES-designed reminder cards. We found that <b>the reminder cards increased the return of unused pills, and reduced the cost per pill returned:</b> when using reminder cards, the total program cost per pill returned was $12.57. When no reminder cards were used, the total program cost per pill returned was higher at $15.66.
 
-In order to build evidence on impact and identify cost effective program improvements across government, we think it is valuable to be transparent about how cost estimates are produced. In this post, we detail the methodology and assumptions to produce these cost estimates, using a project example. (See our previous blog post on <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">what it costs to incorporate behaviorally informed interventions</a>)
+In order to build evidence on impact and identify cost effective program improvements across government, we think it is valuable to be transparent about how cost estimates are produced. In this post, we detail the methodology and assumptions to produce these cost estimates, using a project example. (See our previous blog post on <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">what it costs to incorporate behaviorally informed interventions</a>).
 
 ## What did this analysis involve?
 We can break our process of costing the program into four main steps:
@@ -34,7 +34,7 @@ We found that the Cash for Your Stash program with reminder cards cost $12.57 pe
 For other VA facilities considering implementing this program, we estimate that the recurring costs with reminder cards may range from $9.79 to $19.55 per pill returned. 
 
 ### Notes
-1. Dhaliwal, Iqbal, Esther Duflo, Rachel Glennerster, and Caitlin Tulloch. "Comparative cost-effectiveness analysis to inform policy in developing countries: a general framework with applications for education." <i>Education policy in developing countries</i> 17 (2013): 285-338, <a href="https://economics.mit.edu/files/15014" target="_blank">https://economics.mit.edu/files/15014</a>.
+1. Dhaliwal, Iqbal, Esther Duflo, Rachel Glennerster, and Caitlin Tulloch. "Comparative cost-effectiveness analysis to inform policy in developing countries: a general framework with applications for education." <i>Education policy in developing countries</i> 17 (2013): 285-338, <a href="https://economics.mit.edu/sites/default/files/2022-08/cost-effectiveness-1.pdf" target="_blank">https://economics.mit.edu/sites/default/files/2022-08/cost-effectiveness-1.pdf</a>.
 2. Rounding errors may occur. 
 
 
