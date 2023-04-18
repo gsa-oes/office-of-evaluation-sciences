@@ -9,6 +9,7 @@ year:
 home: University
 agency:
   - Small Business Administration
+  - Treasury
 title: Associate Fellow
 status: Current
 ---
