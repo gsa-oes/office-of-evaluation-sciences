@@ -12,15 +12,20 @@ project_tags:
 ---
 
 ## Background
-The <a class="usa-link usa-link--external" href="https://www.congress.gov/bill/117th-congress/house-bill/1319/text" target="_blank">American Rescue Plan Act of 2021</a> (ARP) was designed to address immediate needs related to the pandemic, with a specific focus on addressing historically disparate outcomes across race, class, and geography that were further exacerbated by the pandemic. As federal programs are innovating and finding new ways to achieve these goals, OES’ evaluations will measure whether ARP-funded interventions are working as intended and share lessons learned. 
+The American Rescue Plan Act of 2021 (ARP) was designed to address immediate needs related to the pandemic, with a specific focus on addressing historically disparate outcomes across race, class, and geography that were further exacerbated by the pandemic. To guide the federal government’s exploration of questions about equitable recovery, the White House released an <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/American-Rescue-Plan-Equity-Learning-Agenda.pdf">ARP Equity Learning Agenda</a>, as part of the <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf">Advancing Equity Through the ARP report</a>. The Equity Learning Agenda is designed to provide a framework for ensuring the federal government builds evidence about what works and what doesn’t, to deliver an equitable recovery both now and in the future.
 
-OES team members will work closely with agency partners to design and implement an evaluation, analyze data, and share findings. We’re excited to work with agency partners across government. OES will be reviewing ideas on a rolling basis in 2022. If you are interested in collaborating, please email <a href="mailto:elana.safran@gsa.gov">elana.safran@gsa.gov</a>. 
+In support of the Equity Learning Agenda and agency evaluation efforts, OES’s ARP Evaluation Portfolio has two core elements: a national evaluation conducted by a third-party contract, and a portfolio of evaluations conducted by OES, in partnership with agencies, on ARP-funded programs with equity goals.
 
-
-<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-Evaluations-Overview.pdf" target="_blank">How the collaboration works (PDF)</a>
+## National Evaluation
+The goal of the national evaluation is to look systematically across a selected subset of ARP programs, and provide an integrated account of whether, how, and to what extent their implementation served to achieve their intended outcomes, particularly with respect to advancing equity. The multi-year evaluation will be conducted by the American Institutes for Research (AIR), with Abt Associates and Decision Information Resources. OES is supporting the contract in partnership with the Office of Management and Budget’s Evidence Team, the ARP Implementation Team, and other agency partners. Federal Executive Branch employees can learn more about the national evaluation and access materials at the <a class="usa-link usa-link--external" href="https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.gov%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FspaceKey%253DOMB%2526title%253DARP%252BNational%252BEvaluation">MAX.gov site.</a>
 
 ## Portfolio
 OES is collaborating with the Office of Management and Budget Evidence Team and the ARP Implementation Team, as well as the U.S. Department of Treasury, the Department of Education, and other agencies, to undertake a portfolio of evaluations with agency partners to better understand how to improve awareness, access, and allocation of ARP programs and resources, focusing on ARP programs with equity goals. This set of evaluations will be intentional and strategic in building evidence to understand the role of ARP programs and supported interventions in improving outcomes for historically underserved populations. 
+
+OES team members will work closely with agency partners to design and implement an evaluation, analyze data, and share findings. OES will be reviewing ideas on a rolling basis in 2023. If you are interested in collaborating, please <a href="mailto:oes@gsa.gov">email oes@gsa.gov</a>.  
+
+<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-Evaluations-Overview.pdf" target="_blank">Learn more about the collaboration (PDF)</a>
+
 
 ### Relevant OES Resources
 
