@@ -3,6 +3,7 @@ title: Increasing Applications to the Homeowner Assistance Fund Using Mailers - 
 permalink: /projects/haf-pilot/
 tags: 
   - project
+  - arp
 image: /assets/img/project-images/2206-image.jpg
 image-credit: https://unsplash.com/photos/7DziDCBnhiE
 analysis-plan: /assets/analysis/2206-HAF-Pilot.pdf
