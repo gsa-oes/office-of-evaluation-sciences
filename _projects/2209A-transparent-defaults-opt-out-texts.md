@@ -9,7 +9,7 @@ image-credit: https://www.pexels.com/photo/crop-ethnic-woman-with-mobile-phone-5
 analysis-plan: /assets/analysis/2209A-analysis-plan.pdf
 abstract: 
 year: 2023  
-domain: Communications
+domain: American Rescue Plan
 type: Program Change and Evaluation
 agency: Health and Human Services
 status: Ongoing
