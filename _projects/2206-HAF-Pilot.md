@@ -9,7 +9,7 @@ image-credit: https://unsplash.com/photos/7DziDCBnhiE
 analysis-plan: /assets/analysis/2206-HAF-Pilot.pdf
 abstract: 
 year: 2022
-domain: 
+domain: American Rescue Plan
 agency: 
 status: Ongoing
 summary: Analysis Plan Registration
