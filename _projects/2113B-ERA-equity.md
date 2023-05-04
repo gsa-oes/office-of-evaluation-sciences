@@ -11,7 +11,9 @@ abstract: /assets/abstracts/2113B-era-descriptive-study-abstract.pdf
 technical-appendix: /assets/abstracts/2113B-technical-appendix.pdf
 year: 2022 
 type: Descriptive Study
-domain: Economic Opportunity
+domain: 
+- Economic Opportunity
+- American Rescue Plan
 agency: Treasury
 status: Complete
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
