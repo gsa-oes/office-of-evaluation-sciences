@@ -4,7 +4,7 @@ permalink: /projects/2209B-increasing-access-to-childcare-grants/
 tags:
  - project
  - arp
-image: /assets/img/project-images/2209-image.jpg  
+image: /assets/img/project-images/2209B-image.jpg  
 image-credit: https://www.rawpixel.com/image/8708691
 analysis-plan: /assets/analysis/2209B-analysis-plan.pdf
 abstract:
