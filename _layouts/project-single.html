@@ -33,7 +33,7 @@ class: page-project-single
   {% endif %}
   {% if page.domain %}
     <h3 class="h4">Domain</h3>
-    <p>{{ page.domain }}</p>
+    <p>{{ page.domain  | join: ', ' }}</p>
   {% endif %}
   {% if page.analysis-plan %}
   <h3 class="h4">Resources</h3>
