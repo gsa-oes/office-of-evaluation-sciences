@@ -10,7 +10,9 @@ analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112E-SLFRF-abstract.pdf
 intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
-domain: Economic Opportunity
+domain:
+ - American Rescue Plan
+ - Economic Opportunity
 agency: Treasury
 status: Complete
 summary: Adding peer comparisons and information that registering is quick and easy to emails did not increase submission of spending reports
