@@ -10,7 +10,9 @@ analysis-plan: /assets/analysis/2112G-3-analysis-plan.pdf
 abstract-web: /results/slfrf-tribal-govs-neus/
 year: 2022 
 type: Descriptive Study
-domain: Economic Opportunity
+domain:
+ - American Rescue Plan
+ - Economic Opportunity
 agency: Treasury
 status: Complete
 featured:
