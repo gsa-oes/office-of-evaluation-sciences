@@ -21,3 +21,9 @@ OES is an interdisciplinary team that works across the federal government to hel
 ## Why is OES at GSA?
 
 At the General Services Administration's (GSA) Office of Government-wide Policy, OES is uniquely situated in a central entity that can easily deploy technical support, provide an independent yet intragovernmental perspective, and develop standards for high-quality evidence activities in the federal environment.
+
+## The OES Strategic Plan
+
+The OES four-year Strategic Plan outlines our goals, strategic objectives, performance measures, and key capabilities for fiscal years 2022–2025. The plan will guide our decisions over the coming years, allowing the team to make meaningful contributions to and achievements within the federal government. The plan positions our team to support federal agency leadership and policymakers in expanding their use of evidence to inform decisions and investments in three priority areas.
+
+<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-Strategic-Plan-FY22-25.pdf" target="_blank">Read our Strategic Plan (PDF)</a>
