@@ -43,10 +43,8 @@
 }
 
 .card-image {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  min-height: units('card');
+  object-fit: cover;
+  height: units('card');
   width: 100%;
 }
 
