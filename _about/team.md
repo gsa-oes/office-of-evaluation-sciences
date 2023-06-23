@@ -39,7 +39,8 @@ filter_button_message: By year, title, home institution, and agency collaborator
     {% for team in site.team %}
       <div class="usa-media-block tablet:grid-col-6 js-filterable" {% for filter in page.filters %} data-{{ filter.key }}="{{ team[filter.key] | jsonify | xml_escape }}" {% endfor %}>
         <div class="display-flex flex-align-center">
-          <div class="usa-media-block__img team-image" style="background-image: url({{ team.image | prepend: site.baseurl }});"></div>
+          <img class="usa-media-block__img team-image" src="{{ team.image | prepend: site.baseurl }}" alt="{{ team.name }}">       
+          
           <div class="usa-media-block__body usa-prose">
             <h3 class="usa-graphic-list__heading">
               <a href="{{ site.baseurl }}{{ team.url }}">
