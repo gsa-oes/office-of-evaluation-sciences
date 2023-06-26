@@ -2,11 +2,15 @@
   data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
   <div class="display-flex height-full">
       <a class="card" href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-        {% if project.image_thumbnail %}
+        {% if project.class %}
+        <div class="card-color {{ project.class }}"></div>
+        {% else if project.image_thumbnail %}
           <img class="card-image" src="{{ project.image_thumbnail | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
-        {% else %}
+        {% else if project.image %}
           <img class="card-image" src=" {{ project.image | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
         {% endif %}
+
+
         <div class="card-banner">
           <h3 class="card-description">
             <span>{{ project.title }}</span>
