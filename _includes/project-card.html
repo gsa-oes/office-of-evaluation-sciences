@@ -1,27 +1,28 @@
 <div class="project-col tablet-lg:grid-col-4 js-filterable" {% for filter in page.filters %}
-  data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
+     data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
   <div class="display-flex height-full">
-      <a class="card" href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
-        {% if project.class %}
-        <div class="card-color {{ project.class }}"></div>
-        {% else if project.image_thumbnail %}
-          <img class="card-image" src="{{ project.image_thumbnail | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
-        {% else if project.image %}
-          <img class="card-image" src=" {{ project.image | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
-        {% endif %}
+    <a class="card" href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+      {% if project.class %}
+      <div class="card-color {{ project.class }}"></div>
+      {% endif %}
+      {% if project.image_thumbnail %}
+      <img class="card-image" src="{{ project.image_thumbnail | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
+      {% else if project.image %}
+      <img class="card-image" src="{{ project.image | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
+      {% endif %}
 
-
-        <div class="card-banner">
-          <h3 class="card-description">
-            <span>{{ project.title }}</span>
-          </h3>
-          <p class="card-summary">{{ project.summary }}</p>
-        </div>
-        <div class="card-read" href="{{ project.url | prepend: site.baseurl }}">
-          Read more
-          <span class="usa-sr-only">about {{ project.title }}</span>
-          {% include icons/arrow-right.svg %}
-        </div>
-      </a>
+      <div class="card-banner">
+        <h3 class="card-description">
+          <span>{{ project.title }}</span>
+        </h3>
+        <p class="card-summary">{{ project.summary }}</p>
+      </div>
+      <div class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+        Read more
+        <span class="usa-sr-only">about {{ project.title }}</span>
+        {% include icons/arrow-right.svg %}
+      </div>
+    </a>
   </div>
 </div>
+
