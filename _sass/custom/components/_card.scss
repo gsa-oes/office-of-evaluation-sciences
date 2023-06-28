@@ -62,7 +62,7 @@
 
 .card-image {
   object-fit: cover;
-  min-height: units('card');
+  height: units('card');
   width: 100%;
 }
 .card-header {
