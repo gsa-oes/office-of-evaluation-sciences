@@ -8,7 +8,7 @@
       {% if project.image_thumbnail %}
       <img class="card-image" src="{{ project.image_thumbnail | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
       {% else if project.image %}
-      <img class="card-image" src="{{ project.image | prepend: site.baseurl }}" alt="{{ project.title }}" loading="lazy" />
+      <img class="card-image" src="{{ project.image | prepend: site.baseurl }}" alt="{% if project.image-alt %}{{ project.image-alt }}{% else %}{{ project.title }}{% endif %}" loading="lazy" />
       {% endif %}
 
       <div class="card-banner">
