@@ -1,26 +1,28 @@
 ---
 layout: default
 ---
-
-<div class="usa-section background-brand-dark">
-  <div class="grid-container">
-    <h1>{{ page.title }}</h1>
-  </div>
-</div>
-<div class="grid-container usa-prose main-content" id="main">
-  {% if page.summary %}
-    <p class="billboard-message">{{ page.summary }}</p>
-  {% endif %}
-  {% unless page.hide_image %}
-    {% if page.image and page.image_full %}
-      <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.image_alt_text }}">
-    {% elsif page.image %}
-      <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" {% if page.image_alt_text %} aria-labelledby="caption"{% endif %}>
-      {% if page.image_alt_text %}
-        <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
-      {% endif %}
-      </div>
+<article>
+  <header class="usa-section background-brand-dark">
+    <div class="grid-container">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </header>
+  <div class="grid-container usa-prose main-content" id="main">
+    {% if page.summary %}
+      <p class="billboard-message">{{ page.summary }}</p>
     {% endif %}
-  {% endunless %}
-  {{ content }}
-</div>
+    {% unless page.hide_image %}
+      {% if page.image and page.image_full %}
+        <img class="page-banner-image" src="{{ page.image | prepend: site.baseurl }}" alt="{% if page.image_alt_text %}{{ page.image_alt_text }}{% else %}{{ page.title }}{% endif %}">
+      {% elsif page.image %}
+        <img class="page-banner-image" src="{{ page.image | prepend: site.baseurl }}" alt="{% if page.image_alt_text %}{{ page.image_alt_text }}{% else %}{{ page.title }}{% endif %}">
+
+        {% if page.image_alt_text %}
+          <p class="usa-sr-only" id="caption">{{ page.image_alt_text }}</p>
+        {% endif %}
+
+      {% endif %}
+    {% endunless %}
+    {{ content }}
+  </div>
+</article>
