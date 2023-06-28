@@ -71,7 +71,9 @@
               <button
                 class="usa-button"
                 type="submit"
-                name="commit">
+                name="commit"
+                role="img"
+                aria-label="Search Icon">
                 <span class="usa-sr-only">Search</span>
               </button>
             </div>
@@ -148,7 +150,7 @@
                 {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
                 {% assign _section_id = _section.id %}
                 {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
-                <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="{{ _section_id }}">
+                <button class="usa-accordion__button usa-nav__link" role="img" aria-label="Menu expand icon" aria-expanded="false" aria-controls="{{ _section_id }}">
                   <span>{{ _section.text }}</span>
                 </button>
           
