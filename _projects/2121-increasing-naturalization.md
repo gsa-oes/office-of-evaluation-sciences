@@ -4,7 +4,7 @@ permalink: /projects/increasing-naturalization/
 tags: 
   - project
 image: /assets/img/project-images/2121-image.jpg
-image_alt_text: 
+image_alt_text: US flag
 image-credit: https://unsplash.com/photos/fYqQBr0EzkA
 analysis-plan: /assets/analysis/2121-dhs-increasing-naturalization-analysis-plan-final.pdf
 abstract: 
