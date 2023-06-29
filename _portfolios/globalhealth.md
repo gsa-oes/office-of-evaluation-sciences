@@ -2,7 +2,8 @@
 layout: portfolio
 title: Global Health
 permalink: /usaid/
-image: /assets/img/project-images/1722.jpg  
+image: /assets/img/project-images/1722.jpg
+image_alt_text: Nurse applying vaccine
 hide_image: true
 summary: Evidenced-based insights from behavioral science applied to critical development challenges in Global Health
 year: 2019
