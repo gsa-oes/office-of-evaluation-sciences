@@ -3,6 +3,7 @@ layout: page
 title: A discussion with OES alums - where are they now?
 permalink: /blog/alumni/	
 image: /assets/img/project-images/alumni-blog.png
+image_alt_text: Users illustration
 hide_image: true
 year: 2027
 class:	

@@ -3,6 +3,7 @@ layout: page
 title: Learning What Works to Build an Equitable Recovery
 permalink: /blog/build-equitable-recovery/	
 image: /assets/img/project-images/arp-equity-la.png
+image_alt_text: American Rescue plan banner
 hide_image: true
 year: 2031
 class:	

@@ -2,7 +2,8 @@
 layout: page	
 title: Census Community Outreach Toolkit targets various outreach barriers	
 permalink: /blog/census-toolkit/	
-image: /assets/img/project-images/census.jpg	
+image: /assets/img/project-images/census.jpg
+image_alt_text: Person holding piece of paper
 hide_image: true
 tags: blog
 year: 2019
