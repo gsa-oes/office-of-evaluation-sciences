@@ -55,6 +55,7 @@
 
 .team-image {
   @include image-circle(124px);
+  object-fit: cover;
 }
 
 .page-team-single {
