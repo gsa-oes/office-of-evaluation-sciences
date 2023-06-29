@@ -6,6 +6,7 @@ tags:
   - highered
 image: /assets/img/project-images/1810.jpg
 image-credit: U.S. Army photo by Nell King
+image_alt_text: U.S. Army Photo
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
 abstract: /assets/abstracts/1810-gi-bill-proactive-communication.pdf
 year: 2020

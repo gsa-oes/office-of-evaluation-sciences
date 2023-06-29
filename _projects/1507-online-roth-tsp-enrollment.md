@@ -5,6 +5,7 @@ tags:
   - project
   - retirement
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
+image_alt_text: Roth tsp enrollment
 abstract: /assets/abstracts/1507-Servicemember-TSP-Enrollment.pdf
 year: 2015
 type: Program Change and Evaluation

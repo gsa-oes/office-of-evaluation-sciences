@@ -3,6 +3,7 @@ layout: page
 title: A discussion with OES fellows
 permalink: /blog/2020-fellows/	
 image: /assets/img/oes-banner-light.jpg
+image_alt_text: OES illustration
 hide_image: true
 year: 2020
 class:	

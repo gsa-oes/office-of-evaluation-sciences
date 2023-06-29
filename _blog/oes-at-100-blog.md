@@ -3,6 +3,7 @@ layout: page
 title: Reflections from 100 OES collaborations
 permalink: /blog/100-oes-collaborations/	
 image: /assets/img/OESat100cropped.png
+image_alt_text: Illustration with graphs
 hide_image: true
 year: 2028
 class:	

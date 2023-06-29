@@ -4,6 +4,7 @@ permalink: /projects/RRP-ECIP-descriptive-evaluation/
 tags: 
  - project
 image: /assets/img/project-images/2202-image.jpg
+image_alt_text: Person writing on paper
 image-credit: https://www.pexels.com/photo/person-holding-gray-twist-pen-and-white-printer-paper-on-brown-wooden-table-955389/
 analysis-plan: 
 abstract-web: 

@@ -5,6 +5,7 @@ tags:
   - project
   - retirement
 image: /assets/img/project-images/1703.png
+image_alt_text: Person holding a document
 image-credit: https://pixabay.com/photo-427510/
 abstract: /assets/abstracts/1703-prompting-tsp.pdf 
 year: 2017

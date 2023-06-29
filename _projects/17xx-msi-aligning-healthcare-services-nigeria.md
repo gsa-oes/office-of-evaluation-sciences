@@ -4,6 +4,7 @@ permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
   - USAID
 image: /assets/img/project-images/mis-nigeria.jpg  
+image_alt_text: Nigerian woman
 image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.jpg
 abstract: /assets/abstracts/msi-project-abstract.pdf
 year: 2018  

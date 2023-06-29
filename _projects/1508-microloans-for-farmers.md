@@ -6,6 +6,7 @@ tags:
   - business
   - resources
 image: /assets/img/project-images/microloans-for-farmers.jpg
+image_alt_text: Microloans for farmers
 image-credit: https://www.flickr.com/photos/usdagov
 abstract: /assets/abstracts/1508-Microloans-for-Farmers.pdf
 academic-pub: /assets/publications/1508-publication-bowers-higgins-replication-2017.pdf

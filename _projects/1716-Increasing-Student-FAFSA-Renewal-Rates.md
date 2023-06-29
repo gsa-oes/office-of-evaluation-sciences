@@ -5,6 +5,7 @@ tags:
   - project
   - highered
 image: /assets/img/project-images/1716.jpg
+image_alt_text: Person holding a booklet
 image-credit: https://flic.kr/p/4kSAPe
 abstract: /assets/abstracts/1716-Increasing-Student-FAFSA-Renewal-Rates.pdf
 year: 2017

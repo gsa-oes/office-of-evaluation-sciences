@@ -5,6 +5,7 @@ tags:
   - project
   - prescribing
 image: /assets/img/project-images/prescribe.jpg
+image_alt_text: Man with prescriber letters
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1510-Prescriber-Letters.pdf
 academic-pub: /assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf

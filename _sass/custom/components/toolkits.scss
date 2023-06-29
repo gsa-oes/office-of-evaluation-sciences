@@ -350,3 +350,37 @@ table {
 td {
   padding-left: 30px;
 }
+
+.six-steps {
+  @include at-media('tablet') {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+  .dashed-line {
+    @include at-media('tablet') {
+      position: absolute;
+      z-index: -1;
+      top: 70px;
+      left: 50%;
+      transform: translate(-50%, 0);
+      width: 80%;
+      border-top: 1px dashed #444;
+    }
+  }
+  figure {
+    padding: 15px 0;
+    margin: 5px;
+    text-align: center;
+  }
+  figcaption {
+    font-size: 11px;
+    line-height: 12px;
+    color: #036982;
+    font-weight: bold;
+  }
+  img {
+    width: 95px;
+    height: 95px;
+  }
+}

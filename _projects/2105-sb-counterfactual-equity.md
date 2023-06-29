@@ -5,6 +5,7 @@ tags:
   - business
   - covid
 image: /assets/img/project-images/othercollabs/sb-equity-image.jpg
+image_alt_text: Front of shops in a street
 image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.jpg
 analysis-plan: /assets/analysis/2105_SBequity_analysisplan.pdf
 abstract: /assets/abstracts/2105_small-business-counterfactual-equity.pdf

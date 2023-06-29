@@ -5,6 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2112G-image.jpg
+image_alt_text: Residential street
 image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=391292&picture=street-in-a-town
 analysis-plan: /assets/analysis/2112G-3-analysis-plan.pdf
 abstract-web: /results/slfrf-tribal-govs-neus/

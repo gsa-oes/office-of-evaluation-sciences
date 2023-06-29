@@ -22,6 +22,24 @@
   &:active {
     // TODO: how to apply outline box-shadow: $focus-shadow;
   }
+  .card-color {
+    height: 160px;
+  }
+  .teal {
+    background: #0BCAB9;
+  }
+  .blue {
+    background: #2E99C3;
+  }
+  .red {
+    background: #F95646;
+  }
+  .orange {
+    background: #F9834B;
+  }
+  .yellow {
+    background: #EEC244;
+  }
 }
 
 .project-col {
@@ -43,13 +61,14 @@
 }
 
 .card-image {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  min-height: units('card');
+  object-fit: cover;
+  height: units('card');
   width: 100%;
 }
-
+.card-header {
+  height: 100px;
+  width: 100%;
+}
 .card-description {
   @include u-font('heading', 'lg');
   color: color('primary');

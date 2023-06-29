@@ -17,7 +17,7 @@ class: page-team-single
     {% endif %}
     <div class="tablet:grid-col-4 single-sidebar">
       {% if page.image %}
-        <div class="team-image" style="background-image: url({{ page.image | prepend: site.baseurl }});" role="img" aria-label="{{ page.name }}" alt="{{ page.name }}"></div>
+      <img class="team-image" src="{{ page.image | prepend: site.baseurl }}" aria-label="{{ page.name }}" alt="{{ page.name }}">
       {% endif %}
       {% if page.title %}
         <h3>Title</h3>

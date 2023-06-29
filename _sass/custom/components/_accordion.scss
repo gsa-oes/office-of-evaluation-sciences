@@ -1,0 +1,33 @@
+// Accordion ------------- //
+.usa-accordion__heading .usa-accordion__button[aria-expanded="false"] {
+
+}
+.usa-accordion__heading {
+  position: relative;
+  .usa-accordion__button {
+    span {
+      display: block;
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      height: 16px;
+      width: 16px;
+      transform: translate(0, -50%);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+    &[aria-expanded="false"] {
+      background-image: unset;
+      span {
+        background-image: url("../uswds/img/plus.svg"),linear-gradient(transparent, transparent);
+      }
+    }
+    &[aria-expanded="true"] {
+      background-image: unset;
+      span {
+        background-image: url("../uswds/img/minus.svg"),linear-gradient(transparent, transparent);
+      }
+    }
+  }
+}

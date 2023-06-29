@@ -5,6 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2209B-image.jpg  
+image_alt_text: Children playing with pictures of fruit
 image-credit: https://www.rawpixel.com/image/8708691
 analysis-plan: /assets/analysis/2209B-analysis-plan.pdf
 abstract:

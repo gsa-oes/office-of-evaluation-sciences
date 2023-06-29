@@ -5,6 +5,7 @@ tags:
   - project
   - prescribing
 image: /assets/img/project-images/prescribe.jpg
+image_alt_text: Person sitting infront of computer holding documents
 image-credit: https://www.flickr.com/photos/worldbank/
 abstract: /assets/abstracts/1709-Quetiapine-Prescribing.pdf
 academic-pub: /assets/publications/1709 - jamapsychiatry_sacarny_2018_oi_180047.pdf

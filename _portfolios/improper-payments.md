@@ -3,6 +3,7 @@ layout: portfolio
 title: Improving Payment Integrity
 permalink: /improving-payment-integrity/
 image: /assets/img/project-images/improper-payments.jpg
+image_alt_text: Cash register with money
 hide_image: true
 image-credit: https://www.piqsels.com/en/public-domain-photo-sbixv 
 year: 2022

@@ -5,6 +5,7 @@ tags:
   - project
   - highered
 image: /assets/img/project-images/loan-rehab.jpg
+image_alt_text: Person filling out paper form
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
 year: 2016

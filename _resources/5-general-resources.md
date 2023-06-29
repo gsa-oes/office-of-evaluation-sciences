@@ -2,9 +2,8 @@
 layout: page
 title: General Resources
 permalink: /general-resources/
-image: /assets/img/icons/oes-yellow.jpg
 hide_image: true
-class:
+class: color yellow
 summary: We hope others can use and build on what we've learned.
 ---
 Below are resources we’ve developed through our work building evidence government-wide.

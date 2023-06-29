@@ -3,6 +3,7 @@ title:  Improving Employment Services for UI Claimants in Oregon
 permalink: /projects/Oregon-UI/
 tags: project  
 image: /assets/img/project-images/1705-Oregon-UI.jpg  
+image_alt_text: Door sign
 image-credit: https://www.flickr.com/photos/bytemarks/5409428957
 analysis-plan: /assets/analysis/1705-Oregon-UI.pdf
 abstract: /assets/abstracts/1705-Oregon-UI.pdf

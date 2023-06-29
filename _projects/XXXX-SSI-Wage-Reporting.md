@@ -6,6 +6,7 @@ tags:
   - cost savings
   - payments
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
+image_alt_text: Scrabble word
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
 year: 2020

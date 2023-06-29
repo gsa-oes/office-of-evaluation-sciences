@@ -5,6 +5,7 @@ tags:
   - project
   - highered
 image: /assets/img/project-images/idr-recert.jpg
+image_alt_text: Person sitting with laptop
 image-credit: https://www.flickr.com/photos/niallkennedy/
 abstract: /assets/abstracts/1604-Income-Driven Repayment-Recertification.pdf
 year: 2016

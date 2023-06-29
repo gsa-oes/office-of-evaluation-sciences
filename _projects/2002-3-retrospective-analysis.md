@@ -5,6 +5,7 @@ tags:
   - project 
   - prescribing
 image: /assets/img/project-images/2002-image.jpg  
+image_alt_text: Counter medication
 image-credit: https://pixabay.com/photos/counter-medication-prescription-4065988/
 analysis-plan: /assets/analysis/2002-3-analysis-plan.pdf
 abstract: /assets/abstracts/2002-CMS-reducing-nappropriate-co-prescribing-behaviors-abstract.pdf

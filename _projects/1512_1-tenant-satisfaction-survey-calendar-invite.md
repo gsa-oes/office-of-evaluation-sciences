@@ -3,6 +3,7 @@ title: Increasing Satisfaction Survey Response Rate from Federal Tenants - Calen
 permalink: /projects/tenant-satisfaction-survey-calendar-invite/
 tags: project
 image: /assets/img/project-images/gsa-tenant1.jpg
+image_alt_text: Front of building
 image-credit: https://www.gsa.gov/portal/content/163627
 abstract: /assets/abstracts/1512-1-Tenant-Satisfaction-Survey-Response-Calendar-Invite.pdf
 year: 2015

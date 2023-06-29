@@ -5,6 +5,7 @@ tags:
   - project
   - retirement
 image: /assets/img/project-images/military6.jpg
+image_alt_text: Military personnel
 image-credit: https://www.flickr.com/photos/usaghumphreys/
 abstract: /assets/abstracts/1601-Military-Retiree-myPay-Reactivation.pdf
 year: 2016
