@@ -5,6 +5,7 @@ tags:
   - project
   - highered
 image: /assets/img/project-images/1706.jpg
+image_alt_text: Students hugging
 image-credit: https://flic.kr/p/URogRg
 abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf
 year: 2017

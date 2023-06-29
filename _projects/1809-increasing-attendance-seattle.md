@@ -5,6 +5,7 @@ tags:
   - project  
   - complete
 image: /assets/img/project-images/1809.jpg
+image_alt_text: Classroom
 image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.jpg
 analysis-plan: /assets/analysis/1809-analysis-plan.pdf
 abstract: /assets/abstracts/1809-abstract-school-attendance-seattle.pdf

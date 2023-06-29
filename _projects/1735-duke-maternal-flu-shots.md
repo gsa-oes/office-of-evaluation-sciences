@@ -5,6 +5,7 @@ tags:
   - project
   - vaccines
 image: /assets/img/project-images/1735.jpg
+image_alt_text: Nurse applying a vaccine
 image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-woman-a-flu-vaccine-shot-pv.jpg
 analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf
 abstract: /assets/abstracts/1735-flu-shot-abstract.pdf

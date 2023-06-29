@@ -5,6 +5,7 @@ tags:
   - project
   - highered
 image: /assets/img/project-images/fafsa.jpg
+image_alt_text: Person holding form
 image-credit: https://www.flickr.com/photos/btreenews/
 abstract: /assets/abstracts/1615-Financial-Aid-for-HUD-Assisted-Youth.pdf
 year: 2016

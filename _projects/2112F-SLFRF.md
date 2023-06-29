@@ -5,6 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2112F-SLFRF-image.jpg
+image_alt_text: Front of a building
 image-credit: https://commons.wikimedia.org/wiki/File:Highland_Park_July_2016_38_%28Highland_Park_Town_Hall%29.jpg
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112F-SLFRF-abstract.pdf

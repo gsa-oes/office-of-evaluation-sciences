@@ -5,6 +5,7 @@ tags:
   - project
   - USAID
 image: /assets/img/project-images/1722.jpg  
+image_alt_text: Doctor applying a vaccine
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
 analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
 abstract: /assets/abstracts/1722-Project Abstract-6 Month.pdf

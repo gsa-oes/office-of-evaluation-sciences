@@ -5,6 +5,7 @@ tags:
   - project
   - vaccines
 image: /assets/img/project-images/15xx.jpg
+image_alt_text: Doctor and patient interacting
 image-credit: https://www.cdc.gov/flu/pdf/freeresources/seniors/seniors-vaccination-factsheet-final.pdf
 analysis-plan: 
 abstract: /assets/abstracts/15xx-medicare-flu-vaccine-uptake-abstract.pdf

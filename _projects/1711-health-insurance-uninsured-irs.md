@@ -5,6 +5,7 @@ tags:
   - project  
   - health insurance
 image: /assets/img/project-images/1711-image.jpeg
+image_alt_text: Health insurance
 image-credit: https://plex.page/Quality_Health_Insurance
 abstract: /assets/abstracts/1711-irs-uninsured-abstract.pdf
 year: 2018

@@ -6,6 +6,7 @@ tags:
   - business
   - covid
 image: /assets/img/project-images/2008-dallas.jpeg
+image_alt_text: City of Dallas
 image-credit: https://www.flickr.com/photos/texaseagle/3782314675
 analysis-plan: /assets/analysis/Dallas SBCF Analysis Plan.pdf
 abstract:  /assets/abstracts/2008-abstract-sba-dallas.pdf

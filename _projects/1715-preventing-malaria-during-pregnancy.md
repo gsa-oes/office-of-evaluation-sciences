@@ -5,6 +5,7 @@ tags:
   - project
   - USAID
 image: /assets/img/project-images/1715.jpg
+image_alt_text: Pills in palm of hand
 image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
 analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf
 abstract: /assets/abstracts/1715-Preventing-Malaria-During-Pregnancy.pdf

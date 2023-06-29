@@ -3,6 +3,7 @@ title:  Communicating Employment Supports to Denied Disability Insurance Applica
 permalink: /projects/di-denial/
 tags: project  
 image: /assets/img/project-images/15xx-di.jpg  
+image_alt_text: People interacting at a desk with leaflets
 image-credit: https://www.flickr.com/photos/senatorchriscoons/
 abstract: /assets/abstracts/15xx-di.pdf
 year: 2019

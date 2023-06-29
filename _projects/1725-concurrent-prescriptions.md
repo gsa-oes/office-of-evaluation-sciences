@@ -6,6 +6,7 @@ tags:
   - prescribing
   - healthit
 image: /assets/img/project-images/1725.JPG
+image_alt_text: Medical storage room
 image-credit: https://media.defense.gov/2015/Jun/19/2001076394/780/780/0/150617-F-SI704-003.JPG
 analysis-plan: /assets/analysis/1725-concurrent-prescriptions.pdf
 abstract: /assets/abstracts/1725-concurrent-rx-abstract.pdf

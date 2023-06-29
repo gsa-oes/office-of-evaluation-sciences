@@ -5,6 +5,7 @@ tags:
   - project 
   - USAID
 image: /assets/img/project-images/1811.jpg
+image_alt_text: Sliding phone
 image-credit: 
 analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
 intervention: /assets/interventions/1811 - Intervention Pack .pdf

@@ -4,6 +4,7 @@ permalink: /collaborations/plan-d-plan-choice/
 tags:
   - health insurance
 image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.png
+image_alt_text: Medicare gov website
 image-credit: https://www.gao.gov/products/GAO-19-627
 intervention: /assets/interventions/Intervention Pack - Part D Plan Choice.pdf
 year: 2021
