@@ -3,7 +3,7 @@ layout: page
 title: General Resources
 permalink: /general-resources/
 hide_image: true
-class: yellow
+class: color yellow
 summary: We hope others can use and build on what we've learned.
 ---
 Below are resources we’ve developed through our work building evidence government-wide.

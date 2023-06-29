@@ -3,7 +3,7 @@ layout: default
 title: OES Project Process
 permalink: /projectprocess/
 hide_image: true
-class: teal
+class: color teal
 summary: We follow a number of steps to ensure our findings are relevant and reliable.
 ---
 
