@@ -9,6 +9,7 @@ image-credit: https://www.pexels.com/photo/black-handled-key-on-key-hole-101808/
 analysis-plan: /assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.pdf
 abstract:
 year: 2023
+type: Program Change and Evaluation
 domain: American Rescue Plan
 agency: Treasury
 status: Ongoing
