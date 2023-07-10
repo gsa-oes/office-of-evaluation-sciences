@@ -30,8 +30,10 @@ agency collaborators and OES team members shared new results and lessons learned
   - **Bob Weathers** (Office of Retirement and Disability Policy, Social Security Administration) and **Elana Safran** (OES) discussed what SSA learned from testing an intervention to increase timely wage reporting among supplemental security income recipients. Results available <a href="https://oes.gsa.gov/projects/ssi-wage-reporting/">here.</a>
   - **Lucas Tickner** (Education Service, Department of Veterans Affairs) and **Dennis Kramer** (OES) discussed what the VA learned about using proactive communication to increase college enrollment of Veterans. More results <a href="https://oes.gsa.gov/projects/gi-bill-proactive-communication/">here.</a>
   - **Vincent Marconi** (Atlanta VA Health Care System, Department of Veterans Affairs; Emory University School of Medicine) and **Pompa Debroy** (OES) discussed what the Atlanta VA learned from testing an intervention to increase vaccine uptake among Veterans. Results available <a href="https://oes.gsa.gov/projects/increasing-adult-vaccines-atlanta-va/">here.</a>
-  
-  <iframe src="https://www.youtube.com/embed/B8G3hkaXadk" width="512" height="384"></iframe>
+    
+    <div class="videoWrapper">
+      <iframe title="OES Event Intro & Session 1 - Learning from Low Cost Evaluations: 2019 Results from OES and Partners" src="https://www.youtube.com/embed/B8G3hkaXadk" width="512" height="384"></iframe>
+    </div>
 
 In **Learning from Unexpected Results**, agency experts in evaluation discussed how to learn from and act on results that may be surprising. The session presented project examples of different types of unexpected results, and perspectives from agency evaluation leads on how they have learned from such results.  Panelists then described studies that yielded null results and answer questions about how they have used unexpected results to advance learning agendas in their agencies:
   - **Rekha Balu** (Office of Evaluation Sciences, GSA)
@@ -39,12 +41,15 @@ In **Learning from Unexpected Results**, agency experts in evaluation discussed 
   - **Susan Wilschke** (Office of Research, Demonstration, and Employment Support, Social Security Administration) 
   
   <a href="{{ '/assets/files/unexpected-results-2-pager.pdf' | prepend: site.baseurl }}">Unexpected Results Handout</a>
-  
-  <iframe src="https://www.youtube.com/embed/izP4xGku5Uk" width="512" height="384"></iframe>
+  <div class="videoWrapper">
+    <iframe title="OES Event Session 2: Learning from Unexpected Results 2019" src="https://www.youtube.com/embed/izP4xGku5Uk" width="512" height="384"></iframe>
+  </div>
 
 In **Learning from Administrative Data**, agency and academic collaborators shared the varied ways they have used administrative data in programs and evaluation. This session highlighted how to use administrative data to address the requirements of the Evidence Act in meaningful and useful ways. Speakers included: 
   - **Jagruti Rekhi** (Office of Policy Development and Research, Department of Housing and Urban Development) and **Michael DiDomenico** (OES) discussed how interagency access to data supported HUD in better understanding and addressing agency priorities. More results <a href="https://oes.gsa.gov/projects/increasing-fafsa-completion-nycha/">here</a> and <a href="https://oes.gsa.gov/projects/increasing-fafsa-completion-seattle-and-king-county/">here.</a>
   - **Adam Sacarny** (OES; Mailman School of Public Health, Columbia University) discussed how obtaining the right expertise for utilizing administrative data allowed HHS to build evidence around reducing inappropriate prescribing. More results <a href="https://oes.gsa.gov/projects/quetiapine-prescribing/">here.</a> 
   - **Alan Sim** and (Defense Health Agency, Department of Defense) and **Elana Safran** (OES) discussed how intra-agency data compilation led to the development of a tool DHA can use for clinical decision making and evidence-building. 
   
-  <iframe src="https://www.youtube.com/embed/iPzguLOo89Y" width="512" height="384"></iframe>
+  <div class="videoWrapper">
+    <iframe title="OES Event Session 3 and Q&A: Learning from Administrative Data" src="https://www.youtube.com/embed/iPzguLOo89Y" width="512" height="384"></iframe>
+  </div>

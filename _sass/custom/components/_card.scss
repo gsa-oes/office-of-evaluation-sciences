@@ -61,8 +61,12 @@
 }
 
 .card-image {
+  &:not(.card-toolkit .card-image) {
+    @include at-media('tablet-lg') {
+      height: units('card');
+    }
+  }
   object-fit: cover;
-  height: units('card');
   width: 100%;
 }
 .card-header {
