@@ -4,8 +4,8 @@
       aria-expanded="false" aria-controls="filter">
       <p class="filter-button-title">{{ page.filter_button_title }}</p>
       <p class="filter-button-message">{{ page.filter_button_message }}</p>
-      <img class="open toggle" src="/assets/img/icons/plus.svg" alt="Open Icon">
-      <img class="close toggle" src="/assets/img/icons/minus.svg" alt="Close Icon">
+      <img class="open toggle" src="{{ '/assets/img/icons/plus.svg' | prepend: site.baseurl }}" alt="Open Icon">
+      <img class="close toggle" src="{{ '/assets/img/icons/minus.svg' | prepend: site.baseurl }}" alt="Close Icon">
     </button>
   </h2>
   <div id="filter" class="usa-accordion__content">
