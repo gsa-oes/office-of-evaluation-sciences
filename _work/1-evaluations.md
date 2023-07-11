@@ -27,34 +27,7 @@ filter_button_message: By year completed, status, project type, domain, and agen
 
 <p>Because results from OES evaluations impact the lives of millions of Americans, the quality of our work is of paramount importance. We follow the <a href="{{ '/assets/files/evaluationpolicy.pdf' | prepend: site.baseurl }}" target="_blank">OES Evaluation Policy (PDF)</a> and six steps to ensure our findings are relevant and reliable.</p>
 
-<div class="six-steps" style="max-width: 653px;">
-    <div class="dashed-line"></div>
-    <figure>
-        <img src="{{ '/assets/img/icons/partner-icon.svg' | prepend: site.baseurl }}" width="95" height="95" alt="Partner Icon">
-        <figcaption>Partner with Federal Agencies to target priority outcomes.</figcaption>
-    </figure>
-     <figure>
-        <img src="{{ '/assets/img/icons/behavioral-icon.svg' | prepend: site.baseurl }}" width="95" height="95" alt="Behavioral Icon">
-        <figcaption>Translate behavioral insights into concrete recommendations.</figcaption>
-    </figure>
-   <figure>
-        <img src="{{ '/assets/img/icons/evaluations-icon.svg' | prepend: site.baseurl }}" width="95" height="95" alt="Evaluations Icon">
-        <figcaption>Embed evaluations</figcaption>
-    </figure>
-    <figure>
-        <img src="{{ '/assets/img/icons/analyze-icon.svg' | prepend: site.baseurl }}" width="95" height="95" alt="Analyze Icon">
-        <figcaption>Analyze results using existing administrative data.</figcaption>
-    </figure>
-    <figure>
-        <img src="{{ '/assets/img/icons/best-practice-icon.svg' | prepend: site.baseurl }}" width="95" height="95" alt="Best Practice Icon">
-        <figcaption>Ensure our work meets evaluation best practice</figcaption>
-    </figure>
-   <figure>
-        <img src="{{ '/assets/img/icons/measure-icon.svg' | prepend: site.baseurl }}" width="95" height="95" alt="Best Practice Icon">
-        <figcaption>Measure impact and generate evidence to continuously improve.</figcaption>
-    </figure>
-</div>
-
+<img src="{{ '/assets/img/oes-project-process-line.svg' | prepend: site.baseurl }}" alt="1. Partner with Federal Agencies to target priority outcomes. 2. Translate behavioral insights into concrete recommendations. 3. Embed evaluations. 4. Analyze results using existing administrative data. 5. Ensure our work meets evaluation best practice. 6. Mesure impact and generate evidence to continuously improve." width="1500">
 
 <!-- begin visually hidden alt text for oes-process-line.png -->
 <div class="usa-sr-only">
@@ -69,7 +42,7 @@ filter_button_message: By year completed, status, project type, domain, and agen
 </div>
 <!-- end visually hidden alt text for oes-process-line.png -->
 
-<p><a class="usa-button" href="{{ '/projectprocess' | prepend: site.baseurl }}" target="_blank">Learn more about our project process here</a>
+<p><a class="usa-button" href="{{ '/projectprocess' | prepend: site.baseurl }}" target="_blank" title="Learn more">Learn more about our project process here</a>
 </p>
 
 {% include filter.html items=site.projects filters=page.filters %}
