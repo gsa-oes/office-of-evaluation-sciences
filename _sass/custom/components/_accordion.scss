@@ -5,7 +5,7 @@
 .usa-accordion__heading {
   position: relative;
   .usa-accordion__button {
-    span {
+    .toggle {
       display: block;
       position: absolute;
       right: 20px;
@@ -16,17 +16,18 @@
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
+      margin-top: 0;
     }
     &[aria-expanded="false"] {
       background-image: unset;
-      span {
-        background-image: url("../uswds/img/plus.svg"),linear-gradient(transparent, transparent);
+      .close {
+        display: none;
       }
     }
     &[aria-expanded="true"] {
       background-image: unset;
-      span {
-        background-image: url("../uswds/img/minus.svg"),linear-gradient(transparent, transparent);
+      .open {
+        display: none;
       }
     }
   }

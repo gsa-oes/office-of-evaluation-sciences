@@ -1,5 +1,5 @@
 ---
-title: Does Reducing Documentation Burden Broaden Access to Emergency Rental Assistance? Quasi-experimental Evidence from Virginia
+title: Does reducing documentation burden broaden access to emergency rental assistance? Quasi-experimental evidence from Virginia
 permalink: /projects/era-grantee-flexibilities-va/
 tags:
   - project
@@ -10,6 +10,7 @@ image-credit: https://www.pexels.com/photo/a-person-wearing-wristwatch-filling-u
 analysis-plan: /assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.pdf
 abstract:
 year: 2023
+type: Program Change and Evaluation
 domain: American Rescue Plan
 agency: Treasury
 status: Ongoing
