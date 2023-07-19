@@ -2,9 +2,8 @@
 layout: page
 title: Academic Publications
 permalink: /publications/
-image: /assets/img/icons/oes-orange.jpg
 hide_image: true
-class:
+class: color orange
 summary: Below are selected publications resulting from OES collaborations.
 ---
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners. More information about publications resulting from OES collaborations can be found on our <a class="usa-link usa-link--external" href="https://scholar.google.com/citations?user=ti96pvAAAAAJ&hl=en">Google Scholar page</a>.

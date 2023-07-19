@@ -7,6 +7,7 @@ tags:
   - covid
   - arp
 image: /assets/img/project-images/othercollabs/grad-photo-ed.png
+image_alt_text: People graduation
 image-credit: https://www.flickr.com/photos/alan-light/7184218434
 academic-pub: /assets/abstracts/2103-HEERF-eval-design-report.pdf
 year: 2021

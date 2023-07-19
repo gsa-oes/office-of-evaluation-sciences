@@ -17,7 +17,11 @@ body:not(.page-home) {
 .main-content {
   @include u-padding-y(4);
 }
-
+.page-banner-image {
+  height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
 .page--banner {
   background-size: cover;
   background-repeat: no-repeat;

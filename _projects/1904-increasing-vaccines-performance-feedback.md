@@ -5,6 +5,7 @@ tags:
   - project
   - vaccines
 image: /assets/img/project-images/1904.jpg
+image_alt_text: People getting vaccines
 image-credit: https://health.mil/-/media/Images/MHS/Photos/IPAP.ashx
 analysis-plan: /assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf
 abstract: /assets/abstracts/1904-project-abstract.pdf

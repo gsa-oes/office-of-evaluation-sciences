@@ -4,7 +4,8 @@ permalink: /projects/2209A-transparent-defaults-opt-out-texts/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/2209A-image.jpg  
+image: /assets/img/project-images/2209A-image.jpg 
+image_alt_text: Person on an iphone
 image-credit: https://www.pexels.com/photo/crop-ethnic-woman-with-mobile-phone-5838215/
 analysis-plan: /assets/analysis/2209A-analysis-plan.pdf
 abstract: 

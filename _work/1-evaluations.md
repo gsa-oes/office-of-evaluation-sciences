@@ -42,7 +42,7 @@ filter_button_message: By year completed, status, project type, domain, and agen
 </div>
 <!-- end visually hidden alt text for oes-process-line.png -->
 
-<p><a class="usa-button" href="{{ '/projectprocess' | prepend: site.baseurl }}" target="_blank">Learn more about our project process here</a>
+<p><a class="usa-button" href="{{ '/projectprocess' | prepend: site.baseurl }}" target="_blank" title="Learn more">Learn more about our project process here</a>
 </p>
 
 {% include filter.html items=site.projects filters=page.filters %}

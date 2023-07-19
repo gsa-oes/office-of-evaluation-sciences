@@ -6,6 +6,7 @@ tags:
   - business
   - covid
 image: /assets/img/project-images/2003-san-diego-image.jpg
+image_alt_text: San Diego Skyline
 image-credit: https://commons.wikimedia.org/wiki/File:San_Diego_Skyline_at_Dawn.jpg
 analysis-plan: /assets/analysis/2003_San_Diego_SBRF_Analysis_Plan.pdf
 abstract: /assets/abstracts/2003-abstract-san-diego.pdf

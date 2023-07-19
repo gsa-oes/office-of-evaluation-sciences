@@ -3,6 +3,7 @@ title: Increasing Voluntary Submission of Demographics Information with USAJOBS 
 permalink: /projects/USAJOBS-demographics/
 tags: project 
 image: /assets/img/project-images/1704.jpg
+image_alt_text: USA Jobs website
 image-credit: https://www.usajobs.gov/
 abstract: /assets/abstracts/1704-USAJobs-abstract.pdf
 year: 2017

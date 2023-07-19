@@ -4,6 +4,7 @@ permalink: /projects/ssi-health-effects/
 tags: 
   - project
 image: /assets/img/project-images/2205-image.jpg
+image_alt_text: People sitting on a bench outside
 image-credit:  https://unsplash.com/photos/78hTqvjYMS4
 analysis-plan: /assets/analysis/2205-analysis-plan.pdf
 abstract: 

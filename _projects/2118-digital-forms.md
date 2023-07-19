@@ -3,6 +3,7 @@ title:  Incorporating Evaluation into Digital Forms
 permalink: /projects/digital-forms/
 tags: project  
 image: /assets/img/project-images/2118.jpg  
+image_alt_text: Person on a laptop
 image-credit: https://commons.wikimedia.org/wiki/File:Laptop_and_hands_and_wrists.jpg
 analysis-plan: /assets/analysis/2118-digital-forms-analysis-plan.pdf
 abstract: /assets/abstracts/2118-digital-forms-abstract.pdf

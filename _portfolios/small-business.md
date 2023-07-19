@@ -3,6 +3,7 @@ layout: portfolio
 title: Small Business
 permalink: /small-business/
 image: /assets/img/project-images/othercollabs/2105-image.jpg
+image_alt_text: Street view of stores
 hide_image: true
 year: 2021
 summary: Building evidence about how to support small business growth and success

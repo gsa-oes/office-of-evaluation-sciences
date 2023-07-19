@@ -4,6 +4,7 @@ permalink: /collaborations/dorn-va-postcard-reminder/
 tags:
   - vaccines
 image: /assets/img/project-images/othercollabs/1812-vaccine-image.jpeg
+image_alt_text: Picture of vaccine
 image-credit: https://www.gsa.gov/blog/2021/04/07/past-gsa-evaluations-can-help-inform-current-covid-19-vaccination-efforts
 intervention: /assets/interventions/1812 - DORN VA postcard reminder - Intervention Pack.pdf
 year: 2021

@@ -5,6 +5,7 @@ tags:
   - project
   - retirement
 image: /assets/img/project-images/16xx-image.jpeg
+image_alt_text: Person typing on laptop
 image-credit: https://www.pexels.com/photo/person-typing-on-laptop-1174775/
 abstract: /assets/abstracts/16xx-anchoring-tsp-enrollment.pdf
 year: 2016

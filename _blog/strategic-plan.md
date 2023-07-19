@@ -3,6 +3,7 @@ layout: page
 title: Introducing our team’s four-year strategic plan
 permalink: /blog/strategic-plan/	
 image: /assets/img/project-images/othercollabs/equity-hand.png
+image_alt_text: Key and hand icon
 hide_image: true
 year: 2032
 class:	

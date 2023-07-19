@@ -2,9 +2,8 @@
 layout: default
 title: OES Project Process
 permalink: /projectprocess/
-image: /assets/img/icons/oes-green.jpg
 hide_image: true
-class:
+class: color teal
 summary: We follow a number of steps to ensure our findings are relevant and reliable.
 ---
 
@@ -31,7 +30,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="" src="{{ '/assets/img/icons/1.svg' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15">
+        <img alt="Hand shake icon" src="{{ '/assets/img/icons/1.svg' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 1: Partner with Federal Agencies to target priority outcomes</h3>
@@ -45,7 +44,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="" 
+        <img alt="Behavioral insights icon" 
           src="{{ '/assets/img/icons/2.svg' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -60,7 +59,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="" 
+        <img alt="Embed evaluations icon" 
           src="{{ '/assets/img/icons/3.svg' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -78,7 +77,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="" 
+        <img alt="Search icon" 
           src="{{ '/assets/img/icons/4.svg' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -93,7 +92,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="" 
+        <img alt="Best practice icon" 
           src="{{ '/assets/img/icons/5.svg' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>
@@ -108,7 +107,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
     border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="" 
+        <img alt="Graph icon" 
           src="{{ '/assets/img/icons/6.svg' | prepend: site.baseurl }}"
           class="display-block margin-x-auto square-15">
       </div>

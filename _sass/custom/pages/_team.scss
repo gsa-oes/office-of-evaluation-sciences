@@ -32,9 +32,6 @@
 
 // Mixins
 @mixin image-circle($width) {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
   clip-path: circle(($width / 2) at center);
   height: $width;
   width: $width;
@@ -58,6 +55,7 @@
 
 .team-image {
   @include image-circle(124px);
+  object-fit: cover;
 }
 
 .page-team-single {

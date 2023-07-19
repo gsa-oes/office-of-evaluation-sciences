@@ -5,6 +5,7 @@ tags:
   - project
   - health insurance
 image: /assets/img/project-images/healthcare-gov.PNG
+image_alt_text: Healthcare gov website
 image-credit: https://www.healthcare.gov/
 abstract: /assets/abstracts/1609-Federal-Health-Insurance-Marketplace-Enrollment-Emails.pdf
 year: 2016

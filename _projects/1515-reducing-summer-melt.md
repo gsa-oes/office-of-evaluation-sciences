@@ -5,6 +5,7 @@ tags:
   - project
   - highered
 image: /assets/img/project-images/summer-melt.jpg
+image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/abstracts/1515-Summer-Melt.pdf
 year: 2015

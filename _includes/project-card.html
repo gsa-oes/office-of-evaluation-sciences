@@ -1,28 +1,28 @@
 <div class="project-col tablet-lg:grid-col-4 js-filterable" {% for filter in page.filters %}
-  data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
+     data-{{ filter.key }}='{{ project[filter.key] | jsonify | xml_escape }}'{% endfor %}>
   <div class="display-flex height-full">
-    <article class="card">
-      <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
-      <div class="card-image"
-        style="background-image: url(
+    <a class="card" href="{{ project.url | prepend: site.baseurl }}" title="{{ project.title }}">
+      {% if project.class contains "color" %}
+      <div class="card-color {{ project.class }}"></div>
+      {% else %}
         {% if project.image_thumbnail %}
-          {{ project.image_thumbnail | prepend: site.baseurl }}
-        {% else %}
-          {{ project.image | prepend: site.baseurl }}
+        <img class="card-image" src="{{ project.image_thumbnail | prepend: site.baseurl }}" alt="{% if project.image_alt_text %}{{ project.image_alt_text }}{% else %}{{ project.title }}{% endif %}" loading="lazy" />
+        {% else if project.image %}
+        <img class="card-image" src="{{ project.image | prepend: site.baseurl }}" alt="{% if project.image_alt_text %}{{ project.image_alt_text }}{% else %}{{ project.title }}{% endif %}" loading="lazy" />
         {% endif %}
-        );">
-      </div>
+      {% endif %}
       <div class="card-banner">
         <h3 class="card-description">
           <span>{{ project.title }}</span>
         </h3>
         <p class="card-summary">{{ project.summary }}</p>
       </div>
-      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+      <div class="card-read" href="{{ project.url | prepend: site.baseurl }}">
         Read more
         <span class="usa-sr-only">about {{ project.title }}</span>
         {% include icons/arrow-right.svg %}
-      </a>
-    </article>
+      </div>
+    </a>
   </div>
 </div>
+

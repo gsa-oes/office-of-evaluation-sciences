@@ -6,6 +6,7 @@ tags:
   - arp
   - health insurance
 image: /assets/img/project-images/2302-image.png
+image_alt_text: Tip for enrollment
 image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/
 analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
 abstract: 

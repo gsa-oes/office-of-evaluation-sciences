@@ -5,6 +5,7 @@ tags:
   - project
   - business
 image: /assets/img/project-images/sba.jpg
+image_alt_text: People sitting in front of PC
 image-credit: https://www.flickr.com/photos/seattlecommunitytech/
 abstract: /assets/abstracts/1614-SBA-Learning-Center.pdf
 year: 2016

@@ -3,6 +3,7 @@ layout: page
 title: Using OES evidence to inform SSA’s outreach to low-income elderly populations
 permalink: /blog/ssi-utilization/	
 image: /assets/img/project-images/2205-image.jpg
+image_alt_text: People sitting on a bench 
 hide_image: true
 year: 2033
 class:	

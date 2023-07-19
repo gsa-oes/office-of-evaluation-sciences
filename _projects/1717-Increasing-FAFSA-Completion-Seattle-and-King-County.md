@@ -5,6 +5,7 @@ tags:
   - project 
   - highered
 image: /assets/img/project-images/1717.jpg  
+image_alt_text: Graduation with a skyline view
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
 analysis-plan: /assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf
 abstract: /assets/abstracts/1717-Abstract-Seattle-and-King-County.pdf

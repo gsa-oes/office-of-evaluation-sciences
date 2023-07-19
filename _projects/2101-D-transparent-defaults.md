@@ -3,6 +3,7 @@ title:  Survey Uptake Decisions with Transparent Default Choices
 permalink: /projects/transparent-defaults/
 tags: project  
 image: /assets/img/project-images/2101.jpeg
+image_alt_text: People doing a presentation
 image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.jpg
 analysis-plan: /assets/analysis/2101-d-Analysis-Plan-transparent-defaults.pdf
 abstract: /assets/abstracts/2101-d-project-abstract-transparent-defaults.pdf
