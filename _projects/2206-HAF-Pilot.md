@@ -17,7 +17,8 @@ agency: Treasury
 type: Program Evaluation
 status: Complete
 summary: Sending postcards did not increase applications from at-risk homeowners
-featured: 
+featured:
+- homepage
 ---
 ## What was the challenge? 
 The Homeowner Assistance Fund (HAF), overseen by the U.S. Department of the Treasury (Treasury), provides grantees with funds to distribute to eligible homeowners who are facing financial hardship associated with the COVID-19 pandemic. Treasury encouraged grantees to use targeted outreach to maximize program accessibility, especially among low-income and socially disadvantaged homeowners. The Idaho Housing and Finance Association (IHFA) wanted to understand the impact of postcards on HAF application rates amongst homeowners who were at risk of foreclosure. Print mailer outreach is costly and labor-intensive, and the extent to which this type of outreach is effective at increasing applications in this context is unknown.
