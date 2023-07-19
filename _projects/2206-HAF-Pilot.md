@@ -32,7 +32,7 @@ We designed and implemented a randomized evaluation to measure the impact of mai
 We find strong evidence that the postcards did not increase the number of applications to Idaho’s HAF. The findings saved IHFA approximately $25,000, which was redirected to billboards targeting eligible homeowners in hard-to-reach rural areas. Future research could evaluate the impact of other forms of outreach aimed to encourage HAF applications amongst at-risk homeowners.
 
 <b>Figure 1.</b> *Percentage of households that initiated HAF applications*
-<img src="{{ '/assets/img/project-images/2206-results.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
+<img src="{{ '/assets/img/project-images/2206-image.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
 HAF applications" width="1500">
 
 <a href="https://oes.gsa.gov/assets/abstracts/2206-increasing-applications-to-the-homeowner-assistance-fund-abstract.pdf">View the pdf abstract</a>
