@@ -5,7 +5,7 @@ tags:
  - project
  - arp
 image: /assets/img/project-images/2113B-image.jpg
-image_alt_text: Street view
+image_alt_text: Triple decker housing in Cambridge, MA
 image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.jpg
 analysis-plan: /assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf
 abstract: /assets/abstracts/2113B-era-descriptive-study-abstract.pdf
@@ -19,7 +19,6 @@ agency: Treasury
 status: Complete
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
 featured:
-- homepage
 - services
 ---
 ## What priority outcome did we evaluate?
