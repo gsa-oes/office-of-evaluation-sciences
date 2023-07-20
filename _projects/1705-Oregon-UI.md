@@ -1,9 +1,9 @@
 ---
-title:  Improving Employment Services for UI Claimants in Oregon
+title:  Improving employment services for UI claimants in Oregon
 permalink: /projects/Oregon-UI/
 tags: project  
 image: /assets/img/project-images/1705-Oregon-UI.jpg  
-image_alt_text: Door sign
+image_alt_text: unemployment ensurance office sign on door
 image-credit: https://www.flickr.com/photos/bytemarks/5409428957
 analysis-plan: /assets/analysis/1705-Oregon-UI.pdf
 abstract: /assets/abstracts/1705-Oregon-UI.pdf
@@ -11,7 +11,7 @@ year: 2019
 type: Program Change and Evaluation
 status: Complete
 domain: Employment
-agency: Department of Labor
+agency: Labor
 summary: Requiring personal employment plans did not change the employment rate
 ---
 
@@ -34,4 +34,4 @@ Oregon selected 14 WorkSource job centers for the pilot. The job centers were so
 
 The employment rate in the treatment offices was **not significantly different** than the rate in the control offices. In treatment offices 56.3 percent of job seekers included in the pilot were employed in the first quarter of 2018 versus 54.9 percent of job seekers in control offices. Individual wages averaged $4,353 for the quarter in treatment offices compared to $3,998 in control offices. 
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1705-Oregon-UI.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1705-Oregon-UI.pdf">on GitHub</a>.
