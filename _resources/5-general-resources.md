@@ -42,7 +42,7 @@ OES has completed 100 collaborations across government since 2015. This has enta
 <a class="usa-button" href="{{ '/assets/files/Reflections-from-100-OES-collaborations.pdf' | prepend: site.baseurl }}" target="_blank">OES@100 Handout (PDF)</a>
 <br>
 
-## How to Design Effective Communications
+## How to design effective communications
 The United States government sends hundreds of millions of letters and emails to its citizens every year. These communications serve as a critical touchpoint by which citizens engage with our government programs and impact outcomes such as health insurance coverage, education enrollment and financing, tax compliance and benefits take-up, retirement security, and employment. Designing effective communications is therefore vital to ensuring that our government programs reach the people they are intended to serve. Since 2015, OES has completed more than 50 communication-specific interventions and evaluations with more than a dozen Federal agencies. Here’s what these tests have revealed about how to design effective communications.
 <br/>
 <a class="usa-button" href="{{ '/assets/abstracts/OES Learnings on Writing Better Communications 2018.pdf' | prepend: site.baseurl }}" target="_blank">Communications Design Tips (PDF)</a>
@@ -52,20 +52,20 @@ Responding to the COVID-19 epidemic has made it more important than ever for the
 <a class="usa-button" href="{{ '/assets/files/oes-health-communications.pdf' | prepend: site.baseurl }}" target="_blank">Health Communications Tips (PDF)</a>
 <br>
 
-## Effective Strategies to Encourage COVID-19 Prevention Behaviors
+## Effective strategies to encourage COVID-19 prevention behaviors
 This quick turnaround effort shares insights on what works to promote healthy behaviors, as relevant in the effort to combat COVID-19. These insights come from previous research on decision making and behavior change in other contexts, and more recent evaluations in the specific context of the COVID-19 crisis. The document includes relevant evidence on the message and the format. 
 <br/>
 <a class="usa-button" href="{{ '/assets/abstracts/OEScovidinsightssummaryNov2020.pdf' | prepend: site.baseurl }}" target="_blank">Encouraging COVID-19 Prevention Behaviors (PDF)</a>
 <br>
 
-## OES Equity Evaluation Series Memos
+## OES Equity Evaluation Series memos
 This memo series is intended to guide OES’ commitment to equity in our evaluation process and our efforts toward understanding and reducing barriers to equitable access to federal programs. These memos are intended to be internal guidance documents for OES team members, covering a range of topics including defining equity in quantitative evaluations and methodological guidance on choosing control variables in regression analyses. Their goal is to improve the consistency and quality of equity in OES evaluations, as well as to provide training resources for OES researchers in this field.
 <br/>
 <a class="usa-button" href="{{ '/assets/files/defining-equity-in-federal-government-evaluations.pdf' | prepend: site.baseurl }}" target="_blank">Defining Equity in Federal Government Evaluations (PDF)</a>
     
   <a class="usa-button" href="{{ '/assets/files/matching-an-evaluation-method-to-your-equity-question.pdf' | prepend: site.baseurl }}" target="_blank">Matching an Evaluation Method to Your Equity Question (PDF)</a>
     
-<a class="usa-button" href="{{ '/assets/files/choosing-controls-in-regression-analyses-involving-equity.pdf' | prepend: site.baseurl }}" target="_blank">Choosing Controls in Regression Analyses Involving Equity</a>
+<a class="usa-button" href="{{ '/assets/files/choosing-controls-in-regression-analyses-involving-equity.pdf' | prepend: site.baseurl }}" target="_blank">Choosing Controls in Regression Analyses Involving Equity (PDF)</a>
     
 <a class="usa-button" href="{{ '/assets/files/guidance-on-using-multinomial-tests-for-differences-in-distribution.pdf' | prepend: site.baseurl }}" target="_blank">Guidance on Using Multinomial Tests for Differences in Distribution (PDF)</a>
 <br>
@@ -74,4 +74,3 @@ This memo series is intended to guide OES’ commitment to equity in our evaluat
 OES uses the Intergovernmental Personnel Act (IPA) Mobility Program to bring on unique talent to support agency priorities and evidence needs. The purpose of this toolkit is to provide internal guidance on how OES has utilized the IPA Mobility Program in the past to fill highly technical positions in a quick and simple way where there might otherwise be capacity gaps. Personnel with IPAs at OES have served in roles as fellows, academic affiliates, and statistical methods support.
 <br/>
 <a class="usa-button" href="{{ '/assets/files/ipa-toolkit-oes.pdf' | prepend: site.baseurl }}" target="_blank">OES IPA Toolkit (PDF)</a>
-

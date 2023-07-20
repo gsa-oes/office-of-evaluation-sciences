@@ -1,5 +1,5 @@
 ---
-title: Facilitating Individual Action to Build Stronger Community-Police Relationships
+title: Facilitating individual action to build stronger community-police relationships
 permalink: /collaborations/community-police-relationships/
 image: /assets/img/project-images/IMG_2920.jpg
 tags: collaborations
@@ -8,7 +8,7 @@ year: 2016
 domain: Justice
 agency: Justice
 impact:
-summary: Materials enable citizens to facilitate conversations and action planning around better community policing.
+summary: Materials enable citizens to facilitate conversations and action planning around better community policing
 ---
 
 ## What was the challenge?
@@ -29,5 +29,3 @@ The Community Action Deck has been made available for download across government
 Notes:
 - For hyperlinked resources to work, be sure the full link is being pulled into your browser with no spaces
 - Cards are designed to print on 4 x 6 inch paper
-
-
