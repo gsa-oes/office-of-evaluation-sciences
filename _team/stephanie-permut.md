@@ -1,6 +1,6 @@
 ---
 name: Stephanie Permut
-image: /assets/img/team/stephanie-permut.jpeg
+image: /assets/img/team/stephanie.permut.jpeg
 year:
   - 2022
   - 2023
