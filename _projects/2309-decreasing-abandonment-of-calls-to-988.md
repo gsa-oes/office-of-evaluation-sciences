@@ -1,9 +1,12 @@
 ---
 title:  Decreasing abandonment of calls to the 988 Suicide and Crisis Lifeline
 permalink: /projects/decreasing-energy-costs/
-tags: project  
-image: /assets/img/project-images/1742.jpg  
-image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
+tags: 
+  - project
+  - arp
+image: /assets/img/project-images/2309-image.jpg  
+image_alt_text: woman holding an iPhone
+image-credit: https://unsplash.com/photos/Z9Tjplzzgh4
 analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf
 abstract: 
 year: 2023  
