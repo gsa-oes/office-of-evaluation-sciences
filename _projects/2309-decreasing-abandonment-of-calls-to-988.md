@@ -1,6 +1,6 @@
 ---
 title:  Decreasing abandonment of calls to the 988 Suicide and Crisis Lifeline
-permalink: /projects/decreasing-energy-costs/
+permalink: /2309-decreasing-abandonment-of-calls-to-988/
 tags: 
   - project
   - arp
