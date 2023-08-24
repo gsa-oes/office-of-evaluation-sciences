@@ -8,12 +8,18 @@ image: /assets/img/project-images/1902-ticket-to-work.jpeg
 image_alt_text: people at an office meeting
 image-credit: https://www.nypl.org/blog/2015/06/24/employment-services-disabilities
 analysis-plan: /assets/analysis/1902-analysis-plan.pdf
+abstract: /results/opioid-buyback/
+intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
+visualization: /assets/files/Knauss-Fellowship-process-map-long.pdf
 year: 2023
 type: Program Change and Evaluation
 domain: Economic Opportunity, Employment, Health
 status: Complete
 agency: Social Security Administration
 summary: Redesigned mailers increased calls to a helpline, but did not increase program take-up
+featured: 
+  - homepage
+  - services
 ---
 
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
