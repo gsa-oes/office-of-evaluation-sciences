@@ -31,8 +31,8 @@
     width: 100%;
 
     &:hover {
-      background-color: color('white-transparent-80');
-      color: color('ink');
+      background-color: color('white-transparent-80')!important;
+      color: color('ink')!important;
     }
 
     &:active {
