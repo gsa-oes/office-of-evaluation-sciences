@@ -36,8 +36,7 @@
     }
 
     &:hover {
-      background-color: #247f9b
-
+      background-color: #247f9b;
       span {
         color: #fff;
       }
@@ -58,7 +57,7 @@
 }
 
 .usa-nav__submenu {
-  background-color: #247f9b;
+  background-color: #247f9b!important;
 
   a:hover {
     background-color: #fff;
