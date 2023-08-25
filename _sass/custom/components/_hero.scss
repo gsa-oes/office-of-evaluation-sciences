@@ -14,7 +14,7 @@
   background-color: #14576C;
 
   h1 {
-    @include typeset('heading', 12, 3)
+    @include typeset('heading', 12, 3);
     color: color($color-white);
     font-weight: fw($font-heavy);
     letter-spacing: ls($display-kerning);

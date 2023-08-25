@@ -1,7 +1,7 @@
 // Footer ------------- //
 
 footer {
-  @include typeset('alt', '3xs')
+  @include typeset('alt', '3xs');
 
   a {
     @include u-font('alt', '3xs');
