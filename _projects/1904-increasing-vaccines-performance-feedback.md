@@ -4,7 +4,7 @@ permalink: /projects/1904-increasing-vaccines-performance-feedback/
 tags: 
   - project
   - vaccines
-image: /assets/img/project-images/1904.jpg
+image: /assets/img/project-images/1904.webp
 image_alt_text: People getting vaccines
 image-credit: https://health.mil/-/media/Images/MHS/Photos/IPAP.ashx
 analysis-plan: /assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf

@@ -4,7 +4,7 @@ layout: page
 permalink: /results/increasing-applications-homeowner-assistance-fund/
 tags: 
   - abstract
-image: /assets/img/project-images/2206-image.jpg
+image: /assets/img/project-images/2206-image.webp
 image-credit: https://unsplash.com/photos/7DziDCBnhiE
 summary: 
 

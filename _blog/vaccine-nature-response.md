@@ -2,7 +2,7 @@
 layout: page	
 title: What are the best ways to encourage COVID-19 vaccination?
 permalink: /blog/encourage-covid-19-vaccination/	
-image: /assets/img/project-images/1740.jpg
+image: /assets/img/project-images/1740.webp
 image_alt_text: Nurse applying vaccine
 hide_image: true
 year: 2023

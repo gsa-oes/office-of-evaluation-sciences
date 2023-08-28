@@ -4,7 +4,7 @@ layout: page
 permalink: /results/slfrf-tribal-govs-neus/
 tags: 
   - abstract
-image: /assets/img/project-images/2112G-image.jpg
+image: /assets/img/project-images/2112G-image.webp
 image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=391292&picture=street-in-a-town
 summary: 
 

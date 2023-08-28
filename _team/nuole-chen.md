@@ -1,6 +1,6 @@
 ---
 name: Nuole (Lula) Chen
-image: /assets/img/team/Noule_Chen.jpg
+image: /assets/img/team/Noule_Chen.webp
 year: 
   - 2016
   - 2017

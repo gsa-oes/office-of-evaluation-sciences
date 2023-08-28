@@ -4,7 +4,7 @@ permalink: /projects/haf-pilot/
 tags: 
   - project
   - arp
-image: /assets/img/project-images/2206-image.jpg
+image: /assets/img/project-images/2206-image.webp
 image_alt_text: Arial view of a neighborhood in Milwaukee, WI
 image-credit: https://unsplash.com/photos/7DziDCBnhiE
 analysis-plan: /assets/analysis/2206-HAF-Pilot.pdf

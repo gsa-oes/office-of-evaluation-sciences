@@ -4,7 +4,7 @@ permalink: /projects/nslp-rolling-verification/
 tags: 
   - project
   - payments
-image: /assets/img/project-images/school-lunch.jpg
+image: /assets/img/project-images/school-lunch.webp
 image_alt_text: School Lunch
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-2-nslp-rolling-verification.pdf

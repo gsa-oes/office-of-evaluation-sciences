@@ -1,6 +1,6 @@
 ---
 name: Catherine Hensly
-image: /assets/img/team/Catherine_Hensly.jpg
+image: /assets/img/team/Catherine_Hensly.webp
 year: 
   - 2018
   - 2019

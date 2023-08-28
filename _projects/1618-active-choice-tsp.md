@@ -4,7 +4,7 @@ permalink: /projects/active-choice-tsp/
 tags:
   - project
   - retirement
-image: /assets/img/project-images/navy-paperwork.jpg
+image: /assets/img/project-images/navy-paperwork.webp
 image_alt_text: Military person filling out paper form
 image-credit: https://www.flickr.com/photos/navyjagcorps/
 abstract: /assets/abstracts/1618-On-Base-Active-Choice-for-TSP.pdf

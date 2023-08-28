@@ -1,6 +1,6 @@
 ---
 name: Daniel J. Hopkins
-image: /assets/img/team/hopkins_daniel.jpg
+image: /assets/img/team/hopkins_daniel.webp
 year: 
   - 2015
 domain:

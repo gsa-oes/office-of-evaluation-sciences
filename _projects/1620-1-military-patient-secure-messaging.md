@@ -4,7 +4,7 @@ permalink: /projects/military-secure-messaging/
 tags: 
   - project
   - healthit
-image: /assets/img/project-images/1620.jpg 
+image: /assets/img/project-images/1620.webp 
 image_alt_text: Hands typing on laptop
 image-credit: https://pixabay.com/photo-1149148/
 abstract: /assets/abstracts/1620-1_DHA Secure-messaging.pdf

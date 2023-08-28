@@ -2,7 +2,7 @@
 title: Increasing Flexible Spending Account (FSA) Participation Among Government Employees
 permalink: /projects/increasing-fsa-among-government-employees/
 tags: project  
-image: /assets/img/project-images/1733.jpg
+image: /assets/img/project-images/1733.webp
 image_alt_text: FSA feds website
 image-credit:
 analysis-plan: /assets/analysis/1733-flexible-spending-accounts-gsa-analysis-plan.pdf

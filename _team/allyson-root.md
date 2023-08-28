@@ -1,6 +1,6 @@
 ---
 name: Allyson Root
-image: /assets/img/team/allyson-barnett.jpg
+image: /assets/img/team/allyson-barnett.webp
 year: 
   - 2016
   - 2017

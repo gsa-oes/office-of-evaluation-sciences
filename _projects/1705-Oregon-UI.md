@@ -2,7 +2,7 @@
 title:  Improving employment services for UI claimants in Oregon
 permalink: /projects/Oregon-UI/
 tags: project  
-image: /assets/img/project-images/1705-Oregon-UI.jpg  
+image: /assets/img/project-images/1705-Oregon-UI.webp  
 image_alt_text: unemployment ensurance office sign on door
 image-credit: https://www.flickr.com/photos/bytemarks/5409428957
 analysis-plan: /assets/analysis/1705-Oregon-UI.pdf

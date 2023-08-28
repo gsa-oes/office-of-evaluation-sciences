@@ -2,7 +2,7 @@
 layout: page
 title: Fellowships
 permalink: /opps/
-image: /assets/img/icons/oes-green.jpg
+image: /assets/img/icons/oes-green.webp
 hide_image: true
 class:
 summary: 

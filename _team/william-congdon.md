@@ -1,6 +1,6 @@
 ---
 name: William J. Congdon
-image: /assets/img/team/congdon_bill.jpg
+image: /assets/img/team/congdon_bill.webp
 year: 
   - 2015
   - 2016

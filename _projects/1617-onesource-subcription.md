@@ -2,7 +2,7 @@
 title: Increasing Newsletter Subscription Rates of Active Duty Servicemembers
 permalink: /projects/onesource-subscription/
 tags: project
-image: /assets/img/project-images/military5.jpg
+image: /assets/img/project-images/military5.webp
 image_alt_text: Military users on laptop
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1617-Military-OneSource-Subscription.pdf

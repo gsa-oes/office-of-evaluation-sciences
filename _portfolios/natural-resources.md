@@ -2,7 +2,7 @@
 layout: portfolio
 title: Natural Resources
 permalink: /natural-resources/
-image: /assets/img/project-images/1903.jpg  
+image: /assets/img/project-images/1903.webp  
 image_alt_text: People viewing the landscape
 hide_image: true
 image-credit: https://www.flickr.com/photos/160831427@N06/46168230601/in/photolist-2dkJftT

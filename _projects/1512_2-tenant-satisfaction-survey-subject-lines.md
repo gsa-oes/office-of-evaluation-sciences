@@ -2,7 +2,7 @@
 title: Increasing Satisfaction Survey Response Rate from Federal Tenants - Subject Lines and Day of Week
 permalink: /projects/tenant-satisfaction-survey-subject-lines/
 tags: project
-image: /assets/img/project-images/gsa-tenant2.jpg
+image: /assets/img/project-images/gsa-tenant2.webp
 image_alt_text: Front of building
 image-credit: https://gsablogs.gsa.gov/gsablog/2012/11/08/gsa-completes-restoration-of-hipolito-federal-building/
 abstract: /assets/abstracts/1512-2-Tenant-Satisfaction-Survey-Response-Subject-Lines-and-Day-of-Week.pdf

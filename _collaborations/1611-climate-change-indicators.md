@@ -4,7 +4,7 @@ permalink: /collaborations/climate-change-indicators/
 tags: 
   - collaborations
   - resources
-image: /assets/img/project-images/climate-change.jpg
+image: /assets/img/project-images/climate-change.webp
 image-credit: https://www.flickr.com/photos/departmentofenergy/
 abstract: /assets/abstracts/1611-Climate-Indicators.pdf
 year: 2016

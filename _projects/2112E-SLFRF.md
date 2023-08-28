@@ -4,7 +4,7 @@ permalink: /projects/slfrf-reporting/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/slfrf-town.jpg
+image: /assets/img/project-images/slfrf-town.webp
 image_alt_text: Small town in Alabama
 image-credit: https://pixabay.com/photos/gadsden-alabama-small-towns-1616084/
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf

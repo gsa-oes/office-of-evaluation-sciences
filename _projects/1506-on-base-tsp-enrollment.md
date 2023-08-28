@@ -4,7 +4,7 @@ permalink: /projects/on-base-tsp-enrollment/
 tags:
   - project
   - retirement
-image: /assets/img/project-images/military12.jpg
+image: /assets/img/project-images/military12.webp
 image_alt_text: Man sitting at desk wearing navy uniform
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1506-On-Base-Servicemember-TSP-Enrollment.pdf

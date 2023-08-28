@@ -4,7 +4,7 @@ permalink: /projects/opioid-retrospective-analysis/
 tags: 
   - project 
   - prescribing
-image: /assets/img/project-images/2002-image.jpg  
+image: /assets/img/project-images/2002-image.webp  
 image_alt_text: Counter medication
 image-credit: https://pixabay.com/photos/counter-medication-prescription-4065988/
 analysis-plan: /assets/analysis/2002-3-analysis-plan.pdf

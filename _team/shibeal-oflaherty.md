@@ -1,6 +1,6 @@
 ---
 name: Shibeal O'Flaherty
-image: /assets/img/team/shibeal-oflaherty.JPG
+image: /assets/img/team/shibeal-oflaherty.webp
 year:
   - 2022
   - 2023

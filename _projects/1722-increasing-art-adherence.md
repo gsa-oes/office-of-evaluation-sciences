@@ -4,9 +4,9 @@ permalink: /projects/increasing-art-adherence/
 tags:
   - project
   - USAID
-image: /assets/img/project-images/1722.jpg  
+image: /assets/img/project-images/1722.webp  
 image_alt_text: Doctor applying a vaccine
-image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.jpg
+image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.webp
 analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
 abstract: /assets/abstracts/1722-Project Abstract-6 Month.pdf
 academic-pub: /assets/publications/1722 - USAID Ethiopia Anteneh et al AEL 2020.pdf

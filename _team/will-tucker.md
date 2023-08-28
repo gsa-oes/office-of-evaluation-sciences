@@ -1,6 +1,6 @@
 ---
 name: Will Tucker-Ray
-image: /assets/img/team/tucker_will.jpg
+image: /assets/img/team/tucker_will.webp
 year: 
   - 2015
   - 2016

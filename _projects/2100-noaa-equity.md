@@ -53,7 +53,7 @@ Proposed evaluation activities include:
 ## What did we learn? 
 This collaboration emphasized the value of taking a program-specific approach to understanding opportunities to promote equitable service delivery. A key need for all three programs is to generate a more complete picture of how the programs engage with underserved communities. Yet there is no single way to generate this picture; each program will likely need to rely on multiple approaches to understand and respond to equity needs. 
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/NOAA-service-equity-map.jpg)<br>
+![image]({{site.baseurl}}/assets/img/project-images/othercollabs/NOAA-service-equity-map.webp)<br>
 <a href="{{site.baseurl}}/assets/files/NOAA-Equity-Diagram.pdf" target="_blank">**View larger image here**</a>
 
 Addressing three overarching themes may support ongoing efforts to improve service equity at NOAA and across the Federal Government.

@@ -1,6 +1,6 @@
 ---
 name: Rebecca Johnson
-image: /assets/img/team/rebecca_johnson.jpg
+image: /assets/img/team/rebecca_johnson.webp
 year:
   - 2019
   - 2020

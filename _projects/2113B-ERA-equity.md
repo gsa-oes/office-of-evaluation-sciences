@@ -4,9 +4,9 @@ permalink: /projects/era-equity/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/2113B-image.jpg
+image: /assets/img/project-images/2113B-image.webp
 image_alt_text: Triple decker housing in Cambridge, MA
-image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.jpg
+image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.webp
 analysis-plan: /assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf
 abstract: /assets/abstracts/2113B-era-descriptive-study-abstract.pdf
 technical-appendix: /assets/abstracts/2113B-technical-appendix.pdf

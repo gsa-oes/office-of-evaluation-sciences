@@ -4,7 +4,7 @@ permalink: /collaborations/vaccine-communications-synthesis/
 tags:
   - collaborations
   - vaccines
-image: /assets/img/project-images/othercollabs/vaccine-synthesis.jpg
+image: /assets/img/project-images/othercollabs/vaccine-synthesis.webp
 year: 2021
 domain: Health
 agency: General Services Administration

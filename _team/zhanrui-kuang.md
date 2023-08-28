@@ -1,6 +1,6 @@
 ---
 name: Zhanrui Kuang
-image: /assets/img/team/kuang_ruirui.jpg
+image: /assets/img/team/kuang_ruirui.webp
 year: 
   - 2015
   - 2016

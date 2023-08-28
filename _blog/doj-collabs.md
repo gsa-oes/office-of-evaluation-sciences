@@ -2,7 +2,7 @@
 layout: page	
 title: Department of Justice collaborations have new relevance in 2020
 permalink: /blog/doj-collaborations/	
-image: /assets/img/project-images/Federal_Prison.jpg
+image: /assets/img/project-images/Federal_Prison.webp
 image_alt_text: Federal Prison
 hide_image: true
 year: 2020

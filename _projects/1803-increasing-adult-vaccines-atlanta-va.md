@@ -5,7 +5,7 @@ tags:
   - project
   - vaccines
   - healthit
-image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.jpg
+image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.webp
 image_alt_text: Patients/vaccines
 image-credit: https://www.army.mil/article/191935/increasing_patient_satisfaction_and_health_communication_through_relayhealth
 analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf
@@ -39,6 +39,6 @@ Primary care teams (consisting of physicians, advanced practice providers, and n
 
 Flu vaccination was higher among patients who saw primary care teams in the treatment group than patients who saw teams in the control group (22.3% versus 20.8%). However, when accounting for demographic characteristics and the clustering of patients within respective care teams, the difference is not statistically significant. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1803-graph.jpg)
+![image]({{site.baseurl}}/assets/img/project-images/1803-graph.webp)
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analysis-plan-041719.pdf">click here</a>.</i>

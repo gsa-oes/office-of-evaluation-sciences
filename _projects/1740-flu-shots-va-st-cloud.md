@@ -4,7 +4,7 @@ permalink: /projects/flu-shots-va-st-cloud/
 tags:
   - project
   - vaccines
-image: /assets/img/project-images/1740.jpg
+image: /assets/img/project-images/1740.webp
 image_alt_text: Doctor and patient
 image-credit: https://www.va.gov/health/NewsFeatures/2013/August/Veterans-Are-Your-Immunizations-Current.asp
 analysis-plan: /assets/analysis/1740-flu-shots-va-st-cloud-analysis-plan.pdf

@@ -2,7 +2,7 @@
 title: Increasing Duplex Printing Among Federal Workforce
 permalink: /projects/duplex-printing/
 tags: project
-image: /assets/img/project-images/duplex-printing.jpg
+image: /assets/img/project-images/duplex-printing.webp
 image_alt_text: Duplex printing
 image-credit: https://www.flickr.com/photos/featheredtar/
 abstract: /assets/abstracts/1505-Double-Sided-Printing.pdf

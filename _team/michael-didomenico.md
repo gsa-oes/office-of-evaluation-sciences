@@ -1,6 +1,6 @@
 ---
 name: Michael DiDomenico
-image: /assets/img/team/didomenico_michael.jpg
+image: /assets/img/team/didomenico_michael.webp
 year:
   - 2015
   - 2016

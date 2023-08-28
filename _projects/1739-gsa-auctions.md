@@ -4,7 +4,7 @@ permalink: /projects/gsa-auctions/
 tags:
   - project
   - cost savings
-image: /assets/img/project-images/1739.jpg
+image: /assets/img/project-images/1739.webp
 image_alt_text: GSA Auctions Website
 image-credit: https://www.gsaauctions.gov
 abstract: /assets/abstracts/1739-gsa-auctions.pdf

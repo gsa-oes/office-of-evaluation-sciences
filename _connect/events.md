@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-image: /assets/img/icons/oes-blue.jpg
+image: /assets/img/icons/oes-blue.webp
 hide_image: true
 class:
 summary: Check out our upcoming events and workshops.

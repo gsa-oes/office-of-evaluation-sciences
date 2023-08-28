@@ -1,6 +1,6 @@
 ---
 name: Sam Quinney
-image: /assets/img/team/sam_quinney.jpg
+image: /assets/img/team/sam_quinney.webp
 year: 
   - 2014
   - 2015

@@ -4,7 +4,7 @@ permalink: /projects/roth-tsp-re-enrollment/
 tags:
   - project
   - retirement
-image: /assets/img/project-images/service-member-re-enrollment.jpg
+image: /assets/img/project-images/service-member-re-enrollment.webp
 image_alt_text: Service member re-enrollment
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/abstracts/1502-Servicemember-Roth-TSP-Re-Enrollment.pdf

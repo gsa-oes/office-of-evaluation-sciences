@@ -1,6 +1,6 @@
 ---
 name: Daniel Shephard
-image: /assets/img/team/shephard_daniel.jpg
+image: /assets/img/team/shephard_daniel.webp
 year: 
   - 2015
   - 2016

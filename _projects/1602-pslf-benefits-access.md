@@ -4,7 +4,7 @@ permalink: /projects/pslf-benefits-access/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/student-loans2.jpg
+image: /assets/img/project-images/student-loans2.webp
 image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/abstracts/1602-Public-Service-Loan-Forgiveness-Pilot.pdf

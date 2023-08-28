@@ -1,6 +1,6 @@
 ---
 name: Brigitte Seim
-image: /assets/img/team/brigitte-seim.jpg
+image: /assets/img/team/brigitte-seim.webp
 year:
   - 2023
 home: University

@@ -3,9 +3,9 @@ title:  Integrating Health Care Services in Nigeria
 permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
   - USAID
-image: /assets/img/project-images/mis-nigeria.jpg  
+image: /assets/img/project-images/mis-nigeria.webp  
 image_alt_text: Nigerian woman
-image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.jpg
+image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.webp
 abstract: /assets/abstracts/msi-project-abstract.pdf
 year: 2018  
 type: Program Change and Evaluation

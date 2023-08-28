@@ -4,7 +4,7 @@ permalink: /projects/slfrf-early-signup/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/SLFRF-2112D-image.jpg
+image: /assets/img/project-images/SLFRF-2112D-image.webp
 image_alt_text: View of building
 image-credit: https://pxhere.com/en/photo/1598093
 analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf

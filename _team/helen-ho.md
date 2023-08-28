@@ -1,6 +1,6 @@
 ---
 name: Helen Ho
-image: /assets/img/team/helen-ho.jpg
+image: /assets/img/team/helen-ho.webp
 year:
   - 2022
   - 2023

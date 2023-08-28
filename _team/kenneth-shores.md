@@ -1,6 +1,6 @@
 ---
 name: Kenneth Shores
-image: /assets/img/team/kenneth-shores.jpg
+image: /assets/img/team/kenneth-shores.webp
 year:
   - 2022
   - 2023

@@ -2,7 +2,7 @@
 title: Increasing Tax Filing Among Lower-Income Individuals
 permalink: /projects/eitc-filing/
 tags: project
-image: /assets/img/project-images/eitc.jpg
+image: /assets/img/project-images/eitc.webp
 image_alt_text: Paper folder
 image-credit: https://www.flickr.com/photos/pulpolux/
 abstract: /assets/abstracts/1610-Tax-Filing-and-EITC-Take-up.pdf

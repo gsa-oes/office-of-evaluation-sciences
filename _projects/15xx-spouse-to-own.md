@@ -3,7 +3,7 @@ title:  Improving Claiming Choices for Recipients of Social Security Spousal Ben
 permalink: /collaborations/spouse-to-own/
 tags:
   - retirement 
-image: /assets/img/project-images/image-spouse-to-own.jpg
+image: /assets/img/project-images/image-spouse-to-own.webp
 image_alt_text: Women hiking in a field
 image-credit: https://blog.ssa.gov/why-social-security-retirement-is-important-to-woman/ 
 intervention: /assets/interventions/spouse-to-own-intervention-pack.pdf

@@ -1,6 +1,6 @@
 ---
 name: Elizabeth Linos
-image: /assets/img/team/elizabeth-linos.jpg
+image: /assets/img/team/elizabeth-linos.webp
 year:
   - 2022
   - 2023

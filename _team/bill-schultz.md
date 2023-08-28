@@ -1,6 +1,6 @@
 ---
 name: Bill Schultz
-image: /assets/img/team/bill-schultz.jpg
+image: /assets/img/team/bill-schultz.webp
 year:
   - 2022
   - 2023

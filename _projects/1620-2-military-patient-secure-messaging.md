@@ -4,7 +4,7 @@ permalink: /projects/military-patient-messaging-emails/
 tags: 
   - project 
   - healthit
-image: /assets/img/project-images/1620-2.jpg
+image: /assets/img/project-images/1620-2.webp
 image_alt_text: Computer screen with coding
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
 abstract: /assets/abstracts/1620-2-secure-messaging.pdf

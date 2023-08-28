@@ -5,7 +5,7 @@ tags:
   - collaborations
   - USAID
   - vaccines
-image: /assets/img/project-images/othercollabs/cdc-gid.jpg
+image: /assets/img/project-images/othercollabs/cdc-gid.webp
 year: 2023
 domain: Global Health
 agency: 

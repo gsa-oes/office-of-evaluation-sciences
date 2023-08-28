@@ -4,7 +4,7 @@ permalink: /projects/patient-health-data-patient-reminders/
 tags: 
   - project
   - healthit
-image: /assets/img/project-images/1729.jpg
+image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of laptop
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
@@ -36,7 +36,7 @@ ONC, Inova, and OES assigned 2,182 patients at medical practices whose doctors p
 
 After 14 weeks, patients sent the Physician Accountability reminder were more likely to use flow sheets, had fewer prescriptions overall and few diabetes-related prescriptions ordered, and were less likely to receive an A1c test compared to patients who were not sent a reminder.  Patients receiving the Basic or Gift Card reminders did not have significantly different values for these outcomes relative to the No Reminder group.
 
-![image]({{site.baseurl}}/assets/img/project-images/1729-2-graph.jpg)
+![image]({{site.baseurl}}/assets/img/project-images/1729-2-graph.webp)
 
 ### <i>Related Publication</i>
 Allyson Root, Christopher Connolly, Season Majors, Hassan Ahmed, and Mattie Toma. "<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac069/6587354?login=true" target="_blank">Electronic blood glucose monitoring impacts on provider and patient behavior</a>." *Journal of the American Medical Informatics Association*, ocac069 (2022).

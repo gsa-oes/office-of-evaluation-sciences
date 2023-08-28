@@ -2,9 +2,9 @@
 title:  Reducing Nonresponse Bias in the American Housing Survey (AHS)
 permalink: /projects/1901-ahs-incentives-evaluation/
 tags: project  
-image: /assets/img/project-images/1901-nrb.jpg
+image: /assets/img/project-images/1901-nrb.webp
 image_alt_text: New york history art
-image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.jpg
+image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.webp
 analysis-plan: /assets/analysis/1901-Analysis-Plan.pdf
 abstract:
 year: 2020  

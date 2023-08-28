@@ -1,6 +1,6 @@
 ---
 name: Shannon Parker
-image: /assets/img/team/shannon-parker.jpg
+image: /assets/img/team/shannon-parker.webp
 year:
   - 2022
   - 2023

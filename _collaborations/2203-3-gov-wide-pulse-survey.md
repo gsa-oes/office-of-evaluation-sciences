@@ -3,7 +3,7 @@ title:  Government-wide Pulse Survey
 permalink: /collaborations/government-wide-pulse-survey/
 tags:
   - collaborations
-image: /assets/img/project-images/othercollabs/2203-3-image.jpg
+image: /assets/img/project-images/othercollabs/2203-3-image.webp
 year: 2022
 domain: Government Operations
 agency: 

@@ -4,7 +4,7 @@ permalink: /collaborations/census-community-outreach-toolkit/
 tags:
   - collaborations
   - census
-image: /assets/img/project-images/census.jpg
+image: /assets/img/project-images/census.webp
 image-credit: https://www.flickr.com/photos/uscensusbureau/7024455607
 academic-pub: https://oes.gsa.gov/assets/publications/census-community-outreach-toolkit.pdf
 year: 2017  

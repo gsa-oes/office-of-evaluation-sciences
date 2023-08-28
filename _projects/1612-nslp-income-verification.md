@@ -4,7 +4,7 @@ permalink: /projects/nslp-income-verification/
 tags: 
   - project
   - payments
-image: /assets/img/project-images/school-lunch.jpg
+image: /assets/img/project-images/school-lunch.webp
 image_alt_text: School lunch
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-National-School-Lunch-Program-Verification.pdf

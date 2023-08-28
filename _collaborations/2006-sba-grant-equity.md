@@ -11,7 +11,7 @@ project_tags:
 collaborations_tags: 
   - covid
   - business
-image: /assets/img/project-images/othercollabs/sba-loan-image.jpg
+image: /assets/img/project-images/othercollabs/sba-loan-image.webp
 academic-pub: /assets/abstracts/2006-smallbusinessaccessreport-nov2020.pdf
 model: /assets/files/sba-comparison-program-models.pdf
 visualization: /assets/files/sba-process-map-challenges.pdf

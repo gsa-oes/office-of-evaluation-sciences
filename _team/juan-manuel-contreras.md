@@ -1,6 +1,6 @@
 ---
 name: Juan Manuel Contreras
-image: /assets/img/team/contreras_juanmichael.jpg
+image: /assets/img/team/contreras_juanmichael.webp
 year: 
   - 2015
   - 2016

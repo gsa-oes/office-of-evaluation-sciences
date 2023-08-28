@@ -3,7 +3,7 @@ layout: page
 title: Mission
 permalink: /about/
 tags: 
-image: /assets/img/icons/oes-green.jpg
+image: /assets/img/icons/oes-green.webp
 hide_image: true
 class:
 summary: Our mission is to build and use evidence to better serve the public.

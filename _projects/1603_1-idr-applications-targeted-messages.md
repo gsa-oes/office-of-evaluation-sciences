@@ -4,7 +4,7 @@ permalink: /projects/idr-applications-targeted-messages/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/pslf1.jpg
+image: /assets/img/project-images/pslf1.webp
 image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/pagedooley/
 abstract: /assets/abstracts/1603-1-Income-Driven Repayment-Targeted-Messages.pdf

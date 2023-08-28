@@ -4,7 +4,7 @@ permalink: /projects/preventing-malaria-during-pregnancy/
 tags:
   - project
   - USAID
-image: /assets/img/project-images/1715.jpg
+image: /assets/img/project-images/1715.webp
 image_alt_text: Pills in palm of hand
 image-credit: https://www.pmi.gov/news/stories-from-the-field/stories-from-the-field---detail/increasing-uptake-of-iptp-success-seen-in-malawi
 analysis-plan: /assets/analysis/1715-increasing-iptp-uptake.pdf
