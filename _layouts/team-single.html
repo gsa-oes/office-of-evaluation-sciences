@@ -15,7 +15,7 @@ class: page-team-single
         {{ content }}
       </div>
     {% endif %}
-    <div class="tablet:grid-col-4 single-sidebar">
+    <div class="tablet:grid-col-4 single-sidebar text-center">
       {% if page.image %}
       <img class="team-image" src="{{ page.image | prepend: site.baseurl }}" aria-label="{{ page.name }}" alt="{{ page.name }}">
       {% endif %}
