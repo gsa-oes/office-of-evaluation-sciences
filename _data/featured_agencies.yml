@@ -1,18 +1,18 @@
 - name: Department of Education
   acronym: ED
-  logo: /assets/img/logos/agencies/ed.png
+  logo: /assets/img/logos/agencies/ed.webp
 - name: Deparment of the Treasury
   acronym: USDT
-  logo: /assets/img/logos/agencies/usdt.png
+  logo: /assets/img/logos/agencies/usdt.webp
 - name: Department of Agriculture
   acronym: USDA
   logo: /assets/img/logos/agencies/usda2.gif
 - name: Health and Human Services
   acronym: HHS
-  logo: /assets/img/logos/agencies/hhs.png
+  logo: /assets/img/logos/agencies/hhs.webp
 - name: Department of Veterans Affairs
   acronym: VA
-  logo: /assets/img/logos/agencies/va.png
+  logo: /assets/img/logos/agencies/va.webp
 - name: Department of Housing and Urban Development
   acronym: HUD
-  logo: /assets/img/logos/agencies/hud.png
+  logo: /assets/img/logos/agencies/hud.webp
