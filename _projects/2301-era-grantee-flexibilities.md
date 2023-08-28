@@ -4,7 +4,7 @@ permalink: /projects/era-grantee-flexibilities-va/
 tags:
   - project
   - arp
-image: /assets/img/project-images/2301-img.jpg
+image: /assets/img/project-images/2301-img.webp
 image_alt_text: People writing on paper
 image-credit: https://www.pexels.com/photo/a-person-wearing-wristwatch-filling-up-the-paper-8293764/
 analysis-plan: /assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.pdf

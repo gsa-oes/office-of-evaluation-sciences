@@ -1,6 +1,6 @@
 ---
 name: Jessica Norton
-image: /assets/img/team/jessica-norton.png
+image: /assets/img/team/jessica-norton.webp
 year:
   - 2021
   - 2022

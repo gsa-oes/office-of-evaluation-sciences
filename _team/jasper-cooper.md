@@ -1,6 +1,6 @@
 ---
 name: Jasper Cooper
-image: /assets/img/team/cooper_jasper.jpg
+image: /assets/img/team/cooper_jasper.webp
 year: 
   - 2018
   - 2019

@@ -1,6 +1,6 @@
 ---
 name: Jessica Leight
-image: /assets/img/team/jessica_leight.jpg
+image: /assets/img/team/jessica_leight.webp
 year: 
   - 2016
   - 2017

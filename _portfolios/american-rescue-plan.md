@@ -2,7 +2,7 @@
 layout: portfolio
 title: American Rescue Plan
 permalink: /american-rescue-plan/
-image: /assets/img/project-images/arp-portfolio.jpg
+image: /assets/img/project-images/arp-portfolio.webp
 image_alt_text: Front view of residential home
 hide_image: true
 image-credit: https://www.flickr.com/photos/toby_d1/4273541069

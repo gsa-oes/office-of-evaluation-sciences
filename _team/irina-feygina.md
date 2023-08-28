@@ -1,6 +1,6 @@
 ---
 name: Irina Feygina
-image: /assets/img/team/feygina_irina.jpg
+image: /assets/img/team/feygina_irina.webp
 year: 
   - 2014
   - 2015

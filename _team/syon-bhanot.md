@@ -1,6 +1,6 @@
 ---
 name: Syon Bhanot
-image: /assets/img/team/syon_bhanot.jpg
+image: /assets/img/team/syon_bhanot.webp
 year:
   - 2021
   - 2022

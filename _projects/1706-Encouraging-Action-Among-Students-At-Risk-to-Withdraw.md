@@ -4,7 +4,7 @@ permalink: /projects/students-at-risk/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/1706.jpg
+image: /assets/img/project-images/1706.webp
 image_alt_text: Students hugging
 image-credit: https://flic.kr/p/URogRg
 abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf
@@ -27,7 +27,7 @@ In the summer after their first year of school, the U.S. Department of Education
 
 The U.S. Department of Education identified a pool of student borrowers who were at risk of withdrawing from school prior to completing their course of study. From the pool of at-risk students, approximately 195,000 borrowers were randomly selected to be emailed in July, 2015 --- the summer after their first academic year. An additional 50,000 borrowers were randomly selected into a control group and were not emailed. Differences in enrollment rates were compared for the spring 2016 and fall 2016 academic terms.
 
-![image]({{site.baseurl}}/assets/img/project-images/1706-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1706-graph.webp)
 
 ## What was the impact?
 

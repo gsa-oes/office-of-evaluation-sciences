@@ -2,7 +2,7 @@
 layout: page
 title: Media
 permalink: /media/
-image: /assets/img/icons/oes-red.jpg
+image: /assets/img/icons/oes-red.webp
 hide_image: true
 class:
 summary: Read more about OES through media coverage or contact our press office.
@@ -110,8 +110,8 @@ The GSA Office of Strategic Communications handles all press questions and can c
 If you’re writing a story about OES, feel free to use the images below.
 
 Organizational logos:
-  - <a href="{{ site.baseurl }}/assets/img/logos/oes-logo.png" target="_blank">OES (PNG)</a>
-  - <a href="{{ site.baseurl }}/assets/img/gsa-logo-dark.jpg" target="_blank">GSA (JPG)</a>
+  - <a href="{{ site.baseurl }}/assets/img/logos/oes-logo.webp" target="_blank">OES (PNG)</a>
+  - <a href="{{ site.baseurl }}/assets/img/gsa-logo-dark.webp" target="_blank">GSA (JPG)</a>
 
 
 

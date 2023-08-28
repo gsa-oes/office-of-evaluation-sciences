@@ -4,7 +4,7 @@ permalink: /projects/loan-rehab-rates/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/loan-rehab.jpg
+image: /assets/img/project-images/loan-rehab.webp
 image_alt_text: Person filling out paper form
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
@@ -27,7 +27,7 @@ OES developed emails with four different subject lines informed by research insi
 
 An iterative randomized control trial was conducted, sending emails to three separate cohorts of borrowers in default, where the most effective email from the previous cohort was tested against a new intervention in the next cohort.
 
-![image]({{site.baseurl}}/assets/img/project-images/1605-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1605-graph.webp)
 
 ## What was the impact?
 

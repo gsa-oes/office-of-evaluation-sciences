@@ -2,7 +2,7 @@
 layout: page	
 title: Census Community Outreach Toolkit targets various outreach barriers	
 permalink: /blog/census-toolkit/	
-image: /assets/img/project-images/census.jpg
+image: /assets/img/project-images/census.webp
 image_alt_text: Person holding piece of paper
 hide_image: true
 tags: blog
@@ -20,17 +20,17 @@ In the Toolkit, four common participation “barriers” are identified:
 - **“I have trouble completing census forms.”** This person may not be a native English speaker and finds census forms confusing.	
 - **“I don’t have time to fill out the census.”** This person is very busy and assumes the census will be time-consuming and cumbersome.	
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-toolkit-how-to-use.png)	
+![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-toolkit-how-to-use.webp)	
 
 To help overcome these barriers, the Toolkit then provides useful evidence-based insights, worksheets, and printable materials for approaches to make Census communications as effective as possible. Some of these tips include:	
 - **Make it actionable** - reducing friction in the path towards completion is critical, and sometimes the smallest tweaks can have a significant impact.	
 - **Make it relevant** - position your message to work for the audience you hope to engage, accounting for what’s important to them and what motivates them	
 - **Plan the delivery** - meet people where they’re at, the packaging of your message matters	
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-101-handout.png)	
+![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-101-handout.webp)	
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-data-handout.png)	
+![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-data-handout.webp)	
 
 We hope the Community Outreach Toolkit can provide tangible tips and guidance for anyone working to ensure an accurate count in 2020! To learn more about the 2020 Census, please visit <a href="https://2020census.gov/" target="_blank">2020census.gov</a>. 	
 
-Read the full toolkit <a href="https://oes.gsa.gov/assets/publications/census-community-outreach-toolkit.pdf" target="_blank">here</a>.
+Read the full toolkit <a href="/assets/publications/census-community-outreach-toolkit.pdf" target="_blank">here</a>.

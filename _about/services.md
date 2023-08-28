@@ -3,7 +3,7 @@ layout: page
 title: Our Services
 permalink: /services/
 tags: 
-image: /assets/img/icons/oes-red.jpg
+image: /assets/img/icons/oes-red.webp
 hide_image: true
 class:
 summary: 

@@ -4,7 +4,7 @@ permalink: /projects/sms-mozambique/
 tags: 
   - project 
   - USAID
-image: /assets/img/project-images/1811.jpg
+image: /assets/img/project-images/1811.webp
 image_alt_text: Sliding phone
 image-credit: 
 analysis-plan: /assets/analysis/1811-Mozambique-SMS-v2.pdf
@@ -32,7 +32,7 @@ The sample was 5,370 phone numbers corresponding to women who received a referra
 ## What was the impact?
 The results suggest that the text reminders led to an increase in clinic visits, particularly among younger women and women in the period prior to the COVID-19 state of emergency. The text messages increased clinic visits by 2.26 percentage points, from a baseline of 47.4 percent of women visiting a clinic in the control group. 
 
-![image](https://oes.gsa.gov/assets/img/project-images/1811-graph.png)
+![image](/assets/img/project-images/1811-graph.webp)
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1811-Mozambique-SMS-v2.pdf">click here</a>.</i>
 

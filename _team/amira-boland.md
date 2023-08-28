@@ -1,6 +1,6 @@
 ---
 name: Amira Choueiki Boland
-image: /assets/img/team/choueiki_amira.jpg
+image: /assets/img/team/choueiki_amira.webp
 year:
   - 2015
   - 2016

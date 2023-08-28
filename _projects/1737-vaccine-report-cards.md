@@ -4,7 +4,7 @@ permalink: /projects/vaccine-report-cards/
 tags:
   - project
   - vaccines
-image: /assets/img/project-images/1737.jpg
+image: /assets/img/project-images/1737.webp
 image_alt_text: Doctor applying a vaccine
 image-credit: https://www.flickr.com/photos/pahowho/13383587795
 analysis-plan: /assets/analysis/1737-vaccine-report-cards-plan.pdf
@@ -27,9 +27,9 @@ OES and the National Vaccine Program Office in the U.S. Department of Health and
 
 OES designed report cards to report on school and daycare center immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using data visualization software and by using immunization registry data. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1739-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1739-image.webp)
 
-![image]({{site.baseurl}}/assets/img/project-images/1737-image2.png)
+![image]({{site.baseurl}}/assets/img/project-images/1737-image2.webp)
 
 ## How did the evaluation work?
 

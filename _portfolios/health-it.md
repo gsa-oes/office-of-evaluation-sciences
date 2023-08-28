@@ -2,7 +2,7 @@
 layout: portfolio
 title: Health IT
 permalink: /health-it/
-image: /assets/img/project-images/1729.jpg
+image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of a laptop
 hide_image: true
 summary: Interventions to increase adoption and use of health IT features

@@ -1,6 +1,6 @@
 ---
 name: Paul Lagunes
-image: /assets/img/team/paul-lagunes.jpg
+image: /assets/img/team/paul-lagunes.webp
 year:
   - 2021
   - 2022

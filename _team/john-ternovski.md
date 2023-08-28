@@ -1,6 +1,6 @@
 ---
 name: John Ternovski
-image: /assets/img/team/john-ternovski.png
+image: /assets/img/team/john-ternovski.webp
 year:
   - 2021
   - 2022

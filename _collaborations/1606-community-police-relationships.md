@@ -1,14 +1,14 @@
 ---
-title: Facilitating Individual Action to Build Stronger Community-Police Relationships
+title: Facilitating individual action to build stronger community-police relationships
 permalink: /collaborations/community-police-relationships/
-image: /assets/img/project-images/IMG_2920.jpg
+image: /assets/img/project-images/IMG_2920.webp
 tags: collaborations
 academic-pub: /assets/abstracts/1606-1-Community-Action-Deck.pdf
 year: 2016
 domain: Justice
 agency: Justice
 impact:
-summary: Materials enable citizens to facilitate conversations and action planning around better community policing.
+summary: Materials enable citizens to facilitate conversations and action planning around better community policing
 ---
 
 ## What was the challenge?
@@ -23,11 +23,9 @@ OES developed a Community Action Deck to empower individual community members to
 
 The Community Action Deck has been made available for download across government for any interested party to use. 
 
-<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-1-Community-Action-Deck.pdf" target="_blank">Download the Deck</a>
+<a class="usa-button margin-bottom-1" href="{{site.baseurl}}/assets/abstracts/1606-1-Community-Action-Deck.pdf" target="_blank">Download the Deck</a>
 <a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-2-Community-Action-Deck-Card-Template.pptx" target="_blank">Download the Card Template</a>
 
 Notes:
 - For hyperlinked resources to work, be sure the full link is being pulled into your browser with no spaces
 - Cards are designed to print on 4 x 6 inch paper
-
-

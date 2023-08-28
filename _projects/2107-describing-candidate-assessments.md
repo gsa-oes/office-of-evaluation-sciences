@@ -2,7 +2,7 @@
 title:  Describing Candidate Assessments and Hiring Outcomes at DOI
 permalink: /projects/describing-candidate-assessments/
 tags: project  
-image: /assets/img/project-images/2107-image-briefcase.jpg
+image: /assets/img/project-images/2107-image-briefcase.webp
 image_alt_text: Person walking on a street with briefcase
 image-credit: https://unsplash.com/photos/6dW3xyQvcYE
 analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf
@@ -30,7 +30,7 @@ A descriptive study can provide a baseline understanding of DOI’s implementati
 OES compiled data on hiring actions and applications to job vacancies at DOI from July 2020 to July 2022 to provide a description of the utilization of each of the three assessment methods and summarize key outcomes of the recruitment process. These outcomes include certification time, post-certification time to selection, recruitment success, and the representation of candidates at different stages of the recruitment process.
 
 **Figure 1.** *Implementation of Hiring Assessments Across DOI*
-<img src="{{ '/assets/img/project-images/2107-graph.png' | prepend: site.baseurl }}" alt="Chart showing Implementation of Hiring Assessments Across DOI." width="1500">
+<img src="{{ '/assets/img/project-images/2107-graph.webp' | prepend: site.baseurl }}" alt="Chart showing Implementation of Hiring Assessments Across DOI." width="1500">
 
 ## What did we learn?
 *How are candidate assessments being implemented at DOI?*
@@ -55,6 +55,6 @@ Overall, recruitment success for DOI ranges between 60% and 70%. Self-report ass
 
 Future exploration could examine the impact of candidate assessment tools on the hiring process through a randomized evaluation. This type of study could provide insights into whether any differences in hiring outcomes are likely due to the use of one assessment method over another, rather than being driven by hiring officials’ preferences or other parts of the hiring process.
 
-Read the full report <a href="https://oes.gsa.gov/assets/files/2107-full-report.pdf" target="_blank">here</a>.
+Read the full report <a href="/assets/files/2107-full-report.pdf" target="_blank">here</a>.
 
 The upload date of the Analysis Plan can be verified <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf">here</a>. 

@@ -1,6 +1,6 @@
 ---
 name: Mary Steffel
-image: /assets/img/team/mary_steffel.jpg
+image: /assets/img/team/mary_steffel.webp
 year: 
   - 2016
   - 2017

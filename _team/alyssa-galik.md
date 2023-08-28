@@ -1,6 +1,6 @@
 ---
 name: Alyssa Galik
-image: /assets/img/team/alyssa-galik.png
+image: /assets/img/team/alyssa-galik.webp
 year:
   - 2019
   - 2020

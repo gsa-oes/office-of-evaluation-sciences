@@ -4,7 +4,7 @@ permalink: /projects/nslp-rolling-verification/
 tags: 
   - project
   - payments
-image: /assets/img/project-images/school-lunch.jpg
+image: /assets/img/project-images/school-lunch.webp
 image_alt_text: School Lunch
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-2-nslp-rolling-verification.pdf
@@ -30,4 +30,4 @@ In four districts — Broward County, FL; Los Angeles Unified School District (U
 
 Introducing rolling verification had mixed results. Across the four districts combined, the difference in response rates between the rolling verification and business-as-usual groups was not statistically significant.
 
-![image]({{site.baseurl}}/assets/img/project-images/1612-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1612-graph.webp)

@@ -1,8 +1,8 @@
 ---
-title: Increasing Debt Repayment by Delinquent Lenders
+title: Increasing debt repayment by delinquent lenders
 permalink: /projects/increasing-debt-repayment/
 tags: project
-image: /assets/img/project-images/treasury.jpg
+image: /assets/img/project-images/treasury.webp
 image_alt_text: Treasury building front view
 image-credit: https://www.flickr.com/photos/kevlar/
 abstract: /assets/abstracts/1501-Delinquent-Debt-Repayment.pdf
@@ -11,7 +11,7 @@ type: Program Change and Evaluation
 status: Complete
 domain: Government Operations
 agency: Treasury
-summary: A modified letter sent to delinquent borrowers increased utilization of online payments.
+summary: A modified letter sent to delinquent borrowers increased utilization of online payments
 ---
 ## What was the challenge?
 

@@ -1,6 +1,6 @@
 ---
 name: Mattie Toma
-image: /assets/img/team/mattie-toma.png
+image: /assets/img/team/mattie-toma.webp
 year:
   - 2020
   - 2021

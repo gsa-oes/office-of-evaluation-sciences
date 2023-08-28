@@ -2,9 +2,9 @@
 title:  Decreasing Energy Costs in Federally Assisted Housing
 permalink: /projects/decreasing-energy-costs/
 tags: project  
-image: /assets/img/project-images/1742.jpg  
+image: /assets/img/project-images/1742.webp  
 image_alt_text: Front of residential tower buildings
-image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
+image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.webp
 analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstracts/1742-reducing-energy-costs.pdf
 year: 2018  
@@ -26,7 +26,7 @@ OES sent flyers with either one or five energy-saving tips to a random sample of
 
 OES randomized 2,796 apartment units to be sent no flyer, a single-tip flyer, or a multiple-tips flyer. Wireless energy monitors recorded unit-level daily energy consumption.
 
-![image]({{site.baseurl}}/assets/img/project-images/1742-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1742-graph.webp)
 
 ## What was the impact?
 

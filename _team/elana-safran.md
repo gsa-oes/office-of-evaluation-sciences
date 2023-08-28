@@ -1,6 +1,6 @@
 ---
 name: Elana Safran
-image: /assets/img/team/safran_elana.jpg
+image: /assets/img/team/safran_elana.webp
 year: 
   - 2015
   - 2016

@@ -1,6 +1,6 @@
 ---
 name: Tyler Simko
-image: /assets/img/team/tyler-simko.jpg
+image: /assets/img/team/tyler-simko.webp
 year:
   - 2022
   - 2023

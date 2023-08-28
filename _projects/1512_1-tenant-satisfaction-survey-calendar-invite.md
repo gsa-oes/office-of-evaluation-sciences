@@ -2,7 +2,7 @@
 title: Increasing Satisfaction Survey Response Rate from Federal Tenants - Calendar Invite
 permalink: /projects/tenant-satisfaction-survey-calendar-invite/
 tags: project
-image: /assets/img/project-images/gsa-tenant1.jpg
+image: /assets/img/project-images/gsa-tenant1.webp
 image_alt_text: Front of building
 image-credit: https://www.gsa.gov/portal/content/163627
 abstract: /assets/abstracts/1512-1-Tenant-Satisfaction-Survey-Response-Calendar-Invite.pdf
@@ -25,7 +25,7 @@ Small details, like framing of an email, can matter more than might be expected.
 
 29,997 employees were randomly assigned to receive one of two emails: 14,997 received the business as usual launch email, and 15,000 received an email with an embedded calendar invite to use as a reminder to take the survey. The two emails had distinct links to two identical versions of the survey, allowing tracking of views, starts, and completions by email group.
 
-![image]({{site.baseurl}}/assets/img/project-images/1512-1-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1512-1-graph.webp)
 
 ## What was the impact?
 

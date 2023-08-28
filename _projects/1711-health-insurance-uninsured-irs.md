@@ -27,7 +27,7 @@ During the open-enrollment period for 2017 health insurance coverage, the Intern
 
 **Informational letters were sent to 4,526,719 randomly selected households. The letters varied in content and timing.** The basic letter included a personalized estimate of the potential penalty the household might owe for 2017, and was sent out either at the beginning of the open enrollment period, or close to the sign-up deadline. A first variant of the basic letter included general penalty information, and a second version of the letter included information about how to claim an exemption. Finally, the basic letters and each of the two variants included a Spanish translation or not.
 
-![image]({{site.baseurl}}/assets/img/project-images/1711-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1711-graph.webp)
 
 ## What was the impact?
 

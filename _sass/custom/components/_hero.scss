@@ -11,10 +11,10 @@
   }
 }
 .usa-hero__callout {
-  background-color: #14576C;
+  background-color: #14576C!important;
 
   h1 {
-    @include typeset('heading', 12, 3)
+    @include typeset('heading', 12, 3);
     color: color($color-white);
     font-weight: fw($font-heavy);
     letter-spacing: ls($display-kerning);
@@ -24,15 +24,15 @@
   }
 
   .usa-button {
-    background-color: color($color-white);
-    color: color('secondary-dark');
+    background-color: color($color-white)!important;
+    color: color('secondary-dark')!important;
     font-size: inherit;
     margin-top: units(8);
     width: 100%;
 
     &:hover {
-      background-color: color('white-transparent-80');
-      color: color('ink');
+      background-color: color('white-transparent-80')!important;
+      color: color('ink')!important;
     }
 
     &:active {

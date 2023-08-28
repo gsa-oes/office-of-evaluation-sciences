@@ -4,7 +4,7 @@ permalink: /projects/opioid-retrospective-analysis/
 tags: 
   - project 
   - prescribing
-image: /assets/img/project-images/2002-image.jpg  
+image: /assets/img/project-images/2002-image.webp  
 image_alt_text: Counter medication
 image-credit: https://pixabay.com/photos/counter-medication-prescription-4065988/
 analysis-plan: /assets/analysis/2002-3-analysis-plan.pdf
@@ -35,6 +35,6 @@ We recommend prescriber behavior be measured in terms of the following outcomes 
 ## What was the impact?
 OES was not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, OES does not report results. In this case, outcome data were not available in the format needed for analysis. 
 
-The <a href="https://oes.gsa.gov/assets/analysis/2002-3-analysis-plan.pdf" target="_blank">analysis plan</a> posted on the OES website details a strategy for how a potential analysis may be conducted. CMS plans to complete the analysis and report their findings.
+The <a href="/assets/analysis/2002-3-analysis-plan.pdf" target="_blank">analysis plan</a> posted on the OES website details a strategy for how a potential analysis may be conducted. CMS plans to complete the analysis and report their findings.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2002-3-analysis-plan.pdf">click here</a>.</i>

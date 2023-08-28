@@ -2,7 +2,7 @@
 title: Increasing Voluntary Submission of Demographics Information with USAJOBS Applications
 permalink: /projects/USAJOBS-demographics/
 tags: project 
-image: /assets/img/project-images/1704.jpg
+image: /assets/img/project-images/1704.webp
 image_alt_text: USA Jobs website
 image-credit: https://www.usajobs.gov/
 abstract: /assets/abstracts/1704-USAJobs-abstract.pdf
@@ -25,7 +25,7 @@ OPM and OES implemented two main structural changes to USAJOBS: 1) applicants we
 
 Roughly 2.6 million applicants were randomly assigned to one of four variants: V1- No change (Control), V2- Voluntary opt-out of demographics submission, V3- Voluntary opt-in + simplified language, and V4- Voluntary opt-out + simplified language.
 
-![image]({{site.baseurl}}/assets/img/project-images/1704-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1704-graph.webp)
 
 ## What was the impact?
 

@@ -1,6 +1,6 @@
 ---
 name: Mo Earley
-image: /assets/img/team/earley_mo.jpg
+image: /assets/img/team/earley_mo.webp
 year:
   - 2017
 agency:

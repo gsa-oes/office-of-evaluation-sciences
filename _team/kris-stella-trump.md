@@ -1,6 +1,6 @@
 ---
 name: Kris-Stella Trump
-image: /assets/img/team/krisstella_trump.jpg
+image: /assets/img/team/krisstella_trump.webp
 year: 
   - 2016
   - 2017

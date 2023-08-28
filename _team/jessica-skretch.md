@@ -1,6 +1,6 @@
 ---
 name: Jessica Skretch
-image: /assets/img/team/jessica-skretch.jpg
+image: /assets/img/team/jessica-skretch.webp
 year:
   - 2020
   - 2021

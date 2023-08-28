@@ -2,22 +2,22 @@
 layout: page
 title: Fellowships
 permalink: /opps/
-image: /assets/img/icons/oes-green.jpg
+image: /assets/img/icons/oes-green.webp
 hide_image: true
 class:
 summary: 
 ---
 
-## OES Annual Fellowship Overview
+## OES annual fellowship overview
 OES accepts applications annually for one-year fellowships beginning in the fall. Based at the U.S. General Services Administration (GSA), <a href="https://oes.gsa.gov/team/" target="_blank">OES is a team of interdisciplinary experts</a> that works across government to help agencies build and use evidence. 
 
-Team members work alongside agency collaborators to apply behavioral insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. To date, OES has completed <a href="http://oes.gsa.gov/work" target="_blank">many randomized evaluations</a> with dozens of agency partners. OES follows the best practices in social science research to build evidence in order to be a <a href="http://oes.gsa.gov/methods" target="_blank">leader in transparency and accountability.</a> OES forms innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as  opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency. 
+Team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is uniquely situated at the center of government to share leading practices, develop resources and build skills in the Federal workforce on evidence and evaluation. To date, OES has completed <a href="http://oes.gsa.gov/work" target="_blank">many randomized evaluations</a> with dozens of agency partners. OES follows the best practices in social science research to build evidence in order to be a <a href="http://oes.gsa.gov/methods" target="_blank">leader in transparency and accountability.</a> OES forms innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as  opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency. 
 
-Fellows and Associate Fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and Federal departments. There is additional flexibility for Federal employees applying for a rotational detail. You can learn more about the position and what we look for by <a href="{{ '/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf' | prepend: site.baseurl }}" target="_blank">viewing the 2023 Fellowship Solicitation</a>. 
+Fellows and associate fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for federal employees applying for a rotational detail. You can learn more about the position and what we look for by <a href="{{ '/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf' | prepend: site.baseurl }}" target="_blank">viewing the 2023 Fellowship Solicitation</a>. 
 <div class="videoWrapper">
     <iframe title="U.S. General Services Administration Office of Evaluation Sciences Recruitment Video" src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 </div>
-## Frequently Asked Questions
+## Frequently asked questions
 <section class="usa-accordion featured bg-white padding-1">
   <h3 class="usa-accordion__heading">
     <button
@@ -96,7 +96,7 @@ Do I need to be a US citizen to apply? <span class="toggle" role="img" aria-labe
   <div id="b5" class="usa-accordion__content usa-prose">
 <p>
 We do encourage those that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/" target="_blank">OPM website here</a>. 
-The <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Agreement (IPA)</a>, requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This mechanism allows for the onboarding of non-residents / non-citizens.
+The <a href="/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Agreement (IPA)</a>, requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This mechanism allows for the onboarding of non-residents / non-citizens.
     </p>
    </div>
 </section>
@@ -145,7 +145,7 @@ Is the position paid? <span class="toggle" role="img" aria-label="Accordion Togg
   </h3>
   <div id="b8" class="usa-accordion__content usa-prose">
 <p>
-Yes, OES Fellowships are funded. The intention of the Fellowship is to reimburse your institution for some or all of your direct costs during your rotation.  Via the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">IPA mechanism</a> we enter into cost-sharing agreements with your home institution. 
+Yes, OES Fellowships are funded. The intention of the Fellowship is to reimburse your institution for some or all of your direct costs during your rotation.  Via the <a href="/assets/files/ipa-toolkit-oes.pdf" target="_blank">IPA mechanism</a> we enter into cost-sharing agreements with your home institution. 
     </p>
    </div>
 </section>
@@ -196,7 +196,7 @@ I am very interested in applying for this fellowship, but saw from the descripti
   </h3>
   <div id="b11" class="usa-accordion__content usa-prose">
 <p>
-The mechanism we use to bring on fellows for this position is via an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a> and requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This agreement allows for up to a 4-year term with an agency. If you are still verifying what organization you will be affiliated with next year, you can still apply to the fellowship. We plan to discuss potential candidates intended IPA mechanisms at the point of final round interviews, around February or March.
+The mechanism we use to bring on fellows for this position is via an <a href="/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a> and requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This agreement allows for up to a 4-year term with an agency. If you are still verifying what organization you will be affiliated with next year, you can still apply to the fellowship. We plan to discuss potential candidates intended IPA mechanisms at the point of final round interviews, around February or March.
   </p>
    </div>
 </section>

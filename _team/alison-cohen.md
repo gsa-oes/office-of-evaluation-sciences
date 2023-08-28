@@ -1,6 +1,6 @@
 ---
 name: Alison Cohen
-image: /assets/img/team/alison-cohen.png
+image: /assets/img/team/alison-cohen.webp
 year:
   - 2022
   - 2023

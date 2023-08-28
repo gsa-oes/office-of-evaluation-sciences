@@ -2,7 +2,7 @@
 title: Encouraging Engagement of Military Caregivers
 permalink: /projects/military-caregivers/
 tags: project
-image: /assets/img/project-images/mil-caregivers.jpg
+image: /assets/img/project-images/mil-caregivers.webp
 image_alt_text: Person sitting down with US flag
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1616-Process-Improvements-for-Virtual-PEER-Forums.pdf

@@ -2,7 +2,7 @@
 title: Encouraging Account Transfers by Securities Holders
 permalink: /projects/securities-account-transfers/
 tags: project
-image: /assets/img/project-images/treasury2.jpg
+image: /assets/img/project-images/treasury2.webp
 image_alt_text: Treasury building front
 image-credit: https://www.flickr.com/photos/71380981@N06/
 abstract: /assets/abstracts/1509-Legacy-Treasury-Direct-Accounts.pdf
@@ -25,7 +25,7 @@ OES developed two letters for LTD account holders applying the research insight 
 
 33,500 remaining LTD account holders received letters mailed over 16 business days.
 
-![image]({{site.baseurl}}/assets/img/project-images/1509-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1509-graph.webp)
 
 ## What was the impact?
 

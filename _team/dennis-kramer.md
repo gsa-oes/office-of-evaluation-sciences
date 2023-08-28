@@ -1,6 +1,6 @@
 ---
 name: Dennis Kramer
-image: /assets/img/team/Kramer_II_Dennis.jpg
+image: /assets/img/team/Kramer_II_Dennis.webp
 year: 
   - 2017
   - 2018

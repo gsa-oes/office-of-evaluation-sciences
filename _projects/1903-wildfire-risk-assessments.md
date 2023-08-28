@@ -4,7 +4,7 @@ permalink: /projects/wildfire-risk-assessments/
 tags: 
   - project
   - resources
-image: /assets/img/project-images/1903.jpg
+image: /assets/img/project-images/1903.webp
 image_alt_text: People standing infront of forest
 image-credit: https://www.flickr.com/photos/160831427@N06/46168230601/in/photolist-2dkJftT
 analysis-plan: /assets/analysis/1903-analysis-plan-MT-wildfire.pdf
@@ -23,15 +23,15 @@ Wildfires pose substantial risks to communities, but property owners who take ac
 
 ## What was the program change?
 
-The Montana DNRC <a href="https://oes.gsa.gov/assets/interventions/1903-intervention-pack.pdf">sent letters with information about how to request a risk assessment</a> to property owners in two Montana counties in September 2019. One version of the letter only provided information about how to request an assessment; a second letter provided the same information plus a statement highlighting wildfire risks to one’s own property; a third letter provided information plus a statement about how taking action to reduce risk may protect their community.
+The Montana DNRC <a href="/assets/interventions/1903-intervention-pack.pdf">sent letters with information about how to request a risk assessment</a> to property owners in two Montana counties in September 2019. One version of the letter only provided information about how to request an assessment; a second letter provided the same information plus a statement highlighting wildfire risks to one’s own property; a third letter provided information plus a statement about how taking action to reduce risk may protect their community.
 
-![image]({{site.baseurl}}/assets/img/project-images/1903-groups.png)
+![image]({{site.baseurl}}/assets/img/project-images/1903-groups.webp)
 
 ## How did the evaluation work?
 
 Properties in Park and Gallatin Counties, Montana, located in moderate or high wildfire hazard areas (N=9,109) were randomly assigned to be sent one of three versions of the letter or no letter. The Montana DNRC collected requests for on-site risk assessments made through a DNRC website and by phone. Requests were matched by address to the list of properties included in the evaluation to compare request rates among the randomly assigned groups.
 
-![image]({{site.baseurl}}/assets/img/project-images/1903-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1903-graph.webp)
 
 ## What was the impact?
 

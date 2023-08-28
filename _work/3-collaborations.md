@@ -3,7 +3,7 @@ layout: page
 title: Other Collaborations
 permalink: /collaborations/
 tag: work
-image: /assets/img/icons/oes-red.jpg
+image: /assets/img/icons/oes-red.webp
 hide_image: true
 summary: We support agencies on a variety of pressing implementation challenges.
 

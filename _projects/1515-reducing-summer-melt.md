@@ -4,7 +4,7 @@ permalink: /projects/reducing-summer-melt/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/summer-melt.jpg
+image: /assets/img/project-images/summer-melt.webp
 image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/abstracts/1515-Summer-Melt.pdf
@@ -27,7 +27,7 @@ Sending students text message reminders about key tasks related to college matri
 
 High school students from five cities were randomly assigned to one of three groups: 1) a control group that did not receive messages, 2) a group in which only students were sent messages, 3) a group in which both students and their parents were sent messages.
 
-![image]({{site.baseurl}}/assets/img/project-images/1515-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1515-graph.webp)
 
 ## What was the impact?
 

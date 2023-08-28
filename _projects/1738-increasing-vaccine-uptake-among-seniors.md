@@ -4,7 +4,7 @@ permalink: /projects/increasing-vaccine-uptake-among-seniors/
 tags:
   - project
   - vaccines
-image: /assets/img/project-images/1738.jpg 
+image: /assets/img/project-images/1738.webp 
 image_alt_text: Doctor and patient
 image-credit: http://www.freestockphotos.biz/stockphoto/15813
 analysis-plan: /assets/analysis/1738-encouraging-vaccine-uptake-for-seniors.pdf
@@ -32,7 +32,7 @@ Individuals were randomly assigned to a month in which they received the postcar
 
 This study has three treatment arms based on when the postcard was sent: October, November, and December. Individuals randomized to receive the postcard reminder in January were considered the control group, as vaccinations rates were analyzed for the full sample excluding vaccinations post-January.
 
-![image]({{site.baseurl}}/assets/img/project-images/1738-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1738-graph.webp)
 
 ## What was the impact?
 

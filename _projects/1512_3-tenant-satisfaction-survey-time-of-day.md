@@ -2,7 +2,7 @@
 title: Increasing Satisfaction Survey Response Rate from Federal Tenants - Time of Day
 permalink: /projects/tenant-satisfaction-survey-time-of-day/
 tags: project
-image: /assets/img/project-images/tenant-statisfaction.jpg
+image: /assets/img/project-images/tenant-statisfaction.webp
 image_alt_text: Front of building
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 abstract: /assets/abstracts/1512-3-Tenant-Satisfaction-Survey-Response-Time-of-Day.pdf
@@ -25,7 +25,7 @@ Small details, like the framing or timing of an email, can matter more than migh
 
 Identical emails were sent to randomly selected groups of 96,000 federal employees (873,755 total intended recipients) every hour over the course of the day, starting at 8:55 a.m and ending at 1:55pm.
 
-![image]({{site.baseurl}}/assets/img/project-images/1512-3-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1512-3-graph.webp)
 
 ## What was the impact?
 

@@ -1,6 +1,6 @@
 ---
 name: Sebastian Jilke
-image: /assets/img/team/sebastian_jilke.jpg
+image: /assets/img/team/sebastian_jilke.webp
 year:
   - 2019
   - 2020

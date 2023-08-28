@@ -1,6 +1,6 @@
 ---
 name: Elizabeth Bell
-image: /assets/img/team/elizabeth-bell.png
+image: /assets/img/team/elizabeth-bell.webp
 year:
   - 2020
   - 2021

@@ -5,7 +5,7 @@ tags:
   - project
   - business
   - resources
-image: /assets/img/project-images/1701.jpg
+image: /assets/img/project-images/1701.webp
 image_alt_text: Combine harvester in a field
 image-credit: https://www.flickr.com/photos/140641142@N05/
 abstract: /assets/abstracts/1701-microloans-women-owned-farms.pdf
@@ -28,7 +28,7 @@ FSA and OES sent direct mailers to female farmers in Spring 2016. The mailers in
 
 Direct mailers were sent to randomly selected female farmers within randomly selected counties, with each treatment county matched to a comparison county. This design enabled OES to assess both (1) the impact of the direct mailer on the likelihood that a farmer who received it would apply for a microloan and (2) the potential impact, through spread of information, on other female farmers who lived near those who received the mailer.
 
-![image]({{site.baseurl}}/assets/img/project-images/1701-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1701-graph.webp)
 
 ## What was the impact?
 

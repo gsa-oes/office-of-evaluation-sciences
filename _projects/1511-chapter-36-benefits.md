@@ -2,7 +2,7 @@
 title: Increasing Chapter 36 Benefits Uptake by Veterans
 permalink: /projects/chapter-36-benefits/
 tags: project
-image: /assets/img/project-images/ch36.jpg
+image: /assets/img/project-images/ch36.webp
 image_alt_text: People talking
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1511-Chapter 36-Benefits-for Veterans.pdf

@@ -4,9 +4,9 @@ permalink: /collaborations/census-community-outreach-toolkit/
 tags:
   - collaborations
   - census
-image: /assets/img/project-images/census.jpg
+image: /assets/img/project-images/census.webp
 image-credit: https://www.flickr.com/photos/uscensusbureau/7024455607
-academic-pub: https://oes.gsa.gov/assets/publications/census-community-outreach-toolkit.pdf
+academic-pub: /assets/publications/census-community-outreach-toolkit.pdf
 year: 2017  
 domain: Communications
 agency: Census
@@ -16,7 +16,7 @@ summary: A quickstart guide to tailoring census outreach efforts for the people 
 
 This toolkit outlines four barriers that the Census Bureau and external research have identified as particularly common reasons for not completing the census. High-quality census data is valuable because you want to ensure that people are accurately counted so they get their fair share of funding and representation for the next decade.
 
-![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-toolkit-how-to-use.png)
+![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-toolkit-how-to-use.webp)
 
 ## What did we do?
 

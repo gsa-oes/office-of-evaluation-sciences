@@ -2,7 +2,7 @@
 layout: page	
 title: New working paper shows how OES letters quadrupled Supplemental Security Income awards
 permalink: /blog/ssi-awards/	
-image: /assets/img/project-images/1723.jpg
+image: /assets/img/project-images/1723.webp
 image_alt_text: People sitting on a bench
 hide_image: true
 year: 2024
@@ -10,7 +10,7 @@ class:
 summary: 	
 ---	
 
-A <a href="https://oes.gsa.gov/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf" target="_blank">recently released working paper</a> gives details on how OES-designed letters to older adults quadrupled awards for Supplemental Security Income (SSI). 
+A <a href="/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf" target="_blank">recently released working paper</a> gives details on how OES-designed letters to older adults quadrupled awards for Supplemental Security Income (SSI). 
 
 The evaluation is particularly relevant in light of the Social Security Administration’s (SSA) national outreach campaign <a href="https://blog.ssa.gov/outreach-to-vulnerable-populations-during-the-covid-19-pandemic/" target="_blank">to assist vulnerable populations during the COVID-19 pandemic</a>, while in-person appointments at Social Security field offices are limited. SSI is a monthly means-tested cash payment to people who have low income and assets and are disabled, blind, or age 65 or older. The payments are meant to guarantee a minimum monthly income — set at $755 in 2017, when OES took part in a pilot with the Social Security Administration (SSA). 
 

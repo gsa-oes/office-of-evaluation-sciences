@@ -1,6 +1,6 @@
 ---
 name: Nicholas Wilson
-image: /assets/img/team/nicholas_wilson.jpg
+image: /assets/img/team/nicholas_wilson.webp
 year: 
   - 2016
   - 2017

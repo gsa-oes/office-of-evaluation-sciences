@@ -1,6 +1,6 @@
 ---
 name: Heidi Wallace
-image: /assets/img/team/heidi-wallace.jpg
+image: /assets/img/team/heidi-wallace.webp
 year:
   - 2022
   - 2023

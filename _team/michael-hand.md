@@ -1,6 +1,6 @@
 ---
 name: Michael Hand
-image: /assets/img/team/hand_michael.jpg
+image: /assets/img/team/hand_michael.webp
 year:
   - 2016
   - 2017

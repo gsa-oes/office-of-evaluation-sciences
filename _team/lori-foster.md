@@ -1,6 +1,6 @@
 ---
 name: Lori Foster
-image: /assets/img/team/foster_lori.jpg
+image: /assets/img/team/foster_lori.webp
 year: 
   - 2014
   - 2015

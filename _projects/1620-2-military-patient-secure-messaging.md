@@ -4,7 +4,7 @@ permalink: /projects/military-patient-messaging-emails/
 tags: 
   - project 
   - healthit
-image: /assets/img/project-images/1620-2.jpg
+image: /assets/img/project-images/1620-2.webp
 image_alt_text: Computer screen with coding
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
 abstract: /assets/abstracts/1620-2-secure-messaging.pdf
@@ -28,7 +28,7 @@ The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and 
 
 Patients of roughly half of the providers in the NMCCL Family Medicine Clinic, who were assigned at random to a treatment condition, received follow-up emails. Patients of the remaining providers (the control condition) received no follow-up emails.  We compared the numbers of patients in each group who registered for secure messaging. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1620-2-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1620-2-graph.webp)
 
 ## What was the impact?
 

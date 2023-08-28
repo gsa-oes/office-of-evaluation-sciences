@@ -1,6 +1,6 @@
 ---
 name: Rebecca Refoy
-image: /assets/img/team/rrs.jpg
+image: /assets/img/team/rrs.webp
 year:
   - 2019
   - 2020

@@ -2,7 +2,7 @@
 layout: page	
 title: Using behavioral insights to improve customer experience with government
 permalink: /blog/cx-part-1/	
-image: /assets/img/project-images/customer-experience.png
+image: /assets/img/project-images/customer-experience.webp
 image_alt_text: Stars with finger illustration
 hide_image: true
 year: 2025
@@ -20,7 +20,7 @@ Working with federal agency collaborators, OES proposes and evaluates program ch
 
 In 2017, OES and DHA designed an improved approach to inform patients like Shannon about the secure messaging service and make it easier for them to enroll. The approach had three components: providers made a personal appeal about registration during patient visits, on-site staff assisted patients with signup, and staff gave a checkout sheet to patients with registration instructions to complete later.
   
-![image]({{site.baseurl}}/assets/img/project-images/1620-1-graph.png)<br>
+![image]({{site.baseurl}}/assets/img/project-images/1620-1-graph.webp)<br>
 *This figure shows patient registration for secure messaging at the Naval Medical Center Camp Lejeune Family Medicine Clinic (which implemented the changes described here) compared to registration at seven other, demographically similar military treatment facilities selected by DHA over six and a half months.*
  
 OES aims to not only apply evidence-based insights, but also to evaluate the impact of these changes. Whenever possible, we aim to design an impact evaluation to evaluate the program change, but also employ other rigorous methods. With the DHA collaboration, it wasn’t possible to randomly assign some patients to the intervention and others to business as usual, so OES compared patient messaging registration at the Naval Medical Center Camp Lejeune Family Medicine Clinic, which made the changes, to registration at seven similar military treatment facilities.¹ Registrations were five times higher at Camp Lejeune, suggesting that we had correctly identified bottlenecks to patients enrolling in secure messaging.

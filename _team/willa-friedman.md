@@ -1,6 +1,6 @@
 ---
 name: Willa Friedman
-image: /assets/img/team/willa-friedman.jpg
+image: /assets/img/team/willa-friedman.webp
 year:
   - 2023
 home: University

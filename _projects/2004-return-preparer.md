@@ -4,7 +4,7 @@ permalink: /projects/return-preparer-tax-compliance/
 tags: 
   - project 
   - payments 
-image: /assets/img/project-images/2004-tax-image.jpg  
+image: /assets/img/project-images/2004-tax-image.webp  
 image_alt_text: Exchanging documents
 image-credit: https://www.pexels.com/photo/wood-man-people-woman-7821676/
 analysis-plan: /assets/analysis/2004-analysis-plan.pdf

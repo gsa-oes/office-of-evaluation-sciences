@@ -1,6 +1,6 @@
 ---
 name: Kaitlyn Moberly
-image: /assets/img/team/kaitlyn-moberly.png
+image: /assets/img/team/kaitlyn-moberly.webp
 year:
   - 2019
   - 2020

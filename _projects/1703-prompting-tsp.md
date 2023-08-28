@@ -4,7 +4,7 @@ permalink: /projects/prompting-tsp-contribution/
 tags:
   - project
   - retirement
-image: /assets/img/project-images/1703.png
+image: /assets/img/project-images/1703.webp
 image_alt_text: Person holding a document
 image-credit: https://pixabay.com/photo-427510/
 abstract: /assets/abstracts/1703-prompting-tsp.pdf 
@@ -23,13 +23,13 @@ The Federal Government operates a savings program for its employees known as the
 
 The success of prompted choices in private sector workplace savings—where employees are encouraged to actively choose whether to contribute and how much—suggests that many new employees might contribute more if they were encouraged to make a choice. A suite of new materials at three Treasury bureaus - including information on matching contributions, TSP info on new employee checklists, and revised onboarding presentation materials - encouraged new employees to consider contributing at least 5%.
 
-![image]({{site.baseurl}}/assets/img/project-images/1703-graph-1.png)
+![image]({{site.baseurl}}/assets/img/project-images/1703-graph-1.webp)
 
 ## How did the evaluation work?
 
 Orientation logistics made random assignment infeasible. For the purpose of estimating impacts of the treatment at pilot bureaus, TSP contribution rates were collected at pilot bureaus in the same time period in the year preceding the pilot period, and from eight other Treasury bureaus during the pilot and pre-pilot periods. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1703-graph-2.png)
+![image]({{site.baseurl}}/assets/img/project-images/1703-graph-2.webp)
 
 ## What was the impact?
 

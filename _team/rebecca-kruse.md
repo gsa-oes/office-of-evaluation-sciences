@@ -1,6 +1,6 @@
 ---
 name: Rebecca Kruse
-image: /assets/img/team/rebecca-kruse.png
+image: /assets/img/team/rebecca-kruse.webp
 year: 2020
 agency:
   - Homeland Security

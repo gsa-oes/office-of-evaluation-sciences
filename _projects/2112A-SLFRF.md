@@ -3,9 +3,9 @@ title:  Evaluation Design for the State and Local Fiscal Recovery Fund
 permalink: /collaborations/state-local-fiscal-recovery-fund/
 tags:
   - arp
-image: /assets/img/project-images/othercollabs/SLFRF.jpg
+image: /assets/img/project-images/othercollabs/SLFRF.webp
 image_alt_text: Open sign shop window
-image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.jpg
+image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.webp
 year: 2021
 type: Evaluation Design
 domain:

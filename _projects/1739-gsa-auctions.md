@@ -4,7 +4,7 @@ permalink: /projects/gsa-auctions/
 tags:
   - project
   - cost savings
-image: /assets/img/project-images/1739.jpg
+image: /assets/img/project-images/1739.webp
 image_alt_text: GSA Auctions Website
 image-credit: https://www.gsaauctions.gov
 abstract: /assets/abstracts/1739-gsa-auctions.pdf
@@ -28,7 +28,7 @@ In order to decrease the number of items ending their auction with no bids, GSA 
 
 To evaluate the effectiveness  of this method of outreach,  half of the potential buyers of  a given no-bid auction lot were randomly assigned to be sent notification emails (the treatment group) and a control group consisting of  the remaining half were not sent emails.  All bids for the items in that lot were recorded. OES compared the maximum bid made by each emailed user for each lot to the maximum bids made by the control group to assess the effect of the new program. The data analyzed come from the Sept 21, 2015 to October 3, 2017 period.
 
-![image]({{site.baseurl}}/assets/img/project-images/1739-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1739-graph.webp)
 
 ## What was the impact?
 

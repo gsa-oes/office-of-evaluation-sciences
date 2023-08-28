@@ -7,17 +7,17 @@ image_full:
 class:
 summary: 
 ---
-# Celebrating 100 Collaborations Across Government 
+# Celebrating 100 collaborations across government 
 ### November 16, 2021 
 The first panel reflected on what the Office of Evaluation Scineces (OES) has learned after 100 collaborations, using the results from panelists’ projects to illustrate what makes successful projects. The second panel discussed how OES and contributes to the portfolio of evidence on equity and economic recovery. Finally, the third panel considered what’s next for OES and evidence in government. **A detailed agenda and speaker biographies can be found <a href="http://oes.gsa.gov/assets/files/2021-OES-Fall-External-Event_Agenda.pdf" target="_blank">here</a>.** 
 
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/2021-event-OES@100-slide-deck.pdf" target="_blank">OES@100 Presentation Slides (PDF)</a>
+<a class="usa-button" href="/assets/files/2021-event-OES@100-slide-deck.pdf" target="_blank">OES@100 Presentation Slides (PDF)</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES@100%20Virtual%20Packet.pdf" target="_blank">OES@100 Virtual Packet (PDF)</a>
+<a class="usa-button" href="/assets/files/OES@100%20Virtual%20Packet.pdf" target="_blank">OES@100 Virtual Packet (PDF)</a>
 <br><br>
 <a class="usa-button" href="https://gsa.zoomgov.com/rec/share/Z-NsDeMGmRBi01TXPkBs07ZfkGUbT04ZrOnWCfAapuDlz-Z_z2mkmBiZnzL5DA1w.9Uoo4kk7b0czKhOD?startTime=1637085596000" target="_blank">Watch the Event Recording</a>
 
-### Welcome and Introduction: 
+### Welcome and introduction: 
  - **Robin Carnahan**, Administrator, General Services Administration
  - **Kelly Bidwell**, Director, OES, General Services Administration
 
@@ -45,7 +45,7 @@ OES presented their <a href="https://oes.gsa.gov/small-business/" target="_blank
 
 <a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity & Small Business Recovery (PDF)</a><br>
 
-![image]({{site.baseurl}}/assets/img/Panel 2.png)	
+![image]({{site.baseurl}}/assets/img/Panel 2.webp)	
 This was followed by a panel discussion that included:
 - **Jason Bossie**, (Acting) Chief Financial Officer, SBA
 - **Clarence Wardell III**, Chief Data and Equitable Delivery Officer, ARP Implementation team; Senior Advisor for Policy Implementation & Delivery, White House Domestic Policy Council 
@@ -60,7 +60,7 @@ During this session, panelists discussed the increased focus on Evidence Act imp
 - **Pam Coleman**, Associate Director of Performance and Personnel Management, Office of Management and Budget
 - **Jeanne Holm**, Deputy Mayor, City of Los Angeles  
 
-![image]({{site.baseurl}}/assets/img/Panel 3.png)	
+![image]({{site.baseurl}}/assets/img/Panel 3.webp)	
 
-### Closing Remarks
+### Closing remarks
    - **Krystal J. Brumfield**, Chief Acquisition Officer and Associate Administrator, Office of Government-wide Policy, GSA

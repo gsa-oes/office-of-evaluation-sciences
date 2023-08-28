@@ -2,7 +2,7 @@
 layout: portfolio
 title: Responding to the COVID-19 Pandemic
 permalink: /covid-19-response/
-image: /assets/img/project-images/covid-19-portfolio-image.png
+image: /assets/img/project-images/covid-19-portfolio-image.webp
 image_alt_text: People in the street wearing face masks
 hide_image: true
 year: 2021
@@ -20,11 +20,11 @@ The coronavirus (COVID-19) outbreak has caused both a public health and an econo
 OES worked with the Department of Education, the Small Business Administration, the Department of Health and Human Services, and other agencies to provide evaluation support to assess the impact of COVID-19 policy responses, as well as to share relevant lessons learned from past evaluations on communicating about health behavior. 
 
 ### Relevant OES Resources
-<a class="usa-button" href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf" target="_blank">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
+<a class="usa-button" href="/assets/publications/OES-vaccine-paper-2-page-summary.pdf" target="_blank">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf" target="_blank">Encouraging COVID-19 prevention behaviors (PDF)</a>
+<a class="usa-button" href="/assets/abstracts/OEScovidinsightssummaryNov2020.pdf" target="_blank">Encouraging COVID-19 prevention behaviors (PDF)</a>
 <br><br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf" target="_blank">Designing effective health communications (PDF)</a>
+<a class="usa-button" href="/assets/files/oes-health-communications.pdf" target="_blank">Designing effective health communications (PDF)</a>
 <br><br>
 <a class="usa-button" href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">Blog: What are the best ways to encourage COVID-19 vaccination?</a>
 <br><br>

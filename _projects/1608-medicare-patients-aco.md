@@ -2,7 +2,7 @@
 title: Encouraging Medicare Beneficiaries to Self-Identify as ACO Patients
 permalink: /projects/medicare-patients-aco/
 tags: project
-image: /assets/img/project-images/aco.jpg
+image: /assets/img/project-images/aco.webp
 image_alt_text: Person sitting in front of PC
 image-credit: https://www.flickr.com/photos/thenationalguard/
 abstract: /assets/abstracts/1608-Accountable-Care-Organization-Voluntary-Alignment.pdf

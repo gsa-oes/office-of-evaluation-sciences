@@ -3,7 +3,7 @@ title: Describing the Allocation of COVID-19 Relief Funds to Financial Instituti
 permalink: /projects/RRP-ECIP-descriptive-evaluation/
 tags: 
  - project
-image: /assets/img/project-images/2202-image.jpg
+image: /assets/img/project-images/2202-image.webp
 image_alt_text: Person writing on paper
 image-credit: https://www.pexels.com/photo/person-holding-gray-twist-pen-and-white-printer-paper-on-brown-wooden-table-955389/
 analysis-plan: 
@@ -33,4 +33,4 @@ Institutions that have been approved for awards are similar to other eligible in
 
 Program eligibility rules resulted in a pool of eligible institutions with greater expected ability to serve priority communities than other similar institutions. Results suggest that eligibility based on existing certification and community investment programs may be an effective way to target institutions with a demonstrated record of serving Act-priority communities.
 
-Read the full report <a href="https://oes.gsa.gov/assets/files/2202-evaluation-report.pdf" target="_blank">here</a>.
+Read the full report <a href="/assets/files/2202-evaluation-report.pdf" target="_blank">here</a>.

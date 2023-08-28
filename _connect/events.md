@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-image: /assets/img/icons/oes-blue.jpg
+image: /assets/img/icons/oes-blue.webp
 hide_image: true
 class:
 summary: Check out our upcoming events and workshops.
@@ -72,7 +72,7 @@ Formative and Process Evaluations can be important tools for assessing whether a
 # Past OES Events
 ## <a href="{{ site.baseurl}}/oes-at-100" target="_blank">OES@100: Celebrating 100 Collaborations Across Government</a>
 ### Tuesday, November 16, 2021
-![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.png)
+![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.webp)
 OES celebrated completing 100 collaborations across government this year. Distinguished speakers discussed insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. 
  - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
  - **Panel 2:** Portfolio of evidence on equity and economic recovery 

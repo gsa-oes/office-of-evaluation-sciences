@@ -4,7 +4,7 @@ permalink: /projects/idr-applications-scale-up/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/student-loans3.jpg
+image: /assets/img/project-images/student-loans3.webp
 image_alt_text: Student graduation
 image-credit: https://unsplash.com/@tfaustin
 abstract: /assets/abstracts/1603-2-Income-Driven Repayment-Scale-Up.pdf
@@ -27,7 +27,7 @@ OES worked with ED’s Office of Federal Student Aid (FSA) to design and test th
 
 3,036,691 borrowers were randomly selected to receive either the most effective message from the Targeted Messages pilot, or no email.
 
-![image]({{site.baseurl}}/assets/img/project-images/1603-2-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1603-2-graph.webp)
 
 ## What was the impact?
 
