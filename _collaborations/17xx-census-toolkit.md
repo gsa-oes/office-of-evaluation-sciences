@@ -6,7 +6,7 @@ tags:
   - census
 image: /assets/img/project-images/census.webp
 image-credit: https://www.flickr.com/photos/uscensusbureau/7024455607
-academic-pub: https://oes.gsa.gov/assets/publications/census-community-outreach-toolkit.pdf
+academic-pub: /assets/publications/census-community-outreach-toolkit.pdf
 year: 2017  
 domain: Communications
 agency: Census

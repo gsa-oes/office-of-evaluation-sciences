@@ -30,4 +30,4 @@ In the years ahead, we will focus on building evidence to make federal programs 
 
 We welcome you to share feedback on our strategic plan and ideas for collaboration. Please email <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Project Idea">oes@gsa.gov</a> to start the conversation. 
 
-<p><a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Strategic-Plan-FY22-25.pdf">Read our Strategic Plan (PDF)</a></p>
+<p><a class="usa-button" href="/assets/files/OES-Strategic-Plan-FY22-25.pdf">Read our Strategic Plan (PDF)</a></p>

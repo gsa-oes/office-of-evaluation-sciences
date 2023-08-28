@@ -33,4 +33,4 @@ Institutions that have been approved for awards are similar to other eligible in
 
 Program eligibility rules resulted in a pool of eligible institutions with greater expected ability to serve priority communities than other similar institutions. Results suggest that eligibility based on existing certification and community investment programs may be an effective way to target institutions with a demonstrated record of serving Act-priority communities.
 
-Read the full report <a href="https://oes.gsa.gov/assets/files/2202-evaluation-report.pdf" target="_blank">here</a>.
+Read the full report <a href="/assets/files/2202-evaluation-report.pdf" target="_blank">here</a>.

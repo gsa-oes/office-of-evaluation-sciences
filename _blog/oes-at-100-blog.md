@@ -29,4 +29,4 @@ Since the earliest evaluations, we have published all of its collaborations and 
 
 As agencies build their evaluation capacity, we hope our lessons learned and <a href="http://oes.gsa.gov/resources/" target="_blank">resources</a> can be of use. 
 
-*<a href="https://oes.gsa.gov/assets/files/Reflections-from-100-OES-collaborations.pdf" target="_blank">Read more here</a>.*
+*<a href="/assets/files/Reflections-from-100-OES-collaborations.pdf" target="_blank">Read more here</a>.*

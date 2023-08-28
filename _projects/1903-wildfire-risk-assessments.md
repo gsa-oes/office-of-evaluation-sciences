@@ -23,7 +23,7 @@ Wildfires pose substantial risks to communities, but property owners who take ac
 
 ## What was the program change?
 
-The Montana DNRC <a href="https://oes.gsa.gov/assets/interventions/1903-intervention-pack.pdf">sent letters with information about how to request a risk assessment</a> to property owners in two Montana counties in September 2019. One version of the letter only provided information about how to request an assessment; a second letter provided the same information plus a statement highlighting wildfire risks to one’s own property; a third letter provided information plus a statement about how taking action to reduce risk may protect their community.
+The Montana DNRC <a href="/assets/interventions/1903-intervention-pack.pdf">sent letters with information about how to request a risk assessment</a> to property owners in two Montana counties in September 2019. One version of the letter only provided information about how to request an assessment; a second letter provided the same information plus a statement highlighting wildfire risks to one’s own property; a third letter provided information plus a statement about how taking action to reduce risk may protect their community.
 
 ![image]({{site.baseurl}}/assets/img/project-images/1903-groups.webp)
 

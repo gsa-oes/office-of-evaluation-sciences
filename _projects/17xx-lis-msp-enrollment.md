@@ -22,7 +22,7 @@ The Social Security Administration (SSA) conducts outreach to Medicare beneficia
 
 OES partnered with SSA to re-design the L448 and L447 letters in an effort to increase Extra Help and MSP enrollment. The redesigned letters made potential savings salient, clarified that eligibility depends on the recipient’s own income and asset limits, and summarized the takeaways in clear language and easy-to-digest tables.
 
-The <a href="https://oes.gsa.gov/assets/interventions/Intervention Pack - LIS and MSP Enrollment.pdf">Intervention Pack</a> shows the original and redesigned letters, and highlights the best practices adopted in the re-design for effective communications.
+The <a href="/assets/interventions/Intervention Pack - LIS and MSP Enrollment.pdf">Intervention Pack</a> shows the original and redesigned letters, and highlights the best practices adopted in the re-design for effective communications.
 
 ## What did we learn?
 

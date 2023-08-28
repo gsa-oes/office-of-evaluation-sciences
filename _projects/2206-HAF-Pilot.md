@@ -36,6 +36,6 @@ We find strong evidence that the postcards did not increase the number of applic
 <img src="{{ '/assets/img/project-images/2206-image.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
 HAF applications" width="1500">
 
-<a href="https://oes.gsa.gov/assets/abstracts/2206-increasing-applications-to-the-homeowner-assistance-fund-abstract.pdf">View the pdf abstract</a>
+<a href="/assets/abstracts/2206-increasing-applications-to-the-homeowner-assistance-fund-abstract.pdf">View the pdf abstract</a>
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2206-HAF-Pilot.pdf">on GitHub</a>. 

@@ -9,7 +9,7 @@ image-credit: https://unsplash.com/photos/7DziDCBnhiE
 summary: 
 
 ---
-<a href="https://oes.gsa.gov/assets/abstracts/2206-increasing-applications-to-the-homeowner-assistance-fund-abstract.pdf">View the pdf version</a>
+<a href="/assets/abstracts/2206-increasing-applications-to-the-homeowner-assistance-fund-abstract.pdf">View the pdf version</a>
 ## Key findings
 We find strong evidence that postcards did not increase the number of applications to Idaho’s Homeowner Assistance Fund. The findings saved IHFA approximately $25,000, which was redirected to billboards targeting eligible homeowners in hard-to-reach rural areas.
 
@@ -51,7 +51,7 @@ This study has implications for other state housing agencies’ outreach strateg
 3. See <a href="https://oes.gsa.gov/projects/increasing-ssi-uptake/">here</a> for a letter that increased takeup of SSI benefits, <a href="https://oes.gsa.gov/collaborations/dorn-va-postcard-reminder/">here</a> for a letter that did not increase flu vaccine uptake, and <a href="https://oes.gsa.gov/projects/wildfire-risk-assessments/">here</a> for a letter that increased requests for wildfire risk assessments.
 4. University of Maryland Institutional Review Board (project reference number: 2006965-1) deemed the study exempt from full board review on January 20, 2023.
 5. A simple randomization was conducted, whereby the list of homeowners were assigned a uniformly distributed random number between 0-1, and the numbers were sorted in ascending order. The top half of the list was assigned to the holdout group, and the bottom half was assigned to the early mailer group.
-6. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an <a href="https://oes.gsa.gov/assets/analysis/2206-HAF-Pilot.pdf">analysis plan.</a>
+6. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an <a href="/assets/analysis/2206-HAF-Pilot.pdf">analysis plan.</a>
 7. The final sample size was N = 1638 (n = 818 in the treatment group, n = 820 in the control group). A small group of homeowners who had applied prior to randomization were unintentionally included in the initial sample (this was not accounted for in our analysis plan). As a result, we removed these from our analysis.
 8. As per the analysis plan, the differences were adjusted for covariates. P-values were also adjusted to reflect that we conducted multiple statistical tests. P-values were calculated through randomization inference (RI) with 5000 replications. The results from the pre-registered RI tests yield the same substantive conclusions: a RI p-value of 0.334 for the treatment effect on “application initiated” and a RI p-value of 0.565 for the treatment effect on “application completed”.
 9.  We tested each of a series of alternative null hypotheses ranging from -5% to +5%, in increments of 0.005%. This estimate is the smallest positive effect that we can reject with 95% confidence.

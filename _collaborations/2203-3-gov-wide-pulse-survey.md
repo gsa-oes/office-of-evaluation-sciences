@@ -93,7 +93,7 @@ Taken together, the results suggest that White employees and men believe that hi
 
 *To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan-pulse-3.pdf" target="_blank">click here.</a>*
 
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2203-pulse-survey-abstract.pdf" target="_blank">View Abstract (PDF)</a>
+<a class="usa-button" href="/assets/abstracts/2203-pulse-survey-abstract.pdf" target="_blank">View Abstract (PDF)</a>
 
 ¹ 16,009 employees were excluded from the analysis, because they received a different survey theme from the earlier evaluations due to an error that occurred when matching employees to the survey theme they received in past evaluations. Including these employees in the analysis does not meaningfully change the results.
 

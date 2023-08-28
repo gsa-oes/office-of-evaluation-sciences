@@ -96,7 +96,7 @@ Do I need to be a US citizen to apply? <span class="toggle" role="img" aria-labe
   <div id="b5" class="usa-accordion__content usa-prose">
 <p>
 We do encourage those that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/" target="_blank">OPM website here</a>. 
-The <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Agreement (IPA)</a>, requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This mechanism allows for the onboarding of non-residents / non-citizens.
+The <a href="/assets/files/ipa-toolkit-oes.pdf" target="_blank">Intergovernmental Personnel Agreement (IPA)</a>, requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This mechanism allows for the onboarding of non-residents / non-citizens.
     </p>
    </div>
 </section>
@@ -145,7 +145,7 @@ Is the position paid? <span class="toggle" role="img" aria-label="Accordion Togg
   </h3>
   <div id="b8" class="usa-accordion__content usa-prose">
 <p>
-Yes, OES Fellowships are funded. The intention of the Fellowship is to reimburse your institution for some or all of your direct costs during your rotation.  Via the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf" target="_blank">IPA mechanism</a> we enter into cost-sharing agreements with your home institution. 
+Yes, OES Fellowships are funded. The intention of the Fellowship is to reimburse your institution for some or all of your direct costs during your rotation.  Via the <a href="/assets/files/ipa-toolkit-oes.pdf" target="_blank">IPA mechanism</a> we enter into cost-sharing agreements with your home institution. 
     </p>
    </div>
 </section>
@@ -196,7 +196,7 @@ I am very interested in applying for this fellowship, but saw from the descripti
   </h3>
   <div id="b11" class="usa-accordion__content usa-prose">
 <p>
-The mechanism we use to bring on fellows for this position is via an <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a> and requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This agreement allows for up to a 4-year term with an agency. If you are still verifying what organization you will be affiliated with next year, you can still apply to the fellowship. We plan to discuss potential candidates intended IPA mechanisms at the point of final round interviews, around February or March.
+The mechanism we use to bring on fellows for this position is via an <a href="/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act agreement (IPA)</a> and requires a sponsoring organization (such as a University or registered non-profit) to finance and provide a team members’ salary/stipend, benefits (such as health / dental / vision coverage), and visa. This agreement allows for up to a 4-year term with an agency. If you are still verifying what organization you will be affiliated with next year, you can still apply to the fellowship. We plan to discuss potential candidates intended IPA mechanisms at the point of final round interviews, around February or March.
   </p>
    </div>
 </section>

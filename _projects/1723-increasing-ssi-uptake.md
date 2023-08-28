@@ -47,5 +47,5 @@ All of the letters had a large and statistically significant impact on applicati
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">click here</a>.</i>
 
 *Related Working Paper*<br>
-Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="https://oes.gsa.gov/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field
+Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field
 Experiment</a>." 2021.

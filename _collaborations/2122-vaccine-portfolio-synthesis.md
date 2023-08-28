@@ -33,7 +33,7 @@ An internal meta-analysis of the six evaluations that measured vaccination rates
 4. Leveraging vaccination administration systems to support randomized evaluations can make evidence building easier.
 <br><br>
 <p>
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">View Summary (PDF)</a>
+<a class="usa-button" href="/assets/files/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">View Summary (PDF)</a>
 </p>
 <p>
 <i>Footnotes</i><br>

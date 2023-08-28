@@ -55,6 +55,6 @@ Overall, recruitment success for DOI ranges between 60% and 70%. Self-report ass
 
 Future exploration could examine the impact of candidate assessment tools on the hiring process through a randomized evaluation. This type of study could provide insights into whether any differences in hiring outcomes are likely due to the use of one assessment method over another, rather than being driven by hiring officials’ preferences or other parts of the hiring process.
 
-Read the full report <a href="https://oes.gsa.gov/assets/files/2107-full-report.pdf" target="_blank">here</a>.
+Read the full report <a href="/assets/files/2107-full-report.pdf" target="_blank">here</a>.
 
 The upload date of the Analysis Plan can be verified <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf">here</a>. 
