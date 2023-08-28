@@ -23,7 +23,7 @@ OES developed a Community Action Deck to empower individual community members to
 
 The Community Action Deck has been made available for download across government for any interested party to use. 
 
-<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-1-Community-Action-Deck.pdf" target="_blank">Download the Deck</a>
+<a class="usa-button margin-bottom-1" href="{{site.baseurl}}/assets/abstracts/1606-1-Community-Action-Deck.pdf" target="_blank">Download the Deck</a>
 <a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1606-2-Community-Action-Deck-Card-Template.pptx" target="_blank">Download the Card Template</a>
 
 Notes:
