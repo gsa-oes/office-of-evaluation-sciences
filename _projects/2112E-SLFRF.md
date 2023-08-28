@@ -31,7 +31,7 @@ The Office of Evaluation Sciences (OES) and Treasury collaborated in redesigning
 ## What did we learn?
 We find no evidence that the alternative messaging increased timely report submissions. One week after the email was sent, the estimated effect of the peer comparison treatment was small, negative, and statistically insignificant. For the quick and easy treatment, the estimated effect was negative 1.2 percentage points, which is statistically significant. Two weeks later (one day after the deadline), we found no statistically significant effect for either treatment.
 
-<img src="{{ '/assets/img/project-images/2112E-fig1.png' | prepend: site.baseurl }}" alt="Line graph showing no statistically significant effect for either treatment." width="1500">
+<img src="{{ '/assets/img/project-images/2112E-fig1.webp' | prepend: site.baseurl }}" alt="Line graph showing no statistically significant effect for either treatment." width="1500">
 <b>Figure 1.</b> <i>Numbers of NEUs that submitted reports on Treasury’s ARP Reporting and Compliance Portal</i>
 
 Future work can investigate why the messaging treatments were not effective in getting recipients to submit their spending reports and caused recipients to delay submission.

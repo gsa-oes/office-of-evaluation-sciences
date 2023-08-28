@@ -2,7 +2,7 @@
 layout: page	
 title: Three ways your agency can improve customer experience
 permalink: /blog/cx-part-2/	
-image: /assets/img/project-images/customer_experience_2.png
+image: /assets/img/project-images/customer_experience_2.webp
 image_alt_text: Star icons with arrows
 hide_image: true
 year: 2026

@@ -28,7 +28,7 @@ At no material cost and minimal staff time, **OES collaborated with VA Education
 
 **Actively enrolled degree-seeking, part-time, and non active duty beneficiaries were randomly assigned** to one of two conditions: 1) no proactive communication; or 2) receive a proactive email encouraging an increased enrollment intensity. A total sample of 100,908 beneficiaries were randomized to the treatment condition (i.e. receiving an email). Emails were sent to 50,444 beneficiaries during the first week of July 2018. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1810-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/1810-letter.webp)
 
 ## What was the impact?
 

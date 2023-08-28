@@ -20,7 +20,7 @@ summary: Redesigned referral process did not increase antenatal care (ANC) atten
 
 The US Agency for International Development (USAID) Nigeria supports efforts to decrease the number of malaria-related deaths in pregnant women and children. Intermittent preventive treatment (IPTp), which is a full course of antimalarial medicine given to women at routine health care visits during pregnancy (also known as antenatal care visits or ANC), reduces chances of placental malaria and increases the likelihood of healthy outcomes for mothers and babies. However, in 2015, only 19% of Nigerian women received the recommended three or more IPTp doses during their last pregnancy.
 
-![image]({{site.baseurl}}/assets/img/project-images/1715-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1715-image.webp)
 
 ## What was the program change?
 
@@ -30,7 +30,7 @@ Engagement with husbands: The checklist that Community Volunteers (CVs) use whil
 
 A redesigned record card: The form that CVs use to refer women to ANC was modified to make it easier to use for a low-literacy population, in the form of a pictorial record card.
 
-![image]({{site.baseurl}}/assets/img/project-images/1715-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1715-graph.webp)
 
 ## How did the evaluation work?
 

@@ -2,7 +2,7 @@
 layout: portfolio
 title: Prescriber Decision-Making
 permalink: /prescriber-decision-making/
-image: /assets/img/project-images/prescriber.png
+image: /assets/img/project-images/prescriber.webp
 image_alt_text: Doctor filling out form
 hide_image: true
 year: 2016

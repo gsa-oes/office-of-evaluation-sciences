@@ -25,7 +25,7 @@ Small details, like the framing or timing of an email, can matter more than migh
 
 Identical emails were sent to randomly selected groups of 96,000 federal employees (873,755 total intended recipients) every hour over the course of the day, starting at 8:55 a.m and ending at 1:55pm.
 
-![image]({{site.baseurl}}/assets/img/project-images/1512-3-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1512-3-graph.webp)
 
 ## What was the impact?
 

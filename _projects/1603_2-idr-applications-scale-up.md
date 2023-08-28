@@ -27,7 +27,7 @@ OES worked with ED’s Office of Federal Student Aid (FSA) to design and test th
 
 3,036,691 borrowers were randomly selected to receive either the most effective message from the Targeted Messages pilot, or no email.
 
-![image]({{site.baseurl}}/assets/img/project-images/1603-2-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1603-2-graph.webp)
 
 ## What was the impact?
 

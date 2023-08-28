@@ -2,7 +2,7 @@
 layout: portfolio
 title: Responding to the COVID-19 Pandemic
 permalink: /covid-19-response/
-image: /assets/img/project-images/covid-19-portfolio-image.png
+image: /assets/img/project-images/covid-19-portfolio-image.webp
 image_alt_text: People in the street wearing face masks
 hide_image: true
 year: 2021

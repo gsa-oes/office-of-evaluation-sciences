@@ -1,6 +1,6 @@
 ---
 name: Oded Gurantz
-image: /assets/img/team/oded-gurantz.png
+image: /assets/img/team/oded-gurantz.webp
 year:
   - 2021
   - 2022

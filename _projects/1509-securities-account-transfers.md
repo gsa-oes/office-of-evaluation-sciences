@@ -25,7 +25,7 @@ OES developed two letters for LTD account holders applying the research insight 
 
 33,500 remaining LTD account holders received letters mailed over 16 business days.
 
-![image]({{site.baseurl}}/assets/img/project-images/1509-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1509-graph.webp)
 
 ## What was the impact?
 

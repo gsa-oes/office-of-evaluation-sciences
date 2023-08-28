@@ -1,6 +1,6 @@
 ---
 name: David Schwegman
-image: /assets/img/team/david-schwegman.png
+image: /assets/img/team/david-schwegman.webp
 year:
   - 2020
   - 2021

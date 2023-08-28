@@ -27,10 +27,10 @@ At no material cost, OES worked with GSA communications and human resources to d
 
 <b>GSA employees were randomly assigned</b> to one of four arms. Individuals in the first intervention arm received a targeted communication about the benefits of FSAs delivered via GSA Today; individuals in the second arm received a communication that also highlighted their potential savings (“save $949 over a year”); and individuals in the third arm received a communication that highlighted their potential savings in relative terms (“save 30%”). In the fourth, control arm, employees received no targeted communication about FSAs.
 
-![image]({{site.baseurl}}/assets/img/project-images/1733-graph1.png)<br>
+![image]({{site.baseurl}}/assets/img/project-images/1733-graph1.webp)<br>
 *Figure 1: Probability of contributing to FSA by arm*
 
-![image]({{site.baseurl}}/assets/img/project-images/1733-graph2.png)<br>
+![image]({{site.baseurl}}/assets/img/project-images/1733-graph2.webp)<br>
 *Figure 2: Mean FSA contributions by arm*
 
 ## What was the impact?

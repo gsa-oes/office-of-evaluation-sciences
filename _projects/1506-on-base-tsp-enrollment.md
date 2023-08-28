@@ -27,7 +27,7 @@ At no material cost, OES developed a cover sheet for the TSP Election Form that 
 
 Briefing logistics made random assignment infeasible, so to estimate the impacts of the treatment period at Fort. Myer, TSP enrollment  data was collected both at Fort Myer during the year preceding the pilot, and from three comparable forts.
 
-![image]({{site.baseurl}}/assets/img/project-images/1506-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1506-graph.webp)
 
 ## What was the impact?
 

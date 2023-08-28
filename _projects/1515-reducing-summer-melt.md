@@ -27,7 +27,7 @@ Sending students text message reminders about key tasks related to college matri
 
 High school students from five cities were randomly assigned to one of three groups: 1) a control group that did not receive messages, 2) a group in which only students were sent messages, 3) a group in which both students and their parents were sent messages.
 
-![image]({{site.baseurl}}/assets/img/project-images/1515-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1515-graph.webp)
 
 ## What was the impact?
 

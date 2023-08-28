@@ -47,12 +47,12 @@ Among eligible renters, ERA funds were much more likely to reach those with the 
 
 <b>Figure 1.</b> <i>Demographic characteristics of renters who received and renters who were eligible for ERA.</i>
 
-<img src="{{ '/assets/img/project-images/2113B-fig1.png' | prepend: site.baseurl }}" alt="" width="1500">
+<img src="{{ '/assets/img/project-images/2113B-fig1.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>Note: height of bars represents estimated proportion of population falling into that demographic category for the ACS, CPS, and Treasury recipient data, respectively. Error bars represent 95% confidence intervals on the difference between the eligible and recipient proportions, calculated through bootstrapped imputation standard errors.</i>
 
 <b>Figure 2.</b> <i>The intersection of income, race, and ethnicity among renters who received and renters who were eligible for ERA.</i>
 
-<img src="{{ '/assets/img/project-images/2113B-fig2.png' | prepend: site.baseurl }}" alt="" width="1500">
+<img src="{{ '/assets/img/project-images/2113B-fig2.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>See note on Figure 1. Columns are divided by eligible income brackets; rows by racial and ethnic groups.</i>
 
 <i>To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf">click here</a>.</i> 

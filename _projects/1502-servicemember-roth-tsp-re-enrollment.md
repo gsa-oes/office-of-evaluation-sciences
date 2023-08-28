@@ -27,15 +27,15 @@ OES redesigned the email notification, emphasizing the New Year as a fresh start
 
 The nearly 140,000 Servicemembers who needed to re-enroll  were randomly assigned to two groups: half were sent the standard email, and half were sent the redesigned email.  Following email distribution DFAS tracked re-enrollment requests.
 
-![Standard email sent to participants]({{ '/assets/img/project-images/tsp-re-enrollment/control-letter.png' | prepend: site.baseurl }} "Standard email sent to participants")
+![Standard email sent to participants]({{ '/assets/img/project-images/tsp-re-enrollment/control-letter.webp' | prepend: site.baseurl }} "Standard email sent to participants")
 Standard email sent to participants
 
-![Redesigned email sent to participants]({{ '/assets/img/project-images/tsp-re-enrollment/test-letter.png' | prepend: site.baseurl }} "Redesigned email sent to participants")
+![Redesigned email sent to participants]({{ '/assets/img/project-images/tsp-re-enrollment/test-letter.webp' | prepend: site.baseurl }} "Redesigned email sent to participants")
 Redesigned email sent to participants
 
 The redesigned email shows how OES incorporated specific behavioral insights into the adapted message.
 
-![image]({{site.baseurl}}/assets/img/project-images/1502-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1502-graph.webp)
 
 ## What was the impact?
 

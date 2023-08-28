@@ -24,7 +24,7 @@ OES helped design new outreach to DI applicants who were determined to be inelig
 
 SSA mailed letters to roughly 44,000 denied applicants within 30 days of their denial notice at either the Initial, Reconsideration, or Administrative Law Judge (ALJ) appeals level. Another 44,000 denied applicants served as a control. 
 
-![image]({{site.baseurl}}/assets/img/project-images/15xx-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/15xx-letter.webp)
 
 ## What was the impact?
 

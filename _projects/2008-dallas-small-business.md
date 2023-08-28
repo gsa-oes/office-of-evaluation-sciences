@@ -30,7 +30,7 @@ OES worked with the City of Dallas to understand the lottery implementation in d
 
 The grant and loan lotteries randomly assigned a rank to each business application that passed initial eligibility checks. That rank determined the order in which the City of Dallas sent businesses invitations to follow up with additional documentation for funding. By simulating the lottery process 10,000 times, OES calculated each business’s probability of being invited to submit documentation for funding on a specific day in 2020. These probabilities are illustrated in **Figure 1**.
 
-![image](https://oes.gsa.gov/assets/img/project-images/2008-graph-1.png)<br>
+![image](https://oes.gsa.gov/assets/img/project-images/2008-graph-1.webp)<br>
 *Figure 1: Daily probability of receiving an invitation to submit documents for funding by lottery.   Solid green line is for grants in non-targeted areas, dotted blue line is for grants in targeted areas, dashed red line is for loans.*
 
 ## How did the evaluation work? 
@@ -41,7 +41,7 @@ To assess how funding affected business resilience during the pandemic, OES matc
 ## What was the impact? 
 OES did not find statistically significant evidence of program impact across any of the main analyses specified in the analysis plan: business closures, provision of online services, and bankruptcy filings (see **Figure 2**). This should not be mistaken with finding evidence that the program did not work: given the data, we cannot rule out either positive or negative program impacts. The inability to say more relates to the statistical uncertainty in the estimates. The large number of applications suggests business owners saw a great need for the funding.
 
-![image](https://oes.gsa.gov/assets/img/project-images/2008-graph-2.png)<br>
+![image](https://oes.gsa.gov/assets/img/project-images/2008-graph-2.webp)<br>
 *Figure 2: The estimated effect of funding on business closures, online services, and bankruptcy. Blue circles show estimated effect of invitation, yellow triangles show estimated effect of funding, among businesses that would receive funding if invited.* 
 
 ## Key Takeaways

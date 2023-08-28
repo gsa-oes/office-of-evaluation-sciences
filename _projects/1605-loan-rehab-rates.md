@@ -27,7 +27,7 @@ OES developed emails with four different subject lines informed by research insi
 
 An iterative randomized control trial was conducted, sending emails to three separate cohorts of borrowers in default, where the most effective email from the previous cohort was tested against a new intervention in the next cohort.
 
-![image]({{site.baseurl}}/assets/img/project-images/1605-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1605-graph.webp)
 
 ## What was the impact?
 

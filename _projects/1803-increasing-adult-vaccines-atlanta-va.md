@@ -27,9 +27,9 @@ The Department of Veterans Affairs (VA) National Center for Health Promotion and
 
 The Atlanta VA and OES worked together to develop a modified clinical reminder that bundled separate clinical reminders for three adult vaccines (Influenza, Pneumococcal, and Tdap), decreasing the overall number of reminders presented to clinicians. This single reminder included a vaccination dashboard relaying patient vaccination history and status and talking points providers could use to address patient refusal or vaccine hesitancy. The reminder was designed to increase vaccination rates by making it easier for providers to recommend and order vaccines.
 
-![image]({{site.baseurl}}/assets/img/project-images/1803-simplified-dialogue.png)
+![image]({{site.baseurl}}/assets/img/project-images/1803-simplified-dialogue.webp)
 
-![image]({{site.baseurl}}/assets/img/project-images/1803-bundled-vaccine-reminder.png)
+![image]({{site.baseurl}}/assets/img/project-images/1803-bundled-vaccine-reminder.webp)
 
 ## How did the evaluation work?
 

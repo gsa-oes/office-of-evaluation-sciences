@@ -1,6 +1,6 @@
 ---
 name: Ryan Moore
-image: /assets/img/team/ryan_moore.png
+image: /assets/img/team/ryan_moore.webp
 year:
   - 2019
   - 2020

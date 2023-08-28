@@ -30,7 +30,7 @@ A descriptive study can provide a baseline understanding of DOI’s implementati
 OES compiled data on hiring actions and applications to job vacancies at DOI from July 2020 to July 2022 to provide a description of the utilization of each of the three assessment methods and summarize key outcomes of the recruitment process. These outcomes include certification time, post-certification time to selection, recruitment success, and the representation of candidates at different stages of the recruitment process.
 
 **Figure 1.** *Implementation of Hiring Assessments Across DOI*
-<img src="{{ '/assets/img/project-images/2107-graph.png' | prepend: site.baseurl }}" alt="Chart showing Implementation of Hiring Assessments Across DOI." width="1500">
+<img src="{{ '/assets/img/project-images/2107-graph.webp' | prepend: site.baseurl }}" alt="Chart showing Implementation of Hiring Assessments Across DOI." width="1500">
 
 ## What did we learn?
 *How are candidate assessments being implemented at DOI?*

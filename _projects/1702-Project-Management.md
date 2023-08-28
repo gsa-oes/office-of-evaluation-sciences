@@ -2,7 +2,7 @@
 title: Improving Capacity of Federal Managers through Project Management
 permalink: /projects/project-management/
 tags: project
-image: /assets/img/project-images/project-management-2.png
+image: /assets/img/project-images/project-management-2.webp
 image_alt_text: Diagram for great managers
 image-credit: https://www.forbes.com/sites/meghancasserly/2013/07/17/google-management-is-evil-harvard-study-startups/#1e9b47e95ddb
 abstract: /assets/abstracts/1702-Project-MGMT.pdf
@@ -26,7 +26,7 @@ Research is emerging to demonstrate that priming a growth mindset, or the belief
 
 Approximately 300 federal managers at the Departments of Labor and Energy were emailed materials on a bi-weekly basis. OES paired together managers with the same gender, GS-level, employee characteristics, and employee-assessment baseline score created from  14  assessment questions asked of their employees in the baseline. One manager in each pair was randomly assigned to receive the growth mindset materials. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1702-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1702-graph.webp)
 
 ## What was the impact?
 

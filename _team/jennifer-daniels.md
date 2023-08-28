@@ -1,6 +1,6 @@
 ---
 name: Jennifer Daniels
-image: /assets/img/team/jennifer-daniels.png
+image: /assets/img/team/jennifer-daniels.webp
 year:
   - 2021
   - 2022

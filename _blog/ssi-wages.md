@@ -20,7 +20,7 @@ This study tested whether a behaviorally-informed letter would encourage SSI rec
     4. A combination letter which included both behavioral components. 
  Three months after the intervention, SSI recipients who received any letter were **34 percent more likely to have reported any earnings for the previous three months, and they reported about 75 percent more in earnings.**
 
-![image]({{site.baseurl}}/assets/img/project-images/blog3table1.png)
+![image]({{site.baseurl}}/assets/img/project-images/blog3table1.webp)
 
 *Table 1: Letters to SSI recipients significantly increased timely reporting of wages*
 

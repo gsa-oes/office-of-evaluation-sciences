@@ -26,7 +26,7 @@ OES sent flyers with either one or five energy-saving tips to a random sample of
 
 OES randomized 2,796 apartment units to be sent no flyer, a single-tip flyer, or a multiple-tips flyer. Wireless energy monitors recorded unit-level daily energy consumption.
 
-![image]({{site.baseurl}}/assets/img/project-images/1742-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1742-graph.webp)
 
 ## What was the impact?
 

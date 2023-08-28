@@ -29,7 +29,7 @@ At no material cost, OES designed an electronic signature box included at the be
 
 Vendors were randomly assigned to use one of two options: 1) the existing reporting system (control); or 2) a modified interface (treatment) with the redesigned electronic signature box.
 
-![image]({{site.baseurl}}/assets/img/project-images/1514-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1514-image.webp)
 
 ## What was the impact?
 

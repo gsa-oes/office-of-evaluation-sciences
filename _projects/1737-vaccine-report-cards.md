@@ -27,9 +27,9 @@ OES and the National Vaccine Program Office in the U.S. Department of Health and
 
 OES designed report cards to report on school and daycare center immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using data visualization software and by using immunization registry data. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1739-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1739-image.webp)
 
-![image]({{site.baseurl}}/assets/img/project-images/1737-image2.png)
+![image]({{site.baseurl}}/assets/img/project-images/1737-image2.webp)
 
 ## How did the evaluation work?
 

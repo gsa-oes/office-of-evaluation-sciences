@@ -4,7 +4,7 @@ permalink: /collaborations/improper-payments-playbook/
 tags:
   - collaborations
   - payments
-image: /assets/img/project-images/othercollabs/improper-payments.png
+image: /assets/img/project-images/othercollabs/improper-payments.webp
 image_full: true
 year: 2021
 domain: Government Operations

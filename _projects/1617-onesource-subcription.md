@@ -26,7 +26,7 @@ OES designed six email variants applying research insights to be sent to active 
 
 491,879 servicemembers were randomly assigned to receive one of the six email communications.
 
-![image]({{site.baseurl}}/assets/img/project-images/1617-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1617-graph.webp)
 
 ## What was the impact?
 

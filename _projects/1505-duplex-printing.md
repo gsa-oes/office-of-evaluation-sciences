@@ -25,7 +25,7 @@ At no material cost, OES created a digital dialog box that asked employees to ch
 
 A randomized set of USDA employees received the pop-up that required a second mouse click before single-sided printing would occur. If the individual did not click “Print” after five minutes, the print job was deleted. The text of the pop-up notified individuals that if they changed their default settings to duplex, they would not face the pop-up in the future.
 
-![image]({{site.baseurl}}/assets/img/project-images/1505-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1505-image.webp)
 
 ## What was the impact?
 

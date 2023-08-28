@@ -30,7 +30,7 @@ Patients newly identified as having concurrent opioid-benzodiazepine prescriptio
 ## What was the impact?
 There was no statistically significant difference in patients’ total receipt of opioids, total receipt of benzodiazepines, or overlapping days of opioids and benzodiazepines during the 90 days following the email intervention. Following enrollment, average opioid receipt was 21.7 days among control patients and 22.9 days among treated patients; average benzodiazepine receipt was 20.0 days and 19.6 days among control and treated patients, respectively; and the average number of days with overlapping opioids and benzodiazepines was 10.6 and 10.5 among control and treated patients, respectively.
 
-<img src="{{ '/assets/img/project-images/1725-fig1.png' | prepend: site.baseurl }}" alt="A line graph comparing the control and treatment groups on average days of opioid-benzodiazepine overlap and days relative to enrollment." width="1500">
+<img src="{{ '/assets/img/project-images/1725-fig1.webp' | prepend: site.baseurl }}" alt="A line graph comparing the control and treatment groups on average days of opioid-benzodiazepine overlap and days relative to enrollment." width="1500">
 
 <i>Related Publications</i>
 

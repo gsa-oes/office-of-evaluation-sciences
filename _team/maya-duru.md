@@ -1,6 +1,6 @@
 ---
 name: Maya Duru
-image: /assets/img/team/maya-duru.png
+image: /assets/img/team/maya-duru.webp
 year:
   - 2021
   - 2022

@@ -29,7 +29,7 @@ OES developed eight different letters to assist these individuals with completin
 
 811,795 individuals who had registered for a HealthCare.gov user account but not yet enrolled in an insurance plan were randomly assigned to be sent one of eight letter variants, or no letter at all.
 
-![image]({{site.baseurl}}/assets/img/project-images/1504-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1504-graph.webp)
 
 ## What was the impact?
 

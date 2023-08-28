@@ -32,7 +32,7 @@ Individuals were randomly assigned to a month in which they received the postcar
 
 This study has three treatment arms based on when the postcard was sent: October, November, and December. Individuals randomized to receive the postcard reminder in January were considered the control group, as vaccinations rates were analyzed for the full sample excluding vaccinations post-January.
 
-![image]({{site.baseurl}}/assets/img/project-images/1738-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1738-graph.webp)
 
 ## What was the impact?
 

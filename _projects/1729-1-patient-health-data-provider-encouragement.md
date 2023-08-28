@@ -26,7 +26,7 @@ The Office of the National Coordinator for Health Information Technology (ONC) h
 
 ONC, Inova Health System, and OES designed an intervention to encourage physicians to place bulk orders for electronic blood glucose flow sheets for patients with diabetes. Providers were invited to attend a virtual training and offered in-person support, including a template for reaching out to patients.
 
-![image]({{site.baseurl}}/assets/img/project-images/1729-intervention-group.png)
+![image]({{site.baseurl}}/assets/img/project-images/1729-intervention-group.webp)
 
 ## How did the evaluation work?
 

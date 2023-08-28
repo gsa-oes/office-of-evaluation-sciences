@@ -73,8 +73,8 @@ OES was able to match Help Desk tickets from 69% of Tribes and 42% of NEUs. Amon
 Figure 3 illustrates the prevalence of unidentified Help Desk accounts (in blue), and plots the cumulative proportion of Help Desk tickets submitted by individual recipients. As can be seen, nearly 40% of tickets are from unidentified accounts and cannot be matched. Focusing on accounts with names (in red), 10% of accounts contributed 40% of Help Desk tickets, 25% of accounts contributed 62% of Help Desk tickets, and 50% of accounts contributed 81% of Help Desk tickets, showing that a relatively small share of accounts contributed a large proportion of requests.
 
 <b>Figure 3.</b> <i>Cumulative Proportion of Help Desk Ticket Requests</i>
-<img src="{{ '/assets/img/project-images/2112G-fig3.png' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig3.png">Expand image</a></i>
+<img src="{{ '/assets/img/project-images/2112G-fig3.webp' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig3.webp">Expand image</a></i>
 
 Figure 4 shows Help Desk tickets that can be matched to Tribes (orange) and NEUs (green). Compared to the entire population of Help Desk tickets with names, among the matched population of Tribe and NEUs there is less overrepresentation of select Tribes and NEUs: 10% of Tribes and NEUs contributed about 30% of Tribes’ and NEUs’ Help Desk ticket submissions compared to 10% of accounts submitting 40% of tickets across all identified accounts. In the middle and low-end of Help Desk ticket submitters, Tribes and NEUs are comparable to the total identified population: 25% of Tribe and NEU accounts contribute about 60% of tickets, which closely mirrors the full identified population, and 50% of Tribe and NEU accounts contribute about 80% of Help Desk tickets, resembling the entire identified population. 
 
@@ -83,8 +83,8 @@ Overall, this analysis of the distribution of Help Desk tickets shows that, alth
 NEUs with greater budgets and allocation amounts tended to request more support from Treasury. On average, within states, a 1% increase in an NEU’s budget corresponds with 0.18 additional Help Desk tickets submitted (p <0.001; 95% CI [0.16, 0.20]). Results are comparable for NEU’s allocation amount, even when looking at the association on average within states.
 
 <b>Figure 4.</b> <i>Cumulative Proportion of Tribe and NEU Help Desk Ticket Submissions</i>
-<img src="{{ '/assets/img/project-images/2112G-fig4.png' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig4.png">Expand image</a></i>
+<img src="{{ '/assets/img/project-images/2112G-fig4.webp' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig4.webp">Expand image</a></i>
 
 #### Efficiency of Help Desk System in Resolving Recipients’ Questions 
 The median closure time of Help Desk tickets ranged between 13-15 days for the entire recipient population, Tribes, and NEUs.¹¹ While 25% of all recipients had a closure time of three days or less, another 25% of recipients had a closure time of 30 days or more. Closure times were similar, on average, among the three types of recipients (Tribes, NEUs, and non-Tribes/NEUs). 

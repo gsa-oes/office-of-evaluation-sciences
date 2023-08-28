@@ -1,6 +1,6 @@
 ---
 name: Aidan Hudson-Lapore
-image: /assets/img/team/aidan-hudson-lapore.png
+image: /assets/img/team/aidan-hudson-lapore.webp
 year:
   - 2021
   - 2022

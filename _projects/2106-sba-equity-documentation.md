@@ -5,7 +5,7 @@ tags:
   - project
   - business
   - covid
-image: /assets/img/project-images/2106.png
+image: /assets/img/project-images/2106.webp
 image_alt_text: Documents stacked
 image-credit: https://p1.pxfuel.com/preview/350/281/154/files-files-shelf-paper-office-planning-write.webp 
 analysis-plan: /assets/analysis/2106 - Equity Documentation - 3 - Analysis Plan.pdf

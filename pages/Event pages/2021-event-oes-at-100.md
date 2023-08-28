@@ -45,7 +45,7 @@ OES presented their <a href="https://oes.gsa.gov/small-business/" target="_blank
 
 <a class="usa-button" href="http://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf" target="_blank">Lessons Learned from the OES Portfolio on Equity & Small Business Recovery (PDF)</a><br>
 
-![image]({{site.baseurl}}/assets/img/Panel 2.png)	
+![image]({{site.baseurl}}/assets/img/Panel 2.webp)	
 This was followed by a panel discussion that included:
 - **Jason Bossie**, (Acting) Chief Financial Officer, SBA
 - **Clarence Wardell III**, Chief Data and Equitable Delivery Officer, ARP Implementation team; Senior Advisor for Policy Implementation & Delivery, White House Domestic Policy Council 
@@ -60,7 +60,7 @@ During this session, panelists discussed the increased focus on Evidence Act imp
 - **Pam Coleman**, Associate Director of Performance and Personnel Management, Office of Management and Budget
 - **Jeanne Holm**, Deputy Mayor, City of Los Angeles  
 
-![image]({{site.baseurl}}/assets/img/Panel 3.png)	
+![image]({{site.baseurl}}/assets/img/Panel 3.webp)	
 
 ### Closing remarks
    - **Krystal J. Brumfield**, Chief Acquisition Officer and Associate Administrator, Office of Government-wide Policy, GSA
