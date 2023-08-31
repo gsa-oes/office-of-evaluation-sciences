@@ -2,7 +2,7 @@
 layout: portfolio
 title: Vaccination Uptake
 permalink: /vaccines/
-image: /assets/img/project-images/1737.jpg
+image: /assets/img/project-images/1737.webp
 image_alt_text: Nurse applying vaccine
 hide_image: true
 year: 2020

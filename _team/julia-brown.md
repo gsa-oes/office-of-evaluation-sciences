@@ -1,6 +1,6 @@
 ---
 name: Julia Brown
-image: /assets/img/team/julia_brown.jpg
+image: /assets/img/team/julia_brown.webp
 year:
   - 2019
   - 2020

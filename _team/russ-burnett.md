@@ -1,6 +1,6 @@
 ---
 name: Russ Burnett
-image: /assets/img/team/russ_burnett.jpg
+image: /assets/img/team/russ_burnett.webp
 year:
   - 2016
   - 2017

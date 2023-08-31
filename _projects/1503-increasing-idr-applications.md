@@ -4,7 +4,7 @@ permalink: /projects/increasing-IDR-applications/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/income-driven-repayment.jpg
+image: /assets/img/project-images/income-driven-repayment.webp
 image_alt_text: Income driven repayment
 image-credit: https://www.flickr.com/photos/timetrax/
 abstract: /assets/abstracts/1503-Income-Driven-Repayment.pdf

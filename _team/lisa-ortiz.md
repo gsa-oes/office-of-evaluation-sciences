@@ -1,6 +1,6 @@
 ---
 name: Lisa Ortiz
-image: /assets/img/team/lisa-ortiz.jpg
+image: /assets/img/team/lisa-ortiz.webp
 year:
   - 2022
 home: Government

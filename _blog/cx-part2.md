@@ -2,7 +2,7 @@
 layout: page	
 title: Three ways your agency can improve customer experience
 permalink: /blog/cx-part-2/	
-image: /assets/img/project-images/customer_experience_2.png
+image: /assets/img/project-images/customer_experience_2.webp
 image_alt_text: Star icons with arrows
 hide_image: true
 year: 2026
@@ -23,7 +23,7 @@ Agencies can improve customer satisfaction by applying insights on how to make t
 - **Transparency** <br>
 Including a timeline that makes government operations more transparent proves helpful for customer satisfaction. For example, in a <a href="https://oes.gsa.gov/projects/USAGov-survey/" target="_blank">2019 collaboration with USAGov</a>, transparency helped to increase survey responses.
 - **Human connection** <br>
-Using a personal signature or an employee photograph can improve customer satisfaction. One version of a <a href="https://oes.gsa.gov/assets/abstracts/1615-Financial-Aid-for-HUD-Assisted-Youth.pdf" target="_blank">communication about the Free Application for Federal Student Aid</a> included a personal message from then-First Lady Michelle Obama. Elements that build a personal connection between customers and government service providers can be an essential and easy change. 
+Using a personal signature or an employee photograph can improve customer satisfaction. One version of a <a href="/assets/abstracts/1615-Financial-Aid-for-HUD-Assisted-Youth.pdf" target="_blank">communication about the Free Application for Federal Student Aid</a> included a personal message from then-First Lady Michelle Obama. Elements that build a personal connection between customers and government service providers can be an essential and easy change. 
 
 <h3>2. Use A/B testing to evaluate changes </h3>
 In the above USAGov example, OES compared survey completion and email engagement (e.g., opens and clicks) to build evidence about how customers responded to different versions of a message or process. In fact, many agencies are already conducting this type of “A/B testing” to collect information about customer behaviors. This testing is an effective way to meet the <a href="https://digital.gov/resources/21st-century-integrated-digital-experience-act/" target="_blank">21st Century IDEA</a> requirements to modernize websites, digitize services and forms, and improve customer experiences.

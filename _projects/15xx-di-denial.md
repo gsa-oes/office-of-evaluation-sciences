@@ -2,7 +2,7 @@
 title:  Communicating Employment Supports to Denied Disability Insurance Applicants 
 permalink: /projects/di-denial/
 tags: project  
-image: /assets/img/project-images/15xx-di.jpg  
+image: /assets/img/project-images/15xx-di.webp  
 image_alt_text: People interacting at a desk with leaflets
 image-credit: https://www.flickr.com/photos/senatorchriscoons/
 abstract: /assets/abstracts/15xx-di.pdf
@@ -24,7 +24,7 @@ OES helped design new outreach to DI applicants who were determined to be inelig
 
 SSA mailed letters to roughly 44,000 denied applicants within 30 days of their denial notice at either the Initial, Reconsideration, or Administrative Law Judge (ALJ) appeals level. Another 44,000 denied applicants served as a control. 
 
-![image]({{site.baseurl}}/assets/img/project-images/15xx-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/15xx-letter.webp)
 
 ## What was the impact?
 

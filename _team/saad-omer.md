@@ -1,6 +1,6 @@
 ---
 name: Saad Omer
-image: /assets/img/team/saad_omer.jpg
+image: /assets/img/team/saad_omer.webp
 year: 
   - 2016
   - 2017

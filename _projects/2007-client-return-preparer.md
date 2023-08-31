@@ -4,7 +4,7 @@ permalink: /projects/client-tax-compliance/
 tags: 
   - project  
   - payments
-image: /assets/img/project-images/2007-tax-image.jpg 
+image: /assets/img/project-images/2007-tax-image.webp 
 image_alt_text: Tax return documents
 image-credit: https://www.pexels.com/photo/calculator-and-tax-forms-inside-the-clear-envelope-6863518/
 analysis-plan: /assets/analysis/2007-analysis-plan.pdf

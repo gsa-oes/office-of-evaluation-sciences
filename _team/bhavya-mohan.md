@@ -1,6 +1,6 @@
 ---
 name: Bhavya Mohan
-image: /assets/img/team/Mohan_Bhavya.jpg
+image: /assets/img/team/Mohan_Bhavya.webp
 year:
   - 2021
   - 2022

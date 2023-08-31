@@ -1,6 +1,6 @@
 ---
 name: Nathaniel Higgins
-image: /assets/img/team/higgins_nathaniel.jpg
+image: /assets/img/team/higgins_nathaniel.webp
 year:
   - 2015 
   - 2016

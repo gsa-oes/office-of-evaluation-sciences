@@ -2,7 +2,7 @@
 layout: page	
 title: Using OES evidence to inform SSA’s outreach to low-income elderly populations
 permalink: /blog/ssi-utilization/	
-image: /assets/img/project-images/2205-image.jpg
+image: /assets/img/project-images/2205-image.webp
 image_alt_text: People sitting on a bench 
 hide_image: true
 year: 2033
@@ -34,7 +34,7 @@ The initial OES study explored the effects of tailored mailings on SSI applicati
 In combination, these studies will help policymakers understand how to continue to implement policy changes to effectively encourage SSI uptake and improve recipient outcomes.
 
 <img src="{{ '/assets/img/project-images/ssi-timeline.svg' | prepend: site.baseurl }}" alt="A timeline showing media coverage and evidence-based policy commitments following the OES evaluation in 2018." width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/ssi-timeline.svg">Expand image</a></i>
+<i><a href="/assets/img/project-images/ssi-timeline.svg">Expand image</a></i>
 
 ### Notes
 1. Strand, Alexander, Kalman Rupp and Paul S. Davies. 2019. “Measurement Error in Estimates of the Participation Rate in Means-Tested Programs: The Case of the US Supplemental Security Income Program for the Elderly.” Proceedings of the Federal Committee on Statistical Methodology Research Conference. Available at <a href="http://fcsm.sites.usa.gov/reports/research/2009research/" target="_blank">http://fcsm.sites.usa.gov/reports/research/2009research/</a>.

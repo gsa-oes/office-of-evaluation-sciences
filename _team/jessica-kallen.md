@@ -1,6 +1,6 @@
 ---
 name: Jessica Kallen
-image: /assets/img/team/jessica-kallen.png
+image: /assets/img/team/jessica-kallen.webp
 year:
   - 2023
 status: Current

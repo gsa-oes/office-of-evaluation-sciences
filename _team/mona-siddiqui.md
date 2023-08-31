@@ -1,6 +1,6 @@
 ---
 name: Mona Siddiqui
-image: /assets/img/team/siddiqui_mona.jpg
+image: /assets/img/team/siddiqui_mona.webp
 year: 
   - 2014
   - 2015

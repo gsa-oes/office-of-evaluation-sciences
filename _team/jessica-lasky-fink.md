@@ -1,6 +1,6 @@
 ---
 name: Jessica Lasky-Fink
-image: /assets/img/team/lasky-fink.jpg
+image: /assets/img/team/lasky-fink.webp
 year:
   - 2021
   - 2022

@@ -1,6 +1,6 @@
 ---
 name: Lang (Kate) Yang
-image: /assets/img/team/kate-yang.jpg
+image: /assets/img/team/kate-yang.webp
 year:
   - 2023
 home: University

@@ -2,7 +2,7 @@
 title: Increasing Newsletter Subscription Rates of Active Duty Servicemembers
 permalink: /projects/onesource-subscription/
 tags: project
-image: /assets/img/project-images/military5.jpg
+image: /assets/img/project-images/military5.webp
 image_alt_text: Military users on laptop
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1617-Military-OneSource-Subscription.pdf
@@ -26,7 +26,7 @@ OES designed six email variants applying research insights to be sent to active 
 
 491,879 servicemembers were randomly assigned to receive one of the six email communications.
 
-![image]({{site.baseurl}}/assets/img/project-images/1617-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1617-graph.webp)
 
 ## What was the impact?
 

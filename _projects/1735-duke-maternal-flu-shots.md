@@ -4,9 +4,9 @@ permalink: /projects/duke-maternal-flu-shots/
 tags:
   - project
   - vaccines
-image: /assets/img/project-images/1735.jpg
+image: /assets/img/project-images/1735.webp
 image_alt_text: Nurse applying a vaccine
-image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-woman-a-flu-vaccine-shot-pv.jpg
+image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-woman-a-flu-vaccine-shot-pv.webp
 analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf
 abstract: /assets/abstracts/1735-flu-shot-abstract.pdf
 intervention: /assets/interventions/1735-Duke-Maternal-Flu-Immunizations-Intervention-Pack.pdf
@@ -29,10 +29,10 @@ In collaboration with the Duke University health system, the Office of Evaluatio
 
 Patients were randomly assigned to the treatment condition, in which they received the newly developed targeted message highlighting the importance of the flu vaccine, or a control condition in which they did not receive this targeted message.
 
-![image]({{site.baseurl}}/assets/img/project-images/1735-graph1.png)<br>
+![image]({{site.baseurl}}/assets/img/project-images/1735-graph1.webp)<br>
 *Figure 1: Flu vaccine  uptake by arm (full sample)*
 
-![image]({{site.baseurl}}/assets/img/project-images/1735-graph2.png)<br>
+![image]({{site.baseurl}}/assets/img/project-images/1735-graph2.webp)<br>
 *Figure 2: Flu vaccine uptake by arm (restricted sample)*
 
 ## What was the impact?

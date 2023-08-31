@@ -20,7 +20,7 @@ In January 2016, nearly 700,000 Servicemembers from the Army, Navy, Air Force, a
 
 In addition to increasing enrollment, the emails also affected the contribution rate (the percent of monthly salary) that those who enrolled decided to save in the TSP. The average contribution rate for those participating in the TSP increased when higher rates were suggested. You can read more about the short-term impact of the emails with suggested contribution rates <a href="https://oes.gsa.gov/projects/tsp-anchoring/" target="_blank">here</a>.
 
-![image]({{site.baseurl}}/assets/img/project-images/16xx-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/16xx-letter.webp)
 
 The authors of the 2020 paper used two years of Defense Finance and Accounting Service (DFAS) payroll data to see whether the initial increase in enrollment lasted among the 300,000 participants who were active-duty Army Servicemembers. About 13% of those who had been in the no-email control condition were enrolled in the TSP two years later. Authors compared this group to those who had been sent an email, using a statistical analysis that adjusted for factors like age and marital status which might affect the probability of participating in the TSP. In this analysis, having been sent the baseline email increased the rate of enrollment in the TSP by 0.36 percentage points, and having been sent a specific rate email increased it by 0.61 percentage points. The specific rate emails created more than $9 million of additional retirement savings over the 2-year period. 
 

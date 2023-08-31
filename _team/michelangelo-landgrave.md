@@ -1,6 +1,6 @@
 ---
 name: Michelangelo Landgrave
-image: /assets/img/team/michelangelo-landgrave.png
+image: /assets/img/team/michelangelo-landgrave.webp
 year:
   - 2021
   - 2022

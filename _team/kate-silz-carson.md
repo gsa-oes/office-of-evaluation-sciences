@@ -1,6 +1,6 @@
 ---
 name: Kate Silz-Carson
-image: /assets/img/team/Katherine-Silz-Carson.jpg
+image: /assets/img/team/Katherine-Silz-Carson.webp
 year:
   - 2022
 home: University

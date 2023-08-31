@@ -4,7 +4,7 @@ permalink: /projects/learning-center-enrollment/
 tags: 
   - project
   - business
-image: /assets/img/project-images/sba.jpg
+image: /assets/img/project-images/sba.webp
 image_alt_text: People sitting in front of PC
 image-credit: https://www.flickr.com/photos/seattlecommunitytech/
 abstract: /assets/abstracts/1614-SBA-Learning-Center.pdf
@@ -32,4 +32,4 @@ SBA piloted the forms over three months and recorded form completion rates versu
 
 Over the three months, 64.1% of users continued the course after completing the form, compared to 57.6% prior to the changes. The second updated version of the form also appeared to increase the amount of information voluntarily provided during registration, enabling SBA to learn vital information about the small business owners they serve.
 
-![image]({{site.baseurl}}/assets/img/project-images/1614-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1614-graph.webp)

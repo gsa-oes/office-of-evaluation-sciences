@@ -2,7 +2,7 @@
 layout: portfolio
 title: Higher Education
 permalink: /highereducation/
-image: /assets/img/project-images/1717.jpg  
+image: /assets/img/project-images/1717.webp  
 image_alt_text: Graduates pointing in the distance
 hide_image: true
 year: 2018

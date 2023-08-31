@@ -4,13 +4,13 @@ layout: page
 permalink: /results/slfrf-tribal-govs-neus/
 tags: 
   - abstract
-image: /assets/img/project-images/2112G-image.jpg
+image: /assets/img/project-images/2112G-image.webp
 image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=391292&picture=street-in-a-town
 summary: 
 
 ---
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2112G-SLFRF-abstract.pdf" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="/assets/abstracts/2112G-SLFRF-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## What priority outcome did we evaluate?
 As part of the American Rescue Plan Act of 2021 (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds (SLFRF) program, which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments (recipients) to support their response to and recovery from the COVID-19 public health emergency. More than 500 Tribal governments¹ (Tribes) and approximately 27,000 small cities and towns – referred to as non-entitlement units of local government (NEUs)² and comprising nearly 40% of the total U.S. population – were respectively allocated $20 billion and $19.5 billion of this funding.³
@@ -35,10 +35,10 @@ The qualitative analysis revealed that there is significant variation in Tribes�
 Figures 1 and 2 show the journey that Tribes and NEUs went through, from learning about the SLFRF program to submitting their spending reports. The figures include information about the number of times a statement was made (including by the same speaker) during the conversations, summing to a total N of 193 for Tribes and 163 for NEUs. Only statements that were made more than once are included in the figures. Throughout their journey, Tribes and NEUs relied on Treasury’s resources and staff to learn about the program, how to allocate and spend their funds, and how to submit their spending reports. At the outset of the program, both Tribe and NEU representatives were initially concerned about accepting SLFRF funds. For representatives of Tribes, this was due to mistrust of federal funding, uncertainty around the potential for audits, and perceptions that Tribes were competing with one another for funds. For representatives of NEUs, their concern derived from their inexperience with federal funding and concern about needing to repay unspent funds. The funding that Tribes and NEUs received was greatly appreciated. Both entities, however, felt that it was insufficient to cover all their needs. For some Tribes, there was uncertainty about how they should allocate their funds to maximize impact and a lack of capacity to oversee project contractors. A number of NEUs felt that the funding was insufficient to cover long-standing infrastructure needs and most delayed spending funds until the release of the Final Rule (which built on the Interim Final Rule to clarify eligible and ineligible uses of SLFRF funds) due to fear of having to repay funds in the event that the rules changed from the Interim Final Rule. Both Tribes and NEUs identified inflation and constrained supply chains as issues that prevented them from realizing some of their anticipated project aims.
 
 <img src="{{ '/assets/img/project-images/2112G-fig1.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
+<i><a href="/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
 
 <img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
+<i><a href="/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
 
 Tribes and NEUs generally expressed appreciation for Treasury’s resources and responsiveness when they needed to submit spending reports on their use of funds. However, the desire for additional support early in the process was noted by a large number of NEUs, and representatives of both Tribes and NEUs experienced significant issues with registering for Treasury’s reporting portal. While the flexibility provided by the standard allowance in the Final Rule was welcome, both Tribes and NEUs expressed concern with the required frequency and extent of reporting that are required when receiving federal funding.
 
@@ -73,8 +73,8 @@ OES was able to match Help Desk tickets from 69% of Tribes and 42% of NEUs. Amon
 Figure 3 illustrates the prevalence of unidentified Help Desk accounts (in blue), and plots the cumulative proportion of Help Desk tickets submitted by individual recipients. As can be seen, nearly 40% of tickets are from unidentified accounts and cannot be matched. Focusing on accounts with names (in red), 10% of accounts contributed 40% of Help Desk tickets, 25% of accounts contributed 62% of Help Desk tickets, and 50% of accounts contributed 81% of Help Desk tickets, showing that a relatively small share of accounts contributed a large proportion of requests.
 
 <b>Figure 3.</b> <i>Cumulative Proportion of Help Desk Ticket Requests</i>
-<img src="{{ '/assets/img/project-images/2112G-fig3.png' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig3.png">Expand image</a></i>
+<img src="{{ '/assets/img/project-images/2112G-fig3.webp' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="/assets/img/project-images/2112G-fig3.webp">Expand image</a></i>
 
 Figure 4 shows Help Desk tickets that can be matched to Tribes (orange) and NEUs (green). Compared to the entire population of Help Desk tickets with names, among the matched population of Tribe and NEUs there is less overrepresentation of select Tribes and NEUs: 10% of Tribes and NEUs contributed about 30% of Tribes’ and NEUs’ Help Desk ticket submissions compared to 10% of accounts submitting 40% of tickets across all identified accounts. In the middle and low-end of Help Desk ticket submitters, Tribes and NEUs are comparable to the total identified population: 25% of Tribe and NEU accounts contribute about 60% of tickets, which closely mirrors the full identified population, and 50% of Tribe and NEU accounts contribute about 80% of Help Desk tickets, resembling the entire identified population. 
 
@@ -83,8 +83,8 @@ Overall, this analysis of the distribution of Help Desk tickets shows that, alth
 NEUs with greater budgets and allocation amounts tended to request more support from Treasury. On average, within states, a 1% increase in an NEU’s budget corresponds with 0.18 additional Help Desk tickets submitted (p <0.001; 95% CI [0.16, 0.20]). Results are comparable for NEU’s allocation amount, even when looking at the association on average within states.
 
 <b>Figure 4.</b> <i>Cumulative Proportion of Tribe and NEU Help Desk Ticket Submissions</i>
-<img src="{{ '/assets/img/project-images/2112G-fig4.png' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig4.png">Expand image</a></i>
+<img src="{{ '/assets/img/project-images/2112G-fig4.webp' | prepend: site.baseurl }}" alt="" width="1500">
+<i><a href="/assets/img/project-images/2112G-fig4.webp">Expand image</a></i>
 
 #### Efficiency of Help Desk System in Resolving Recipients’ Questions 
 The median closure time of Help Desk tickets ranged between 13-15 days for the entire recipient population, Tribes, and NEUs.¹¹ While 25% of all recipients had a closure time of three days or less, another 25% of recipients had a closure time of 30 days or more. Closure times were similar, on average, among the three types of recipients (Tribes, NEUs, and non-Tribes/NEUs). 
@@ -99,7 +99,7 @@ Tribes and NEUs that did not submit spending reports  on-time also filed more He
 
 <b>Figure 5.</b> <i>NEU Help Desk Tickets and Resolution Times Before and After the April 2022 Submission Deadline</i>
 <img src="{{ '/assets/img/project-images/2112G-fig5.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig5.svg">Expand image</a></i>
+<i><a href="/assets/img/project-images/2112G-fig5.svg">Expand image</a></i>
 
 ## Build Evidence
 Treasury and OES undertook this analysis early in the life cycle of the SLFRF program. Key findings from the study were that for many Tribes and NEUs, SLFRF was the first time that they received federal funding and there was uncertainty about the processes and potential requirements around receiving SLFRF funds. Tribe and NEU context varies widely, which created practical barriers for some Tribes’ and NEUs’ participation in the program. Both Tribes and NEUs expressed appreciation for the funding, the flexibility in how it can be used, and for the streamlined reporting requirements under the Final Rule. 

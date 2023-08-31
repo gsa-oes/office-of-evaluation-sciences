@@ -2,7 +2,7 @@
 layout: portfolio
 title: Small Business
 permalink: /small-business/
-image: /assets/img/project-images/othercollabs/2105-image.jpg
+image: /assets/img/project-images/othercollabs/2105-image.webp
 image_alt_text: Street view of stores
 hide_image: true
 year: 2021

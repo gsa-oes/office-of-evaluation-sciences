@@ -1,6 +1,6 @@
 ---
 name: Leah Lozier
-image: /assets/img/team/leah_lozier.jpg
+image: /assets/img/team/leah_lozier.webp
 year: 
   - 2015
 domain:

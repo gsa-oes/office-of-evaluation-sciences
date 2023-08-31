@@ -1,6 +1,6 @@
 ---
 name: Stephanie Tepper
-image: /assets/img/team/stephanie-tepper.jpg
+image: /assets/img/team/stephanie-tepper.webp
 year:
   - 2023
 home: University

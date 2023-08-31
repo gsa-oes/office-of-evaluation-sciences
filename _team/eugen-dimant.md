@@ -1,6 +1,6 @@
 ---
 name: Eugen Dimant
-image: /assets/img/team/eugen-dimant.jpg
+image: /assets/img/team/eugen-dimant.webp
 year:
   - 2022
 home: Government

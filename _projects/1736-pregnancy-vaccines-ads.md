@@ -4,7 +4,7 @@ permalink: /projects/pregnancy-vaccines-ads/
 tags:
   - project
   - vaccines
-image: /assets/img/project-images/1736.jpg
+image: /assets/img/project-images/1736.webp
 image_alt_text: Vaccines gov website
 image-credit: https://www.vaccines.gov/who_and_when/pregnant/index.html
 analysis-plan: /assets/analysis/1736-testing-maternal-immunization-messages-analysis-plan.pdf
@@ -25,7 +25,7 @@ The Department of Health and Human Services (HHS) wanted to strengthen maternal 
 
 The Office of Evaluation Sciences (OES) worked with NVPO to craft variations of a Facebook ad that targeted pregnant Facebook users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017.
 
-![image]({{site.baseurl}}/assets/img/project-images/1736-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1736-image.webp)
 
 ## How did the evaluation work?
 

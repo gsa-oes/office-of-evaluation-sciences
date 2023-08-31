@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-image: /assets/img/icons/oes-orange.jpg
+image: /assets/img/icons/oes-orange.webp
 hide_image: true
 summary: Our team posts updates on our collaborations, resources and evidence utilization. 
 ---

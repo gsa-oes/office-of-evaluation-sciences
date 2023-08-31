@@ -4,7 +4,7 @@ permalink: /projects/iff-confirmation-prompt-update/
 tags: 
   - project
   - payments
-image: /assets/img/project-images/IFF.jpg
+image: /assets/img/project-images/IFF.webp
 image_alt_text: Laptop on a desk
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-2-iff-confirmation-prompt-update-dec2021.pdf

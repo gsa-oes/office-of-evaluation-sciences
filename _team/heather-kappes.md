@@ -1,6 +1,6 @@
 ---
 name: Heather Kappes
-image: /assets/img/team/heather-kappes.png
+image: /assets/img/team/heather-kappes.webp
 year:
   - 2020
   - 2021

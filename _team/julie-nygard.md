@@ -1,6 +1,6 @@
 ---
 name: Julie Nygard
-image: /assets/img/team/julie-nygard.jpg
+image: /assets/img/team/julie-nygard.webp
 year: 2020
 agency:
   - Interior

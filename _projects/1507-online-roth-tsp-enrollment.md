@@ -4,7 +4,7 @@ permalink: /projects/online-tsp-enrollment/
 tags:
   - project
   - retirement
-image: /assets/img/project-images/roth-tsp-enrollment.jpg
+image: /assets/img/project-images/roth-tsp-enrollment.webp
 image_alt_text: Roth tsp enrollment
 abstract: /assets/abstracts/1507-Servicemember-TSP-Enrollment.pdf
 year: 2015

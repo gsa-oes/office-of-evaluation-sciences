@@ -30,7 +30,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
   <div class="grid-container padding-top-4 margin-top-4 border-top border-base-lighter">
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-3">
-        <img alt="Hand shake icon" src="{{ '/assets/img/icons/1.svg' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15">
+        <img alt="Hand shake icon" src="{{ '/assets/img/icons/1.svg' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 1: Partner with Federal Agencies to target priority outcomes</h3>
@@ -46,7 +46,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col-3">
         <img alt="Behavioral insights icon" 
           src="{{ '/assets/img/icons/2.svg' | prepend: site.baseurl }}"
-          class="display-block margin-x-auto square-15">
+          class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 2: Translate behavioral insights into concrete recommendations</h3>
@@ -61,7 +61,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col-3">
         <img alt="Embed evaluations icon" 
           src="{{ '/assets/img/icons/3.svg' | prepend: site.baseurl }}"
-          class="display-block margin-x-auto square-15">
+          class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 3: Embed evaluations</h3>
@@ -79,7 +79,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col-3">
         <img alt="Search icon" 
           src="{{ '/assets/img/icons/4.svg' | prepend: site.baseurl }}"
-          class="display-block margin-x-auto square-15">
+          class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 4: Analyze results utilizing existing administrative data</h3>
@@ -94,7 +94,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col-3">
         <img alt="Best practice icon" 
           src="{{ '/assets/img/icons/5.svg' | prepend: site.baseurl }}"
-          class="display-block margin-x-auto square-15">
+          class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 5: Ensure our work meets evaluation best practice</h3>
@@ -109,7 +109,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col-3">
         <img alt="Graph icon" 
           src="{{ '/assets/img/icons/6.svg' | prepend: site.baseurl }}"
-          class="display-block margin-x-auto square-15">
+          class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
         <h3>Step 6: Measure impact and build evidence to continuously improve</h3>

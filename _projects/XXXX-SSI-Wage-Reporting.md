@@ -5,7 +5,7 @@ tags:
   - project
   - cost savings
   - payments
-image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
+image: /assets/img/project-images/xxxx-ssi-wage-reporting.webp
 image_alt_text: Scrabble tiles spelling the word wage
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
@@ -24,7 +24,7 @@ Under the Supplemental Security Income (SSI) program, **recipients are required 
 
 This study tested whether **a behaviorally-informed letter would encourage SSI recipients to report any changes to their earnings in a more accurate and timely manner.** Four variations of a reminder letter were tested: 1) a basic letter with simple language about the need to report any information about earnings that might affect SSI payment amounts; 2) a social information letter that provided individuals with information about the actions or decisions of others; 3) a penalty salience letter that included additional language on the possible penalties from failure to report; and 4) a combination letter which included both behavioral components.
 
-![image]({{site.baseurl}}/assets/img/project-images/ssi-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/ssi-letter.webp)
 
 ## How did the evaluation work?
 
@@ -34,7 +34,7 @@ SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years 
 
 Three months after the intervention, **SSI recipients who received any letter were 34 percent more likely to have reported any earnings for the previous three months, and they reported about 55 percent more in countable income.** Based on the increase in the amount of countable income reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $5.91 per $1 spent by SSA.
 
-![image]({{site.baseurl}}/assets/img/project-images/graph-ssiwage.png)
+![image]({{site.baseurl}}/assets/img/project-images/graph-ssiwage.webp)
 
 <br>
 <p>

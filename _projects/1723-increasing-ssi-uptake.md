@@ -4,7 +4,7 @@ permalink: /projects/increasing-ssi-uptake/
 tags:
   - project
   - retirement 
-image: /assets/img/project-images/1723.jpg  
+image: /assets/img/project-images/1723.webp  
 image_alt_text: People sitting on bench with ocean in background
 image-credit: https://pixabay.com/photo-3113574/
 analysis-plan: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
@@ -26,13 +26,13 @@ The Social Security Administration (SSA) administers Supplemental Security Incom
 
 SSA identified over 4 million individuals age 65-80 who were potentially eligible for SSI, and sent one of four letter variations to a sub-sample of them. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1723-image.png)
+![image]({{site.baseurl}}/assets/img/project-images/1723-image.webp)
 
 ## How did the evaluation work?
 
 Individuals were randomly assigned to receive one of four letter types or to a control condition (i.e., no targeted information about potential SSI eligibility): (1) a basic letter; (2) a letter which states the maximum benefit; (3) a letter which states that applying is simple; (4) a letter combining the maximum benefit element and the “applying is simple” element. SSA sent 100,000 of each letter variation.
 
-![image]({{site.baseurl}}/assets/img/project-images/1723-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1723-graph.webp)
 
 ## What was the impact?
 
@@ -47,5 +47,5 @@ All of the letters had a large and statistically significant impact on applicati
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">click here</a>.</i>
 
 *Related Working Paper*<br>
-Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="https://oes.gsa.gov/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field
+Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field
 Experiment</a>." 2021.

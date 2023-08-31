@@ -2,7 +2,7 @@
 layout: page
 title: Evaluations
 permalink: /work/
-image: /assets/img/icons/oes-green.jpg
+image: /assets/img/icons/oes-green.webp
 hide_image: true
 tag: work
 summary: Since 2015, we have completed over 100 evaluations with dozens of agency partners.
@@ -29,7 +29,7 @@ filter_button_message: By year completed, status, project type, domain, and agen
 
 <img src="{{ '/assets/img/oes-project-process-line.svg' | prepend: site.baseurl }}" alt="1. Partner with federal agencies to target priority outcomes. 2. Translate evidence-based insights into concrete recommendations. 3. Embed evaluations. 4. Analyze results using existing administrative data. 5. Ensure our work meets evaluation best practice. 6. Mesure impact and generate evidence to continuously improve." width="1500">
 
-<!-- begin visually hidden alt text for oes-process-line.png -->
+<!-- begin visually hidden alt text for oes-process-line.webp -->
 <div class="usa-sr-only">
   <ol>
     <li><strong>Partner</strong> with Federal Agencies to target priority outcomes</li>
@@ -40,7 +40,7 @@ filter_button_message: By year completed, status, project type, domain, and agen
     <li><strong>Measure impact</strong> and generate evidence to continuously improve</li>
   </ol>
 </div>
-<!-- end visually hidden alt text for oes-process-line.png -->
+<!-- end visually hidden alt text for oes-process-line.webp -->
 
 <p><a class="usa-button" href="{{ '/projectprocess' | prepend: site.baseurl }}" target="_blank" title="Learn more">Learn more about our project process here</a>
 </p>

@@ -1,6 +1,6 @@
 ---
 name: Mindy Hernandez
-image: /assets/img/team/mindy_hernandez.jpg
+image: /assets/img/team/mindy_hernandez.webp
 year:
   - 2018
 agency:

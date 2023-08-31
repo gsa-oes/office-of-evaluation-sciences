@@ -4,7 +4,7 @@ permalink: /projects/patient-health-data-provider-encouragement/
 tags: 
   - project
   - healthit
-image: /assets/img/project-images/1729.jpg
+image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of laptop
 image-credit: https://www.flickr.com/photos/andyde/4762141677
 analysis-plan: /assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf
@@ -26,13 +26,13 @@ The Office of the National Coordinator for Health Information Technology (ONC) h
 
 ONC, Inova Health System, and OES designed an intervention to encourage physicians to place bulk orders for electronic blood glucose flow sheets for patients with diabetes. Providers were invited to attend a virtual training and offered in-person support, including a template for reaching out to patients.
 
-![image]({{site.baseurl}}/assets/img/project-images/1729-intervention-group.png)
+![image]({{site.baseurl}}/assets/img/project-images/1729-intervention-group.webp)
 
 ## How did the evaluation work?
 
 The intervention was tested using a cluster randomized controlled trial with 20 primary care practices, totaling 68 physicians and 7,052 patients. Inova, OES, and ONC randomly assigned physicians in ten primary care practices (34 doctors and 3,411 patients) to receive encouragement to place bulk orders for electronic blood glucose flow sheets. The remaining ten primary care practices (34 doctors and 3,641 patients) were assigned to the control condition of business as usual. The team used data from Inova electronic health records to compare (1) provider flow sheet orders, (2) patient flow sheet completion rates, and (3) changes to active medications made following the intervention.
 
-![image]({{site.baseurl}}/assets/img/project-images/1729-1-graph.jpg)
+![image]({{site.baseurl}}/assets/img/project-images/1729-1-graph.webp)
 
 ## What was the impact?
 

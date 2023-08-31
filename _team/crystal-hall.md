@@ -1,6 +1,6 @@
 ---
 name: Crystal Hall
-image: /assets/img/team/hall_crystal.jpg
+image: /assets/img/team/hall_crystal.webp
 year:
   - 2015
   - 2016

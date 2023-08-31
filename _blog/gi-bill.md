@@ -2,7 +2,7 @@
 layout: page
 title: Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans
 permalink: /blog/gi-bill-communication/
-image: /assets/img/project-images/1810.jpg
+image: /assets/img/project-images/1810.webp
 image_alt_text: Person filling out form
 hide_image: true
 tags: blog
@@ -13,7 +13,7 @@ summary:
 
 OES and the Veterans Benefits Administration in the Department of Veterans Affairs developed and <a href="https://oes.gsa.gov/projects/gi-bill-proactive-communication/" target="_blank">tested a proactive communication</a> to increase college enrollment for Post-9/11 GI Bill beneficiaries. This communication encouraged beneficiaries to enroll full-time and increase their enrollment intensity. It also provided information on accessing financial aid, and connected delays in degree completion with potential monetary impacts. 
 
-![image]({{site.baseurl}}/assets/img/project-images/blog2image1.png)
+![image]({{site.baseurl}}/assets/img/project-images/blog2image1.webp)
 
 "The VA continually looks for ways to improve our services to Veterans and help them use the benefits they have earned.  We were excited to work with the Office of Evaluation Services to assess opportunities to improve Veteran outcomes through low-cost, evidence building activities.  This initiative showed that getting timely information into Veterans hands can lead up to 3% of students to increase their enrollment, improving the chances they will complete their program before exhausting their GI Bill benefits." - Lucas Tickner, Education Service, Department of Veterans Affairs
 
@@ -21,7 +21,7 @@ Random assignment was used to place 100,908 actively enrolled degree-seeking, pa
 
 The results suggest that there was a small and statistically significant increase in the number of courses enrolled students who received the email took in the next semester, but no significant difference in their likelihood being enrolled full-time . Specifically, the proportion of full-time enrollment among  those receiving the proactive email was 0.753, compared to 0.746 for those who did not. **The difference represents a 1% increase in relative enrollment. **
 
-![image]({{site.baseurl}}/assets/img/project-images/blog2table1.png)
+![image]({{site.baseurl}}/assets/img/project-images/blog2table1.webp)
 
 *Table 1: Proactive Communication Significantly Increases College Enrollment for Post-9/11 GI Bill Beneficiaries*
 

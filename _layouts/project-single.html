@@ -9,7 +9,7 @@ class: page-project-single
 </div>
 
 <div class="grid-row grid-gap-lg">
-  <div class="tablet:grid-col-8">
+  <div class="tablet:grid-col-8 margin-bottom-2">
     <div class="usa-prose">
       {{ content }}
     </div>
@@ -37,31 +37,31 @@ class: page-project-single
   {% endif %}
   {% if page.analysis-plan %}
   <h3 class="h4">Resources</h3>
-    <a class="usa-button" href="{{ page.analysis-plan | prepend: site.baseurl }}" target="_blank">View Analysis Plan (PDF)</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.analysis-plan | prepend: site.baseurl }}" target="_blank">View Analysis Plan (PDF)</a>
   {% endif %}
-    <br><br>
+
   {% if page.abstract %}
-    <a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}" target="_blank">View Abstract (PDF)</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.abstract | prepend: site.baseurl }}" target="_blank">View Abstract (PDF)</a>
   {% endif %}
-    <br><br>
+
   {% if page.abstract-web %}
-    <a class="usa-button" href="{{ page.abstract-web | prepend: site.baseurl }}" target="_blank">View Abstract</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.abstract-web | prepend: site.baseurl }}" target="_blank">View Abstract</a>
   {% endif %}
-    <br><br>
+
   {% if page.intervention %}
-    <a class="usa-button" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
   {% endif %}
     
   {% if page.technical-appendix %}
-    <a class="usa-button" href="{{ page.technical-appendix | prepend: site.baseurl }}" target="_blank">View Technical Appendix (PDF)</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.technical-appendix | prepend: site.baseurl }}" target="_blank">View Technical Appendix (PDF)</a>
   {% endif %}
     
   {% if page.academic-pub %}
-    <a class="usa-button" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
   {% endif %}
     
   {% if page.academic-pub-web %}
-    <a class="usa-button" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
+    <a class="usa-button margin-bottom-2" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
   {% endif %}
   </div>
 </div>

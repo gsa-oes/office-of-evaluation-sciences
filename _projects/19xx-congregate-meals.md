@@ -2,7 +2,7 @@
 title: Increasing Voluntary Contributions at Congregate Meals Program Sites
 permalink: /collaborations/congregate-meals/
 tags: 
-image: /assets/img/project-images/othercollabs/congregate-meals-image.png
+image: /assets/img/project-images/othercollabs/congregate-meals-image.webp
 image_alt_text: Fruit and veg in the shape of a heart
 image-credit: https://pixy.org/1398140/ 
 abstract: /assets/abstracts/Abstract - Congregate Meals_2020-12-22.pdf

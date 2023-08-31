@@ -4,7 +4,7 @@ permalink: /projects/grace-period-student-borrowers/
 tags: 
   - project
   - highered
-image: /assets/img/project-images/student-loans4.jpg
+image: /assets/img/project-images/student-loans4.webp
 image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/whatcouldgowrong/
 abstract: /assets/abstracts/1513-Missed-Student-Loan-Payments.pdf

@@ -1,6 +1,6 @@
 ---
 name: Rekha Balu
-image: /assets/img/team/rekha_balu.jpg 
+image: /assets/img/team/rekha_balu.webp 
 year: 
   - 2019
   - 2020

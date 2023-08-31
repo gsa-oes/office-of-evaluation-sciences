@@ -4,7 +4,7 @@ permalink: /projects/health-insurance-enrollment-2/
 tags: 
   - project
   - health insurance
-image: /assets/img/project-images/enrollment2.jpg
+image: /assets/img/project-images/enrollment2.webp
 image_alt_text: People interacting with laptop
 image-credit: https://www.flickr.com/photos/dmc_heals/
 abstract: /assets/abstracts/1504-Federal-Health-Insurance-Marketplace-Enrollment.pdf
@@ -29,7 +29,7 @@ OES developed eight different letters to assist these individuals with completin
 
 811,795 individuals who had registered for a HealthCare.gov user account but not yet enrolled in an insurance plan were randomly assigned to be sent one of eight letter variants, or no letter at all.
 
-![image]({{site.baseurl}}/assets/img/project-images/1504-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1504-graph.webp)
 
 ## What was the impact?
 

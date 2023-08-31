@@ -5,7 +5,7 @@ tags:
   - project
 image: /assets/img/project-images/2101.jpeg
 image_alt_text: Business meeting
-image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.jpg
+image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.webp
 analysis-plan: /assets/analysis/2101 - 3 - Analysis Plan - Final.pdf
 abstract: /assets/abstracts/2101-abstract-gsa-policymakers.pdf
 year: 2021

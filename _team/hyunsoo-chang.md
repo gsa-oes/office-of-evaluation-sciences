@@ -1,6 +1,6 @@
 ---
 name: Hyunsoo Chang
-image: /assets/img/team/chang_hyun_soo.jpg
+image: /assets/img/team/chang_hyun_soo.webp
 year:
   - 2016
   - 2017

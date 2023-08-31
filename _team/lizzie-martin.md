@@ -1,6 +1,6 @@
 ---
 name: Lizzie Martin
-image: /assets/img/team/lizzie-martin.jpg
+image: /assets/img/team/lizzie-martin.webp
 year:
   - 2022
   - 2023

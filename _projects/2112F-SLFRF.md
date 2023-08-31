@@ -4,9 +4,9 @@ permalink: /projects/slfrf-reminders/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/2112F-SLFRF-image.jpg
+image: /assets/img/project-images/2112F-SLFRF-image.webp
 image_alt_text: Front of a building
-image-credit: https://commons.wikimedia.org/wiki/File:Highland_Park_July_2016_38_%28Highland_Park_Town_Hall%29.jpg
+image-credit: https://commons.wikimedia.org/wiki/File:Highland_Park_July_2016_38_%28Highland_Park_Town_Hall%29.webp
 analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112F-SLFRF-abstract.pdf
 intervention: /assets/interventions/2112DEF-intervention-pack.pdf
@@ -29,7 +29,7 @@ The Office of Evaluation Sciences (OES) and Treasury varied the number of remind
 ## What did we learn?
 This evaluation finds that receiving an additional reminder email did not have a statistically significant effect on NEUs’ report submission. Figure 1 shows the number of NEUs that submitted their spending reports on Treasury’s ARP Reporting and Compliance portal before and after the reminder email was sent.
 
-<img src="{{ '/assets/img/project-images/2112F-fig1.png' | prepend: site.baseurl }}" alt="A line graph showing that there was no statistically significant effect on report submission." width="1500">
+<img src="{{ '/assets/img/project-images/2112F-fig1.webp' | prepend: site.baseurl }}" alt="A line graph showing that there was no statistically significant effect on report submission." width="1500">
 <b>Figure 1.</b> <i>Numbers of NEUs that submitted reports on Treasury’s ARP Reporting and Compliance Portal</i>
 
 One implication of this study is that agencies can focus efforts on increasing the clarity and quality of communications, rather than being concerned that the quantity is too low or too high. However, when interpreting the results it is important to consider the proximity of the deadline, which may have dampened the effect of the reminders. Future work can also investigate whether there were differing trends in submission rates between the group receiving the reminder treatment and the control group - either before or after the deadline - but that were not discernible the day after the deadline.

@@ -5,7 +5,7 @@ tags:
   - collaborations
   - resources
   - climate
-image: /assets/img/project-images/othercollabs/noaa.png
+image: /assets/img/project-images/othercollabs/noaa.webp
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949analysis-plan 
 visualization: /assets/files/Knauss-Fellowship-process-map-long.pdf
 year: 2022

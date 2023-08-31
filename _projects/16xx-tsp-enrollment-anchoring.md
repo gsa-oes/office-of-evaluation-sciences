@@ -28,7 +28,7 @@ OES designed several versions of an email message about how and why to enroll in
 
 **Servicemembers were randomly assigned** to receive no email or one of nine different email messages. Their contributions to the TSP were compared using the next month’s payroll data. 
 
-![image]({{site.baseurl}}/assets/img/project-images/16xx-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/16xx-graph.webp)
 
 ## What was the impact?
 

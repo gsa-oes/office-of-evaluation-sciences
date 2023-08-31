@@ -3,9 +3,9 @@ title:  Using Social Norms to Decrease Energy Use in Public Housing
 permalink: /projects/energy-use-feedback/
 tags: 
   - project  
-image: /assets/img/project-images/1808.jpg  
+image: /assets/img/project-images/1808.webp  
 image_alt_text: Front of building
-image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.jpg 
+image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.webp 
 analysis-plan: /assets/analysis/1808-energy-use-feedback.pdf
 abstract: /assets/abstracts/1808 - Project Abstract HUD Energy.pdf
 year: 2019  
@@ -24,7 +24,7 @@ The Department of Housing and Urban Development (HUD) seeks to reduce energy use
 
 OES designed a series of four flyers to send to residents in New York City Housing Authority (NYCHA) apartments. The letters included individualized feedback on recent energy use, a comparison of energy use to the average apartment and to energy-efficient neighbors, and a normative statement based on residents’ relative energy use.
 
-![image]({{site.baseurl}}/assets/img/project-images/1808-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/1808-letter.webp)
 
 ## How did the evaluation work?
 

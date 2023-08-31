@@ -4,7 +4,7 @@ permalink: /projects/gi-bill-proactive-communication/
 tags: 
   - project  
   - highered
-image: /assets/img/project-images/1810.jpg
+image: /assets/img/project-images/1810.webp
 image-credit: U.S. Army photo by Nell King
 image_alt_text: U.S. Army Photo
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
@@ -28,7 +28,7 @@ At no material cost and minimal staff time, **OES collaborated with VA Education
 
 **Actively enrolled degree-seeking, part-time, and non active duty beneficiaries were randomly assigned** to one of two conditions: 1) no proactive communication; or 2) receive a proactive email encouraging an increased enrollment intensity. A total sample of 100,908 beneficiaries were randomized to the treatment condition (i.e. receiving an email). Emails were sent to 50,444 beneficiaries during the first week of July 2018. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1810-letter.png)
+![image]({{site.baseurl}}/assets/img/project-images/1810-letter.webp)
 
 ## What was the impact?
 
@@ -36,6 +36,6 @@ The results suggest that there was a small and statistically significant increas
 
 This collaboration adds to the growing body of evidence on the positive effect of proactive communications to increase postsecondary enrollment intensity. Beneficiaries not enrolled full-time who were sent an email enrolled in more credits during the fall term; however, at a small scale. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1810-graph.jpg)
+![image]({{site.baseurl}}/assets/img/project-images/1810-graph.webp)
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1810-analysis-plan.pdf">click here</a>.</i>

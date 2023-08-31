@@ -1,6 +1,6 @@
 ---
 name: David Yokum
-image: /assets/img/team/yokum_david.jpg
+image: /assets/img/team/yokum_david.webp
 year: 
   - 2013
   - 2014

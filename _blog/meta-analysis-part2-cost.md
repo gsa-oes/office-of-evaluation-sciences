@@ -2,7 +2,7 @@
 layout: page	
 title: What does it cost to incorporate behaviorally informed interventions within government programs?
 permalink: /blog/cost-analysis/	
-image: /assets/img/oes-banner-light.jpg
+image: /assets/img/oes-banner-light.webp
 image_alt_text: OES illustration
 hide_image: true
 year: 2022
@@ -16,7 +16,7 @@ A recent review of behaviorally informed interventions OES designed between 2015
 
 A vast majority of interventions — 92% — were of no, very low or low ongoing marginal cost to deliver. This assessment was based on the distribution approach for each intervention and assumptions about the relative cost of these various distribution types, as detailed below. Behavioral insights were most often applied through creation of a new message distribution; for example, a mailing campaign was added or a reminder text was introduced. While these interventions introduced variable ongoing costs, these were generally quite small. 
 
-![image]({{site.baseurl}}/assets/img/project-images/table-oes-cost-analysis.png)
+![image]({{site.baseurl}}/assets/img/project-images/table-oes-cost-analysis.webp)
 
 One example of an opportunity for applying behavioral insights at no ongoing marginal cost is the introduction of prompts to guide users in an online system. In 2015, <a href="https://oes.gsa.gov/projects/iff-reporting-errors/" target="_blank">OES designed an electronic signature box</a> for GSA’s online sales reporting portal, aimed at improving accuracy and reducing errors. As a result of this change — which incurred no ongoing cost for the agency — portal users more accurately reported sales; the median self-reported sales amount was $445 higher for vendors using the behaviorally informed signature prompt, translating into an extra $1.59 million paid to the government in one single quarter.  
 

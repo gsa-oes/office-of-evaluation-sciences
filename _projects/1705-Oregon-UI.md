@@ -2,7 +2,7 @@
 title:  Improving employment services for UI claimants in Oregon
 permalink: /projects/Oregon-UI/
 tags: project  
-image: /assets/img/project-images/1705-Oregon-UI.jpg  
+image: /assets/img/project-images/1705-Oregon-UI.webp  
 image_alt_text: unemployment ensurance office sign on door
 image-credit: https://www.flickr.com/photos/bytemarks/5409428957
 analysis-plan: /assets/analysis/1705-Oregon-UI.pdf
@@ -23,8 +23,8 @@ The U.S. Department of Labor Employment and Training Administration’s core goa
 
 Oregon required job seekers to complete a structured, four-week Personal Employment Plan (PEP). The plan encouraged job seekers to think more expansively about their job search and develop implementation intentions. Additionally, Oregon mailed job seekers information with the standard welcome letter to encourage job seekers to think of WorkSource job centers as a supportive resource and sent a series of up to 12 bi-weekly emails that included tips to enhance customers’ job searches, reminders to follow and add to their PEP, and motivational quotes. 
 
-![image]({{site.baseurl}}/assets/img/project-images/1705-image.png)
-![image]({{site.baseurl}}/assets/img/project-images/1705-image2.png)
+![image]({{site.baseurl}}/assets/img/project-images/1705-image.webp)
+![image]({{site.baseurl}}/assets/img/project-images/1705-image2.webp)
 
 ## How did the evaluation work?
 

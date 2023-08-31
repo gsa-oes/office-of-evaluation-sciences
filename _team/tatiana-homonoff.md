@@ -1,6 +1,6 @@
 ---
 name: Tatiana Homonoff
-image: /assets/img/team/tatiana_homonoff.jpg
+image: /assets/img/team/tatiana_homonoff.webp
 year: 
   - 2016
 domain:

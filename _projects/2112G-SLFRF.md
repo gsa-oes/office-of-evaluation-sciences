@@ -4,7 +4,7 @@ permalink: /projects/slfrf-tribal-govs-neus/
 tags: 
  - project
  - arp
-image: /assets/img/project-images/2112G-image.jpg
+image: /assets/img/project-images/2112G-image.webp
 image_alt_text: Residential street
 image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=391292&picture=street-in-a-town
 analysis-plan: /assets/analysis/2112G-3-analysis-plan.pdf
@@ -34,17 +34,17 @@ The Office of Evaluation Sciences (OES) and Treasury collaborated to understand 
 The qualitative analysis revealed that there is significant variation among Tribes and NEUs, which created potential challenges for some Tribes and NEUs as they worked to allocate and report on their use of funds. Local contexts range from remote locations, where costs are high, there are no dedicated administrative staff, materials/contractors are scarce, and internet connectivity is limited, to large and prosperous urban jurisdictions with dedicated administrative staff. Many Tribes and NEUs shared that they felt concerned about receiving and misspending federal funds. Tribes and NEUs relied on Treasury’s resources to learn about and implement SLFRF. And, although many NEUs and Tribes experienced challenges with registering for Treasury’s reporting portal, they appreciated the support provided by Treasury and, once in the system, most found reporting to be straightforward – largely owing to Treasury’s streamlined reporting requirements. 
 
 <img src="{{ '/assets/img/project-images/2112G-fig1.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<br><i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
+<br><i><a href="/assets/img/project-images/2112G-fig1.svg">Expand image</a></i>
 
 <img src="{{ '/assets/img/project-images/2112G-fig2.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<br><i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
+<br><i><a href="/assets/img/project-images/2112G-fig2.svg">Expand image</a></i>
 
 ### Quantitative results
 The quantitative results support the qualitative findings showing that Tribes and NEUs are diverse, with average population sizes of 48,758 and 27,064, respectively. Tribes and NEUs submitted a significant number of Help Desk requests for technical support from Treasury, reflecting the challenges they experienced when registering and submitting their spending reports. On average, Tribes submitted six Help Desk tickets, NEUs submitted three, and other recipients submitted four. At the same time, not all Tribes and NEUs required the same level of support, as about 30% of all Help Desk tickets submitted by Tribes or NEUs came from just 10% of Tribes and NEUs. Despite the apparent challenges Tribes and NEUs faced submitting these reports, Treasury was able to respond to questions with sufficient expediency to not cause bottlenecks. As shown in Figure 3, about 60% and 70% of all Help Desk tickets were submitted within 20 days of the April spending report deadline, but Treasury was largely able to sustain Help Desk support for recipients despite the large surges in demand around key deadlines. 
 
 <b>Figure 3.</b><i> NEU Help Desk Tickets and Resolution Times Before and After the April 2022 Submission Deadline</i> 
 <br><img src="{{ '/assets/img/project-images/2112G-fig5.svg' | prepend: site.baseurl }}" alt="" width="1500">
-<br><i><a href="https://oes.gsa.gov/assets/img/project-images/2112G-fig3.svg">Expand image</a></i>
+<br><i><a href="/assets/img/project-images/2112G-fig3.svg">Expand image</a></i>
 
 Note: Blue markers represent the average number of new Help Desk ticket submissions per day, where days are centered relative to the April 2022 deadline grantees had to submit spending reports; markers are connected by a LOWESS line. Red markers represent the average number of days it took Treasury to close Help Desk ticket submissions per day of ticket submission, again centered relative to the April 2022 deadline. 
 

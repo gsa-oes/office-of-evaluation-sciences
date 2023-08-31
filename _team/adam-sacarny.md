@@ -1,6 +1,6 @@
 ---
 name: Adam Sacarny
-image: /assets/img/team/adam_sacarny.jpg
+image: /assets/img/team/adam_sacarny.webp
 year: 
   - 2016
   - 2017

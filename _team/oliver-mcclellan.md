@@ -1,6 +1,6 @@
 ---
 name: Oliver McClellan
-image: /assets/img/team/oliver-mcclellan.jpg
+image: /assets/img/team/oliver-mcclellan.webp
 year:
   - 2022
   - 2023

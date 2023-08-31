@@ -1,6 +1,6 @@
 ---
 name: Kelly Bidwell
-image: /assets/img/team/bidwell_kelly.jpg
+image: /assets/img/team/bidwell_kelly.webp
 year:
   - 2013
   - 2014

@@ -4,7 +4,7 @@ permalink: /projects/increasing-tsp-enrollment/
 tags:
   - project
   - retirement 
-image: /assets/img/project-images/1724.jpg
+image: /assets/img/project-images/1724.webp
 image_alt_text: Glasses on top of document
 image-credit: https://www.flickr.com/photos/120360673@N04/13856204644
 analysis-plan: /assets/analysis/1724-increasing-tsp-enrollment-usps.pdf

@@ -2,7 +2,7 @@
 title: Improving Voter Participation in Local USDA Elections
 permalink: /projects/usda-local-elections/
 tags: project
-image: /assets/img/project-images/usda.jpg
+image: /assets/img/project-images/usda.webp
 image_alt_text: Tracktor in field
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1613-Local-USDA-Elections.pdf
@@ -26,7 +26,7 @@ OES redesigned ballot materials applying research insights, including clarifying
 
 1,399,307 voters received postcard reminders, redesigned ballots and envelopes listing the names of the candidates, or the older versions of the envelopes and ballots (and no postcards).
 
-![image]({{site.baseurl}}/assets/img/project-images/1613-graph.png)
+![image]({{site.baseurl}}/assets/img/project-images/1613-graph.webp)
 
 ## What was the impact?
 
