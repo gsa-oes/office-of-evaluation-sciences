@@ -13,7 +13,7 @@ summary:
 <a class="usa-button" href="/assets/abstracts/1902-increasing-participation-in-ttw-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
-Redesigning mailers to highlight clearer action steps modestly increased calls to a helpline, but did not increase program participation. 
+Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls. 
 
 ## Target a priority outcome
 The Social Security Administration’s Ticket to Work (TTW) program is a federally funded program that provides employment services for people ages 18 through 64 who receive Social Security disability benefits and want to work.<sup>1</sup> TTW aims to provide beneficiaries the choices, opportunities, and support they need to enter the workforce and maintain employment with the goal of becoming economically self-supporting over time. Employment service providers — Vocational Rehabilitation agencies and authorized Employment Networks — offer support such as career counseling, job search assistance, and job training, and are paid by the program when their TTW clients meet employment-related outcomes. Program participation remains low: only an estimated 5% or less of eligible beneficiaries have “assigned a Ticket” (made an agreement with an employment service provider) since program inception.<sup>2</sup> This evaluation helps address SSA’s Fiscal Year 2023 Evaluation Plan Ticket to Work Optimization project, which poses the evaluation question: “What is the impact of improved communications with disability beneficiaries who are eligible to participate in the Ticket to Work (TTW) program on program participation?”
