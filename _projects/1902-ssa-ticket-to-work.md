@@ -2,7 +2,6 @@
 title: Increasing participation in Ticket to Work through redesigned mailers
 permalink: /projects/ticket-to-work/
 tags: 
-  - cost savings
   - project
 image: /assets/img/project-images/1902-ticket-to-work.jpeg
 image_alt_text: people at an office meeting
