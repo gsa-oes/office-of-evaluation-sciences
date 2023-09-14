@@ -17,7 +17,6 @@ domain:
 agency: Treasury
 status: Complete
 featured:
-- homepage
 - services
 ---
 
