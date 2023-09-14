@@ -22,7 +22,7 @@ featured:
   - services
 ---
 
-## What is the agency priority? 
+## What is the agency priority?
 The Social Security Administration’s Ticket to Work (TTW) program is a federally funded program that provides employment services for people ages 18 through 64 who receive Social Security disability benefits and want to work. Employment service providers — Vocational Rehabilitation agencies and authorized Employment Networks — are paid through the program to offer support such as career counseling, job search assistance, and job training. SSA wanted to identify ways to encourage more eligible beneficiaries to participate in TTW.
 
 ## What was the program change?
