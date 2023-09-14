@@ -70,5 +70,5 @@ This evaluation points towards opportunities for further research, such as explo
 3. <a href="https://www.mathematica.org/publications/characteristics-employment-and-sources-of-support-among-workingage-ssi-and-di-beneficiaries">Mathematica. Characteristics, Employment, and Sources of Support Among Working-Age SSI and DI Beneficiaries. April 30th, 2009.</a>
 4. Office of Evaluation Sciences. How to design effective communications: What has OES learned? Bhargava, S., & Manoli, D. (2015). Psychological frictions and the incomplete take-up of social benefits: Evidence from an IRS field experiment. _American Economic Review_, 105(11), 3489-3529.
 5. These cardstock Tickets were included in the original TTW mailings, but were eliminated due to budget constraints. The alternative (status quo) is a paper Ticket including more text.
-6. hese sample sizes incorporate exclusions due to unanticipated missing data and logistical issues. Analyses that handle those issues differently yield similar findings.
+6. These sample sizes incorporate exclusions due to unanticipated missing data and logistical issues. Analyses that handle those issues differently yield similar findings.
 7. All statistically significant results we report remain so after applying our <a href="https://oes.gsa.gov/assets/analysis/1902-analysis-plan.pdf">pre-registered</a> multiple testing correction.
