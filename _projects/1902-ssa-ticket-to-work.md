@@ -16,7 +16,7 @@ type: Program Change and Evaluation
 domain: Economic Opportunity, Employment, Health
 status: Complete
 agency: Social Security Administration
-summary: Redesigned mailers increased calls to a helpline, but did not increase program take-up
+summary: Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls
 featured: 
   - homepage
   - services
