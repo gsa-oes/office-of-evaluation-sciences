@@ -10,7 +10,7 @@ summary:
 
 ---
 <br>
-<a class="usa-button" href="/assets/abstracts/1902-increasing-participation-in-ttw-abstract" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="/assets/abstracts/1902-increasing-participation-in-ttw-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
 Redesigning mailers to highlight clearer action steps modestly increased calls to a helpline, but did not increase program participation. 
