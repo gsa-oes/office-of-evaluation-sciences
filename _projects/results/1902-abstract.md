@@ -28,38 +28,37 @@ We then designed an intervention consisting of redesigned mailers (notices and c
 We redesigned the standard TTW notice to provide less information more concisely (simplification), provide beneficiaries a clearer outline of action steps (implementation prompts), highlight the benefits of TTW participation up front (salience), emphasize that beneficiaries already qualify (endowment effect), and treat beneficiaries as ready to return to work (positive identity priming). We made similar revisions to the paper Ticket, replacing it with a more durable and eye-catching cardstock Ticket. Its format — small and easily posted on a refrigerator or bulletin board — also makes key information about the program easier to save and access later.
 
 ## Embed evaluation
-In three individual-level randomized trials, we evaluated changes to TTW notices including their timing, the type sent, and the language used across a combined sample of 934,611 beneficiaries. Treatment assignment was based on the two terminal digits of a person’s Social Security
-number (SSN).
+In three individual-level randomized trials, we evaluated changes to TTW notices including their timing, the type sent, and the language used across a combined sample of 934,611 beneficiaries. Treatment assignment was based on the two terminal digits of a person’s Social Securitynumber (SSN).
+
 The evaluation was conducted over 18 months, from September 2020 through February 2022, and involved three simultaneous randomized control trials with distinct populations:
-Startup Cohort: Startup cohort (newly eligible for TTW; n = 282,026)
-One Year Cohort: 1-year anniversary (already contacted once; n = 302,981)
-Two Year Cohort: 2-year anniversary (already contacted twice and not contacted under business as usual;
+<b>1. Startup Cohort:</b> Startup cohort (newly eligible for TTW; n = 282,026)
+<b>2. One Year Cohort:</b> 1-year anniversary (already contacted once; n = 302,981)
+<b>3. Two Year Cohort:</b> 2-year anniversary (already contacted twice and not contacted under business as usual;
 n = 349,604)
+
 The evaluation has a 2 x 2 factorial design for the Startup and One Year Cohorts, where we varied both the notice (redesigned or original notice) and the cardstock Ticket (included or not). Beneficiaries were assigned with equal probability across the four treatment groups. 
-For the Two Year Cohort, we replaced the three-year notice with a redesigned notice at
-two years post-award, and beneficiaries were assigned to either a treatment group (receiving both the redesigned notice and the cardstock Ticket) or a control group (no mailing) with roughly equal probability.
+
+For the Two Year Cohort, we replaced the three-year notice with a redesigned notice at two years post-award, and beneficiaries were assigned to either a treatment group (receiving both the redesigned notice and the cardstock Ticket) or a control group (no mailing) with roughly equal probability.
 
 ## Analyze using existing data
 The effectiveness of the revised notices were measured by Ticket assignments and Helpline calls. We used SSA call-center records and data from SSA's Completed Determination Record (also known as the “Disability Control File”) to calculate Ticket assignments and Helpline calls within 9 months after mailings were sent. We used SSA's Characteristic Extract Record and Disabled Beneficiary and Dependents Extract for information on beneficiary characteristics.
-Figure 1. Baseline Ticket assignment and Helpline call rates are low
+
+<b>Figure 1.</b> Baseline Ticket assignment and Helpline call rates are low
+<img src="{{ '/assets/img/project-images/1902_baseline_plot.svg' | prepend: site.baseurl }}" alt="Baseline Ticket assignment and Helpline call rates are low" width="1500">
 
 ## Results
-The redesigned notice did not have statistically significant effects on Ticket assignments after 9 months: a 0.05 percentage point increase in the Startup Cohort (p = 0.31, 95% CI [-0.04, 0.13]) and a 0.02 percentage point increase in the Two Year Cohort (p = 0.68, 95% CI [-0.06, 0.10]). Yet, it did have modest, statistically significant effects on Helpline calls: a 0.28 percentage point increase in the Startup Cohort (p = <0.001, 95% CI [0.18, 0.38]) and a 0.36 percentage point increase in the Two Year Cohort (p = <0.001, 95% CI [0.28, 0.45]). These represent meaningful increases given baseline rates of 1.82% and 1.37%, respectively.
-The cardstock Ticket did not have statistically significant effects on Ticket assignments after 9 months: a 0.02 percentage point decrease in the Startup Cohort (p = 0.62, 95% CI [-0.11, 0.07]) and 0.05 percentage point increase in the One Year Cohort (p = 0.20, 95% CI [-0.03, 0.13]). It also had insignificant effects on Helpline calls: a 0.01 percentage point increase in the Startup Cohort (p = 0.83, 95% CI [-0.09, 0.11]) and a 0.04 percentage point decrease (p = 0.38, 95% CI [-0.13, 0.05]) in the Two Year Cohort.
-Sending a mailing two years after initial benefit award did not have statistically significant effects on Ticket assignments after 9 months: a 0.05 percentage point increase (p = 0.24, 95% CI [-0.03, 0.13]). However, it had a statistically significant effect on Helpline calls: a 0.73 percentage point increase (p < 0.001, 95% CI [0.65, 0.80]), relative to a baseline of 0.54 percentage points.
+<b>The redesigned notice did not have statistically significant effects on Ticket assignments after 9 months:</b> a 0.05 percentage point increase in the Startup Cohort (p = 0.31, 95% CI [-0.04, 0.13]) and a 0.02 percentage point increase in the Two Year Cohort (p = 0.68, 95% CI [-0.06, 0.10]). Yet, it did have modest, statistically significant effects on Helpline calls: a 0.28 percentage point increase in the Startup Cohort (p = <0.001, 95% CI [0.18, 0.38]) and a 0.36 percentage point increase in the Two Year Cohort (p = <0.001, 95% CI [0.28, 0.45]). These represent meaningful increases given baseline rates of 1.82% and 1.37%, respectively.
 
-Figure 2. Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls
-<img src="{{ '/assets/img/project-images/1902_summary_plot.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
-HAF applications" width="1500">
+<b>The cardstock Ticket did not have statistically significant effects on Ticket assignments after 9 months:</b> a 0.02 percentage point decrease in the Startup Cohort (p = 0.62, 95% CI [-0.11, 0.07]) and 0.05 percentage point increase in the One Year Cohort (p = 0.20, 95% CI [-0.03, 0.13]). It also had insignificant effects on Helpline calls: a 0.01 percentage point increase in the Startup Cohort (p = 0.83, 95% CI [-0.09, 0.11]) and a 0.04 percentage point decrease (p = 0.38, 95% CI [-0.13, 0.05]) in the Two Year Cohort.
 
-<b>Figure 1.</b> *Percentage of households that initiated HAF applications*
-<img src="{{ '/assets/img/project-images/1902_baseline_plot.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
-HAF applications" width="1500">
+<b>Sending a mailing two years after initial benefit award did not have statistically significant effects on Ticket assignments after 9 months:</b> a 0.05 percentage point increase (p = 0.24, 95% CI [-0.03, 0.13]). However, it had a statistically significant effect on Helpline calls: a 0.73 percentage point increase (p < 0.001, 95% CI [0.65, 0.80]), relative to a baseline of 0.54 percentage points.
+
+<b>Figure 2.</b> Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls
+<img src="{{ '/assets/img/project-images/1902_summary_plot.svg' | prepend: site.baseurl }}" alt="Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls" width="1500">
 
 ## Build evidence
-SSA will continue using the redesigned notice when sharing information about TTW with SSDI and SSI beneficiaries 2, 12, and 36 months after their initial disability award (about 570,000 people annually). SSA may not invest in the cardstock Ticket in the future, given that it did not
-improve either outcome and is more expensive
-to distribute.
+SSA will continue using the redesigned notice when sharing information about TTW with SSDI and SSI beneficiaries 2, 12, and 36 months after their initial disability award (about 570,000 people annually). SSA may not invest in the cardstock Ticket in the future, given that it did not improve either outcome and is more expensive to distribute.
+
 This evaluation points towards opportunities for further research, such as exploring why people might call the Helpline but not take up the program, exploring the impacts of redesigned TTW mailings over longer follow-up periods, or exploring how the economic impact of public emergencies such as the COVID-19 pandemic affects outreach programs. One of our pre-registered exploratory analyses suggests that sending the Two Year Cohort mailing may have increased Ticket assignments among those in counties with very high unemployment, while increasing the effect on Helpline calls.
 
 *Notes:*
