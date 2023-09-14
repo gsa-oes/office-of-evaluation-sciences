@@ -33,7 +33,9 @@ In three individual-level randomized trials, we evaluated changes to TTW notices
 The evaluation was conducted over 18 months, from September 2020 through February 2022, and involved three simultaneous randomized control trials with distinct populations:
 
 1 <b>1. Startup Cohort:</b> Startup cohort (newly eligible for TTW; n = 282,026)
+
 2 <b>2. One Year Cohort:</b> 1-year anniversary (already contacted once; n = 302,981)
+
 3 <b>3. Two Year Cohort:</b> 2-year anniversary (already contacted twice and not contacted under business as usual;
 n = 349,604)
 
