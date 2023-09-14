@@ -8,7 +8,6 @@ image: /assets/img/project-images/1902-ticket-to-work.jpeg
 image_alt_text: people at an office meeting
 image-credit: https://www.nypl.org/blog/2015/06/24/employment-services-disabilities
 analysis-plan: /assets/analysis/1902-analysis-plan.pdf
-abstract: /results/opioid-buyback/
 abstract-web: /results/slfrf-tribal-govs-neus/
 behavioral-map: /assets/files/1902-increasing-participation-in-ttw-behavioral-map.pdf
 intervention: /assets/files/1902-increasing-participation-in-ttw-intervention-pack.pdf
