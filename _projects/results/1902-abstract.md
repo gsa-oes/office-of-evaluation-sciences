@@ -9,7 +9,7 @@ image-credit: https://unsplash.com/photos/7DziDCBnhiE
 summary: 
 
 ---
-<a href="/assets/abstracts/1902-increasing-applications-to-the-homeowner-assistance-fund-abstract.pdf">View the pdf version</a>
+<a href="/assets/abstracts/1902-increasing-participation-in-ttw-abstract.pdf">View the pdf version</a>
 ## Key findings
 Redesigning mailers to highlight clearer action steps modestly increased calls to a helpline, but did not increase program participation. 
 
@@ -47,10 +47,11 @@ The cardstock Ticket did not have statistically significant effects on Ticket as
 Sending a mailing two years after initial benefit award did not have statistically significant effects on Ticket assignments after 9 months: a 0.05 percentage point increase (p = 0.24, 95% CI [-0.03, 0.13]). However, it had a statistically significant effect on Helpline calls: a 0.73 percentage point increase (p < 0.001, 95% CI [0.65, 0.80]), relative to a baseline of 0.54 percentage points.
 
 Figure 2. Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls
- 
+<img src="{{ '/assets/img/project-images/1902_summary_plot.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
+HAF applications" width="1500">
 
 <b>Figure 1.</b> *Percentage of households that initiated HAF applications*
-<img src="{{ '/assets/img/project-images/2206-image.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
+<img src="{{ '/assets/img/project-images/1902_baseline_plot.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
 HAF applications" width="1500">
 
 ## Build evidence
