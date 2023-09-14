@@ -10,8 +10,8 @@ image-credit: https://www.nypl.org/blog/2015/06/24/employment-services-disabilit
 analysis-plan: /assets/analysis/1902-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 abstract-web: /results/slfrf-tribal-govs-neus/
-behavioral-map: /assets/files/Knauss-Fellowship-process-map-long.pdf
-intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
+behavioral-map: /assets/files/1902-increasing-participation-in-ttw-behavioral-map.pdf
+intervention: /assets/files/1902-increasing-participation-in-ttw-intervention-pack.pdf
 year: 2023
 type: Program Change and Evaluation
 domain: Economic Opportunity, Employment, Health
