@@ -63,5 +63,9 @@ class: page-project-single
   {% if page.academic-pub-web %}
     <a class="usa-button margin-bottom-2" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
   {% endif %}
+
+  {% if page.behavioral-map %}
+  <a class="usa-button" href="{{ page.behavioral-map | prepend: site.baseurl }}" target="_blank">View Behavioral Map (PDF)</a>
+{% endif %}
   </div>
 </div>
