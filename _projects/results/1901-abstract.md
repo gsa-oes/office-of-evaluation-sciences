@@ -36,8 +36,7 @@ In other words, targeting incentives to those predicted most at risk of nonrespo
 
 <b>Figure 1.</b> Targeting incentives increased the response rate relative to allocating incentives totally at random
 <img src="{{ '/assets/img/project-images/1902_baseline_plot.svg' | prepend: site.baseurl }}" alt="Targeting incentives increased the response rate relative to allocating incentives totally at random" width="1500">
-
-Note: Asterisk indicates p < 0.05
+_Note: Asterisk indicates p < 0.05_
 
 Regarding nonresponse bias, a test of the joint statistical significance of differences across the ten key attributes produced a p-value of 0.42. Any small differences we observed could thus have been produced by random chance. Targeting for predicted nonresponse did not measurably improve or worsen nonresponse bias. 
 
@@ -51,12 +50,10 @@ Future evaluations could explore alternative targeting strategies such as whethe
 2. Standards and Guidelines for Statistical Surveys.
 3. See here for noninterview adjustment factor (NAF) and raking methods.
 4. See the full report for an example.
-5. Financial incentives: Mercer, Andrew, Andrew Caporaso, David Cantor, and Reanne Townsend. 2015. “How Much Gets
-You How Much? Monetary Incentives and Response Rates in Household Surveys,” Public Opinion Quarterly 79, no. 1 (January): 105–129. Targeting: Jackson, Michael T., Cameron B. McPhee, and Paul J. Lavrakas. 2020. “Using Response Propensity Modeling to Allocate Noncontingent Incentives in an Address-Based Sample: Evidence from a National Experiment” Journal of Survey Statistics and Methodology 8, no. 2 (April): 385–411.
+5. Financial incentives: Mercer, Andrew, Andrew Caporaso, David Cantor, and Reanne Townsend. 2015. “How Much Gets You How Much? Monetary Incentives and Response Rates in Household Surveys,” _Public Opinion Quarterly_ 79, no. 1 (January): 105–129. Targeting: Jackson, Michael T., Cameron B. McPhee, and Paul J. Lavrakas. 2020. “Using Response Propensity Modeling to Allocate Noncontingent Incentives in an Address-Based Sample: Evidence from a National Experiment” _Journal of Survey Statistics and Methodology_ 8, no. 2 (April): 385–411.
 6. The U.S. Census Bureau reviewed this data product for unauthorized disclosure of confidential information and approved the disclosure avoidance practices applied to this release. (Data Management System (DMS) number: P-1234567, Disclosure Review Board (DRB) approval number: CBDRB-FY22-349). The counts are rounded according to Census Bureau entity count rounding rules. 
 7. See full report for details on the letter, study design, and methods.
 8. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an analysis plan.
 9. Specifically, we employed a two-step procedure. First, we estimated the joint statistical significance of differences between respondents in the targeted and non-targeted groups across ten key attributes measuring demographics and housing quality issues. Conditional on finding the differences were jointly significant in an F-test, the second planned step involved measuring whether the attributes in the targeting group moved closer to population benchmarks in the Decennial Census and American Community Survey.
 10. The full list of attributes is: own house (no; yes with mortgage/loan; yes with no mortgage/loan); average household size; white alone (householder); age (householder); presence of rodents; presence of mold; Census division; HUD-assisted unit as of 2013; metropolitan area as of 2013; type of housing unit.
 11. The p-value is derived using the pre-registered randomization inference procedure. See analysis plan and full report.
-
