@@ -4,7 +4,7 @@ layout: page
 permalink: /results/incentives-to-reduce-nonresponse-bias-ahs/
 tags: 
   - abstract
-image: /assets/img/project-images/1901-image.webp
+image: /assets/img/project-images/1901-nrb.webp
 image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.webp
 summary: 
 
