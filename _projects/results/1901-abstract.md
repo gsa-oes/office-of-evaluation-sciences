@@ -1,7 +1,7 @@
 ---
 title: Using incentives to reduce nonresponse bias in the American Housing Survey
 layout: page
-permalink: /results/increasing-participation-in-ticket-to-work/
+permalink: /results/incentives-to-reduce-nonresponse-bias-ahs/
 tags: 
   - abstract
 image: /assets/img/project-images/1901-image.webp
