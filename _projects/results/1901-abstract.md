@@ -36,6 +36,7 @@ In other words, targeting incentives to those predicted most at risk of nonrespo
 
 <b>Figure 1.</b> Targeting incentives increased the response rate relative to allocating incentives totally at random
 <img src="{{ '/assets/img/project-images/1901-analysis-2-responds-abs.svg' | prepend: site.baseurl }}" alt="Targeting incentives increased the response rate relative to allocating incentives totally at random" width="1500">
+
 _Note: Asterisk indicates p < 0.05_
 
 Regarding nonresponse bias, a test of the joint statistical significance of differences across the ten key attributes produced a p-value of 0.42. Any small differences we observed could thus have been produced by random chance. Targeting for predicted nonresponse did not measurably improve or worsen nonresponse bias. 
