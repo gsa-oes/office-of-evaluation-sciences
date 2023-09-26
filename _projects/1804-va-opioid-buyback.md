@@ -1,10 +1,10 @@
 ---
-title: Enhancing the Effect of Cash Buyback on Return of Unused Opioids
+title: Enhancing the effect of cash buyback on the return of unused opioids
 permalink: /projects/opioid-buyback/
 tags: 
   - project
 image: /assets/img/project-images/1804.webp
-image_alt_text: Pills container
+image_alt_text: Pill container
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
@@ -16,7 +16,6 @@ domain: Health
 agency: Veterans Affairs
 summary: Reminder cards increased the return of unused prescription opioids
 featured: 
-  - homepage
   - services
 
 ---
