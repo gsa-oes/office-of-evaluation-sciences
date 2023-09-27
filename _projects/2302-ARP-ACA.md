@@ -34,8 +34,8 @@ Interventions providing enrollment support tended to be more effective than thos
 From this, we learned that outreach interventions can increase take-up. Increasing enrollment through addressing administrative burdens will be most effective when focused on providing information and support, rather than information alone.
 
 _Notes:_
-1. Ortaliza, Jared, Krutika Amin, Cynthia Cox. As ACA Marketplace enrollment reaches record high, fewer are buying individual market coverage elsewhere. 2023. KFF.
-2. McDermott, Daniel, Cynthia Cox. A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act. 2021. KFF.
-3. Tolber, Jennifer, Meghana Ammula. 10 things to know about the unwinding of the Medicaid Continuous Enrollment Provision. 2023. KFF.
+1. Ortaliza, Jared, Krutika Amin, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/as-aca-marketplace-enrollment-reaches-record-high-fewer-are-buying-individual-market-coverage-elsewhere/">As ACA Marketplace enrollment reaches record high, fewer are buying individual market coverage elsewhere.</a> 2023. KFF. 
+2. McDermott, Daniel, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/a-closer-look-at-the-uninsured-marketplace-eligible-population-following-the-american-rescue-plan-act/">A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act.</a> 2021. KFF.
+3. Tolber, Jennifer, Meghana Ammula. <a class="usa-link usa-link--external" href="https://www.kff.org/medicaid/issue-brief/10-things-to-know-about-the-unwinding-of-the-medicaid-continuous-enrollment-provision/#two">10 things to know about the unwinding of the Medicaid Continuous Enrollment Provision.</a> 2023. KFF.
 
 Verify the upload date of our analysis plan on <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2302-ARP-ACA-analysis.pdf">GitHub</a>. 
