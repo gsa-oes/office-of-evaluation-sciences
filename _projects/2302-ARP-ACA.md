@@ -27,9 +27,9 @@ The passage of the American Rescue Plan Act (ARP) in 2021 and Inflation Reductio
 This study uses a systematic review and meta-analysis to summarize evidence on interventions meant to increase ACA marketplace enrollment. This approach facilitates comparing the efficacy of various interventions on enrollment, providing decision-makers in state health exchanges and the federal marketplace with useful evidence as they consider approaches to encouraging enrollment.
 
 ## What did we learn?
-Based on a meta-analysis of 34 studies with a combined sample size of over 18 million people, we found that on average, the rate of enrollment was close to one percentage point higher for those who received an intervention (0.009, p<0.001; 95% CI [0.006, 0.012]), a 24 percent increase relative to the control group. The average base rate of enrollment in control groups, weighted by control group sample size, was 3.7%.
+Based on a meta-analysis of 34 studies with a combined sample size of over 18 million people, we found that on average, the rate of enrollment was close to one percentage point higher for those who received an intervention, a 24 percent increase relative to the control group. The average base rate of enrollment in control groups, weighted by control group sample size, was 3.7%.
 
-Interventions providing enrollment support tended to be more effective than those providing information alone. Support-based interventions increased enrollment by 2 percentage points (0.020, p=0.004; 95% CI [0.010, 0.030]), while information-based interventions increased enrollment by 0.6 percentage points (0.006, p<0.001; 95% CI [0.004, 0.008]).
+Interventions providing enrollment support tended to be more effective than those providing information alone. Support-based interventions increased enrollment by 2 percentage points, while information-based interventions increased enrollment by 0.6 percentage points.
 
 From this, we learned that outreach interventions can increase take-up. Increasing enrollment through addressing administrative burdens will be most effective when focused on providing information and support, rather than information alone.
 
