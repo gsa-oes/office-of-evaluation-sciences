@@ -9,7 +9,7 @@ image_alt_text: Arial view of a neighborhood in Milwaukee, WI
 image-credit: https://unsplash.com/photos/7DziDCBnhiE
 analysis-plan: /assets/analysis/2206-HAF-Pilot.pdf
 abstract-web: /results/increasing-applications-homeowner-assistance-fund/
-year: 2022
+year: 2023
 domain:
  - American Rescue Plan
  - Housing
