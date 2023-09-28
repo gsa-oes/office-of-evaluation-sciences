@@ -4,13 +4,13 @@ permalink: /collaborations/government-wide-pulse-survey/
 tags:
   - collaborations
 image: /assets/img/project-images/othercollabs/2203-3-image.webp
-year: 2022
+year: 2023
 domain: Government Operations
 agency: 
   - General Services Administration
   - Office of Management and Budget
   - Office of Personnel Management
-summary: Pilot initiative informs government on how to best support the federal workforce.
+summary: Pilot initiative informs government on how to best support the federal workforce
 featured: 
 ---
 ## What is the Employee Voice Initiative? 
@@ -91,7 +91,7 @@ Women also perceived a smaller difference in the levels of support for employees
 
 Taken together, the results suggest that White employees and men believe that higher levels of support exist for employees from diverse backgrounds than for employees like themselves. Meanwhile Black, Hispanic, and female employees perceive that more similar levels of support are available for themselves and for employees from different backgrounds. This misalignment in the perceptions of the support available to employees from diverse backgrounds could have implications for workplace diversity, equity, and inclusion efforts and points to areas for further research.
 
-*To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan-pulse-3.pdf" target="_blank">click here.</a>*
+*Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan-pulse-3.pdf" target="_blank">on GitHub.</a>*
 
 <a class="usa-button" href="/assets/abstracts/2203-pulse-survey-abstract.pdf" target="_blank">View Abstract (PDF)</a>
 
