@@ -4,8 +4,9 @@ layout: page
 permalink: /results/aca-systematic-review-meta-analysis/
 tags: 
   - abstract
-image: /assets/img/project-images/1901-nrb.webp
-image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.webp
+image: /assets/img/project-images/2302-image.webp
+image_alt_text: Tip for enrollment
+image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/
 summary: 
 
 ---
@@ -41,9 +42,6 @@ Personalization also appears to make interventions more effective. Personalized 
 Outreach interventions may be more effective among people with some prior interaction with the marketplaces, such as those who have already started an application. Among those with some prior interaction, interventions increased enrollment by 1.2 percentage points (0.012, p<0.001; 95% CI [0.007, 0.017]), compared to 0.6 percentage points (0.006, p=0.004; 95% CI [0.002, 0.010]) among those with no prior interaction.
 
 There was no evidence of statistically significant differences in estimated effect sizes across study setting, year, or timing relative to the declaration of the federal COVID-19 Public Health Emergency.
-
-<b>Figure 1.</b> Interventions involving a support component were more effective than information alone
-<img src="{{ '/assets/img/project-images/1901-analysis-2-responds-abs.svg' | prepend: site.baseurl }}" alt="Interventions involving a support component were more effective than information alone" width="1500">
 
 ## Implications
 Outreach interventions can be effective ways to increase health insurance enrollment. Interventions aimed at alleviating compliance costs by providing enrollment support were about four times as effective as information alone. These support-based interventions are likely to be more resource-intensive, but they have been found to be cost-effective. In populations with low base rates of enrollment, other approaches will be necessary to make a substantial difference.
