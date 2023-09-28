@@ -1,5 +1,5 @@
 ---
-title:  Increasing Voluntary Tax Compliance Through Outreach to Clients of Return Preparers
+title:  Increasing voluntary tax compliance through outreach to clients of return preparers
 permalink: /projects/client-tax-compliance/
 tags: 
   - project  
@@ -9,12 +9,12 @@ image_alt_text: Tax return documents
 image-credit: https://www.pexels.com/photo/calculator-and-tax-forms-inside-the-clear-envelope-6863518/
 analysis-plan: /assets/analysis/2007-analysis-plan.pdf
 abstract: /assets/abstracts/2007-abstract.pdf
-year: 2021  
+year: 2023  
 type: Program Change and Evaluation
 domain: Communications
 agency: Treasury
 status: Complete
-summary: Letters sent to clients reduced likely errors in tax credit claims.
+summary: Letters sent to clients reduced likely errors in tax credit claims
 
 ---
 ## What was the challenge?
@@ -29,4 +29,4 @@ IRS selected a sample of 86,446 clients (77,692 returns) who used one of 1,994 t
 ## What was the impact?
 Clients sent letters were more likely to change their tax filing behaviors (by not filing or using a different method to file), less likely to claim tax credits with likely errors, and had lower improper payments (measured by refund amount and dollar amount of tax credits claimed with likely errors). The behavioral insights letter increased the likelihood that clients changed their tax filing behaviors beyond sending the treatment-as-usual-letter but had no differential effect on other outcomes. In contrast, spillover effects of the letter did not change filing behaviors but reduced the likelihood of errors in claiming tax credits and improper payments. Sending letters results in savings of approximately $15.2 million, as measured by reductions in refund amount among clients sent letters ($8.9 million) and clients exposed only to the spillover effects of the letters ($6.3 million).
 
-<i>To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2007-analysis-plan.pdf">click here</a>.</i>
+<i>Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2007-analysis-plan.pdf">on GitHub</a>.</i>
