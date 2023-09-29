@@ -48,5 +48,5 @@ This pilot on the feasibility of incorporating A/B testing uncovered opportuniti
 6. We cannot determine if these are unique individuals or if some people participated multiple times. If an individual participated multiple times in the same browser they would be routed to the same form, rather than re-randomized. 
 7. Non-reported secondary analysis examines form completeness, which is defined as the percent of answers that were blank or listed as “undefined” for users who submitted the form.
 8. Additionally, data from online platforms were analyzed to document sample recruitment and the effectiveness of different outreach strategies.
-9. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an analysis plan, which can be found at https://oes.gsa.gov.
+9. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an analysis plan, which can be found on GitHub.
 
