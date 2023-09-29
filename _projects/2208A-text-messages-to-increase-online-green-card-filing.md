@@ -1,14 +1,16 @@
 ---
 title: Encouraging the use of USCIS’ online services: Text message notifications to increase online filing of green card renewals
 permalink: /projects/2208A-text-messages-to-increase-online-green-card-filing/
-tags: project  
+tags: 
+ - project
 image: /assets/img/project-images/2208A-image.webp  
 image_alt_text: Person using a phone
 image-credit: https://www.pexels.com/photo/crop-bearded-man-using-smartphone-in-living-room-7129050/
 analysis-plan: /assets/analysis/2208A-analysis-plan.pdf
 abstract: 
 year: 2023  
-domain: 
+domain:
+ - Communications
 type: Program Change and Evaluation
 agency: Homeland Security
 status: Ongoing
