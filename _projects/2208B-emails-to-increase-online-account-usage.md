@@ -1,5 +1,5 @@
 ---
-title: Encouraging the Use of USCIS’ Online Services- Email Notifications to Increase Online Account Usage
+title: Encouraging the use of USCIS’ online services: Email notifications to increase online account usage
 permalink: /projects/2208B-emails-to-increase-online-account-usage/
 tags: project  
 image: /assets/img/project-images/2208B-image.webp  
@@ -16,6 +16,6 @@ summary: Analysis Plan Registration
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2208B-analysis-plan.pdf">here</a>. 
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2208B-analysis-plan.pdf">on GitHub</a>. 
 
 Check back for results!
