@@ -1,5 +1,5 @@
 ---
-title:  Learning about Transparent Defaults for Opt Out Text Messages
+title:  Learning about transparent defaults for opt out text messages
 permalink: /projects/2209A-transparent-defaults-opt-out-texts/
 tags: 
  - project
@@ -20,6 +20,6 @@ summary: Analysis Plan Registration
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2209A-analysis-plan.pdf">here</a>. 
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2209A-analysis-plan.pdf">on Github</a>. 
 
 Check back for results!
