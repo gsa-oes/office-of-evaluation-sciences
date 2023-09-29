@@ -31,4 +31,4 @@ This evaluation — a first of its kind  in the federal government — brought t
 _Notes:_
 1. <a class="[usa-link usa-link--external](https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf)" href="URL">Office of Management and Budget, Information Collection Budget of the United States, FY 2018.</a>
 
-<i>Verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">on GitHub</a>.</i>
+<i>Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">on GitHub</a>.</i>
