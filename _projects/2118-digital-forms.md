@@ -1,7 +1,8 @@
 ---
-title:  Incorporating Evaluation into Digital Forms
+title:  Incorporating evaluation into digital forms
 permalink: /projects/digital-forms/
-tags: project  
+tags: 
+ - project  
 image: /assets/img/project-images/2118.webp  
 image_alt_text: Person on a laptop
 image-credit: https://commons.wikimedia.org/wiki/File:Laptop_and_hands_and_wrists.webp
@@ -30,4 +31,4 @@ This evaluation—a first of its kind  in the federal government—brought toget
 ## Notes
 1. <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf">Office of Management and Budget, Information Collection Budget of the United States, FY 2018.</a>
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">click here</a>.</i>
+<i>Verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">on GitHub</a>.</i>
