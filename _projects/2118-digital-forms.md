@@ -20,15 +20,14 @@ featured:
 The American public spends approximately 11.5 billion hours per year filling out federal government forms.¹ Form complexity can result in lack of submission or completion, and errors on forms can cause processing delays and affect whether the form is accepted — which can have far-reaching consequences.
 
 ## What was the program change?
-OES implemented a randomized control trial (RCT) to build evidence on the magnitude and direction of the effect of instruction positioning in federal forms. OES evaluated two versions of a brief digital form which included questions typical of federal forms. One version included the form instructions on the first page, while the other version embedded the form instructions within each page of the form. 
+We implemented a randomized control trial (RCT) to build evidence on the magnitude and direction of the effect of instruction positioning in federal forms. We evaluated two versions of a brief digital form which included questions typical of federal forms. One version included the form instructions on the first page, while the other version embedded the form instructions within each page of the form. 
 
 ## How did the evaluation work?
-To generate a sample of users, OES conducted outreach among the general public and federal employees. Between July 19 and August 19, 2022, there were 3,203 individuals randomly assigned to the two versions of the form.
+To generate a sample of users, we conducted outreach among the general public and federal employees. Between July 19 and August 19, 2022, there were 3,203 individuals randomly assigned to the two versions of the form.
 
 ## What was the impact?
-This evaluation—a first of its kind  in the federal government—brought together multiple GSA offices and the American public to learn about the feasibility of incorporating  A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
+This evaluation — a first of its kind  in the federal government — brought together multiple GSA offices and the American public to learn about the feasibility of incorporating A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
 
-## Notes
-1. <a href="https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf">Office of Management and Budget, Information Collection Budget of the United States, FY 2018.</a>
-
+_Notes:_
+<a class="[usa-link usa-link--external](https://www.whitehouse.gov/wp-content/uploads/2020/12/2018-ICB-Report-Final.pdf)" href="URL">Office of Management and Budget, Information Collection Budget of the United States, FY 2018.</a>
 <i>Verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">on GitHub</a>.</i>
