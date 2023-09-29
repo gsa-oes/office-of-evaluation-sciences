@@ -33,7 +33,7 @@ The search process identified 703 studies through databases and registries and 4
 <b>Meta-analysis:</b> To be included in the meta-analysis, studies were required to measure treatments and outcomes at the household level; to report an effect size, a sample size, and a measure of variance; and to estimate effects in comparison with a control group that did not receive any intervention as a result of the study. Twenty seven of the studies identified in the systematic review qualified for inclusion in the meta-analysis, covering 58 treatment arms; 22 were unpublished. The goals of the statistical models used in the meta-analysis were to estimate an average effect of interventions, and to explore differences in effects across intervention types and other study characteristics.
 
 ## Results
-On average, the rate of enrollment was close to one percentage point higher for those who received an intervention (0.009, p<0.001; 95% CI [0.006, 0.012]), a 24 percent increase relative to the control group. The average base rate of enrollment in control groups, weighted by control group sample size, was 3.7%.
+On average, the rate of enrollment was close to one percentage point higher for those who received an intervention (0.009, p<0.001; 95% CI [0.006, 0.012]), a 24% increase relative to the control group. The average base rate of enrollment in control groups, weighted by control group sample size, was 3.7%.
 
 Interventions providing enrollment support tended to be more effective than those providing information alone. Support-based interventions increased enrollment by 2 percentage points (0.020, p=0.004; 95% CI [0.010, 0.030]), while information-based interventions increased enrollment by 0.6 percentage points (0.006, p<0.001; 95% CI [0.004, 0.008]).
 
@@ -57,4 +57,3 @@ Outreach interventions can be effective ways to increase health insurance enroll
 8. A robust Wald test rejected the hypothesis that average effects are equal across dependent variables (p=0.045).
 9. A robust Wald test rejected the hypothesis that average effects are equal across dependent variables (p=0.014).
 10. Myerson, Rebecca, Nicholas Tilipman, Andrew Feher, Honglin Li, Wesley Yin, and Isaac Menashe. 2022. <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2021.01000.">Personalized Telephone Outreach Increased Health Insurance Take-Up For Hard-To-Reach Populations, But Challenges Remain.</a> _Health Affairs_ 41, no. 1: 129-137.
-
