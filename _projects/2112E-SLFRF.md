@@ -1,5 +1,5 @@
 ---
-title:  Increasing Timely Reporting by Local Governments through Peer Comparisons and Encouragements
+title:  Increasing timely reporting by local governments through peer comparisons and encouragements
 permalink: /projects/slfrf-reporting/
 tags: 
  - project
@@ -23,10 +23,10 @@ As part of the American Rescue Plan (ARP), the Department of the Treasury (“Tr
 
 NEUs must submit their Project & Expenditure reports (“spending reports”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. Treasury seeks to support NEUs to meet their reporting requirements in order to promote <b>transparency, responsibility, and equity in the use of funds.</b> 
 
-A major question for Treasury is how to best incentivize NEUs to comply with reporting requirements, given the sheer number of NEUs and their infrequent contact with federal agencies. OES partnered with Treasury to test whether messages that encourage <b>NEUs to conform to peers’ behaviors or provide information on the time costs of submission</b> can influence them to submit reports in a more timely manner. These messages were easily incorporated into Treasury’s planned communications and have the potential to prevent the need to follow up with NEUs who did not submit on time.
+A major question for Treasury is how to best incentivize NEUs to comply with reporting requirements, given the sheer number of NEUs and their infrequent contact with federal agencies. We partnered with Treasury to test whether messages that encourage <b>NEUs to conform to peers’ behaviors or provide information on the time costs of submission</b> can influence them to submit reports in a more timely manner. These messages were easily incorporated into Treasury’s planned communications and have the potential to prevent the need to follow up with NEUs who did not submit on time.
 
 ## What did we do?
-The Office of Evaluation Sciences (OES) and Treasury collaborated in redesigning emails that encourage timely submission of spending reports. OES tested two email changes against the business-as-usual version: 1) including a peer comparison; and 2) including information on how submitting is quick and easy. The peer comparison message noted that 97% of SLFRF recipients with a prior reporting deadline submitted their reports on time. The quick and easy message stated that submitting should take less than 30 minutes and that there are resources available to help recipients.
+We collaborated with Treasury to redesign emails that encourage timely submission of spending reports. We evaluated two email changes against the business-as-usual version: 1) including a peer comparison; and 2) including information on how submitting is quick and easy. The peer comparison message noted that 97% of SLFRF recipients with a prior reporting deadline submitted their reports on time. The quick and easy message stated that submitting should take less than 30 minutes and that there are resources available to help recipients.
 
 ## What did we learn?
 We find no evidence that the alternative messaging increased timely report submissions. One week after the email was sent, the estimated effect of the peer comparison treatment was small, negative, and statistically insignificant. For the quick and easy treatment, the estimated effect was negative 1.2 percentage points, which is statistically significant. Two weeks later (one day after the deadline), we found no statistically significant effect for either treatment.
@@ -36,7 +36,7 @@ We find no evidence that the alternative messaging increased timely report submi
 
 Future work can investigate why the messaging treatments were not effective in getting recipients to submit their spending reports and caused recipients to delay submission.
 
-## Notes
+_Notes:_
 1. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments.
 
-<i>To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf">click here</a>.</i>. 
+<i>Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf">on GitHub</a>.</i>. 
