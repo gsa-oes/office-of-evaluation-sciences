@@ -1,5 +1,5 @@
 ---
-title:  Reducing Inappropriate Prescribing and Co-Prescribing Behaviors - A Retrospective Analysis
+title:  Reducing inappropriate prescribing and co-prescribing behaviors - A retrospective analysis
 permalink: /projects/opioid-retrospective-analysis/
 tags: 
   - project 
@@ -26,15 +26,15 @@ CMS’s Center for Program Integrity (CPI) designed and implemented annual peer-
 Letters  were designed to overcome (i) lack of information on the part of the prescribers regarding appropriate prescription levels and/or (ii) a lack of attention to their opioid prescribing behavior.
 
 ## How did the evaluation work?
-OES recommends analyzing Medicare Part D Prescription Drug Event (PDE) data using the CMS Integrated Data Repository (IDR) which tracks Medicare beneficiary enrollment healthcare utilization. This would involve comparing prescriber behavior among those who received the letters to prescribers in the 80th-89th percentiles who did not receive a letter. 
+We recommend analyzing Medicare Part D Prescription Drug Event (PDE) data using the CMS Integrated Data Repository (IDR) which tracks Medicare beneficiary enrollment healthcare utilization. This would involve comparing prescriber behavior among those who received the letters to prescribers in the 80th-89th percentiles who did not receive a letter. 
 
 We recommend prescriber behavior be measured in terms of the following outcomes of interest:
 1. Total MME among patients co-prescribed opioids and benzodiazepines, and 
 2. Percent of beneficiaries with overlapping prescriptions.
 
 ## What was the impact?
-OES was not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, OES does not report results. In this case, outcome data were not available in the format needed for analysis. 
+We were not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, we do not report results. In this case, outcome data were not available in the format needed for analysis. 
 
-The <a href="/assets/analysis/2002-3-analysis-plan.pdf" target="_blank">analysis plan</a> posted on the OES website details a strategy for how a potential analysis may be conducted. CMS plans to complete the analysis and report their findings.
+The <a href="/assets/analysis/2002-3-analysis-plan.pdf" target="_blank">analysis plan</a> posted on GitHub details a strategy for how a potential analysis may be conducted. CMS plans to complete the analysis and report their findings.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2002-3-analysis-plan.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan on <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2002-3-analysis-plan.pdf">GitHub</a>.
