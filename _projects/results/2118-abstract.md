@@ -4,8 +4,8 @@ layout: page
 permalink: /results/incorporating-evaluation-into-digital-forms/
 tags: 
   - abstract
-image: /assets/img/project-images/2206-image.webp
-image-credit: https://unsplash.com/photos/7DziDCBnhiE
+image: /assets/img/project-images/2118-image.webp
+image-credit: https://commons.wikimedia.org/wiki/File:Laptop_and_hands_and_wrists.webp
 summary: 
 
 ---
@@ -33,6 +33,7 @@ The results offer initial evidence that form completion is affected by instructi
 The pilot study also showed that conducting an A/B test of a typical federal form using a sample of voluntary users recruited from the general public is possible. Over 3,000 users started the form and 1,110 users submitted the form in a one month period. More control over the assignment mechanism and access to more complete outcome data would be beneficial in future studies. Over the examined study period, 93 more users (3% of the total sample) were assigned to the embedded instructions version of the form than were assigned to the instructions at the beginning version of the form. One possible contributor to this imbalance was internal testing of the form design and mechanics. However, this cannot be confirmed without additional outcome data and direct observation of the assignment process.
 
 <b>Figure 1:</b> Form submission by form version
+<img src="{{ '/assets/img/project-images/2118-results-graph.svg' | prepend: site.baseurl }}" alt="Form submission by form version" width="1500">
 
 ## Build evidence
 This evaluation — a first of its kind in the federal government—brought together multiple GSA offices and the American public to learn about the feasibility of incorporating A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. Agencies could help substantiate this finding by continuing to evaluate the effects of instruction placement on high priority forms.
@@ -49,4 +50,3 @@ This pilot on the feasibility of incorporating A/B testing uncovered opportuniti
 7. Non-reported secondary analysis examines form completeness, which is defined as the percent of answers that were blank or listed as “undefined” for users who submitted the form.
 8. Additionally, data from online platforms were analyzed to document sample recruitment and the effectiveness of different outreach strategies.
 9. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an analysis plan, which can be found on GitHub.
-
