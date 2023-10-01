@@ -7,14 +7,15 @@ image: /assets/img/project-images/2118.webp
 image_alt_text: Person on a laptop
 image-credit: https://commons.wikimedia.org/wiki/File:Laptop_and_hands_and_wrists.webp
 analysis-plan: /assets/analysis/2118-digital-forms-analysis-plan.pdf
-abstract: /assets/abstracts/2118-digital-forms-abstract.pdf
+abstract-web: /results/incorporating-evaluation-into-digital-forms/
 year: 2022  
 domain: Government Operations
 type: Program Change and Evaluation
 agency: General Services Administration
 status: Complete
 summary: Five GSA offices and the American public worked together to improve federal forms
-featured:
+featured: 
+  - services
 ---
 ## What was the challenge? 
 The American public spends approximately 11.5 billion hours per year filling out federal government forms.¹ Form complexity can result in lack of submission or completion, and errors on forms can cause processing delays and affect whether the form is accepted — which can have far-reaching consequences.
@@ -27,6 +28,9 @@ To generate a sample of users, we conducted outreach among the general public an
 
 ## What was the impact?
 This evaluation — a first of its kind  in the federal government — brought together multiple GSA offices and the American public to learn about the feasibility of incorporating A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
+
+<b>Figure 1:</b> Form submission by form version
+<img src="{{ '/assets/img/project-images/2118-results-graph.svg' | prepend: site.baseurl }}" alt="Form submission by form version" width="1500">
 
 _Notes:_
 1. Office of Management and Budget, Information Collection Budget of the United States, FY 2018.
