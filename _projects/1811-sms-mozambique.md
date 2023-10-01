@@ -1,5 +1,5 @@
 ---
-title:  Increasing Utilization of Family Planning Services in Mozambique Through an SMS Intervention
+title:  Increasing utilization of family planning services in Mozambique through an SMS intervention
 permalink: /projects/sms-mozambique/
 tags: 
   - project 
@@ -18,7 +18,6 @@ domain: Health
 agency: United States Agency for International Development
 summary: Text reminders increased clinic visits for family planning services
 featured: 
-  - services
 ---
 ## What was the challenge?
 Population Services International (PSI) leads a component of the USAID-funded and Pathfinder International-led Integrated Family Planning Program, in which family planning promoters deliver one-on-one counseling with women in urban areas in order to share information about family planning, and, where appropriate, provide referrals to clinics for free family planning services. USAID/Mozambique and PSI seek to increase the effectiveness of these referrals using evidence-based insights.
@@ -34,7 +33,7 @@ The results suggest that the text reminders led to an increase in clinic visits,
 
 ![image](/assets/img/project-images/1811-graph.webp)
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1811-Mozambique-SMS-v2.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1811-Mozambique-SMS-v2.pdf">on Github</a>.
 
-### Related Publication
+### Related publication
 Jessica Leight, Catherine Hensly, Marcos Chissano, Elana Safran, Liza Ali, Domingos Dustan, and Julian Jamison. "<a href="https://gh.bmj.com/content/7/4/e007862" target="_blank">The effects of text reminders on the use of family planning services: evidence from a randomised controlled trial in urban Mozambique</a>." *BMJ Global Health* 7:e007862 (2022).
