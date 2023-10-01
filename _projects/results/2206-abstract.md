@@ -36,7 +36,7 @@ Four weeks after the early mailers went out, the group that had not yet been sen
 
 Due to data availability, we were unable to run our planned analyses of effects on funding status.<sup>10</sup> We were unable to complete the pre-registered demographic test, as the low number of initiated applications meant that this was not estimable. However, given that the application initiation rate does not appear to be affected by the postcard, we have no reason to believe these outcomes would either. 
 
-<b>Figure 1.</b> *Percentage of households that initiated HAF applications*
+<b>Figure 1.</b> Percentage of households that initiated HAF applications
 <img src="{{ '/assets/img/project-images/2206-image.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
 HAF applications" width="1500">
 

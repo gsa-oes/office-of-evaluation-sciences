@@ -31,6 +31,9 @@ Based on a meta-analysis of 34 studies with a combined sample size of over 18 mi
 
 Interventions providing enrollment support tended to be more effective than those providing information alone. Support-based interventions increased enrollment by 2 percentage points, while information-based interventions increased enrollment by 0.6 percentage points.
 
+<b>Figure 1.</b> Support-based interventions increased ACA enrollment more than information alone, based on a meta-analysis of 27 studies covering 58 treatment arms
+<img src="{{ '/assets/img/project-images/2302-aca-results-graph.svg' | prepend: site.baseurl }}" alt="Support-based interventions increased ACA enrollment more than information alone, based on a meta-analysis of 27 studies covering 58 treatment arms" width="1500">
+
 From this, we learned that outreach interventions can increase take-up. Increasing enrollment through addressing administrative burdens will be most effective when focused on providing information and support, rather than information alone.
 
 _Notes:_
