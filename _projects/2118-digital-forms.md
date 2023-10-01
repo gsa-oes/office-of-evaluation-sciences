@@ -14,7 +14,8 @@ type: Program Change and Evaluation
 agency: General Services Administration
 status: Complete
 summary: Five GSA offices and the American public worked together to improve federal forms
-featured:
+featured: 
+  - services
 ---
 ## What was the challenge? 
 The American public spends approximately 11.5 billion hours per year filling out federal government forms.¹ Form complexity can result in lack of submission or completion, and errors on forms can cause processing delays and affect whether the form is accepted — which can have far-reaching consequences.
