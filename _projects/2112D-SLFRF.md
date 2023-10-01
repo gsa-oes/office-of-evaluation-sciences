@@ -48,4 +48,4 @@ _Notes:_
 1. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments. 
 2. <a href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-funds" target="_blank">U.S. Department of the Treasury, Coronavirus State and Local Fiscal Recovery Funds.</a>
 
-<i>Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf">on GitHub</a>.</i> 
+Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf">on GitHub</a>.
