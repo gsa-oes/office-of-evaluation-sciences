@@ -4,7 +4,8 @@ layout: page
 permalink: /results/incorporating-evaluation-into-digital-forms/
 tags: 
   - abstract
-image: /assets/img/project-images/2118-image.webp
+image: /assets/img/project-images/2118.webp  
+image_alt_text: Person on a laptop
 image-credit: https://commons.wikimedia.org/wiki/File:Laptop_and_hands_and_wrists.webp
 summary: 
 
