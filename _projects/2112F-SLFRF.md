@@ -29,8 +29,8 @@ We collaborated with Treasury to vary the number of reminders that NEUs received
 ## What did we learn?
 We find that receiving an additional reminder email did not have a statistically significant effect on NEUs’ report submission. Figure 1 shows the number of NEUs that submitted their spending reports on Treasury’s ARP Reporting and Compliance portal before and after the reminder email was sent.
 
-<img src="{{ '/assets/img/project-images/2112F-fig1.webp' | prepend: site.baseurl }}" alt="A line graph showing that there was no statistically significant effect on report submission." width="1500">
 <b>Figure 1.</b> Numbers of NEUs that submitted reports on Treasury’s ARP Reporting and Compliance Portal
+<img src="{{ '/assets/img/project-images/2112F-fig1.webp' | prepend: site.baseurl }}" alt="A line graph showing that there was no statistically significant effect on report submission." width="1500">
 
 One implication of this study is that agencies can focus efforts on increasing the clarity and quality of communications, rather than being concerned that the quantity is too low or too high. However, when interpreting the results it is important to consider the proximity of the deadline, which may have dampened the effect of the reminders. Future work can also investigate whether there were differing trends in submission rates between the group receiving the reminder treatment and the control group - either before or after the deadline - but that were not discernible the day after the deadline.
 
