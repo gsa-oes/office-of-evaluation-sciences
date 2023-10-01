@@ -29,6 +29,9 @@ To generate a sample of users, we conducted outreach among the general public an
 ## What was the impact?
 This evaluation — a first of its kind  in the federal government — brought together multiple GSA offices and the American public to learn about the feasibility of incorporating A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
 
+<b>Figure 1:</b> Form submission by form version
+<img src="{{ '/assets/img/project-images/2118-results-graph.svg' | prepend: site.baseurl }}" alt="Form submission by form version" width="1500">
+
 _Notes:_
 1. Office of Management and Budget, Information Collection Budget of the United States, FY 2018.
 
