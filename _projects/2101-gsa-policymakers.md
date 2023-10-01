@@ -35,4 +35,4 @@ _Notes:_
 https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf" target="_blank">https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf.</a>
 3. Hsee, C., G. Loewenstein, S. Blount, and M. Bazerman. “Preference reversals between joint and separate evaluations of options: A review and theoretical analysis.” _Psychological Bulletin_ 125 no. 5 (1999): 576-590.
 
-Verify the upload date of this Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2101 - 3 - Analysis Plan - Final.pdf" target="_blank">on GithUB</a>.
+Verify the upload date of this Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2101 - 3 - Analysis Plan - Final.pdf" target="_blank">on GithUB</a>.
