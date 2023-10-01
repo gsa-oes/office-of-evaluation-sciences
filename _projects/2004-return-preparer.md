@@ -1,5 +1,5 @@
 ---
-title:  Increasing Voluntary Tax Compliance for Return Preparers
+title:  Increasing voluntary tax compliance for return preparers
 permalink: /projects/return-preparer-tax-compliance/
 tags: 
   - project 
@@ -28,4 +28,4 @@ Tax preparers were randomly assigned to be sent either a treatment-as-usual (TAU
 ## What was the impact?
 Among preparers who had not received other recent IRS outreach, sending the Letter 5025 reduced the percent of returns with likely errors, the dollar amount of credits claimed with likely errors, and the average total refund amount per preparer.  Sending the letter to these preparers resulted in an estimated cost savings of $129 million in filing season 2021. Sending the Letter 5025 had no impact among the preparers who had recently received other IRS outreach. The impacts of the letter did not differ by the version of the letter sent.
 
-<i>To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2004-analysis-plan.pdf">click here</a>.</i> 
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2004-analysis-plan.pdf">on Github</a>. 
