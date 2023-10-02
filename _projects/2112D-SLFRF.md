@@ -18,13 +18,8 @@ agency: Treasury
 status: Complete
 summary: Adding to-do lists and calls to action to emails increased signup on an online expenditure reporting portal
 ---
-## Key takeaways
-We found that simplifying instructions through a bulleted to-do list increased responsiveness to actions requested by a federal agency. We estimate that this small change, which came at no additional cost to the agency, could have increased signups by hundreds of NEUs if included in all emails. Furthermore, while the estimated impact of a call to action in the subject line of the emails is weaker, it's still important to note that the subject line of an email matters. 
-
-OES and the Department of the Treasury (“Treasury”) worked quickly to generate these insights ahead of the April 30 deadline for spending report submissions by NEUs. The speed with which we were able to generate results meant that Treasury could incorporate findings into planned campaigns and is now including to-do lists in its reporting emails to SLFRF recipients.
-
 ## What was the challenge? 
-As part of the American Rescue Plan (ARP), Treasury is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
+As part of the American Rescue Plan (ARP), the Department of the Treasury (“Treasury”) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
 
 In order to submit the required spending reports, recipients must first register (“sign up”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. To ensure that NEUs know how to complete their reporting requirements on time, Treasury communications should <b>clearly and concisely lay out the steps NEUs need to take.</b>
 
@@ -43,6 +38,11 @@ In March, Treasury sent the same randomized email again to a larger set of NEUs 
 
 <b>Figure 2.</b> Numbers of NEUs that submitted spending reports on Treasury’s ARP Reporting and Compliance Portal
 <img src="{{ '/assets/img/project-images/2112D-fig1.webp' | prepend: site.baseurl }}" alt="Line chart showing the positive, statistically significant effect of both treatments on submission of spending reports." width="1500">
+
+## Key takeaways
+We found that simplifying instructions through a bulleted to-do list increased responsiveness to actions requested by a federal agency. We estimate that this small change, which came at no additional cost to the agency, could have increased signups by hundreds of NEUs if included in all emails. Furthermore, while the estimated impact of a call to action in the subject line of the emails is weaker, it's still important to note that the subject line of an email matters. 
+
+OES and Treasury worked quickly to generate these insights ahead of the April 30 deadline for spending report submissions by NEUs. The speed with which we were able to generate results meant that Treasury could incorporate findings into planned campaigns and is now including to-do lists in its reporting emails to SLFRF recipients.
 
 _Notes:_
 1. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments. 
