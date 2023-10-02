@@ -1,5 +1,5 @@
 ---
-title:  Integrating Health Care Services in Nigeria
+title:  Integrating health care services in Nigeria
 permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
   - USAID
@@ -12,7 +12,7 @@ type: Program Change and Evaluation
 status: Complete
 domain: Health
 agency: United States Agency for International Development
-summary: A feasibility pilot to increase access to voluntary family planning services.
+summary: A feasibility pilot to increase access to voluntary family planning services
 ---
 ## What was the challenge?
 
@@ -30,4 +30,4 @@ The integration of FP counseling with child immunization visits was examined via
 
 There is suggestive evidence that integrating family planning in immunization clinics increased attendance in family planning clinics around the time of the study. However, many mothers reported needing more time to consider options and deliberate with their spouse.  Lessons on the effect of the script and appointment card are limited, as implementation of the script may have varied across clinics.
 
-<i>As a feasibility study, this project does not have an Analysis Plan.</i>
+As a feasibility study, this project does not have an Analysis Plan.
