@@ -38,4 +38,4 @@ The results suggest that the communications did not change attendance outcomes.
 2. *Postcard intervention:* We were not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, we do not report results. In this case, outcome data were not available.
 3. *Text message intervention:* SHA students in the text message group were absent on average 12.0 days during the spring semester. That is an increase of 0.18 day over the control group, but the difference is not statistically different from zero. Students in the text message group were absent on average 14.1 percent of days during the spring semester, an increase of 0.04 percentage point versus the control group. The difference is not statistically significant.
 
-Verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1809-analysis-plan.pdf">on GitHub.</a>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1809-analysis-plan.pdf">on GitHub.</a>
