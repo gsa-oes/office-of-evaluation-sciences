@@ -33,7 +33,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
         <img alt="Hand shake icon" src="{{ '/assets/img/icons/1.svg' | prepend: site.baseurl }}" class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
-        <h3>Step 1: Partner with Federal Agencies to target priority outcomes</h3>
+        <h3>Step 1: Partner with federal agencies to target priority outcomes</h3>
         <p>In conversations with collaborators, we discuss the most important questions that need to be answered in order to improve program implementation and performance, and define a meaningful outcome at the start. Agencies maintain priorities through their Congressional Justifications, Annual Performance Plans, Strategic Plans, Agency Priority Goals, Cross-Agency Priority Goals, Learning Agendas, and many other planning efforts. Each project is vetted for feasibility and potential impact on a key priority in a Federal program or policy.</p>
         <p><a href="{{ '/assets/files/ProjectInitiation.pdf' | prepend: site.baseurl }}" target="_blank">Project Initiation Document</a></p>
       </div>
@@ -49,7 +49,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
           class="display-block margin-x-auto square-15 margin-bottom-2">
       </div>
       <div class="tablet:grid-col usa-prose">
-        <h3>Step 2: Translate behavioral insights into concrete recommendations</h3>
+        <h3>Step 2: Translate evidence-based insights into concrete recommendations</h3>
         <p>Our collaborators, who are civil servants with years of experience working to deliver programs across the government, are experts on how their programs work and often have the best ideas for how to improve them. OES team members support their efforts by bringing diverse academic and applied expertise to more deeply understand program bottlenecks and offer recommendations drawn from peer-reviewed evidence in the social and behavioral sciences.</p>
         <p><a href="{{ '/assets/files/ProjectDesign.pdf' | prepend: site.baseurl }}" target="_blank">Project Design Document</a></p>
       </div>
