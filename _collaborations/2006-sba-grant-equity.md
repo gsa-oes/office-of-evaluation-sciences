@@ -1,5 +1,5 @@
 ---
-title:  Increasing access to small business grant and loan programs for historicallyunderserved groups
+title:  Increasing access to small business grant and loan programs for historically underserved groups
 permalink: /collaborations/sba-grant-equity/
 tags:
   - project
@@ -26,7 +26,7 @@ The Small Business Administration (SBA) has strategic goals to support small bus
 
 ## What did we do?
 
-The Coronavirus Aid, Relief, and Economic Security (CARES) Act signed on March 27, 2020 allocated $5 billion for local communities to spend on activities including small business assistance. Local governments designed their own disbursement programs and made their own decisions about which groups to target for assistance and how to reach them. We conducted a descriptive study of local grant and loan programs using public information about funding programs and conversations with local officials. OES documented the approaches local governments took in disbursing funding, the common challenges encountered by officials and applicants, and how these relate to SBA’s access goals. 
+The Coronavirus Aid, Relief, and Economic Security (CARES) Act signed on March 27, 2020 allocated $5 billion for local communities to spend on activities including small business assistance. Local governments designed their own disbursement programs and made their own decisions about which groups to target for assistance and how to reach them. We conducted a descriptive study of local grant and loan programs using public information about funding programs and conversations with local officials. We documented the approaches local governments took in disbursing funding, the common challenges encountered by officials and applicants, and how these relate to SBA’s access goals. 
 
 ## What did we learn?
 
