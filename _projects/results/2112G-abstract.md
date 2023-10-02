@@ -108,7 +108,7 @@ Tribes and NEUs were appreciative of the wide variety of resources Treasury prov
 
 Using these findings, OES and Treasury will work together to identify methods to further support Tribes and NEUs to most effectively use and report on their SLFRF funds.
 
-_Notes:+
+_Notes:_
 1. As defined in section 602(g)(7) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021.
 2. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments. 
 3. Counties also received funding under SLFRF. Since counties may include NEUs in their boundaries, NEUs may have received other funding due to funding given to overlapping jurisdictions.
