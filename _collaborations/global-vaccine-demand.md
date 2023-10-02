@@ -1,5 +1,5 @@
 ---
-title: Guiding Evaluations of Global Vaccine Demand and Uptake
+title: Guiding evaluations of global vaccine demand and uptake
 permalink: /collaborations/global-vaccine-demand/
 tags:
   - collaborations
@@ -15,7 +15,6 @@ featured:
 ---
  
 ## What was the challenge?
-
 The Demand for Immunization Team (DIT) in the U.S. Centers for Disease Control and Prevention (CDC) Global Immunization Division (GID) seeks to increase and sustain demand and uptake for vaccination services across the life course while strengthening immunization systems to meet community needs. The team’s primary objectives are to:
 
 - Build, test, and use quantitative and qualitative tools to assess behavioral and social drivers of vaccine demand and uptake
@@ -26,7 +25,7 @@ The Demand for Immunization Team (DIT) in the U.S. Centers for Disease Control a
 Evaluating demand interventions can be challenging for various reasons, including that projects in the DIT portfolio occur in complex implementation environments where data quality can be highly variable due to ongoing conflict or other health systems challenges. In these environments, there is often a need for more rapid emergency response, which can influence how evaluation of these activities can be conducted. However, robust evaluations of demand interventions can help build the evidence base on vaccine demand and uptake, inform the funding strategy (e.g., for improved cost-effectiveness), and shape stakeholder commitment to specific interventions. 
 
 ## What did we do?
-OES partnered with the DIT to develop a practical guide that describes the various tasks that could be done by a team member or evaluation partner when conducting an impact evaluation of vaccine demand interventions. In addition to outlining the pros, cons, and prerequisites for different causal and correlational (i.e., non-causal) designs, the practical guide addressing the topics outlined below also describes steps and questions that users could ask of program implementers as they considered an evaluation. 
+We partnered with the DIT to develop a practical guide that describes the various tasks that could be done by a team member or evaluation partner when conducting an impact evaluation of vaccine demand interventions. In addition to outlining the pros, cons, and prerequisites for different causal and correlational (i.e., non-causal) designs, the practical guide addressing the topics outlined below also describes steps and questions that users could ask of program implementers as they considered an evaluation. 
 
 **Before planning an intervention:** 
 - What is the current status of an immunization program and how does it address vaccine demand and uptake? Are there approaches that can be varied or tailored to specific concerns and demographic populations?
