@@ -41,7 +41,7 @@ We evaluated differences in survey response rates by theme in the five days afte
 
 This analysis focuses on response in the first five days following the initial email invitation. Since the survey was open for nine days, however, the final response rates are higher (see more <a href="https://d2d.gsa.gov/report/government-wide-pulse-survey-pilot" target="_blank">here</a>). Nevertheless, the overall trends in response by survey theme remain the same.
 
-*To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan.pdf" target="_blank">click here.</a>*
+*Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan.pdf" target="_blank">on GitHub.</a>*
 
 ## Pulse 2 Survey Experiment Results
 
@@ -53,7 +53,7 @@ Everyone who started the reentry survey in the second pulse round was randomly a
 
 Both questions were measured on a five-point scale from “strongly disagree” to “strongly agree.” We evaluated differences in agreement between the two questions among 126,540 respondents who answered one of the two questions. We found that, on average, respondents were more likely to express that they would take a job with more pay/benefits than one with more flexibility. Average agreement with "I would take another job with more flexibility/remote options" was 3.56 on a five-point scale, in which 5 reflects “strongly agree.” In comparison, average agreement with "I would take another job with better pay/benefits" was 3.70 on a five-point scale. This difference of 0.14 points is statistically significant (p < .001; 95% CI [-0.15, -0.12]). The results from this pilot suggest that pay and benefits may influence expressed willingness to change jobs more than workplace flexibility. However, it is important to note that these results are specific to the context in which the survey experiment was conducted–a period of unprecedented workplace flexibility and economic uncertainty. Whether these results would replicate in a context with less workplace flexibility or greater economic security is unknown.
 
-*To verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan-pulse-2.pdf" target="_blank">click here.</a>*
+*Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2203-3-analysis-plan-pulse-2.pdf" target="_blank">on GitHub.</a>*
 
 ## Pulse 3 Survey Experiment Results
 
