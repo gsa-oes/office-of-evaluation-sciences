@@ -29,4 +29,4 @@ The day before the program change, 21.6% of applications started by applicants f
 
 These findings suggest that a reduction in documentation requirements may help businesses owned by those from underserved communities to access relief funding. Because changes in application success may be influenced by factors other than documentation requirements, these analyses cannot isolate the causal impact of documentation requirements. However, this preliminary evidence lays a promising foundation for future evaluations. 
 
-Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2106 - Equity Documentation - 3 - Analysis Plan.pdf">on GitHub</a>.
+Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2106 - Equity Documentation - 3 - Analysis Plan.pdf">on GitHub</a>.
