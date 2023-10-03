@@ -1,5 +1,5 @@
 ---
-title:  Decreasing abandonment of calls to the 988 Suicide and Crisis Lifeline
+title: Decreasing abandonment of calls to the 988 Suicide and Crisis Lifeline
 permalink: /2309-decreasing-abandonment-of-calls-to-988/
 tags: 
   - project
@@ -19,6 +19,6 @@ featured:
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf">on GitHub</a>. 
-
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf">on GitHub</a>. 
+ 
 Check back for results!
