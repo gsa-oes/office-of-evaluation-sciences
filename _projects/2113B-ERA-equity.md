@@ -52,4 +52,4 @@ Among eligible renters, ERA funds were much more likely to reach those with the 
 <img src="{{ '/assets/img/project-images/2113B-fig2.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>See note on Figure 1. Columns are divided by eligible income brackets; rows by racial and ethnic groups.</i>
 
-Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf">on GitHub</a>.
+Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2113B-era-descriptive-study-of-equity-analysis-plan.pdf">on GitHub</a>.
