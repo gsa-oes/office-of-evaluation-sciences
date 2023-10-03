@@ -37,4 +37,4 @@ Analyses of descriptive equity show the importance of precise measurement of und
 
 However, weighted lotteries and set asides within first-come, first-served methods offer a consistent way to increase the funding going to historically underserved groups. A better understanding of these effects of allocation methods on the amount of funding flowing to historically underserved businesses will allow government programs to make informed decisions about the criteria they use to determine eligibility and prioritization for relief funds.
 
-Verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2105_SBequity_analysisplan.pdf">on GitHub</a>.
+Verify the upload date of our Analysis Plan, <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2105_SBequity_analysisplan.pdf">on GitHub</a>.
