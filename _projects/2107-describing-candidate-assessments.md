@@ -57,4 +57,4 @@ Future exploration could examine the impact of candidate assessment tools on the
 
 <a href="/assets/files/2107-full-report.pdf" target="_blank">Read the full report.</a>
 
-Verify the upload date of the Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf">on GitHub</a>. 
+Verify the upload date of the Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf">on GitHub</a>. 
