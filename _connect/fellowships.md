@@ -8,9 +8,9 @@ class:
 summary: 
 ---
 
-Based at the U.S. General Services Administration (GSA), we’re a team of interdisciplinary experts that works across government to help agencies build and use evidence.
+Based at the U.S. General Services Administration (GSA), <a href="https://oes.gsa.gov/team/">OES is a team of interdisciplinary experts</a> that works across government to help agencies build and use evidence.
 
-Team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. We are uniquely uniquely situated at the center of government to share leading practices, develop resources, and build skills in the fFederal workforce on evidence and evaluation. To date, we have has completed many randomized evaluations with dozens of agency partners. We follow the best practices in social science research to build evidence in order to be a leader in transparency and accountability. We form innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency.
+Team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. OES is uniquely situated at the center of government to share leading practices, develop resources, and build skills in the federal workforce on evidence and evaluation. To date, OES has completed <a href="http://oes.gsa.gov/work">many randomized evaluations</a> with dozens of agency partners. OES follows the best practices in social science research to build evidence in order to be a <a href="http://oes.gsa.gov/methods">leader in transparency and accountability</a>. OES forms innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as opioid prescribing, access to healthcare for Veterans, reducing energy use and costs, and improving government efficiency.
 
 <b>We have the following positions open to join the OES team:</b>
 - <a class="usa-link usa-link--external" href="https://www.usajobs.gov/job/752919800">Division Director positions:</a> Apply by November 3, 2023
@@ -22,10 +22,6 @@ We anticipate having a fellowship recruitment cycle open in Fall 2024.
 <div class="videoWrapper">
     <iframe title="U.S. General Services Administration Office of Evaluation Sciences Recruitment Video" src="https://www.youtube.com/embed/9KSQ3YLpuV4" width="512" height="384"></iframe>
 </div>
-
-
-
-
 
 <section class="usa-section bg-white">
   {% include contact.html %}
