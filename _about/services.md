@@ -97,7 +97,7 @@ The criteria below describe required components for OES collaborations, and were
 - Data availability: Data for the study is currently collected (or could be easily collected) by the federal agency
 - Rigor: Sample size large enough for statistical power and policy relevance
 - Relevance: Answers a priority question and fills an important evidence gap 
-- Evidence-Based: Program or program change has a plausible and clear theory of change with potential for impact on a priority outcome
+- Evidence-based: Program or program change has a plausible and clear theory of change with potential for impact on a priority outcome
 
 If this sounds like you, please get in touch! We’re excited to work with agency partners across government. **<a href="{{ '/assets/files/oes-services-list-fy-23.pdf' | prepend: site.baseurl }}" target="_blank">Learn more about working with the Office of Evaluation Sciences</a>**, our service offerings, and criteria for collaborations.
 
