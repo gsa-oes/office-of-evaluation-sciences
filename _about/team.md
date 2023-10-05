@@ -61,3 +61,4 @@ filter_button_message: By year, title, home institution, and agency collaborator
   <button aria-label="close" class="close-modal" id="close-modal">✕</button>
   <div id="bio"></div>
 </div>
+For opportunities to join the team, please visit our <a href="https://oes.gsa.gov/opps/">opportunities page</a>.
