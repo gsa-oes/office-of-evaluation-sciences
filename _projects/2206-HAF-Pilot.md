@@ -30,7 +30,7 @@ HAF was newly introduced in Idaho in June 2022, and many homeowners may not have
 We designed and implemented a randomized evaluation to measure the impact of mailing that postcard on applications to IHFA’s HAF program, targeting a sample of 1,651 homeowners in pre-foreclosure or foreclosure. 
 
 ## What was the impact?
-We find strong evidence that the postcards did not increase the number of applications to Idaho’s HAF. The findings saved IHFA approximately $25,000, which was redirected to billboards targeting eligible homeowners in hard-to-reach rural areas. Future research could evaluate the impact of other forms of outreach aimed to encourage HAF applications amongst at-risk homeowners.
+We find strong evidence that the postcards did not increase the number of applications to Idaho’s HAF. The findings saved IHFA approximately $25,000, which was redirected to fund English and Spanish language billboards targeting eligible homeowners in hard-to-reach rural areas with above average shares of Hispanic/Latino populations. Future research could evaluate the impact of other forms of outreach aimed to encourage HAF applications amongst at-risk homeowners.
 
 <b>Figure 1.</b> Percentage of households that initiated HAF applications
 <img src="{{ '/assets/img/project-images/2206-image.svg' | prepend: site.baseurl }}" alt="Percentage of households that initiated
