@@ -10,9 +10,9 @@ summary: Check out our events and workshops.
 # Evaluation and Evidence Training Series
 This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a class="usa-link usa-link--external" href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> 
 
-A PDF of the FY2023 training schedule is <a href="http://oes.gsa.gov/assets/files/FY23-workshop-calendar.pdf" target="_blank">available here.</a>
-
 ## Past federal workshops
+
+See a PDF of the FY2023 Evaluation and Evidence Training Series <a href="http://oes.gsa.gov/assets/files/FY23-workshop-calendar.pdf" target="_blank">training schedule.</a>
 
 ### Evaluation 101
 An introduction to evaluation as a method to answer important questions, including what it is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
