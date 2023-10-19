@@ -12,8 +12,6 @@ This training series is a continuing partnership between the Office of Managemen
 
 ## Past federal workshops
 
-See a PDF of the FY2023 Evaluation and Evidence Training Series <a href="http://oes.gsa.gov/assets/files/FY23-workshop-calendar.pdf" target="_blank">training schedule.</a>
-
 ### Evaluation 101
 An introduction to evaluation as a method to answer important questions, including what it is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
 - November 9, 2022
