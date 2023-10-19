@@ -9,9 +9,10 @@ summary: We hope others can use and build on what we've learned.
 Below are resources we’ve developed through our work building evidence government-wide.
 
 ## Newsletters
-OES sends out regular newsletters with upcoming events, recent project results, and other news. You can subscribe to our newsletter <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">here</a>.
+OES sends out regular newsletters with upcoming events, recent project results, and other news. <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">Subscribe to our newsletter.</a>
 
 ### 2023
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/37524e7?reqfrom=share" target="_blank">October 2023: Outreach interventions increase ACA marketplace enrollment</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/35c2703?reqfrom=share" target="_blank">May 2023: OES Leads a National Evaluation of the American Rescue Plan and Publishes Equity Evaluation Series Memos</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/349ef73?reqfrom=share" target="_blank">February 2023: Results from four evaluations of the American Rescue Plan’s State and Local Fiscal Recovery Funds Program</a>
 
