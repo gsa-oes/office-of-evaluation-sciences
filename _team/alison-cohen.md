@@ -6,6 +6,8 @@ year:
   - 2023
 home: University
 agency:
+  - Health and Human Services
+  - State
 title: Fellow
 status: Current
 ---
