@@ -14,7 +14,7 @@ summary: Our mission is to build and use evidence to better serve the public.
 
 ## Who we are
  
-Since 2015, OES has recruited over 150 interdisciplinary experts (psychologists, economists, statisticians, and more) into the federal government. The team is a mix of federal employees, fellows and academic affiliates, often on loan from a university or research institution.
+Since 2015, OES has recruited over 175 interdisciplinary experts (psychologists, economists, statisticians, and more) into the federal government. The team is a mix of federal employees, fellows and academic affiliates, often on loan from a university or research institution.
 
 ## What we do
 
