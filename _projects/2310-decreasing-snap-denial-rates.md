@@ -4,10 +4,10 @@ permalink: /2309-decreasing-snap-denial-rates/
 tags: 
   - project
   - arp
-image: /assets/img/project-images/2310-snap-logo.png
-image_alt_text: woman holding an iPhone
-image-credit: https://unsplash.com/photos/Z9Tjplzzgh4
-analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf
+image: /assets/img/project-images/2310-snap.webp
+image_alt_text: Sign that says we welcome SNAP benefits
+image-credit: https://www.flickr.com/photos/usdagov/4622011485
+analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.pdf
 abstract: 
 year: 2023  
 domain: American Rescue Plan, Payment Integrity
