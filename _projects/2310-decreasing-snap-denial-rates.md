@@ -4,7 +4,7 @@ permalink: /2309-decreasing-snap-denial-rates/
 tags: 
   - project
   - arp
-image: /assets/img/project-images/2309-image.jpg  
+image: /assets/img/project-images/2310-snap-logo.png
 image_alt_text: woman holding an iPhone
 image-credit: https://unsplash.com/photos/Z9Tjplzzgh4
 analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf
