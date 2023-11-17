@@ -1,6 +1,6 @@
 ---
 title: Decreasing SNAP denial rates with a text campaign and document uploader
-permalink: /2309-decreasing-snap-denial-rates/
+permalink: /2310-decreasing-snap-denial-rates/
 tags: 
   - project
   - arp
