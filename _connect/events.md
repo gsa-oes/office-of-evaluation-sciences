@@ -8,13 +8,15 @@ class:
 summary: Check out our events and workshops.
 ---
 # Evaluation and Evidence Training Series
-This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a class="usa-link usa-link--external" href="https://community.max.gov/x/yrHGe" target="_blank">MAX.gov site.</a> 
+This training series is a continuing partnership between the Office of Management and Budget’s Evidence Team (OMB) and OES. All trainings will be held via webinar on Zoom for Government. These workshops are for Federal Executive Branch employees only. Register online for upcoming workshops and see resources from past workshops at the <a class="usa-link usa-link--external" href="https://community.max.gov/x/wVkCgg" target="_blank">MAX.gov site.</a> 
 
-## Past federal workshops
+## Upcoming federal workshops
 
 ### Evaluation 101
 An introduction to evaluation as a method to answer important questions, including what it is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- November 9, 2022
+- Wednesday, January 17, 2023 from 3:00 - 4:30 pm ET
+
+## Past federal workshops
 
 ### Evaluating Large Investments
 Agencies will share their approaches to evaluating grant-funded programs with a specific focus on agencies’ strategies to evaluate large investments from the Infrastructure Investment and Jobs Act and Inflation Reduction Act.
