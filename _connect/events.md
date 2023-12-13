@@ -14,7 +14,7 @@ This training series is a continuing partnership between the Office of Managemen
 
 ### Evaluation 101
 An introduction to evaluation as a method to answer important questions, including what it is, what questions it can and cannot answer, and how it can help agencies better understand their programs, policies, and operations.
-- Wednesday, January 17, 2023 | 3:00 - 4:30 pm ET
+- Wednesday, January 17, 2023 from 3:00 - 4:30 pm ET
 
 ## Past federal workshops
 
