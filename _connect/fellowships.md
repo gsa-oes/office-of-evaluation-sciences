@@ -17,7 +17,7 @@ OES is hiring a Tribal Engagement Fellow to begin a part-time position in Spring
 
 OES is seeking candidates who have significant expertise conducting and/or facilitating research with Native Nations, citizens of Native Nations, and Tribal governments to join OES as a Tribal Engagement Fellow in the spring of 2024. Specifically, we are seeking an individual who has expertise in facilitating engagement and research with citizens of Native nations, is well versed in the principles of indigenous data sovereignty, and who would be willing and able to advise OES team members on respectful, appropriate engagement and ethical research practice with Native nations. 
 
-<a href="{{ '/assets/files/tribal-engagement-fellow-oes-solicitation-fy24.pdf' | prepend: site.baseurl }}" target="_blank">Please read the full solicitation</a> and <a class="usa-button usa-button--big" href="https://docs.google.com/forms/d/e/1FAIpQLSfrbzvlye2OuI-9BkVdahd-nsCP1SvGF2GqXftsOYtTxoZiZw/viewform">apply now!</a></p>
+<a href="{{ '/assets/files/tribal-engagement-fellow-oes-solicitation-fy24.pdf' | prepend: site.baseurl }}" target="_blank">Please read the full solicitation</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrbzvlye2OuI-9BkVdahd-nsCP1SvGF2GqXftsOYtTxoZiZw/viewform">apply now!</a>
 
 The application deadline is 11:59pm on January 31, 2024. 
 
