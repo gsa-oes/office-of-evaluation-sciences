@@ -19,7 +19,7 @@ OES is seeking candidates who have significant expertise conducting and/or facil
 
 <a href="{{ '/assets/files/tribal-engagement-fellow-oes-solicitation-fy24.pdf' | prepend: site.baseurl }}" target="_blank">Please read the full solicitation</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrbzvlye2OuI-9BkVdahd-nsCP1SvGF2GqXftsOYtTxoZiZw/viewform">apply now!</a>
 
-The application deadline is 11:59pm on January 31, 2024. 
+The application deadline is 11:59pm ET on January 31, 2024. 
 
 ## OES fellowship overview
 Fellows and associate fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for federal employees applying for a rotational detail. You can learn more about the position and what we look for by <a href="{{ '/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf' | prepend: site.baseurl }}" target="_blank">viewing the 2023 Fellowship Solicitation</a>.
