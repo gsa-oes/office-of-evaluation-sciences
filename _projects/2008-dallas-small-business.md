@@ -11,10 +11,9 @@ image-credit: https://www.flickr.com/photos/texaseagle/3782314675
 analysis-plan: /assets/analysis/Dallas SBCF Analysis Plan.pdf
 abstract:  /assets/abstracts/2008-abstract-sba-dallas.pdf
 year: 2021
-type: Program Evaluation
+type: Impact evaluation of program
 domain: Economic Opportunity
 status: Complete
-type: Impact evaluation of program
 agency: 
   - Small Business Administration
 summary: Analysis of a pre-existing lottery for small business grants and loans was unable to determine impact on business resilience
@@ -50,4 +49,4 @@ _Note:_ Blue circles show estimated effect of invitation, yellow triangles show 
 ## Key takeaways
 We identified at least two directions for future work to improve both program implementation and evaluation. First, building comprehensive and easily accessible datasets on the small business population. Access to EIN, address, and quarterly wage bill of all of the business establishments in a jurisdiction, could allow outreach to be better targeted and support additional research on employment impacts of relief programs. Second, prioritizing additional evaluation activities on how to increase follow-up by relief applicants. Most businesses (56%) who were invited to submit documents for funding simply did not follow up or withdrew. Reducing this rate might improve the efficiency of relief fund distribution and enhance ability to measure its impact. 
 
-Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/Dallas SBCF Analysis Plan.pdf">on GitHub</a>.*
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/Dallas SBCF Analysis Plan.pdf">on GitHub</a>.
