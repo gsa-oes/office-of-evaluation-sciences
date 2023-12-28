@@ -9,7 +9,7 @@ analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-p
 abstract: /assets/abstracts/2107-describing-candidate-assessments-and-hiring-outcomes-doi.pdf
 year: 2023  
 domain: Government Operations
-type: Descriptive Study
+type: Descriptive study
 agency: Interior
 status: Complete
 summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior
