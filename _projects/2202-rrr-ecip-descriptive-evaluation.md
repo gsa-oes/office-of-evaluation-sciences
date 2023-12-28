@@ -9,7 +9,7 @@ image-credit: https://www.pexels.com/photo/person-holding-gray-twist-pen-and-whi
 analysis-plan: 
 abstract-web: 
 year: 2023 
-type: Descriptive Study
+type: Descriptive study
 domain: Economic Opportunity
 agency: Treasury
 status: Complete
