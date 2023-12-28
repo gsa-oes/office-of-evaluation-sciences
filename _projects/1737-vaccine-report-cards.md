@@ -1,5 +1,5 @@
 ---
-title:  Increasing Immunization Compliance in Schools
+title:  Increasing immunization compliance in schools
 permalink: /projects/vaccine-report-cards/
 tags:
   - project
@@ -12,11 +12,11 @@ abstract: /assets/abstracts/1737-vaccine-report-cards.pdf
 academic-pub: /assets/publications/1737-academic-publication-immunization-report-cards-2019.pdf
 intervention: /assets/interventions/1737-Immunization-compliance-in-schools-Intervention-pack.pdf
 year: 2018 
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Health and Human Services
-summary: Data visualization for school-specific immunization compliance reports did not impact compliance rates.
+summary: Data visualization for school-specific immunization compliance reports did not impact compliance rates
 ---
 
 ## What was the challenge?
@@ -25,7 +25,7 @@ OES and the National Vaccine Program Office in the U.S. Department of Health and
 
 ## What was the program change?
 
-OES designed report cards to report on school and daycare center immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using data visualization software and by using immunization registry data. 
+We designed report cards to report on school and daycare center immunization compliance rates relative to top performers and corresponding star rating. The report cards were created using data visualization software and by using immunization registry data. 
 
 ![image]({{site.baseurl}}/assets/img/project-images/1739-image.webp)
 
@@ -39,8 +39,8 @@ We randomized the 304 schools and 396 daycare centers, whereby school leaders (p
 
 There was no significant difference in compliance rates between treatment and control schools at the end of the school year, six months after the first report card was sent.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1737-vaccine-report-cards-plan.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1737-vaccine-report-cards-plan.pdf">on GitHub</a>.
 
-<i> Related Publication</i>
+<i> Related publication:</i>
 <br>
-Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa/article/view/55">Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial.</a> Journal of Behavioral Public Administration 2, no. 2 (2019).
+Jessica Leight and Elana Safran. <a href="https://journal-bpa.org/index.php/jbpa/article/view/55">Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial.</a> <i>Journal of Behavioral Public Administration 2</i>, no. 2 (2019).
