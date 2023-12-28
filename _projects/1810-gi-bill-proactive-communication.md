@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/1810-analysis-plan.pdf
 abstract: /assets/abstracts/1810-gi-bill-proactive-communication.pdf
 year: 2020
 status: Complete
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Education
 agency: Veterans Affairs
 summary: A general proactive email, encouraging increased postsecondary enrollment, influenced the enrollment intensity of Post-9/11 GI Bill users
@@ -34,4 +34,4 @@ This collaboration adds to the growing body of evidence on the positive effect o
 
 ![image]({{site.baseurl}}/assets/img/project-images/1810-graph.webp)
 
-Verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1810-analysis-plan.pdf">on GitHub</a>.
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1810-analysis-plan.pdf">on GitHub</a>.
