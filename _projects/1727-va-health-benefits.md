@@ -1,5 +1,5 @@
 ---
-title: Increasing Veteran Health Care Benefits Enrollment
+title: Increasing Veteran health care benefits enrollment
 permalink: /projects/va-health-care-benefits/
 tags: 
   - project  
@@ -9,11 +9,11 @@ image_alt_text: Patient in a wheelchair at a hospital
 image-credit: https://www.flickr.com/photos/marine_corps/4586886190/in/photolist-7ZjZsE
 abstract: /assets/abstracts/1727-va-health-care-benefits.pdf
 year: 2017
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Veterans Affairs
-summary: Emails to transitioning servicemembers about VA health care benefits did not affect enrollment.
+summary: Emails to transitioning servicemembers about VA health care benefits did not affect enrollment
 ---
 ## What was the challenge?
 
@@ -21,7 +21,7 @@ summary: Emails to transitioning servicemembers about VA health care benefits di
 
 ## What was the program change?
 
-The Office of Evaluation Sciences (OES) and the VA’s Health Eligibility Center designed three emails to TSMs, sent 60 and 30 days pre-separation and 30 days post-separation. The email messages informed recipients of the availability of VA health benefits, summarized the eligibility requirements and the application process, and prompted them to consider enrolling.
+OES and the VA’s Health Eligibility Center designed three emails to TSMs, sent 60 and 30 days pre-separation and 30 days post-separation. The email messages informed recipients of the availability of VA health benefits, summarized the eligibility requirements and the application process, and prompted them to consider enrolling.
 
 ## How did the evaluation work?
 
