@@ -11,7 +11,7 @@ abstract: /assets/abstracts/1504-Federal-Health-Insurance-Marketplace-Enrollment
 intervention: /assets/interventions/1504-FHIM-intervention-pack.pdf
 academic-pub: /assets/publications/1504-yokum_2022_oi_220002_1646173226.27872.pdf
 year: 2015
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Health and Human Services
