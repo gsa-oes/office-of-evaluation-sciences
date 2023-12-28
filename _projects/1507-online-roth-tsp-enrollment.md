@@ -8,7 +8,7 @@ image: /assets/img/project-images/roth-tsp-enrollment.webp
 image_alt_text: Roth TSP enrollment
 abstract: /assets/abstracts/1507-Servicemember-TSP-Enrollment.pdf
 year: 2015
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Retirement Security
 agency: Defense
