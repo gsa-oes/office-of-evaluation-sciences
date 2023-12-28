@@ -1,14 +1,15 @@
 ---
-title: Increasing Voluntary Contributions at Congregate Meals Program Sites
+title: Increasing voluntary contributions at congregate meals program sites
 permalink: /collaborations/congregate-meals/
 tags: 
+- project
 image: /assets/img/project-images/othercollabs/congregate-meals-image.webp
 image_alt_text: Fruit and veg in the shape of a heart
 image-credit: https://pixy.org/1398140/ 
 abstract: /assets/abstracts/Abstract - Congregate Meals_2020-12-22.pdf
 intervention: /assets/interventions/Intervention Pack - Congregate Meals (1).pdf
 year: 2021
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Communications
 agency: Health and Human Services
