@@ -1,5 +1,5 @@
 ---
-title: Increasing Use of Patient Generated Health Data through Provider Encouragement
+title: Increasing use of patient generated health data through provider encouragement
 permalink: /projects/patient-health-data-provider-encouragement/
 tags: 
   - project
@@ -12,11 +12,11 @@ abstract: /assets/abstracts/1729-1-patient-generated-health-data-provider-encour
 intervention: /assets/interventions/1729-1-intervention-pack-provider-encouragement.pdf
 academic-pub: /assets/publications/1729-publication-electronic-blood-glucose-monitoring-impacts-on-provider-and-patient-behavior.pdf
 year: 2019
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Health and Human Services
-summary: A virtual provider training and encouragement increased use of electronic blood glucose flow sheets.
+summary: A virtual provider training and encouragement increased use of electronic blood glucose flow sheets
 ---
 ## What was the challenge?
 
@@ -38,8 +38,7 @@ The intervention was tested using a cluster randomized controlled trial with 20 
 
 The intervention yielded large and statistically significant effects across the three outcomes: Patients at practices randomly assigned to the treatment group were more likely to receive an order for electronic flow sheets, more likely to use the flow sheet following the provider training, and less likely to see a change to their active medications in the 14 weeks after the provider trainings.
 
-### <i>Related Publication</i>
+Related publication:
 Allyson Root, Christopher Connolly, Season Majors, Hassan Ahmed, and Mattie Toma. "<a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocac069/6587354?login=true" target="_blank">Electronic blood glucose monitoring impacts on provider and patient behavior</a>." *Journal of the American Medical Informatics Association*, ocac069 (2022).
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf">click here</a>.</i>
-
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1729-increasing-patient-use-of-electronic-health-records.pdf">on GitHub</a>.
