@@ -12,7 +12,7 @@ image-credit: https://www.flickr.com/photos/alan-light/7184218434
 academic-pub: /assets/abstracts/2103-HEERF-eval-design-report.pdf
 year: 2021
 status: Complete
-type: Evaluation Design
+type: Evaluation design
 domain:
  - American Rescue Plan
  - Education
