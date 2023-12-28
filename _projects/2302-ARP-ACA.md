@@ -11,7 +11,7 @@ image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/
 analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
 abstract-web: /results/aca-systematic-review-meta-analysis/
 year: 2023
-type: Descriptive Study
+type: Descriptive study
 domain: American Rescue Plan
 agency: Health and Human Services
 status: Complete
@@ -36,7 +36,7 @@ Interventions providing enrollment support tended to be more effective than thos
 
 From this, we learned that outreach interventions can increase take-up. Increasing enrollment through addressing administrative burdens will be most effective when focused on providing information and support, rather than information alone.
 
-_Notes:_
+Notes:
 1. Ortaliza, Jared, Krutika Amin, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/as-aca-marketplace-enrollment-reaches-record-high-fewer-are-buying-individual-market-coverage-elsewhere/">As ACA Marketplace enrollment reaches record high, fewer are buying individual market coverage elsewhere.</a> 2023. KFF. 
 2. McDermott, Daniel, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/a-closer-look-at-the-uninsured-marketplace-eligible-population-following-the-american-rescue-plan-act/">A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act.</a> 2021. KFF.
 3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/404a7572048090ec1259d216f3fd617e/aspe-end-mcaid-continuous-coverage_IB.pdf.
