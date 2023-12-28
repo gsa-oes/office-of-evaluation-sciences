@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-anal
 abstract: 
 year: 2023  
 domain: American Rescue Plan
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 agency: Health and Human Services
 status: Ongoing
 summary: Analysis Plan Registration
