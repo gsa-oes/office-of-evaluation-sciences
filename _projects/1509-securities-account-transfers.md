@@ -7,7 +7,7 @@ image_alt_text: Treasury building front
 image-credit: https://www.flickr.com/photos/71380981@N06/
 abstract: /assets/abstracts/1509-Legacy-Treasury-Direct-Accounts.pdf
 year: 2015
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Government Operations
 agency: Treasury
