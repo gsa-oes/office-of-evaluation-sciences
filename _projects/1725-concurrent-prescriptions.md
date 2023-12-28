@@ -1,5 +1,5 @@
 ---
-title:  Reducing Concurrent Opioid-Benzodiazepine Prescriptions Through Provider Messages
+title: Reducing concurrent opioid-benzodiazepine prescriptions through provider messages
 permalink: /projects/concurrent-prescriptions/
 tags: 
   - project
@@ -13,7 +13,7 @@ abstract: /assets/abstracts/1725-concurrent-rx-abstract.pdf
 academic-pub-web: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898
 status: Complete
 year: 2021
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Health
 agency: Defense
 summary: Targeted messages to providers did not reduce concurrent prescriptions
@@ -32,8 +32,7 @@ There was no statistically significant difference in patients’ total receipt o
 
 <img src="{{ '/assets/img/project-images/1725-fig1.webp' | prepend: site.baseurl }}" alt="A line graph comparing the control and treatment groups on average days of opioid-benzodiazepine overlap and days relative to enrollment." width="1500">
 
-<i>Related Publications</i>
-
+Related publications:
 Sacarny A, Safran E, Steffel M, et al. <a href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial.</a> <i>JAMA Health Forum.</i> 2022;3(9):e223378.
 
-*You can verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">here</a>.*
+Verify the upload date of our analysis plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/concurrent-prescriptions.pdf">on GitHub</a>.
