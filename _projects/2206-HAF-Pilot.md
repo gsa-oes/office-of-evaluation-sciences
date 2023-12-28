@@ -14,7 +14,7 @@ domain:
  - American Rescue Plan
  - Housing
 agency: Treasury
-type: Program Evaluation
+type: Impact evaluation of program change
 status: Complete
 summary: Sending postcards did not increase applications from at-risk homeowners
 featured:
