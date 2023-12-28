@@ -11,6 +11,7 @@ abstract:
 year: 2022  
 domain: Health
 agency: Social Security Administration
+type: Impact evaluation
 status: Ongoing
 summary: Analysis Plan Registration
 featured: 
