@@ -16,7 +16,7 @@ agency: Education
 summary: Email scale-up resulted in more than 6,000 borrowers signing up for income driven repayment plans
 ---
 ## What was the challenge?
-Student loan borrowers have over $1.26 trillion dollars in outstanding Federal student loan debt. Income-driven repayment (IDR) plans can help Americans manage this debt by limiting their monthly payments to a percentage of their discretionary income and providing loan forgiveness. Despite these benefits, fewer than 15% of eligible student loan borrowers are in IDR repayment plans.
+Student loan borrowers have over $1.26 trillion dollars in outstanding federal student loan debt. Income-driven repayment (IDR) plans can help Americans manage this debt by limiting their monthly payments to a percentage of their discretionary income and providing loan forgiveness. Despite these benefits, fewer than 15% of eligible student loan borrowers are in IDR repayment plans.
 
 ## What was the program change?
 We worked with ED’s Office of Federal Student Aid (FSA) to design and test the application of proven insights in updated emails sent to a number of different borrower groups eligible for IDR plans.
