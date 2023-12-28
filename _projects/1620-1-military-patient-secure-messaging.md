@@ -1,5 +1,5 @@
 ---
-title: Increasing Military Patient Use of Secure Messaging through Personal Appeal and Assistance
+title: Increasing military patient use of secure messaging through personal appeal and assistance
 permalink: /projects/military-secure-messaging/
 tags: 
   - project
@@ -9,11 +9,11 @@ image_alt_text: Hands typing on laptop
 image-credit: https://pixabay.com/photo-1149148/
 abstract: /assets/abstracts/1620-1_DHA Secure-messaging.pdf
 year: 2017 
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health 
 agency: Defense 
-summary: Provider encouragement and on-the-spot assistance increased patient registrations for secure messaging.
+summary: Provider encouragement and on-the-spot assistance increased patient registrations for secure messaging
 ---
 ## What was the challenge?
 
@@ -32,4 +32,3 @@ Patient registration for secure messaging at the NMCCL Family Medicine Clinic wa
 ## What was the impact?
 
 We estimate that the intervention was associated with an additional 224 patients registering in the secure messaging system per month, compared to a background growth in registrations of 48 per month across all of the sites — a greater than five-fold increase in the rate at which registrations grew.
-
