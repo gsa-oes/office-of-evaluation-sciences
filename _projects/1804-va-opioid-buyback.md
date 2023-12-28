@@ -10,7 +10,7 @@ analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
 year: 2022
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Veterans Affairs

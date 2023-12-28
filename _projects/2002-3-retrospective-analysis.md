@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2002-3-analysis-plan.pdf
 abstract: /assets/abstracts/2002-CMS-reducing-nappropriate-co-prescribing-behaviors-abstract.pdf
 intervention: /assets/interventions/2002-CMS-intervention-pack.pdf
 year: 2022
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Health
 agency: Health and Human Services
 status: Complete
@@ -37,4 +37,4 @@ We were not able to complete the analysis as planned. In cases where data are no
 
 The <a href="/assets/analysis/2002-3-analysis-plan.pdf" target="_blank">analysis plan</a> posted on GitHub details a strategy for how a potential analysis may be conducted. CMS plans to complete the analysis and report their findings.
 
-Verify the upload date of our Analysis Plan on <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2002-3-analysis-plan.pdf">GitHub</a>.
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2002-3-analysis-plan.pdf"> on GitHub</a>.

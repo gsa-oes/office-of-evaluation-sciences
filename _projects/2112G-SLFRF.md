@@ -10,7 +10,7 @@ image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=39129
 analysis-plan: /assets/analysis/2112G-3-analysis-plan.pdf
 abstract-web: /results/slfrf-tribal-govs-neus/
 year: 2022 
-type: Descriptive Study
+type: Descriptive study
 domain:
  - American Rescue Plan
  - Economic Opportunity

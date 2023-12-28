@@ -7,7 +7,7 @@ image_alt_text: Treasury building front view
 image-credit: https://www.flickr.com/photos/kevlar/
 abstract: /assets/abstracts/1501-Delinquent-Debt-Repayment.pdf
 year: 2015
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Government Operations
 agency: Treasury
@@ -19,7 +19,7 @@ The Department of the Treasury’s Debt Management Services (DMS) was seeking to
 
 ## What was the program change?
 
-OES modified the DMS collection letter using insights such as simplification, personalization, social comparison, and emphasizing the total debt owed, to increase the rate of debt recovery.
+We modified the DMS collection letter using insights such as simplification, personalization, social comparison, and emphasizing the total debt owed, to increase the rate of debt recovery.
 
 ## How did the evaluation work?
 

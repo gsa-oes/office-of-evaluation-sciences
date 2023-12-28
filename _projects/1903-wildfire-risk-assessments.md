@@ -1,5 +1,5 @@
 ---
-title:  Increasing Requests for Wildfire Risk Assessments
+title:  Increasing requests for wildfire risk assessments
 permalink: /projects/wildfire-risk-assessments/
 tags: 
   - project
@@ -11,11 +11,11 @@ analysis-plan: /assets/analysis/1903-analysis-plan-MT-wildfire.pdf
 abstract: /assets/abstracts/1903-MT-wildfire-abstract.pdf
 intervention: /assets/interventions/1903-intervention-pack.pdf
 year: 2021
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Communications
 agency: Agriculture
-summary: Letters mailed to property owners increased requests for on-site wildfire risk assessments in Montana.
+summary: Letters mailed to property owners increased requests for on-site wildfire risk assessments in Montana
 ---
 ## What was the challenge?
 
@@ -35,6 +35,6 @@ Properties in Park and Gallatin Counties, Montana, located in moderate or high w
 
 ## What was the impact?
 
-Sending letters to property owners increased the share of property owners requesting assessments by 6.9 percentage points.  The effect of sending letters did not vary between the two counties, or between properties in moderate vs. high wildfire hazard areas. Differences in the request rate between groups sent different versions of the letter were not statistically significant, although the analysis rules out differences between letter groups as small as 2.5 percentage points. The letter that provided information plus framed wildfire risks in terms of effects on the community yielded the highest request rate.
+Sending letters to property owners increased the share of property owners requesting assessments by 6.9 percentage points. The effect of sending letters did not vary between the two counties, or between properties in moderate vs. high wildfire hazard areas. Differences in the request rate between groups sent different versions of the letter were not statistically significant, although the analysis rules out differences between letter groups as small as 2.5 percentage points. The letter that provided information plus framed wildfire risks in terms of effects on the community yielded the highest request rate.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1903-analysis-plan-MT-wildfire.pdf">here</a>. 
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1903-analysis-plan-MT-wildfire.pdf">on GitHub</a>.

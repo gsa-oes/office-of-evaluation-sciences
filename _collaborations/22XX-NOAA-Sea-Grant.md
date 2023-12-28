@@ -11,7 +11,7 @@ visualization: /assets/files/Knauss-Fellowship-process-map-long.pdf
 year: 2022
 domain: 
 agency: Commerce
-summary: Administrative data and survey responses describe program challenges and opportunities to improve access and equity.
+summary: Administrative data and survey responses describe program challenges and opportunities to improve access and equity
 featured: 
 ---
 
@@ -34,4 +34,4 @@ We also collaborated with Sea Grant to learn more about the experience of indivi
 
 **Assessing program barriers is difficult because there were few respondents to the survey who did not apply to the fellowship program.** The survey identified what several applicants and Fellows experienced as aspects of the program that were more or less difficult to navigate. However, very few non-applicants responded to the survey, limiting the ability to draw conclusions about what may have prevented some potential applicants from applying.
 
-*This project did not have an Analysis Plan*
+This project did not have an Analysis Plan.

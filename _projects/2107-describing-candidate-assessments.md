@@ -1,7 +1,8 @@
 ---
 title:  Describing candidate assessments and hiring outcomes at DOI
 permalink: /projects/describing-candidate-assessments/
-tags: project  
+tags:
+- project  
 image: /assets/img/project-images/2107-image-briefcase.webp
 image_alt_text: Person walking on a street with briefcase
 image-credit: https://unsplash.com/photos/6dW3xyQvcYE
@@ -9,7 +10,7 @@ analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-p
 abstract: /assets/abstracts/2107-describing-candidate-assessments-and-hiring-outcomes-doi.pdf
 year: 2023  
 domain: Government Operations
-type: Descriptive Study
+type: Descriptive study
 agency: Interior
 status: Complete
 summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior

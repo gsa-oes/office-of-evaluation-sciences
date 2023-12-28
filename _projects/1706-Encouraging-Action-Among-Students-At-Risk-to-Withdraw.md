@@ -1,5 +1,5 @@
 ---
-title: Encouraging Action Among Students At Risk to Withdraw
+title: Encouraging action among students at risk to withdraw
 permalink: /projects/students-at-risk/
 tags: 
   - project
@@ -9,15 +9,15 @@ image_alt_text: Students hugging
 image-credit: https://flic.kr/p/URogRg
 abstract: /assets/abstracts/1706-Students-at-Risk-to-Withdraw.pdf
 year: 2017
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Education
 agency: Education
-summary: Reminding students to reapply for financial aid or begin loan repayment decreased postsecondary enrollment by one percentage point.
+summary: Reminding students to reapply for financial aid or begin loan repayment decreased postsecondary enrollment by 1 percentage point
 ---
 ## What was the challenge?
 
-Each year, students who continue in a postsecondary program must submit a renewal FAFSA to determine eligibility for Federal financial aid. If a student borrower decides to no longer continue in postsecondary education, the student enters a six month grace period followed by loan repayment. Given the timing of when institutions report students' enrollment status to the U.S. Department of Education relative to the grace period, some borrowers may not be prepared to enter repayment and could risk missed payments. Notifying borrowers of the loan repayment timeline could encourage them to take action.  
+Each year, students who continue in a postsecondary program must submit a renewal FAFSA to determine eligibility for federal financial aid. If a student borrower decides to no longer continue in postsecondary education, the student enters a six month grace period followed by loan repayment. Given the timing of when institutions report students' enrollment status to the U.S. Department of Education relative to the grace period, some borrowers may not be prepared to enter repayment and could risk missed payments. Notifying borrowers of the loan repayment timeline could encourage them to take action.  
 
 ## What was the program change?
 
@@ -31,4 +31,4 @@ The U.S. Department of Education identified a pool of student borrowers who were
 
 ## What was the impact?
 
-Borrowers who were emailed were 1.0 percentage point less likely to be enrolled the following spring semester (37.5 percent) than those who were not emailed (38.5 percent). The results persisted through the fall 2016 semester, with borrowers who were emailed 0.9 percentage points less likely to be enrolled (31.3 percent compared to 30.3 percent). This could mean that reminding borrowers of financial aid and loan repayment decisions prompted them to review their decision to return to school. Given that the borrowers included in the study were at risk to withdraw, it is possible some made the decision not to return to school earlier than they otherwise would have.
+Borrowers who were emailed were 1.0 percentage point less likely to be enrolled the following spring semester (37.5%) than those who were not emailed (38.5%). The results persisted through the fall 2016 semester, with borrowers who were emailed 0.9 percentage points less likely to be enrolled (31.3% compared to 30.3%). This could mean that reminding borrowers of financial aid and loan repayment decisions prompted them to review their decision to return to school. Given that the borrowers included in the study were at risk to withdraw, it is possible some made the decision not to return to school earlier than they otherwise would have.

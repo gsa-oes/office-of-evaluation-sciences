@@ -10,7 +10,7 @@ analysis-plan: /assets/analysis/2118-digital-forms-analysis-plan.pdf
 abstract-web: /results/incorporating-evaluation-into-digital-forms/
 year: 2022  
 domain: Government Operations
-type: Program Change and Evaluation
+type: type: Impact evaluation of program change
 agency: General Services Administration
 status: Complete
 summary: Five GSA offices and the American public worked together to improve federal forms
@@ -32,7 +32,7 @@ This evaluation — a first of its kind  in the federal government — brought t
 <b>Figure 1:</b> Form submission by form version
 <img src="{{ '/assets/img/project-images/2118-results-graph.svg' | prepend: site.baseurl }}" alt="Form submission by form version" width="1500">
 
-_Notes:_
+Notes:
 1. Office of Management and Budget, Information Collection Budget of the United States, FY 2018.
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2118-digital-forms-analysis-plan.pdf">on GitHub</a>.

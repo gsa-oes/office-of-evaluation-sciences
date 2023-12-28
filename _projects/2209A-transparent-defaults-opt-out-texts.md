@@ -13,7 +13,7 @@ year: 2023
 domain:
  - American Rescue Plan
  - Communications
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 agency: Health and Human Services
 status: Ongoing
 summary: Analysis Plan Registration

@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analys
 abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
 intervention: /assets/interventions/1803-Atlanta-VA-Intervention-Pack.pdf
 year: 2019
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Veterans Affairs

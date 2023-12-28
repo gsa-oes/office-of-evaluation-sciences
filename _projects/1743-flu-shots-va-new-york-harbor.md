@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/1743-flu-shots-va-new-york-harbor-analysis-plan.
 abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 intervention: /assets/interventions/1743-VA-NY-Harbor-Intervention-Pack.pdf
 year: 2018
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Health
 status: Complete
 agency: Veterans Affairs

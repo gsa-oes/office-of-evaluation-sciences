@@ -1,5 +1,5 @@
 ---
-title:  Integrating health care services in Nigeria
+title: Integrating health care services in Nigeria
 permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
   - USAID
@@ -8,7 +8,7 @@ image_alt_text: Nigerian woman
 image-credit: https://www.usaid.gov/nigeria/global-healthFile:https://www.usaid.gov/sites/default/files/styles/732_width/public/nodeimage/Nigeria%20GH_0.webp
 abstract: /assets/abstracts/msi-project-abstract.pdf
 year: 2018  
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: United States Agency for International Development

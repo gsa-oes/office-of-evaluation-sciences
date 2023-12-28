@@ -1,5 +1,5 @@
 ---
-title:  Using social norms to decrease energy use in public housing
+title: Using social norms to decrease energy use in public housing
 permalink: /projects/energy-use-feedback/
 tags: 
   - project  
@@ -9,7 +9,7 @@ image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_Th
 analysis-plan: /assets/analysis/1808-energy-use-feedback.pdf
 abstract: /assets/abstracts/1808 - Project Abstract HUD Energy.pdf
 year: 2019  
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Communications
 status: Complete
 agency: Housing and Urban Development

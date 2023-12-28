@@ -1,14 +1,15 @@
 ---
 title:  Decreasing energy costs in federally assisted housing
 permalink: /projects/decreasing-energy-costs/
-tags: project  
+tags:
+- project  
 image: /assets/img/project-images/1742.webp  
 image_alt_text: Front of residential tower buildings
 image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.webp
 analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstracts/1742-reducing-energy-costs.pdf
 year: 2018  
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Communications
 status: Complete
 agency: Housing and Urban Development

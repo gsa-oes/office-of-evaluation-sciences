@@ -1,5 +1,5 @@
 ---
-title: Increasing Awareness of Health Insurance Options
+title: Increasing awareness of health insurance options
 permalink: /projects/irs-uninsured/
 tags: 
   - project  
@@ -9,7 +9,7 @@ image_alt_text: Health insurance
 image-credit: https://plex.page/Quality_Health_Insurance
 abstract: /assets/abstracts/1711-irs-uninsured-abstract.pdf
 year: 2018
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Treasury
@@ -33,7 +33,7 @@ During the open-enrollment period for 2017 health insurance coverage, the Intern
 
 **Receiving any letter increased the probability of an individual obtaining at least one month of 2017 health insurance coverage by 0.85 percentage points.** This represents a 1.24% increase relative to 68.5% coverage among individuals in households that did not receive a letter. The most effective letter was the one sent early in the open-enrollment period which also included a personalized estimate; this letter led to a 1.19 percentage point increase in enrollment.
 
-*This project was designed and fielded before OES formalized the OES Evaluation Policy and standardized the six steps we now use to ensure our findings are relevant and reliable.*
+*This project was designed and fielded before we formalized our Evaluation Policy and standardized the six steps we now use to ensure our findings are relevant and reliable.*
 
-*Related Publication*<br>
-Goldin, Jacob, Ithai Z. Lurie, and Janet McCubbin. “<a href="https://academic.oup.com/qje/article/136/1/1/5911132">Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach</a>.” The Quarterly Journal of Economics, 136 no. 1 (2021): 1-49. 
+Related publication:<br>
+Goldin, Jacob, Ithai Z. Lurie, and Janet McCubbin. “<a href="https://academic.oup.com/qje/article/136/1/1/5911132">Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach</a>.” <i>The Quarterly Journal of Economics</i>, 136 no. 1 (2021): 1-49. 

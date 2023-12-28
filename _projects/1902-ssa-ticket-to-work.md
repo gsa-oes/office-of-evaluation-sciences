@@ -12,7 +12,7 @@ abstract-web: /results/increasing-participation-in-ticket-to-work/
 behavioral-map: /assets/files/1902-increasing-participation-in-ttw-behavioral-map.pdf
 intervention: /assets/files/1902-increasing-participation-in-ttw-intervention-pack.pdf
 year: 2023
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Economic Opportunity, Employment, Health
 status: Complete
 agency: Social Security Administration
@@ -61,4 +61,4 @@ A pre-registered exploratory analysis suggests that sending a mailing two years 
 1. Mathematica. “Characteristics, Employment, and Sources of Support Among Working-Age SSI and DI Beneficiaries.” PDF file. April 2009.
 2. Office of Evaluation Sciences. “How to design effective communications: What has OES learned?” PDF file. November 2022., Bhargava, S., & Manoli, D. (2015). Psychological frictions and the incomplete take-up of social benefits: Evidence from an IRS field experiment. *American Economic Review*, 105(11), 3489-3529.
 
-Verify the upload date of our analysis plan on <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1902-analysis-plan.pdf">on GitHub</a> or also access the registration information for this project in the <a href="https://www.socialscienceregistry.org/trials/6380">American Economic Association Registry for randomized control trials</a>.
+Verify the upload date of our analysis plan on <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1902-analysis-plan.pdf">on GitHub</a> and access the registration information for this project in the <a href="https://www.socialscienceregistry.org/trials/6380">American Economic Association Registry for randomized control trials</a>.

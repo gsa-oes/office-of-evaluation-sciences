@@ -1,21 +1,21 @@
 ---
-title: Testing Variations of Maternal Immunization Messages
+title: Testing variations of maternal immunization messages
 permalink: /projects/pregnancy-vaccines-ads/
 tags:
   - project
   - vaccines
 image: /assets/img/project-images/1736.webp
-image_alt_text: Vaccines gov website
+image_alt_text: Vaccines.gov website
 image-credit: https://www.vaccines.gov/who_and_when/pregnant/index.html
 analysis-plan: /assets/analysis/1736-testing-maternal-immunization-messages-analysis-plan.pdf
 abstract: /assets/abstracts/1736-pregnancy-vaccines-ads-abstract.pdf
 intervention: /assets/interventions/1736-NVPO-ads-Intervention-pack.pdf
 year: 2017
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Health and Human Services
-summary: Variations of an ad did not lead to detectable differences in site visits. 
+summary: Variations of an ad did not lead to detectable differences in site visits
 ---
 ## What was the challenge?
 
@@ -23,7 +23,7 @@ The Department of Health and Human Services (HHS) wanted to strengthen maternal 
 
 ## What was the program change?
 
-The Office of Evaluation Sciences (OES) worked with NVPO to craft variations of a Facebook ad that targeted pregnant Facebook users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017.
+We worked with NVPO to craft variations of a Facebook ad that targeted pregnant Facebook users. Four variations of the ad were developed, in which the text and image both varied to focus on either the baby only, or the baby and expecting mom. The ad campaign ran for 18 days in November 2017.
 
 ![image]({{site.baseurl}}/assets/img/project-images/1736-image.webp)
 
@@ -35,4 +35,4 @@ Platform users were randomly assigned to one of the four conditions based on the
 
 We did not observe any statistically significant differences in click-through rates between the ad variations.
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1736-pregnancy-vaccines-ads-analysis.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1736-pregnancy-vaccines-ads-analysis.pdf">on GitHub</a>.

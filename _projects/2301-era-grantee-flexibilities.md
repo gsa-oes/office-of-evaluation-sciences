@@ -10,7 +10,7 @@ image-credit: https://www.pexels.com/photo/a-person-wearing-wristwatch-filling-u
 analysis-plan: /assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.pdf
 abstract:
 year: 2023
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: American Rescue Plan
 agency: Treasury
 status: Ongoing

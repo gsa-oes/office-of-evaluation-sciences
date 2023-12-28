@@ -1,5 +1,5 @@
 ---
-title: Increasing ART Adherence and Retention in Care for HIV Positive Women in Ethiopia
+title: Increasing ART adherence and retention in care for HIV positive women in Ethiopia
 permalink: /projects/increasing-art-adherence/
 tags:
   - project
@@ -11,11 +11,11 @@ analysis-plan: /assets/analysis/1722-increasing-ART-adherence.pdf
 abstract: /assets/abstracts/1722-Project Abstract-6 Month.pdf
 academic-pub: /assets/publications/1722 - USAID Ethiopia Anteneh et al AEL 2020.pdf
 year: 2018 
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: United States Agency for International Development
-summary: Phone calls delivered to HIV+ women did not increase ART adherence.
+summary: Phone calls delivered to HIV+ women did not increase ART adherence
 ---
 ## What was the challenge?
 
@@ -27,7 +27,7 @@ To increase retention in care and ART adherence, health workers delivered encour
 
 ## How did the evaluation work?
 
-The evidence-based insight was tested with an individual level randomized control trial. All 866 study participants, HIV+ individuals not yet on ARTs, consented into the study. Approximately one-half of participants (n=436) were randomly assigned to receive the encouraging phone call and approximately one-half (n=430) were randomly assigned to the standard of care. An ordinary least squares (OLS) regression was used to compare retention in care and ART adherence, using existing administrative data, at 1 month, 3 months and 6 months. 
+The evidence-based insight was tested with an individual level randomized controlled trial. All 866 study participants, HIV+ individuals not yet on ARTs, consented into the study. Approximately one-half of participants (n=436) were randomly assigned to receive the encouraging phone call and approximately one-half (n=430) were randomly assigned to the standard of care. An ordinary least squares (OLS) regression was used to compare retention in care and ART adherence, using existing administrative data, at 1 month, 3 months and 6 months. 
 
 ![image]({{site.baseurl}}/assets/img/project-images/1722-graph-1.webp)
 
@@ -39,7 +39,7 @@ This study demonstrated that programmatic data from HIV/AIDS programs can be use
 
 ![image]({{site.baseurl}}/assets/img/project-images/1722-graph-2.webp)
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1722-increasing-ART-adherence.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1722-increasing-ART-adherence.pdf">on GitHub</a>.
 
 <i> Related Publication</i>
 <br>

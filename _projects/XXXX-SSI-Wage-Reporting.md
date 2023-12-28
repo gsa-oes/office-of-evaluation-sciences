@@ -10,7 +10,7 @@ image_alt_text: Scrabble tiles spelling the word wage
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html
 abstract: /assets/abstracts/XXXX-ssi-wage-reporting-abstract.pdf
 year: 2020
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Government Efficiency
 status: Complete
 agency: Social Security Administration
@@ -32,11 +32,11 @@ SSA selected a sample of 50,000 SSI recipients who were between 18 and 50 years 
 
 ## What was the impact?
 
-Three months after the intervention, **SSI recipients who received any letter were 34 percent more likely to have reported any earnings for the previous three months, and they reported about 55 percent more in countable income.** Based on the increase in the amount of countable income reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $5.91 per $1 spent by SSA.
+Three months after the intervention, **SSI recipients who received any letter were 34% more likely to have reported any earnings for the previous three months, and they reported about 55% more in countable income.** Based on the increase in the amount of countable income reported, a cost-benefit analysis suggests that the letters generated a reduction in overpayments of approximately $5.91 per $1 spent by SSA.
 
 ![image]({{site.baseurl}}/assets/img/project-images/graph-ssiwage.webp)
 
 <br>
 <p>
-<a class="usa-button" href="https://oes.gsa.gov/blog/wage-reporting/" target="_blank">Read the Blog: Timely Wage Reporting</a>
+<a class="usa-button" href="https://oes.gsa.gov/blog/wage-reporting/" target="_blank">Read the blog: Timely Wage Reporting</a>
 </p>

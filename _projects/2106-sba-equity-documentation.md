@@ -11,7 +11,7 @@ image-credit: https://p1.pxfuel.com/preview/350/281/154/files-files-shelf-paper-
 analysis-plan: /assets/analysis/2106 - Equity Documentation - 3 - Analysis Plan.pdf
 abstract: /assets/abstracts/2106-abstract.pdf
 year: 2021
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Economic Opportunity
 status: Complete
 agency: Small Business Administration

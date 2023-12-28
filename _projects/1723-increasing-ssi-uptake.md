@@ -1,5 +1,5 @@
 ---
-title:  Increasing SSI Uptake Among a Potentially Eligible Population
+title:  Increasing SSI uptake among a potentially eligible population
 permalink: /projects/increasing-ssi-uptake/
 tags:
   - project
@@ -12,11 +12,11 @@ abstract: /assets/abstracts/1723-Increasing-SSI-Uptake.pdf
 academic-pub: /assets/publications/1723 - Hemmeter et al (2021) - Communicating Program Eligibility A Supplemental Security Income (SSI) Field Experiment.pdf
 intervention: /assets/interventions/1723-intervention-pack-ssi-65plus.pdf
 year: 2018  
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Retirement Security
 agency: Social Security Administration
-summary: Letters to adults 65 or older increased SSI awards by 340%.
+summary: Letters to adults 65 or older increased SSI awards by 340%
 ---
 ## What was the challenge?
 
@@ -36,16 +36,15 @@ Individuals were randomly assigned to receive one of four letter types or to a c
 
 ## What was the impact?
 
-All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 6.0 percent applied for SSI in the nine months after the letters were sent out, compared with 1.0 percent of beneficiaries who did not receive a letter. Similarly, 2.3 percent of beneficiaries who received a letter were awarded SSI during this time, compared with 0.5 percent of beneficiaries who did not receive a letter, an increase of 340%.
+All of the letters had a large and statistically significant impact on applications and awards. Of beneficiaries who received a letter, 6% applied for SSI in the nine months after the letters were sent out, compared with 1% of beneficiaries who did not receive a letter. Similarly, 2.3% of beneficiaries who received a letter were awarded SSI during this time, compared with 0.5% of beneficiaries who did not receive a letter, an increase of 340%.
 <br>
 <p>
-<a class="usa-button" href="https://oes.gsa.gov/blog/ssi-awards/" target="_blank">Read the Blog: OES Letters Quadrupled SSI awards</a>
+<a class="usa-button" href="https://oes.gsa.gov/blog/ssi-awards/" target="_blank">Read the blog: OES letters quadrupled SSI awards</a>
 
-  <a class="usa-button" href="https://oes.gsa.gov/blog/ssi-utilization/">Read the Blog: Using OES Evidence to Inform SSA Outreach</a>
+  <a class="usa-button" href="https://oes.gsa.gov/blog/ssi-utilization/">Read the blog: Using OES evidence to inform SSA outreach</a>
 </p>
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">on GitHub</a>.
 
-*Related Working Paper*<br>
-Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field
-Experiment</a>." 2021.
+Related Working Paper:<br>
+Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment</a>." 2021.

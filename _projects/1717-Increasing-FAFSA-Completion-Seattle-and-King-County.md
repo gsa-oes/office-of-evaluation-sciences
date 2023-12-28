@@ -1,5 +1,5 @@
 ---
-title:  "Increasing FAFSA Completion Among Public Housing Residents: Seattle and King County"
+title: Increasing FAFSA Completion Among Public Housing Residents: Seattle and King County
 permalink: /projects/increasing-fafsa-completion-seattle-and-king-county/
 tags: 
   - project 
@@ -10,7 +10,7 @@ image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
 analysis-plan: /assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf
 abstract: /assets/abstracts/1717-Abstract-Seattle-and-King-County.pdf
 year: 2019  
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Education
 agency: Housing and Urban Development
@@ -35,4 +35,4 @@ The results suggest the communications did not change FAFSA completion rates in 
 
 ![image]({{site.baseurl}}/assets/img/project-images/1717-seattle-graph.webp)
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf">on GitHub</a>.
