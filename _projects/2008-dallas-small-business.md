@@ -14,7 +14,7 @@ year: 2021
 type: Program Evaluation
 domain: Economic Opportunity
 status: Complete
-type: Program Evaluation
+type: Impact evaluation of program
 agency: 
   - Small Business Administration
 summary: Analysis of a pre-existing lottery for small business grants and loans was unable to determine impact on business resilience
