@@ -10,7 +10,7 @@ analysis-plan: /assets/analysis/1901-Analysis-Plan.pdf
 abstract-web: /results/incentives-to-reduce-nonresponse-bias-ahs/
 year: 2023
 status: Complete
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 domain: Government Efficiency
 agency:
     - Census
@@ -30,7 +30,7 @@ We evaluated the effectiveness of targeting incentives to potential respondents 
 We first estimated 86,000 potential respondents’ risk of 2021 nonresponse. We then paired potential respondents with similar estimated risks of nonresponse and assigned each member of the pair to one of two different groups: 1. a “targeted” group (n = 43,000) of potential respondents who received incentives if and only if they fell into the 30% with the highest estimated risk of nonresponse; 2. a “non-targeted” group (n = 43,000) of potential respondents, each of whom had a 30% probability of receiving an incentive irrespective of their estimated nonresponse risk. Potential respondents receiving an incentive via either method were randomly assigned an amount of $2, $5, or $10, delivered in cash in a letter sent to all units in the survey. 
 
 ## How did the evaluation work?
-Potential respondents were randomly assigned to the “targeted” group (n=43,000) or the “non-targeted” group (n=43,000). Among those receiving incentives, the incentive amount ($2, $5, or $10) was also randomly assigned. The response rate outcome was measured using data from the 2021 fielding of the AHS. To estimate changes in nonresponse bias, we tested whether the targeted and non-targeted respondents looked different across a range of ten key demographic and housing characteristics.
+Potential respondents were randomly assigned to the “targeted” group (n = 43,000) or the “non-targeted” group (n = 43,000). Among those receiving incentives, the incentive amount ($2, $5, or $10) was also randomly assigned. The response rate outcome was measured using data from the 2021 fielding of the AHS. To estimate changes in nonresponse bias, we tested whether the targeted and non-targeted respondents looked different across a range of ten key demographic and housing characteristics.
 
 ## What did we learn?
 We find that targeted incentives did increase response rates but did not measurably improve or worsen nonresponse bias. The response rate among the group who received targeted incentives was 0.7 percentage points higher than the response rate of 67.2% in the group who received them completely at random. Holding the total incentive budget constant, simply targeting incentives to the potential respondents with the 30% highest predicted risk of nonresponse induced an additional 300 people to respond compared to allocating incentives totally at random. 
