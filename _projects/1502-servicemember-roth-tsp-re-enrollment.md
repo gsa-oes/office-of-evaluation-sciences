@@ -9,7 +9,7 @@ image_alt_text: Service member re-enrollment
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/abstracts/1502-Servicemember-Roth-TSP-Re-Enrollment.pdf
 year: 2015
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Retirement Security
 agency: Defense
