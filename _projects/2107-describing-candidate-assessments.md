@@ -1,7 +1,8 @@
 ---
 title:  Describing candidate assessments and hiring outcomes at DOI
 permalink: /projects/describing-candidate-assessments/
-tags: project  
+tags:
+- project  
 image: /assets/img/project-images/2107-image-briefcase.webp
 image_alt_text: Person walking on a street with briefcase
 image-credit: https://unsplash.com/photos/6dW3xyQvcYE
