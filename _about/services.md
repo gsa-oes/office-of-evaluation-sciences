@@ -11,9 +11,9 @@ summary:
 
 OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes. We partner with agencies across government to provide the following services:
 
-<h2>Impact Evaluation of a Program Change</h2>
+<h2>Impact evaluation of a program change</h2>
 OES designs an evidence-based program change, usually to address a behavioral barrier, and conducts an evaluation of it to measure impact. 
-{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Program Change and Evaluation" %}
+{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Impact evaluation of program change" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
@@ -35,9 +35,9 @@ OES designs an evidence-based program change, usually to address a behavioral ba
    </div>
 </section>
 {% endif %}
-<h2>Impact Evaluation of a Program</h2>
+<h2>Impact evaluation of a program</h2>
 OES designs and conducts an evaluation to measure the impact of a new or existing program.
-{% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Program Evaluation" %}
+{% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Impact evaluation of program" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
  <section class="usa-accordion featured bg-white padding-1">
@@ -59,10 +59,10 @@ OES designs and conducts an evaluation to measure the impact of a new or existin
    </div>
 </section>
 {% endif %}
-<h2>Descriptive Study</h2>
+<h2>Descriptive study</h2>
 OES designs and conducts a descriptive study using administrative data. Descriptive studies seek to document and understand a phenomenon, program, or process, which could include some set of features of a program or its intended recipients, without measuring effectiveness.
-{% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Descriptive Study" %}
-   {% assign featured_design2 = site.collaborations | where: "featured" , "services" | where: "type", "Descriptive Study" %}
+{% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Descriptive study" %}
+   {% assign featured_design2 = site.collaborations | where: "featured" , "services" | where: "type", "Descriptive study" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
  <section class="usa-accordion featured bg-white padding-1">
