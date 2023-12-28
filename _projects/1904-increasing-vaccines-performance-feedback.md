@@ -1,5 +1,5 @@
 ---
-title:  Increasing Vaccine Uptake Through Performance Feedback
+title:  Increasing vaccine uptake through performance feedback
 permalink: /projects/1904-increasing-vaccines-performance-feedback/
 tags: 
   - project
@@ -10,7 +10,7 @@ image-credit: https://health.mil/-/media/Images/MHS/Photos/IPAP.ashx
 analysis-plan: /assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf
 abstract: /assets/abstracts/1904-project-abstract.pdf
 year: 2021
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Veterans Affairs
@@ -37,4 +37,4 @@ The results suggest that there was **no statistically significant difference in 
 
 ![image](/assets/img/project-images/1904-graph.webp)
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf">click here</a>.</i>
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf">on GitHub</a>.
