@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.
 abstract: 
 year: 2023  
 domain: American Rescue Plan, Payment Integrity
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 agency: Agriculture
 status: Ongoing
 summary: Analysis Plan Registration
@@ -22,4 +22,3 @@ This evaluation is currently being implemented. We have created this project pag
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.pdf">on GitHub</a>. 
  
 Check back for results!
-
