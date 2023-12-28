@@ -1,5 +1,5 @@
 ---
-title: Increasing Military Patient Use of Secure Messaging through Email Reminders
+title: Increasing military patient use of secure messaging through email reminders
 permalink: /projects/military-patient-messaging-emails/
 tags: 
   - project 
@@ -9,11 +9,11 @@ image_alt_text: Computer screen with coding
 image-credit: https://pixabay.com/en/screen-technology-computer-1839500/
 abstract: /assets/abstracts/1620-2-secure-messaging.pdf
 year: 2017
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Health
 agency: Defense 
-summary: Emails sent after an appointment-based intervention had no statistically reliable impact on patient registration for secure messaging.
+summary: Emails sent after an appointment-based intervention had no statistically reliable impact on patient registration for secure messaging
 
 ---
 ## What was the challenge?
@@ -26,10 +26,10 @@ The Defense Health Agency (DHA), Naval Medical Center Camp Lejeune (NMCCL), and 
 
 ## How did the evaluation work?
 
-Patients of roughly half of the providers in the NMCCL Family Medicine Clinic, who were assigned at random to a treatment condition, received follow-up emails. Patients of the remaining providers (the control condition) received no follow-up emails.  We compared the numbers of patients in each group who registered for secure messaging. 
+Patients of roughly half of the providers in the NMCCL Family Medicine Clinic, who were assigned at random to a treatment condition, received follow-up emails. Patients of the remaining providers (the control condition) received no follow-up emails. We compared the numbers of patients in each group who registered for secure messaging. 
 
 ![image]({{site.baseurl}}/assets/img/project-images/1620-2-graph.webp)
 
 ## What was the impact?
 
-Although we earlier found that in-person encouragement and assistance was associated with increases in patient registration, we found no evidence of additional increases in secure messaging registration due to follow-up emails.
+Although earlier we found that in-person encouragement and assistance was associated with increases in patient registration, we found no evidence of additional increases in secure messaging registration due to follow-up emails.
