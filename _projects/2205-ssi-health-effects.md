@@ -11,7 +11,7 @@ abstract:
 year: 2022  
 domain: Health
 agency: Social Security Administration
-type: Impact evaluation
+type: Impact evaluation of program
 status: Ongoing
 summary: Analysis Plan Registration
 featured: 
