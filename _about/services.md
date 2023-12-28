@@ -90,8 +90,8 @@ OES designs and conducts a descriptive study using administrative data. Descript
 # Become an Agency Partner
 OES helps agencies build and use evidence to learn what works. First, we look to our agency partners to identify priority areas where they would like to see improved outcomes. Next, we work closely together to learn how people process information, make decisions, and interact with government programs. 
 
-## Criteria for OES collaborations
-The criteria below describe required components for OES collaborations, and were developed with an aim to guide team decision making and prioritization for new and ongoing projects.
+## Building blocks for OES collaborations
+The building blocks below describe required components for OES collaborations, and were developed with an aim to guide team decision making and prioritization for new and ongoing projects.
 
 - Support: An agency collaborator willing to act on and share results and other key deliverables
 - Data availability: Data for the study is currently collected (or could be easily collected) by the federal agency
