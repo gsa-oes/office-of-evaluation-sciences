@@ -4,6 +4,7 @@ permalink: /collaborations/sb-counterfactual-equity/
 tags: 
   - business
   - covid
+  - project
 image: /assets/img/project-images/othercollabs/sb-equity-image.webp
 image_alt_text: Front of shops in a street
 image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.webp
@@ -11,7 +12,7 @@ analysis-plan: /assets/analysis/2105_SBequity_analysisplan.pdf
 abstract: /assets/abstracts/2105_small-business-counterfactual-equity.pdf
 academic-pub: /assets/publications/2105_SBequity_report_20210723.pdf
 year: 2021
-type: Program Evaluation
+type: Impact evaluation of program
 domain: Economic Opportunity
 status: Complete
 agency: 
@@ -37,4 +38,4 @@ Analyses of descriptive equity show the importance of precise measurement of und
 
 However, weighted lotteries and set asides within first-come, first-served methods offer a consistent way to increase the funding going to historically underserved groups. A better understanding of these effects of allocation methods on the amount of funding flowing to historically underserved businesses will allow government programs to make informed decisions about the criteria they use to determine eligibility and prioritization for relief funds.
 
-Verify the upload date of our Analysis Plan, <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2105_SBequity_analysisplan.pdf">on GitHub</a>.
+Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2105_SBequity_analysisplan.pdf">on GitHub</a>.
