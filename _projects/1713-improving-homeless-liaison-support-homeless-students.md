@@ -1,18 +1,19 @@
 ---
-title:  Identifying Students for the Education for Homeless Children and Youth Program
+title:  Identifying students for the Education for Homeless Children and Youth Program
 permalink: /projects/improving-homeless-liaison-support/
-tags: project  
+tags:
+- project  
 image: /assets/img/project-images/1713-image.jpeg
 image_alt_text: Books in a library
 image-credit: https://pxhere.com/en/photo/1575601
 analysis-plan: 
 abstract: /assets/abstracts/1713-supporting-homeless-students-abstract.pdf
 year: 2018  
-type: Program Change and Evaluation
+type: Impact evaluation of program change
 status: Complete
 domain: Education
 agency: Education
-summary: Identifying Homeless Students for Educational Support Services
+summary: Identifying homeless students for educational support services
 ---
 ## What was the challenge?
 
