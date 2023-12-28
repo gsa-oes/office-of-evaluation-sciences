@@ -9,7 +9,7 @@ image_alt_text: Skyline view of city
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949
 visualization: /assets/files/NOAA-Equity-Diagram.pdf
 year: 2021
-type: Evaluation Design
+type: Evaluation design
 status: Complete
 domain: 
 agency: 
@@ -19,7 +19,7 @@ summary: Evaluation options to build evidence for equity action plans at NOAA
 In response to Executive Order 13985, *On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government (The Equity EO)*, Equity Assessment Teams within the National Weather Service, the National Sea Grant College Program, and the Office for Coastal Management conducted service equity assessments for their programs. Their goal was to understand what aspects of their programs perpetuate systemic barriers for members of underserved communities and identify program changes  to address these barriers in their upcoming Equity Action Plans. 
 
 ## What did we do? 
-We partnered with three NOAA Equity Assessment Teams to develop several evaluations that could build evidence about  each program’s upcoming Equity Action Plan and NOAA’s efforts to address equity barriers. The recommendations include evaluation approaches based on each program’s service equity objectives, specific definitions of underserved communities, equity baselines and benchmarks, and potential data sources for evaluations.
+We partnered with three NOAA Equity Assessment Teams to develop several evaluations that could build evidence about each program’s upcoming Equity Action Plan and NOAA’s efforts to address equity barriers. The recommendations include evaluation approaches based on each program’s service equity objectives, specific definitions of underserved communities, equity baselines and benchmarks, and potential data sources for evaluations.
 
 ## How are the evaluations designed to build evidence? 
 ### National Weather Service 
@@ -58,4 +58,3 @@ Addressing three overarching themes may support ongoing efforts to improve servi
 - **Defining “underserved communities”**: Developing a sustainable, flexible definition of “underserved communities” can create a common baseline for programs to work from as they identify and seek to address the barriers to equitable service delivery for the range of communities they serve.
 - **Establishing the meaning of “community engagement”**: Developing a working definition of and flexible metrics for community engagement could serve as a starting point for programs to understand their current patterns of engagement and engagement strategies. 
 - **Filling the engagement data gap**: Developing a better understanding of engagement with underserved communities requires information about how programs engage with the public and stakeholders. Yet key data, such as demographic data on users or program applicants, is often not available. A challenge for addressing equity needs is identifying appropriate existing data sources and gathering new information when needed. 
- 
