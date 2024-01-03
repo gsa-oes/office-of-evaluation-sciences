@@ -18,7 +18,7 @@ Since 2015, OES has recruited over 175 interdisciplinary experts (psychologists,
 
 ## What we do
 
-OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes.
+OES is an interdisciplinary team that works across the federal government to help agencies build and use evidence. OES partners with federal agencies to answer priority questions with rigorous evaluation methods and administrative data. We design and conduct evaluations of existing programs and evidence-based program changes, and conduct descriptive studies.
 
 ## Why is OES at GSA?
 
