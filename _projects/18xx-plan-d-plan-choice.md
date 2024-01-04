@@ -1,10 +1,10 @@
 ---
-title:  Encouraging active plan choice among LIS beneficiaries
+title: Encouraging active plan choice among LIS beneficiaries
 permalink: /collaborations/plan-d-plan-choice/
 tags:
   - health insurance
 image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.webp
-image_alt_text: Medicare gov website
+image_alt_text: Medicare.gov website
 image-credit: https://www.gao.gov/products/GAO-19-627
 intervention: /assets/interventions/Intervention Pack - Part D Plan Choice.pdf
 year: 2021
@@ -21,4 +21,4 @@ Tens of millions of Americans choose health insurance coverage within federal pr
 We partnered with the Centers for Medicare and Medicaid Services (CMS) to redesign the LIS Choosers Notice. The notice is sent to beneficiaries whose premium would increase in the following year and who previously chose a Medicare Part D prescription drug plan on their own, meaning that they would have to actively choose a different plan to avoid a premium increase. The redesigned letters framed the decision to mitigate inertia and encourage active choice, made salient the benefits of picking the plan that best fits the recipient, and summarized the key takeaways using simple language and key action steps using easy-to-digest bullets. The <a href="{{site.baseurl}}/assets/interventions/Intervention Pack - Part D Plan Choice.pdf">Intervention Pack</a> shows the original and redesigned letters, and highlights the best practices adopted in the re-design for effective communications.
 
 ## What did we learn?
-Starting in 2018, CMS mailed the redesigned letters to roughly 1.2 million LIS Choosers, who faced a Part D premium increase for the next year but had the option to make an active choice to switch to a new $0 premium plan. Although we did not conduct a randomized evaluation, CMS usability testing suggested that the revised notice provided greater clarity but did not increase beneficiaries' intentions to switch. 
+Starting in 2018, CMS mailed the redesigned letters to roughly 1.2 million LIS Choosers, who faced a Part D premium increase for the next year but had the option to make an active choice to switch to a new $0 premium plan. Although we did not conduct a randomized evaluation, CMS usability testing suggested that the revised notice provided greater clarity but did not increase beneficiaries' intentions to switch.
