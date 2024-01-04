@@ -33,6 +33,6 @@ The program change was evaluated with a cluster randomized trial. SAMHSA and the
 ## What did we learn?
 The updated caller experience increased the likelihood of being routed to a call center and increased the likelihood of each call being connected to a counselor. Both of these differences were statistically significant. The differences in the likelihood of connecting by phone or text within 24 hours of an initial call were positive but not statistically significantly different between the two groups.
 
-During the four-week study period the new IVR resulted in approximately 1,400 additional calls answered by a counselor. This effect implies that if all calls to 988 are exposed to the updated IVR over a 12-month period,  Comment start reaching about 5.9 million calls Comment end, an additional 36,000 calls would be connected to a counselor.  
+During the four-week study period the new IVR resulted in approximately 1,400 additional calls answered by a counselor. This effect implies that if all calls to 988 are exposed to the updated IVR over a 12-month period, reaching about 5.9 million calls, an additional 36,000 calls would be connected to a counselor.  
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf">on GitHub</a>.
