@@ -1,15 +1,16 @@
 ---
-title: Encouraging the use of USCIS’ online services: Email notifications to increase online account usage
+title: Encouraging the use of USCIS’ online services - Email notifications to increase online account usage
 permalink: /projects/2208B-emails-to-increase-online-account-usage/
-tags: project  
-image: /assets/img/project-images/2208B-image.webp  
+tags:
+  - project
+image: /assets/img/project-images/2208B-image.webp
 image_alt_text: Person on a phone
 image-credit: https://www.pexels.com/photo/person-holding-black-android-smartphone-4554696/
 analysis-plan: /assets/analysis/2208B-analysis-plan.pdf
-abstract: 
-year: 2023  
-domain: 
-type: Program Change and Evaluation
+abstract:
+year: 2023
+domain:
+type: Evaluation of program change
 agency: Homeland Security
 status: Ongoing
 summary: Analysis Plan Registration
