@@ -1,5 +1,5 @@
 ---
-title:  Incorporating evaluation into digital forms
+title: Incorporating evaluation into digital forms
 permalink: /projects/digital-forms/
 tags: 
  - project  
@@ -8,15 +8,16 @@ image_alt_text: Person on a laptop
 image-credit: https://commons.wikimedia.org/wiki/File:Laptop_and_hands_and_wrists.webp
 analysis-plan: /assets/analysis/2118-digital-forms-analysis-plan.pdf
 abstract-web: /results/incorporating-evaluation-into-digital-forms/
-year: 2022  
+year: 2022
 domain: Government Operations
-type: type: Impact evaluation of program change
+type: Impact evaluation of program change
 agency: General Services Administration
 status: Complete
 summary: Five GSA offices and the American public worked together to improve federal forms
-featured: 
+featured:
   - services
 ---
+
 ## What was the challenge? 
 The American public spends approximately 11.5 billion hours per year filling out federal government forms.¹ Form complexity can result in lack of submission or completion, and errors on forms can cause processing delays and affect whether the form is accepted — which can have far-reaching consequences.
 
