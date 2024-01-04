@@ -1,15 +1,15 @@
 ---
-title: Increasing FAFSA completion among public housing residents: NYCHA
+title: Increasing FAFSA completion among public housing residents - NYCHA
 permalink: /projects/increasing-fafsa-completion-nycha/
-tags: 
+tags:
   - project  
   - highered
-image: /assets/img/project-images/1717.webp  
+image: /assets/img/project-images/1717.webp
 image_alt_text: Graduation with a skyline view
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
 analysis-plan: /assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf
 abstract: /assets/abstracts/1717-Abstract-NYCHA.pdf
-year: 2019  
+year: 2019
 type: Impact evaluation of program change
 status: Complete
 domain: Education
