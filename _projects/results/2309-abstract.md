@@ -46,8 +46,8 @@ During the four-week study the updated IVR resulted in about 1,400 additional ca
 
 The results suggest that the updated IVR increased the volume of calls routed to the Veterans Crisis Line, some of which may have been from non-Veteran callers who pressed “1” without realizing that option is reserved for Veterans. Clarifying the script about pressing “1” for the VCL may help callers discern which option is most appropriate for their situation and avoid non-Veteran calls being routed to the VCL. 
 
-<b>Figure 1.</b> The updated IVR increased the percent of calls to 988 that were connected with a counselor. N = 393,789
-<img src="{{ '/assets/img/project-images/2309-image.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<b>Figure 1.</b> The updated IVR increased the percent of calls to 988 that were connected with a counselor (*N* = 393,789)
+<img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
 
 ## Notes:
 1. Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Accessed at <a class="usa-link usa-link--external" href="http://wonder.cdc.gov/ucd-icd10-expanded.html">http://wonder.cdc.gov/ucd-icd10-expanded.html</a> on Mar 16, 2023.
