@@ -4,7 +4,7 @@ layout: page
 permalink: /results/decreasing-abandonment-of-calls-to-988/
 tags: 
   - abstract
-image: /assets/img/project-images/2309-image.webp
+image: /assets/img/project-images/2309-image.jpg
 image-credit: https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-holding-red-smartphone-Z9Tjplzzgh4
 summary: 
 
