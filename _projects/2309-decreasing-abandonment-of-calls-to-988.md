@@ -9,7 +9,7 @@ image_alt_text: woman holding a phone
 image-credit: https://unsplash.com/photos/Z9Tjplzzgh4
 analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf
 abstract-web: /results/decreasing-abandonment-of-calls-to-988/
-intervention: /assets/files/1902-increasing-participation-in-ttw-intervention-pack.pdf
+intervention: /assets/files/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2023  
 domain: American Rescue Plan
 type: Impact evaluation of program change
