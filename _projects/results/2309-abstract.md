@@ -9,6 +9,9 @@ image-credit: https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-holdi
 summary: 
 
 ---
+
+<a class="usa-button" href="/assets/abstracts/2309-SAMHSA-988-abstract.pdf" target="_blank">View the PDF Version</a>
+
 ## Key findings
 An updated caller experience for the 988 Suicide & Crisis Lifeline connected more callers to 988 counselors by phone. Callers exposed to the updated caller experience were connected faster than those exposed to the original integrated voice response (IVR) system.
 
@@ -56,7 +59,4 @@ The results suggest that the updated IVR increased the volume of calls routed to
 4. Buell, Ryan W., Ethan Porter, Michael I. Norton. 2021. Surfacing the submerged state: operational transparency increases trust in and engagement with government. <i>Manufacturing and Service Operations Management</i> 23(4): 745-1004.
 5. Elliott, David, Remco Polman, Richard McGregor. 2011. Relaxing Music for Anxiety Control. <i>Journal of Music Therapy</i> 48(3): 264-288.
 6. 62,367 calls selected “1” for the Veterans Crisis Line during the study period. Call outcomes for these calls cannot be observed in the 988 data and are not included in the main analysis.
-7. Connection to a counselor indicates that a call that has been routed to a local call center or backup network and answered by a live counselor to talk. 
-
-<br>
-<a class="usa-button" href="/assets/abstracts/2309-SAMHSA-988-abstract.pdf" target="_blank">View the PDF Version</a>
+7. Connection to a counselor indicates that a call that has been routed to a local call center or backup network and answered by a live counselor to talk.
