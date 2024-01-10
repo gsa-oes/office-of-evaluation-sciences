@@ -1,5 +1,5 @@
 ---
-title:  Decreasing abandonment of calls to the 988 Suicide and Crisis Lifeline
+title:  Decreasing abandonment of calls to the 988 Suicide & Crisis Lifeline
 layout: page
 permalink: /results/decreasing-abandonment-of-calls-to-988/
 tags: 
@@ -10,10 +10,10 @@ summary:
 
 ---
 ## Key findings
-An updated caller experience for the 988 Suicide and Crisis Lifeline connected more callers to 988 counselors by phone. Callers exposed to the updated caller experience were connected faster than those exposed to the original integrated voice response (IVR) system.
+An updated caller experience for the 988 Suicide & Crisis Lifeline connected more callers to 988 counselors by phone. Callers exposed to the updated caller experience were connected faster than those exposed to the original integrated voice response (IVR) system.
 
 ## Agency priority
-Strengthening crisis care and suicide prevention infrastructure — including improving the efficacy of the 988 Suicide and Crisis Lifeline (“988”) — is a high priority for SAMHSA, situated within the HHS. The American Rescue Plan invested $282 million to support transition to 988 as a replacement for the 10-digit National Suicide Prevention Lifeline. 
+Strengthening crisis care and suicide prevention infrastructure — including improving the efficacy of the 988 Suicide & Crisis Lifeline (“988”) — is a high priority for SAMHSA, situated within the HHS. The American Rescue Plan invested $282 million to support transition to 988 as a replacement for the 10-digit National Suicide Prevention Lifeline. 
 
 Suicide is the second leading cause of death among 12-17 year olds and fifth leading cause of death among adults aged 18-64 years.<sup>1</sup> Callers to suicide or crisis hotlines who talk to someone report significant decreases in suicidality by the end of the call and reductions in hopelessness in the weeks after calling. More than 10% of callers reported that talking to someone at the crisis lifeline prevented them from harming or killing themselves.<sup>2</sup> 
 
@@ -27,7 +27,7 @@ The intervention changed the message script and voice recording during the initi
 ## Evaluation design
 The program change was evaluated with a cluster randomized trial. SAMHSA and the national administrator of the 988 system deployed the updated (treatment) version of the caller experience alongside the existing (control) version on August 3, 2023. Calls to 988 were assigned to the updated or existing version based on a randomization over the 10,000 possible sequences of last four digits in the callers’ phone numbers.
 
-The 988 Suicide and Crisis Lifeline received a total of 456,156 calls during the study period, of which 393,789 calls from 200,253 unique phone numbers were included in the analysis.<sup>6</sup> 196,659 calls were from phone numbers randomly assigned to hear the existing version of the IVR and 197,130 calls were from phone numbers randomly assigned to hear the updated version of the IVR.
+The 988 Suicide & Crisis Lifeline received a total of 456,156 calls during the study period, of which 393,789 calls from 200,253 unique phone numbers were included in the analysis.<sup>6</sup> 196,659 calls were from phone numbers randomly assigned to hear the existing version of the IVR and 197,130 calls were from phone numbers randomly assigned to hear the updated version of the IVR.
 
 ## Analysis of existing data
 Records of calls and texts to 988 are collected by the national administrator of the 988 system. These data indicate when the call or text was initiated, any IVR menu selections (e.g., “2” for Spanish), whether the call was routed to a local call center, duration of the call, whether the call or text was connected to a counselor, and duration of the call after being connected to a counselor.<sup>7</sup> The data do not indicate the content of conversations and no information was used for the study that could identify individual callers. We analyzed the outcomes of calls and texts to 988 over four weeks beginning the first full day after implementation of the intervention IVR, from August 4–31, 2023.
@@ -42,7 +42,7 @@ Exploratory analyses suggest that the updated IVR decreased the time callers wai
 We also explored the likelihood of choosing any of the IVR menu options. Results suggest that callers who hear the updated caller experience were about 4 percentage points more likely to press “1” for the Veterans Crisis Line (VCL), which is operated for Veterans and people calling about Veterans. This effect represents an additional 8,700 calls routed to the VCL during the study period. 
 
 ## Implications
-During the four-week study the updated IVR resulted in about 1,400 additional calls to the 988 Suicide and Crisis Lifeline being answered by a counselor. This effect implies that if all calls to 988 are exposed to the updated IVR over a 12-month period, reaching about 5.9 million calls, an additional 36,000 calls would be connected to a counselor. SAMHSA anticipates implementing the updated caller experience for all callers in 2024.
+During the four-week study the updated IVR resulted in about 1,400 additional calls to the 988 Suicide & Crisis Lifeline being answered by a counselor. This effect implies that if all calls to 988 are exposed to the updated IVR over a 12-month period, reaching about 5.9 million calls, an additional 36,000 calls would be connected to a counselor. SAMHSA has implemented the updated caller experience for all callers.
 
 The results suggest that the updated IVR increased the volume of calls routed to the Veterans Crisis Line, some of which may have been from non-Veteran callers who pressed “1” without realizing that option is reserved for Veterans. Clarifying the script about pressing “1” for the VCL may help callers discern which option is most appropriate for their situation and avoid non-Veteran calls being routed to the VCL. 
 
