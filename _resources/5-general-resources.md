@@ -11,6 +11,9 @@ Below are resources we’ve developed through our work building evidence governm
 ## Newsletters
 OES sends out regular newsletters with upcoming events, recent project results, and other news. <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">Subscribe to our newsletter.</a>
 
+### 2024
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3815f3c" target="_blank">January 2024: Effective intervention for the 988 Suicide & Crisis Lifeline connects more people to care</a>
+
 ### 2023
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/37524e7?reqfrom=share" target="_blank">October 2023: Outreach interventions increase ACA marketplace enrollment</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/35c2703?reqfrom=share" target="_blank">May 2023: OES Leads a National Evaluation of the American Rescue Plan and Publishes Equity Evaluation Series Memos</a>
