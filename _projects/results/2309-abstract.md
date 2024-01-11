@@ -10,7 +10,7 @@ summary:
 
 ---
 <br>
-<a class="usa-button" href="/assets/abstracts/2309-samhsa-988-abstract.pdf" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2309-samhsa-988-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
 An updated caller experience for the 988 Suicide & Crisis Lifeline connected more callers to 988 counselors by phone. Callers exposed to the updated caller experience were connected faster than those exposed to the original integrated voice response (IVR) system.
