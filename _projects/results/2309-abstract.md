@@ -44,13 +44,15 @@ Exploratory analyses suggest that the updated IVR decreased the time callers wai
 
 We also explored the likelihood of choosing any of the IVR menu options. Results suggest that callers who hear the updated caller experience were about 4 percentage points more likely to press “1” for the Veterans Crisis Line (VCL), which is operated for Veterans and people calling about Veterans. This effect represents an additional 8,700 calls routed to the VCL during the study period. 
 
-## Implications
-During the four-week study the updated IVR resulted in about 1,400 additional calls to the 988 Suicide & Crisis Lifeline being answered by a counselor. This effect implies that if all calls to 988 are exposed to the updated IVR over a 12-month period, reaching about 5.9 million calls, an additional 36,000 calls would be connected to a counselor. SAMHSA has implemented the updated caller experience for all callers.
-
-The results suggest that the updated IVR increased the volume of calls routed to the Veterans Crisis Line, some of which may have been from non-Veteran callers who pressed “1” without realizing that option is reserved for Veterans. Clarifying the script about pressing “1” for the VCL may help callers discern which option is most appropriate for their situation and avoid non-Veteran calls being routed to the VCL. 
-
 <b>Figure 1.</b> The updated IVR increased the percent of calls to 988 that were connected with a counselor (*N* = 393,789)
 <img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+
+## Implications
+The results suggest that the updated IVR increased the volume of calls routed to the Veterans Crisis Line, some of which may have been from non-Veteran callers who pressed “1” without realizing that option is reserved for Veterans. Clarifying the script about pressing “1” for the VCL may help callers discern which option is most appropriate for their situation and avoid non-Veteran calls being routed to the VCL. 
+
+During the four-week study the updated IVR resulted in about 1,400 additional calls to the 988 Suicide & Crisis Lifeline being answered by a counselor. This effect implies that if all calls to 988 are exposed to the updated IVR over a 12-month period, reaching about 5.9 million calls, an additional 36,000 calls would be connected to a counselor. 
+
+SAMHSA has implemented the updated caller experience for all callers.
 
 ## Notes:
 1. Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Accessed at <a class="usa-link usa-link--external" href="http://wonder.cdc.gov/ucd-icd10-expanded.html">http://wonder.cdc.gov/ucd-icd10-expanded.html</a> on Mar 16, 2023.
