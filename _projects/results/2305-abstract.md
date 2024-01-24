@@ -26,13 +26,14 @@ Treasury encouraged grantees to incorporate program design flexibilities that en
 The Kentucky Housing Corporation’s (KHC) ERA program, Healthy at Home Eviction Relief Fund (HHERF), began accepting applications in February 2021. ERA application reviewers at KHC were overwhelmed by the large influx of applications, and a backlog developed. Requirements to verify the renter applicant’s income through forms — tax statements, pay stubs, or unemployment insurance statements — may have impeded the efficient reviewing of applications. In response, to broaden and quicken access to HHERF, KHC simplified the internal process used by application reviewers to verify applicant income, while keeping the application form and requirements for applicants applying to the program the same.
 
 Starting in June 2021, KHC allowed ERA application reviewers to use the applicant's neighborhood income as proof of income eligibility. KHC used the median income in an applicant’s ZIP code as an FSP. Importantly, KHC did not advertise this change, so it was known only to ERA application reviewers. 
+
 There were 769 ZIP codes in Kentucky in 2021, 403 of which had a publicly-available median income estimate that fell below the county low-income threshold (see Figure 1). Applications from these ZIP codes were flagged internally as automatically eligible as long as the applicant attested to having household income at or below this area-specific threshold. Roughly half of ZIP codes were FSP-eligible, which accounted for 95% of the statewide renter population and 96% of applications during the program period. Applications from the other 366 zip codes proceeded with the standard review, verifying renter applicant income through forms and supporting materials. This sometimes required follow up with applicants for additional information, further delaying review.
 
 <b>Figure 1.</b> Geographic distribution of FSP and non-FSP eligible ZIP codes
-<img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<img src="{{ '/assets/img/project-images/2305-ky-map.svg' | prepend: site.baseurl }}" alt="Geographic distribution of FSP and non-FSP eligible ZIP codes." width="1500">
 
 <b>Figure 2.</b> Existing gaps in approval rates for applicants who identify as people of color, reside in a rural area, or have extremely low incomes
-<img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<img src="{{ '/assets/img/project-images/2305-results-graph-2.svg' | prepend: site.baseurl }}" alt="Bar chart showing existing gaps in approval rates for applicants who identify as people of color, reside in a rural area, or have extremely low incomes." width="1500">
 
 ## Evaluation design
 We partnered with KHC to understand if streamlining the income eligibility verification process increased access to assistance.
@@ -55,7 +56,7 @@ The second approach used a regression discontinuity (RD). It put more weight on 
 Finally, as noted above, the pre-conditions for conducting the analysis of processing times we included in our analysis plan were not met. We were therefore unable to determine the impact of FSP on the processing time.
 
 <b>Figure 3.</b> Existing gaps in approval rates for applicants who identify as people of color, reside in a rural area, or have extremely low incomes
-<img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<img src="{{ '/assets/img/project-images/2305-change-of-probability-in-application.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
 
 ## Implications
 Kentucky’s FSP was effective at increasing approval rates for renters eligible for ERA, including those that most needed assistance (those who identified as people of color, rural residents, extremely low income renters — all of whom are most likely to be subject to evictions). Thus, FSP can be an important tool to broaden access to assistance.
