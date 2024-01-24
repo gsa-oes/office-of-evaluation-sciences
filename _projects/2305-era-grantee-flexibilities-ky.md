@@ -31,7 +31,7 @@ In June of 2021, KHC switched from having application reviewers examine a comple
 After the change, if applicants from those ZIP codes attested to having an income below that threshold, their applications were automatically flagged as income-eligible without further review. This system is referred to as a “fact-specific proxy” (FSP) because the fact of the neighborhood income proxies as proof of the applicant’s income. By removing the need to review, verify, and, in many cases, request follow-up income documentation, the FSP streamlined the process of income verification by application reviewers, while keeping the application form  and requirements for applicants otherwise the same.
 
 <b>Figure 1.</b> Before and after process flow chart
-<img src="{{ '/assets/img/project-images/2206-image.svg' | prepend: site.baseurl }}" alt="Before and after process flow chart" width="1500">
+<img src="{{ '/assets/img/project-images/2305-flow-chart.svg' | prepend: site.baseurl }}" alt="Before and after process flow chart" width="1500">
 
 ## How did the evaluation work?
 We partnered with KHC to understand if streamlining the income eligibility verification process broadened access to assistance. KHC shared de-identified data from 75,234 applications, submitted between February 2021 and January 2023, as well as a dataset designating ZIP codes as FSP-eligible or FSP-ineligible. To estimate impact, we compare the outcomes of applications from ZIP codes that were right near the cutoff for FSP-eligibility. See the abstract, analysis plan, and technical appendix for the details.
