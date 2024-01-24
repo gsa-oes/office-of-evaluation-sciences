@@ -4,7 +4,7 @@ layout: page
 permalink: /results/streamlining-income-verification-to-broaden-access-to-rental-assistance/
 tags: 
   - abstract
-image: /assets/img/project-images/2305-image.svg
+image: /assets/img/project-images/2305-image.webp
 image-credit: https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-holding-red-smartphone-Z9Tjplzzgh4
 summary: 
 
