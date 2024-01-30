@@ -4,8 +4,8 @@ layout: page
 permalink: /results/streamlining-income-verification-to-broaden-access-to-rental-assistance/
 tags: 
   - abstract
-image: /assets/img/project-images/2305-image.webp
-image-credit: https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-holding-red-smartphone-Z9Tjplzzgh4
+image: /assets/img/project-images/2305-img.webp
+image-credit: https://www.pexels.com/photo/black-handled-key-on-key-hole-101808/
 summary: 
 
 ---
@@ -57,7 +57,7 @@ The second approach used a regression discontinuity (RD). It put more weight on 
 Finally, as noted above, the pre-conditions for conducting the analysis of processing times we included in our analysis plan were not met. We were therefore unable to determine the impact of FSP on the processing time.
 
 <b>Figure 3.</b> Streamlining income verification increased approval rates by between 7.5 and 13.2 percentage points 
-<img src="{{ '/assets/img/project-images/2309.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<img src="{{ '/assets/img/project-images/2305-figure-3.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
 
 ## Implications
 Kentucky’s fact-specific proxy was effective at increasing approval rates for renters eligible for Emergency Rental Assistance, including those that most needed assistance (those who identified as people of color, rural residents, and extremely low income renters — all of whom are most likely to be subject to evictions). Thus, FSP can be an important tool to broaden access to assistance.
