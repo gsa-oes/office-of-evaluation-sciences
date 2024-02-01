@@ -13,7 +13,7 @@ summary:
 <a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2305-kentucky-era-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
-Streamlining the income verification process for rental assistance application reviewers increased approval of households’ applications for rental assistance from the Kentucky Housing Corporation’s Emergency Rental Assistance programs by at least seven percentage points. Applicants who identified as people of color, living in rural areas, or had extremely low incomes,<sup>1</sup> benefited equally from streamlining this process. Streamlining the income verification process did not appear to weaken Kentucky Housing Corporation’s ability to detect fraudulent applications.
+Streamlining the income verification process for rental assistance application reviewers increased approval of households’ applications for rental assistance from the Kentucky Housing Corporation’s Emergency Rental Assistance programs by at least 7 percentage points. Applicants who identified as people of color, living in rural areas, or had extremely low incomes,<sup>1</sup> benefited equally from streamlining this process. Streamlining the income verification process did not appear to weaken Kentucky Housing Corporation’s ability to detect fraudulent applications.
 
 ## Agency priority
 At the outset of the COVID-19 pandemic, housing advocacy groups warned that 20% of renting households would be at risk of eviction by the end of 2020 if the government did not act.<sup>2</sup> Housing instability was especially high among renters with low incomes and renters who identified as people of color.<sup>3</sup>
