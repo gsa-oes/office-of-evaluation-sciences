@@ -13,7 +13,7 @@ type: Impact evaluation of program change
 domain: American Rescue Plan
 agency: Treasury
 status: Complete
-summary: Streamlining income verification for application processors in Kentucky increased application approval rates by at least seven percentage points
+summary: Streamlining income verification for application processors in Kentucky increased application approval rates by at least 7 percentage points
 featured:
 ---
 ## What is the agency priority? 
