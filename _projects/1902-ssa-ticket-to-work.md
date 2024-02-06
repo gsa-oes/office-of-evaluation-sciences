@@ -18,7 +18,6 @@ status: Complete
 agency: Social Security Administration
 summary: Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls
 featured: 
-  - homepage
   - services
 ---
 
