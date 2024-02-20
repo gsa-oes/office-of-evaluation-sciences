@@ -18,6 +18,6 @@ The Analysis Plan below indicates the date locked, and you can verify our upload
 
 This Analysis Plan was written after receiving outcome data and is therefore not blind to outcomes. It is intended to document and justify the analytic choices. This simulation study is intended to demonstrate methodological tradeoffs and does not attempt to confirm a specific set of empirical hypotheses about any real, existing broadband program.
 
-<p><a class="usa-button" href="{{site.baseurl}}/services">View Analysis Plan</a></p>
+<p><a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2115B-analysis-plan.pdf">View Analysis Plan</a></p>
 
 Check back for results!
