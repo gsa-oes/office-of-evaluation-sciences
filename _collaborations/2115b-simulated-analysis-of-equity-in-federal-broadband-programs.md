@@ -16,8 +16,6 @@ This evaluation is currently being implemented. We have created this project pag
 
 The Analysis Plan below indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2115B-analysis-plan.pdf">on GitHub</a>. 
 
-This Analysis Plan was written after receiving outcome data and is therefore not blind to outcomes. It is intended to document and justify the analytic choices. This simulation study is intended to demonstrate methodological tradeoffs and does not attempt to confirm a specific set of empirical hypotheses about any real, existing broadband program.
-
 <p><a class="usa-button" href="https://oes.gsa.gov/assets/analysis/2115B-analysis-plan.pdf">View Analysis Plan</a></p>
 
 Check back for results!
