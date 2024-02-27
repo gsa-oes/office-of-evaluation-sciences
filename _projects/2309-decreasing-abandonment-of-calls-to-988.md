@@ -19,6 +19,16 @@ summary: An updated caller experience resulted in more people being connected to
 featured:
 - homepage
 ---
+<b>ARP program of interest:</b>
+
+<b>Research question and policy relevance:</b>
+
+<b>Geography:</b>
+
+<b>Local partner:</b>
+
+<b>Target population:</b>
+
 ## What is the agency priority? 
 Strengthening crisis care and suicide prevention infrastructure – including improving the efficacy of the 988 Suicide & Crisis Lifeline (“988”) – is a high priority for SAMHSA, situated within HHS. The American Rescue Plan invested $282 million to support transition to the 988 dialing code as a replacement for the 10-digit National Suicide Prevention Lifeline.
 
