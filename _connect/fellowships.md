@@ -17,11 +17,11 @@ We have the following positions open to join the GSA Evaluation Division:
 
 <b>Data Scientist:</b> As a Data Scientist, you will serve as the subject matter expert in the highly technical and specialized area of data sciences, performing complex studies that span business processes and operations at the program and enterprise levels. 
 
-<a href="https://gsa.usajobs.gov/job/780437400">Apply by March 11, 2024</a>
+<a href="https://gsa.usajobs.gov/job/780437400">Apply by Monday, March 11, 2024</a>
 
 <b>Operations Research Analyst:</b> The Operations Research Analyst is a cross-portfolio research management position. The incumbent performs complex evaluation studies that span operations and GSA program and policy areas at the program level and the enterprise level. The initiatives undertaken include designing, implementing, analyzing, and reporting research and evaluation studies to further the mission of GSA.
 
-<a href="https://gsa.usajobs.gov/job/780437700">Apply by March 11, 2024</a>
+<a href="https://gsa.usajobs.gov/job/780437700">Apply by Monday, March 11, 2024</a>
 
 ## OES fellowship overview
 Fellows and associate fellows join OES on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis. Fellows have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for federal employees applying for a rotational detail. You can learn more about the position and what we look for by <a href="{{ '/assets/files/GSA-OES-Fellowship-Solicitation-FY23.pdf' | prepend: site.baseurl }}" target="_blank">viewing the 2023 Fellowship Solicitation</a>.
