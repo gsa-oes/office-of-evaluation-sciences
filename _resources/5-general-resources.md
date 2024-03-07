@@ -12,6 +12,8 @@ Below are resources we’ve developed through our work building evidence governm
 OES sends out regular newsletters with upcoming events, recent project results, and other news. <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">Subscribe to our newsletter.</a>
 
 ### 2024
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/38d7090" target="_blank">March 2024: Streamlining income verification for processors increased Emergency Rental Assistance application approval rates</a>
+
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3815f3c" target="_blank">January 2024: Effective intervention for the 988 Suicide & Crisis Lifeline connects more people to care</a>
 
 ### 2023
