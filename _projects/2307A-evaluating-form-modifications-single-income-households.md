@@ -3,9 +3,9 @@ title: Evaluating form modifications to make it easier for single income househo
 permalink: /2307A-evaluating-form-modifications-single-income-households/
 tags: 
   - project
-image: /assets/img/project-images/2310-snap.webp
-image_alt_text: Sign that says we welcome SNAP benefits
-image-credit: https://www.pexels.com/photo/a-close-up-shot-of-paper-clipped-documents-7054757/
+image: /assets/img/project-images/2307a-form-mods.webp
+image_alt_text: Hands typing on laptop
+image-credit: https://www.pexels.com/photo/person-in-white-long-sleeve-shirt-using-macbook-pro-5076517/
 analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.pdf
 abstract: 
 year: 2024  
