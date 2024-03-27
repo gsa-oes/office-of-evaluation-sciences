@@ -8,7 +8,7 @@ image: /assets/img/project-images/2209B-image.webp
 image_alt_text: Children playing with pictures of fruit
 image-credit: https://www.rawpixel.com/image/8708691
 analysis-plan: /assets/analysis/2209B-analysis-plan.pdf
-abstract-web: /results/decreasing-abandonment-of-calls-to-988/
+abstract-web: /results/increasing-access-to-mn-ccsbg/
 intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2024  
 domain: American Rescue Plan
