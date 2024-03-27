@@ -61,10 +61,18 @@ Other agencies looking to increase the rates of benefit awards could consider in
 Taken together, it is likely that texts, which are low cost, work best for those already predisposed to apply, whereas calls, a higher-cost, higher-touch intervention, are likely necessary to generate significant changes in behavior. More generally, the findings show that specific types of interventions work for specific populations, and underline the importance of understanding which interventions are likely to address the specific behavioral barriers faced by priority subgroups in the target population. 
 
 ## Notes:
-1. Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Accessed at <a class="usa-link usa-link--external" href="http://wonder.cdc.gov/ucd-icd10-expanded.html">http://wonder.cdc.gov/ucd-icd10-expanded.html</a> on Mar 16, 2023.
-2. Gould, Madelyn S., John Kalafat, Jimmie Lou Harris Munfakh, and Margorie Kleinman. 2007. An evaluation of crisis hotline outcomes part 2: suicidal callers. <i>Suicide and Life-Threatening Behavior</i> 37(3): 338-352.
-3. People can also reach 988 by texting 988 on their phone or through a web–based chat (at 988lifeline.org).
-4. Buell, Ryan W., Ethan Porter, Michael I. Norton. 2021. Surfacing the submerged state: operational transparency increases trust in and engagement with government. <i>Manufacturing and Service Operations Management</i> 23(4): 745-1004.
-5. Elliott, David, Remco Polman, Richard McGregor. 2011. Relaxing Music for Anxiety Control. <i>Journal of Music Therapy</i> 48(3): 264-288.
-6. 62,367 calls selected “1” for the Veterans Crisis Line during the study period. Call outcomes for these calls cannot be observed in the 988 data and are not included in the main analysis.
-7. Connection to a counselor indicates that a call that has been routed to a local call center or backup network and answered by a live counselor to talk.
+1. Administration for Children and Families, “Information Memorandum ARP Act Child Care Stabilization Funds.”
+2. <i>Ibid</i>
+3. White House Fact Sheet “FACT SHEET: Biden-⁠Harris Administration Announces American Rescue Plan Funding to Rescue the Child Care Industry so the Economy Can Recover.”
+4. Administration for Children and Families, “Information Memorandum ARP Act Child Care Stabilization Funds.”
+5. Between February and June 2023, the CCSBG amount varied from $205 to $400 per full-time equivalent employee.
+6. Council of Economic Advisors Working Paper, “Did stabilization funds help mothers get back to work after the COVID-19 recession?” November 7, 2023.
+7. Castleman, Benjamin L., and Lindsay C. Page. "Freshman year financial aid nudges: An experiment to increase FAFSA renewal and college persistence." Journal of Human Resources 51, no. 2 (2016): 389-415.
+8. Page, Lindsay C., Bruce I. Sacerdote, Sara Goldrick-Rab, and Benjamin L. Castleman. "Financial aid nudges: A national experiment with informational interventions." Educational Evaluation and Policy Analysis (2022): 01623737221111403.
+9. About a quarter of calls were answered. Once a phone call was answered, the most frequently discussed topics with a MN DHS staff member were eligibility, allowable uses, and program benefits.
+10. A total of 3,374 child care sites made up the 3,265 providers. Sites were clustered together if they shared a name, location, or contact information.
+11. With a stepped wedge design providers were considered as being called in all months after they were called, so over time more providers were in the call group. The call order was randomized.
+12. The percentage of providers randomized to the call group was 43% for providers never awarded a grant, 14% for providers awarded two to four grants, and 17% for providers awarded five grants in the prior six months.
+13. All analyses included weights to account for the differential probability that providers were assigned to the call group, and included clustering by provider address and phone number. We controlled for the month in which the groups were assigned to the intervention, whether they were located in a rural area at baseline, and their assignment block.
+14. The preregistered familywise error rate threshold is estimated to be 0.013, indicating this result falls just short of statistical significance. 
+
