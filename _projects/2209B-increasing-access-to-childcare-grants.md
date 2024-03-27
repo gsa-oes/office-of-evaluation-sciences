@@ -8,16 +8,31 @@ image: /assets/img/project-images/2209B-image.webp
 image_alt_text: Children playing with pictures of fruit
 image-credit: https://www.rawpixel.com/image/8708691
 analysis-plan: /assets/analysis/2209B-analysis-plan.pdf
-abstract:
-year: 2023  
+abstract-web: /results/decreasing-abandonment-of-calls-to-988/
+intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
+year: 2024  
 domain: American Rescue Plan
 type: Impact evaluation of program change
 agency: Health and Human Services
-status: Ongoing
-summary: Analysis Plan Registration
+status: Complete
+summary: Texts and calls increased funding awards for child care providers
+featured:
+- homepage
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## What is the agency priority?
+The American Rescue Plan (ARP) allocated approximately $24 billion in Child Care Stabilization Grants (CCSBG) to the Department of Health and Human Services to help stabilize the child care labor market in the face of the COVID-19 pandemic. Stabilizing the child care market and providing higher wages to child care workers has several important equity implications. Nearly all child care providers are small businesses, are overwhelmingly owned by women, and are disproportionately owned by people of color. Recent evidence found that CCSBGs were effective at increasing child care employment and wages nationally. However, about a third of child care providers failed to take-up these grants in Minnesota. Minnesota’s Department of Human Services (MN DHS) aimed to identify methods to enhance equitable access to CCSBG among child care providers in the state. 
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2209B-analysis-plan.pdf">on GitHub</a>.
+## What did we evaluate?
+Proactive outreach such as one-way texts and emails can improve take-up of benefits by simplifying information, and providing reminders and planning prompts. However, this type of informational outreach may be less effective than direct interactions for beneficiaries who are unfamiliar with a program or hold misconceptions about how the program works. People may also miss outreach messages if they are delivered through just one mode of contact (e.g., by email, call, or text message). We worked with MN DHS to evaluate multimodal communications bundles of emails, one-way text messages, and semi-scripted phone calls designed to reach potential beneficiaries who might not be reached via one mode of contact, but could potentially be reached through a different mode. The semi-scripted phone calls included specific information designed to address providers’ application misconceptions. 
 
-Check back for results!
+## How did the evaluation work?
+MN DHS implemented the interventions monthly for five months from February to June 2023. At the outset, we randomized 3,265 likely eligible child care providers who had missed at least one award in the prior six months to receive the standard set of emails (business as usual group); additional modified emails and texts (text group); or additional modified emails, texts, and one call (call group). Providers who were never awarded the grant or were awarded the grant inconsistently in the prior six months were more likely to be randomized to the call group than the text group compared to providers who had missed only one award in that time.
+
+## What did we learn?
+Outreach by text increased awards of CCSBG by 3.8 percentage points, while combining calls with text outreach increased awards by 5.2 percentage points. Among child care providers with no prior awards, outreach that included calling increased awards by 12.4 percentage points — an effect five times larger than outreach by text alone. In contrast, among child care providers previously awarded grants, outreach by text alone increased awards by 5.3 percentage points. 
+
+The findings suggest that specific types of interventions work for specific target populations by addressing different behavioral behaviors. Text messages may help remind providers of key deadlines when they are already familiar with the application process. However, calls with a staff member may be needed to address misconceptions about a grant or application process for providers who are less familiar with a program. 
+
+<b>Figure 1.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards
+
+Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2209B-analysis-plan.pdf">on GitHub</a>.
