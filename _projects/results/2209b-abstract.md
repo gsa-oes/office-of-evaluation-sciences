@@ -11,7 +11,7 @@ summary:
 
 ---
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2309-samhsa-988-abstract.pdf" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2209b-hhs-988-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
 Outreach by text increased awards of Minnesota’s Child Care Stabilization Base Grants (CCSBG) by 3.8 percentage points, while combining calls with text outreach increased awards by 5.2 percentage points. Among child care providers with no prior awards, outreach that included calls increased awards by 12.4 percentage points — an effect five times larger than outreach by text alone. In contrast, among child care providers previously awarded grants, outreach by text alone increased awards by 5.3 percentage points.
