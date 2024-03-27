@@ -62,17 +62,20 @@ Taken together, it is likely that texts, which are low cost, work best for those
 
 ## Notes:
 1. Administration for Children and Families, “Information Memorandum ARP Act Child Care Stabilization Funds.”
-2. <i>Ibid</i>
+2. <i>Ibid.</i>
 3. White House Fact Sheet “FACT SHEET: Biden-⁠Harris Administration Announces American Rescue Plan Funding to Rescue the Child Care Industry so the Economy Can Recover.”
 4. Administration for Children and Families, “Information Memorandum ARP Act Child Care Stabilization Funds.”
 5. Between February and June 2023, the CCSBG amount varied from $205 to $400 per full-time equivalent employee.
 6. Council of Economic Advisors Working Paper, “Did stabilization funds help mothers get back to work after the COVID-19 recession?” November 7, 2023.
-7. Castleman, Benjamin L., and Lindsay C. Page. "Freshman year financial aid nudges: An experiment to increase FAFSA renewal and college persistence." Journal of Human Resources 51, no. 2 (2016): 389-415.
-8. Page, Lindsay C., Bruce I. Sacerdote, Sara Goldrick-Rab, and Benjamin L. Castleman. "Financial aid nudges: A national experiment with informational interventions." Educational Evaluation and Policy Analysis (2022): 01623737221111403.
+7. Castleman, Benjamin L., and Lindsay C. Page. "Freshman year financial aid nudges: An experiment to increase FAFSA renewal and college persistence." <i>Journal of Human Resources</i> 51, no. 2 (2016): 389-415.
+8. Page, Lindsay C., Bruce I. Sacerdote, Sara Goldrick-Rab, and Benjamin L. Castleman. "Financial aid nudges: A national experiment with informational interventions." <i>Educational Evaluation and Policy Analysis</i> (2022): 01623737221111403.
 9. About a quarter of calls were answered. Once a phone call was answered, the most frequently discussed topics with a MN DHS staff member were eligibility, allowable uses, and program benefits.
 10. A total of 3,374 child care sites made up the 3,265 providers. Sites were clustered together if they shared a name, location, or contact information.
 11. With a stepped wedge design providers were considered as being called in all months after they were called, so over time more providers were in the call group. The call order was randomized.
 12. The percentage of providers randomized to the call group was 43% for providers never awarded a grant, 14% for providers awarded two to four grants, and 17% for providers awarded five grants in the prior six months.
 13. All analyses included weights to account for the differential probability that providers were assigned to the call group, and included clustering by provider address and phone number. We controlled for the month in which the groups were assigned to the intervention, whether they were located in a rural area at baseline, and their assignment block.
-14. The preregistered familywise error rate threshold is estimated to be 0.013, indicating this result falls just short of statistical significance. 
-
+14. The preregistered familywise error rate threshold is estimated to be 0.013, indicating this result falls just short of statistical significance.
+15. Council of Economic Advisors Working Paper, “Did stabilization funds help mothers get back to work after the COVID-19 recession?” November 7, 2023.
+16. See for example Weixler, Lindsay, et al. "Helping parents navigate the early childhood education enrollment process: Experimental evidence from New Orleans." <i>Educational Evaluation and Policy Analysis</i> 42.3 (2020): 307-330; Abdul Latif Jameel Poverty Action Lab (J-PAL). 2023; "The effect of nudges on health insurance take-up in the United States" J-PAL Policy Insights. Last modified April 2023. https://doi.org/10.31485/pi.3974.2023; and Patterson, Richard W., and William L. Skimmyhorn. How do behavioral approaches to increase savings compare? Evidence from multiple interventions in the US Army. No. w30697. National Bureau of Economic Research, 2022.
+17. Cost effectiveness analyses include the direct additional costs that DHS incurred as a result of the outreach. Costs of texts included the sending cost of texts. Costs for calls include costs for calls and texts, since texts were sent to the call group as well. The call costs only include hours logged making calls and documenting them, and not billed hours due to concerns with measurement error. We assumed that there is no cost to make an additional call from on a landline.
+18. We calculate only cost-effectiveness and not uncertainty from noise in the effect sizes or costs. Estimates are calculated by taking the cost of implementation for the intervention group and dividing it by the additional number of providers that were induced to receive an award as a result of the intervention.
