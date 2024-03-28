@@ -35,7 +35,6 @@ The findings suggest that specific types of interventions work for specific targ
 
 <b>Figure 1.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards
 <img src="{{ '/assets/img/project-images/2209b-main-bar.svg' | prepend: site.baseurl }}" alt="Bar chart showing that texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards" width="1500">
-
 Note: + p < 0.1*, p < 0.05,**  p < 0.01 (two-tailed) when comparing text or call to business as usual.
 
 Notes:
