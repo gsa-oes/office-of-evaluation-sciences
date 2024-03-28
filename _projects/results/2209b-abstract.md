@@ -39,8 +39,7 @@ Our primary analysis found that both the texts and calls increased CCSBG awards 
 
 <b>Figure 1.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG
 <img src="{{ '/assets/img/project-images/2209b-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
-
-Note: + p < 0.1*, p < 0.05, p < 0.01 (two-tailed) when comparing text or call to business as usual
+Note: + p < 0.1*, p < 0.05, p < 0.01 (two-tailed) when comparing text or call to business as usual.
 
 Calls were particularly effective among providers who had no prior awards. Among this subgroup, providers who were called were three times as likely to be awarded grants compared to providers in the business-as-usual group (18.5% in the call group compared to 6.1% in the business-as-usual group). Moreover, for this subgroup, the 12.4 percentage point effect of calls (p < 0.01, 95% CI [8.3,16.5]) was over five times as large as the 2.2 percentage point effect of texts (p = 0.11, 95% CI [-0.5,5.2]), a statistically significant difference in effects (p < 0.01). 
 
@@ -48,8 +47,7 @@ In contrast, texts were sufficient for increasing awards among providers who had
 
 <b>Figure 2.</b> Calls were more effective for providers  without previous awards, whereas texts were more effective for providers with previous awards
 <img src="{{ '/assets/img/project-images/2209b-fig-2.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
-
-Note: + p < 0.1*, p < 0.05, p < 0.01 (two-tailed) when comparing text or call to business as usual
+Note: + p < 0.1*, p < 0.05, p < 0.01 (two-tailed) when comparing text or call to business as usual.
 
 ## Implications
 We found that both texts and calls had a large positive effect on the probability of CCSBG award funding for child care providers, a group disproportionately composed of underserved individuals. Calls were particularly effective among providers without prior awards, whereas texts alone were sufficient to increase awards among providers previously awarded grants. Given the effectiveness of CCSBG in stabilizing the child care market as a whole, it is possible that increasing grant awards among providers would reduce closure rates.<sup>15</sup>
