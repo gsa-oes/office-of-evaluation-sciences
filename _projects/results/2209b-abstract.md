@@ -38,7 +38,7 @@ MN DHS collected monthly CCSBG data detailing which providers received awards an
 Our primary analysis found that both the texts and calls increased CCSBG awards compared to the business-as-usual group, in which 37.3% of providers were awarded grants each month. Texts increased the proportion of providers receiving awards by 3.8 percentage points per month (p < 0.01, 95% CI [1.6, 6.1]). Calls increased the proportion of providers receiving awards by 5.2 percentage points per month (p = 0.02, 95% CI [0.7, 9.6]).<sup>14</sup> The difference between these effects was not statistically significant (p=0.55).
 
 <b>Figure 1.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG
-<img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<img src="{{ '/assets/img/project-images/2209b-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
 
 Note: + p < 0.1*, p < 0.05, p < 0.01 (two-tailed) when comparing text or call to business as usual
 
@@ -47,7 +47,7 @@ Calls were particularly effective among providers who had no prior awards. Among
 In contrast, texts were sufficient for increasing awards among providers who had prior awards. Among this subgroup, providers in the text group were 5.3 percentage points more likely to be awarded grants (p < 0.01, 95% CI [1.9, 8.7]) than providers in the business-as-usual group (73.5% in the text group compared to 68.1% in the business-as-usual group). The effect of calls for these providers was imprecisely measured and not statistically significant (-1.7 percentage points, p < 0.71, 95% CI [-11.2, 7.7]) nor statistically distinguishable from the effects of texts (p = 0.13).
 
 <b>Figure 2.</b> Calls were more effective for providers  without previous awards, whereas texts were more effective for providers with previous awards
-<img src="{{ '/assets/img/project-images/2309-results-graph.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
+<img src="{{ '/assets/img/project-images/2209b-fig-2.svg' | prepend: site.baseurl }}" alt="Bar chart showing that the updated IVR increased the percent of calls to 988 that were connected with a counselor." width="1500">
 
 Note: + p < 0.1*, p < 0.05, p < 0.01 (two-tailed) when comparing text or call to business as usual
 
