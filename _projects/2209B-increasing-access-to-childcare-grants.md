@@ -46,7 +46,7 @@ Outreach by text increased awards of CCSBG by 3.8 percentage points, while combi
 
 The findings suggest that specific types of interventions work for specific target populations by addressing different behavioral barriers. Text messages may help remind providers of key deadlines when they are already familiar with the application process. However, calls with a staff member may be needed to address misconceptions about a grant or application process for providers who are less familiar with a program. 
 
-<b>Figure 2.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards
+<b>Figure 1.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards
 <img src="{{ '/assets/img/project-images/2209b-main-bar.svg' | prepend: site.baseurl }}" alt="Bar chart showing that texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards" width="1500">
 Note: + p < 0.1*, p < 0.05,**  p < 0.01 (two-tailed) when comparing text or call to business as usual.
 
