@@ -25,19 +25,6 @@ The American Rescue Plan (ARP) allocated approximately $24 billion in Child Care
 ## What did we evaluate?
 Proactive outreach such as one-way texts and emails can improve take-up of benefits by simplifying information, and providing reminders and planning prompts. However, this type of informational outreach may be less effective than direct interactions for beneficiaries who are unfamiliar with a program or hold misconceptions about how the program works. People may also miss outreach messages if they are delivered through just one mode of contact (e.g., by email, call, or text message). We worked with MN DHS to evaluate multimodal communications bundles of emails, one-way text messages, and semi-scripted phone calls designed to reach potential beneficiaries who might not be reached via one mode of contact, but could potentially be reached through a different mode. The semi-scripted phone calls included specific information designed to address providers’ application misconceptions. 
 
-### Behavioral journey map
-Minnesota Child Care Stabilization Base Grants behavioral journey map
-<br><img src="{{ '/assets/img/project-images/2209b-behavioral-map.webp' | prepend: site.baseurl }}" alt="Minnesota Child Care Stabilization Base Grants: Behavioral journey map" width="1500">
-<br><i><a href="/assets/img/project-images/2209b-behavioral-map.webp">Expand image</a></i>
-<br>
-
-The behavioral journey map above outlines the phases and steps that Minnesota Department of Human Services (MN DHS) and Minnesota child care providers took in the process of learning about, applying for, and receiving a Child Care Stabilization Base Grant (CCSBG). MN DHS developed and distributed the survey to child care providers who had never received CCSBG funding. The map below categorizes the most frequently reported behavioral barriers<sup>1</sup> that child care providers identified in that survey.<sup>2</sup> OES was not involved in creating or disseminating this survey. In addition, the map describes the procedural barriers that child care providers may have faced while learning about or applying for the grant, that the OES team synthesized through discovery research. For more information on the behavioral and social science insights applied to the interventions targeting the behavioral barriers defined in the map, see the intervention pack.
-
-Notes on how we define behavioral barriers:
-1. Behavioral barriers are psychological, cognitive, or emotional obstacles that prevent individuals from taking desired actions.
-2. False beliefs are inaccurate or incorrect beliefs held by providers about the application process or the CCSBG program.
-3. Time/effort costs are aspects of the CCSBG application process perceived by providers as being time- and effort-intensive.
-
 ## How did the evaluation work?
 MN DHS implemented the interventions monthly for five months from February to June 2023. At the outset, we randomized 3,265 likely eligible child care providers who had missed at least one award in the prior six months to receive the standard set of emails (business as usual group); additional modified emails and texts (text group); or additional modified emails, texts, and one call (call group). Providers who were never awarded the grant or were awarded the grant inconsistently in the prior six months were more likely to be randomized to the call group than the text group compared to providers who had missed only one award in that time.
 
@@ -50,6 +37,18 @@ The findings suggest that specific types of interventions work for specific targ
 <img src="{{ '/assets/img/project-images/2209b-main-bar.svg' | prepend: site.baseurl }}" alt="Bar chart showing that texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards" width="1500">
 Note: + p < 0.1*, p < 0.05,**  p < 0.01 (two-tailed) when comparing text or call to business as usual.
 
+### Behavioral journey map
+Minnesota Child Care Stabilization Base Grants behavioral journey map
+<br><img src="{{ '/assets/img/project-images/2209b-behavioral-map.webp' | prepend: site.baseurl }}" alt="Minnesota Child Care Stabilization Base Grants: Behavioral journey map" width="1500">
+<br><i><a href="/assets/img/project-images/2209b-behavioral-map.webp">Expand image</a></i>
+<br>
+
+The behavioral journey map above outlines the phases and steps that Minnesota Department of Human Services (MN DHS) and Minnesota child care providers took in the process of learning about, applying for, and receiving a Child Care Stabilization Base Grant (CCSBG). MN DHS developed and distributed the survey to child care providers who had never received CCSBG funding. The map below categorizes the most frequently reported behavioral barriers<sup>1</sup> that child care providers identified in that survey.<sup>2</sup> OES was not involved in creating or disseminating this survey. In addition, the map describes the procedural barriers that child care providers may have faced while learning about or applying for the grant, that the OES team synthesized through discovery research. For more information on the behavioral and social science insights applied to the interventions targeting the behavioral barriers defined in the map, see the intervention pack.
+
+Notes on how we define behavioral barriers:
+1. Behavioral barriers are psychological, cognitive, or emotional obstacles that prevent individuals from taking desired actions.
+2. False beliefs are inaccurate or incorrect beliefs held by providers about the application process or the CCSBG program.
+3. Time/effort costs are aspects of the CCSBG application process perceived by providers as being time- and effort-intensive.
 
 References:
 1. White House Fact Sheet <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-biden-harris-administration-announces-american-rescue-plan-funding-to-rescue-the-child-care-industry-so-the-economy-can-recover/">“FACT SHEET: Biden-⁠Harris Administration Announces American Rescue Plan Funding to Rescue the Child Care Industry so the Economy Can Recover.”</a>
