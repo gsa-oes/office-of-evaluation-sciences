@@ -26,8 +26,7 @@ The American Rescue Plan (ARP) allocated approximately $24 billion in Child Care
 Proactive outreach such as one-way texts and emails can improve take-up of benefits by simplifying information, and providing reminders and planning prompts. However, this type of informational outreach may be less effective than direct interactions for beneficiaries who are unfamiliar with a program or hold misconceptions about how the program works. People may also miss outreach messages if they are delivered through just one mode of contact (e.g., by email, call, or text message). We worked with MN DHS to evaluate multimodal communications bundles of emails, one-way text messages, and semi-scripted phone calls designed to reach potential beneficiaries who might not be reached via one mode of contact, but could potentially be reached through a different mode. The semi-scripted phone calls included specific information designed to address providers’ application misconceptions. 
 
 ### Behavioral journey map
-<b>Figure 1.</b> Minnesota Child Care Stabilization Base Grants: Behavioral journey map
-
+Minnesota Child Care Stabilization Base Grants behavioral journey map
 <br><img src="{{ '/assets/img/project-images/2209b-behavioral-map.webp' | prepend: site.baseurl }}" alt="Minnesota Child Care Stabilization Base Grants: Behavioral journey map" width="1500">
 <br><i><a href="/assets/img/project-images/2209b-behavioral-map.webp">Expand image</a></i>
 <br>
