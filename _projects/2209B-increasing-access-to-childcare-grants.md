@@ -25,19 +25,8 @@ The American Rescue Plan (ARP) allocated approximately $24 billion in Child Care
 ## What did we evaluate?
 Proactive outreach such as one-way texts and emails can improve take-up of benefits by simplifying information, and providing reminders and planning prompts. However, this type of informational outreach may be less effective than direct interactions for beneficiaries who are unfamiliar with a program or hold misconceptions about how the program works. People may also miss outreach messages if they are delivered through just one mode of contact (e.g., by email, call, or text message). We worked with MN DHS to evaluate multimodal communications bundles of emails, one-way text messages, and semi-scripted phone calls designed to reach potential beneficiaries who might not be reached via one mode of contact, but could potentially be reached through a different mode. The semi-scripted phone calls included specific information designed to address providers’ application misconceptions. 
 
-## How did the evaluation work?
-MN DHS implemented the interventions monthly for five months from February to June 2023. At the outset, we randomized 3,265 likely eligible child care providers who had missed at least one award in the prior six months to receive the standard set of emails (business as usual group); additional modified emails and texts (text group); or additional modified emails, texts, and one call (call group). Providers who were never awarded the grant or were awarded the grant inconsistently in the prior six months were more likely to be randomized to the call group than the text group compared to providers who had missed only one award in that time.
-
-## What did we learn?
-Outreach by text increased awards of CCSBG by 3.8 percentage points, while combining calls with text outreach increased awards by 5.2 percentage points. Among child care providers with no prior awards, outreach that included calling increased awards by 12.4 percentage points — an effect five times larger than outreach by text alone. In contrast, among child care providers previously awarded grants, outreach by text alone increased awards by 5.3 percentage points. 
-
-The findings suggest that specific types of interventions work for specific target populations by addressing different behavioral behaviors. Text messages may help remind providers of key deadlines when they are already familiar with the application process. However, calls with a staff member may be needed to address misconceptions about a grant or application process for providers who are less familiar with a program. 
-
-<b>Figure 1.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards
-<img src="{{ '/assets/img/project-images/2209b-main-bar.svg' | prepend: site.baseurl }}" alt="Bar chart showing that texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards" width="1500">
-Note: + p < 0.1*, p < 0.05,**  p < 0.01 (two-tailed) when comparing text or call to business as usual.
-
-<b>Figure 2.</b> Minnesota Child Care Stabilization Base Grants: Behavioral journey map
+### Behavioral journey map
+<b>Figure 1.</b> Minnesota Child Care Stabilization Base Grants: Behavioral journey map
 
 <br><img src="{{ '/assets/img/project-images/2209b-behavioral-map.webp' | prepend: site.baseurl }}" alt="Minnesota Child Care Stabilization Base Grants: Behavioral journey map" width="1500">
 <br><i><a href="/assets/img/project-images/2209b-behavioral-map.webp">Expand image</a></i>
@@ -49,6 +38,18 @@ Notes on how we define behavioral barriers:
 1. Behavioral barriers are psychological, cognitive, or emotional obstacles that prevent individuals from taking desired actions.
 2. False beliefs are inaccurate or incorrect beliefs held by providers about the application process or the CCSBG program.
 3. Time/effort costs are aspects of the CCSBG application process perceived by providers as being time- and effort-intensive.
+
+## How did the evaluation work?
+MN DHS implemented the interventions monthly for five months from February to June 2023. At the outset, we randomized 3,265 likely eligible child care providers who had missed at least one award in the prior six months to receive the standard set of emails (business as usual group); additional modified emails and texts (text group); or additional modified emails, texts, and one call (call group). Providers who were never awarded the grant or were awarded the grant inconsistently in the prior six months were more likely to be randomized to the call group than the text group compared to providers who had missed only one award in that time.
+
+## What did we learn?
+Outreach by text increased awards of CCSBG by 3.8 percentage points, while combining calls with text outreach increased awards by 5.2 percentage points. Among child care providers with no prior awards, outreach that included calling increased awards by 12.4 percentage points — an effect five times larger than outreach by text alone. In contrast, among child care providers previously awarded grants, outreach by text alone increased awards by 5.3 percentage points. 
+
+The findings suggest that specific types of interventions work for specific target populations by addressing different behavioral barriers. Text messages may help remind providers of key deadlines when they are already familiar with the application process. However, calls with a staff member may be needed to address misconceptions about a grant or application process for providers who are less familiar with a program. 
+
+<b>Figure 2.</b> Texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards
+<img src="{{ '/assets/img/project-images/2209b-main-bar.svg' | prepend: site.baseurl }}" alt="Bar chart showing that texts and calls increased the monthly proportion of providers that were awarded CCSBG but had different effects for providers with and without prior awards" width="1500">
+Note: + p < 0.1*, p < 0.05,**  p < 0.01 (two-tailed) when comparing text or call to business as usual.
 
 
 References:
