@@ -43,16 +43,15 @@ Minnesota Child Care Stabilization Base Grants behavioral journey map
 <br><i><a href="/assets/img/project-images/2209b-behavioral-map.webp">Expand image</a></i>
 <br>
 
-The behavioral journey map above outlines the phases and steps that Minnesota Department of Human Services (MN DHS) and Minnesota child care providers took in the process of learning about, applying for, and receiving a Child Care Stabilization Base Grant (CCSBG). MN DHS developed and distributed the survey to child care providers who had never received CCSBG funding. The map below categorizes the most frequently reported behavioral barriers<sup>1</sup> that child care providers identified in that survey.<sup>2</sup> OES was not involved in creating or disseminating this survey. In addition, the map describes the procedural barriers that child care providers may have faced while learning about or applying for the grant, that the OES team synthesized through discovery research. For more information on the behavioral and social science insights applied to the interventions targeting the behavioral barriers defined in the map, see the intervention pack.
+The behavioral journey map above outlines the phases and steps that MN DHS and child care providers took in the process of learning about, applying for, and receiving a CCSBG. MN DHS developed and distributed the survey to child care providers who had never received CCSBG funding.<sup>3</sup> The map categorizes the most frequently reported behavioral barriers that child care providers identified in that survey.<sup>4</sup> In addition, the map describes the procedural barriers that child care providers may have faced while learning about or applying for the grant, which the OES team synthesized through discovery research. For more information on the behavioral and social science insights applied to the interventions targeting the behavioral barriers defined in the map, see the intervention pack.
 
-Notes on how we define behavioral barriers:
-1. Behavioral barriers are psychological, cognitive, or emotional obstacles that prevent individuals from taking desired actions.
-2. False beliefs are inaccurate or incorrect beliefs held by providers about the application process or the CCSBG program.
-3. Time/effort costs are aspects of the CCSBG application process perceived by providers as being time- and effort-intensive.
-
-References:
+Notes:
 1. White House Fact Sheet <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-biden-harris-administration-announces-american-rescue-plan-funding-to-rescue-the-child-care-industry-so-the-economy-can-recover/">“FACT SHEET: Biden-⁠Harris Administration Announces American Rescue Plan Funding to Rescue the Child Care Industry so the Economy Can Recover.”</a>
 
 2. Council of Economic Advisors Working Paper, <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2023/11/Child-Care-Stabilization.pdf">“Did stabilization funds help mothers get back to work after the COVID-19 recession?” November 7, 2023.</a>
+
+3. OES was not involved in creating or disseminating this survey.
+
+4. Behavioral barriers are psychological, cognitive, or emotional obstacles that prevent individuals from taking desired actions. False beliefs are inaccurate or incorrect beliefs held by providers about the application process or the CCSBG program. Time/effort costs are aspects of the CCSBG application process perceived by providers as being time- and effort-intensive.
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2209B-analysis-plan.pdf">on GitHub</a>.
