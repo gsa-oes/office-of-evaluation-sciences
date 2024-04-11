@@ -9,7 +9,7 @@ image_alt_text: Children playing in a classroom
 image-credit: https://www.rawpixel.com/image/8708691
 analysis-plan: /assets/analysis/2209B-analysis-plan.pdf
 abstract-web: /results/increasing-access-to-mn-ccsbg/
-intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
+intervention: /assets/interventions/2209b-increasing-access-to-mn-ccsbg-intervention-pack.pdf
 year: 2024  
 domain: American Rescue Plan
 type: Impact evaluation of program change
