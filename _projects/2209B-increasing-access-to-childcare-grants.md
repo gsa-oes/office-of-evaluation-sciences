@@ -41,7 +41,7 @@ Note: + p < 0.1*, p < 0.05,**  p < 0.01 (two-tailed) when comparing text or call
 Minnesota Child Care Stabilization Base Grants behavioral journey map
 
 <img src="{{ '/assets/img/project-images/2209b-behavioral-map-2.webp' | prepend: site.baseurl }}" alt="Minnesota Child Care Stabilization Base Grants: Behavioral journey map" width="1500">
-<br><i><a href="https://oes.gsa.gov/assets/img/project-images/2209b-behavioral-map-2.webp">Expand image</a></i>
+<br><i><a href="https://oes.gsa.gov/assets/img/project-images/2209b-behavioral-map.jpg">Expand image</a></i>
 
 The behavioral journey map above outlines the phases and steps that MN DHS and child care providers took in the process of learning about, applying for, and receiving a CCSBG. MN DHS developed and distributed the survey to child care providers who had never received CCSBG funding.<sup>3</sup> The map categorizes the most frequently reported behavioral barriers that child care providers identified in that survey.<sup>4</sup> In addition, the map describes the procedural barriers that child care providers may have faced while learning about or applying for the grant, which the OES team synthesized through discovery research. For more information on the behavioral and social science insights applied to the interventions targeting the behavioral barriers defined in the map, see the intervention pack.
 
