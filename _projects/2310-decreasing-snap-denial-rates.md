@@ -10,7 +10,7 @@ image-credit: https://www.pexels.com/photo/a-close-up-shot-of-paper-clipped-docu
 analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.pdf
 abstract: 
 year: 2023  
-domain: American Rescue Plan, Payment Integrity
+domain: American Rescue Plan
 type: Impact evaluation of program change
 agency: Agriculture
 status: Ongoing
