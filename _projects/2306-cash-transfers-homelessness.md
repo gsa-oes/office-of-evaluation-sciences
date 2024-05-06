@@ -5,8 +5,8 @@ tags:
   - project
   - arp
 image: /assets/img/project-images/2306.webp
-image_alt_text: Calculator, credit cards, and stack of cash with text that says economic assistance
-image-credit: https://pix4free.org/photo/9056/economic-assistance.html
+image_alt_text: Money and a 1040 form
+image-credit: https://dailymontanan.com/2022/11/16/revive-the-child-tax-credit-our-children-deserve-nothing-less/
 analysis-plan:
 abstract: 
 year: 2024  
