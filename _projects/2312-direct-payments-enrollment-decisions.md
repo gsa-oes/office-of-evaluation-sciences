@@ -5,8 +5,8 @@ tags:
   - project
   - arp
 image: /assets/img/project-images/2312.webp
-image_alt_text: 
-image-credit: 
+image_alt_text: graduation caps and confetti scattered on a gym floor
+image-credit: https://www.pexels.com/photo/photo-of-graduation-caps-on-wooden-floor-7944120/
 analysis-plan:
 abstract: 
 year: 2024  
