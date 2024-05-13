@@ -5,8 +5,8 @@ tags:
   - project
   - arp
 image: /assets/img/project-images/2311.webp
-image_alt_text: Solar project on Navajo reservation
-image-credit: https://www.flickr.com/photos/149368236@N06/28874752257/
+image_alt_text: Reservation land in northern Arizona
+image-credit: https://www.flickr.com/photos/cobalt/19259876759/
 analysis-plan:
 abstract: 
 year: 2024  
