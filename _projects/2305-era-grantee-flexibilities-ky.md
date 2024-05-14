@@ -44,6 +44,6 @@ Further, we found that streamlining the income verification process was equally 
 
 In summary, a FSP can be an important tool to broaden access to assistance in programs where application volume is high, when specific application criteria may be slow to verify, when it may be difficult for some applicants to upload supporting documentation, and when applications for funding assistance are potentially time-sensitive. For example, our findings suggest settings such as applications for financial assistance after storm-related disasters could be suitable for an FSP.
 
-Read the <a href="URL">technical appendix</a>.
+Read the [technical appendix]({{site.baseurl}}/assets/abstracts/2305-streamlining-income-verification_technical-appendix.pdf).
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.pdf">on Github</a>.
