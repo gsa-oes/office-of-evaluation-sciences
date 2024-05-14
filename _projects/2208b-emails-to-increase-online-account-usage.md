@@ -3,7 +3,7 @@ title: Encouraging the use of USCIS’ online services - Email notifications to 
 permalink: /2208b-emails-to-increase-online-account-usage/
 tags: 
   - project
-image: /assets/img/project-images/2208b-image.webp
+image: /assets/img/project-images/2208b.webp
 image_alt_text: Person holding a phone
 image-credit: https://www.pexels.com/photo/person-holding-black-android-smartphone-4554696/
 analysis-plan: /assets/analysis/2208B-analysis-plan.pdf
