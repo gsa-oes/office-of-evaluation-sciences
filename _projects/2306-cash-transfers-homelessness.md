@@ -28,7 +28,7 @@ Analysis plan forthcoming.
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">American Rescue Plan portfolio</a>. 
-Results forthcoming (2024).
+Results forthcoming (2025).
 
 Notes:
 1. U.S. Department of the Treasury <a class="usa-link usa-link--external" href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-funds">“State and Local Fiscal Recovery Funds”</a>.
