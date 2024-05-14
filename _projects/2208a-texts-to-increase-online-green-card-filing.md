@@ -3,7 +3,7 @@ title: Encouraging the use of USCIS’ online services - Text message notificati
 permalink: /2208a-texts-to-increase-online-green-card-filing/
 tags: 
   - project
-image: /assets/img/project-images/2208a-image.webp
+image: /assets/img/project-images/2208a.webp
 image_alt_text: Person using a phone
 image-credit: https://www.pexels.com/photo/crop-bearded-man-using-smartphone-in-living-room-7129050/
 analysis-plan: /assets/analysis/2208A-analysis-plan.pdf
