@@ -4,9 +4,9 @@ permalink: /2311-tribal-govt-experience-arp-1/
 tags: 
   - project
   - arp
-image: /assets/img/project-images/2311.webp
-image_alt_text: Reservation land in northern Arizona
-image-credit: https://www.flickr.com/photos/cobalt/19259876759/
+image: /assets/img/project-images/2311-image.webp
+image_alt_text: Power pylons at sunset
+image-credit: https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI
 analysis-plan:
 abstract: 
 year: 2024  
