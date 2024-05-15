@@ -23,7 +23,7 @@ The COVID-19 pandemic created significant economic impacts for many families, su
 Ramsey County, Minnesota is investing up to $13.2 million of SLFRF funding to support the implementation of the Appropriate Responses Initiative, which expands the roles of the community and social and health services in public safety in order to improve community well-being.<sup>4</sup>
 
 ## What did we evaluate?
-Ramsey County’s Appropriate Responses Initiative expands the range of options available to 911 call takers in responding to emergency calls. Under this initiative, 911 call takers will have the option of sending social and health services and new community responders instead of, or in addition to, police officers when responding to 911 calls. The goal of the Initiative is to reduce arrest rates and racial/ethnic inequality in arrest rates.
+Ramsey County’s Appropriate Responses Initiative expands the range of options available to 911 call takers in responding to calls. Under this initiative, 911 call takers will have the option of sending mental health professionals, public health staff, and new community responders instead of, or in addition to, traditional 911 responses when responding to 911 calls. The goal of the initiative is to reduce arrest rates and racial/ethnic inequality in arrest rates, with specific attention on Black and American Indian communities.
 
 ## How did the evaluation work?
 Analysis plan forthcoming.
