@@ -35,13 +35,15 @@ After the change, if applicants from those ZIP codes attested to having an incom
 <img src="{{ '/assets/img/project-images/2305-flow-chart.svg' | prepend: site.baseurl }}" alt="Before and after process flow chart" width="1500">
 
 ## How did the evaluation work?
-We partnered with KHC to understand if streamlining the income verification process broadened access to ERA assistance. KHC shared de-identified data from 75,234 applications, submitted between February 2021 and January 2023, as well as a dataset designating ZIP codes as FSP-eligible or FSP-ineligible. To estimate impact, we compare the outcomes of applications from ZIP codes that were right near the cutoff for FSP-eligibility. See the abstract, analysis plan, and technical appendix for the details.
+We partnered with KHC to understand if streamlining the income verification process broadened access to ERA assistance. KHC shared de-identified data from 75,234 applications, submitted between February 2021 and January 2023, as well as a dataset designating ZIP codes as FSP-eligible or FSP-ineligible. To estimate impact, we compare the outcomes of applications from ZIP codes that were right near the cutoff for FSP-eligibility. See the  <a href="https://oes.gsa.gov/results/streamlining-income-verification-to-broaden-access-to-rental-assistance/">abstract</a>, [analysis plan]({{site.baseurl}}/assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.pdf), and [technical appendix]({{site.baseurl}}/assets/abstracts/2305-streamlining-income-verification_technical-appendix.pdf) for the details.
 
 ## What did we learn?
-Streamlining the income verification process using the FSP increased the approval rate by between 7.5 and 13.2 percentage points, from a baseline approval rate of 42.5% of applications in non-FSP ZIP codes. We estimate that FSP caused the approval of up to 9,500 additional applications.
+Streamlining the income verification process using the FSP increased the approval rate by between 7.5 and 13.2 percentage points, from a baseline approval rate of 42.5% of applications in non-FSP ZIP codes. We estimate that FSP caused the approval of up to 9,500  applications.
 
 Further, we found that streamlining the income verification process was equally effective for applicants who identified as people of color, were living in rural areas, or had extremely low incomes. Finally, streamlining the process did not greatly weaken or strengthen application reviewers’ ability to detect fraudulent applications. 
 
 In summary, a FSP can be an important tool to broaden access to assistance in programs where application volume is high, when specific application criteria may be slow to verify, when it may be difficult for some applicants to upload supporting documentation, and when applications for funding assistance are potentially time-sensitive. For example, our findings suggest settings such as applications for financial assistance after storm-related disasters could be suitable for an FSP.
+
+Read the [technical appendix]({{site.baseurl}}/assets/abstracts/2305-streamlining-income-verification_technical-appendix.pdf).
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.pdf">on Github</a>.
