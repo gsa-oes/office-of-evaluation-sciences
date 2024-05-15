@@ -67,7 +67,7 @@ Our findings suggest that an FSP can be useful in programs where application vol
 Finally, our results suggest that streamlining the income verification process can increase the odds of approval for eligible applicants who would otherwise miss out, even when the change only impacts application reviewers, and not the application itself. 
 
 ## Notes:
-1. We follow HUD’s definition:a person living in a household whose income falls below 30% of the median household income for households of equivalent size in the same Metropolitan Statistical Area (MSA).
+1. We follow HUD’s definition: a person living in a household whose income falls below 30% of the median household income for households of equivalent size in the same Metropolitan Statistical Area (MSA).
 2. See Aspen Institute report, <a class="usa-link usa-link--external" href="https://www.aspeninstitute.org/blog-posts/20-million-renters-are-at-risk-of-eviction/">20 Million Renters Are at Risk of Eviction</a> (Jun. 2020).
 3. See Consumer Financial Protection Bureau, <a class="usa-link usa-link--external" href="https://files.consumerfinance.gov/f/documents/cfpb_Housing_insecurity_and_the_COVID-19_pandemic.pdf">Housing Insecurity and the COVID-19 Pandemic</a> (Mar. 2021)
 4. The ERA1 program is authorized by the <a class="usa-link usa-link--external" href="https://www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf">Consolidated Appropriations Act</a>, 2021, and provided $25 billion for assistance to eligible households. The ERA2 program is authorized by the American Rescue Plan Act of 2021 and provides $21.55 billion for assistance to eligible households.
