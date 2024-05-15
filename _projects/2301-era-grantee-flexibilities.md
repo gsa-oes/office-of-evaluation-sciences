@@ -38,7 +38,7 @@ The results show that using a FSP made getting much-needed assistance faster and
 - May have increased the total amount of ERA paid out
 
 <b>Figure 1.</b> Impact of simplifying income documentation on days spent processing applications,  approval rate, total number of applications, and total amount paid to applicants
-<img src="{{ '/assets/img/project-images/2301-fig1.svg' | prepend: site.baseurl }}" alt="Impact of simplifying income documentation on days spent processing applications,  approval rate, total number of applications, and total amount paid to applicants" width="1500">
+<img src="{{ '/assets/img/project-images/2301-coef-plot.svg' | prepend: site.baseurl }}" alt="Impact of simplifying income documentation on days spent processing applications,  approval rate, total number of applications, and total amount paid to applicants" width="1500">
 
 We found no evidence that reducing barriers through FSP brought substantially more people into the ERA program. For an oversubscribed program such as ERA, this may constitute good news: there is no evidence that program staff were overwhelmed by an influx of new applicants due to FSP.
 
