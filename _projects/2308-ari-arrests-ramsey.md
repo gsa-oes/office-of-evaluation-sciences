@@ -6,7 +6,7 @@ tags:
   - arp
 image: /assets/img/project-images/2308.webp
 image_alt_text: Person directing calls
-image-credit: https://www.pickpik.com/programming-code-imac-computer-computer-programming-computer-user-94507
+image-credit: https://commons.wikimedia.org/wiki/File:Day_124_-_West_Midlands_Police_-_Resource_Allocator_and_Despatcher_%288704002239%29.jpg
 analysis-plan:
 abstract: 
 year: 2024  
