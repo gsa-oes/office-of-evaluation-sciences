@@ -33,6 +33,6 @@ Results forthcoming (2024).
 Notes:
 1. <a class="usa-link usa-link--external" href="https://www.gao.gov/products/gao-22-106044">Stimulus Checks: Direct Payments to Individuals during the COVID-19 Pandemic</a>
 2. <a class="usa-link usa-link--external" href="https://crsreports.congress.gov/product/pdf/R/R46839">The Child Tax Credit: The Impact of the American Rescue Plan Act (ARPA; P.L. 117-2) Expansion on Income and Poverty</a>.
-3. <a class="usa-link usa-link--external" href="https://www.irs.gov/pub/irs-soi/23jsrpapplication.pdf">Statistics of Income–Joint Statistical Research Program Call for Proposals</a>.
+3. <a class="usa-link usa-link--external" href="https://www.irs.gov/pub/irs-soi/24jsrpapplication.pdf">Statistics of Income–Joint Statistical Research Program Call for Proposals</a>.
 4. Manoli, D., & Turner, N. (2018). Cash-on-hand and college enrollment: Evidence from population tax data and the earned income tax credit. <i>American Economic Journal: Economic Policy</i>, 10(2), 242-271.
 5. Ko, W., & Moffitt, R. A. (2024). Take-up of social benefits. <i>Handbook of Labor, Human Resources and Population Economics</i>, 1-42.
