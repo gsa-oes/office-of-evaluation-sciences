@@ -11,7 +11,9 @@ abstract: /assets/abstracts/1713-supporting-homeless-students-abstract.pdf
 year: 2018  
 type: Impact evaluation of program change
 status: Complete
-domain: Education, Housing
+domain:
+ - Education
+ - Housing
 agency: Education
 summary: Identifying homeless students for educational support services
 ---
