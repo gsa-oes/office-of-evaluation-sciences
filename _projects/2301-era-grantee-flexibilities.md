@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.
 abstract-web: /results/reducing-documentation-burdens-era/
 year: 2024
 type: Impact evaluation of program change
-domain: American Rescue Plan
+domain: American Rescue Plan, Housing
 agency: Treasury
 status: Complete
 summary: Simplifying income documentation reduced application processing times and increased application approval rates, but did not significantly increase new applications
