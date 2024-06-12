@@ -13,7 +13,7 @@ intervention: /assets/interventions/1903-intervention-pack.pdf
 year: 2021
 type: Impact evaluation of program change
 status: Complete
-domain: Communications
+domain: Communications, Housing
 agency: Agriculture
 summary: Letters mailed to property owners increased requests for on-site wildfire risk assessments in Montana
 ---
