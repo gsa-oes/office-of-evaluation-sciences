@@ -10,7 +10,9 @@ analysis-plan: /assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.
 abstract-web: /results/streamlining-income-verification-to-broaden-access-to-rental-assistance/
 year: 2024
 type: Impact evaluation of program change
-domain: American Rescue Plan
+domain:
+ - American Rescue Plan
+ - Housing
 agency: Treasury
 status: Complete
 summary: Streamlining income verification for application processors in Kentucky increased application approval rates by at least 7 percentage points
