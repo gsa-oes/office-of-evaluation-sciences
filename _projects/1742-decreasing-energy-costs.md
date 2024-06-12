@@ -10,7 +10,9 @@ analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstracts/1742-reducing-energy-costs.pdf
 year: 2018  
 type: Impact evaluation of program change
-domain: Communications, Housing
+domain:
+ - Communications
+ - Housing
 status: Complete
 agency: Housing and Urban Development
 summary: Sending flyers with energy-saving tips did not change energy use
