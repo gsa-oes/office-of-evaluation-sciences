@@ -15,6 +15,7 @@ type: Descriptive study
 domain: 
 - American Rescue Plan
 - Economic Opportunity
+- Housing
 agency: Treasury
 status: Complete
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
