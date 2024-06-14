@@ -26,11 +26,9 @@ We’ve built this Pandemic relief and recovery portfolio of 40+ impact evaluati
 - Reducing administrative burden: Access
 - Do fact specific proxies work?
 
-<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-National-Evaluation.pdf" target="_blank">Learn more about the national evaluation (PDF)</a>
-
 ## Deep dive
 In collaborationthe independent organization the American Institute for Research (AIR)an external research organization, [name of microsite]created a microsite to was developed as a dive deeper dive into American Rescue Plan (ARP) programs and ongoing efforts and build and evidence on effective and equitable program implementation. It includes data on the implementation and evaluations of 32 select programs, which disbursedrepresent nearly $900 billion inof ARP funds. It also reports on seven national evaluations: four program specific evaluations and three evaluations of how multiple programs across federal agencies worked together to achieve common goals in behavioral health, housing, and support for families with children. This work is in collaboration with an independent third party, the American Institute for Research (AIR). 
-- Button linking to microsite
+<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-National-Evaluation.pdf" target="_blank">Microsite</a>
 
 ## Additional resources
 - E.g. link to blog of ours on partner agency site
