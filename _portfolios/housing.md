@@ -2,14 +2,14 @@
 layout: portfolio
 title: Housing
 permalink: /housing/
-image: /assets/img/project-images/arp-portfolio.webp
-image_alt_text: Front view of residential home
+image: /assets/img/project-images/2305-img.webp
+image_alt_text: key in door
 hide_image: true
 image-credit: https://www.flickr.com/photos/toby_d1/4273541069
 year: 2024
 summary: Summary line here
 project_tags:
-  - housing
+ - housing
 ---
 
 ## Background
