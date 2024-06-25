@@ -9,7 +9,7 @@ image-credit: https://www.flickr.com/photos/toby_d1/4273541069
 year: 2024
 summary: Summary line here
 project_tags:
- - housing
+ - Housing
 ---
 
 ## Background
