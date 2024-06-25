@@ -9,7 +9,7 @@ image-credit: https://www.pexels.com/photo/black-handled-key-on-key-hole-101808/
 year: 2024
 summary: Summary line here
 project_tags:
-  - Housing
+  - housing
 ---
 
 ## Background
