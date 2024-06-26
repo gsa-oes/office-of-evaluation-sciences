@@ -13,6 +13,7 @@ year: 2019
 type: Impact evaluation of program change
 domain:
  - Communications
+ - Housing
 status: Complete
 agency: Housing and Urban Development
 summary: Letters with feedback on energy use and comparisons to efficient neighbors did not reduce energy use among public housing residents
