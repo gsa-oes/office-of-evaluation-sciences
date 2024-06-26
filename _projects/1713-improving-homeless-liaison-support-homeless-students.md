@@ -2,7 +2,8 @@
 title:  Identifying students for the Education for Homeless Children and Youth Program
 permalink: /projects/improving-homeless-liaison-support/
 tags:
-- project  
+- project
+- housing
 image: /assets/img/project-images/1713-image.jpeg
 image_alt_text: Books in a library
 image-credit: https://pxhere.com/en/photo/1575601
