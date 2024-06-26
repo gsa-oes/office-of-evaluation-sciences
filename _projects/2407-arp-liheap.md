@@ -4,6 +4,7 @@ permalink: /2407-arp-liheap/
 tags: 
   - project
   - arp
+  - housing
 image: /assets/img/project-images/2407.webp
 image_alt_text: Person warming hands in front of fire
 image-credit: https://www.rawpixel.com/image/3286329/free-photo-image-freezing-apparel-bake-fire
