@@ -3,6 +3,7 @@ title:  Using incentives to reduce nonresponse bias in the American Housing Surv
 permalink: /projects/1901-ahs-incentives-evaluation/
 tags: 
   - project
+  - housing
 image: /assets/img/project-images/1901-nrb.webp
 image_alt_text: Buildings in New York City
 image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.webp
@@ -13,7 +14,6 @@ status: Complete
 type: Impact evaluation of program change
 domain:
  - Government Efficiency
- - Housing
 agency:
     - Census
     - Housing and Urban Development
