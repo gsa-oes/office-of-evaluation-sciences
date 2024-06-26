@@ -13,7 +13,7 @@ project_tags:
 ---
 
 ## Background
-Over the course of a year, more than a million individuals and families in the United States experience homelessness, and many more experience housing instability. This stems from decades of growing economic inequality, increasing housing costs, and housing supply shortfalls, which were exacerbated by a global pandemic. Several federal agencies support the use of evidence-based practices to prevent and end homelessness through programs that provide support services and assistance with rent, utilities, and other housing-related costs. Currently, there are 19 agencies comprising the United States Interagency Council on Homelessness (USICH), which coordinates the federal response to homelessness.
+Over the course of a year, more than a million individuals and families in the United States experience homelessness, and many more experience housing instability. This stems from decades of growing economic inequality, increasing housing costs, and housing supply shortfalls, which were exacerbated by a global pandemic. Several federal agencies support the use of evidence-based practices to prevent and end homelessness through programs that provide support services and assistance with rent, utilities, and other housing-related costs. Currently, there are 19 agencies including GSA comprising the United States Interagency Council on Homelessness (USICH), which coordinates the federal response to homelessness.
 
 ## Portfolio
 We’ve worked with the Department of Housing and Urban Development, Department of Education, Department of Agriculture, Department of Health & Human Services, and the Department of the Treasury on evaluations related to housing insecurity and home energy costs.
