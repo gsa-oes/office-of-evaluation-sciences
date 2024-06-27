@@ -4,6 +4,7 @@ permalink: /2306-cash-transfers-homelessness/
 tags: 
   - project
   - arp
+  - housing
 image: /assets/img/project-images/2306.webp
 image_alt_text: Money and a 1040 form
 image-credit: https://dailymontanan.com/2022/11/16/revive-the-child-tax-credit-our-children-deserve-nothing-less/
