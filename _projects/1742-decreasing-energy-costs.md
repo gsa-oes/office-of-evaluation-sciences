@@ -2,7 +2,8 @@
 title:  Decreasing energy costs in federally assisted housing
 permalink: /projects/decreasing-energy-costs/
 tags:
-- project  
+- project
+- housing
 image: /assets/img/project-images/1742.webp  
 image_alt_text: Front of residential tower buildings
 image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.webp

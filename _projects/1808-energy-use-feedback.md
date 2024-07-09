@@ -2,7 +2,8 @@
 title: Using social norms to decrease energy use in public housing
 permalink: /projects/energy-use-feedback/
 tags: 
-  - project  
+  - project
+  - housing
 image: /assets/img/project-images/1808.webp  
 image_alt_text: Front of building
 image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.webp 

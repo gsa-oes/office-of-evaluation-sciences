@@ -4,6 +4,7 @@ permalink: /projects/era-equity/
 tags: 
  - project
  - arp
+ - housing
 image: /assets/img/project-images/2113B-image.webp
 image_alt_text: Triple decker housing in Cambridge, MA
 image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.webp
@@ -15,7 +16,6 @@ type: Descriptive study
 domain: 
 - American Rescue Plan
 - Economic Opportunity
-- Housing
 agency: Treasury
 status: Complete
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
