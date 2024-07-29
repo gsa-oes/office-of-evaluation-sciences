@@ -57,11 +57,11 @@ Finally, the bundled intervention design (a text-encouragement campaign that bot
 Improving the customer experience and the application process has been a focus for many ARP-funded SNAP modernization projects.<sup>26</sup> Other interventions may be more effective at moving the needle on priority outcomes than the one evaluated in this study. For instance, policymakers could consider alternative intervention approaches that couple human-centered design changes to existing processes — a focus of this intervention — with deeper modifications to how the program operates, such as interventions that modify when applicants are able to schedule interviews for SNAP verification.<sup>27</sup>
 
 ## Notes:
-1. “Program Data Featured Reports, Fiscal Year 2023” U.S. Department of Agriculture Food and Nutrition Service, accessed July 18, 1014. https://www.fns.usda.gov/pd/overview
-2. “Strategies for Reducing Administrative Burden in Public Benefit and Service Programs” Office of Management and Budget, accessed July 28, 2024, https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf
-3. “American Rescue Plan Fact Sheet” U.S. Department of Agriculture, accessed July 28, 2024, https://www.usda.gov/sites/default/files/documents/arp-national-factsheet.pdf
-4. “Exploring States’ SNAP Modernization Projects” Urban Institute, accessed July 28, 2024, https://www.urban.org/projects/exploring-states-snap-modernization-projects
-5. Strategic Plan Fiscal Years 2022 – 2026, p. 32.” U.S. Department of Agriculture, accessed July 18, 2024,  https://www.usda.gov/sites/default/files/documents/usda-fy-2022-2026-strategic-plan.pdf
+1. “Program Data Featured Reports, Fiscal Year 2023” U.S. Department of Agriculture Food and Nutrition Service, accessed July 18, 1014. https://www.fns.usda.gov/pd/overview.
+2. “Strategies for Reducing Administrative Burden in Public Benefit and Service Programs” Office of Management and Budget, accessed July 28, 2024, https://www.whitehouse.gov/wp-content/uploads/2022/12/BurdenReductionStrategies.pdf.
+3. “American Rescue Plan Fact Sheet” U.S. Department of Agriculture, accessed July 28, 2024, https://www.usda.gov/sites/default/files/documents/arp-national-factsheet.pdf.
+4. “Exploring States’ SNAP Modernization Projects” Urban Institute, accessed July 28, 2024, https://www.urban.org/projects/exploring-states-snap-modernization-projects.
+5. Strategic Plan Fiscal Years 2022 – 2026, p. 32.” U.S. Department of Agriculture, accessed July 18, 2024,  https://www.usda.gov/sites/default/files/documents/usda-fy-2022-2026-strategic-plan.pdf.
 6. In the administrative burden framework, costs of benefits take up also are decomposed into a third category: the psychological costs of participating in a program that may carry stigma or result in a loss of autonomy.
 7. Moynihan, Donald, Pamela Herd, and Hope Harvey. "Administrative burden: Learning, psychological, and compliance costs in citizen-state interactions." <i>Journal of Public Administration Research and Theory</i> 25, no. 1 (2015): 43-69.
 8. Bertrand, M., Mullainathan, S., & Shafir, E. (2006). Behavioral economics and marketing in aid of decision making among the poor. <i>Journal of Public Policy & Marketing,</i> 25(1), 8-23.
@@ -82,8 +82,7 @@ Improving the customer experience and the application process has been a focus f
 23. Exploratory analysis suggests that applicants in the uploader text group were more likely to be found ineligible, though the difference in ineligibility rates is not statistically significant. Applicants in the uploader text group were 0.53 percentage points more likely to be found ineligible (p = 0.25, 95% CI [-0.38, 1.45]).
 24. In the uploader text group, nearly half of applicants (48.3%) interacted with the redesigned document uploader in some way and nearly a third (30.6%) used the redesigned document uploader to share one or more documents. In the basic text group, less than one percent of applicants interacted with the redesigned uploader (0.7%) or used it to upload a document (0.6%).
 25. The Better Government Lab at Georgetown University fielded a complementary customer experience survey in collaboration with Code for America as part of the evaluation of the redesigned uploader.
-26. “Exploring States’ SNAP Modernization Projects.” 2023 Urban Institute, accessed July 28, 2024, https://www.urban.org/
-projects/exploring-states-snap-modernization-projects
+26. “Exploring States’ SNAP Modernization Projects.” 2023 Urban Institute, accessed July 28, 2024, https://www.urban.org/projects/exploring-states-snap-modernization-projects.
 Giannella, Eric., T. Homonoff, G. Rino, and J. Somerville. “Administrative Burden and Procedural Denails: Experimental Evidence from SNAP.” <i>American Economic Journal: Economic Policy.</i> Forthcoming.
 
 
