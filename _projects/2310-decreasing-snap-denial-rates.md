@@ -8,7 +8,7 @@ image: /assets/img/project-images/2310-snap.webp
 image_alt_text: Sign that says we welcome SNAP benefits
 image-credit: https://www.pexels.com/photo/a-close-up-shot-of-paper-clipped-documents-7054757/
 analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.pdf
-abstract: 
+abstract-web: /results/decreasing-snap-denials/ 
 year: 2024  
 domain: American Rescue Plan, Payment Integrity
 type: Impact evaluation of program change
