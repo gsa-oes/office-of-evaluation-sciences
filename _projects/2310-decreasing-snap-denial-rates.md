@@ -1,6 +1,6 @@
 ---
 title: Decreasing Supplemental Nutrition Assistance Program denial rates with a text campaign and document uploader
-permalink: /2310-decreasing-snap-denial-rates/
+permalink: /projects/2310-decreasing-snap-denial-rates/
 tags: 
   - project
   - arp
