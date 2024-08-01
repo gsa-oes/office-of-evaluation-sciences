@@ -6,7 +6,6 @@ tags:
 image: /assets/img/project-images/2107-image-briefcase.webp
 image_alt_text: Person walking on a street with briefcase
 image-credit: https://unsplash.com/photos/6dW3xyQvcYE
-analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-plan.pdf
 abstract: /assets/abstracts/2107-describing-candidate-assessments-and-hiring-outcomes-doi.pdf
 year: 2023  
 domain: Government Operations
