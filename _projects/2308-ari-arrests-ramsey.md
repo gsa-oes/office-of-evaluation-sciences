@@ -7,7 +7,7 @@ tags:
 image: /assets/img/project-images/2308.webp
 image_alt_text: Person directing calls
 image-credit: https://commons.wikimedia.org/wiki/File:Day_124_-_West_Midlands_Police_-_Resource_Allocator_and_Despatcher_%288704002239%29.jpg
-analysis-plan:
+analysis-plan: /assets/analysis/2308-measuring-impact-of-ARI-in-MN-analysis-plan.pdf
 abstract: 
 year: 2024  
 domain: American Rescue Plan
