@@ -424,3 +424,14 @@ $theme-lead-font-family:           'heading';
 $theme-lead-font-size:             'lg';
 $theme-lead-line-height:           6;
 $theme-lead-measure:               6;
+
+
+// Identifier
+$theme-identifier-background-color: "primary-darker" !default;
+$theme-identifier-foreground-color: "white" !default;
+$theme-identifier-font-family: "ui" !default;
+$theme-identifier-identity-domain-color: "base-lighter" !default;
+$theme-identifier-max-width: "desktop" !default;
+$theme-identifier-primary-link-color: "white" !default;
+$theme-identifier-secondary-link-color: "base-lighter" !default;
+
