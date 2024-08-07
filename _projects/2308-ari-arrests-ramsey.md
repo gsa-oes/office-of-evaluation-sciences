@@ -14,7 +14,7 @@ domain: American Rescue Plan
 type: Impact evaluation of program change
 agency: Treasury
 status: Ongoing
-summary: 
+summary: Analysis Plan Registration
 featured: 
 ---
 ## What is the agency priority?
@@ -26,7 +26,7 @@ Ramsey County, Minnesota is investing up to $13.2 million of SLFRF funding to su
 Ramsey County’s Appropriate Responses Initiative expands the range of options available to 911 call takers in responding to calls. Under this initiative, 911 call takers will have the option of sending mental health professionals, public health staff, and new community responders instead of, or in addition to, traditional 911 responses when responding to 911 calls. The goal of the initiative is to reduce arrest rates and racial/ethnic inequality in arrest rates, with specific attention on Black and American Indian communities.
 
 ## How did the evaluation work?
-Analysis plan forthcoming.
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/blob/master/assets/analysis/2308-measuring-impact-of-ARI-in-MN-analysis-plan.pdf">on GitHub</a>.
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">American Rescue Plan portfolio</a>. 
