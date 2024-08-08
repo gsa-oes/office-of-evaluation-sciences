@@ -14,7 +14,7 @@ domain: Government Operations
 type: Impact evaluation of program change
 agency: Agriculture
 status: Complete
-summary: roviding applicants with different alternatives to reporting an hourly wage did not increase submission rates for an online application for SNAP benefits
+summary: Providing applicants with different alternatives to reporting an hourly wage did not increase submission rates for an online application for SNAP benefits
 featured: 
 ---
 ## What is the agency priority?
