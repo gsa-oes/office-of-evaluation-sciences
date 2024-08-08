@@ -1,5 +1,5 @@
 ---
-title: Decreasing Supplemental Nutrition Assistance Program denial rates with a text campaign and document uploader
+title: Decreasing Supplemental Nutrition Assistance Program (SNAP) denials due to incomplete information
 layout: page
 permalink: /results/decreasing-snap-denials/
 tags: 
@@ -81,8 +81,7 @@ Improving the customer experience and the application process has been a focus f
 22. We pre-specified a multiple hypothesis correction controlling for the family-wise error rate (FWER) through simulation, but chose instead to use a Bonferroni correction for our two primary outcomes. The significance of the findings do not change after adjusting for multiple hypotheses using the Bonferroni correction.
 23. Exploratory analysis suggests that applicants in the uploader text group were more likely to be found ineligible, though the difference in ineligibility rates is not statistically significant. Applicants in the uploader text group were 0.53 percentage points more likely to be found ineligible (p = 0.25, 95% CI [-0.38, 1.45]).
 24. In the uploader text group, nearly half of applicants (48.3%) interacted with the redesigned document uploader in some way and nearly a third (30.6%) used the redesigned document uploader to share one or more documents. In the basic text group, less than one percent of applicants interacted with the redesigned uploader (0.7%) or used it to upload a document (0.6%).
-25. The Better Government Lab at Georgetown University fielded a complementary customer experience survey in collaboration with Code for America as part of the evaluation of the redesigned uploader.
+25. The Better Government Lab at Georgetown University analyzed a complementary customer experience survey in collaboration with Code for America as part of the evaluation of the redesigned uploader.
 26. “Exploring States’ SNAP Modernization Projects.” 2023 Urban Institute, accessed July 28, 2024, <a class="usa-link usa-link--external" href="https://www.urban.org/projects/exploring-states-snap-modernization-projects">https://www.urban.org/projects/exploring-states-snap-modernization-projects.</a>
 27. Giannella, Eric., T. Homonoff, G. Rino, and J. Somerville. “Administrative Burden and Procedural Denails: Experimental Evidence from SNAP.” <i>American Economic Journal: Economic Policy.</i> Forthcoming.
-
 
