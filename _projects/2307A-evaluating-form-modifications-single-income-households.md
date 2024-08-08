@@ -8,9 +8,11 @@ image: /assets/img/project-images/2307a-form-mods.webp
 image_alt_text: Hands typing on laptop
 image-credit: https://www.pexels.com/photo/person-in-white-long-sleeve-shirt-using-macbook-pro-5076517/
 analysis-plan: /assets/analysis/2307A-eval-form-mods-analysis-plan.pdf
-abstract: 
+abstract-web: /results/streamlining-income-verification-to-broaden-access-to-rental-assistance/
 year: 2024  
-domain: Government Operations
+domain:
+ - Government Operations
+ - American Rescue Plan
 type: Impact evaluation of program change
 agency: Agriculture
 status: Complete
