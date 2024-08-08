@@ -1,5 +1,5 @@
 ---
-title: Decreasing Supplemental Nutrition Assistance Program denial rates with a text campaign and document uploader
+title: Decreasing Supplemental Nutrition Assistance Program (SNAP) denials due to incomplete information
 permalink: /projects/2310-decreasing-snap-denial-rates/
 tags: 
   - project
