@@ -1,8 +1,9 @@
 ---
-title: Evaluating form modifications to make it easier for single income households to report income on benefits applications
+title: Modifying income reporting on benefits applicants — Evidence from single-income households
 permalink: /2307A-evaluating-form-modifications-single-income-households/
 tags: 
   - project
+  - arp
 image: /assets/img/project-images/2307a-form-mods.webp
 image_alt_text: Hands typing on laptop
 image-credit: https://www.pexels.com/photo/person-in-white-long-sleeve-shirt-using-macbook-pro-5076517/
@@ -12,8 +13,8 @@ year: 2024
 domain: Government Operations
 type: Impact evaluation of program change
 agency: Agriculture
-status: Ongoing
-summary: Analysis Plan Registration
+status: Complete
+summary: roviding applicants with different alternatives to reporting an hourly wage did not increase submission rates for an online application for SNAP benefits
 featured: 
 ---
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
