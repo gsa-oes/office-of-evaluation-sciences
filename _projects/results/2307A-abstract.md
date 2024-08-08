@@ -4,9 +4,9 @@ layout: page
 permalink: /results/income-reporting-mods-single-income/
 tags: 
   - abstract
-image: /assets/img/project-images/2307A-image.webp
-image_alt_text: Sign that says we welcome SNAP benefits
-summary: 
+image: /assets/img/project-images/2307a-form-mods.webp
+image_alt_text: Hands typing on laptop
+summary:
 
 ---
 <br>
