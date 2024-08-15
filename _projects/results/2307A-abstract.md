@@ -48,12 +48,12 @@ CfA collects all responses to its SNAP digital assister, along with indicators o
 ## Results
 Among applicants who made it to the income reporting module in the application, 66.2% completed and submitted the SNAP application. Providing applicants with different sets of income reporting options did not meaningfully change application submission rates. When jointly testing for differences in application submission rates across the three intervention arms, none of the choice sets affected application submission rates (p = 0.54).
 
-<b>Figure 1.</b> Changing the reporting options displayed to applicants completing a digital assister application for SNAP benefits did not change application submission rates
+<b>Figure 2.</b> Changing the reporting options displayed to applicants completing a digital assister application for SNAP benefits did not change application submission rates
 <img src="{{ '/assets/img/project-images/2307A-fig-1.svg' | prepend: site.baseurl }}" alt="Changing the reporting options displayed to applicants completing a digital assister application for SNAP benefits did not change application submission rates" width="1500">
 
 We also analyzed which of the offered income reporting options applicants selected most often. Across all the intervention arms, applicants most frequently reported their income via the hourly wage reporting option. In the paystub, salaried, and combined conditions, 49.52%, 69.51%, and 49.63% of applicants selected the hourly pay option, respectively.
 
-<b>Figure 2.</b> The option that applicants most frequently selected was the hourly reporting option, where applicants reported their income by providing their <i>hourly</i> pay and the number of hours worked
+<b>Figure 3.</b> The option that applicants most frequently selected was the hourly reporting option, where applicants reported their income by providing their <i>hourly</i> pay and the number of hours worked
 <img src="{{ '/assets/img/project-images/2307A-fig-2.svg' | prepend: site.baseurl }}" alt="The option that applicants most frequently selected was the hourly reporting option, where applicants reported their income by providing their hourly pay and the number of hours worked" width="1500">
 
 Compared to applicants in the paystub condition, applicants in the salaried reporting condition were 1.4 times more likely to select the hourly reporting option, suggesting that applicants were likely to rely on this reporting option when a relatively more popular option (e.g., exact) was removed in favor of a less popular option (e.g., salaried). 
