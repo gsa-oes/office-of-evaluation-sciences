@@ -31,11 +31,11 @@ CfA designed and implemented the intervention and the evaluation, which was fiel
 One-third of eligible applicants were assigned to the paystub reporting option set, where they were able to choose between reporting their income via their hourly wage and hours worked or via an exact amount from a recent pay stub. One-third of eligible applicants were assigned to the salaried reporting option set, where they were able to choose between reporting their income via the hourly reporting option or via their annual salary. The final third of eligible applicants were assigned to the combined reporting option set, which contained all options. Applicants in all conditions were also provided an option to “opt out” of these structured reporting options and simply enter in an estimate of their monthly income in an open text box.
 
 <b>Figure 1.</b> Summary of intervention arms
-<img src="{{ '/assets/img/project-images/2310-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing encouragement to use the redesigned document uploader reduced SNAP denials due to incomplete information" width="1500">
+<img src="{{ '/assets/img/project-images/2307A-01.svg' | prepend: site.baseurl }}" alt="Bar chart showing encouragement to use the redesigned document uploader reduced SNAP denials due to incomplete information" width="250">
 The paystub reporting option set prompted applicants to report their income by either their hourly wages or an exact amount from a recent pay stub.
-<img src="{{ '/assets/img/project-images/2310-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing encouragement to use the redesigned document uploader reduced SNAP denials due to incomplete information" width="1500">
+<img src="{{ '/assets/img/project-images/2307A-02.svg' | prepend: site.baseurl }}" alt="Bar chart showing encouragement to use the redesigned document uploader reduced SNAP denials due to incomplete information" width="250">
 The salaried reporting option set prompted applicants to report their income by either their hourly wages or their annual salary.
-<img src="{{ '/assets/img/project-images/2310-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing encouragement to use the redesigned document uploader reduced SNAP denials due to incomplete information" width="1500">
+<img src="{{ '/assets/img/project-images/2307A-03.svg' | prepend: site.baseurl }}" alt="Bar chart showing encouragement to use the redesigned document uploader reduced SNAP denials due to incomplete information" width="250">
 The combined reporting option set prompted applicants to report their income by either their hourly wages, the exact amount from a recent pay stub, or their annual salary.
 
 To build generalizable evidence on form completion and federal customer experience, we developed an analysis plan to evaluate whether providing additional income reporting options impacted submission rates, and to learn which income reporting were most used by applicants.
