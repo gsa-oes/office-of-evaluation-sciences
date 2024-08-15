@@ -54,7 +54,7 @@ Among applicants who made it to the income reporting module in the application, 
 We also analyzed which of the offered income reporting options applicants selected most often. Across all the intervention arms, applicants most frequently reported their income via the hourly wage reporting option. In the paystub, salaried, and combined conditions, 49.52%, 69.51%, and 49.63% of applicants selected the hourly pay option, respectively.
 
 <b>Figure 2.</b> The option that applicants most frequently selected was the hourly reporting option, where applicants reported their income by providing their <i>hourly</i> pay and the number of hours worked
-<img src="{{ '/assets/img/project-images/2307A-fig-1.svg' | prepend: site.baseurl }}" alt="The option that applicants most frequently selected was the hourly reporting option, where applicants reported their income by providing their hourly pay and the number of hours worked" width="1500">
+<img src="{{ '/assets/img/project-images/2307A-fig-2.svg' | prepend: site.baseurl }}" alt="The option that applicants most frequently selected was the hourly reporting option, where applicants reported their income by providing their hourly pay and the number of hours worked" width="1500">
 
 Compared to applicants in the paystub condition, applicants in the salaried reporting condition were 1.4 times more likely to select the hourly reporting option, suggesting that applicants were likely to rely on this reporting option when a relatively more popular option (e.g., exact) was removed in favor of a less popular option (e.g., salaried). 
 
