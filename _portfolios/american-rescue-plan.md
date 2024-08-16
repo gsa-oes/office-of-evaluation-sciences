@@ -17,16 +17,15 @@ The COVID-19 pandemic caused both a public health and an economic crisis. The fe
 We’ve built a pandemic relief and economic recovery portfolio consisting of dozens of evaluations and resources to begin to answer this question. Our work encompasses many agency priorities, such as housing, mental health, economic security, small businesses, and community safety. The learnings from this portfolio can be used for policymaking and implementation to improve outcomes and program delivery during times of crisis and beyond. This page features links to results, briefs on key takeaways, and learnings on salient topics such as how to make it easier for people to learn about and apply for federal programs.
 
 ## OES Resources:
-- Designing effective health communications (PDF)
-- Encouraging COVID-19 prevention behaviors (PDF)
-- Fact specific proxies (PDF)
-- Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)
-- Using behavioral science to increase COVID-19 vaccination uptake (PDF)
-- What are the best ways to encourage COVID-19 vaccination? (Blog)
+- <a href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf">Designing effective health communications (PDF)</a>
+- <a href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf">Encouraging COVID-19 prevention behaviors (PDF)</a>
+- <a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
+- <a href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
+- <a href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/">What are the best ways to encourage COVID-19 vaccination? (Blog)</a>
 
 ## External resources
-- OIRA 2024 admin burden report
-- White House ARP Equity report & Learning Agenda
+- <a class="usa-link usa-link--external" href="URL">OIRA 2024 admin burden report</a>
+- <a class="usa-link usa-link--external" href="URL">White House ARP Equity report & Learning Agenda</a>
 
 ## The American Rescue Plan National Evaluation 
 We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. The ARP National Evaluation microsite reports on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
