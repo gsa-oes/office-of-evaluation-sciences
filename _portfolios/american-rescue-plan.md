@@ -1,42 +1,37 @@
 ---
 layout: portfolio
-title: American Rescue Plan
-permalink: /american-rescue-plan/
+title: Pandemic relief and economic recovery
+permalink: /pandemic-relief-economic-recovery/
 image: /assets/img/project-images/arp-portfolio.webp
 image_alt_text: Front view of residential home
 hide_image: true
 image-credit: https://www.flickr.com/photos/toby_d1/4273541069
 year: 2023
-summary: Learning what works to support equitable delivery of the American Rescue Plan
+summary: Evaluations and insights from the COVID-19 response
 project_tags:
   - arp
 ---
 
-## Background
-The American Rescue Plan Act of 2021 (ARP) was designed to address immediate needs related to the pandemic, with a specific focus on addressing historically disparate outcomes across race, class, and geography that were further exacerbated by the pandemic. To guide the federal government’s exploration of questions about equitable recovery, the White House released an <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/American-Rescue-Plan-Equity-Learning-Agenda.pdf">ARP Equity Learning Agenda</a>, as part of the <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf">Advancing Equity Through the ARP report</a>. The Equity Learning Agenda is designed to provide a framework for ensuring the federal government builds evidence about what works and what doesn’t, to deliver an equitable recovery both now and in the future.
+The COVID-19 pandemic caused both a public health and an economic crisis. The federal government responded with historic investments including the Coronavirus Aid, Relief, and Economic Security (CARES) Act of 2020 and the American Rescue Plan (ARP) Act of 2021. <i>What lessons about designing effective programs and strategies, especially for vulnerable populations, can we draw from these investments?</i>
 
-In support of the Equity Learning Agenda and agency evaluation efforts, OES’s ARP Evaluation Portfolio has two core elements: a national evaluation conducted by a third-party contract, and a portfolio of evaluations conducted by OES, in partnership with agencies, on ARP-funded programs with equity goals.
+We’ve built a pandemic relief and economic recovery portfolio consisting of dozens of evaluations and resources to begin to answer this question. Our work encompasses many agency priorities, such as housing, mental health, economic security, small businesses, and community safety. The learnings from this portfolio can be used for policymaking and implementation to improve outcomes and program delivery during times of crisis and beyond. This page features links to results, briefs on key takeaways, and learnings on salient topics such as how to make it easier for people to learn about and apply for federal programs.
 
-## National Evaluation
-The goal of the national evaluation is to look systematically across a selected subset of ARP programs, and provide an integrated account of whether, how, and to what extent their implementation served to achieve their intended outcomes, particularly with respect to advancing equity. The multi-year evaluation will be conducted by the American Institutes for Research (AIR), with Abt Associates and Decision Information Resources. OES is supporting the contract in partnership with the Office of Management and Budget’s Evidence Team, the ARP Implementation Team, and other agency partners. Federal Executive Branch employees can learn more about the national evaluation and access materials at the <a class="usa-link usa-link--external" href="https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.gov%2Flogin.action%3Fos_destination%3D%252Fpages%252Fviewpage.action%253FspaceKey%253DOMB%2526title%253DARP%252BNational%252BEvaluation">MAX.gov site.</a>
+## OES Resources:
+- Designing effective health communications (PDF)
+- Encouraging COVID-19 prevention behaviors (PDF)
+- Fact specific proxies (PDF)
+- Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)
+- Using behavioral science to increase COVID-19 vaccination uptake (PDF)
+- What are the best ways to encourage COVID-19 vaccination? (Blog)
+
+## External resources
+- OIRA 2024 admin burden report
+- White House ARP Equity report & Learning Agenda
+
+## The American Rescue Plan National Evaluation 
+We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. The ARP National Evaluation microsite reports on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
 
 <a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-National-Evaluation.pdf" target="_blank">Learn more about the national evaluation (PDF)</a>
 
-## Portfolio
-OES is collaborating with the Office of Management and Budget Evidence Team and the ARP Implementation Team, as well as the U.S. Department of Treasury, the Department of Education, and other agencies, to undertake a portfolio of evaluations with agency partners to better understand how to improve awareness, access, and allocation of ARP programs and resources, focusing on ARP programs with equity goals. This set of evaluations will be intentional and strategic in building evidence to understand the role of ARP programs and supported interventions in improving outcomes for historically underserved populations. 
-
-OES team members will work closely with agency partners to design and implement an evaluation, analyze data, and share findings.  
-
-<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-Evaluations-Overview.pdf" target="_blank">Learn more about how the collaboration works (PDF)</a>
-
-
-### Relevant OES Resources
-
-| Date  | Resource |
-| :--- | :--- |
-| October 20, 2022  | <a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-to-build-evidence-on-advancing-equitable-outcomes-through-the-american-rescue-plan-10202022" target="_blank">News Release: GSA Awards Multi-Year Evaluation Contract on Equity and the ARP </a> |
-| June 9, 2022  | <a href="https://oes.gsa.gov/blog/build-equitable-recovery/" target="_blank">Blog: Learning What Works to Build an Equitable Recovery</a> |
-| December 15, 2021 |<a href="https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan" target="_blank">Blog: GSA to Build Evidence to Advance Equitable Outcomes through the ARP </a>|
-
-
-
+## Evaluations
+We’ve also partnered with federal agencies to conduct dozens of evaluations, some national and some site-specific, to better understand what worked to increase awareness of, access to, and allocation of CARES Act and ARP Act recovery programs. The results offer a wealth of insights, such as what worked to connect thousands more callers in mental health crises to counselors, how one state saved tens of thousands of dollars by shifting away from an ineffective outreach technique, and which program change made it easier, faster, and more likely for people facing housing instability to access rental assistance.
