@@ -24,8 +24,9 @@ We’ve built a pandemic relief and economic recovery portfolio consisting of do
 - <a href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/">What are the best ways to encourage COVID-19 vaccination? (Blog)</a>
 
 ## External resources
-- <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2024/07/OIRA-2024-Burden-Reduction-Report.pdf">Tackling the time tax: Making Important Government Benefits and Programs Easier to Access</a>
+- <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf">Advancing Equity Through The American Rescue Plan</a>
 - <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/American-Rescue-Plan-Equity-Learning-Agenda.pdf">American Rescue Plan Equity Learning Agenda</a>
+- <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2024/07/OIRA-2024-Burden-Reduction-Report.pdf">Tackling the Time Tax: Making Important Government Benefits and Programs Easier to Access</a>
 
 ## The American Rescue Plan National Evaluation 
 We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. The ARP National Evaluation microsite reports on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
