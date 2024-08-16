@@ -19,8 +19,8 @@ We’ve built a pandemic relief and economic recovery portfolio consisting of do
 ## OES resources
 - <a href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf">Designing effective health communications (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf">Encouraging COVID-19 prevention behaviors (PDF)</a>
-- <a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons Learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
-- <a href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Use of proxies for eligibility verification (PDF)</a>
+- <a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
+- <a href="{{site.baseurl}}/assets/files/use-of-proxies-for-eligibility-verification.pdf" target="_blank">Use of proxies for eligibility verification (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
 - <a href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/">What are the best ways to encourage COVID-19 vaccination? (Blog)</a>
 
