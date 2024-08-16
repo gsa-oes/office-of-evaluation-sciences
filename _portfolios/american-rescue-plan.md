@@ -11,7 +11,7 @@ summary: Evaluations and insights from the COVID-19 response
 project_tags:
   - arp
 ---
-
+## Background:
 The COVID-19 pandemic caused both a public health and an economic crisis. The federal government responded with historic investments including the Coronavirus Aid, Relief, and Economic Security (CARES) Act of 2020 and the American Rescue Plan (ARP) Act of 2021. <i>What lessons about designing effective programs and strategies, especially for vulnerable populations, can we draw from these investments?</i>
 
 We’ve built a pandemic relief and economic recovery portfolio consisting of dozens of evaluations and resources to begin to answer this question. Our work encompasses many agency priorities, such as housing, mental health, economic security, small businesses, and community safety. The learnings from this portfolio can be used for policymaking and implementation to improve outcomes and program delivery during times of crisis and beyond. This page features links to results, briefs on key takeaways, and learnings on salient topics such as how to make it easier for people to learn about and apply for federal programs.
