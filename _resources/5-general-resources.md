@@ -12,6 +12,8 @@ Below are resources we’ve developed through our work building evidence governm
 OES sends out regular newsletters with upcoming events, recent project results, and other news. <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">Subscribe to our newsletter.</a>
 
 ### 2024
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3ad1811" target="_blank">August 2024: Building evidence to help support the prevention of homelessness and housing instability</a>
+
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/39dd3d0" target="_blank">June 2024: Texts and calls increased Child Care Stabilization Base Grants awards for child care providers</a>
 
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/38d7090" target="_blank">March 2024: Streamlining income verification for processors increased Emergency Rental Assistance application approval rates</a>
