@@ -4,7 +4,7 @@ permalink: /projects/sd-small-business-relief/
 tags: 
   - project  
   - business
-  - covid
+  - arp
 image: /assets/img/project-images/2003-san-diego-image.webp
 image_alt_text: San Diego Skyline
 image-credit: https://commons.wikimedia.org/wiki/File:San_Diego_Skyline_at_Dawn.webp
