@@ -3,7 +3,7 @@
 
   {% if header.type == 'basic' %}
       {% if page.url contains '/arp' %}
-          <header class="usa-header usa-header--basic" role="banner" style="background-color: #f7f9fa;">
+          <header class="usa-header usa-header--basic arp-header-bgc" role="banner">
       {% else %}
           <header class="usa-header usa-header--basic" role="banner" >
       {% endif %}
@@ -38,7 +38,7 @@
 
   <!--navigation-->
     {% if page.url contains '/arp' %}
-        <nav role="navigation" class="usa-nav" style="background-color: #f7f9fa;">
+        <nav role="navigation" class="usa-nav arp-header-bgc">
     {% else %}
         <nav role="navigation" class="usa-nav">
     {% endif %}
