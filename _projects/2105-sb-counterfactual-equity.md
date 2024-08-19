@@ -3,7 +3,7 @@ title:  Who receives access to small business relief? A simulation-based approac
 permalink: /collaborations/sb-counterfactual-equity/
 tags: 
   - business
-  - covid
+  - arp
   - project
 image: /assets/img/project-images/othercollabs/sb-equity-image.webp
 image_alt_text: Front of shops in a street
