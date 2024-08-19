@@ -39,6 +39,27 @@
       %}
     >
       {{ content }}
+
+      <button
+        style="
+          background-color: black;
+          width: 50px;
+          height: 50px;
+          position: fixed;
+          right: 49px;
+          bottom: 490px;
+          color: white;
+          border: none;
+          padding: 0;
+          cursor: pointer;
+        "
+        onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
+      >
+        <div>
+          <div>></div>
+          <div><p style="text-align: center">Top</p></div>
+        </div>
+      </button>
     </main>
 
     {% include arp-footer.html %} {% include scripts.html %}
