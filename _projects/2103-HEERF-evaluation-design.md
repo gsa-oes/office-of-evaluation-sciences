@@ -4,7 +4,6 @@ permalink: /collaborations/HEERF-eval-design/
 tags:
   - Education
   - highered
-  - covid
   - arp
 image: /assets/img/project-images/othercollabs/grad-photo-ed.webp
 image_alt_text: People graduation
