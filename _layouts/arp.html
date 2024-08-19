@@ -41,22 +41,20 @@
       {{ content }}
 
       <button
-        class="arp-back-to-top-btn"
+        class="arp-back-to-top-btn border-0 cursor-pointer position-fixed bg-black text-white display-flex flex-column flex-align-center flex-justify-center"
         onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
       >
         <div>
-          <div>
-            <svg width="17" viewBox="0 0 19 11">
-              <path
-                d="M9.60033 4.01916L9.42885 3.85752L9.25737 4.01916L2.21618 10.6563L0.364332 8.90688L9.42885 0.343912L18.4934 8.90688L16.6415 10.6563L9.60033 4.01916Z"
-                fill="white"
-                stroke="#1B1B1B"
-                stroke-width="0.5"
-              />
-            </svg>
-          </div>
-          <div><p style="text-align: center">Top</p></div>
+          <svg width="17" viewBox="0 0 19 11">
+            <path
+              d="M9.60033 4.01916L9.42885 3.85752L9.25737 4.01916L2.21618 10.6563L0.364332 8.90688L9.42885 0.343912L18.4934 8.90688L16.6415 10.6563L9.60033 4.01916Z"
+              fill="white"
+              stroke="#1B1B1B"
+              stroke-width="0.5"
+            />
+          </svg>
         </div>
+        <div><p>Top</p></div>
       </button>
     </main>
 
