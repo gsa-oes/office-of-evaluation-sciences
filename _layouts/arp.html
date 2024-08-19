@@ -1,0 +1,46 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  {% include head.html %}
+
+  <body
+    class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}"
+  >
+    <ul>
+      <li>
+        Idea is to use this layout for all ARP pages
+        <ul>
+          <li>If it is a static page, create HTML files in "_arp" folder</li>
+          <li>
+            If it is a content page, create Markdown files in "_arp" folder
+          </li>
+        </ul>
+      </li>
+      <li>Need to include ARP scripts</li>
+      <li>Need to build out ARP header and footer</li>
+    </ul>
+    {% include skipnav.html %} {% include header.html %}
+
+    <main
+      id="main-content"
+      {%
+      for
+      _attr
+      in
+      layout.main
+      %}
+      {{
+      _attr[0]
+      }}="{{ _attr[1] }}"
+      {%
+      endfor
+      %}
+    >
+      {{ content }}
+    </main>
+
+    {% include footer.html %} {% include scripts.html %}
+  </body>
+</html>
