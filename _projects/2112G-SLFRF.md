@@ -12,8 +12,8 @@ abstract-web: /results/slfrf-tribal-govs-neus/
 year: 2022 
 type: Descriptive study
 domain:
- - American Rescue Plan
  - Economic Opportunity
+ - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 featured:
