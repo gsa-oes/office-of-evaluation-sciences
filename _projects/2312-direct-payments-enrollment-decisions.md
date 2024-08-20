@@ -10,7 +10,7 @@ image-credit: https://www.pexels.com/photo/photo-of-graduation-caps-on-wooden-fl
 analysis-plan:
 abstract: 
 year: 2024  
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Treasury
 status: Ongoing
@@ -27,7 +27,7 @@ We will evaluate whether eligibility for these COVID-era payments impacted colle
 Analysis plan forthcoming.
 
 ## What did we learn?
-This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">American Rescue Plan portfolio</a>. 
+This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">Pandemic Relief and Recovery portfolio</a>. 
 Results forthcoming (2024).
 
 Notes:
