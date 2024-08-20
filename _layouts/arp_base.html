@@ -8,22 +8,11 @@
   <body
     class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}"
   >
-    <ul>
-      <li>
-        Idea is to use this layout for all ARP page layouts as a base
-        <ul>
-          <li>If it is a static page, create HTML files in "_arp" folder</li>
-          <li>
-            If it is a content page, create Markdown files in "_arp" folder
-          </li>
-        </ul>
-      </li>
-      <li>Need to include ARP scripts</li>
-      <li>Need to build out ARP header and footer</li>
-    </ul>
-    {% include skipnav.html %} {% include header.html %}
+    {% include skipnav.html %} {% include header.html %} {% include
+    arp/header.html %}
 
     <main
+      class="arp-base"
       id="main-content"
       {%
       for

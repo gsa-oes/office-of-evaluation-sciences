@@ -5,14 +5,221 @@
     max-width: 309px;
   }
 }
-
 .arp-back-to-top-btn {
   width: 50px;
   height: 50px;
-  right: 49px;
-  bottom: 490px;
+  right: 20px;
+  bottom: 20px;
 }
 
 .arp-header-bgc {
   background-color: #f7f9fa !important;
+}
+
+.arp-base {
+  * {
+    font-family: Lato, Helvetica Neue, Helvetica, Arial, sans;
+  }
+
+  .arp-home {
+    .usa-hero {
+      .arp-hero-callout {
+        background-color: #19677f;
+        padding: 30px;
+        color: white;
+      }
+      .right-callout {
+        background-color: #074b69;
+        margin: 30px 0;
+      }
+
+      .grid-container {
+        display: flex;
+
+        @media (max-width: 768px) {
+          flex-direction: column;
+          .right-callout {
+            margin: 0;
+          }
+        }
+      }
+
+      a {
+        color: #074b69;
+        border-radius: 5px;
+        background-color: #f1f5f9;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 17px;
+        display: inline-block;
+      }
+    }
+
+    .arp-explore-findings-card {
+      box-shadow: 0 4px 20px -1px rgb(0 0 0 / 0.1),
+        0 2px 4px -2px rgb(0 0 0 / 0.1);
+      padding: 40px 30px;
+      margin: 30px 0;
+
+      h2 {
+        color: #19677f;
+        font-size: 24px;
+        line-height: 28px;
+      }
+
+      a {
+        color: #19677f;
+        font-size: 16px;
+        line-height: 25px;
+      }
+
+      .learn-more-anchor {
+        font-weight: bold;
+      }
+
+      .arp-card-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 40px;
+
+        img {
+          width: 100%;
+          max-width: 350px;
+          @media (max-width: 768px) {
+            max-width: unset;
+          }
+        }
+
+        @media (max-width: 768px) {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 20px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        padding: 20px;
+        margin: 20px 0;
+
+        h2 {
+          font-size: 20px;
+          line-height: 24px;
+        }
+
+        a {
+          font-size: 14px;
+          line-height: 22px;
+        }
+      }
+    }
+
+    .topic-areas {
+      .arp-grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        @media (max-width: 768px) {
+          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
+        @media (max-width: 480px) {
+          grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        }
+      }
+
+      .grid-item {
+        background-color: white;
+        text-align: left;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s;
+        &:hover {
+          transform: translateY(-3px);
+        }
+        cursor: pointer;
+        font-size: 18px;
+        line-height: 26px;
+        font-weight: bold;
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+
+        .grid-item-texts {
+          padding: 20px 30px 40px 30px;
+          display: flex;
+          flex-direction: column;
+          flex: 1;
+          .grid-item-description-text {
+            flex: 1;
+          }
+        }
+
+        .grid-item-read-more {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .recent-news {
+      padding: 60px 0 150px 0;
+
+      h1 {
+        font-size: 40px;
+        line-height: 48px;
+        color: #19677f;
+      }
+      .reports-container {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin: 40px 0 0 0;
+      }
+      .report-item {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        padding: 0 0 30px 0;
+        &:not(:last-child) {
+          border-bottom: 1px solid #e0e0e0;
+        }
+        img {
+          width: 100px;
+          height: 100px;
+          object-fit: cover;
+        }
+        p {
+          color: #333;
+          font-size: 16px;
+          line-height: 26px;
+          margin: 0;
+          max-width: unset;
+        }
+        &.item-without-image {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: unset;
+        }
+      }
+      .report-title {
+        color: #19677f;
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: bold;
+        margin: 0 0 10px 0;
+        display: block;
+      }
+
+      @media (max-width: 480px) {
+        .report-item {
+          flex-direction: column;
+          img {
+            width: 100%;
+          }
+          p {
+            font-size: 14px;
+          }
+        }
+      }
+    }
+  }
 }
