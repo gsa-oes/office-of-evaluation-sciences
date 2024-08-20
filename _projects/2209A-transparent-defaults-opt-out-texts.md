@@ -12,8 +12,8 @@ abstract-web: /results/decreasing-opt-out-from-benefits-texts/
 intervention: /assets/interventions/2209a-decreasing-opt-out-mn-intervention-pack.pdf
 year: 2024  
 domain:
- - American Rescue Plan
  - Communications
+ - Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Health and Human Services
 status: Complete
