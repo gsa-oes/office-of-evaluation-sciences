@@ -13,8 +13,8 @@ intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
 type: Impact evaluation of program change
 domain:
- - American Rescue Plan
  - Economic Opportunity
+ - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 summary: Adding peer comparisons and information that registering is quick and easy to emails did not increase submission of spending reports
