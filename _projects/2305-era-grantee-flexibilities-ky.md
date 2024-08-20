@@ -12,8 +12,8 @@ abstract-web: /results/streamlining-income-verification-to-broaden-access-to-ren
 year: 2024
 type: Impact evaluation of program change
 domain:
- - American Rescue Plan
  - Housing
+ - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 summary: Streamlining income verification for application processors in Kentucky increased application approval rates by at least 7 percentage points
