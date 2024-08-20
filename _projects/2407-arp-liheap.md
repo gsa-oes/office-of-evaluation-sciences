@@ -32,7 +32,7 @@ Grant recipients made a variety of changes to LIHEAP with the increased funding,
 Analysis plan forthcoming.
 
 ## What did we learn?
-This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">Pandemic Relief and Recovery portfolio</a>. 
+This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
 Results forthcoming (2024).
 
 Notes:
