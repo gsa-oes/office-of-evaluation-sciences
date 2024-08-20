@@ -12,8 +12,8 @@ analysis-plan: /assets/analysis/2206-HAF-Pilot.pdf
 abstract-web: /results/increasing-applications-homeowner-assistance-fund/
 year: 2023
 domain:
- - American Rescue Plan
  - Housing
+ - Pandemic Relief and Recovery
 agency: Treasury
 type: Impact evaluation of program change
 status: Complete
