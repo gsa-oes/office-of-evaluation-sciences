@@ -13,8 +13,8 @@ abstract-web: /results/reducing-documentation-burdens-era/
 year: 2024
 type: Impact evaluation of program change
 domain:
- - American Rescue Plan
  - Housing
+ - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 summary: Simplifying income documentation reduced application processing times and increased application approval rates, but did not significantly increase new applications
