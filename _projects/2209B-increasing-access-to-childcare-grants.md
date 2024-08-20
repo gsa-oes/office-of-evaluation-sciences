@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2209B-analysis-plan.pdf
 abstract-web: /results/increasing-access-to-mn-ccsbg/
 intervention: /assets/interventions/2209b-increasing-access-to-mn-ccsbg-intervention-pack.pdf
 year: 2024  
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Health and Human Services
 status: Complete
