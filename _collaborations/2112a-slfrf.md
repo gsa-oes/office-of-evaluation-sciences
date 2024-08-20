@@ -10,8 +10,8 @@ image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.webp
 year: 2021
 type: Evaluation Design
 domain:
- - American Rescue Plan
  - Economic Opportunity
+ - Pandemic Relief and Recovery
 agency: Treasury
 summary: Working with the Department of the Treasury to design evaluations of a fiscal transfer program
 ---
