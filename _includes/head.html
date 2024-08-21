@@ -75,6 +75,10 @@
   <link rel="icon" href="{{ site.baseurl }}/assets/img/logos/favicons/favicon-96x96.png">
 
   <!--  More info: https://github.com/audreyr/favicon-cheat-sheet -->
- 
+    
+  {% if page.url contains '/arp' %}
+    <script defer src="{{ site.baseurl }}/assets/js/arp/alpinejs@3.14.1.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/arp/scripts.js"></script>
+  {% endif %}
   
 </head>

@@ -1,0 +1,570 @@
+---
+layout: arp_base
+permalink: /arp/about/
+---
+
+<div class="arp-about">
+  <div class="grid-container">
+    <div class="intro-section">
+      <h1>About the ARP National Evaluation</h1>
+      <p>
+        The goal of the naRonal evaluation is to look systemaRcally at 32
+        programs that were included in the
+        <a href="">Advancing Equity Through the ARP report</a>, and provide an
+        integrated account of whether, how, and to what extent their
+        implementation served to achieve their intended outcomes, particularly
+        with respect to advancing equity.
+      </p>
+      <p>
+        More specifically, the evaluation aims to learn how lessons from
+        examinaRon of ARP programs and intervenRons with shared outcomes, common
+        approaches, or overlapping recipient communiRes may inform equitable
+        program design and delivery across the Federal Government.
+      </p>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div class="about-accordions">
+      <div x-data="about_accordion()" class="about-accordion">
+        <button
+          @click="toggle()"
+          :aria-expanded="isOpen"
+          class="accordion-header"
+        >
+          <span>Research questions and evaluation activities</span>
+          <img
+            x-show="!isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+          />
+          <img
+            x-show="isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+          />
+        </button>
+        <div x-show="isOpen" class="accordion-content">
+          <div>
+            <p>The ARP National evaluation addresses two research questions:</p>
+
+            <div class="about-tables">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Research question</th>
+                    <th>Methodology</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 1. Describe ARP program planning, implementation,
+                          and evaluation, including the integration of equity
+                          across these areas.
+                        </p>
+                        <ul>
+                          <li>
+                            How were ARP-funded programs implemented at the
+                            federal and/or state level?
+                          </li>
+                          <li>
+                            What were the intended outcomes of these programs?
+                          </li>
+                          <li>
+                            What approaches to stakeholder engagement did
+                            federal agencies use to inform program
+                            implementation?
+                          </li>
+                          <li>
+                            How, and to what extent, did available evidence
+                            inform program design?
+                          </li>
+                          <li>
+                            To what extent, and through what mechanisms, was an
+                            emphasis on improving equity integrated into ARP
+                            program implementation?
+                          </li>
+                          <li>
+                            What data collection protocols were established to
+                            support monitoring, performance measurement, and
+                            evaluation?
+                          </li>
+                          <li>
+                            To what extent are data available and of sufficient
+                            quality to assess the contribuRon of ARP investments
+                            and policy?
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>Environmental scan of 32 programs</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 2. Analyze the effectiveness of ARP program
+                          implementation, particularly with respect to advancing
+                          equity
+                        </p>
+                        <ul>
+                          <li>
+                            To what extent did ARP investments and policy
+                            interventions advance equitable outcomes for those
+                            they were designed to serve?
+                          </li>
+                          <li>
+                            What strategies contributed to the successes, and
+                            where are different strategies needed?
+                          </li>
+                          <li>
+                            Where multiple ARP programs aim to improve similar
+                            outcomes, especially among a shared population:
+                            <ul>
+                              <li>
+                                To what extent is there coordination across
+                                programs in their administration, customer
+                                experience strategies, or performance or outcome
+                                measurement practices?
+                              </li>
+                              <li>
+                                To what extent are there collective impacts that
+                                could be attributed to more than one program?
+                                What kinds of impacts, if any, are observed?
+                              </li>
+                              <li>
+                                What kinds of secondary effects are observed
+                                that may not be captured in targeted outcome
+                                measures?
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>
+                        Cross-cuang evaluaRons of programs with overlapping
+                        recipients, outcomes, and approaches Program-specific
+                        analyses of four programs
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div x-data="about_accordion()" class="about-accordion">
+        <button
+          @click="toggle()"
+          :aria-expanded="isOpen"
+          class="accordion-header"
+        >
+          <span>Evaluation partners</span>
+          <img
+            x-show="!isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+          />
+          <img
+            x-show="isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+          />
+        </button>
+        <div x-show="isOpen" class="accordion-content">
+          <div>
+            <p>Placeholder content:</p>
+
+            <div class="about-tables">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Research question</th>
+                    <th>Methodology</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 1. Describe ARP program planning, implementation,
+                          and evaluation, including the integration of equity
+                          across these areas.
+                        </p>
+                        <ul>
+                          <li>
+                            How were ARP-funded programs implemented at the
+                            federal and/or state level?
+                          </li>
+                          <li>
+                            What were the intended outcomes of these programs?
+                          </li>
+                          <li>
+                            What approaches to stakeholder engagement did
+                            federal agencies use to inform program
+                            implementation?
+                          </li>
+                          <li>
+                            How, and to what extent, did available evidence
+                            inform program design?
+                          </li>
+                          <li>
+                            To what extent, and through what mechanisms, was an
+                            emphasis on improving equity integrated into ARP
+                            program implementation?
+                          </li>
+                          <li>
+                            What data collection protocols were established to
+                            support monitoring, performance measurement, and
+                            evaluation?
+                          </li>
+                          <li>
+                            To what extent are data available and of sufficient
+                            quality to assess the contribuRon of ARP investments
+                            and policy?
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>Environmental scan of 32 programs</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 2. Analyze the effectiveness of ARP program
+                          implementation, particularly with respect to advancing
+                          equity
+                        </p>
+                        <ul>
+                          <li>
+                            To what extent did ARP investments and policy
+                            interventions advance equitable outcomes for those
+                            they were designed to serve?
+                          </li>
+                          <li>
+                            What strategies contributed to the successes, and
+                            where are different strategies needed?
+                          </li>
+                          <li>
+                            Where multiple ARP programs aim to improve similar
+                            outcomes, especially among a shared population:
+                            <ul>
+                              <li>
+                                To what extent is there coordination across
+                                programs in their administration, customer
+                                experience strategies, or performance or outcome
+                                measurement practices?
+                              </li>
+                              <li>
+                                To what extent are there collective impacts that
+                                could be attributed to more than one program?
+                                What kinds of impacts, if any, are observed?
+                              </li>
+                              <li>
+                                What kinds of secondary effects are observed
+                                that may not be captured in targeted outcome
+                                measures?
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>
+                        Cross-cuang evaluaRons of programs with overlapping
+                        recipients, outcomes, and approaches Program-specific
+                        analyses of four programs
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div x-data="about_accordion()" class="about-accordion">
+        <button
+          @click="toggle()"
+          :aria-expanded="isOpen"
+          class="accordion-header"
+        >
+          <span>Contact us</span>
+          <img
+            x-show="!isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+          />
+          <img
+            x-show="isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+          />
+        </button>
+        <div x-show="isOpen" class="accordion-content">
+          <div>
+            <p>Placeholder content:</p>
+
+            <div class="about-tables">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Research question</th>
+                    <th>Methodology</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 1. Describe ARP program planning, implementation,
+                          and evaluation, including the integration of equity
+                          across these areas.
+                        </p>
+                        <ul>
+                          <li>
+                            How were ARP-funded programs implemented at the
+                            federal and/or state level?
+                          </li>
+                          <li>
+                            What were the intended outcomes of these programs?
+                          </li>
+                          <li>
+                            What approaches to stakeholder engagement did
+                            federal agencies use to inform program
+                            implementation?
+                          </li>
+                          <li>
+                            How, and to what extent, did available evidence
+                            inform program design?
+                          </li>
+                          <li>
+                            To what extent, and through what mechanisms, was an
+                            emphasis on improving equity integrated into ARP
+                            program implementation?
+                          </li>
+                          <li>
+                            What data collection protocols were established to
+                            support monitoring, performance measurement, and
+                            evaluation?
+                          </li>
+                          <li>
+                            To what extent are data available and of sufficient
+                            quality to assess the contribuRon of ARP investments
+                            and policy?
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>Environmental scan of 32 programs</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 2. Analyze the effectiveness of ARP program
+                          implementation, particularly with respect to advancing
+                          equity
+                        </p>
+                        <ul>
+                          <li>
+                            To what extent did ARP investments and policy
+                            interventions advance equitable outcomes for those
+                            they were designed to serve?
+                          </li>
+                          <li>
+                            What strategies contributed to the successes, and
+                            where are different strategies needed?
+                          </li>
+                          <li>
+                            Where multiple ARP programs aim to improve similar
+                            outcomes, especially among a shared population:
+                            <ul>
+                              <li>
+                                To what extent is there coordination across
+                                programs in their administration, customer
+                                experience strategies, or performance or outcome
+                                measurement practices?
+                              </li>
+                              <li>
+                                To what extent are there collective impacts that
+                                could be attributed to more than one program?
+                                What kinds of impacts, if any, are observed?
+                              </li>
+                              <li>
+                                What kinds of secondary effects are observed
+                                that may not be captured in targeted outcome
+                                measures?
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>
+                        Cross-cuang evaluaRons of programs with overlapping
+                        recipients, outcomes, and approaches Program-specific
+                        analyses of four programs
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div x-data="about_accordion()" class="about-accordion">
+        <button
+          @click="toggle()"
+          :aria-expanded="isOpen"
+          class="accordion-header"
+        >
+          <span>About the website</span>
+          <img
+            x-show="!isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+          />
+          <img
+            x-show="isOpen"
+            src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+          />
+        </button>
+        <div x-show="isOpen" class="accordion-content">
+          <div>
+            <p>Placeholder content:</p>
+
+            <div class="about-tables">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Research question</th>
+                    <th>Methodology</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 1. Describe ARP program planning, implementation,
+                          and evaluation, including the integration of equity
+                          across these areas.
+                        </p>
+                        <ul>
+                          <li>
+                            How were ARP-funded programs implemented at the
+                            federal and/or state level?
+                          </li>
+                          <li>
+                            What were the intended outcomes of these programs?
+                          </li>
+                          <li>
+                            What approaches to stakeholder engagement did
+                            federal agencies use to inform program
+                            implementation?
+                          </li>
+                          <li>
+                            How, and to what extent, did available evidence
+                            inform program design?
+                          </li>
+                          <li>
+                            To what extent, and through what mechanisms, was an
+                            emphasis on improving equity integrated into ARP
+                            program implementation?
+                          </li>
+                          <li>
+                            What data collection protocols were established to
+                            support monitoring, performance measurement, and
+                            evaluation?
+                          </li>
+                          <li>
+                            To what extent are data available and of sufficient
+                            quality to assess the contribuRon of ARP investments
+                            and policy?
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>Environmental scan of 32 programs</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div>
+                        <p>
+                          RQ 2. Analyze the effectiveness of ARP program
+                          implementation, particularly with respect to advancing
+                          equity
+                        </p>
+                        <ul>
+                          <li>
+                            To what extent did ARP investments and policy
+                            interventions advance equitable outcomes for those
+                            they were designed to serve?
+                          </li>
+                          <li>
+                            What strategies contributed to the successes, and
+                            where are different strategies needed?
+                          </li>
+                          <li>
+                            Where multiple ARP programs aim to improve similar
+                            outcomes, especially among a shared population:
+                            <ul>
+                              <li>
+                                To what extent is there coordination across
+                                programs in their administration, customer
+                                experience strategies, or performance or outcome
+                                measurement practices?
+                              </li>
+                              <li>
+                                To what extent are there collective impacts that
+                                could be attributed to more than one program?
+                                What kinds of impacts, if any, are observed?
+                              </li>
+                              <li>
+                                What kinds of secondary effects are observed
+                                that may not be captured in targeted outcome
+                                measures?
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                    </td>
+                    <td>
+                      <div>
+                        Cross-cuang evaluaRons of programs with overlapping
+                        recipients, outcomes, and approaches Program-specific
+                        analyses of four programs
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <p class="page-update-date">Webpage updated on 08/21/2024</p>
+  </div>
+</div>
