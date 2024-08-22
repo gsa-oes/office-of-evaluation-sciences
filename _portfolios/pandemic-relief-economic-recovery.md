@@ -16,7 +16,7 @@ The COVID-19 pandemic caused both a public health and an economic crisis. The fe
 
 We’ve built a pandemic relief and economic recovery portfolio consisting of dozens of evaluations and resources to begin to answer this question. Our work encompasses many agency priorities, such as housing, mental health, economic security, small businesses, and community safety. The learnings from this portfolio can be used for policymaking and implementation to improve outcomes and program delivery during times of crisis and beyond. This page features links to results, briefs on key takeaways, and learnings on salient topics such as how to make it easier for people to learn about and apply for federal programs.
 
-## OES resources
+## Resources
 - <a href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf">Designing effective health communications (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf">Encouraging COVID-19 prevention behaviors (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
@@ -24,15 +24,10 @@ We’ve built a pandemic relief and economic recovery portfolio consisting of do
 - <a href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
 - <a href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/">What are the best ways to encourage COVID-19 vaccination? (Blog)</a>
 
-## External resources
-- <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf">Advancing Equity Through The American Rescue Plan</a>
-- <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2022/05/American-Rescue-Plan-Equity-Learning-Agenda.pdf">American Rescue Plan Equity Learning Agenda</a>
-- <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2024/07/OIRA-2024-Burden-Reduction-Report.pdf">Tackling the Time Tax: Making Important Government Benefits and Programs Easier to Access</a>
+## Interagency pandemic relief and recovery 
+We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. The microsite reports on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
 
-## The American Rescue Plan National Evaluation 
-We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. The ARP National Evaluation microsite reports on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
-
-<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-National-Evaluation.pdf" target="_blank">Learn more about the national evaluation (PDF)</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-National-Evaluation.pdf" target="_blank">Learn more (PDF)</a>
 
 ## Portfolio
 We’ve also partnered with federal agencies to conduct dozens of evaluations, some national and some site-specific, to better understand what worked to increase awareness of, access to, and allocation of CARES Act and ARP Act recovery programs. The results offer a wealth of insights, such as what worked to connect thousands more callers in mental health crises to counselors, how one state saved tens of thousands of dollars by shifting away from an ineffective outreach technique, and which program change made it easier, faster, and more likely for people facing housing instability to access rental assistance.
