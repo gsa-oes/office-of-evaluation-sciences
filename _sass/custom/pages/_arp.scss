@@ -167,6 +167,9 @@
     &:hover {
       transform: translateY(-3px);
     }
+    &:visited {
+      color: #19677f;
+    }
     cursor: pointer;
     font-size: 18px;
     line-height: 26px;

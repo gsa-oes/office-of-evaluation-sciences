@@ -93,7 +93,7 @@ permalink: /arp/programs/
       </h2>
       <div class="arp-grid-container">
         {% assign topics = site.arp | where_exp: "item", "item.permalink
-        contains 'programs/topics/'" %} {% for topic in topics %}
+        contains 'programs/topics'" %} {% for topic in topics %}
         <a class="grid-item" href="{{ topic.url }}"
           ><img
             src="{{ site.baseurl }}{{ topic.image_path }}"
