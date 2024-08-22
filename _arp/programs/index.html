@@ -94,16 +94,15 @@ permalink: /arp/programs/
         Learn about each of the programs that were examined by topic area:
       </h2>
       <div class="arp-grid-container">
-        <a class="grid-item"
+        {% assign topics = site.arp | where_exp: "item", "item.permalink
+        contains 'programs/topics/'" %} {% for topic in topics %}
+        <a class="grid-item" href="{{ topic.url }}"
           ><img
-            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-            alt="placeholder image"
+            src="{{ site.baseurl }}{{ topic.image_path }}"
+            alt="{{ topic.data.title }} image"
           />
           <div class="grid-item-texts">
-            <p class="grid-item-description-text">
-              Lowering barriers to work and providing security to working
-              families
-            </p>
+            <p class="grid-item-description-text">{{ topic.title }}</p>
             <p>
               <span class="grid-item-read-more">Read more</span>
               <span
@@ -114,82 +113,7 @@ permalink: /arp/programs/
             </p>
           </div>
         </a>
-        <a class="grid-item"
-          ><img
-            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-            alt="placeholder image"
-          />
-          <div class="grid-item-texts">
-            <p class="grid-item-description-text">
-              Ensuring an equitable recovery for all communities and small
-              businesses
-            </p>
-            <p>
-              <span class="grid-item-read-more">Read more</span>
-              <span
-                ><img
-                  src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                  alt="right arrow"
-              /></span>
-            </p>
-          </div>
-        </a>
-        <a class="grid-item"
-          ><img
-            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-            alt="placeholder image"
-          />
-          <div class="grid-item-texts">
-            <p class="grid-item-description-text">
-              Securing dignified housing and living conditions
-            </p>
-            <p>
-              <span class="grid-item-read-more">Read more</span>
-              <span
-                ><img
-                  src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                  alt="right arrow"
-              /></span>
-            </p>
-          </div>
-        </a>
-        <a class="grid-item"
-          ><img
-            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-            alt="placeholder image"
-          />
-          <div class="grid-item-texts">
-            <p class="grid-item-description-text">
-              Investing in equity and opportunity for our children and young
-              adults
-            </p>
-            <p>
-              <span class="grid-item-read-more">Read more</span>
-              <span
-                ><img
-                  src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                  alt="right arrow"
-              /></span>
-            </p>
-          </div>
-        </a>
-        <a class="grid-item"
-          ><img
-            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-            alt="placeholder image"
-          />
-          <div class="grid-item-texts">
-            <p class="grid-item-description-text">Closing health disparities</p>
-            <p>
-              <span class="grid-item-read-more">Read more</span>
-              <span
-                ><img
-                  src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                  alt="right arrow"
-              /></span>
-            </p>
-          </div>
-        </a>
+        {% endfor %}
       </div>
     </div>
   </div>

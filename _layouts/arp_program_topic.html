@@ -1,0 +1,43 @@
+---
+layout: arp_base
+---
+
+<div class="arp-page arp-program-topic">
+  <div class="grid-container">
+    <div class="intro-section">
+      <h1>{{page.title}}</h1>
+      <div style="display: flex; justify-content: space-between; gap: 30px">
+        <img
+          src="{{ site.baseurl }}{{ page.image_path }}"
+          style="height: 150px"
+        />
+        <div>{{content}}</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div style="margin: 50px 0 0 0">
+      <div class="program-topic-grid-container">
+        {% for program in page.programs %}
+        <a class="program-item" href="{{ program.link }}">
+          <img
+            src="{{ site.baseurl }}/assets/img/arp/{{ program.image_path }}"
+            alt="{{ program.title }} image"
+          />
+          <div class="program-text">
+            <h3>{{ program.title }}</h3>
+            <p>Link to Program Page</p>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <p class="page-update-date">
+      Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
+    </p>
+  </div>
+</div>

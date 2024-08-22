@@ -422,5 +422,42 @@
         }
       }
     }
+
+    &.arp-program-topic {
+      .program-topic-grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* Two columns */
+        gap: 40px; /* Space between items */
+        max-width: 1200px;
+        margin: 0 auto;
+
+        .program-item {
+          display: flex;
+          align-items: center;
+          text-decoration: none; /* Remove underline from links */
+          color: inherit; /* Inherit text color */
+        }
+
+        .program-item img {
+          width: 100px; /* Adjust the size of the circle */
+          height: 100px;
+          border-radius: 50%;
+          object-fit: cover;
+          margin-right: 20px;
+        }
+
+        .program-text h3 {
+          font-size: 20px;
+          line-height: 1.2;
+          color: #19677f;
+        }
+
+        .program-text p {
+          margin: 5px 0 0 0;
+          font-size: 14px;
+          color: #414042;
+        }
+      }
+    }
   }
 }
