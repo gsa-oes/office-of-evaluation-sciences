@@ -25,7 +25,7 @@ We’ve built a pandemic relief and economic recovery portfolio consisting of do
 - <a href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/">What are the best ways to encourage COVID-19 vaccination? (Blog)</a>
 
 ## Interagency pandemic relief and recovery: A look at American Rescue Plan implementation 
-We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. The microsite reports on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
+We’ve undertaken a body of work to provide an integrated account of ARP implementation, particularly with respect to ensuring access for all eligible people and addressing the needs of more vulnerable or historically underserved people. A forthcoming microsite will report on the implementation and evaluation of 32 select programs and will cover six new evaluations: three evaluations that are program-specific and three evaluations that explore how programs with shared goals or approaches were implemented to advance access to behavioral health services, housing stability, and support for families with children.
 
 <a class="usa-button" href="{{site.baseurl}}/assets/files/OES-ARP-National-Evaluation.pdf" target="_blank">Learn more (PDF)</a>
 
