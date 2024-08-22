@@ -17,6 +17,7 @@ The COVID-19 pandemic caused both a public health and an economic crisis. The fe
 We’ve built a pandemic relief and economic recovery portfolio consisting of dozens of evaluations and resources to begin to answer this question. Our work encompasses many agency priorities, such as housing, mental health, economic security, small businesses, and community safety. The learnings from this portfolio can be used for policymaking and implementation to improve outcomes and program delivery during times of crisis and beyond. This page features links to results, briefs on key takeaways, and learnings on salient topics such as how to make it easier for people to learn about and apply for federal programs.
 
 ## Resources
+The evidence briefs and additional resources below include insights related to pandemic relief and economic recovery from across our portfolios of work. 
 - <a href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf">Designing effective health communications (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf">Encouraging COVID-19 prevention behaviors (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons learned from the OES Portfolio on Equity and Small Business Recovery (PDF)</a>
