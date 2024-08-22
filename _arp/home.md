@@ -6,7 +6,7 @@ layout: arp_home
 <div class="reports-container">
 
     <div class="report-item">
-        <img src="{{ site.baseurl }}/assets/img/arp/arp-home-placeholder.png" alt="placeholder image">
+        <img src="{{ site.baseurl }}/assets/img/arp/placeholder.png" alt="placeholder image">
         <div class="report-content">
             <a href="#" class="report-title">Report name</a>
             <p>

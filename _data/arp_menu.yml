@@ -26,6 +26,10 @@ menu_items:
             url: "/arp/programs/economic-adjustment"
       - title: "Lowering barriers to work and providing security to working families"
         url: "#"
+      - title: "Closing health disparities"
+        url: "#"
+      - title: "Investing in equity and opportunity for our children and young adults"
+        url: "#"
   - title: "Our studies"
     url: "#"
     submenu:

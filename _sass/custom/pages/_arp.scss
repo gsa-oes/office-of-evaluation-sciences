@@ -140,6 +140,49 @@
     margin: 80px 0 30px 0;
   }
 
+  .arp-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    @media (max-width: 768px) {
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    @media (max-width: 480px) {
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+  }
+
+  .grid-item {
+    background-color: white;
+    text-align: left;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    &:hover {
+      transform: translateY(-3px);
+    }
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+
+    .grid-item-texts {
+      padding: 20px 30px 40px 30px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      .grid-item-description-text {
+        flex: 1;
+      }
+    }
+
+    .grid-item-read-more {
+      text-decoration: underline;
+    }
+  }
+
   .arp-home {
     .usa-hero {
       .arp-hero-callout {
@@ -234,51 +277,6 @@
       }
     }
 
-    .topic-areas {
-      .arp-grid-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 20px;
-        @media (max-width: 768px) {
-          grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        }
-        @media (max-width: 480px) {
-          grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-        }
-      }
-
-      .grid-item {
-        background-color: white;
-        text-align: left;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        transition: transform 0.2s;
-        &:hover {
-          transform: translateY(-3px);
-        }
-        cursor: pointer;
-        font-size: 18px;
-        line-height: 26px;
-        font-weight: bold;
-        text-decoration: none;
-        display: flex;
-        flex-direction: column;
-
-        .grid-item-texts {
-          padding: 20px 30px 40px 30px;
-          display: flex;
-          flex-direction: column;
-          flex: 1;
-          .grid-item-description-text {
-            flex: 1;
-          }
-        }
-
-        .grid-item-read-more {
-          text-decoration: underline;
-        }
-      }
-    }
-
     .recent-news {
       padding: 60px 0 150px 0;
 
@@ -342,7 +340,7 @@
     }
   }
 
-  .arp-about {
+  .arp-page {
     border-top: 1px solid #ccd8e2;
 
     p {
@@ -351,7 +349,7 @@
     .intro-section {
       h1 {
         font-weight: bold;
-        font-size: 40;
+        font-size: 40px;
         line-height: 48px;
         color: #19677f;
         border-bottom: 2px solid #f2c446;
@@ -410,6 +408,18 @@
       .accordion-content {
         background-color: #f7f9fa;
         padding: 10px 20px;
+      }
+    }
+
+    &.arp-programs {
+      .intro-section {
+        ul {
+          li {
+            font-size: 16px;
+            line-height: 26px;
+            color: #1b1b1b;
+          }
+        }
       }
     }
   }
