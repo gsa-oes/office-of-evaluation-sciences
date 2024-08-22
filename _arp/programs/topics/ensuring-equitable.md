@@ -4,18 +4,24 @@ permalink: /arp/programs/topics/ensuring-equitable
 title: Ensuring an equitable recovery for all communities and small businesses
 image_path: /assets/img/arp/placeholder.png
 programs:
-  - title: Placeholder Child Care Stabilization
+  - title: Child Care Stabilization
     image_path: placeholder.png
     link: /arp/programs/child-care-stabilization
-  - title: Placeholder Enhancements of the Child Tax Credit
+  - title: Enhancements of the Child Tax Credit
     image_path: placeholder.png
     link: /arp/programs/enhancements-of-the-child-tax-credit
-  - title: Placeholder COVID-19 Funeral Assistance
+  - title: COVID-19 Funeral Assistance
     image_path: placeholder.png
     link: /arp/programs/covid-19-funeral-assistance
-  - title: Placeholder Unemployment Insurance
+  - title: Unemployment Insurance
     image_path: placeholder.png
     link: /arp/programs/unemployment-insurance
+  - title: The Earned Income Tax Credit for Workers without Dependent Children
+    image_path: placeholder.png
+    link: /arp/programs/earned-income-tax-credit-workers-without-dependent-children
+  - title: Permanent Expansion of Tax Relief to Puerto Rico Families
+    image_path: placeholder.png
+    link: /arp/programs/permanent-expansion-of-tax-relief-to-puerto-rico-families
 ---
 
 Placeholder these programs provided families and individuals with support to get back on their

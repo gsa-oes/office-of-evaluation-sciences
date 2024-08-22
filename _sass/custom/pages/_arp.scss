@@ -53,8 +53,7 @@
         cursor: pointer;
         display: block;
         &.opened-menu-item {
-          background-color: #19677f;
-          color: white;
+          background-color: #d3eaf2;
         }
         .menu-item-label {
           display: flex;
@@ -98,26 +97,34 @@
       }
       .submenu {
         left: 0;
-        background-color: #19677f;
+        background-color: #d3eaf2;
         z-index: 1100;
         a {
-          color: white;
+          color: #414042;
+          &:visited {
+            color: #414042;
+          }
         }
       }
       .sub-submenu {
         left: 100%;
         top: 0;
         display: none;
-        background-color: #d3eaf2;
+        background-color: #f7f9fa;
         a {
+          font-size: 12px;
+          line-height: 18px;
           color: #19677f;
+          &:visited {
+            color: #19677f;
+          }
           text-decoration: underline;
         }
       }
 
       .submenu-item {
         &:hover > a {
-          background-color: #d3eaf2;
+          background-color: #f7f9fa;
           color: #171717;
         }
         &:hover > .sub-submenu {
@@ -420,42 +427,183 @@
             color: #1b1b1b;
           }
         }
+        .programs-intro {
+          display: flex;
+          gap: 20px;
+          @media (max-width: 600px) {
+            display: unset;
+          }
+          .side-box {
+            background-color: #edf8fc;
+            padding: 30px;
+            min-width: 220px;
+            @media (max-width: 600px) {
+              margin-top: 30px;
+            }
+          }
+        }
       }
     }
 
     &.arp-program-topic {
+      .topic-intro {
+        display: flex;
+        justify-content: space-between;
+        gap: 30px;
+        @media (max-width: 600px) {
+          display: unset;
+          .intro-text {
+            margin-top: 20px;
+          }
+          img {
+            margin: auto;
+            display: block;
+          }
+        }
+      }
+
       .program-topic-grid-container {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); /* Two columns */
-        gap: 40px; /* Space between items */
-        max-width: 1200px;
-        margin: 0 auto;
-
+        grid-template-columns: repeat(2, 1fr);
+        @media (max-width: 768px) {
+          grid-template-columns: 1fr;
+        }
+        gap: 40px;
         .program-item {
           display: flex;
           align-items: center;
-          text-decoration: none; /* Remove underline from links */
-          color: inherit; /* Inherit text color */
+          text-decoration: none;
+          img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 20px;
+          }
+          h3 {
+            font-size: 20px;
+            line-height: 1.2;
+            color: #19677f;
+          }
+          p {
+            margin: 5px 0 0 0;
+            font-size: 14px;
+            color: #414042;
+          }
         }
+      }
+    }
 
-        .program-item img {
-          width: 100px; /* Adjust the size of the circle */
-          height: 100px;
-          border-radius: 50%;
-          object-fit: cover;
-          margin-right: 20px;
-        }
-
-        .program-text h3 {
-          font-size: 20px;
-          line-height: 1.2;
+    &.arp-single-program {
+      .topic-area-label {
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 26px;
+        background-color: #f2c446;
+        display: inline-block;
+        padding: 2px 10px;
+        margin: 40px 0 0 0;
+      }
+      h2 {
+        margin: 50px 0 30px 0;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 26px;
+        color: #19677f;
+      }
+      .evaluation-container {
+        box-shadow: 0 4px 20px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -2px rgba(0, 0, 0, 0.1);
+        padding: 25px 30px;
+        margin: 0 0 30px 0;
+        h3 {
+          font-weight: bold;
+          font-size: 24px;
+          line-height: 26px;
           color: #19677f;
         }
-
-        .program-text p {
-          margin: 5px 0 0 0;
+        .evaluators {
           font-size: 14px;
+          line-height: 26px;
           color: #414042;
+        }
+        .evaluation-details {
+          font-size: 16px;
+          line-height: 26px;
+          color: #414042;
+        }
+        .evaluation-type-label {
+          font-weight: bold;
+          font-size: 14px;
+          line-height: 26px;
+          background-color: #f2c446;
+          display: inline-block;
+          padding: 2px 10px;
+          margin: 20px 0 0 0;
+        }
+      }
+
+      .documents-box {
+        display: flex;
+        @media (max-width: 780px) {
+          display: unset;
+        }
+        justify-content: space-between;
+        gap: 10px;
+        .document-cat-wrapper {
+          width: 100%;
+          max-width: 250px;
+          @media (max-width: 780px) {
+            max-width: unset;
+          }
+        }
+        .document-category {
+          text-align: center;
+          border-top: 2px solid #d8d8d8;
+          border-bottom: 2px solid #d8d8d8;
+          @media (max-width: 780px) {
+            border: none;
+          }
+          padding: 30px 0;
+          h3 {
+            font-weight: bold;
+            font-size: 21px;
+            line-height: 26px;
+            color: #19677f;
+          }
+          .document-icon {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+            object-fit: cover;
+          }
+          .accordion-toggle {
+            background-color: #f1c40f;
+            padding: 10px;
+            color: #333;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+          }
+          .document-list {
+            margin-top: 10px;
+            padding: 0 0 0 10px;
+            text-align: left;
+            .document-item {
+              margin: 5px 0;
+              a {
+                color: #19677f;
+                font-size: 16px;
+                line-height: 26px;
+              }
+              img {
+                margin-left: 5px;
+              }
+            }
+          }
         }
       }
     }

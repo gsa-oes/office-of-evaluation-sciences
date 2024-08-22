@@ -1,0 +1,148 @@
+---
+layout: arp_base
+---
+
+<div class="arp-page arp-single-program">
+  <div class="grid-container">
+    <div style="text-align: right">
+      <div class="topic-area-label">{{ page.topic_area }}</div>
+    </div>
+    <div class="intro-section">
+      <h1>{{ page.name }}</h1>
+      <div class="topic-intro">
+        <img
+          src="{{ site.baseurl }}{{ page.image_path }}"
+          style="width: 100%; max-height: 170px"
+          alt="{{ page.name }}"
+        />
+      </div>
+    </div>
+
+    <h2>Program Information</h2>
+    <p><strong>Agency:</strong> {{ page.program_info.agency }}</p>
+    <p>
+      <strong>Funding amount:</strong> {{ page.program_info.funding_amount }}
+    </p>
+    <p><strong>Program type:</strong> {{ page.program_info.program_type }}</p>
+    <p>
+      <strong>Funding recipients:</strong> {{
+      page.program_info.funding_recipient }}
+    </p>
+    <p>
+      <strong>Intended populations:</strong> {{
+      page.program_info.intended_population }}
+    </p>
+    <h2>Description</h2>
+    <p>{{ content }}</p>
+    <h2>Timing of Funds</h2>
+    <p>{{ page.timing_of_funds }}</p>
+    <h2>Flow of Funding</h2>
+    <p>{{ page.flow_of_funding }}</p>
+
+    <h2>Existing Evidence</h2>
+    {% for evidence in page.existing_evidence %}
+    <div class="evaluation-container">
+      <h3>{{ evidence.evaluation_name }}</h3>
+      <p class="evaluators">{{ evidence.evaluators }}</p>
+      <div class="evaluation-details">
+        <p><strong>Description:</strong> {{ evidence.description }}</p>
+        <p><strong>Research questions:</strong></p>
+        <ul>
+          {% for question in evidence.research_questions %}
+          <li>{{ question.question }}</li>
+          {% endfor %}
+        </ul>
+        <p><strong>Findings:</strong> {{ evidence.findings }}</p>
+      </div>
+      <div style="text-align: right">
+        <div class="evaluation-type-label">{{evidence.evaluation_type}}</div>
+      </div>
+    </div>
+    {% endfor %}
+
+    <h2>Documents</h2>
+    <div class="documents-box">
+      <div class="document-cat-wrapper">
+        <div class="document-category" x-data="{ open: false }">
+          <h3>Funding Announcements</h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
+            class="document-icon"
+          />
+          <div class="accordion-toggle" @click="open = !open">
+            <span>Announcements</span>
+            <span x-show="open">-</span>
+            <span x-show="!open">+</span>
+          </div>
+          <div class="document-list" x-show="open" x-transition>
+            {% for document in page.documents.funding_announcements %}
+            <div class="document-item">
+              <a href="{{ document.link }}"
+                >{{ document.name }}
+                <img src="{{ site.baseurl }}/assets/img/arp/link.svg"
+              /></a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      <div class="document-cat-wrapper">
+        <div class="document-category" x-data="{ open: false }">
+          <h3>Program Reports</h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
+            class="document-icon"
+          />
+          <div class="accordion-toggle" @click="open = !open">
+            <span>Reports</span>
+            <span x-show="open">-</span>
+            <span x-show="!open">+</span>
+          </div>
+          <div class="document-list" x-show="open" x-transition>
+            {% for document in page.documents.program_reports %}
+            <div class="document-item">
+              <a href="{{ document.link }}"
+                >{{ document.name }}
+                <img src="{{ site.baseurl }}/assets/img/arp/link.svg"
+              /></a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      <div class="document-cat-wrapper">
+        <div class="document-category" x-data="{ open: false }">
+          <h3>Expenditure Reports</h3>
+          <img
+            src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
+            class="document-icon"
+          />
+          <div class="accordion-toggle" @click="open = !open">
+            <span>Reports</span>
+            <span x-show="open">-</span>
+            <span x-show="!open">+</span>
+          </div>
+          <div class="document-list" x-show="open" x-transition>
+            {% for document in page.documents.expenditure_reports %}
+            <div class="document-item">
+              <a href="{{ document.link }}"
+                >{{ document.name }}
+                <img src="{{ site.baseurl }}/assets/img/arp/link.svg"
+              /></a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Page Update Date -->
+  <div class="grid-container">
+    <p class="page-update-date">
+      Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
+    </p>
+  </div>
+</div>

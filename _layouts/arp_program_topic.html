@@ -6,12 +6,12 @@ layout: arp_base
   <div class="grid-container">
     <div class="intro-section">
       <h1>{{page.title}}</h1>
-      <div style="display: flex; justify-content: space-between; gap: 30px">
+      <div class="topic-intro">
         <img
           src="{{ site.baseurl }}{{ page.image_path }}"
           style="height: 150px"
         />
-        <div>{{content}}</div>
+        <div class="intro-text">{{content}}</div>
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@ layout: arp_base
           />
           <div class="program-text">
             <h3>{{ program.title }}</h3>
-            <p>Link to Program Page</p>
+            <p>Go to program webpage</p>
           </div>
         </a>
         {% endfor %}
