@@ -12,7 +12,7 @@ type: Evaluation Design
 domain:
  - Economic Opportunity
 agency: Treasury
-summary: Working with the Department of the Treasury to design evaluations of a fiscal transfer program
+summary: Working with the U.S. Department of the Treasury to design evaluations of a fiscal transfer program
 ---
 ## What was the challenge? 
 The State and Local Fiscal Recovery Fund (SLFRF) is a program run by the U.S. Department of the Treasury (Treasury) for eligible state, local, territorial, and Tribal governments across the country to support their response to and recovery from the COVID-19 public health emergency. The American Rescue Plan (ARP) Act of 2021 provided $350 billion of funding to SLFRF to fight the pandemic and support families and businesses struggling with its public health and economic impacts; maintain vital public services, even amid declines in revenue resulting from the crisis; and build a strong, resilient, and equitable recovery by making investments that support long-term growth and opportunity. 
