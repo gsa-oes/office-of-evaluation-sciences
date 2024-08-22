@@ -2,32 +2,62 @@
   <div class="usa-nav-container">
     <div class="arp-header">
       <div>
-        <a href="{{ site.baseurl }}/arp/"
-          ><img
+        <a href="{{ site.baseurl }}/arp/">
+          <img
             src="{{ site.baseurl }}/assets/img/arp/arp-logo.png"
-            alt="logo of American Rescure Plan"
-        /></a>
+            alt="logo of American Rescue Plan"
+          />
+        </a>
       </div>
       <div class="arp-header-menu">
-        <a href="{{ site.baseurl }}/arp/about/">About</a>
-        <a
-          ><span class="menu-item-label">
-            Programs and evidence
-            <img
-              src="{{ site.baseurl }}/assets/img/arp/down-arrow.svg"
-              alt="down arrow"
-            /> </span
-        ></a>
-        <a
-          ><span class="menu-item-label">
-            Our studies
-            <img
-              src="{{ site.baseurl }}/assets/img/arp/down-arrow.svg"
-              alt="down arrow"
-            /> </span
-        ></a>
-        <a>Dashboard TBD title</a>
-        <a>Documents and data sources</a>
+        {% for item in site.data.arp_menu.menu_items %}
+        <div class="menu-item" x-data="{ open: false }">
+          {% if item.submenu %}
+          <a
+            @click.prevent="open = !open"
+            :class="open ? 'opened-menu-item' : ''"
+          >
+            <div>
+              <div class="menu-item-label">
+                {{ item.title }}
+                <img
+                  :src="open ? '{{ site.baseurl }}/assets/img/arp/down-arrow-white.svg' : '{{ site.baseurl }}/assets/img/arp/down-arrow.svg'"
+                  alt="down arrow"
+                />
+              </div>
+              <div class="bottom-border"></div>
+            </div>
+          </a>
+          {% else %}
+          <a href="{{ item.url }}">
+            <div class="menu-item-label">{{ item.title }}</div>
+            <div class="bottom-border"></div>
+          </a>
+          {% endif %} {% if item.submenu %}
+          <ul
+            class="submenu"
+            x-show="open"
+            @click.away="open = false"
+            x-transition
+          >
+            {% for subitem in item.submenu %}
+            <li class="submenu-item">
+              <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+              {% if subitem.submenu %}
+              <ul class="sub-submenu">
+                {% for subsubitem in subitem.submenu %}
+                <li>
+                  <a href="{{ subsubitem.url }}">{{ subsubitem.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
