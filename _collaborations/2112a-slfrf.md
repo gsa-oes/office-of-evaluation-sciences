@@ -11,7 +11,6 @@ year: 2021
 type: Evaluation Design
 domain:
  - Economic Opportunity
- - Pandemic Relief and Recovery
 agency: Treasury
 summary: Working with the Department of the Treasury to design evaluations of a fiscal transfer program
 ---
