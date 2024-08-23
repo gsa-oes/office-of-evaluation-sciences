@@ -3,7 +3,7 @@ layout: arp_base
 permalink: /arp/programs/
 ---
 
-<div class="arp-page arp-programs">
+<div class="arp-page arp-programs programs-and-studies">
   <div class="grid-container">
     <div class="intro-section">
       <h1>Overview of programs and evidence</h1>
@@ -75,48 +75,36 @@ permalink: /arp/programs/
           </div>
         </div>
       </div>
-    </div>
-  </div>
 
-  <div class="grid-container">
-    <div>
-      <h2
-        style="
-          font-size: 24px;
-          line-height: 28px;
-          color: #19677f;
-          padding: 0 0 0 10px;
-          margin: 50px 0 40px 0;
-        "
-      >
-        Learn about each of the programs that were examined by topic area:
-      </h2>
-      <div class="arp-grid-container">
-        {% assign topics = site.arp | where_exp: "item", "item.permalink
-        contains 'programs/topics'" %} {% for topic in topics %}
-        <a class="grid-item" href="{{ topic.url }}"
-          ><img
-            src="{{ site.baseurl }}{{ topic.image_path }}"
-            alt="{{ topic.data.title }} image"
-          />
-          <div class="grid-item-texts">
-            <p class="grid-item-description-text">{{ topic.title }}</p>
-            <p>
-              <span class="grid-item-read-more">Read more</span>
-              <span
-                ><img
-                  src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                  alt="right arrow"
-              /></span>
-            </p>
-          </div>
-        </a>
-        {% endfor %}
+      <div>
+        <h2 class="grid-heading">
+          Learn about each of the programs that were examined by topic area:
+        </h2>
+        <div class="arp-grid-container">
+          {% assign topics = site.arp | where_exp: "item", "item.permalink
+          contains 'programs/topics'" %} {% for topic in topics %}
+          <a class="grid-item" href="{{ topic.url }}"
+            ><img
+              src="{{ site.baseurl }}{{ topic.image_path }}"
+              alt="{{ topic.data.title }} image"
+            />
+            <div class="grid-item-texts">
+              <p class="grid-item-description-text">{{ topic.title }}</p>
+              <p>
+                <span class="grid-item-read-more">Read more</span>
+                <span
+                  ><img
+                    src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
+                    alt="right arrow"
+                /></span>
+              </p>
+            </div>
+          </a>
+          {% endfor %}
+        </div>
       </div>
-    </div>
-  </div>
 
-  <div class="grid-container">
-    <p class="page-update-date">Webpage updated on 08/22/2024</p>
+      <p class="page-update-date">Webpage updated on 08/22/2024</p>
+    </div>
   </div>
 </div>

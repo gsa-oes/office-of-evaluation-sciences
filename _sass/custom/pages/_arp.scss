@@ -424,7 +424,7 @@
       }
     }
 
-    &.arp-programs {
+    &.programs-and-studies {
       .intro-section {
         ul {
           li {
@@ -448,6 +448,13 @@
             }
           }
         }
+      }
+      .grid-heading {
+        font-size: 24px;
+        line-height: 28px;
+        color: #19677f;
+        padding: 0 0 0 10px;
+        margin: 50px 0 40px 0;
       }
     }
 
@@ -609,6 +616,54 @@
                 margin-left: 5px;
               }
             }
+          }
+        }
+      }
+    }
+
+    &.arp-single-study {
+      .study-info-box {
+        background-color: #edf8fc;
+        min-width: 300px;
+        padding: 1px 30px 40px 30px;
+        h4 {
+          font-weight: bold;
+          font-size: 16px;
+          line-height: 16px;
+          color: #19677f;
+          margin: 30px 0 5px 0;
+        }
+        p {
+          margin: 0;
+        }
+        a {
+          display: inline-block;
+          border-radius: 5px;
+          background-color: #19677f;
+          color: white;
+          text-decoration: none;
+          padding: 10px;
+          margin: 5px 0;
+        }
+      }
+      .study-details {
+        h2 {
+          font-weight: bold;
+          font-size: 24px;
+          line-height: 26px;
+          color: #19677f;
+        }
+        table {
+          * {
+            font-size: 16px;
+            line-height: 26px;
+            border: none;
+          }
+          tr {
+            border-bottom: 2px solid black;
+          }
+          th {
+            background-color: transparent;
           }
         }
       }

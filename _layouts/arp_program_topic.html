@@ -14,9 +14,7 @@ layout: arp_base
         <div class="intro-text">{{content}}</div>
       </div>
     </div>
-  </div>
 
-  <div class="grid-container">
     <div style="margin: 50px 0 0 0">
       <div class="program-topic-grid-container">
         {% for program in page.programs %}
@@ -32,12 +30,10 @@ layout: arp_base
         </a>
         {% endfor %}
       </div>
-    </div>
-  </div>
 
-  <div class="grid-container">
-    <p class="page-update-date">
-      Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
-    </p>
+      <p class="page-update-date">
+        Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
+      </p>
+    </div>
   </div>
 </div>
