@@ -9,50 +9,67 @@
           />
         </a>
       </div>
-      <div class="arp-header-menu">
-        {% for item in site.data.arp_menu.menu_items %}
-        <div class="menu-item" x-data="{ open: false }">
-          {% if item.submenu %}
-          <a
-            @click.prevent="open = !open"
-            :class="open ? 'opened-menu-item' : ''"
-          >
-            <div>
-              <div class="menu-item-label">
-                {{ item.title }}
-                <img
-                  src="{{ site.baseurl }}/assets/img/arp/down-arrow.svg"
-                  alt="down arrow"
-                />
+      <div
+        class="arp-header-menu-container"
+        x-data="{ mobile_open: false, isSmallScreen: window.matchMedia('(max-width: 768px)').matches }"
+        x-init="
+         window.addEventListener('resize', () => {
+             isSmallScreen = window.matchMedia('(max-width: 768px)').matches;
+         });
+        "
+      >
+        <button class="mobile-menu-button" @click="mobile_open = !mobile_open">
+          <span x-show="!mobile_open">☰</span>
+          <span x-show="mobile_open">x</span>
+        </button>
+        <div
+          class="arp-header-menu"
+          :style="{ display: isSmallScreen && mobile_open ? 'block' : (isSmallScreen ? 'none' : '') }"
+        >
+          {% for item in site.data.arp_menu.menu_items %}
+          <div class="menu-item" x-data="{ open: false }">
+            {% if item.submenu %}
+            <a
+              @click.prevent="open = !open"
+              :class="open ? 'opened-menu-item' : ''"
+            >
+              <div>
+                <div class="menu-item-label">
+                  {{ item.title }}
+                  <img
+                    src="{{ site.baseurl }}/assets/img/arp/down-arrow.svg"
+                    alt="down arrow"
+                  />
+                </div>
+                <div class="bottom-border"></div>
               </div>
+            </a>
+            {% else %}
+            <a href="{{ item.url }}">
+              <div class="menu-item-label">{{ item.title }}</div>
               <div class="bottom-border"></div>
-            </div>
-          </a>
-          {% else %}
-          <a href="{{ item.url }}">
-            <div class="menu-item-label">{{ item.title }}</div>
-            <div class="bottom-border"></div>
-          </a>
-          {% endif %} {% if item.submenu %}
-          <ul class="submenu" x-show="open" @click.away="open = false">
-            {% for subitem in item.submenu %}
-            <li class="submenu-item">
-              <a href="{{ subitem.url }}">{{ subitem.title }}</a>
-              {% if subitem.submenu %}
-              <ul class="sub-submenu">
-                {% for subsubitem in subitem.submenu %}
-                <li>
-                  <a href="{{ subsubitem.url }}">{{ subsubitem.title }}</a>
-                </li>
-                {% endfor %}
-              </ul>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
+            </a>
+            {% endif %} {% if item.submenu %}
+            <ul class="submenu" x-show="open" @click.away="open = false">
+              {% for subitem in item.submenu %}
+              <li class="submenu-item">
+                <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+                {% if subitem.submenu %}
+                <ul class="sub-submenu">
+                  {% for subsubitem in subitem.submenu %}
+                  <li>
+                    <a href="{{ subsubitem.url }}">{{ subsubitem.title }}</a>
+                  </li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
       </div>
     </div>
   </div>
