@@ -43,6 +43,13 @@
       @media (max-width: 768px) {
         display: block;
       }
+      .svg-span-container {
+        display: flex;
+        align-items: center;
+        img {
+          width: 20px;
+        }
+      }
     }
     .arp-header-menu {
       display: flex;
@@ -631,6 +638,13 @@
             justify-content: space-between;
             align-items: center;
             cursor: pointer;
+            .svg-span-container {
+              display: flex;
+              align-items: center;
+              img {
+                width: 10px;
+              }
+            }
           }
           .document-list {
             margin-top: 10px;

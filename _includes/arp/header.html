@@ -19,8 +19,12 @@
         "
       >
         <button class="mobile-menu-button" @click="mobile_open = !mobile_open">
-          <span x-show="!mobile_open">☰</span>
-          <span x-show="mobile_open">x</span>
+          <span x-show="!mobile_open" class="svg-span-container"
+            ><img src="{{ site.baseurl }}/assets/img/arp/hamburger-bars.svg"
+          /></span>
+          <span x-show="mobile_open" class="svg-span-container"
+            ><img src="{{ site.baseurl }}/assets/img/arp/x-mark.svg"
+          /></span>
         </button>
         <div
           class="arp-header-menu"

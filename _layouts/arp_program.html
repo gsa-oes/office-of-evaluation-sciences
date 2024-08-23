@@ -71,15 +71,19 @@ layout: arp_base
           />
           <div class="accordion-toggle" @click="open = !open">
             <span>Announcements</span>
-            <span x-show="open">-</span>
-            <span x-show="!open">+</span>
+            <span x-show="open" class="svg-span-container"
+              ><img src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+            /></span>
+            <span x-show="!open" class="svg-span-container"
+              ><img src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+            /></span>
           </div>
           <div class="document-list" x-show="open" x-transition>
             {% for document in page.documents.funding_announcements %}
             <div class="document-item">
               <a href="{{ document.link }}"
-                >{{ document.name }}
-                <img src="{{ site.baseurl }}/assets/img/arp/link.svg"
+                >{{ document.name }}<img
+                  src="{{ site.baseurl }}/assets/img/arp/link.svg"
               /></a>
             </div>
             {% endfor %}
@@ -96,15 +100,19 @@ layout: arp_base
           />
           <div class="accordion-toggle" @click="open = !open">
             <span>Reports</span>
-            <span x-show="open">-</span>
-            <span x-show="!open">+</span>
+            <span x-show="open" class="svg-span-container"
+              ><img src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+            /></span>
+            <span x-show="!open" class="svg-span-container"
+              ><img src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+            /></span>
           </div>
           <div class="document-list" x-show="open" x-transition>
             {% for document in page.documents.program_reports %}
             <div class="document-item">
               <a href="{{ document.link }}"
-                >{{ document.name }}
-                <img src="{{ site.baseurl }}/assets/img/arp/link.svg"
+                >{{ document.name }}<img
+                  src="{{ site.baseurl }}/assets/img/arp/link.svg"
               /></a>
             </div>
             {% endfor %}
@@ -121,25 +129,29 @@ layout: arp_base
           />
           <div class="accordion-toggle" @click="open = !open">
             <span>Reports</span>
-            <span x-show="open">-</span>
-            <span x-show="!open">+</span>
+            <span x-show="open" class="svg-span-container"
+              ><img src="{{ site.baseurl }}/assets/img/arp/minus.svg"
+            /></span>
+            <span x-show="!open" class="svg-span-container"
+              ><img src="{{ site.baseurl }}/assets/img/arp/plus.svg"
+            /></span>
           </div>
           <div class="document-list" x-show="open" x-transition>
             {% for document in page.documents.expenditure_reports %}
             <div class="document-item">
               <a href="{{ document.link }}"
-                >{{ document.name }}
-                <img src="{{ site.baseurl }}/assets/img/arp/link.svg"
+                >{{ document.name }}<img
+                  src="{{ site.baseurl }}/assets/img/arp/link.svg"
               /></a>
             </div>
             {% endfor %}
           </div>
         </div>
       </div>
-
-      <p class="page-update-date">
-        Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
-      </p>
     </div>
+
+    <p class="page-update-date">
+      Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
+    </p>
   </div>
 </div>
