@@ -34,12 +34,7 @@
             <div class="bottom-border"></div>
           </a>
           {% endif %} {% if item.submenu %}
-          <ul
-            class="submenu"
-            x-show="open"
-            @click.away="open = false"
-            x-transition
-          >
+          <ul class="submenu" x-show="open" @click.away="open = false">
             {% for subitem in item.submenu %}
             <li class="submenu-item">
               <a href="{{ subitem.url }}">{{ subitem.title }}</a>

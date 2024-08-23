@@ -54,6 +54,9 @@
         display: block;
         &.opened-menu-item {
           background-color: #d3eaf2;
+          .bottom-border {
+            visibility: hidden !important;
+          }
         }
         .menu-item-label {
           display: flex;
