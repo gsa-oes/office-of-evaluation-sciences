@@ -49,7 +49,7 @@
               </div>
             </a>
             {% else %}
-            <a href="{{ item.url }}">
+            <a href="{{ site.baseurl }}{{ item.url }}">
               <div class="menu-item-label">{{ item.title }}</div>
               <div class="bottom-border"></div>
             </a>
@@ -57,12 +57,16 @@
             <ul class="submenu" x-show="open" @click.away="open = false">
               {% for subitem in item.submenu %}
               <li class="submenu-item">
-                <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+                <a href="{{ site.baseurl }}{{ subitem.url }}"
+                  >{{ subitem.title }}</a
+                >
                 {% if subitem.submenu %}
                 <ul class="sub-submenu">
                   {% for subsubitem in subitem.submenu %}
                   <li>
-                    <a href="{{ subsubitem.url }}">{{ subsubitem.title }}</a>
+                    <a href="{{ site.baseurl }}{{ subsubitem.url }}"
+                      >{{ subsubitem.title }}</a
+                    >
                   </li>
                   {% endfor %}
                 </ul>

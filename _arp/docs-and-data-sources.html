@@ -1,0 +1,244 @@
+---
+layout: arp_base
+permalink: /arp/docs-and-data-sources/
+---
+
+<div class="arp-page arp-docs-and-data-sources" x-data="docData()">
+  <div class="grid-container">
+    <div class="intro-section">
+      <h1>Documents and data sources</h1>
+    </div>
+
+    <div class="filter-and-results">
+      <div class="doc-data-filters">
+        <div class="filter-reset-row">
+          <h2>Filters</h2>
+          <button @click="resetFilters()">Reset</button>
+        </div>
+
+        <!-- Filters -->
+        <div class="accordion">
+          <!-- Program Name Filter -->
+          <div class="accordion-item" x-data="{ isOpen: false }">
+            <h3 @click="isOpen = !isOpen" style="cursor: pointer">
+              <span class="filter-with-tooltip"
+                ><span>Program name</span>
+                <span
+                  x-data="{show: false}"
+                  class="tooltip-container"
+                  @mouseover="show = true"
+                  @mouseleave="show = false"
+                >
+                  <img src="{{ site.baseurl }}/assets/img/arp/info.svg" />
+                  <div x-show="show" x-transition class="tooltip-box">
+                    Program name is porem ipsum dolor sit amet, consectetur
+                    adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+                    adipiscing elit.
+                  </div>
+                </span></span
+              >
+              <img
+                x-show="!isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
+              />
+              <img
+                x-show="isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/up-arrow-blue.svg"
+              />
+            </h3>
+            <div x-show="isOpen" class="filter-groups">
+              <template x-for="(program,index) in programs" :key="index">
+                <div>
+                  <label>
+                    <input
+                      type="checkbox"
+                      :value="program"
+                      x-model="filters.programs"
+                    />
+                    <span x-text="program"></span>
+                  </label>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <!-- Topic Area Filter -->
+          <div class="accordion-item" x-data="{ isOpen: false }">
+            <h3 @click="isOpen = !isOpen" style="cursor: pointer">
+              <span class="filter-with-tooltip"
+                ><span>Topic area</span>
+                <span
+                  x-data="{show: false}"
+                  class="tooltip-container"
+                  @mouseover="show = true"
+                  @mouseleave="show = false"
+                >
+                  <img src="{{ site.baseurl }}/assets/img/arp/info.svg" />
+                  <div x-show="show" x-transition class="tooltip-box">
+                    Topic area is porem ipsum dolor sit amet, consectetur
+                    adipiscing elit. Lorem ipsum dolor sit amet, consectetur
+                    adipiscing elit.
+                  </div>
+                </span></span
+              >
+              <img
+                x-show="!isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
+              />
+              <img
+                x-show="isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/up-arrow-blue.svg"
+              />
+            </h3>
+            <div x-show="isOpen" class="filter-groups">
+              <template x-for="(topic,index) in topics" :key="topic+index">
+                <div>
+                  <label>
+                    <input
+                      type="checkbox"
+                      :value="topic"
+                      x-model="filters.topics"
+                    />
+                    <span x-text="topic"></span>
+                  </label>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <!-- Document Type Filter -->
+          <div class="accordion-item" x-data="{ isOpen: false }">
+            <h3 @click="isOpen = !isOpen" style="cursor: pointer">
+              <span>Document type</span>
+              <img
+                x-show="!isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
+              />
+              <img
+                x-show="isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/up-arrow-blue.svg"
+              />
+            </h3>
+            <div x-show="isOpen" class="filter-groups">
+              <template x-for="(type,index) in documentTypes" :key="type+index">
+                <div>
+                  <label>
+                    <input
+                      type="checkbox"
+                      :value="type"
+                      x-model="filters.documentTypes"
+                    />
+                    <span x-text="type"></span>
+                  </label>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <!-- Information Type Filter -->
+          <div class="accordion-item" x-data="{ isOpen: false }">
+            <h3 @click="isOpen = !isOpen" style="cursor: pointer">
+              <span>Information type</span>
+              <img
+                x-show="!isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
+              />
+              <img
+                x-show="isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/up-arrow-blue.svg"
+              />
+            </h3>
+            <div x-show="isOpen" class="filter-groups">
+              <template
+                x-for="(infoType,index) in informationTypes"
+                :key="infoType+index"
+              >
+                <div>
+                  <label>
+                    <input
+                      type="checkbox"
+                      :value="infoType"
+                      x-model="filters.informationTypes"
+                    />
+                    <span x-text="infoType"></span>
+                  </label>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <!-- Publication Date Filter -->
+          <div class="accordion-item" x-data="{ isOpen: false }">
+            <h3 @click="isOpen = !isOpen" style="cursor: pointer">
+              <span>Publication date</span>
+              <img
+                x-show="!isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
+              />
+              <img
+                x-show="isOpen"
+                src="{{ site.baseurl }}/assets/img/arp/up-arrow-blue.svg"
+              />
+            </h3>
+            <div x-show="isOpen" class="filter-groups">
+              <div class="date-picker-group">
+                <input type="date" x-model="filters.startDate" />
+                <span>to</span>
+                <input type="date" x-model="filters.endDate" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="doc-data-results">
+        <!-- Results -->
+        <template x-for="(doc, index) in filteredDocs" :key="index">
+          <div class="doc-item">
+            <h2 x-text="doc.program_name"></h2>
+            <p class="program-name">Program Name</p>
+            <p class="author-name">
+              <span x-text="doc.author_name"></span>
+            </p>
+            <p class="description" x-text="doc.description"></p>
+            <div class="date-and-type">
+              <span class="publish-date">
+                Published on: <span x-text="doc.publish_date"></span>
+              </span>
+              <span class="file-type" x-text="doc.file_type"></span>
+            </div>
+          </div>
+        </template>
+
+        <!-- Pagination Controls -->
+        <div class="pagination">
+          <button
+            x-show="currentPage !== 1"
+            @click="goToPage(currentPage - 1)"
+            class="prev-page"
+          >
+            <span class="arrow">&lt;</span>
+            <span class="btn-label">Previous</span>
+          </button>
+
+          <template x-for="(page,index) in pagesToShow()" :key="page+index">
+            <button
+              :class="{ 'active': currentPage === page }"
+              class="page-buttons"
+              @click="goToPage(page)"
+              x-text="page"
+            ></button>
+          </template>
+
+          <button
+            x-show="currentPage !== totalPages"
+            @click="goToPage(currentPage + 1)"
+            class="next-page"
+          >
+            <span class="btn-label">Next</span> <span class="arrow">&gt;</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
