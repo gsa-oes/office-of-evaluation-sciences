@@ -729,10 +729,16 @@
       margin: 0 0 100px 0;
       .filter-and-results {
         display: flex;
+        @media (max-width: 600px) {
+          display: block;
+        }
         gap: 40px;
 
         .doc-data-filters {
           width: 280px;
+          @media (max-width: 600px) {
+            width: 100%;
+          }
           .filter-reset-row {
             display: flex;
             justify-content: space-between;
