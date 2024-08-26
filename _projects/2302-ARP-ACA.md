@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
 abstract-web: /results/aca-systematic-review-meta-analysis/
 year: 2023
 type: Descriptive study
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 agency: Health and Human Services
 status: Complete
 summary: Support-based interventions increase health insurance enrollment

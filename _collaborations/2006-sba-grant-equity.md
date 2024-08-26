@@ -4,12 +4,12 @@ permalink: /collaborations/sba-grant-equity/
 tags:
   - collaborations
   - business
-  - covid
+  - arp
 project_tags:
-  - covid
+  - arp
   - business
 collaborations_tags: 
-  - covid
+  - arp
   - business
 image: /assets/img/project-images/othercollabs/sba-loan-image.webp
 academic-pub: /assets/abstracts/2006-smallbusinessaccessreport-nov2020.pdf

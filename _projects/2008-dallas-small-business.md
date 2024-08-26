@@ -4,7 +4,7 @@ permalink: /projects/dallas-small-business/
 tags: 
   - project  
   - business
-  - covid
+  - arp
 image: /assets/img/project-images/2008-dallas.jpeg
 image_alt_text: City of Dallas
 image-credit: https://www.flickr.com/photos/texaseagle/3782314675

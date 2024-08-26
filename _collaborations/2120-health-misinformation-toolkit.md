@@ -3,7 +3,7 @@ title:  Community Toolkit for Addressing Health Misinformation
 permalink: /collaborations/misinformation-toolkit/
 tags:
   - collaborations
-  - covid
+  - arp
 image: /assets/img/project-images/othercollabs/osg-toolkit.webp
 image_full: true
 image-credit: https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit

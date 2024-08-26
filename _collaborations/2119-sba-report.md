@@ -4,12 +4,12 @@ permalink: /collaborations/sba-equity-report/
 tags:
   - project
   - business
-  - covid
+  - arp
 project_tags:
-  - covid
+  - arp
   - business
 collaborations_tags: 
-  - covid
+  - arp
   - business
 image: /assets/img/project-images/othercollabs/2119.jpeg
 academic-pub: /assets/publications/OES-SBA Descriptive Equity Report.pdf
