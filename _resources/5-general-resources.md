@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Resources
+title: General resources
 permalink: /general-resources/
 hide_image: true
 class: color yellow
