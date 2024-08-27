@@ -36,6 +36,6 @@ In early 2021, OES developed lessons learned from the OES portfolio to inform th
 
 <a class="usa-button" href="{{site.baseurl}}/assets/files/OES-Vaccination-Portfolio-Intervention-Packs.pdf" target="_blank">View Vaccination Portfolio Intervention Packs (PDF)</a><br>
 
-### Relevant OES resources
+### Relevant resources
 <a class="usa-button" href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">Blog: What are the best ways to encourage COVID-19 vaccination?</a>
 <br><br>
