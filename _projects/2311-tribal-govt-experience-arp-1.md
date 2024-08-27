@@ -26,7 +26,7 @@ By highlighting Native nations’ experiences of accessing and implementing a se
 ## What do we expect to learn?
 We expect to produce 1-3 descriptive reports that share learnings about Tribal governments’ experiences with specific programs. In addition, we plan to produce a report that will synthesize these findings. It will include the broader insights and shared learnings across these studies, as well as those from on a <a href="https://oes.gsa.gov/projects/slfrf-tribal-govs-neus/">fourth study</a> about the Coronavirus State Fiscal Recovery Funds (SLFRF) program, which has already been completed. 
 
-This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">Pandemic Relief and Recovery portfolio</a>. 
+This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
 Results forthcoming (2025).
 
 Notes:
