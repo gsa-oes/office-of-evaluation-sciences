@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Publications
+title: Academic publications
 permalink: /publications/
 hide_image: true
 class: color orange
