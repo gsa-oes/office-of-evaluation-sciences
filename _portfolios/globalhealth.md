@@ -1,9 +1,9 @@
 ---
 layout: portfolio
-title: Global Health
+title: Global health
 permalink: /usaid/
 image: /assets/img/project-images/1722.webp
-image_alt_text: Nurse applying vaccine
+image_alt_text: Nurse administering vaccine
 hide_image: true
 summary: Evidenced-based insights from behavioral science applied to critical development challenges in Global Health
 year: 2019
@@ -20,8 +20,4 @@ Millions of lives could be saved globally through <a href="https://www.usaid.gov
 </div>
 
 ## Portfolio
-OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidence-based insights from behavioral science to critical development challenges in Global Health.
-
-
-
-
+OES and the United States Agency for International Development (USAID) have partnered to apply and evaluate evidence-based insights from behavioral science to critical development challenges in global health.
