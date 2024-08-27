@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-anal
 abstract-web: /results/decreasing-abandonment-of-calls-to-988/
 intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2024 
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Health and Human Services
 status: Complete

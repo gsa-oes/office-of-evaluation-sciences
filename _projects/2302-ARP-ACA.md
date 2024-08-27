@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
 abstract-web: /results/aca-systematic-review-meta-analysis/
 year: 2023
 type: Descriptive study
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 agency: Health and Human Services
 status: Complete
 summary: Support-based interventions increase health insurance enrollment
@@ -42,4 +42,4 @@ Notes:
 3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/404a7572048090ec1259d216f3fd617e/aspe-end-mcaid-continuous-coverage_IB.pdf.
 ">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20) </a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.  
 
-Verify the upload date of our analysis plan on <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2302-ARP-ACA-analysis.pdf">GitHub</a>. 
+Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2302-ARP-ACA-analysis.pdf">on GitHub</a>. 

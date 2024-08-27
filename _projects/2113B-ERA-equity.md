@@ -14,8 +14,8 @@ technical-appendix: /assets/abstracts/2113B-technical-appendix.pdf
 year: 2022 
 type: Descriptive study
 domain: 
-- American Rescue Plan
 - Economic Opportunity
+- Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 summary: A descriptive study of equity in the first-ever nationwide eviction prevention program

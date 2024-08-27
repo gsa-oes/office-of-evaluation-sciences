@@ -11,7 +11,6 @@ analysis-plan: /assets/analysis/2307A-eval-form-mods-analysis-plan.pdf
 abstract-web: /results/income-reporting-mods-single-income/
 year: 2024  
 domain:
- - American Rescue Plan
  - Government Operations
 type: Impact evaluation of program change
 agency: Agriculture

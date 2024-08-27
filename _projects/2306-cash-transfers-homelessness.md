@@ -11,7 +11,7 @@ image-credit: https://dailymontanan.com/2022/11/16/revive-the-child-tax-credit-o
 analysis-plan:
 abstract: 
 year: 2024  
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Treasury
 status: Ongoing
@@ -28,7 +28,7 @@ The county program used a lottery to allocate a one-time unconditional payment o
 Analysis plan forthcoming.
 
 ## What did we learn?
-This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">American Rescue Plan portfolio</a>. 
+This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
 Results forthcoming (2025).
 
 Notes:
@@ -38,4 +38,3 @@ Notes:
 4. Kline, Sean. 2022. <a class="usa-link usa-link--external" href="https://basicincome.stanford.edu/uploads/basic-income-and-cities-toolkit_digital.pdf">“Basic Income and Local Government: A Guide to Municipal Pilots.”</a> <i>Stanford Basic Income Lab</i>.
 5. Pilkauskas, Natasha V., et al. "The COVID Cash Transfer Study: The impacts of a one‐time unconditional cash transfer on the well‐being of families receiving SNAP in twelve states." <i>Journal of Policy Analysis and Management</i> 42.3 (2023): 771-795.
 6. Dwyer, Ryan, et al. "Unconditional cash transfers reduce homelessness." <i>Proceedings of the National Academy of Sciences</i> 120.36 (2023): e2222103120.
-

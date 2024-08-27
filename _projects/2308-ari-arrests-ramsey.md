@@ -10,7 +10,7 @@ image-credit: https://commons.wikimedia.org/wiki/File:Day_124_-_West_Midlands_Po
 analysis-plan: /assets/analysis/2308-measuring-impact-of-ARI-in-MN-analysis-plan.pdf
 abstract: 
 year: 2024  
-domain: American Rescue Plan
+domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Treasury
 status: Ongoing
@@ -29,7 +29,7 @@ Ramsey County’s Appropriate Responses Initiative expands the range of options 
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/blob/master/assets/analysis/2308-measuring-impact-of-ARI-in-MN-analysis-plan.pdf">on GitHub</a>.
 
 ## What did we learn?
-This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/american-rescue-plan/">American Rescue Plan portfolio</a>. 
+This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
 Results forthcoming (2024).
 
 Notes:

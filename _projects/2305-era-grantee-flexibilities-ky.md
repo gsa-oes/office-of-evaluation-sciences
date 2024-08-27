@@ -12,7 +12,6 @@ abstract-web: /results/streamlining-income-verification-to-broaden-access-to-ren
 year: 2024
 type: Impact evaluation of program change
 domain:
- - American Rescue Plan
  - Housing
 agency: Treasury
 status: Complete
