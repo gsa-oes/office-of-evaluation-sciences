@@ -17,7 +17,7 @@ Vaccines are one of the most important public health interventions, responsible 
 
 In partnership with the Office of Infectious Disease and HIV/AIDS Policy, OIDP (formerly the <a href="https://www.hhs.gov/nvpo/featured-priorities/index.html" target="_blank">National Vaccine Program Office</a> (NVPO)), which identified low rates of adult vaccination as a national priority, OES engaged several federal agencies to build <a href="https://www.gsa.gov/blog/2018/11/01/gsas-office-of-evaluation-sciences-partners-with-agency-partners-to-increase-vaccination-uptake" target="_blank">a portfolio of evidence to examine how low-cost program changes can improve vaccination rates</a>. OES works directly with implementation entities (such as state Departments of Health and Veterans Affairs health facilities) to identify existing programs where evidence-based changes can be implemented and tested in rapid-cycle evaluations (embedded into existing operations) using random assignment.
 
-## Portfolio description
+## Portfolio
 Working with agency collaborators and delivery partners, OES has completed several randomized evaluations to evaluate the impact of low-cost evidence-based program changes in improving vaccination uptake.
 
 OES evaluations in this domain have evaluated low-cost and behaviorally-informed interventions across a broad range of populations, including veterans, elderly adults, pregnant women, and schoolchildren. These evaluations included large sample sizes, in many cases over 55,000 recipients, and used administrative data to measure vaccination uptake. 
