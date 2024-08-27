@@ -215,10 +215,11 @@ permalink: /arp/docs-and-data-sources/
           <button
             x-show="currentPage !== 1"
             @click="goToPage(currentPage - 1)"
-            class="prev-page"
+            class="page-turner"
           >
-            <span class="arrow">&lt;</span>
-            <span class="btn-label">Previous</span>
+            <img src="{{ site.baseurl }}/assets/img/arp/left-arrow.svg" /><span
+              >Previous</span
+            >
           </button>
 
           <template x-for="(page,index) in pagesToShow()" :key="page+index">
@@ -233,9 +234,10 @@ permalink: /arp/docs-and-data-sources/
           <button
             x-show="currentPage !== totalPages"
             @click="goToPage(currentPage + 1)"
-            class="next-page"
+            class="page-turner"
           >
-            <span class="btn-label">Next</span> <span class="arrow">&gt;</span>
+            <span>Next</span
+            ><img src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg" />
           </button>
         </div>
       </div>

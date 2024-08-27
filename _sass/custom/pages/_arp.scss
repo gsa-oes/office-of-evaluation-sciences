@@ -923,8 +923,7 @@
                 background-color: #f0f0f0;
               }
             }
-            .next-page,
-            .prev-page {
+            .page-turner {
               margin: 0 20px;
               border: none;
               padding: 0;
@@ -934,13 +933,13 @@
               color: #074b69;
               outline: none;
               cursor: pointer;
-              .btn-label {
-                text-decoration: underline;
-              }
-              .arrow {
+              text-decoration: underline;
+              display: flex;
+              align-items: center;
+              gap: 5px;
+              img {
+                width: 6px;
                 transform: translateY(1px);
-                display: inline-block;
-                font-size: 17px;
               }
             }
           }

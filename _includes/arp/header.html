@@ -41,8 +41,14 @@
                 <div class="menu-item-label">
                   {{ item.title }}
                   <img
+                    x-show="!open"
                     src="{{ site.baseurl }}/assets/img/arp/down-arrow.svg"
                     alt="down arrow"
+                  />
+                  <img
+                    x-show="open"
+                    src="{{ site.baseurl }}/assets/img/arp/up-arrow.svg"
+                    alt="up arrow"
                   />
                 </div>
                 <div class="bottom-border"></div>
