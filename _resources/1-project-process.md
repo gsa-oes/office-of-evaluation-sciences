@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OES Project Process
+title: OES project process
 permalink: /projectprocess/
 hide_image: true
 class: color teal
