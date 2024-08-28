@@ -150,6 +150,7 @@
           left: 100%;
           top: 0;
           display: none;
+          height: 100%;
           background-color: #f7f9fa;
           a {
             font-size: 12px;
@@ -847,7 +848,7 @@
         }
 
         .doc-data-results {
-          margin: 42px 0 0 0;
+          margin: 40px 0 0 0;
           flex: 1;
           .doc-item {
             box-shadow: 0 4px 20px -1px rgba(0, 0, 0, 0.1),

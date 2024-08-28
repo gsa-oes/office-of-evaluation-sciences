@@ -57,21 +57,21 @@ permalink: /arp/studies/
         </div>
       </div>
 
+      <!-- Cross-cutting evaluations section -->
       <div>
         <h2 class="grid-heading">Cross-cutting evaluations</h2>
         <div class="arp-grid-container">
-          <a
-            class="grid-item"
-            href="{{ site.baseurl }}/arp/studies/sample-study"
-            ><img
+          {% assign cross_cutting_evaluations = site.arp | where: "type",
+          "Cross-cutting evaluation" %} {% for study in
+          cross_cutting_evaluations %} {% if study.url contains "/arp/studies/"
+          %}
+          <a class="grid-item" href="{{ study.url }}">
+            <img
               src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
               alt="placeholder image"
             />
             <div class="grid-item-texts">
-              <p class="grid-item-description-text">
-                State strategies for crossagency coordination to serve children
-                and families with low incomes through the American Rescue Plan
-              </p>
+              <p class="grid-item-description-text">{{ study.title }}</p>
               <p>
                 <span class="grid-item-read-more">Read more</span>
                 <span
@@ -82,67 +82,25 @@ permalink: /arp/studies/
               </p>
             </div>
           </a>
-          <a
-            class="grid-item"
-            href="{{ site.baseurl }}/arp/studies/sample-study"
-            ><img
-              src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-              alt="placeholder image"
-            />
-            <div class="grid-item-texts">
-              <p class="grid-item-description-text">
-                Evaluating equitable implementation of homelessness-focused
-                American Rescue Plan programs
-              </p>
-              <p>
-                <span class="grid-item-read-more">Read more</span>
-                <span
-                  ><img
-                    src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                    alt="right arrow"
-                /></span>
-              </p>
-            </div>
-          </a>
-          <a
-            class="grid-item"
-            href="{{ site.baseurl }}/arp/studies/sample-study"
-            ><img
-              src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-              alt="placeholder image"
-            />
-            <div class="grid-item-texts">
-              <p class="grid-item-description-text">
-                Integration of funding to increase equitable access to
-                behavioral health crisis services
-              </p>
-              <p>
-                <span class="grid-item-read-more">Read more</span>
-                <span
-                  ><img
-                    src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                    alt="right arrow"
-                /></span>
-              </p>
-            </div>
-          </a>
+          {% endif %} {% endfor %}
         </div>
       </div>
 
+      <!-- Program-specific analyses section -->
       <div>
         <h2 class="grid-heading">Program-specific analyses</h2>
         <div class="arp-grid-container">
-          <a
-            class="grid-item"
-            href="{{ site.baseurl }}/arp/studies/sample-study"
-            ><img
+          {% assign program_specific_analyses = site.arp | where: "type",
+          "Program-specific analyses" %} {% for study in
+          program_specific_analyses %} {% if study.url contains "/arp/studies/"
+          %}
+          <a class="grid-item" href="{{ study.url }}">
+            <img
               src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
               alt="placeholder image"
             />
             <div class="grid-item-texts">
-              <p class="grid-item-description-text">
-                Assessing equity and effectiveness of Emergency Housing Vouchers
-              </p>
+              <p class="grid-item-description-text">{{ study.title }}</p>
               <p>
                 <span class="grid-item-read-more">Read more</span>
                 <span
@@ -153,51 +111,7 @@ permalink: /arp/studies/
               </p>
             </div>
           </a>
-          <a
-            class="grid-item"
-            href="{{ site.baseurl }}/arp/studies/sample-study"
-            ><img
-              src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-              alt="placeholder image"
-            />
-            <div class="grid-item-texts">
-              <p class="grid-item-description-text">
-                Estimating the effect of the Medicaid Postpartum Coverage
-                Extension on enrollment, health care utilization, and outcomes
-                for postpartum women
-              </p>
-              <p>
-                <span class="grid-item-read-more">Read more</span>
-                <span
-                  ><img
-                    src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                    alt="right arrow"
-                /></span>
-              </p>
-            </div>
-          </a>
-          <a
-            class="grid-item"
-            href="{{ site.baseurl }}/arp/studies/sample-study"
-            ><img
-              src="{{ site.baseurl }}/assets/img/arp/placeholder.png"
-              alt="placeholder image"
-            />
-            <div class="grid-item-texts">
-              <p class="grid-item-description-text">
-                How state spending on Medicaid home and community-based services
-                affected equitable access to services
-              </p>
-              <p>
-                <span class="grid-item-read-more">Read more</span>
-                <span
-                  ><img
-                    src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                    alt="right arrow"
-                /></span>
-              </p>
-            </div>
-          </a>
+          {% endif %} {% endfor %}
         </div>
       </div>
 

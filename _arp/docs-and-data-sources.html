@@ -210,8 +210,10 @@ permalink: /arp/docs-and-data-sources/
           </div>
         </template>
 
+        <div x-show="filteredDocs.length === 0"><p>No results match.</p></div>
+
         <!-- Pagination Controls -->
-        <div class="pagination">
+        <div class="pagination" x-show="filteredDocs.length > 0">
           <button
             x-show="currentPage !== 1"
             @click="goToPage(currentPage - 1)"
