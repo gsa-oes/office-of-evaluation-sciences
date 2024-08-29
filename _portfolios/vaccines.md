@@ -31,11 +31,8 @@ Together, results of these evaluations suggest that behaviorally-informed direct
 Starting in 2018, OES evaluations evaluated communications directed to providers rather than patients or intermediaries, with interventions including a <a href="https://oes.gsa.gov/projects/increasing-adult-vaccines-atlanta-va/" target="_blank">change to a hospital’s electronic health record (EHR)</a> vaccination bundling and clinical reminders. Some of this work is ongoing. 
 
 ### Relevant resources
-In early 2021, OES developed lessons learned from the OES portfolio to inform the COVID-19 vaccination effort. <br><br>
-<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">Read our 3-page summary (PDF)</a><br>
-
-<a class="usa-button" href="{{site.baseurl}}/assets/publications/SSRN-id3967610 (1).pdf" target="_blank">Publication: Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations (PDF)</a><br>
-
-<a class="usa-button" href="{{site.baseurl}}/assets/files/OES-Vaccination-Portfolio-Intervention-Packs.pdf" target="_blank">View Vaccination Portfolio Intervention Packs (PDF)</a><br>
-<a class="usa-button" href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">Blog: What are the best ways to encourage COVID-19 vaccination?</a>
-<br><br>
+In early 2021, OES developed lessons learned from the OES portfolio to inform the COVID-19 vaccination effort.
+- <a href="{{site.baseurl}}/assets/files/OES-Vaccination-Portfolio-Intervention-Packs.pdf" target="_blank">Intervention packs: Low-cost interventions to increase vaccination uptake (PDF)</a>
+- <a href="{{site.baseurl}}/assets/publications/SSRN-id3967610 (1).pdf" target="_blank">Publication: Lessons for Covid-19 Vaccination from Eight Federal Government Direct Communication Evaluations (PDF)</a>
+- <a href="{{site.baseurl}}/assets/files/OES-Using-Behavioral-Science-to-Increase-COVID-19-Vaccination-Uptake.pdf" target="_blank">Three page summary: Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
+- <a href="https://oes.gsa.gov/blog/encourage-covid-19-vaccination/" target="_blank">What are the best ways to encourage COVID-19 vaccination? (Blog)</a>
