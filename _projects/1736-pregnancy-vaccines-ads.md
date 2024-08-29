@@ -1,5 +1,5 @@
 ---
-title: Testing variations of maternal immunization messages
+title: Evaluating variations of maternal immunization messages
 permalink: /projects/pregnancy-vaccines-ads/
 tags:
   - project
