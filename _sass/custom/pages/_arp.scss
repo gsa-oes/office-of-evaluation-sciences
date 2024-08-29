@@ -28,10 +28,21 @@
   justify-content: space-between;
   position: relative;
   align-items: center;
-  min-height: 100px;
+
+  .header-logo {
+    img {
+      width: 100%;
+      max-width: 220px;
+      @media (max-width: 940px) {
+        max-width: 190px;
+      }
+    }
+  }
 
   .arp-header-menu-container {
     position: relative;
+    display: flex;
+    height: 100px;
     .mobile-menu-button {
       display: none;
       border: none;
@@ -61,7 +72,7 @@
         flex-direction: column;
         position: absolute;
         right: 0;
-        top: 120%;
+        top: 100%;
         z-index: 10000;
         background: white;
         margin: 0;
