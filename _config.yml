@@ -83,6 +83,10 @@ defaults:
       type: connect
     values:
       layout: page
+  - scope:
+      path: _arp
+    values:
+      favicon_link: "/assets/img/arp/ARP-logo-only.png"
 
 
 colors:
