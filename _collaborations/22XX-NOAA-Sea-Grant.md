@@ -16,7 +16,7 @@ featured:
 ---
 
 ## What was the challenge?
-The John A. Knauss Marine Policy Fellowship Program (Knauss Fellowship) is a flagship fellowship program for the Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) administered by NOAA’s National Sea Grant College Program (Sea Grant). NOAA has identified the Knauss Fellowship as a key avenue for advancing a more diverse workforce in support of Executive Order 13985, *On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government*.  
+The John A. Knauss Marine Policy Fellowship Program (Knauss Fellowship) is a flagship fellowship program for the Department of Commerce’s National Oceanic and Atmospheric Administration (NOAA) administered by NOAA’s National Sea Grant College Program (Sea Grant). NOAA has identified the Knauss Fellowship as a key avenue for advancing a more diverse workforce in support of Executive Order 13985, On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.  
 
 Sea Grant has not been able to analyze the demographic characteristics of its applicants and fellows, and there is limited information about potential barriers to the fellowship program that members of underrepresented groups might face. Understanding selection outcomes for underrepresented groups and potential barriers in the application process may help the program identify changes that could increase access to and equity of the fellowship program.
 
