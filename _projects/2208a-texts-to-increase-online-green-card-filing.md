@@ -34,4 +34,9 @@ significant difference in likelihood of online filing between customers assigned
 
 The results suggest that the sending outreach messages about online services two months before customers’ Green Card expiration dates did not meaningfully affect online filing rates. This could be due to the phrasing, modality, or timing, or it could be that the barriers customers face to using online services are too high to be influenced by light-touch methods. Eliminating ineffective outreach could result in savings, given the costs involved with sending text messages. However, our evaluation was limited by a smaller than expected sample size, so further evidence is needed to corroborate these findings. We were able to highlight groups for whom online filing rates lag behind the average customer, suggesting future avenues for more targeted outreach efforts. Future research could evaluate the optimal combination of outreach that balances message costs.
 
+Notes:
+1. Herd, P., & Moynihan, D. P. (2019). Administrative Burden: Policymaking by Other Means. Russell Sage Foundation. https://doi.org/10.7758/9781610448789.
+2. Ryan W. Buell, Ethan Porter, Michael I. Norton. Surfacing the submerged State: Operational Transparency Increases Trust in and
+Engagement with Government. <i>Manufacturing & Service Operations Management</i>, Volume 23, Issue 4, July-August 2021, Pages 745-1004. https://doi.org/10.1287/msom.2020.0877.
+
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2208A-analysis-plan.pdf">on GitHub</a>.
