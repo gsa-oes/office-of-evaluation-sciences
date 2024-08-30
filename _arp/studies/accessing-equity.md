@@ -1,6 +1,7 @@
 ---
 permalink: /arp/studies/accessing-equity
 layout: arp_study
-title: Assessing equity and effectiveness of Emergency Housing Vouchers
+title: "Study: Assessing equity and effectiveness of Emergency Housing Vouchers | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Assessing equity and effectiveness of Emergency Housing Vouchers
 type: Program-specific analyses
 ---

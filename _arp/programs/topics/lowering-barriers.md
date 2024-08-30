@@ -1,19 +1,20 @@
 ---
 layout: arp_program_topic
 permalink: /arp/programs/topics/lowering-barriers
-title: Lowering barriers to work and providing security to working families
+title: "Topic: Lowering barriers to work and providing security to working families | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Lowering barriers to work and providing security to working families
 image_path: /assets/img/arp/placeholder.png
 programs:
-  - title: Placeholder Child Care Stabilization
+  - display_title: Placeholder Child Care Stabilization
     image_path: placeholder.png
     link: /arp/programs/child-care-stabilization
-  - title: Placeholder Enhancements of the Child Tax Credit
+  - display_title: Placeholder Enhancements of the Child Tax Credit
     image_path: placeholder.png
     link: /arp/programs/enhancements-of-the-child-tax-credit
-  - title: Placeholder COVID-19 Funeral Assistance
+  - display_title: Placeholder COVID-19 Funeral Assistance
     image_path: placeholder.png
     link: /arp/programs/covid-19-funeral-assistance
-  - title: Placeholder Unemployment Insurance
+  - display_title: Placeholder Unemployment Insurance
     image_path: placeholder.png
     link: /arp/programs/unemployment-insurance
 ---

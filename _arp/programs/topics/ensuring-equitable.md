@@ -1,25 +1,26 @@
 ---
 layout: arp_program_topic
 permalink: /arp/programs/topics/ensuring-equitable
-title: Ensuring an equitable recovery for all communities and small businesses
+title: "Topic: Ensuring an equitable recovery for all communities and small businesses | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Ensuring an equitable recovery for all communities and small businesses
 image_path: /assets/img/arp/placeholder.png
 programs:
-  - title: Child Care Stabilization
+  - display_title: Child Care Stabilization
     image_path: placeholder.png
     link: /arp/programs/child-care-stabilization
-  - title: Enhancements of the Child Tax Credit
+  - display_title: Enhancements of the Child Tax Credit
     image_path: placeholder.png
     link: /arp/programs/enhancements-of-the-child-tax-credit
-  - title: COVID-19 Funeral Assistance
+  - display_title: COVID-19 Funeral Assistance
     image_path: placeholder.png
     link: /arp/programs/covid-19-funeral-assistance
-  - title: Unemployment Insurance
+  - display_title: Unemployment Insurance
     image_path: placeholder.png
     link: /arp/programs/unemployment-insurance
-  - title: The Earned Income Tax Credit for Workers without Dependent Children
+  - display_title: The Earned Income Tax Credit for Workers without Dependent Children
     image_path: placeholder.png
     link: /arp/programs/earned-income-tax-credit-workers-without-dependent-children
-  - title: Permanent Expansion of Tax Relief to Puerto Rico Families
+  - display_title: Permanent Expansion of Tax Relief to Puerto Rico Families
     image_path: placeholder.png
     link: /arp/programs/permanent-expansion-of-tax-relief-to-puerto-rico-families
 ---

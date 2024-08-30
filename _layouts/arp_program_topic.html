@@ -5,7 +5,7 @@ layout: arp_base
 <div class="arp-page arp-program-topic">
   <div class="grid-container">
     <div class="intro-section">
-      <h1>{{page.title}}</h1>
+      <h1>{{page.display_title}}</h1>
       <div class="topic-intro">
         <img
           src="{{ site.baseurl }}{{ page.image_path }}"
@@ -24,7 +24,7 @@ layout: arp_base
             alt="{{ program.title }} image"
           />
           <div class="program-text">
-            <h3>{{ program.title }}</h3>
+            <h3>{{ program.display_title }}</h3>
             <p>Go to program webpage</p>
           </div>
         </a>

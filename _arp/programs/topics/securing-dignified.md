@@ -1,13 +1,14 @@
 ---
 layout: arp_program_topic
 permalink: /arp/programs/topics/securing-difnified
-title: Securing dignified housing and living conditions
+title: "Topic: Securing dignified housing and living conditions | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Securing dignified housing and living conditions
 image_path: /assets/img/arp/placeholder.png
 programs:
-  - title: Placeholder Child Care Stabilization
+  - display_title: Placeholder Child Care Stabilization
     image_path: placeholder.png
     link: /arp/programs/child-care-stabilization
-  - title: Placeholder Enhancements of the Child Tax Credit
+  - display_title: Placeholder Enhancements of the Child Tax Credit
     image_path: placeholder.png
     link: /arp/programs/enhancements-of-the-child-tax-credit
 ---

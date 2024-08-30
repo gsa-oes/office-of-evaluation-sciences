@@ -1,7 +1,8 @@
 ---
 layout: arp_program
 permalink: /arp/programs/child-care-stabilization
-name: Child Care Stabilization
+title: "Program: Child Care Stabilization | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Child Care Stabilization
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:

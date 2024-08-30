@@ -1,7 +1,8 @@
 ---
 layout: arp_program
 permalink: /arp/programs/permanent-expansion-of-tax-relief-to-puerto-rico-families
-name: Permanent Expansion of Tax Relief to Puerto Rico Families
+title: "Program: Permanent Expansion of Tax Relief to Puerto Rico Families | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Permanent Expansion of Tax Relief to Puerto Rico Families
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:

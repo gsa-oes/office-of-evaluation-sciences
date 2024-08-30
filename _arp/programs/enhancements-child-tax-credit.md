@@ -1,7 +1,8 @@
 ---
 layout: arp_program
 permalink: /arp/programs/enhancements-of-the-child-tax-credit
-name: Enhancements of the Child Tax Credit
+title: "Program: Enhancements of the Child Tax Credit | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Enhancements of the Child Tax Credit
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:

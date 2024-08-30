@@ -1,7 +1,8 @@
 ---
 layout: arp_program
 permalink: /arp/programs/covid-19-funeral-assistance
-name: COVID-19 Funeral Assistance
+title: "Program: COVID-19 Funeral Assistance | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: COVID-19 Funeral Assistance
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:

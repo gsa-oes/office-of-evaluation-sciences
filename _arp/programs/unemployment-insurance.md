@@ -1,7 +1,8 @@
 ---
 layout: arp_program
 permalink: /arp/programs/unemployment-insurance
-name: Unemployment Insurance
+title: "Program: Unemployment Insurance | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Unemployment Insurance
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:

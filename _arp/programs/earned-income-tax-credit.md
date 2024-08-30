@@ -1,7 +1,8 @@
 ---
 layout: arp_program
 permalink: /arp/programs/earned-income-tax-credit-workers-without-dependent-children
-name: The Earned Income Tax Credit for Workers without Dependent Children
+title: "Program: The Earned Income Tax Credit for Workers without Dependent Children | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: The Earned Income Tax Credit for Workers without Dependent Children
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:
