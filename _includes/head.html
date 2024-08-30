@@ -80,5 +80,9 @@
     <script defer src="{{ site.baseurl }}/assets/js/arp/alpinejs@3.14.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/arp/scripts.js"></script>
   {% endif %}
+  {% if page.url contains '/arp/dashboard' %}
+    <script src="{{ site.baseurl }}/assets/js/arp/d3@7.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/arp/dashboard.js"></script>
+  {% endif %}
   
 </head>

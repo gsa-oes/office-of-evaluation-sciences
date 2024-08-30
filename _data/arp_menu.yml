@@ -64,6 +64,6 @@ menu_items:
   - title: "Our studies"
     url: "/arp/studies/"
   - title: "Dashboard TBD title"
-    url: "#"
+    url: "/arp/dashboard"
   - title: "Documents and data sources"
     url: "/arp/docs-and-data-sources/"
