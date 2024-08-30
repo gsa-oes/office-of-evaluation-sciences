@@ -20,10 +20,13 @@ title: Documents and data sources | American Rescue Plan National Evaluation | O
         <!-- Filters -->
         <div class="accordion">
           <!-- Program Name Filter -->
-          <div class="accordion-item" x-data="{ isOpen: false }">
+          <div
+            class="accordion-item"
+            x-data="{ isOpen: false, showAll: false }"
+          >
             <h3 @click="isOpen = !isOpen" style="cursor: pointer">
-              <span class="filter-with-tooltip"
-                ><span>Program name</span>
+              <span class="filter-with-tooltip">
+                <span>Program name</span>
                 <span
                   x-data="{show: false}"
                   class="tooltip-container"
@@ -36,8 +39,8 @@ title: Documents and data sources | American Rescue Plan National Evaluation | O
                     adipiscing elit. Lorem ipsum dolor sit amet, consectetur
                     adipiscing elit.
                   </div>
-                </span></span
-              >
+                </span>
+              </span>
               <img
                 x-show="!isOpen"
                 src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
@@ -48,7 +51,10 @@ title: Documents and data sources | American Rescue Plan National Evaluation | O
               />
             </h3>
             <div x-show="isOpen" class="filter-groups">
-              <template x-for="(program,index) in programs" :key="index">
+              <template
+                x-for="(program, index) in showAll ? programs : programs.slice(0, 5)"
+                :key="index"
+              >
                 <div>
                   <label>
                     <input
@@ -60,14 +66,24 @@ title: Documents and data sources | American Rescue Plan National Evaluation | O
                   </label>
                 </div>
               </template>
+              <button
+                x-show="!showAll && programs.length > 5"
+                @click="showAll = true"
+                class="show-more-btn"
+              >
+                <span x-text="'Show ' + (programs.length - 5) + ' more'"></span>
+                <img
+                  src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
+                />
+              </button>
             </div>
           </div>
 
           <!-- Topic Area Filter -->
           <div class="accordion-item" x-data="{ isOpen: false }">
             <h3 @click="isOpen = !isOpen" style="cursor: pointer">
-              <span class="filter-with-tooltip"
-                ><span>Topic area</span>
+              <span class="filter-with-tooltip">
+                <span>Topic area</span>
                 <span
                   x-data="{show: false}"
                   class="tooltip-container"
@@ -80,8 +96,8 @@ title: Documents and data sources | American Rescue Plan National Evaluation | O
                     adipiscing elit. Lorem ipsum dolor sit amet, consectetur
                     adipiscing elit.
                   </div>
-                </span></span
-              >
+                </span>
+              </span>
               <img
                 x-show="!isOpen"
                 src="{{ site.baseurl }}/assets/img/arp/down-arrow-blue.svg"
