@@ -1,5 +1,5 @@
 ---
-title: Encouraging the use of USCIS’ online services - Text message notifications to increase online filing of green card renewals
+title: Encouraging the use of USCIS’ online forms
 permalink: /2208a-texts-to-increase-online-green-card-filing/
 tags: 
   - project
@@ -13,7 +13,7 @@ domain: Communications
 type: Impact evaluation of program change
 agency: Homeland Security
 status: Complete
-summary: Analysis Plan Registration
+summary: Evaluating methods to increase online filing for Permanent Resident Card renewals
 featured: 
 ---
 ## What is the agency priority?
