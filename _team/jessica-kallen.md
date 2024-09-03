@@ -3,6 +3,7 @@ name: Jessica Kallen
 image: /assets/img/team/jessica-kallen.webp
 year:
   - 2023
+  - 2024
 status: Current
 home: Government
 title: Program Manager, Finance and Legal
