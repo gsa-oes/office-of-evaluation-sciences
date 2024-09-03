@@ -55,8 +55,7 @@ The results suggest that sending outreach messages about online services two mon
 1. U.S. Citizenship and Immigration Services. FYs 2023-2026 Strategic Plan (2022), https://www.uscis.gov/sites/default/files/
 document/reports/StrategicPlanFY23.pdf.
 2. Herd, P., & Moynihan, D. P. (2019). Administrative Burden: Policymaking by Other Means. Russell Sage Foundation. https://doi.org/10.7758/9781610448789.
-3. See e.g., Elizabeth Linos, Allen Prohofsky, Aparna Ramesh, Jesse Rothstein, and Matt Unrath. “Can Nudges Increase Take-up of the EITC?,” American Economic Journal: Economic Policy, Volume 14, No. 4, November 2022, Pages 432-452. https://www.aeaweb.org/articles?id=10.1257/pol.20200603; Amy Finkelstein, Matthew J Notowidigdo, Take-Up and Targeting: Experimental Evidence from SNAP, <i>The Quarterly
-Journal of Economics</i>, Volume 134, Issue 3, August 2019, Pages 1505–1556, https://doi.org/10.1093/qje/qjz013.
+3. See e.g., Elizabeth Linos, Allen Prohofsky, Aparna Ramesh, Jesse Rothstein, and Matt Unrath. “Can Nudges Increase Take-up of the EITC?,” <i>American Economic Journal: Economic Policy</i>, Volume 14, No. 4, November 2022, Pages 432-452. https://www.aeaweb.org/articles?id=10.1257/pol.20200603; Amy Finkelstein, Matthew J Notowidigdo, Take-Up and Targeting: Experimental Evidence from SNAP, <i>The Quarterly Journal of Economics</i>, Volume 134, Issue 3, August 2019, Pages 1505–1556, https://doi.org/10.1093/qje/qjz013.
 4. Ryan W. Buell, Ethan Porter, Michael I. Norton. Surfacing the submerged State: Operational Transparency Increases Trust in and Engagement with Government. Manufacturing & Service Operations Management, Volume 23, Issue 4, July-August 2021, Pages 745-1004. https://doi.org/10.1287/msom.2020.0877.
 5. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in an analysis plan, which can be found
 at https://oes.gsa.gov.
