@@ -4,6 +4,7 @@ image: /assets/img/team/heidi-wallace.webp
 year:
   - 2022
   - 2023
+  - 2024
 home: University
 agency:
 title: Academic Affiliate
