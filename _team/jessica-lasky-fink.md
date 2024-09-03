@@ -7,7 +7,7 @@ year:
   - 2023
 agency:
 home: University
-title: Associate Fellow
+title: Academic Affiliate
 status: Current
 ---
 
