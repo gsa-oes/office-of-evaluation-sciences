@@ -4,11 +4,12 @@ image: /assets/img/team/alison-cohen.webp
 year:
   - 2022
   - 2023
+  - 2024
 home: University
 agency:
   - Health and Human Services
   - State
-title: Fellow
+title: Academic Affiliate
 status: Current
 ---
 
