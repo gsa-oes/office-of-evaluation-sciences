@@ -3,6 +3,7 @@ name: Cynthia Wilkes
 image: /assets/img/team/cynthia-wilkes.jpeg
 year:
   - 2023
+  - 2024
 home: Government
 agency:
 title: Community Engagement Fellow

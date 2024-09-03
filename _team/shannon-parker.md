@@ -4,6 +4,7 @@ image: /assets/img/team/shannon-parker.webp
 year:
   - 2022
   - 2023
+  - 2024
 home: Government
 agency:
 title: Senior Program Manager

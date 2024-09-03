@@ -5,9 +5,10 @@ year:
   - 2021
   - 2022
   - 2023
+  - 2024
 agency:
-home: Non-profit
-title: Fellow
+home: Government
+title: Senior Evaluator
 status: Current
 ---
 
