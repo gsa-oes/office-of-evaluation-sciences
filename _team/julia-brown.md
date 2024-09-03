@@ -6,11 +6,13 @@ year:
   - 2020
   - 2021
   - 2022
+  - 2023
+  - 2024
 home: University
 agency:
   - Small Business Administration
   - Treasury
-title: Associate Fellow
+title: Senior Data Scientist
 status: Current
 ---
 
