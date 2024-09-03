@@ -4,6 +4,7 @@ image: /assets/img/team/bill-schultz.webp
 year:
   - 2022
   - 2023
+  - 2024
 home: Government
 agency:
 title: Data Scientist
