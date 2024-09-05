@@ -4,6 +4,7 @@ image: /assets/img/team/tyler-simko.webp
 year:
   - 2022
   - 2023
+  - 2024
 home: Government
 agency:
 title: Data Scientist
