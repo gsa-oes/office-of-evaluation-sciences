@@ -3,36 +3,38 @@ document.addEventListener("alpine:init", () => {
     return parseFloat(value.replace(/[$,]/g, ""));
   }
 
+  const width = 800;
+  const height = 400;
+  const margin = { top: 20, right: 20, bottom: 30, left: 40 };
+  const chartWidth = width - margin.left - margin.right;
+  const chartHeight = height - margin.top - margin.bottom;
+
   Alpine.data("dashboardData", () => ({
+    selectedType: "programs", // values: "programs" and "evaluations"
     selectedCharacteristic1: "Agency",
     selectedCharacteristic2: "Program Type",
-    selectedMeasure: "Funding Level1", // Default to Funding Level1
-    programs: [],
+    selectedMeasure: "Funding Level1",
+    data: [],
     filteredPrograms: [],
 
     loadData() {
-      d3.csv("/assets/js/arp/dashboard-data.csv").then((data) => {
-        this.programs = data;
-        this.updateChart();
+      d3.csv("/assets/js/arp/dashboard-data.csv").then((loadedData) => {
+        this.data = loadedData;
+        this.updateProgramsChart();
       });
     },
 
-    updateChart() {
-      this.filteredPrograms = this.programs.filter((program) => {
+    updateProgramsChart() {
+      this.filteredPrograms = this.data.filter((program) => {
         return (
           program[this.selectedCharacteristic1] &&
           program[this.selectedCharacteristic2]
         );
       });
 
-      const svg = d3.select("#bar-chart");
+      const svg = d3.select("#programs-chart");
+      svg.attr("viewBox", `0 0 ${width} ${height}`);
       svg.selectAll("*").remove();
-
-      const width = +svg.attr("width");
-      const height = +svg.attr("height");
-      const margin = { top: 20, right: 20, bottom: 30, left: 40 };
-      const chartWidth = width - margin.left - margin.right;
-      const chartHeight = height - margin.top - margin.bottom;
 
       const g = svg
         .append("g")
@@ -87,12 +89,19 @@ document.addEventListener("alpine:init", () => {
         .attr("class", "axis axis--y")
         .call(d3.axisLeft(y).ticks(10));
     },
+    programsChartDependencies() {
+      return [
+        this.selectedCharacteristic1,
+        this.selectedCharacteristic2,
+        this.selectedMeasure,
+      ];
+    },
 
-    init() {
+    async init() {
       this.loadData();
-      this.$watch("selectedCharacteristic1", () => this.updateChart());
-      this.$watch("selectedCharacteristic2", () => this.updateChart());
-      this.$watch("selectedMeasure", () => this.updateChart());
+      this.$watch("programsChartDependencies", () =>
+        this.updateProgramsChart()
+      );
     },
   }));
 });

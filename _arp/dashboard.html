@@ -4,79 +4,125 @@ permalink: /arp/dashboard/
 title: Dashboard Webpage Title | American Rescue Plan National Evaluation | Office of Evaluation Sciences
 ---
 
-<div class="arp-page arp-dashboard" x-data="dashboardData()">
+<div class="arp-page arp-dashboard">
   <div class="grid-container">
     <div class="intro-section">
       <h1>Dashboard Webpage Title</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget
-        purus mattis...
+        purus mattis, efficitur eros rutrum, convallis sapien. Maecenas tempor
+        placerat tincidunt. Suspendisse elementum nibh orci, sit amet mattis
+        odio ullamcorper at. Cras finibus ex id nunc facilisis pulvinar. Duis
+        tristique dolor id nibh lobortis imperdiet. Maecenas vitae tristique
+        lacus, vitae tincidunt augue.
       </p>
     </div>
 
-    <!-- Filter Section -->
-    <div class="filters">
-      <label for="characteristic1">Program Characteristic 1:</label>
-      <select id="characteristic1" x-model="selectedCharacteristic1">
-        <option value="Agency">Agency</option>
-        <option value="Program Type">Program Type</option>
-        <option value="Funding Recipient">Funding Recipient</option>
-      </select>
-
-      <label for="characteristic2">Program Characteristic 2:</label>
-      <select id="characteristic2" x-model="selectedCharacteristic2">
-        <option value="Program Type">Program Type</option>
-        <option value="Funding Flow">Funding Flow</option>
-        <option value="Intended Population">Intended Population</option>
-      </select>
-
-      <label for="measure">Select Measure:</label>
-      <select id="measure" x-model="selectedMeasure">
-        <option value="Funding Level1">Funding Level</option>
-        <option value="number of programs">Number of Programs</option>
-      </select>
-    </div>
-
-    <!-- Chart Section -->
-    <div class="chart-container">
-      <svg id="bar-chart" width="600" height="400"></svg>
-    </div>
-
-    <!-- Program Details Table -->
-    <div class="program-table">
-      <table>
-        <thead>
-          <tr>
-            <th>Topic</th>
-            <th>Program</th>
-            <th>Agency</th>
-            <th>Program Type</th>
-            <th>Intended Population</th>
-            <th>Funding Recipient</th>
-            <th>Funding Flow</th>
-            <th>Funding Level</th>
-          </tr>
-        </thead>
-        <tbody>
-          <template
-            x-for="(program, index) in filteredPrograms"
-            :key="program.Program+index"
+    <div x-data="dashboardData()">
+      <div class="type-tabs">
+        <div class="type-tab-buttons">
+          <button
+            @click="selectedType = 'programs'"
+            :class="{ 'selected': selectedType === 'programs' }"
           >
-            <tr>
-              <td x-text="program.Topic"></td>
-              <td x-text="program.Program"></td>
-              <td x-text="program.Agency"></td>
-              <td x-text="program['Program Type']"></td>
-              <td x-text="program['Intended Population']"></td>
-              <td x-text="program['Funding Recipient']"></td>
-              <td x-text="program['Funding Flow']"></td>
-              <td x-text="program['Funding Level1']"></td>
-            </tr>
-          </template>
-        </tbody>
-      </table>
-    </div>
+            Programs
+          </button>
+          <button
+            @click="selectedType = 'evaluations'"
+            :class="{ 'selected': selectedType === 'evaluations' }"
+          >
+            Evaluations
+          </button>
+        </div>
+      </div>
 
-    <p class="page-update-date">Webpage updated on 08/30/2024</p>
+      <div class="viz-and-table-container" x-show="selectedType === 'programs'">
+        <h2>Programs</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+          eget purus mattis, efficitur eros rutrum, convallis sapien. Maecenas
+          tempor placerat tincidunt. Suspendisse elementum nibh orci, sit amet
+          mattis.
+        </p>
+        <div class="viz-and-table">
+          <!-- Filter Section -->
+          <div class="filters">
+            <label for="characteristic1">Program Characteristic 1:</label>
+            <select id="characteristic1" x-model="selectedCharacteristic1">
+              <option value="Agency">Agency</option>
+              <option value="Program Type">Program Type</option>
+              <option value="Funding Recipient">Funding Recipient</option>
+            </select>
+
+            <label for="characteristic2">Program Characteristic 2:</label>
+            <select id="characteristic2" x-model="selectedCharacteristic2">
+              <option value="Program Type">Program Type</option>
+              <option value="Funding Flow">Funding Flow</option>
+              <option value="Intended Population">Intended Population</option>
+            </select>
+
+            <label for="measure">Select Measure:</label>
+            <select id="measure" x-model="selectedMeasure">
+              <option value="Funding Level1">Funding Level</option>
+              <option value="number of programs">Number of Programs</option>
+            </select>
+          </div>
+          <!-- Chart Section -->
+          <div class="chart-container">
+            <svg id="programs-chart" width="100%"></svg>
+          </div>
+          <!-- Program Details Table -->
+          <div class="program-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Topic</th>
+                  <th>Program</th>
+                  <th>Agency</th>
+                  <th>Program Type</th>
+                  <th>Intended Population</th>
+                  <th>Funding Recipient</th>
+                  <th>Funding Flow</th>
+                  <th>Funding Level</th>
+                </tr>
+              </thead>
+              <tbody>
+                <template
+                  x-for="(program, index) in filteredPrograms"
+                  :key="program.Program+index"
+                >
+                  <tr>
+                    <td x-text="program.Topic"></td>
+                    <td x-text="program.Program"></td>
+                    <td x-text="program.Agency"></td>
+                    <td x-text="program['Program Type']"></td>
+                    <td x-text="program['Intended Population']"></td>
+                    <td x-text="program['Funding Recipient']"></td>
+                    <td x-text="program['Funding Flow']"></td>
+                    <td x-text="program['Funding Level1']"></td>
+                  </tr>
+                </template>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div
+        class="viz-and-table-container"
+        x-show="selectedType === 'evaluations'"
+      >
+        <h2>Evaluations</h2>
+        <p>
+          Dolor sit amet, consectetur adipiscing elit. Vestibulum eget purus
+          mattis, efficitur eros rutrum, convallis sapien. Maecenas tempor
+          placerat tincidunt. Suspendisse elementum nibh orci, sit amet mattis
+          koji.
+        </p>
+        <div class="viz-and-table">evaluatons viz and table</div>
+      </div>
+
+      <p class="page-update-date">Webpage updated on 08/30/2024</p>
+    </div>
   </div>
 </div>

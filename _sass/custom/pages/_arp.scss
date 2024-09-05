@@ -989,5 +989,50 @@
         }
       }
     }
+
+    &.arp-dashboard {
+      .type-tabs {
+        margin: 50px 0 0 0;
+        position: relative;
+        background-color: #d3eaf2;
+        height: 48px;
+        .type-tab-buttons {
+          position: absolute;
+          bottom: 0;
+          left: 20px;
+          display: flex;
+          button {
+            background-color: transparent;
+            color: #19677f;
+            border: none;
+            margin: 0;
+            padding: 25px 20px 15px 20px;
+            outline: none;
+            cursor: pointer;
+            &.selected {
+              background-color: #19677f;
+              color: white;
+            }
+          }
+        }
+      }
+
+      .viz-and-table-container {
+        background-color: lightgray;
+        padding: 30px;
+        h2 {
+          color: #19677f;
+        }
+        .viz-and-table {
+          background-color: white;
+          padding: 30px;
+          margin: 30px 0 0 0;
+          .program-table {
+            overflow: auto;
+            max-height: 600px;
+          }
+        }
+      }
+    }
   }
 }
