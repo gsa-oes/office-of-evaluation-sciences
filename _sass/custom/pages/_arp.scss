@@ -20,6 +20,9 @@
   border-top: 1px solid #ccd8e2;
 }
 .arp-header {
+  [x-cloak] {
+    display: none !important;
+  }
   * {
     font-family: Lato, Helvetica Neue, Helvetica, Arial, sans;
   }

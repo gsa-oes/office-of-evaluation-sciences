@@ -60,7 +60,12 @@
               <div class="bottom-border"></div>
             </a>
             {% endif %} {% if item.submenu %}
-            <ul class="submenu" x-show="open" @click.away="open = false">
+            <ul
+              class="submenu"
+              x-show="open"
+              @click.away="open = false"
+              x-cloak
+            >
               {% for subitem in item.submenu %}
               <li class="submenu-item">
                 <a href="{{ site.baseurl }}{{ subitem.url }}"
