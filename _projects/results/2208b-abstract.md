@@ -10,11 +10,10 @@ summary:
 
 ---
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2310-decreasing-snap-denials-abstract.pdf" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2208b-encouraging-the-use-of-uscis-online-accounts-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Agency priority
-The U.S. Department of Homeland Security’s U.S. Citizenship and Immigration Services (USCIS) aims to increase customer satisfaction by encouraging the effective and efficient use of USCIS’s online services and contact centers as part of their mission to uphold America’s promise as a nation of welcome and possibility with fairness, integrity, and respect for all they serve. Increasing the number of customers who use USCIS’ online portal, myUSCIS, is a key agency priority, as part of their efforts to reduce the paperwork burden on
-customers and agency staff.
+The U.S. Department of Homeland Security’s U.S. Citizenship and Immigration Services (USCIS) aims to increase customer satisfaction by encouraging the effective and efficient use of USCIS’s online services and contact centers as part of their mission to uphold America’s promise as a nation of welcome and possibility with fairness, integrity, and respect for all they serve. Increasing the number of customers who use USCIS’ online portal, myUSCIS, is a key agency priority, as part of their efforts to reduce the paperwork burden on customers and agency staff.
 
 ## Program change description
 USCIS has an existing outreach program that identifies and provides outreach to customers who have submitted a paper version of a form that was available online. Customers may underutilize online tools for a variety of reasons, including a lack of information, a (mis)belief that such tools are not secure, or a perception that using online tools is difficult or cumbersome.<sup>1</sup> Evidence on the effectiveness of low-cost, informational messages for reducing administrative burdens such as these
@@ -26,15 +25,13 @@ In collaboration with USCIS, we designed two alternate email messages. The first
 
 ## Evaluation design
 The program change was evaluated with an individual level randomized evaluation. We randomized 261,398 customers to one of three
-groups: 1. the status quo group, assigned to receive the USCIS’s existing outreach email (n=86,469); 2. the operational transparency group, assigned to receive the simplified email that emphasized the benefits of using online accounts to track one’s case status (n=87,702); and 3. the social norms group, assigned to receive the simplified email that emphasized that many other customers had already signed up for online accounts (n=87, 227). Customers were clustered at the email address level, and each email was randomly assigned to a
-message group. Enrollment into the intervention occurred once per month over the course of three months (May, July, and August 2023).
+groups: 1. the status quo group, assigned to receive the USCIS’s existing outreach email (<i>n</i>=86,469); 2. the operational transparency group, assigned to receive the simplified email that emphasized the benefits of using online accounts to track one’s case status (<i>n</i>=87,702); and 3. the social norms group, assigned to receive the simplified email that emphasized that many other customers had already signed up for online accounts (<i>n</i>=87, 227). Customers were clustered at the email address level, and each email was randomly assigned to a message group. Enrollment into the intervention occurred once per month over the course of three months (May, July, and August 2023).
 
 ## Analysis of existing data
 We intended to analyze the impact of randomized outreach using existing USCIS data on the creation of online accounts and the linkage of paper-filed cases to online accounts.
 
 ## Results
-We were not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable
-comparison groups, we do not report results. In this case, the evaluation team learned that customers who received outreach already had online accounts, but needed to activate them, leading to a mismatch between the needed action and the originally intended behavior.
+We were not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, we do not report results. In this case, the evaluation team learned that customers who received outreach already had online accounts, but needed to activate them, leading to a mismatch between the needed action and the originally intended behavior.
 
 ## Implications
 This evaluation demonstrated the feasibility of embedding a rigorous evaluation into ongoing outreach efforts at USCIS. It also enhanced cross-team collaboration within USCIS, identified areas in which ongoing informational outreach could be modified to be better aligned with organizational processes, and suggested new avenues for evaluating engagement with online services in the future.
