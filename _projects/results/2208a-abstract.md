@@ -10,7 +10,7 @@ summary:
 
 ---
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2310-decreasing-snap-denials-abstract.pdf" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2208a-encouraging-the-use-of-uscis-online-forms-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
 We found that sending a one-time text message did not increase the rate of online filing for Permanent Resident Card (“Green Card”) renewal forms relative to sending no text message. Further, a modified text message emphasizing that online filing allows for greater and easier process transparency did not change the rate of online filing relative to the text message used prior to the evaluation.
@@ -27,7 +27,7 @@ We worked with USCIS to develop a modified text message that informed recipients
 
 ## Evaluation design
 The program change was evaluated with a randomized controlled trial between March and August 2023. We randomized 59,288 LPRs into
-three conditions: 1. the control group which did not receive a text message (n=19,854); 2. the status quo group who received the agency’s pre-existing message that read, “Renewing a Green Card is now easier than ever with online filing. To learn more, visit uscis.gov/i-90” (n=19,774); and 3. the modified message group assigned to the newly designed text message reading, “Renewing a Green Card with online filing allows you to track your case status in real time. To learn more, visit uscis.gov/i-90” (n=19,660).
+three conditions: 1. the control group which did not receive a text message (<i>n</i>=19,854); 2. the status quo group who received the agency’s pre-existing message that read, “Renewing a Green Card is now easier than ever with online filing. To learn more, visit uscis.gov/i-90” (<i>n</i>=19,774); and 3. the modified message group assigned to the newly designed text message reading, “Renewing a Green Card with online filing allows you to track your case status in real time. To learn more, visit uscis.gov/i-90” (<i>n</i>=19,660).
 
 Customers were clustered at the phone-number level, and each phone number cluster was randomly assigned to a message group. Enrollment into the evaluation occurred once monthly over the course of five consecutive months. Only customers whose Green Cards were set to expire two months from the enrollment month (e.g., expiring in July if enrolled in May) were included in the sample. As such, all customers in the sample had previously received reminders at six and four months prior to their filing deadline as part of the agency’s usual outreach program.
 
@@ -52,8 +52,7 @@ Indeed, we do find that these groups are much less likely to file online. In our
 The results suggest that sending outreach messages about online services two months before customers’ Green Card expiration dates did not significantly affect online filing rates. This could be due to the phrasing, modality, or timing, or it could be that the behavioral barriers customers face to using online services are too high to be influenced by light-touch methods. Eliminating ineffective outreach could result in savings, given the costs involved with sending text messages. However, our evaluation was limited by a smaller than expected sample size, so further evidence is needed to corroborate these findings. We were able to highlight groups for whom online filing rates lag behind the average customer, suggesting future avenues for more targeted outreach efforts. Future work could also be done to assess the optimal combination of outreach while balancing cost implications.
 
 ## Notes:
-1. U.S. Citizenship and Immigration Services. FYs 2023-2026 Strategic Plan (2022), https://www.uscis.gov/sites/default/files/
-document/reports/StrategicPlanFY23.pdf.
+1. U.S. Citizenship and Immigration Services. FYs 2023-2026 Strategic Plan (2022), https://www.uscis.gov/sites/default/files/document/reports/StrategicPlanFY23.pdf.
 2. Herd, P., & Moynihan, D. P. (2019). Administrative Burden: Policymaking by Other Means. Russell Sage Foundation. https://doi.org/10.7758/9781610448789.
 3. See e.g., Elizabeth Linos, Allen Prohofsky, Aparna Ramesh, Jesse Rothstein, and Matt Unrath. “Can Nudges Increase Take-up of the EITC?,” <i>American Economic Journal: Economic Policy</i>, Volume 14, No. 4, November 2022, Pages 432-452. https://www.aeaweb.org/articles?id=10.1257/pol.20200603; Amy Finkelstein, Matthew J Notowidigdo, Take-Up and Targeting: Experimental Evidence from SNAP, <i>The Quarterly Journal of Economics</i>, Volume 134, Issue 3, August 2019, Pages 1505–1556, https://doi.org/10.1093/qje/qjz013.
 4. Ryan W. Buell, Ethan Porter, Michael I. Norton. Surfacing the submerged State: Operational Transparency Increases Trust in and Engagement with Government. Manufacturing & Service Operations Management, Volume 23, Issue 4, July-August 2021, Pages 745-1004. https://doi.org/10.1287/msom.2020.0877.
