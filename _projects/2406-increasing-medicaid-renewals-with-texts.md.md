@@ -5,7 +5,7 @@ tags:
  - project
 image: /assets/img/project-images/2406.webp 
 image_alt_text: A woman holding her baby and her phone
-image-credit: https://www.pexels.com/photo/anonymous-tourists-showing-us-passports-on-street-on-sunny-day-4353813/
+image-credit: https://www.pexels.com/photo/a-woman-and-child-looking-at-a-cell-phone-27177479/
 analysis-plan: /assets/analysis/2406-increasing-medicaid-renewals-analysis-plan.pdf
 abstract: 
 year: 2024
