@@ -1009,8 +1009,10 @@
             color: #19677f;
             border: none;
             margin: 0;
-            padding: 25px 20px 15px 20px;
+            padding: 25px 25px 15px 25px;
             outline: none;
+            font-size: 18px;
+            font-weight: 700;
             cursor: pointer;
             &.selected {
               background-color: #19677f;
@@ -1021,10 +1023,12 @@
       }
 
       .viz-and-table-container {
-        background-color: lightgray;
+        background-color: #f6f8f9;
         padding: 30px;
         h2 {
           color: #19677f;
+          font-size: 20px;
+          font-weight: 700;
         }
         .viz-and-table {
           background-color: white;
