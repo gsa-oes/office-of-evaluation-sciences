@@ -5,6 +5,7 @@ tags:
   - project
   - cost savings
   - payments
+share_image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.webp
 image_alt_text: Scrabble tiles spelling the word wage
 image-credit: http://www.thebluediamondgallery.com/wooden-tile/w/wage.html

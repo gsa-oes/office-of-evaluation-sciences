@@ -2,6 +2,7 @@
 layout: portfolio
 title: Improving payment integrity
 permalink: /improving-payment-integrity/
+share_image: /assets/img/project-images/improper-payments.jpg
 image: /assets/img/project-images/improper-payments.webp
 image_alt_text: Cash register with money
 hide_image: true

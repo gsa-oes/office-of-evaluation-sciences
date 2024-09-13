@@ -11,6 +11,7 @@ project_tags:
 collaborations_tags: 
   - arp
   - business
+share_image: /assets/img/project-images/othercollabs/2119.png
 image: /assets/img/project-images/othercollabs/2119.jpeg
 academic-pub: /assets/publications/OES-SBA Descriptive Equity Report.pdf
 year: 2021

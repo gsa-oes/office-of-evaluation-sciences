@@ -4,6 +4,7 @@ permalink: /projects/hud-youth-fafsa/
 tags: 
   - project
   - highered
+share_image: /assets/img/project-images/fafsa.jpg
 image: /assets/img/project-images/fafsa.webp
 image_alt_text: Person holding form
 image-credit: https://www.flickr.com/photos/btreenews/

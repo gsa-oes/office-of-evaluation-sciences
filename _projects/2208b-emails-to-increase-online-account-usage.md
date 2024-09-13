@@ -3,6 +3,7 @@ title: Encouraging the use of USCIS online accounts
 permalink: /2208b-emails-to-increase-uscis-online-accounts/
 tags: 
   - project
+share_image: /assets/img/project-images/2208b.png
 image: /assets/img/project-images/2208b.webp
 image_alt_text: Person using a phone
 image-credit: https://www.pexels.com/photo/crop-bearded-man-using-smartphone-in-living-room-7129050/

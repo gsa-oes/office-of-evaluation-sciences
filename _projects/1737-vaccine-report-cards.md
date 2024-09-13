@@ -4,6 +4,7 @@ permalink: /projects/vaccine-report-cards/
 tags:
   - project
   - vaccines
+share_image: /assets/img/project-images/1737.jpg
 image: /assets/img/project-images/1737.webp
 image_alt_text: Doctor applying a vaccine
 image-credit: https://www.flickr.com/photos/pahowho/13383587795

@@ -2,6 +2,7 @@
 title: Increasing satisfaction survey response rate from federal tenants - calendar invite
 permalink: /projects/tenant-satisfaction-survey-calendar-invite/
 tags: project
+share_image: /assets/img/project-images/gsa-tenant1.jpg
 image: /assets/img/project-images/gsa-tenant1.webp
 image_alt_text: Front of building
 image-credit: https://www.gsa.gov/portal/content/163627

@@ -4,6 +4,7 @@ permalink: /projects/increasing-attendance-seattle/
 tags: 
   - project  
   - complete
+share_image: /assets/img/project-images/1809.jpg
 image: /assets/img/project-images/1809.webp
 image_alt_text: Classroom
 image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.webp

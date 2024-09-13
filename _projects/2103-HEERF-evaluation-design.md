@@ -5,6 +5,7 @@ tags:
   - Education
   - highered
   - arp
+share_image: /assets/img/project-images/othercollabs/grad-photo-ed.png
 image: /assets/img/project-images/othercollabs/grad-photo-ed.webp
 image_alt_text: People graduation
 image-credit: https://www.flickr.com/photos/alan-light/7184218434

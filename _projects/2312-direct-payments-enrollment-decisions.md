@@ -4,6 +4,7 @@ permalink: /2312-direct-payments-enrollment-decisions/
 tags: 
   - project
   - arp
+share_image: /assets/img/project-images/2312.png
 image: /assets/img/project-images/2312.webp
 image_alt_text: graduation caps and confetti scattered on a gym floor
 image-credit: https://www.pexels.com/photo/photo-of-graduation-caps-on-wooden-floor-7944120/

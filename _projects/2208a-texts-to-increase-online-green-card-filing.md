@@ -3,6 +3,7 @@ title: Encouraging the use of USCIS’ online forms
 permalink: /2208a-texts-to-increase-online-green-card-filing/
 tags: 
   - project
+share_image: /assets/img/project-images/2208a.png
 image: /assets/img/project-images/2208a.webp
 image_alt_text: Person using a phone
 image-credit: https://www.pexels.com/photo/crop-bearded-man-using-smartphone-in-living-room-7129050/

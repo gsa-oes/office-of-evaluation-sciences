@@ -2,6 +2,7 @@
 layout: page	
 title: Incorporating Costing Information, An Example from ‘Enhancing the Effect of Cash Buyback on Return of Unused Opioid Pills'
 permalink: /blog/1804-costing/	
+share_image: /assets/img/project-images/1804.png
 image: /assets/img/project-images/1804.webp
 image_alt_text: Pill bottle
 hide_image: true

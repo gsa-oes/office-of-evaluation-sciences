@@ -2,6 +2,7 @@
 layout: portfolio
 title: Global health
 permalink: /usaid/
+share_image: /assets/img/project-images/1722.jpg
 image: /assets/img/project-images/1722.webp
 image_alt_text: Nurse administering vaccine
 hide_image: true

@@ -5,6 +5,7 @@ tags:
   - project  
   - business
   - arp
+share_image: /assets/img/project-images/2008-dallas.jpeg
 image: /assets/img/project-images/2008-dallas.jpeg
 image_alt_text: City of Dallas
 image-credit: https://www.flickr.com/photos/texaseagle/3782314675

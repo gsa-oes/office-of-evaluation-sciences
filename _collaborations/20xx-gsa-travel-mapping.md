@@ -2,6 +2,7 @@
 title: Reducing the cost of government travel by encouraging earlier travel booking
 permalink: /collaborations/gsa-travel-mapping/
 tags: collaborations
+share_image: /assets/img/project-images/othercollabs/gsa-travel-image.png
 image: /assets/img/project-images/othercollabs/gsa-travel-image.webp
 visualization: /assets/files/GSA-Travel-Timing-Behavioral-Map.pdf
 year: 2021

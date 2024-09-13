@@ -3,6 +3,7 @@ title: Encouraging active plan choice among LIS beneficiaries
 permalink: /collaborations/plan-d-plan-choice/
 tags:
   - health insurance
+share_image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.png
 image: /assets/img/project-images/othercollabs/plan-d-plan-choice-image.webp
 image_alt_text: Medicare.gov website
 image-credit: https://www.gao.gov/products/GAO-19-627

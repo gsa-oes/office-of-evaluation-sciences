@@ -3,6 +3,7 @@ title: Increasing FAFSA completion among public housing residents - NYCHA
 permalink: /projects/increasing-fafsa-completion-nycha/
 tags:
   - project  
+share_image: /assets/img/project-images/1717.jpg
 image: /assets/img/project-images/1717.webp
 image_alt_text: Graduation with a skyline view
 image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901

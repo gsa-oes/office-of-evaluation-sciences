@@ -3,6 +3,7 @@ title: Improving voter participation in local USDA elections
 permalink: /projects/usda-local-elections/
 tags:
 - project
+share_image: /assets/img/project-images/usda.jpg
 image: /assets/img/project-images/usda.webp
 image_alt_text: Tracktor in field
 image-credit: https://www.flickr.com/photos/usdagov/

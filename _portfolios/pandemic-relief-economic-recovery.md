@@ -2,6 +2,7 @@
 layout: portfolio
 title: Pandemic relief and economic recovery
 permalink: /pandemic-relief-economic-recovery/
+share_image: /assets/img/project-images/covid-19-portfolio-image.jpg
 image: /assets/img/project-images/covid-19-portfolio-image.webp
 image_alt_text: People in the street wearing face masks
 hide_image: true

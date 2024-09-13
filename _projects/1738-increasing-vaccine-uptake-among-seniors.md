@@ -4,6 +4,7 @@ permalink: /projects/increasing-vaccine-uptake-among-seniors/
 tags:
   - project
   - vaccines
+share_image: /assets/img/project-images/1738.jpg
 image: /assets/img/project-images/1738.webp 
 image_alt_text: Doctor and patient
 image-credit: http://www.freestockphotos.biz/stockphoto/15813

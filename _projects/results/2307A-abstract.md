@@ -4,6 +4,7 @@ layout: page
 permalink: /results/income-reporting-mods-single-income/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2307a-form-mods.png
 image: /assets/img/project-images/2307a-form-mods.webp
 image_alt_text: Hands typing on laptop
 summary:
