@@ -24,8 +24,7 @@ Customers may underutilize online tools for a variety of reasons, including a la
 filed case to their account. We evaluated two alternate email messages against the USCIS status quo message to understand which message framings are most effective at encouraging customers to engage with online services. The first message (operational transparency message) focused on the benefits of creating an online account to track one’s case in real time, while the second (social norms message) emphasized that millions of other customers had already signed up for online accounts.
 
 ## How did the evaluation work?
-We randomly assigned 261,398 customers to one of three groups: 1. the status quo group, assigned to receive the USCIS’s existing outreach email (n=86,469); 2. the operational transparency group, assigned to receive the simplified email that emphasized the benefits of using
-online accounts to track one’s case status (n=87,702); and 3. the social norms group, assigned to receive the simplified email that emphasized that many other customers had already signed up for online accounts (n=87,227).
+We randomly assigned 261,398 customers to one of three groups: 1. the status quo group, assigned to receive the USCIS’s existing outreach email (<i>n</i>=86,469); 2. the operational transparency group, assigned to receive the simplified email that emphasized the benefits of using online accounts to track one’s case status (<i>n</i>=87,702); and 3. the social norms group, assigned to receive the simplified email that emphasized that many other customers had already signed up for online accounts (<i>n</i>=87,227).
 
 Customers were clustered at the email address level, and each email was randomly assigned to a message group. New customers were enrolled into the intervention once per month over the course of three months (May, July, and August 2023).
 
