@@ -4,6 +4,7 @@ permalink: /collaborations/state-local-fiscal-recovery-fund/
 tags:
   - arp
   - collaborations
+share_image: /assets/img/project-images/SLFRF-2112D-image.jpg
 image: /assets/img/project-images/othercollabs/SLFRF.webp
 image_alt_text: Open sign shop window
 image-credit: https://live.staticflickr.com/65535/51003730002_a8b56ae158_b.webp

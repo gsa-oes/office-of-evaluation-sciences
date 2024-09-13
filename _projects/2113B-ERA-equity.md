@@ -5,6 +5,7 @@ tags:
  - project
  - arp
  - housing
+share_image: /assets/img/project-images/2113B-image.jpg
 image: /assets/img/project-images/2113B-image.webp
 image_alt_text: Triple decker housing in Cambridge, MA
 image-credit: https://commons.wikimedia.org/wiki/File:Cambridge-3deckers.webp

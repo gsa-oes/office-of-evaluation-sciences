@@ -4,6 +4,7 @@ layout: page
 permalink: /results/decreasing-opt-out-from-benefits-texts/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2209A-image.jpg
 image: /assets/img/project-images/2209A-image.webp  
 image_alt_text: Person holding an iphone
 summary: 

@@ -4,6 +4,7 @@ permalink: /projects/irs-uninsured/
 tags: 
   - project  
   - health insurance
+share_image: /assets/img/project-images/1711-image.jpeg
 image: /assets/img/project-images/1711-image.jpeg
 image_alt_text: Health insurance
 image-credit: https://plex.page/Quality_Health_Insurance

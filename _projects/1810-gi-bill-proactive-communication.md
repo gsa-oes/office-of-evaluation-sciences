@@ -4,6 +4,7 @@ permalink: /projects/gi-bill-proactive-communication/
 tags: 
   - project  
   - highered
+share_image: /assets/img/project-images/1810-graph.jpg
 image: /assets/img/project-images/1810.webp
 image-credit: U.S. Army photo by Nell King
 image_alt_text: U.S. Army Photo

@@ -2,6 +2,7 @@
 layout: portfolio
 title: Housing
 permalink: /housing/
+share_image: /assets/img/project-images/2305-img.jpg
 image: /assets/img/project-images/2305-img.webp
 image_alt_text: key in door
 hide_image: true

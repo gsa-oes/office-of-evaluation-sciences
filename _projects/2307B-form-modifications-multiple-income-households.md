@@ -3,6 +3,7 @@ title:  Evaluating form modifications to make it easier for multiple income hous
 permalink: /projects/2307B-form-modifications-multiple-income-households/
 tags: 
  - project
+share_image: /assets/img/project-images/2307B-image.png
 image: /assets/img/project-images/2307B-image.webp 
 image_alt_text: A person using a calculator
 image-credit: https://www.pexels.com/photo/a-person-sitting-a-wooden-table-with-a-notepad-and-laptop-using-a-calculator-6963847/

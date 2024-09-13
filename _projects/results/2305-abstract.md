@@ -4,6 +4,7 @@ layout: page
 permalink: /results/streamlining-income-verification-to-broaden-access-to-rental-assistance/
 tags:
   - abstract
+share_image: /assets/img/project-images/2305-img.jpg
 image: /assets/img/project-images/2305-img.webp
 image-credit: https://www.pexels.com/photo/black-handled-key-on-key-hole-101808/
 summary: 

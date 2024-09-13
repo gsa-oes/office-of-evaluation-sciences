@@ -4,6 +4,7 @@ permalink: /projects/learning-center-enrollment/
 tags: 
   - project
   - business
+share_image: /assets/img/project-images/sba.jpg
 image: /assets/img/project-images/sba.webp
 image_alt_text: People sitting in front of PC
 image-credit: https://www.flickr.com/photos/seattlecommunitytech/

@@ -5,6 +5,7 @@ tags:
   - business
   - arp
   - project
+share_image: /assets/img/project-images/othercollabs/sb-equity-image.png
 image: /assets/img/project-images/othercollabs/sb-equity-image.webp
 image_alt_text: Front of shops in a street
 image-credit: https://insidesources.com/wp-content/uploads/2020/09/rural-business-300x300.webp

@@ -2,6 +2,7 @@
 title: Improving capacity of federal managers through project management
 permalink: /projects/project-management/
 tags: project
+share_image: /assets/img/project-images/project-management-2.png
 image: /assets/img/project-images/project-management-2.webp
 image_alt_text: Diagram for great managers
 image-credit: https://www.forbes.com/sites/meghancasserly/2013/07/17/google-management-is-evil-harvard-study-startups/#1e9b47e95ddb

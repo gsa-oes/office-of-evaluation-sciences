@@ -4,6 +4,7 @@ permalink: /projects/students-at-risk/
 tags: 
   - project
   - highered
+share_image: /assets/img/project-images/1706.jpg
 image: /assets/img/project-images/1706.webp
 image_alt_text: Students hugging
 image-credit: https://flic.kr/p/URogRg

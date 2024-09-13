@@ -3,6 +3,7 @@ title: Measuring the downstream health effects of SSI take-up among older adults
 permalink: /projects/ssi-health-effects/
 tags: 
   - project
+share_image: /assets/img/project-images/2205-image.jpg
 image: /assets/img/project-images/2205-image.webp
 image_alt_text: People sitting on a bench outside
 image-credit: https://unsplash.com/photos/78hTqvjYMS4

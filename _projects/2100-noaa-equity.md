@@ -4,6 +4,7 @@ permalink: /collaborations/noaa-equity-assessment/
 tags:
   - resources
   - climate
+share_image: /assets/img/project-images/othercollabs/noaa.png
 image: /assets/img/project-images/othercollabs/noaa.webp
 image_alt_text: Skyline view of city
 image-credit: https://photolib.noaa.gov/Collections/Americas-Coastline/West-Coast/emodule/855/eitem/39949

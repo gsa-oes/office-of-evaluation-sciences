@@ -2,6 +2,7 @@
 layout: page
 title: Using evidence to encourage patients’ and providers’ to engage in health information technology
 permalink: /blog/health-it-technology/
+share_image: /assets/img/project-images/1729-2-graph.jpg
 image: /assets/img/project-images/1729.webp
 image_alt_text: People using a laptop
 hide_image: true

@@ -4,6 +4,7 @@ permalink: /projects/2209B-increasing-access-to-childcare-grants/
 tags:
  - project
  - arp
+share_image: /assets/img/project-images/2209B-image.jpg
 image: /assets/img/project-images/2209B-image.webp  
 image_alt_text: Children playing in a classroom
 image-credit: https://www.rawpixel.com/image/8708691

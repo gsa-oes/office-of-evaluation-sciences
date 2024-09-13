@@ -4,6 +4,7 @@ layout: page
 permalink: /results/decreasing-snap-denials/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2310-snap.png
 image: /assets/img/project-images/2310-snap.webp
 image_alt_text: Sign that says we welcome SNAP benefits
 summary: 

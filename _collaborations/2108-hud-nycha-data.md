@@ -3,6 +3,7 @@ title:  Using large-scale data to monitor conditions in New York City public hou
 permalink: /collaborations/nycha-data/
 tags: 
   - collaborations
+share_image: /assets/img/project-images/othercollabs/2108.png
 image: /assets/img/project-images/othercollabs/2108.jpeg  
 image-credit: https://www1.nyc.gov/site/nycha/about/leadership.page 
 academic-pub: /assets/publications/2108_nycha_data.pdf

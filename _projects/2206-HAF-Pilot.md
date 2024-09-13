@@ -5,6 +5,7 @@ tags:
   - project
   - arp
   - housing
+share_image: /assets/img/project-images/2206-image.jpg
 image: /assets/img/project-images/2206-image.webp
 image_alt_text: Arial view of a neighborhood in Milwaukee, WI
 image-credit: https://unsplash.com/photos/7DziDCBnhiE

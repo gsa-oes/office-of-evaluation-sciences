@@ -2,6 +2,7 @@
 layout: portfolio
 title: Higher education
 permalink: /highereducation/
+share_image: /assets/img/project-images/1717.jpg
 image: /assets/img/project-images/1717.webp  
 image_alt_text: Graduates pointing in the distance
 hide_image: true

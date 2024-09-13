@@ -4,6 +4,7 @@ permalink: /projects/health-insurance-enrollment-2/
 tags: 
   - project
   - health insurance
+share_image: /assets/img/project-images/enrollment2.jpg
 image: /assets/img/project-images/enrollment2.webp
 image_alt_text: People interacting with laptop
 image-credit: https://www.flickr.com/photos/dmc_heals/

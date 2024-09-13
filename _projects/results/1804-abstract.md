@@ -4,6 +4,7 @@ layout: page
 permalink: /results/opioid-buyback/
 tags: 
   - abstract
+share_image: /assets/img/project-images/1804.png
 image: /assets/img/project-images/1804.webp
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.webp
 summary: Reminder cards increased the return of unused prescription opioids

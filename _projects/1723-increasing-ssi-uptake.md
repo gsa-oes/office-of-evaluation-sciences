@@ -4,6 +4,7 @@ permalink: /projects/increasing-ssi-uptake/
 tags:
   - project
   - retirement 
+share_image: /assets/img/project-images/1723.jpg
 image: /assets/img/project-images/1723.webp  
 image_alt_text: People sitting on bench with ocean in background
 image-credit: https://pixabay.com/photo-3113574/

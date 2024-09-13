@@ -4,6 +4,7 @@ permalink: /projects/1901-ahs-incentives-evaluation/
 tags: 
   - project
   - housing
+share_image: /assets/img/project-images/1901-nrb.jpg
 image: /assets/img/project-images/1901-nrb.webp
 image_alt_text: Buildings in New York City
 image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.webp

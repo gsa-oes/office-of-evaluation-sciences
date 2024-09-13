@@ -4,6 +4,7 @@ permalink: /projects/health-insurance-enrollment-1/
 tags: 
   - project
   - health insurance
+share_image: /assets/img/project-images/healthcare-gov.png
 image: /assets/img/project-images/healthcare-gov.PNG
 image_alt_text: Healthcare gov website
 image-credit: https://www.healthcare.gov/

@@ -4,6 +4,7 @@ permalink: /projects/increasing-art-adherence/
 tags:
   - project
   - USAID
+share_image: /assets/img/project-images/1722.jpg
 image: /assets/img/project-images/1722.webp  
 image_alt_text: Doctor applying a vaccine
 image-credit: https://www.cdc.gov/globalhealth/countries/ethiopia/images/ethiopia_bloodwork.webp

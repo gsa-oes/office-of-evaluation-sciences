@@ -4,6 +4,7 @@ permalink: /projects/reducing-summer-melt/
 tags: 
   - project
   - highered
+share_image: /assets/img/project-images/summer-melt.jpg
 image: /assets/img/project-images/summer-melt.webp
 image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/jenumfamily

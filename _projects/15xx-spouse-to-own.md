@@ -4,6 +4,7 @@ permalink: /collaborations/spouse-to-own/
 tags:
   - retirement
   - project
+share_image: /assets/img/project-images/image-spouse-to-own.jpg
 image: /assets/img/project-images/image-spouse-to-own.webp
 image_alt_text: Women hiking in a field
 image-credit: https://blog.ssa.gov/why-social-security-retirement-is-important-to-woman/ 
