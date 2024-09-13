@@ -31,6 +31,6 @@ To help overcome these barriers, the Toolkit then provides useful evidence-based
 
 ![image]({{site.baseurl}}/assets/img/project-images/othercollabs/census-data-handout.webp)	
 
-We hope the Community Outreach Toolkit can provide tangible tips and guidance for anyone working to ensure an accurate count in 2020! To learn more about the 2020 Census, please visit <a href="https://2020census.gov/" target="_blank">2020census.gov</a>. 	
+We hope the Community Outreach Toolkit can provide tangible tips and guidance for anyone working to ensure an accurate count in 2020! To learn more about the 2020 Census, please visit <a href="https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-main.html" target="_blank">census.gov</a>. 	
 
-Read the full toolkit <a href="/assets/publications/census-community-outreach-toolkit.pdf" target="_blank">here</a>.
+Read the <a href="/assets/publications/census-community-outreach-toolkit.pdf" target="_blank">full toolkit</a>.

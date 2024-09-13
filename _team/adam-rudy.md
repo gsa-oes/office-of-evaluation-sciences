@@ -4,6 +4,7 @@ image: /assets/img/team/adam-rudy.webp
 year:
   - 2022
   - 2023
+  - 2024
 status: Current
 home: Government
 title: Program Manager, Talent

@@ -4,11 +4,12 @@ image: /assets/img/team/shibeal-oflaherty.webp
 year:
   - 2022
   - 2023
+  - 2024
 home: Government
 agency:
   - Treasury
   - Health and Human Services
-title: Associate Fellow
+title: Evaluator
 status: Current
 ---
 Shibeal O’ Flaherty is an Associate Fellow at the Office of Evaluation Sciences. She is also a Research Fellow at the Harvard Kennedy School and a final year PhD candidate in Public Policy at King’s College London. Her research focuses on designing and implementing behaviourally-informed interventions to improve welfare across a range of policy areas, for example improving workplace wellbeing, increasing access to benefits and programs, and nudging sustainable behaviours. She has designed and conducted multiple field experiments with partners ranging from UK local authorities to US cities and private organizations. 

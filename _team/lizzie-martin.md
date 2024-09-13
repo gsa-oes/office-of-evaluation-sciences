@@ -4,12 +4,13 @@ image: /assets/img/team/lizzie-martin.webp
 year:
   - 2022
   - 2023
+  - 2024
 agency:
   - Office of Management and Budget
   - Health and Human Services
   - Veterans Affairs
 home: Government
-title: Program Manager
+title: Senior Program Manager
 status: Current
 ---
 
