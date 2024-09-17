@@ -9,10 +9,10 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:url" content="{{ page.permalink | replace:'index.html','' | prepend: site.url }}">
   <meta name="twitter:card" content="summary_large_image">
-  {% if site.feature_image %}<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.feature_image }}">{% endif %}
-  {% if site.feature_image %}<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.feature_image }}">{% endif %}
+  {% if site.feature_image %}<meta property="og:image" content="{{ site.url }}{{ site.feature_image }}">{% endif %}
+  {% if site.feature_image %}<meta name="twitter:image" content="{{ site.url }}{{ site.feature_image }}">{% endif %}
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
