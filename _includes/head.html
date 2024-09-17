@@ -23,7 +23,7 @@
   <meta name="twitter:site" content="@OESatGSA" />
     
   {% capture page_image -%}
-    {{- site.url -}}{{- page.share_image or site.filterable or '/assets/img/logos/oes-logo.png' -}}
+    {{- site.url -}}{{- page.share_image or site.feature_image or '/assets/img/logos/oes-logo.png' -}}
   {%- endcapture -%}
   <meta property="og:image" content="{{ page_image }}" />
   <meta name="twitter:image" content="{{ page_image }}" />
