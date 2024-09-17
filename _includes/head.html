@@ -3,18 +3,30 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% capture page_title -%}
+    {%- if page.title -%}{{- page.title }} | {{ site.title -}}{% else %}{{- site.title -}}{%- endif -%}
+  {%- endcapture -%}
+  <title>{{ page_title }}</title>
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta name="twitter:title" content="{{ page_title }}" />
+
+  {% capture page_description -%}
+    {%- if page.excerpt -%}{{- page.excerpt | strip_html | newline_to_br | replace:'<br />','. ' | strip_newlines |truncate: 160 -}}{% else %}{{- site.description -}}{%- endif -%}
+  {%- endcapture -%}
+  <meta name="description" content="{{- page_description -}}" />
+  <meta property="og:description" content="{{- page_description -}}" />
+  <meta name="twitter:description" content="{{- page_description -}}" />
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.permalink | replace:'index.html','' | prepend: site.url }}">
   <meta name="twitter:card" content="summary_large_image">
-  {% if site.feature_image %}<meta property="og:image" content="{{ site.url }}{{ site.feature_image }}">{% endif %}
-  {% if site.feature_image %}<meta name="twitter:image" content="{{ site.url }}{{ site.feature_image }}">{% endif %}
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:site" content="@OESatGSA" />
+    
+  {% capture page_image -%}
+    {{- site.url -}}{{- page.share_image or site.filterable or '/assets/img/logos/oes-logo.png' -}}
+  {%- endcapture -%}
+  <meta property="og:image" content="{{ page_image }}" />
+  <meta name="twitter:image" content="{{ page_image }}" />
 
   <link rel="stylesheet" href="{{ '/assets/css/uswds-theme.css' | prepend: site.baseurl }}" media="screen">
 
@@ -29,45 +41,6 @@
       window.location = window.location.href.replace('www.', '');
     }
     </script>
-  
-  <!-- Twitter Site -->
-<meta name="twitter:site" content="@OESatGSA" />
-  
-  <!-- Description -->
-{% if page.excerpt %}
-  <meta name="description" content="{{ page.excerpt | xml_escape }}">
-  <meta property="og:description" content="{{ page.excerpt | xml_escape }}" />
-  <meta property="twitter:description" content="{{ page.excerpt | xml_escape }}" />
-{% else %}
-  <meta name="description" content="{{ site.description | xml_escape }}">
-  <meta property="og:description" content="{{ site.description | xml_escape }}" />
-  <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
-{% endif %}
-
-  <!-- Image -->
-{% if page.share_image %}
- <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="image_src" href="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
-  <meta name="image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
-  <meta property="og:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png" />
-  <meta name="twitter:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
-
-{% if page.share_image %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.share_image }}" />
-{% else %}
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/logos/oes-logo.png" />
-{% endif %}
-
-
-{% if page.share_image_accessibility %}
-    <meta name="twitter:image:alt" content="{{ page.share_image_accessibility }}">
-  {% endif %}
-{% else %}
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
-  <meta property="og:image" content="{{ site.baseurl }}/assets/img/logos/oes-logo.png">
-{% endif %}
 
 
   
