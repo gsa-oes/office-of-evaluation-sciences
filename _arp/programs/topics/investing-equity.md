@@ -3,6 +3,7 @@ layout: arp_program_topic
 permalink: /arp/programs/topics/investing-equity
 title: "Topic: Investing in equity and opportunity for our children and young adults | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Investing in equity and opportunity for our children and young adults
+order: 4
 image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Placeholder Child Care Stabilization

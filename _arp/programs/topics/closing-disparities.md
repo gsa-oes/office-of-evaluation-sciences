@@ -3,6 +3,7 @@ layout: arp_program_topic
 permalink: /arp/programs/topics/closing-disparities
 title: "Topic: Closing health disparities | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Closing health disparities
+order: 5
 image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Placeholder Child Care Stabilization

@@ -3,6 +3,7 @@ layout: arp_program_topic
 permalink: /arp/programs/topics/ensuring-equitable
 title: "Topic: Ensuring an equitable recovery for all communities and small businesses | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Ensuring an equitable recovery for all communities and small businesses
+order: 2
 image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Child Care Stabilization

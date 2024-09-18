@@ -3,6 +3,7 @@ layout: arp_program_topic
 permalink: /arp/programs/topics/lowering-barriers
 title: "Topic: Lowering barriers to work and providing security to working families | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Lowering barriers to work and providing security to working families
+order: 1
 image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Placeholder Child Care Stabilization

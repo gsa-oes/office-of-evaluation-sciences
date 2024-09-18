@@ -6,7 +6,9 @@ title: Home | American Rescue Plan National Evaluation | Office of Evaluation Sc
 
 <div class="reports-container">
 
-    <div class="report-item">
+    <p>Coming soon!</p>
+
+    <!-- <div class="report-item">
         <img src="{{ site.baseurl }}/assets/img/arp/placeholder.png" alt="placeholder image">
         <div class="report-content">
             <a href="#" class="report-title">Report name</a>
@@ -29,6 +31,6 @@ title: Home | American Rescue Plan National Evaluation | Office of Evaluation Sc
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis sem euismod nunc laoreet consequat et non lectus. Cras blandit quis nisl non malesuada. Suspendisse fermentum, nulla ac congue consequat, lectus turpis volutpat nibh, at placerat lacus dolor quis purus.
         </p>
-    </div>
+    </div> -->
 
 </div>

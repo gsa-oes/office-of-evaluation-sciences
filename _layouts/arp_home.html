@@ -8,16 +8,17 @@ layout: arp_base
     <div class="grid-container" style="display: flex">
       <div class="arp-hero-callout">
         <h1>
-          Equitable recovery:<br />A look at 32 American Rescue Plan programs
+          Interagency pandemic relief and recovery: A look at 32 American Rescue
+          Plan programs
         </h1>
         <p>
           The ARP National Evaluation provides information about the 32 programs
-          that were included in the Advancing Equity Through the ARP report,
-          including evidence of programs’ effectiveness and approaches used to
-          advance equity.
+          that were included in the 2022 White House Advancing Equity Through
+          the ARP report.
         </p>
         <a
-          href="url"
+          href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf"
+          target="_blank"
           style="
             color: #074b69;
             border-radius: 5px;
@@ -27,15 +28,18 @@ layout: arp_base
             font-weight: bold;
             font-size: 17px;
             display: inline-block;
+            margin: 35px 0 0 0;
           "
           >READ THE REPORT ON ADVANCING EQUITY THROUGH THE ARP</a
         >
       </div>
       <div class="arp-hero-callout right-callout">
         <p>
-          This evaluation is being conducted by the American Institutes for
-          Research, with Abt Associates and Decision Information Resources and
-          oversight from OES and the OMB’s Evidence Team.
+          This work is being conducted by the American Institutes for Research
+          with Abt Associates and Decision Information Resources. It is overseen
+          through a partnership between the Office of Management and Budget
+          (OMB) Evidence Team and the General Services Administration (GSA)
+          Office of Evaluation Sciences (OES).
         </p>
       </div>
     </div>
@@ -61,10 +65,13 @@ layout: arp_base
           />
           <div>
             <p>
-              Explore findings from the environmental scan that described
-              program planning, implementation, data availability, and existing
-              evidence for the 32 programs that were highlighted in the
-              <a href="" style="text-decoration: none"
+              Explore ﬁndings from an environmental scan of program planning,
+              implementation, data availability, and existing evidence for the
+              32 programs that were highlighted in the
+              <a
+                href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf"
+                target="_blank"
+                style="text-decoration: none"
                 >Advancing Equity Through the ARP</a
               >
               report.
@@ -88,10 +95,10 @@ layout: arp_base
           />
           <div>
             <p>
-              Learn about the studies that the study team is carrying out,
-              including cross-cutting studies of programs with overlapping
-              recipients, outcomes, and approaches and program-specific analyses
-              that fill high-priority evidence gaps.
+              Learn about the studies that the ARP National Evaluation study
+              team is carrying out, including cross-cutting studies of programs
+              with overlapping recipients, outcomes, and approaches and
+              program-specific analyses that ﬁll high-priority evidence gaps.
             </p>
             <p>
               <a href="{{ site.baseurl }}/arp/studies" class="learn-more-anchor"
@@ -119,24 +126,24 @@ layout: arp_base
         Topic areas
       </h1>
       {% assign topics = site.arp | where_exp: "item", "item.permalink contains
-      'programs/topics'" %}
+      'programs/topics'" | sort: "order" %}
       <div class="arp-grid-container">
         {% for topic in topics %}
         <a class="grid-item" href="{{ topic.url }}">
           <img
             src="{{ site.baseurl }}{{topic.image_path }}"
-            alt="{{ topic.data.title }} image"
+            alt="Topic image for {{ topic.display_title }}"
           />
           <div class="grid-item-texts">
             <p class="grid-item-description-text">
-              {{ topic.title | default: 'No description available' }}
+              {{ topic.display_title | default: 'No description available' }}
             </p>
             <p>
               <span class="grid-item-read-more">Read more</span>
               <span>
                 <img
                   src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
-                  alt="right arrow"
+                  alt="right arrow graphic icon"
                 />
               </span>
             </p>
@@ -148,7 +155,7 @@ layout: arp_base
   </section>
   <section class="recent-news">
     <div class="grid-container">
-      <h1 style="margin: 0 0 40px 0">Recent news and publications</h1>
+      <h1 style="margin: 0 0 40px 0">Recent news</h1>
       {{content}}
     </div>
   </section>
