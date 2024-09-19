@@ -2,6 +2,7 @@
 layout: arp_base
 permalink: /arp/programs/
 title: Overview of programs and evidence | American Rescue Plan National Evaluation | Office of Evaluation Sciences
+update_date: 09/19/2024
 ---
 
 <div class="arp-page arp-programs programs-and-studies">
@@ -11,16 +12,21 @@ title: Overview of programs and evidence | American Rescue Plan National Evaluat
       <div class="programs-intro">
         <div style="color: #414042">
           <p>
-            The evaluation team collected information to describe program
-            planning, implementation, data availability, and existing
-            evaluations for the 32 programs that were highlighted in the
-            Advancing Equity Through the ARP report. They did so through three
-            activities—consultations, a review of documents, and a review of
-            measures and data sources.
+            The evaluation team collected information on program planning,
+            implementation, data availability, and existing evaluations for the
+            32 programs that were highlighted in the
+            <a
+              href="https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf"
+              target="_blank"
+            >
+              Advancing Equity Through the ARP report </a
+            >. They did so through three activities: consultations with program
+            experts, a review of documents, and a review of measures and data
+            sources.
           </p>
           <p>
-            Specifically, this scan captured available information about
-            programs:
+            Specifically, this scan captured available information about each
+            program&rsquo;s:
           </p>
           <ul>
             <li>Reach to the intended population</li>
@@ -30,12 +36,11 @@ title: Overview of programs and evidence | American Rescue Plan National Evaluat
             </li>
             <li>
               Implementation status, consistency, costs, adaptations made during
-              delivery, and to what extent the program was implemented as
-              intended
+              delivery, and to what extent program was implemented as intended
             </li>
             <li>
               Maintenance/sustainment of intervention effects on individuals and
-              settings across time
+              setting across time
             </li>
           </ul>
           <p style="border-left: 7px solid #f2c446; padding: 0 0 0 20px">
@@ -78,14 +83,13 @@ title: Overview of programs and evidence | American Rescue Plan National Evaluat
       </div>
 
       <div>
-        <h2 class="grid-heading">
-          Learn about each of the programs that were examined by topic area:
-        </h2>
+        <h2 class="grid-heading">Learn about programs by topic area:</h2>
         <div class="arp-grid-container">
           {% assign topics = site.arp | where_exp: "item", "item.permalink
-          contains 'programs/topics'" %} {% for topic in topics %}
-          <a class="grid-item" href="{{ topic.url }}"
-            ><img
+          contains 'programs/topics'" | sort: "order" %} {% for topic in topics
+          %}
+          <a class="grid-item" href="{{ topic.url }}">
+            <img
               src="{{ site.baseurl }}{{ topic.image_path }}"
               alt="{{ topic.data.title }} image"
             />
@@ -95,11 +99,12 @@ title: Overview of programs and evidence | American Rescue Plan National Evaluat
               </p>
               <p>
                 <span class="grid-item-read-more">Read more</span>
-                <span
-                  ><img
+                <span>
+                  <img
                     src="{{ site.baseurl }}/assets/img/arp/right-arrow.svg"
                     alt="right arrow"
-                /></span>
+                  />
+                </span>
               </p>
             </div>
           </a>
@@ -107,9 +112,7 @@ title: Overview of programs and evidence | American Rescue Plan National Evaluat
         </div>
       </div>
 
-      <p class="page-update-date">
-        Webpage updated on {{ site.time | date: "%m/%d/%Y" }}
-      </p>
+      <p class="page-update-date">Webpage updated on {{ page.update_date }}</p>
     </div>
   </div>
 </div>

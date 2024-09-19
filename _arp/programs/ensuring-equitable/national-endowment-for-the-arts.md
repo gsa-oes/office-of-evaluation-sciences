@@ -1,8 +1,8 @@
 ---
 layout: arp_program
-permalink: /arp/programs/earned-income-tax-credit-workers-without-dependent-children
-title: "Program: The Earned Income Tax Credit for Workers without Dependent Children | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
-display_title: The Earned Income Tax Credit for Workers without Dependent Children
+permalink: /arp/programs/ensuring-equitable/national-endowment-for-the-arts
+title: "Program: National Endowment for the Arts | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: National Endowment for the Arts
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:
@@ -57,6 +57,7 @@ documents:
       link: url
     - name: Report 2
       link: url
+update_date: 09/19/2024
 ---
 
 Description: insert descripOon from Appendix B (includes text/content, but not necessarily the way it will be organized and displayed on the page).

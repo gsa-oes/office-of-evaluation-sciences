@@ -4,4 +4,5 @@ layout: arp_study
 title: "Study: How state spending on Medicaid home and community-based services affected equitable access to services | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: How state spending on Medicaid home and community-based services affected equitable access to services
 type: Program-specific analyses
+update_date: 09/19/2024
 ---

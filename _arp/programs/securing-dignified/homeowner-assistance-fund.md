@@ -1,8 +1,8 @@
 ---
 layout: arp_program
-permalink: /arp/programs/child-care-stabilization
-title: "Program: Child Care Stabilization | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
-display_title: Child Care Stabilization
+permalink: /arp/programs/securing-dignified/homeowner-assistance-fund
+title: "Program: Homeowner Assistance Fund | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Homeowner Assistance Fund
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:
@@ -57,6 +57,7 @@ documents:
       link: url
     - name: Report 2
       link: url
+update_date: 09/19/2024
 ---
 
 Description: insert descripOon from Appendix B (includes text/content, but not necessarily the way it will be organized and displayed on the page).

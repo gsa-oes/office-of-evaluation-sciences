@@ -6,21 +6,22 @@ display_title: Investing in equity and opportunity for our children and young ad
 order: 4
 image_path: /assets/img/arp/placeholder.png
 programs:
-  - display_title: Placeholder Child Care Stabilization
+  - display_title: Individuals with Disabilities Education Act
     image_path: placeholder.png
-    link: /arp/programs/child-care-stabilization
-  - display_title: Placeholder Enhancements of the Child Tax Credit
+    link: /arp/programs/investing-equity/individuals-with-disabilities-education-act
+  - display_title: Higher Education Emergency Relief Fund
     image_path: placeholder.png
-    link: /arp/programs/enhancements-of-the-child-tax-credit
-  - display_title: Placeholder COVID-19 Funeral Assistance
+    link: /arp/programs/investing-equity/higher-education-emergency-relief-fund
+  - display_title: Elementary and Secondary School Emergency Relief Fund
     image_path: placeholder.png
-    link: /arp/programs/covid-19-funeral-assistance
+    link: /arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund
+  - display_title: Investments in AmeriCorps
+    image_path: placeholder.png
+    link: /arp/programs/investing-equity/investments-in-americorps
+  - display_title: Extension and Expansion of Pandemic Electronic Benefit Transfer
+    image_path: placeholder.png
+    link: /arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer
+update_date: 09/19/2024
 ---
 
-Placeholder these programs provided families and individuals with support to get back on their
-feet when faced with the financial shocks and uncertainty presented by COVID-19.
-They made investments directly in individuals and families, by providing enhanced tax
-credits and expanding eligibility and by modernizing unemployment insurance to
-ensure that equity is a core consideraOon of design and performance in the future.
-The programs also made significant investments to increase access to quality,
-dependable, and affordable child care.
+Given the impact of lost instructional time or disenrollment from an institution of higher education on learning and economic opportunity outcomes, these programs aimed to get children back to school as quickly and safely as possible. The programs focused on working with state and local education agencies and institutions of higher education to support their efforts to get students back to school and provide necessary supports that could accommodate each school’s, child’s, or young adult’s unique needs, particularly in the absence of in-person education.

@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/enhancements-of-the-child-tax-credit
+permalink: /arp/programs/lowering-barriers/enhancements-of-the-child-tax-credit
 title: "Program: Enhancements of the Child Tax Credit | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Enhancements of the Child Tax Credit
 image_path: /assets/img/arp/placeholder.png
@@ -57,6 +57,7 @@ documents:
       link: url
     - name: Report 2
       link: url
+update_date: 09/19/2024
 ---
 
 Description: insert descripOon from Appendix B (includes text/content, but not necessarily the way it will be organized and displayed on the page).

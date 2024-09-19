@@ -1,8 +1,8 @@
 ---
 layout: arp_program
-permalink: /arp/programs/covid-19-funeral-assistance
-title: "Program: COVID-19 Funeral Assistance | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
-display_title: COVID-19 Funeral Assistance
+permalink: /arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund
+title: "Program: Elementary and Secondary School Emergency Relief Fund | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
+display_title: Elementary and Secondary School Emergency Relief Fund
 image_path: /assets/img/arp/placeholder.png
 topic_area: TOPIC AREA LABEL GOES HERE
 program_info:
@@ -57,6 +57,7 @@ documents:
       link: url
     - name: Report 2
       link: url
+update_date: 09/19/2024
 ---
 
 Description: insert descripOon from Appendix B (includes text/content, but not necessarily the way it will be organized and displayed on the page).

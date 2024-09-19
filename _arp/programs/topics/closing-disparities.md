@@ -6,27 +6,28 @@ display_title: Closing health disparities
 order: 5
 image_path: /assets/img/arp/placeholder.png
 programs:
-  - display_title: Placeholder Child Care Stabilization
+  - display_title: Family Violence Prevention and Services Program
     image_path: placeholder.png
-    link: /arp/programs/child-care-stabilization
-  - display_title: Placeholder Enhancements of the Child Tax Credit
+    link: /arp/programs/closing-disparities/family-violence-prevention-and-services-program
+  - display_title: Medicaid and Children's Health Insurance Program Coverage for Pregnant and Postpartum Individuals
     image_path: placeholder.png
-    link: /arp/programs/enhancements-of-the-child-tax-credit
-  - display_title: Placeholder COVID-19 Funeral Assistance
+    link: /arp/programs/closing-disparities/medicaid-and-childrens-health-insurance-program-coverage-for-pregnant-and-postpartum-individuals
+  - display_title: Prevention and Treatment of Substance Abuse
     image_path: placeholder.png
-    link: /arp/programs/covid-19-funeral-assistance
-  - display_title: Placeholder Unemployment Insurance
+    link: /arp/programs/closing-disparities/prevention-and-treatment-of-substance-abuse
+  - display_title: Community-Based Mobile Crisis Intervention
     image_path: placeholder.png
-    link: /arp/programs/unemployment-insurance
-  - display_title: Placeholder The Earned Income Tax Credit for Workers without Dependent Children
+    link: /arp/programs/closing-disparities/community-based-mobile-crisis-intervention
+  - display_title: Special Supplemental Nutrition Program for Women, Infants, and Children Modernization
     image_path: placeholder.png
-    link: /arp/programs/earned-income-tax-credit-workers-without-dependent-children
+    link: /arp/programs/closing-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization
+  - display_title: Health Insurance Premium Tax Credit
+    image_path: placeholder.png
+    link: /arp/programs/closing-disparities/health-insurance-premium-tax-credit
+  - display_title: Increase in Access to Home and Community-Based Services
+    image_path: placeholder.png
+    link: /arp/programs/closing-disparities/increase-in-access-to-home-and-community-based-services
+update_date: 09/19/2024
 ---
 
-Placeholder these programs provided families and individuals with support to get back on their
-feet when faced with the financial shocks and uncertainty presented by COVID-19.
-They made investments directly in individuals and families, by providing enhanced tax
-credits and expanding eligibility and by modernizing unemployment insurance to
-ensure that equity is a core consideraOon of design and performance in the future.
-The programs also made significant investments to increase access to quality,
-dependable, and affordable child care.
+These programs help support and strengthen services that were part of the existing public health infrastructure. This included funding to significantly reduce the cost of health insurance and increase enrollment for families and individuals with low-incomes, increase access to evidenced-based programs to improve health outcomes and decrease disparities across race and socioeconomic status for new mothers, and improve availability of home and community-based services and mobile crisis response systems.
