@@ -1,12 +1,12 @@
 menu_items:
-  - title: "About"
-    url: "/arp/about/"
-  - title: "Programs and evidence"
+  - title: About
+    url: /arp/about/
+  - title: Programs and evidence
     submenu:
-      - title: "All programs"
-        url: "/arp/programs/"
-      - title: "Lowering barriers to work and providing security to working families"
-        url: "/arp/programs/topics/lowering-barriers"
+      - title: All programs
+        url: /arp/programs/
+      - title: Lowering barriers to work and providing security to working families
+        url: /arp/programs/topics/lowering-barriers
         submenu:
           - title: Permanent Expansion of Tax Relief to Puerto Rico Families
             url: /arp/programs/lowering-barriers/permanent-expansion-of-tax-relief-to-puerto-rico-families
@@ -18,73 +18,73 @@ menu_items:
             url: /arp/programs/lowering-barriers/child-care-stabilization
           - title: Enhancements of the Child Tax Credit
             url: /arp/programs/lowering-barriers/enhancements-of-the-child-tax-credit
-      - title: "Ensuring an equitable recovery for all communities and small businesses"
-        url: "/arp/programs/topics/ensuring-equitable"
+      - title: Ensuring an equitable recovery for all communities and small businesses
+        url: /arp/programs/topics/ensuring-equitable
         submenu:
-          - title: "Community Navigator Pilot Program"
-            url: "/arp/programs/ensuring-equitable/community-navigator-pilot-program"
-          - title: "Coronavirus State and Local Fiscal Recovery Funds"
-            url: "/arp/programs/ensuring-equitable/coronavirus-state-and-local-fiscal-recovery-funds"
-          - title: "Paycheck Protection Program"
-            url: "/arp/programs/ensuring-equitable/paycheck-protection-program"
-          - title: "USDA Assistance and Support for Farmers, Ranchers, Forest Landowners, Operators, and Groups"
-            url: "/arp/programs/ensuring-equitable/usda-assistance-and-support"
-          - title: "Economic Adjustment Assistance"
-            url: "/arp/programs/ensuring-equitable/economic-adjustment-assistance"
-          - title: "State Small Business Credit Initiative"
-            url: "/arp/programs/ensuring-equitable/state-small-business-credit-initiative"
-          - title: "Restaurant Revitalization Fund"
-            url: "/arp/programs/ensuring-equitable/restaurant-revitalization-fund"
-          - title: "National Endowment for the Arts"
-            url: "/arp/programs/ensuring-equitable/national-endowment-for-the-arts"
-      - title: "Securing dignified housing and living conditions"
-        url: "/arp/programs/topics/closing-disparities"
+          - title: Community Navigator Pilot Program
+            url: /arp/programs/ensuring-equitable/community-navigator-pilot-program
+          - title: Coronavirus State and Local Fiscal Recovery Funds
+            url: /arp/programs/ensuring-equitable/coronavirus-state-and-local-fiscal-recovery-funds
+          - title: Paycheck Protection Program
+            url: /arp/programs/ensuring-equitable/paycheck-protection-program
+          - title: USDA Assistance and Support for Farmers, Ranchers, Forest Landowners, Operators, and Groups
+            url: /arp/programs/ensuring-equitable/usda-assistance-and-support
+          - title: Economic Adjustment Assistance
+            url: /arp/programs/ensuring-equitable/economic-adjustment-assistance
+          - title: State Small Business Credit Initiative
+            url: /arp/programs/ensuring-equitable/state-small-business-credit-initiative
+          - title: Restaurant Revitalization Fund
+            url: /arp/programs/ensuring-equitable/restaurant-revitalization-fund
+          - title: National Endowment for the Arts
+            url: /arp/programs/ensuring-equitable/national-endowment-for-the-arts
+      - title: Securing dignified housing and living conditions
+        url: /arp/programs/topics/securing-difnified
         submenu:
-          - title: "Low Income Home Energy Assistance Program"
-            url: "/arp/programs/securing-dignified/low-income-home-energy-assistance-program"
-          - title: "Emergency Housing Vouchers"
-            url: "/arp/programs/securing-dignified/emergency-housing-vouchers"
-          - title: "Homeowner Assistance Fund"
-            url: "/arp/programs/securing-dignified/homeowner-assistance-fund"
-          - title: "Emergency Rental Assistance"
-            url: "/arp/programs/securing-dignified/emergency-rental-assistance"
-          - title: "Funding for Low Income Household Water Assistance Program"
-            url: "/arp/programs/securing-dignified/funding-for-low-income-household-water-assistance-program"
-          - title: "Housing Assistance and Supportive Services for Native Americans and Native Hawaiians"
-            url: "/arp/programs/securing-dignified/housing-assistance-and-supportive-services-for-native-americans-and-native-hawaiians"
-      - title: "Investing in equity and opportunity for our children and young adults"
-        url: "/arp/programs/topics/investing-equity"
+          - title: Low Income Home Energy Assistance Program
+            url: /arp/programs/securing-dignified/low-income-home-energy-assistance-program
+          - title: Emergency Housing Vouchers
+            url: /arp/programs/securing-dignified/emergency-housing-vouchers
+          - title: Homeowner Assistance Fund
+            url: /arp/programs/securing-dignified/homeowner-assistance-fund
+          - title: Emergency Rental Assistance
+            url: /arp/programs/securing-dignified/emergency-rental-assistance
+          - title: Funding for Low Income Household Water Assistance Program
+            url: /arp/programs/securing-dignified/funding-for-low-income-household-water-assistance-program
+          - title: Housing Assistance and Supportive Services for Native Americans and Native Hawaiians
+            url: /arp/programs/securing-dignified/housing-assistance-and-supportive-services-for-native-americans-and-native-hawaiians
+      - title: Investing in equity and opportunity for our children and young adults
+        url: /arp/programs/topics/investing-equity
         submenu:
-          - title: "Individuals with Disabilities Education Act"
-            url: "/arp/programs/investing-equity/individuals-with-disabilities-education-act"
-          - title: "Higher Education Emergency Relief Fund"
-            url: "/arp/programs/investing-equity/higher-education-emergency-relief-fund"
-          - title: "Elementary and Secondary School Emergency Relief Fund"
-            url: "/arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund"
-          - title: "Investments in AmeriCorps"
-            url: "/arp/programs/investing-equity/investments-in-americorps"
-          - title: "Extension and Expansion of Pandemic Electronic Benefit Transfer"
-            url: "/arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer"
-      - title: "Closing health disparities"
-        url: "/arp/programs/topics/closing-disparities"
+          - title: Individuals with Disabilities Education Act
+            url: /arp/programs/investing-equity/individuals-with-disabilities-education-act
+          - title: Higher Education Emergency Relief Fund
+            url: /arp/programs/investing-equity/higher-education-emergency-relief-fund
+          - title: Elementary and Secondary School Emergency Relief Fund
+            url: /arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund
+          - title: Investments in AmeriCorps
+            url: /arp/programs/investing-equity/investments-in-americorps
+          - title: Extension and Expansion of Pandemic Electronic Benefit Transfer
+            url: /arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer
+      - title: Closing health disparities
+        url: /arp/programs/topics/closing-disparities
         submenu:
-          - title: "Family Violence Prevention and Services Program"
-            url: "/arp/programs/closing-disparities/family-violence-prevention-and-services-program"
-          - title: "Medicaid and Children's Health Insurance Program Coverage for Pregnant and Postpartum Individuals"
-            url: "/arp/programs/closing-disparities/medicaid-and-childrens-health-insurance-program-coverage-for-pregnant-and-postpartum-individuals"
-          - title: "Prevention and Treatment of Substance Abuse"
-            url: "/arp/programs/closing-disparities/prevention-and-treatment-of-substance-abuse"
-          - title: "Community-Based Mobile Crisis Intervention"
-            url: "/arp/programs/closing-disparities/community-based-mobile-crisis-intervention"
-          - title: "Special Supplemental Nutrition Program for Women, Infants, and Children Modernization"
-            url: "/arp/programs/closing-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization"
-          - title: "Health Insurance Premium Tax Credit"
-            url: "/arp/programs/closing-disparities/health-insurance-premium-tax-credit"
-          - title: "Increase in Access to Home and Community-Based Services"
-            url: "/arp/programs/closing-disparities/increase-in-access-to-home-and-community-based-services"
-  - title: "Program documents and data"
-    url: "/arp/docs-and-data/"
-  - title: "Our studies"
-    url: "/arp/studies/"
-  - title: "Program explorer"
-    url: "/arp/program-explorer"
+          - title: Family Violence Prevention and Services Program
+            url: /arp/programs/closing-disparities/family-violence-prevention-and-services-program
+          - title: Medicaid and Children's Health Insurance Program Coverage for Pregnant and Postpartum Individuals
+            url: /arp/programs/closing-disparities/medicaid-and-childrens-health-insurance-program-coverage-for-pregnant-and-postpartum-individuals
+          - title: Prevention and Treatment of Substance Abuse
+            url: /arp/programs/closing-disparities/prevention-and-treatment-of-substance-abuse
+          - title: Community-Based Mobile Crisis Intervention
+            url: /arp/programs/closing-disparities/community-based-mobile-crisis-intervention
+          - title: Special Supplemental Nutrition Program for Women, Infants, and Children Modernization
+            url: /arp/programs/closing-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization
+          - title: Health Insurance Premium Tax Credit
+            url: /arp/programs/closing-disparities/health-insurance-premium-tax-credit
+          - title: Increase in Access to Home and Community-Based Services
+            url: /arp/programs/closing-disparities/increase-in-access-to-home-and-community-based-services
+  - title: Program documents and data
+    url: /arp/docs-and-data/
+  - title: Our studies
+    url: /arp/studies/
+  - title: Program explorer
+    url: /arp/program-explorer
