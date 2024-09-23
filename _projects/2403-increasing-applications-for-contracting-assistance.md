@@ -7,7 +7,7 @@ image: /assets/img/project-images/2403-image.webp
 image_alt_text: Person writing on a pad of paper
 image-credit: https://www.pexels.com/photo/crop-anonymous-financier-planning-budget-writing-numbers-in-notebook-4386339/
 analysis-plan: /assets/analysis/2403-analysis-plan.pdf
-abstract-web: /results/decreasing-snap-denials/ 
+abstract-web: /results/increasing-8a-applications/ 
 year: 2024  
 domain:
  - Economic Opportunity
