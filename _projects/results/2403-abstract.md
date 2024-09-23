@@ -4,7 +4,7 @@ layout: page
 permalink: /results/increasing-8a-applications/
 tags: 
   - abstract
-image: /assets/img/project-images/2310-snap.webp
+image: /assets/img/project-images/2403-image.webp
 image_alt_text: Sign that says we welcome SNAP benefits
 summary: 
 
