@@ -3,19 +3,35 @@ document.addEventListener("alpine:init", () => {
     return parseFloat(value.replace(/[$,]/g, ""));
   }
 
-  const width = 800;
-  const height = 400;
-  const margin = { top: 20, right: 20, bottom: 30, left: 40 };
-  const chartWidth = width - margin.left - margin.right;
-  const chartHeight = height - margin.top - margin.bottom;
+  function wrapText(text, maxLength) {
+    if (text.length <= maxLength) return text;
+    const words = text.split(" ");
+    let lines = [];
+    let currentLine = "";
+    words.forEach((word) => {
+      if ((currentLine + word).length <= maxLength) {
+        currentLine += (currentLine ? " " : "") + word;
+      } else {
+        lines.push(currentLine);
+        currentLine = word;
+      }
+    });
+    if (currentLine) lines.push(currentLine);
+    return lines.join("\n");
+  }
+
+  const programsChartLabels = {
+    total_funding: "Total Funding (In Billions of USD)",
+    average_funding: "Average Funding (In Billions of USD)",
+    count_of_programs: "Count of Programs",
+  };
 
   Alpine.data("dashboardData", () => ({
     selectedType: "programs", // values: "programs" and "evaluations"
     selectedCharacteristic1: "Agency",
     selectedCharacteristic2: "Program Type",
-    selectedMeasure: "Funding Level1",
+    selectedMeasure: "total_funding",
     data: [],
-    filteredPrograms: [],
 
     loadData() {
       d3.csv("/assets/js/arp/dashboard-data.csv").then((loadedData) => {
@@ -25,70 +41,96 @@ document.addEventListener("alpine:init", () => {
     },
 
     updateProgramsChart() {
-      this.filteredPrograms = this.data.filter((program) => {
-        return (
-          program[this.selectedCharacteristic1] &&
-          program[this.selectedCharacteristic2]
-        );
-      });
+      const programsChartDiv = document.querySelector("#programs-chart");
+      programsChartDiv.innerHTML = "";
 
-      const svg = d3.select("#programs-chart");
-      svg.attr("viewBox", `0 0 ${width} ${height}`);
-      svg.selectAll("*").remove();
+      const sameOption =
+        this.selectedCharacteristic1 === this.selectedCharacteristic2;
 
-      const g = svg
-        .append("g")
-        .attr("transform", `translate(${margin.left},${margin.top})`);
-
-      const x = d3
-        .scaleBand()
-        .domain(
-          this.filteredPrograms.map((d) => d[this.selectedCharacteristic1])
-        )
-        .rangeRound([0, chartWidth])
-        .padding(0.1);
-
-      // Convert the selected measure to a number using the parseCurrency function
-      if (this.selectedMeasure === "Funding Level1") {
-        this.filteredPrograms.forEach((d) => {
-          d[this.selectedMeasure] = parseCurrency(d[this.selectedMeasure]);
-        });
-      } else {
-        this.filteredPrograms.forEach((d) => {
-          d[this.selectedMeasure] = +d[this.selectedMeasure];
-        });
+      let measureKey;
+      let filteredData;
+      if (this.selectedMeasure === "total_funding") {
+        measureKey = "Funding Level1";
+        filteredData = this.data
+          .filter((d) => d[measureKey] !== "")
+          .map((d) => ({
+            ...d,
+            "Funding Level1": parseCurrency(d[measureKey]),
+          }));
+      } else if (this.selectedMeasure === "average_funding") {
+        measureKey = "average_funding";
+        filteredData = this.data
+          .filter((d) => d["Funding Level1"] !== "")
+          .map((d) => ({
+            ...d,
+            average_funding:
+              parseCurrency(d["Funding Level1"]) / d["number of programs"],
+          }));
+      } else if (this.selectedMeasure === "count_of_programs") {
+        measureKey = "number of programs";
+        filteredData = this.data.filter((d) => d["number of programs"] !== "");
       }
 
-      const y = d3
-        .scaleLinear()
-        .domain([
-          0,
-          d3.max(this.filteredPrograms, (d) => d[this.selectedMeasure] || 0),
-        ])
-        .nice()
-        .rangeRound([chartHeight, 0]);
+      const plot = Plot.plot({
+        style: {
+          width: "100%",
+        },
+        marginBottom: 90,
+        marginLeft: 50,
+        y: {
+          label: programsChartLabels[this.selectedMeasure],
+          labelAnchor: "center",
+          labelOffset: 45,
+          line: true,
+          transform: (d) => d / 1e9,
+          tickFormat: (d) => d.toFixed(0),
+          labelArrow: "none",
+        },
+        x: {
+          label: this.selectedCharacteristic1,
+          labelOffset: 80,
+          line: true,
+          tickSize: 0,
+          tickFormat: (d) => wrapText(d, 9),
+        },
+        color: {
+          legend: sameOption ? false : true,
+          label: sameOption ? null : this.selectedCharacteristic2,
+          className: "legend-item",
+        },
+        marks: [
+          Plot.barY(
+            filteredData,
+            sameOption
+              ? Plot.groupX(
+                  { y: "sum" },
+                  {
+                    x: (d) => d[this.selectedCharacteristic1],
+                    y: (d) => d[measureKey],
+                    fill: (d) => d[this.selectedCharacteristic1],
+                    stroke: "black",
+                    strokeWidth: 0.5,
+                  }
+                )
+              : Plot.stackY(
+                  Plot.groupX(
+                    { y: "sum" },
+                    {
+                      x: (d) => d[this.selectedCharacteristic1],
+                      y: (d) => d[measureKey],
+                      fill: (d) => d[this.selectedCharacteristic2],
+                      stroke: "black",
+                      strokeWidth: 0.5,
+                    }
+                  )
+                )
+          ),
+        ],
+      });
 
-      g.append("g")
-        .selectAll(".bar")
-        .data(this.filteredPrograms)
-        .enter()
-        .append("rect")
-        .attr("class", "bar")
-        .attr("x", (d) => x(d[this.selectedCharacteristic1]))
-        .attr("y", (d) => y(d[this.selectedMeasure]))
-        .attr("width", x.bandwidth())
-        .attr("height", (d) => chartHeight - y(d[this.selectedMeasure]))
-        .attr("fill", "steelblue");
-
-      g.append("g")
-        .attr("class", "axis axis--x")
-        .attr("transform", `translate(0,${chartHeight})`)
-        .call(d3.axisBottom(x));
-
-      g.append("g")
-        .attr("class", "axis axis--y")
-        .call(d3.axisLeft(y).ticks(10));
+      programsChartDiv.appendChild(plot);
     },
+
     programsChartDependencies() {
       return [
         this.selectedCharacteristic1,

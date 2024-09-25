@@ -46,33 +46,49 @@ update_date: 09/19/2024
           mattis.
         </p>
         <div class="viz-and-table">
-          <!-- Filter Section -->
           <div class="filters">
-            <label for="characteristic1">Program Characteristic 1:</label>
-            <select id="characteristic1" x-model="selectedCharacteristic1">
-              <option value="Agency">Agency</option>
-              <option value="Program Type">Program Type</option>
-              <option value="Funding Recipient">Funding Recipient</option>
-            </select>
+            <div class="filter-item">
+              <label for="characteristic1"
+                ><strong>Program Characteristic 1</strong></label
+              >
+              <select id="characteristic1" x-model="selectedCharacteristic1">
+                <option value="Topic">Topic</option>
+                <option value="Agency">Agency</option>
+                <option value="Program Type">Program Type</option>
+                <option value="Intended Population">Intended Population</option>
+                <option value="Funding Recipient">Funding Recipient</option>
+                <option value="Funding Flow">Funding Flow</option>
+              </select>
+            </div>
 
-            <label for="characteristic2">Program Characteristic 2:</label>
-            <select id="characteristic2" x-model="selectedCharacteristic2">
-              <option value="Program Type">Program Type</option>
-              <option value="Funding Flow">Funding Flow</option>
-              <option value="Intended Population">Intended Population</option>
-            </select>
+            <div class="filter-item">
+              <label for="characteristic2"
+                ><strong>Program Characteristic 2</strong></label
+              >
+              <select id="characteristic2" x-model="selectedCharacteristic2">
+                <option value="Topic">Topic</option>
+                <option value="Agency">Agency</option>
+                <option value="Program Type">Program Type</option>
+                <option value="Intended Population">Intended Population</option>
+                <option value="Funding Recipient">Funding Recipient</option>
+                <option value="Funding Flow">Funding Flow</option>
+              </select>
+            </div>
 
-            <label for="measure">Select Measure:</label>
-            <select id="measure" x-model="selectedMeasure">
-              <option value="Funding Level1">Funding Level</option>
-              <option value="number of programs">Number of Programs</option>
-            </select>
+            <div class="filter-item">
+              <label for="measure"><strong>Select Measure</strong></label>
+              <select id="measure" x-model="selectedMeasure">
+                <option value="total_funding">Total Funding</option>
+                <option value="average_funding">Average Funding</option>
+                <option value="count_of_programs">Count of Programs</option>
+              </select>
+            </div>
           </div>
-          <!-- Chart Section -->
+
           <div class="chart-container">
-            <svg id="programs-chart" width="100%"></svg>
+            <div id="programs-chart"></div>
           </div>
-          <!-- Program Details Table -->
+
           <div class="program-table">
             <table>
               <thead>
@@ -82,14 +98,14 @@ update_date: 09/19/2024
                   <th>Agency</th>
                   <th>Program Type</th>
                   <th>Intended Population</th>
-                  <th>Funding Recipient</th>
+                  <th>Funding Recipients</th>
                   <th>Funding Flow</th>
                   <th>Funding Level</th>
                 </tr>
               </thead>
               <tbody>
                 <template
-                  x-for="(program, index) in filteredPrograms"
+                  x-for="(program, index) in data"
                   :key="program.Program+index"
                 >
                   <tr>
