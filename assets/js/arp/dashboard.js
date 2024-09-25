@@ -31,12 +31,22 @@ document.addEventListener("alpine:init", () => {
     selectedCharacteristic1: "Agency",
     selectedCharacteristic2: "Program Type",
     selectedMeasure: "total_funding",
+
+    selectedCharacteristic1_eval: "Agency",
+    selectedCharacteristic2_eval: "Program Type",
+    allPrograms: [],
+    selectedProgram: "all",
+    tableData_eval: [],
+
     data: [],
 
     loadData() {
       d3.csv("/assets/js/arp/dashboard-data.csv").then((loadedData) => {
         this.data = loadedData;
+        this.allPrograms = [...new Set(this.data.map((d) => d.Program))];
         this.updateProgramsChart();
+        this.updateEvaluationsChart();
+        this.updateEvaluationsTableData();
       });
     },
 
@@ -130,7 +140,6 @@ document.addEventListener("alpine:init", () => {
 
       programsChartDiv.appendChild(plot);
     },
-
     programsChartDependencies() {
       return [
         this.selectedCharacteristic1,
@@ -139,11 +148,101 @@ document.addEventListener("alpine:init", () => {
       ];
     },
 
+    updateEvaluationsChart() {
+      const evaluationsChartDiv = document.querySelector("#evaluations-chart");
+      evaluationsChartDiv.innerHTML = "";
+
+      const sameOption =
+        this.selectedCharacteristic1_eval === this.selectedCharacteristic2_eval;
+
+      const plot = Plot.plot({
+        style: {
+          width: "100%",
+        },
+        marginBottom: 90,
+        marginLeft: 50,
+        y: {
+          label: "Number of Evaluations",
+          labelAnchor: "center",
+          labelOffset: 45,
+          line: true,
+          labelArrow: "none",
+        },
+        x: {
+          label: this.selectedCharacteristic1_eval,
+          labelOffset: 80,
+          line: true,
+          tickSize: 0,
+          tickFormat: (d) => wrapText(d, 9),
+        },
+        color: {
+          legend: sameOption ? false : true,
+          label: sameOption ? null : this.selectedCharacteristic2_eval,
+          className: "legend-item",
+        },
+        marks: [
+          Plot.barY(
+            this.data,
+            /*
+            I use column "Evaluation Type1 (group)" for "Evaluation name".
+            This will change eventually when data is updated.
+            */
+            sameOption
+              ? Plot.groupX(
+                  { y: "distinct" },
+                  {
+                    x: (d) => d[this.selectedCharacteristic1_eval],
+                    y: (d) => d["Evaluation Type1 (group)"],
+                    fill: (d) => d[this.selectedCharacteristic1_eval],
+                    stroke: "black",
+                    strokeWidth: 0.5,
+                  }
+                )
+              : Plot.stackY(
+                  Plot.groupX(
+                    { y: "distinct" },
+                    {
+                      x: (d) => d[this.selectedCharacteristic1_eval],
+                      y: (d) => d["Evaluation Type1 (group)"],
+                      fill: (d) => d[this.selectedCharacteristic2_eval],
+                      stroke: "black",
+                      strokeWidth: 0.5,
+                    }
+                  )
+                )
+          ),
+        ],
+      });
+
+      evaluationsChartDiv.appendChild(plot);
+    },
+    evaluationsChartDependencies() {
+      return [
+        this.selectedCharacteristic1_eval,
+        this.selectedCharacteristic2_eval,
+      ];
+    },
+
+    updateEvaluationsTableData() {
+      if (this.selectedProgram === "all") {
+        this.tableData_eval = this.data;
+      } else {
+        this.tableData_eval = this.data.filter(
+          (d) => d.Program === this.selectedProgram
+        );
+      }
+    },
+
     async init() {
       this.loadData();
       this.$watch("programsChartDependencies", () =>
         this.updateProgramsChart()
       );
+
+      this.$watch("evaluationsChartDependencies", () =>
+        this.updateEvaluationsChart()
+      );
+      this.$watch("selectedProgram", () => this.updateEvaluationsTableData());
     },
   }));
 });

@@ -55,7 +55,9 @@ update_date: 09/19/2024
                 <option value="Topic">Topic</option>
                 <option value="Agency">Agency</option>
                 <option value="Program Type">Program Type</option>
-                <option value="Intended Population">Intended Population</option>
+                <option value="Intended Population">
+                  Intended Populations
+                </option>
                 <option value="Funding Recipient">Funding Recipient</option>
                 <option value="Funding Flow">Funding Flow</option>
               </select>
@@ -69,7 +71,9 @@ update_date: 09/19/2024
                 <option value="Topic">Topic</option>
                 <option value="Agency">Agency</option>
                 <option value="Program Type">Program Type</option>
-                <option value="Intended Population">Intended Population</option>
+                <option value="Intended Population">
+                  Intended Populations
+                </option>
                 <option value="Funding Recipient">Funding Recipient</option>
                 <option value="Funding Flow">Funding Flow</option>
               </select>
@@ -89,7 +93,7 @@ update_date: 09/19/2024
             <div id="programs-chart"></div>
           </div>
 
-          <div class="program-table">
+          <div class="program-explorer-table">
             <table>
               <thead>
                 <tr>
@@ -97,7 +101,7 @@ update_date: 09/19/2024
                   <th>Program</th>
                   <th>Agency</th>
                   <th>Program Type</th>
-                  <th>Intended Population</th>
+                  <th>Intended Populations</th>
                   <th>Funding Recipients</th>
                   <th>Funding Flow</th>
                   <th>Funding Level</th>
@@ -136,7 +140,103 @@ update_date: 09/19/2024
           placerat tincidunt. Suspendisse elementum nibh orci, sit amet mattis
           koji.
         </p>
-        <div class="viz-and-table">evaluatons viz and table</div>
+        <div class="viz-and-table">
+          <div class="filters">
+            <div class="filter-item">
+              <label for="characteristic1_eval"
+                ><strong>Program Characteristic 1</strong></label
+              >
+              <select
+                id="characteristic1_eval"
+                x-model="selectedCharacteristic1_eval"
+              >
+                <option value="Agency">Agency</option>
+                <option value="Topic">Topic</option>
+                <option value="Program Type">Program Type</option>
+                <option value="Intended Population">
+                  Intended Populations
+                </option>
+                <option value="Funding Flow">Funding Flow</option>
+                <option value="Funding Recipient">Funding Recipient</option>
+              </select>
+            </div>
+
+            <div class="filter-item">
+              <label for="characteristic2_eval"
+                ><strong>Program Characteristic 2</strong></label
+              >
+              <select
+                id="characteristic2_eval"
+                x-model="selectedCharacteristic2_eval"
+              >
+                <option value="Agency">Agency</option>
+                <option value="Topic">Topic</option>
+                <option value="Program Type">Program Type</option>
+                <option value="Intended Population">
+                  Intended Populations
+                </option>
+                <option value="Funding Flow">Funding Flow</option>
+                <option value="Funding Recipient">Funding Recipient</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="chart-container">
+            <div id="evaluations-chart"></div>
+          </div>
+
+          <div class="filters">
+            <div class="filter-item">
+              <label for="table_eval_filter"
+                ><strong>Filter by Program</strong></label
+              >
+              <select id="table_eval_filter" x-model="selectedProgram">
+                <option value="all">(All)</option>
+                <template x-for="program in allPrograms" :key="program">
+                  <option x-text="program" :value="program"></option>
+                </template>
+              </select>
+            </div>
+          </div>
+
+          <div class="program-explorer-table">
+            <table>
+              <thead>
+                <tr>
+                  <th>Program</th>
+                  <th>Evaluation Name</th>
+                  <th>Evaluation Type</th>
+                  <th>Evaluator</th>
+                  <th>Topic</th>
+                  <th>Agency</th>
+                  <th>Program Type</th>
+                  <th>Funding Recipients</th>
+                  <th>Intended Populations</th>
+                </tr>
+              </thead>
+              <tbody>
+                <template
+                  x-for="(program, index) in tableData_eval"
+                  :key="program.Program+index"
+                >
+                  <tr>
+                    <!-- I use column "Evaluation Type1 (group)" for "Evaluation name" and "Evaluation Type1 (group) 1 for "Evaluator".
+                     This will change eventually when data is updated. -->
+                    <td x-text="program.Program"></td>
+                    <td x-text="program['Evaluation Type1 (group)']"></td>
+                    <td x-text="program['Evaluation Type']"></td>
+                    <td x-text="program['Evaluation Type1 (group) 1']"></td>
+                    <td x-text="program.Topic"></td>
+                    <td x-text="program.Agency"></td>
+                    <td x-text="program['Program Type']"></td>
+                    <td x-text="program['Funding Recipient']"></td>
+                    <td x-text="program['Intended Population']"></td>
+                  </tr>
+                </template>
+              </tbody>
+            </table>
+          </div>
+        </div>
       </div>
 
       <p class="page-update-date">Webpage updated on {{ page.update_date }}</p>

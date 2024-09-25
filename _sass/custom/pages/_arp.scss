@@ -1039,32 +1039,38 @@
           margin: 30px 0 0 0;
 
           .filters {
-            margin: 0 0 20px 0;
             .filter-item {
+              max-width: 300px;
               display: inline-block;
               margin: 0 20px 0 0;
               label {
                 margin: 0 0 10px 0;
                 display: block;
               }
+              select {
+                width: 100%;
+              }
             }
           }
 
-          figure {
-            margin: 0;
-            .legend-item-swatch rect {
-              stroke: black;
-              stroke-width: 0.5;
-            }
-            .legend-item-swatches {
-              row-gap: 5px;
+          .chart-container {
+            margin: 20px 0 20px 0;
+            figure {
+              margin: 0;
+              .legend-item-swatch rect {
+                stroke: black;
+                stroke-width: 0.5;
+              }
+              .legend-item-swatches {
+                row-gap: 5px;
+              }
             }
           }
 
-          .program-table {
+          .program-explorer-table {
             overflow: auto;
             max-height: 600px;
-            margin: 50px 0 0 0;
+            margin: 20px 0 0 0;
           }
         }
       }
