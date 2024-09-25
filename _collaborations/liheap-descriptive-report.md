@@ -25,6 +25,3 @@ experience reductions in energy burden?
 
 ## What did we learn?
 The descriptive results provide an overview of trends around LIHEAP changes that can help understand how grant recipients implemented LIHEAP since FY 2019. This can help grant recipients identify program changes that are being made nationally which may be useful when adapting their LIHEAP model plans in upcoming fiscal years. This can also help to identify where there are potentially promising program policies and practices that could not be implemented without the additional funding.
-
-
-*As a descriptive report, this project does not have an Analysis Plan.*
