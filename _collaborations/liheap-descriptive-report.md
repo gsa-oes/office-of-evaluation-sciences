@@ -3,7 +3,8 @@ title:  Descriptive report of Low Income Home Energy Assistance Program changes 
 permalink: /collaborations/liheap-descriptive/
 tags:
   - collaborations
-image: /assets/img/project-images/othercollabs/improper-payments.webp
+image: /assets/img/project-images/2407.webp
+image_alt_text: Person warming hands in front of fire
 image_full: true
 year: 2024
 domain: American Rescue Plan
