@@ -9,6 +9,7 @@ image_full: true
 year: 2024
 domain: American Rescue Plan
 agency: Health and Human Services
+academic-pub: /assets/publications/LIHEAP-descriptive-report.pdf
 summary: An evaluation report for the Administration for Children and Families (ACF), Department of Health and Human Services (HHS)
 featured: 
 ---
