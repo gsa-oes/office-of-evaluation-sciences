@@ -2,7 +2,7 @@
 layout: page	
 title: Reducing administrative burden in pandemic relief and economic recovery programs
 permalink: /blog/reducing-admin-burden/	
-image: /assets/img/project-images/1804.webp
+image: /assets/img/project-images/admin-burden.webp
 image_alt_text: Pill bottle
 hide_image: true
 year: 2040
