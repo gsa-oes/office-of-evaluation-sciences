@@ -5,7 +5,7 @@ permalink: /blog/reducing-admin-burden/
 image: /assets/img/project-images/1804.webp
 image_alt_text: Pill bottle
 hide_image: true
-year: 2030
+year: 2040
 class:	
 summary: 	
 ---
