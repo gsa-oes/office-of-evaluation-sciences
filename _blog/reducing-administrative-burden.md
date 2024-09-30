@@ -9,6 +9,9 @@ year: 2030
 class:	
 summary: 	
 ---
+This was cross-posted from the Performance.gov blog.
+By the Office of Evaluation Sciences, October 1, 2024
+
 Each year, more than $140 billion in government benefits that Congress authorizes goes unclaimed because individuals are not aware of what benefits they are eligible for or how to apply, and those that do can face prohibitive challenges applying for and receiving benefits. It’s crucial we build understanding about how to make it easier for people to learn about, apply for, and access benefits. Reducing administrative burden — the time, psychological, and other costs people incur while interacting with the government — is key to answering this question and improving customer experience. Drawing on lessons from four studies from a new portfolio of research, the Office of Evaluation Sciences (OES) created a new evidence brief, “Reducing administrative burden in pandemic relief and economic recovery programs,” to share learnings about what works so that fewer government benefits go unused. A few of those findings are highlighted below.
 
 ## Making it easier to learn about programs
