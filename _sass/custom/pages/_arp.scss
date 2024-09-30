@@ -1,8 +1,17 @@
 .arp-footer {
+  background-color: #f7f9fa;
+  .arp-footer-logo-links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
   .logo-texts {
     @include u-font("alt", "2xs");
-    margin: units(2) 0 0 units(2);
-    max-width: 309px;
+    flex: 1;
+    p {
+      max-width: unset;
+      line-height: 20px;
+    }
   }
 }
 .arp-back-to-top-btn {

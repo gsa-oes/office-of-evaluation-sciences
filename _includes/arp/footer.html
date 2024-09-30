@@ -1,110 +1,23 @@
-<footer
-  class="arp-footer usa-footer usa-section background-light"
-  role="contentinfo"
->
+<footer class="arp-footer usa-footer usa-section" role="contentinfo">
   <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-4 desktop:grid-col-6">
-        <div class="footer-logo-links">
-          <div>
-            <div>
-              <a href="https://gsa.gov" class="usa-footer-logo-img">
-                <img
-                  class="usa-footer-logo-img"
-                  src="{{ site.footer.image | prepend: site.baseurl }}"
-                  alt="GSA logo"
-                  role="img"
-                />
-              </a>
-              {% if site.footer.image %}
-              <a href="https://oes.gsa.gov/"> {% include icons/oes.svg %} </a>
-              {% endif %}
-            </div>
-            <div class="logo-texts">
-              <p>
-                This evaluation is being conducted by the American Institutes
-                for Research, with Abt Associates and Decision Information
-                Resources and oversight from OES and the OMB’s Evidence Team.
-              </p>
-            </div>
-          </div>
-        </div>
+    <div class="arp-footer-logo-links">
+      <div>
+        <a href="https://gsa.gov" class="usa-footer-logo-img">
+          <img
+            class="usa-footer-logo-img"
+            src="{{ site.footer.image | prepend: site.baseurl }}"
+            alt="GSA logo"
+            role="img"
+          />
+        </a>
+        <a href="https://oes.gsa.gov/"> {% include icons/oes.svg %} </a>
       </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">Heading</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/about/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/team/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">Heading</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/about/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/team/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">Heading</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/about/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/team/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">Heading</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/about/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/team/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Link</a>
-            </li>
-          </ul>
-        </div>
+      <div class="logo-texts">
+        <p>
+          This evaluation is being conducted by the American Institutes for
+          Research, with Abt Associates and Decision Information Resources and
+          oversight from OES and the OMB’s Evidence Team.
+        </p>
       </div>
     </div>
     <!-- <h2>Drop us a line.</h2>
