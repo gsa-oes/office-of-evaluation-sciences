@@ -4,7 +4,7 @@ permalink: /collaborations/liheap-descriptive/
 tags:
   - collaborations
 image: /assets/img/project-images/2407-new.webp
-image-credit: https://www.flickr.com/photos/151653494@N04/32459483384/in/photolist-Rskkxf-Rskkry-SxvhiP-D8rbdF-dsd1rJ-SFdBh1-o4AsG-fxzuT-RskknL-o4ApW-7mvJGh-2m1gsbM-91Jrpi-i4jLr8-91MyrL-5QTxNy-X4ne3i-91JpUP-Rskkeu-mXiEoU-dkLpme-7W1Tvr-dyDB5h-PqAZq-ehaWbm-8Ss2Va-NTiZ4e-9hGGH4-65EatU-2miY4sW-kwax8f-LM1gsb-5QNHzX-6xASD-gjTN48-za1H5S-3odZ6h-nSe1Cw-2mEQLFi-bVnJKJ-mVuxqV-8fE3bn-bPGMf4-axB3FR-bRsA5K-5VYV6s-apuHDn-5vQXeL-cEyXxu-mXixpU
+image-credit: https://www.flickr.com/photos/151653494@N04/32459483054/
 image_alt_text: Person adjusting thermostat
 image_full: true
 year: 2024
