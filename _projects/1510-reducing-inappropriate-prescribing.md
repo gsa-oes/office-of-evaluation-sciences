@@ -4,6 +4,7 @@ permalink: /projects/reducing-inappropriate-prescribing/
 tags: 
   - project
   - prescribing
+share_image: /assets/img/project-images/prescribe.jpg
 image: /assets/img/project-images/prescribe.webp
 image_alt_text: Man with prescriber letters
 image-credit: https://www.flickr.com/photos/worldbank/

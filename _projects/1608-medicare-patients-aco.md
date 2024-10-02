@@ -3,6 +3,7 @@ title: Encouraging Medicare beneficiaries to self-identify as ACO patients
 permalink: /projects/medicare-patients-aco/
 tags:
 - project
+share_image: /assets/img/project-images/aco.jpg
 image: /assets/img/project-images/aco.webp
 image_alt_text: Person sitting in front of PC
 image-credit: https://www.flickr.com/photos/thenationalguard/

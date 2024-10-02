@@ -4,6 +4,7 @@ permalink: /2309-decreasing-abandonment-of-calls-to-988/
 tags: 
   - project
   - arp
+share_image: /assets/img/project-images/2309-image.jpg
 image: /assets/img/project-images/2309-image.jpg  
 image_alt_text: woman holding a phone
 image-credit: https://unsplash.com/photos/Z9Tjplzzgh4

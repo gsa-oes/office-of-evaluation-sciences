@@ -2,6 +2,7 @@
 title:  Increasing survey response to improve USAGov email content
 permalink: /projects/USAGov-survey/
 tags: project  
+share_image: /assets/img/project-images/1801-image-v6.jpg
 image: /assets/img/project-images/1801-image-v6.webp
 image_alt_text: Diagram of survey plan
 image-credit: 

@@ -4,6 +4,7 @@ permalink: /projects/energy-use-feedback/
 tags: 
   - project
   - housing
+share_image: /assets/img/project-images/1808.jpg
 image: /assets/img/project-images/1808.webp  
 image_alt_text: Front of building
 image-credit: https://commons.wikimedia.org/wiki/File:NYCHA_Grant_Houses_WTM3_The_Fixers_0021.webp 

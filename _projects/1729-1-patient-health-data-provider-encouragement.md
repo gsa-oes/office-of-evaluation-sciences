@@ -4,6 +4,7 @@ permalink: /projects/patient-health-data-provider-encouragement/
 tags: 
   - project
   - healthit
+share_image: /assets/img/project-images/1729-2-graph.jpg
 image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of laptop
 image-credit: https://www.flickr.com/photos/andyde/4762141677

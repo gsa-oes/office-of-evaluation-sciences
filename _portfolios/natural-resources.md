@@ -2,6 +2,7 @@
 layout: portfolio
 title: Natural resources
 permalink: /natural-resources/
+share_image: /assets/img/project-images/1903.jpg
 image: /assets/img/project-images/1903.webp  
 image_alt_text: People viewing a landscape
 hide_image: true

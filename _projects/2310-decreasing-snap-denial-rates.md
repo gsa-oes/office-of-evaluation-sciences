@@ -4,6 +4,7 @@ permalink: /projects/2310-decreasing-snap-denial-rates/
 tags: 
   - project
   - arp
+share_image: /assets/img/project-images/2310-snap.png
 image: /assets/img/project-images/2310-snap.webp
 image_alt_text: Sign that says we welcome SNAP benefits
 image-credit: https://www.pexels.com/photo/a-close-up-shot-of-paper-clipped-documents-7054757/

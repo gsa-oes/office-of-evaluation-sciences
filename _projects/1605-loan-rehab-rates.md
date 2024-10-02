@@ -4,6 +4,7 @@ permalink: /projects/loan-rehab-rates/
 tags: 
   - project
   - highered
+share_image: /assets/img/project-images/loan-rehab.jpg
 image: /assets/img/project-images/loan-rehab.webp
 image_alt_text: Person filling out paper form
 image-credit: https://unsplash.com/@helloquence

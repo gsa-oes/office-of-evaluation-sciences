@@ -4,6 +4,7 @@ permalink: /projects/slfrf-tribal-govs-neus/
 tags: 
  - project
  - arp
+share_image: /assets/img/project-images/2112G-image.jpg
 image: /assets/img/project-images/2112G-image.webp
 image_alt_text: Residential street
 image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=391292&picture=street-in-a-town

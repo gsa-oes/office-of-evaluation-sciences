@@ -2,6 +2,7 @@
 layout: page	
 title: Introducing our team’s four-year strategic plan
 permalink: /blog/strategic-plan/	
+share_image: /assets/img/project-images/othercollabs/equity-hand.png
 image: /assets/img/project-images/othercollabs/equity-hand.webp
 image_alt_text: Key and hand icon
 hide_image: true

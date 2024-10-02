@@ -4,6 +4,7 @@ permalink: /projects/slfrf-reminders/
 tags: 
  - project
  - arp
+share_image: /assets/img/project-images/2112F-SLFRF-image.jpg
 image: /assets/img/project-images/2112F-SLFRF-image.webp
 image_alt_text: Front of a building
 image-credit: https://commons.wikimedia.org/wiki/File:Highland_Park_July_2016_38_%28Highland_Park_Town_Hall%29.webp

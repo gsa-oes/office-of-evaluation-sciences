@@ -3,6 +3,7 @@ title: Increasing naturalization rates for lawful permanent residents
 permalink: /projects/increasing-naturalization/
 tags:
   - project
+share_image: /assets/img/project-images/2121-image.jpg
 image: /assets/img/project-images/2121-image.webp
 image_alt_text: US flag
 image-credit: https://unsplash.com/photos/fYqQBr0EzkA

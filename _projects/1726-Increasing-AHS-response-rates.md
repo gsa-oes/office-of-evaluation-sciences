@@ -3,6 +3,7 @@ title:  Increasing AHS response rates
 permalink: /projects/increasing-ahs-response/
 tags:
 - project  
+share_image: /assets/img/project-images/1726.jpg
 image: /assets/img/project-images/1726.webp  
 image_alt_text: Dallas skyline
 image-credit: https://commons.wikimedia.org/wiki/File:Dallas_skyline_and_suburbs.webp

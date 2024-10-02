@@ -3,6 +3,7 @@ title:  Increasing applications for contracting assistance among underserved sma
 permalink: /projects/2403-increasing-applications-for-contracting-assistance/
 tags: 
  - project
+share_image: /assets/img/project-images/2403-image.png
 image: /assets/img/project-images/2403-image.webp 
 image_alt_text: Person writing on a pad of paper
 image-credit: https://www.pexels.com/photo/crop-anonymous-financier-planning-budget-writing-numbers-in-notebook-4386339/

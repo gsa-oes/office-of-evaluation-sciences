@@ -2,6 +2,7 @@
 layout: portfolio
 title: Health IT
 permalink: /health-it/
+share_image: /assets/img/project-images/1729-2-graph.jpg
 image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of a laptop
 hide_image: true

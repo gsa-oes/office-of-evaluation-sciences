@@ -4,6 +4,7 @@ permalink: /projects/idr-re-certification/
 tags: 
   - project
   - highered
+share_image: /assets/img/project-images/idr-recert.jpg
 image: /assets/img/project-images/idr-recert.webp
 image_alt_text: Person sitting with laptop
 image-credit: https://www.flickr.com/photos/niallkennedy/

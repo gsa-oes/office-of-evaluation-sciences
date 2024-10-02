@@ -5,6 +5,7 @@ tags:
   - project
   - arp
   - housing
+share_image: /assets/img/project-images/2305-img.jpg
 image: /assets/img/project-images/2305-img.webp
 image-credit: https://www.pexels.com/photo/black-handled-key-on-key-hole-101808/
 analysis-plan: /assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.pdf

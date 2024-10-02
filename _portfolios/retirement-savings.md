@@ -2,6 +2,7 @@
 layout: portfolio
 title: Retirement savings
 permalink: /retirement-savings/
+share_image: /assets/img/project-images/1723.jpg
 image: /assets/img/project-images/1723.webp
 image_alt_text: People sitting on a bench by the sea
 hide_image: true

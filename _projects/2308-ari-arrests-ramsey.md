@@ -4,6 +4,7 @@ permalink: /2308-ari-arrests-ramsey/
 tags: 
   - project
   - arp
+share_image: /assets/img/project-images/2308.png
 image: /assets/img/project-images/2308.webp
 image_alt_text: Person directing calls
 image-credit: https://commons.wikimedia.org/wiki/File:Day_124_-_West_Midlands_Police_-_Resource_Allocator_and_Despatcher_%288704002239%29.jpg

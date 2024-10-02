@@ -4,6 +4,7 @@ permalink: /collaborations/improper-payments-playbook/
 tags:
   - collaborations
   - payments
+share_image: /assets/img/project-images/improper-payments.jpg
 image: /assets/img/project-images/othercollabs/improper-payments.webp
 image_full: true
 year: 2021

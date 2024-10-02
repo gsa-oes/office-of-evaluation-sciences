@@ -5,6 +5,7 @@ tags:
   - project
   - arp
   - health insurance
+share_image: /assets/img/project-images/2302-image.png
 image: /assets/img/project-images/2302-image.webp
 image_alt_text: Tip for enrollment
 image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/

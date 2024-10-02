@@ -2,6 +2,7 @@
 layout: page
 title: Using evidence to improve government efficiency through timely wage reporting
 permalink: /blog/wage-reporting/
+share_image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.webp
 image_alt_text: Scrabble word
 hide_image: true

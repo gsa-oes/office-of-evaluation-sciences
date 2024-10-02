@@ -4,6 +4,7 @@ permalink: /projects/medicare-flu-vaccine-uptake/
 tags:
   - project
   - vaccines
+share_image: /assets/img/project-images/15xx-di.jpg
 image: /assets/img/project-images/15xx.webp
 image_alt_text: Doctor and patient interacting
 image-credit: https://www.cdc.gov/flu/pdf/freeresources/seniors/seniors-vaccination-factsheet-final.pdf
