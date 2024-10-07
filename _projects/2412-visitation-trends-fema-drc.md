@@ -1,6 +1,6 @@
 ---
 title: Descriptive study of visitation trends at FEMA Disaster Recovery Centers
-permalink: /projects/2406-increasing-medicaid-renewals-with-texts/
+permalink: /projects/2412-fema-drc-visitation-trends/
 tags: 
  - project
 image: /assets/img/project-images/2412.webp 
