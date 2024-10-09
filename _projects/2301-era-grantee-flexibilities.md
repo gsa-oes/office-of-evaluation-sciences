@@ -47,6 +47,6 @@ We found no evidence that reducing barriers through FSP brought substantially mo
 
 In summary, a FSP can be an important tool to accelerate and broaden access to assistance in programs where application volume is high, when specific application criteria may be slow to verify, when it may be difficult for some applicants to upload supporting documentation, and when applications for funding assistance are potentially time-sensitive. For example, our findings suggest settings such as applications for financial assistance after storm-related disasters could be suitable for an FSP.
 
-Read the [technical appendix]({{site.baseurl}}/assets/abstracts/2301_technical-appendix.pdf).
+Read the [technical appendix]({{site.baseurl}}/assets/abstracts/2301-technical-appendix.pdf).
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.pdf">on GitHub</a>.
