@@ -46,9 +46,6 @@ summary: Read more about OES through media coverage or contact our press office.
 <a class="usa-link usa-link--external" href="https://www.govexec.com/management/2019/10/why-agencies-need-tap-revolutionary-potential-behavioral-science/160524/" target="_blank">Why Agencies Need to Tap the Revolutionary Potential of Behavioral Science</a>
 <br/><i>Government Executive</i>, October 2019
 
-<a class="usa-link usa-link--external" href="https://fcw.com/blogs/lectern/2019/09/kelman-nudge-gsa.aspx" target="_blank">Government steps out on ‘nudges’</a>
-<br/><i>FCW</i>, September 2019
-
 <a class="usa-link usa-link--external" href="https://www.govexec.com/management/2019/08/after-federal-officials-sent-letters-over-prescribing-docs-prescriptions-fell-and-patient-safety-rose/159443/" target="_blank">After Federal Officials Sent Letters to Over-Prescribing Docs, Prescriptions Fell and Patient Safety Rose</a>
 <br/><i>Government Executive</i>, August 2019
 
