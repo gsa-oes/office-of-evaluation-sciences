@@ -9,7 +9,7 @@ agency:
   - Health and Human Services
   - Homeland Security
   - Treasury
-title: Program Manager, Communications & Visual Design
+title: Senior Program Manager, Communications & Visual Design
 status: Current
 ---
 
