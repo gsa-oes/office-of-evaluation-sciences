@@ -5,6 +5,7 @@ tags:
   - project
   - business
   - resources
+share_image: /assets/img/project-images/microloans-for-farmers.jpg
 image: /assets/img/project-images/microloans-for-farmers.webp
 image_alt_text: Microloans for farmers
 image-credit: https://www.flickr.com/photos/usdagov

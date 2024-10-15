@@ -4,6 +4,7 @@ layout: page
 permalink: /results/increasing-participation-in-ticket-to-work/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2206-image.jpg
 image: /assets/img/project-images/2206-image.webp
 image-credit: https://unsplash.com/photos/7DziDCBnhiE
 summary: 

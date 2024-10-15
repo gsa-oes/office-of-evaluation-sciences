@@ -3,6 +3,7 @@ title:  Reducing no-shows for in-person passport appointments
 permalink: /projects/2313-reducing-no-shows-passport-appts/
 tags: 
  - project
+share_image: /assets/img/project-images/2313-image.png
 image: /assets/img/project-images/2313-image.webp 
 image_alt_text: Two people holding passports
 image-credit: https://www.pexels.com/photo/anonymous-tourists-showing-us-passports-on-street-on-sunny-day-4353813/

@@ -2,6 +2,7 @@
 layout: page	
 title: Two-year follow up shows that effects of an OES anchoring intervention persist
 permalink: /blog/tsp-anchors-follow-up/	
+share_image: /assets/img/project-images/16xx-image.jpeg
 image: /assets/img/project-images/16xx-image.jpeg
 image_alt_text: Hands typing on a laptop
 hide_image: true

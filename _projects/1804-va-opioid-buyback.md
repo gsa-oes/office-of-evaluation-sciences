@@ -3,6 +3,7 @@ title: Enhancing the effect of cash buyback on the return of unused opioids
 permalink: /projects/opioid-buyback/
 tags: 
   - project
+share_image: /assets/img/project-images/1804.png
 image: /assets/img/project-images/1804.webp
 image_alt_text: Pill container
 image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg

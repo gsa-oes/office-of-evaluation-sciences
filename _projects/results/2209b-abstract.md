@@ -5,6 +5,7 @@ layout: page
 permalink: /results/increasing-access-to-mn-ccsbg/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2209B-image.jpg
 image: /assets/img/project-images/2209B-image.webp  
 image_alt_text: Children playing with pictures of fruit
 summary: 

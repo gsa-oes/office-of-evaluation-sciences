@@ -3,6 +3,7 @@ title: Describing the allocation of COVID-19 relief funds to financial instituti
 permalink: /projects/RRP-ECIP-descriptive-evaluation/
 tags: 
  - project
+share_image: /assets/img/project-images/2202-image.jpg
 image: /assets/img/project-images/2202-image.webp
 image_alt_text: Person writing on paper
 image-credit: https://www.pexels.com/photo/person-holding-gray-twist-pen-and-white-printer-paper-on-brown-wooden-table-955389/

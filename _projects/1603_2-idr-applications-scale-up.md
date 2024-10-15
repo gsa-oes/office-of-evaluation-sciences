@@ -4,6 +4,7 @@ permalink: /projects/idr-applications-scale-up/
 tags: 
   - project
   - highered
+share_image: /assets/img/project-images/student-loans3.jpg
 image: /assets/img/project-images/student-loans3.webp
 image_alt_text: Student graduation
 image-credit: https://unsplash.com/@tfaustin

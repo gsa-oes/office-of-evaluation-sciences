@@ -2,6 +2,7 @@
 layout: page
 title: Using evidence to leverage proactive no-cost communications for an immediate positive impact for Veterans
 permalink: /blog/gi-bill-communication/
+share_image: /assets/img/project-images/1810-graph.jpg
 image: /assets/img/project-images/1810.webp
 image_alt_text: Person filling out form
 hide_image: true

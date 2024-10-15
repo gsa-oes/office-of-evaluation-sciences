@@ -2,6 +2,7 @@
 title: Increasing satisfaction survey response rate from federal renants - subject lines and day of week
 permalink: /projects/tenant-satisfaction-survey-subject-lines/
 tags: project
+share_image: /assets/img/project-images/gsa-tenant2.jpg
 image: /assets/img/project-images/gsa-tenant2.webp
 image_alt_text: Front of building
 image-credit: https://gsablogs.gsa.gov/gsablog/2012/11/08/gsa-completes-restoration-of-hipolito-federal-building/

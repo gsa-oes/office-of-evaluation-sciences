@@ -4,6 +4,7 @@ permalink: /projects/flu-shots-va-new-york-harbor/
 tags:
   - project
   - vaccines
+share_image: /assets/img/project-images/1743.jpg
 image: /assets/img/project-images/1743.webp
 image_alt_text: Doctor and patient
 image-credit: https://www.va.gov/health/NewsFeatures/2014/May/VHA-Benefits-Goal-Preserving-Your-Good-Health.asp

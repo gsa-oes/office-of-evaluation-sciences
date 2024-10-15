@@ -4,6 +4,7 @@ layout: page
 permalink: /results/reducing-documentation-burdens-era/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2301-img.jpg
 image: /assets/img/project-images/2301-img.webp
 image-credit: https://www.pexels.com/photo/a-person-wearing-wristwatch-filling-up-the-paper-8293764/
 summary: 

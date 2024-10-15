@@ -3,6 +3,7 @@ title: Increasing enrollment in low-income Medicare programs
 permalink: /collaborations/lis-msp-enrollment/
 tags:
   - health insurance 
+share_image: /assets/img/project-images/othercollabs/lis-msp-enrollment-image.png
 image: /assets/img/project-images/othercollabs/lis-msp-enrollment-image.webp
 image_alt_text: Redefining health and well-being in older adults
 image-credit: https://images.app.goo.gl/VkYfpduj7DZrttKX7

@@ -3,6 +3,7 @@ title: Survey uptake decisions with transparent default choices
 permalink: /projects/transparent-defaults/
 tags:
 - project  
+share_image: /assets/img/project-images/2101.jpeg
 image: /assets/img/project-images/2101.jpeg
 image_alt_text: People giving a presentation
 image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.webp

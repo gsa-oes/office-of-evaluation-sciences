@@ -4,6 +4,7 @@ permalink: /projects/prompting-tsp-contribution/
 tags:
   - project
   - retirement
+share_image: /assets/img/project-images/1703.png
 image: /assets/img/project-images/1703.webp
 image_alt_text: Person holding a document
 image-credit: https://pixabay.com/photo-427510/

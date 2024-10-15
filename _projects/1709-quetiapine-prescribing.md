@@ -4,6 +4,7 @@ permalink: /projects/quetiapine-prescribing/
 tags: 
   - project
   - prescribing
+share_image: /assets/img/project-images/prescribe.jpg
 image: /assets/img/project-images/prescribe.webp
 image_alt_text: Person sitting infront of computer holding documents
 image-credit: https://www.flickr.com/photos/worldbank/
