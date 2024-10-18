@@ -7,7 +7,7 @@ tags:
 share_image: /assets/img/project-images/1809.jpg
 image: /assets/img/project-images/1809.webp
 image_alt_text: Classroom
-image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.webp
+image-credit: https://unsplash.com/photos/people-sitting-on-blue-carpet-gsRi9cWCIB0
 analysis-plan: /assets/analysis/1809-analysis-plan.pdf
 abstract: /assets/abstracts/1809-abstract-school-attendance-seattle.pdf
 year: 2020
