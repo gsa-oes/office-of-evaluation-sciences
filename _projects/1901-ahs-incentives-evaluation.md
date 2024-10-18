@@ -4,10 +4,10 @@ permalink: /projects/1901-ahs-incentives-evaluation/
 tags: 
   - project
   - housing
-share_image: /assets/img/project-images/1901-nrb.jpg
-image: /assets/img/project-images/1901-nrb.webp
+share_image: /assets/img/project-images/1901.jpg
+image: /assets/img/project-images/1901.jpg
 image_alt_text: Buildings in New York City
-image-credit: https://p0.piqsels.com/preview/582/943/642/united-states-new-york-history-art.webp
+image-credit: https://unsplash.com/photos/architectural-photography-of-building-epJoNR_4feM
 analysis-plan: /assets/analysis/1901-Analysis-Plan.pdf
 abstract-web: /results/incentives-to-reduce-nonresponse-bias-ahs/
 year: 2023
