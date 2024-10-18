@@ -1,5 +1,5 @@
 ---
-name: Ratnalekha Viswandham
+name: Ratnalekha Viswanadham
 image: /assets/img/team/lekha-viswanadham.jpg
 year:
   - 2024
