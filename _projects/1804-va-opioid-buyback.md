@@ -3,9 +3,10 @@ title: Enhancing the effect of cash buyback on the return of unused opioids
 permalink: /projects/opioid-buyback/
 tags: 
   - project
+share_image: /assets/img/project-images/1804.png
 image: /assets/img/project-images/1804.webp
 image_alt_text: Pill container
-image-credit: https://healthcareweekly.com/wp-content/uploads/2020/02/shutterstock_620783861.jpg
+image-credit: https://healthesystems.com/workerscomprehensive/jama-examines-persistent-opioid-use-in-workers-comp-patients/
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf

@@ -2,6 +2,7 @@
 title: Encouraging account transfers by securities holders
 permalink: /projects/securities-account-transfers/
 tags: project
+share_image: /assets/img/project-images/treasury2.jpg
 image: /assets/img/project-images/treasury2.webp
 image_alt_text: Treasury building front
 image-credit: https://www.flickr.com/photos/71380981@N06/

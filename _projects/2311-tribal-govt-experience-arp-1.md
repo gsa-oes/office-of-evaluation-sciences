@@ -4,6 +4,7 @@ permalink: /2311-tribal-govt-experience-arp-1/
 tags: 
   - project
   - arp
+share_image: /assets/img/project-images/2311-image.png
 image: /assets/img/project-images/2311-image.webp
 image_alt_text: Power pylons at sunset
 image-credit: https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI

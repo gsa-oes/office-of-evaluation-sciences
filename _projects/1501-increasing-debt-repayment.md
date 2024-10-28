@@ -2,6 +2,7 @@
 title: Increasing debt repayment by delinquent lenders
 permalink: /projects/increasing-debt-repayment/
 tags: project
+share_image: /assets/img/project-images/treasury2.jpg
 image: /assets/img/project-images/treasury.webp
 image_alt_text: Treasury building front view
 image-credit: https://www.flickr.com/photos/kevlar/

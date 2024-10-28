@@ -4,8 +4,9 @@ permalink: /projects/gi-bill-proactive-communication/
 tags: 
   - project  
   - highered
+share_image: /assets/img/project-images/1810-graph.jpg
 image: /assets/img/project-images/1810.webp
-image-credit: U.S. Army photo by Nell King
+image-credit: https://reservenationalguard.com/reserve-guard-career/clep-helps-military-affiliated-students-save-on-costs/
 image_alt_text: U.S. Army Photo
 analysis-plan: /assets/analysis/1810-analysis-plan.pdf
 abstract: /assets/abstracts/1810-gi-bill-proactive-communication.pdf
@@ -14,7 +15,7 @@ status: Complete
 type: Impact evaluation of program change
 domain: Education
 agency: Veterans Affairs
-summary: A general proactive email, encouraging increased postsecondary enrollment, influenced the enrollment intensity of Post-9/11 GI Bill users
+summary: A general proactive email encouraging increased postsecondary enrollment influenced the enrollment intensity of Post-9/11 GI Bill users
 ---
 ## What was the challenge?
 The Post 9/11 GI Bill provides qualifying service members and Veterans with access to educational benefits to support their active-duty or post-service educational pursuits. PGIB benefits are month-based and the Veterans Experience Office has documented a number of challenges potential beneficiaries face when deciding on how to use their educational benefits. Additionally, VA Education Service has historically reported a beneficiary degree completion rate of approximately 20 percent. Ensuring veterans have access to their full range of educational benefits is a priority for the Department of Veterans Affairs.

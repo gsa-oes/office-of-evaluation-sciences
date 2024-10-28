@@ -2,6 +2,7 @@
 layout: page	
 title: Using OES evidence to inform SSA’s outreach to low-income elderly populations
 permalink: /blog/ssi-utilization/	
+share_image: /assets/img/project-images/2205-image.jpg
 image: /assets/img/project-images/2205-image.webp
 image_alt_text: People sitting on a bench 
 hide_image: true
@@ -9,7 +10,7 @@ year: 2033
 class:	
 summary: 	
 ---
-The Social Security Administration (SSA) administers the Supplemental Security Income (SSI), which provides an income supplement for meeting basic needs to about 8 million aged, blind, and disabled people who have little or no income and assets. In light of <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/" target="_blank"> Executive Order 13985 on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government</a>, making sure that everyone who is eligible for SSI benefits receives them is a priority and can be a challenge. OES is building evidence on what works to help ensure that those who are eligible for SSI receive it.
+The Social Security Administration (SSA) administers the Supplemental Security Income (SSI), which provides an income supplement for meeting basic needs to about 8 million aged, blind, and disabled people who have little or no income and assets. In light of <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/" target="_blank"> Executive Order 13985</a>, making sure that everyone who is eligible for SSI benefits receives them is a priority and can be a challenge. OES is building evidence on what works to help ensure that those who are eligible for SSI receive it.
 
 Research indicates that SSI has one of the lowest uptake rates among federal programs in the United States.¹ ² The COVID-19 pandemic posed new challenges for those that might be eligible, as limitations related to the pandemic made it even harder for already vulnerable groups to get information about their potential SSI eligibility.
 
@@ -37,5 +38,5 @@ In combination, these studies will help policymakers understand how to continue 
 <i><a href="/assets/img/project-images/ssi-timeline.svg">Expand image</a></i>
 
 ### Notes
-1. Strand, Alexander, Kalman Rupp and Paul S. Davies. 2019. “Measurement Error in Estimates of the Participation Rate in Means-Tested Programs: The Case of the US Supplemental Security Income Program for the Elderly.” Proceedings of the Federal Committee on Statistical Methodology Research Conference. Available at <a href="http://fcsm.sites.usa.gov/reports/research/2009research/" target="_blank">http://fcsm.sites.usa.gov/reports/research/2009research/</a>.
+1. Strand, Alexander, Kalman Rupp and Paul S. Davies. 2019. “Measurement Error in Estimates of the Participation Rate in Means-Tested Programs: The Case of the US Supplemental Security Income Program for the Elderly.” Proceedings of the Federal Committee on Statistical Methodology Research Conference. Available at <a href="https://www.fcsm.gov/assets/files/docs/2009FCSM_Strand_V-A.pdf" target="_blank">https://www.fcsm.gov/assets/files/docs/2009FCSM_Strand_V-A.pdf</a>.
 2. McGarry, Kathleen, and Robert Schoeni. 2015. “Understanding participation in SSI.” Michigan Retirement Research Center Working Paper WP 2015-319.

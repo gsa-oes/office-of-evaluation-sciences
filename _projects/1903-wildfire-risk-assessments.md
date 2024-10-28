@@ -5,6 +5,7 @@ tags:
   - project
   - resources
   - housing
+share_image: /assets/img/project-images/1903.jpg
 image: /assets/img/project-images/1903.webp
 image_alt_text: People standing infront of forest
 image-credit: https://www.flickr.com/photos/160831427@N06/46168230601/in/photolist-2dkJftT

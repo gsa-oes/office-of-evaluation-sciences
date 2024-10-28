@@ -3,6 +3,7 @@ title: Simulated analysis of equity in federal broadband programs
 permalink: /collaborations/simulated-analysis-broadband/
 tags:
   - collaborations
+share_image: /assets/img/project-images/2115b.png
 image: /assets/img/project-images/2115b.webp
 image_alt_text: Blue wires
 image-credit: https://www.pexels.com/photo/blue-coated-wire-2420212/

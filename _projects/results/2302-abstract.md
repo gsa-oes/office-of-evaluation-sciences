@@ -4,6 +4,7 @@ layout: page
 permalink: /results/aca-systematic-review-meta-analysis/
 tags: 
   - abstract
+share_image: /assets/img/project-images/2302-image.png
 image: /assets/img/project-images/2302-image.webp
 image_alt_text: Tip for enrollment
 image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/
@@ -49,12 +50,11 @@ Outreach interventions can be effective ways to increase health insurance enroll
 *Notes:*
 1. Ortaliza, Jared, Krutika Amin, Cynthia Cox. As ACA Marketplace enrollment reaches record high, fewer are buying individual market coverage elsewhere. 2023. KFF.
 2. McDermott, Daniel, Cynthia Cox. A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act. 2021. KFF. 
-3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/404a7572048090ec1259d216f3fd617e/aspe-end-mcaid-continuous-coverage_IB.pdf.
-">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20) </a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.  
-4. Moynihan, Donald, Pamela Herd, Hope Harvey. 2015. <a class="usa-link usa-link--external" href="https://doi.org/10.1093/jopart/muu009.">Administrative burden: Learning, psychological, and compliance costs in citizen-state interactions.</a> _Journal of Public Administration Research and Theory_ 25, no. 1 : 43–69. 
+3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/dc73e82abf7fc26b6a8e5cc52ae42d48/aspe-end-mcaid-continuous-coverage.pdf">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20)</a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.  
+4. Moynihan, Donald, Pamela Herd, Hope Harvey. 2015. <a class="usa-link usa-link--external" href="https://academic.oup.com/jpart/article-abstract/25/1/43/885957?redirectedFrom=fulltext">Administrative burden: Learning, psychological, and compliance costs in citizen-state interactions.</a> _Journal of Public Administration Research and Theory_ 25, no. 1 : 43–69. 
 5. This included three databases (PubMed, CINAHL, and Google Scholar) and four registries (PROSPERO systematic review registry, Open Science Framework, the American Economic Association Randomized Controlled Trials registry, and ClinicalTrials.gov).
 6.  To identify an average estimated effect size and explore heterogeneity in effects, we used multi-level random effects models with inverse variance weighting that assume a constant within-study correlation between effect size estimates. This approach weights more precise estimates more heavily, and it accounts for potential relationships between estimates from different arms of the same study. 
 7. A robust Wald test rejected the hypothesis that average effects are equal across dependent variables (p=0.010). Note that we perform separate tests for each comparison exploring differences across intervention types or study characteristics.
 8. A robust Wald test rejected the hypothesis that average effects are equal across dependent variables (p=0.045).
 9. A robust Wald test rejected the hypothesis that average effects are equal across dependent variables (p=0.014).
-10. Myerson, Rebecca, Nicholas Tilipman, Andrew Feher, Honglin Li, Wesley Yin, and Isaac Menashe. 2022. <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2021.01000.">Personalized Telephone Outreach Increased Health Insurance Take-Up For Hard-To-Reach Populations, But Challenges Remain.</a> _Health Affairs_ 41, no. 1: 129-137.
+10. Myerson, Rebecca, Nicholas Tilipman, Andrew Feher, Honglin Li, Wesley Yin, and Isaac Menashe. 2022. <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01000">Personalized Telephone Outreach Increased Health Insurance Take-Up For Hard-To-Reach Populations, But Challenges Remain.</a> _Health Affairs_ 41, no. 1: 129-137.

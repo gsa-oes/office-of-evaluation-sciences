@@ -5,6 +5,7 @@ tags:
   - project
   - arp
   - health insurance
+share_image: /assets/img/project-images/2302-image.png
 image: /assets/img/project-images/2302-image.webp
 image_alt_text: Tip for enrollment
 image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/
@@ -39,7 +40,6 @@ From this, we learned that outreach interventions can increase take-up. Increasi
 Notes:
 1. Ortaliza, Jared, Krutika Amin, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/as-aca-marketplace-enrollment-reaches-record-high-fewer-are-buying-individual-market-coverage-elsewhere/">As ACA Marketplace enrollment reaches record high, fewer are buying individual market coverage elsewhere.</a> 2023. KFF. 
 2. McDermott, Daniel, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/a-closer-look-at-the-uninsured-marketplace-eligible-population-following-the-american-rescue-plan-act/">A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act.</a> 2021. KFF.
-3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/404a7572048090ec1259d216f3fd617e/aspe-end-mcaid-continuous-coverage_IB.pdf.
-">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20) </a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.  
+3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/dc73e82abf7fc26b6a8e5cc52ae42d48/aspe-end-mcaid-continuous-coverage.pdf">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20)</a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.  
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2302-ARP-ACA-analysis.pdf">on GitHub</a>. 

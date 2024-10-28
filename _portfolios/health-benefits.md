@@ -2,6 +2,7 @@
 layout: portfolio
 title: Accessing health benefits
 permalink: /health-insurance-benefits/
+share_image: /assets/img/project-images/health-benefits.png
 image: /assets/img/project-images/health-benefits.webp
 image_alt_text: Piggy bank
 hide_image: true

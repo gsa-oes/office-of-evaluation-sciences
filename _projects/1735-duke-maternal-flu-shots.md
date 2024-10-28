@@ -4,6 +4,7 @@ permalink: /projects/duke-maternal-flu-shots/
 tags:
   - project
   - vaccines
+share_image: /assets/img/project-images/1735.jpg
 image: /assets/img/project-images/1735.webp
 image_alt_text: Nurse applying a vaccine
 image-credit: http://res.freestockphotos.biz/pictures/17/17097-a-nurse-giving-a-woman-a-flu-vaccine-shot-pv.webp

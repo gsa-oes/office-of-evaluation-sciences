@@ -2,6 +2,7 @@
 layout: page	
 title: A discussion with OES alums - where are they now?
 permalink: /blog/alumni/	
+share_image: /assets/img/project-images/alumni-blog.png
 image: /assets/img/project-images/alumni-blog.webp
 image_alt_text: Users illustration
 hide_image: true

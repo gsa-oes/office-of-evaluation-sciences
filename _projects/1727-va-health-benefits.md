@@ -4,6 +4,7 @@ permalink: /projects/va-health-care-benefits/
 tags: 
   - project  
   - health insurance
+share_image: /assets/img/project-images/1727.jpg
 image: /assets/img/project-images/1727.webp
 image_alt_text: Patient in a wheelchair at a hospital
 image-credit: https://www.flickr.com/photos/marine_corps/4586886190/in/photolist-7ZjZsE

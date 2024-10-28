@@ -46,9 +46,6 @@ summary: Read more about OES through media coverage or contact our press office.
 <a class="usa-link usa-link--external" href="https://www.govexec.com/management/2019/10/why-agencies-need-tap-revolutionary-potential-behavioral-science/160524/" target="_blank">Why Agencies Need to Tap the Revolutionary Potential of Behavioral Science</a>
 <br/><i>Government Executive</i>, October 2019
 
-<a class="usa-link usa-link--external" href="https://fcw.com/blogs/lectern/2019/09/kelman-nudge-gsa.aspx" target="_blank">Government steps out on ‘nudges’</a>
-<br/><i>FCW</i>, September 2019
-
 <a class="usa-link usa-link--external" href="https://www.govexec.com/management/2019/08/after-federal-officials-sent-letters-over-prescribing-docs-prescriptions-fell-and-patient-safety-rose/159443/" target="_blank">After Federal Officials Sent Letters to Over-Prescribing Docs, Prescriptions Fell and Patient Safety Rose</a>
 <br/><i>Government Executive</i>, August 2019
 
@@ -105,7 +102,7 @@ summary: Read more about OES through media coverage or contact our press office.
 
 For all press inquiries, please email <a href="mailto:press@gsa.gov?subject=OES-Press-Inquiry">press@gsa.gov</a> with the topic you’d like to talk about and your deadline.
 
-The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at OES. See the <a href="https://www.gsa.gov/portal/category/26627" target="_blank">GSA Newsroom</a> for news releases and official resources.
+The GSA Office of Strategic Communications handles all press questions and can connect you with the proper people at OES. See the <a href="https://www.gsa.gov/about-us/newsroom?_gl=1*nvc51i*_ga*MTg3NjEzNTg2My4xNjY2Mzg2MDIx*_ga_HBYXWFP794*MTcyODQ5NDk4NS4xNjcuMS4xNzI4NDk0OTg1LjAuMC4w" target="_blank">GSA Newsroom</a> for news releases and official resources.
 
 If you’re writing a story about OES, feel free to use the images below.
 

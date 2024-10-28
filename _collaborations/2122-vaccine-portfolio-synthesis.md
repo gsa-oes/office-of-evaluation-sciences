@@ -4,6 +4,7 @@ permalink: /collaborations/vaccine-communications-synthesis/
 tags:
   - collaborations
   - vaccines
+share_image: /assets/img/project-images/othercollabs/vaccine-synthesis.png
 image: /assets/img/project-images/othercollabs/vaccine-synthesis.webp
 year: 2021
 domain: Health

@@ -5,6 +5,7 @@ tags:
   - project
   - vaccines
   - healthit
+share_image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.jpg
 image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.webp
 image_alt_text: Patients/vaccines
 image-credit: https://www.army.mil/article/191935/increasing_patient_satisfaction_and_health_communication_through_relayhealth
