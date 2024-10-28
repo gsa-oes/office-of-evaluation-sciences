@@ -1063,7 +1063,7 @@
           }
 
           .chart-container {
-            margin: 20px 0 20px 0;
+            margin: 20px 0 40px 0;
             figure {
               margin: 0;
               .legend-item-swatch rect {
@@ -1072,6 +1072,13 @@
               }
               .legend-item-swatches {
                 row-gap: 5px;
+              }
+            }
+            svg {
+              [aria-label="x-axis tick label"] {
+                text {
+                  font-size: 8.5px;
+                }
               }
             }
           }

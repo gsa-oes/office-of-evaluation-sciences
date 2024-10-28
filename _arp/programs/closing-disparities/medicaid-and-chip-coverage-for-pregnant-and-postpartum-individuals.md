@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/medicaid-and-childrens-health-insurance-program-coverage-for-pregnant-and-postpartum-individuals
+permalink: /arp/programs/closing-health-disparities/medicaid-and-chip-coverage-for-pregnant-and-postpartum-individuals
 title: "Program: Medicaid and Children's Health Insurance Program Coverage for Pregnant and Postpartum Individuals | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Medicaid and Children's Health Insurance Program Coverage for Pregnant and Postpartum Individuals
 image_path: /assets/img/arp/placeholder.png

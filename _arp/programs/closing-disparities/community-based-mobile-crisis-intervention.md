@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/community-based-mobile-crisis-intervention
+permalink: /arp/programs/closing-health-disparities/community-based-mobile-crisis-intervention
 title: "Program: Community-Based Mobile Crisis Intervention | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Community-Based Mobile Crisis Intervention
 image_path: /assets/img/arp/placeholder.png

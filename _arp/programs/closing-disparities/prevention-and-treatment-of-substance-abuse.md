@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/prevention-and-treatment-of-substance-abuse
+permalink: /arp/programs/closing-health-disparities/prevention-and-treatment-of-substance-abuse
 title: "Program: Prevention and Treatment of Substance Abuse | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Prevention and Treatment of Substance Abuse
 image_path: /assets/img/arp/placeholder.png

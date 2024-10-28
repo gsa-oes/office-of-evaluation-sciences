@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization
+permalink: /arp/programs/closing-health-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization
 title: "Program: Special Supplemental Nutrition Program for Women, Infants, and Children Modernization | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Special Supplemental Nutrition Program for Women, Infants, and Children Modernization
 image_path: /assets/img/arp/placeholder.png

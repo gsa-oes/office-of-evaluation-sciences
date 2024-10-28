@@ -1,18 +1,34 @@
 document.addEventListener("alpine:init", () => {
-  function parseCurrency(value) {
-    return parseFloat(value.replace(/[$,]/g, ""));
+  // Helper function to explode comma-separated values
+  function explodeField(data, field) {
+    return data.flatMap((d) => {
+      if (!d[field] || d[field] === "N/A")
+        return [{ ...d, [field]: "Not Specified" }];
+      return d[field]
+        .split(",")
+        .map((value) => value.trim())
+        .map((value) => ({ ...d, [field]: value }));
+    });
   }
 
   function wrapText(text, maxLength) {
-    if (text.length <= maxLength) return text;
-    const words = text.split(" ");
+    // Break up individual words if they're longer than maxLength
+    const words = text.split(" ").map((word) =>
+      word.length > maxLength
+        ? word
+            .match(new RegExp(`.{1,${maxLength}}`, "g"))
+            .map((part, i, arr) => (i < arr.length - 1 ? part + "-" : part))
+            .join("\n")
+        : word
+    );
+    // Then combine words while respecting maxLength
     let lines = [];
     let currentLine = "";
     words.forEach((word) => {
       if ((currentLine + word).length <= maxLength) {
         currentLine += (currentLine ? " " : "") + word;
       } else {
-        lines.push(currentLine);
+        if (currentLine) lines.push(currentLine);
         currentLine = word;
       }
     });
@@ -28,80 +44,85 @@ document.addEventListener("alpine:init", () => {
 
   Alpine.data("dashboardData", () => ({
     selectedType: "programs", // values: "programs" and "evaluations"
-    selectedCharacteristic1: "Agency",
+    selectedCharacteristic1: "Agency (short)",
     selectedCharacteristic2: "Program Type",
     selectedMeasure: "total_funding",
 
-    selectedCharacteristic1_eval: "Agency",
+    selectedCharacteristic1_eval: "Agency (short)",
     selectedCharacteristic2_eval: "Program Type",
     allPrograms: [],
     selectedProgram: "all",
     tableData_eval: [],
 
-    data: [],
+    programData: [],
+    evalData: [],
 
     loadData() {
-      d3.csv("/assets/js/arp/dashboard-data.csv").then((loadedData) => {
-        this.data = loadedData;
-        this.allPrograms = [...new Set(this.data.map((d) => d.Program))];
-        this.updateProgramsChart();
-        this.updateEvaluationsChart();
-        this.updateEvaluationsTableData();
-      });
+      Promise.all([
+        d3.csv("/assets/js/arp/prog_data.csv"),
+        d3.csv("/assets/js/arp/eval_data.csv"),
+      ])
+        .then(([programData, evaluationData]) => {
+          this.programData = programData;
+          this.evalData = evaluationData;
+
+          this.allPrograms = [...new Set(this.evalData.map((d) => d.Program))];
+
+          this.updateProgramsChart();
+          this.updateEvaluationsChart();
+          this.updateEvaluationsTableData();
+        })
+        .catch((error) => {
+          console.error("Error loading program explorer data:", error);
+        });
     },
 
     updateProgramsChart() {
       const programsChartDiv = document.querySelector("#programs-chart");
       programsChartDiv.innerHTML = "";
 
+      // Pre-process data if needed
+      let chartData = [...this.programData];
+      if (
+        this.selectedCharacteristic1 === "Intended Population" ||
+        this.selectedCharacteristic1 === "Funding Recipient(s)"
+      ) {
+        chartData = explodeField(chartData, this.selectedCharacteristic1);
+      }
+      if (
+        this.selectedCharacteristic2 === "Intended Population" ||
+        this.selectedCharacteristic2 === "Funding Recipient(s)"
+      ) {
+        chartData = explodeField(chartData, this.selectedCharacteristic2);
+      }
+
       const sameOption =
         this.selectedCharacteristic1 === this.selectedCharacteristic2;
-
-      let measureKey;
-      let filteredData;
-      if (this.selectedMeasure === "total_funding") {
-        measureKey = "Funding Level1";
-        filteredData = this.data
-          .filter((d) => d[measureKey] !== "")
-          .map((d) => ({
-            ...d,
-            "Funding Level1": parseCurrency(d[measureKey]),
-          }));
-      } else if (this.selectedMeasure === "average_funding") {
-        measureKey = "average_funding";
-        filteredData = this.data
-          .filter((d) => d["Funding Level1"] !== "")
-          .map((d) => ({
-            ...d,
-            average_funding:
-              parseCurrency(d["Funding Level1"]) / d["number of programs"],
-          }));
-      } else if (this.selectedMeasure === "count_of_programs") {
-        measureKey = "number of programs";
-        filteredData = this.data.filter((d) => d["number of programs"] !== "");
-      }
 
       const plot = Plot.plot({
         style: {
           width: "100%",
         },
-        marginBottom: 90,
+        marginBottom: 60,
         marginLeft: 50,
         y: {
           label: programsChartLabels[this.selectedMeasure],
           labelAnchor: "center",
           labelOffset: 45,
           line: true,
-          transform: (d) => d / 1e9,
+          transform:
+            this.selectedMeasure !== "count_of_programs"
+              ? (d) => d / 1e9 // Convert to billions
+              : null,
           tickFormat: (d) => d.toFixed(0),
           labelArrow: "none",
         },
         x: {
-          label: this.selectedCharacteristic1,
-          labelOffset: 80,
+          label: this.selectedCharacteristic1.replace(" (short)", ""),
+          labelOffset: 55,
           line: true,
           tickSize: 0,
-          tickFormat: (d) => wrapText(d, 9),
+          tickFormat: (d) => wrapText(d, 12),
         },
         color: {
           legend: sameOption ? false : true,
@@ -110,13 +131,20 @@ document.addEventListener("alpine:init", () => {
         },
         marks: [
           Plot.barY(
-            filteredData,
+            chartData,
             sameOption
               ? Plot.groupX(
-                  { y: "sum" },
+                  {
+                    y:
+                      this.selectedMeasure === "count_of_programs"
+                        ? "count"
+                        : this.selectedMeasure === "average_funding"
+                        ? "mean"
+                        : "sum",
+                  },
                   {
                     x: (d) => d[this.selectedCharacteristic1],
-                    y: (d) => d[measureKey],
+                    y: (d) => d["Funding Level"], // ignored when "counts" is selected for data aggregation
                     fill: (d) => d[this.selectedCharacteristic1],
                     stroke: "black",
                     strokeWidth: 0.5,
@@ -124,10 +152,17 @@ document.addEventListener("alpine:init", () => {
                 )
               : Plot.stackY(
                   Plot.groupX(
-                    { y: "sum" },
+                    {
+                      y:
+                        this.selectedMeasure === "count_of_programs"
+                          ? "count"
+                          : this.selectedMeasure === "average_funding"
+                          ? "mean"
+                          : "sum",
+                    },
                     {
                       x: (d) => d[this.selectedCharacteristic1],
-                      y: (d) => d[measureKey],
+                      y: (d) => d["Funding Level"],
                       fill: (d) => d[this.selectedCharacteristic2],
                       stroke: "black",
                       strokeWidth: 0.5,
@@ -152,6 +187,20 @@ document.addEventListener("alpine:init", () => {
       const evaluationsChartDiv = document.querySelector("#evaluations-chart");
       evaluationsChartDiv.innerHTML = "";
 
+      let chartData = [...this.evalData];
+      if (
+        this.selectedCharacteristic1_eval === "Intended Population" ||
+        this.selectedCharacteristic1_eval === "Funding Recipient(s)"
+      ) {
+        chartData = explodeField(chartData, this.selectedCharacteristic1_eval);
+      }
+      if (
+        this.selectedCharacteristic2_eval === "Intended Population" ||
+        this.selectedCharacteristic2_eval === "Funding Recipient(s)"
+      ) {
+        chartData = explodeField(chartData, this.selectedCharacteristic2_eval);
+      }
+
       const sameOption =
         this.selectedCharacteristic1_eval === this.selectedCharacteristic2_eval;
 
@@ -159,7 +208,7 @@ document.addEventListener("alpine:init", () => {
         style: {
           width: "100%",
         },
-        marginBottom: 90,
+        marginBottom: 60,
         marginLeft: 50,
         y: {
           label: "Number of Evaluations",
@@ -170,10 +219,10 @@ document.addEventListener("alpine:init", () => {
         },
         x: {
           label: this.selectedCharacteristic1_eval,
-          labelOffset: 80,
+          labelOffset: 55,
           line: true,
           tickSize: 0,
-          tickFormat: (d) => wrapText(d, 9),
+          tickFormat: (d) => wrapText(d, 12),
         },
         color: {
           legend: sameOption ? false : true,
@@ -182,17 +231,14 @@ document.addEventListener("alpine:init", () => {
         },
         marks: [
           Plot.barY(
-            this.data,
-            /*
-            I use column "Evaluation Type1 (group)" for "Evaluation name".
-            This will change eventually when data is updated.
-            */
+            chartData,
             sameOption
               ? Plot.groupX(
-                  { y: "distinct" },
+                  {
+                    y: "count",
+                  },
                   {
                     x: (d) => d[this.selectedCharacteristic1_eval],
-                    y: (d) => d["Evaluation Type1 (group)"],
                     fill: (d) => d[this.selectedCharacteristic1_eval],
                     stroke: "black",
                     strokeWidth: 0.5,
@@ -200,10 +246,11 @@ document.addEventListener("alpine:init", () => {
                 )
               : Plot.stackY(
                   Plot.groupX(
-                    { y: "distinct" },
+                    {
+                      y: "count",
+                    },
                     {
                       x: (d) => d[this.selectedCharacteristic1_eval],
-                      y: (d) => d["Evaluation Type1 (group)"],
                       fill: (d) => d[this.selectedCharacteristic2_eval],
                       stroke: "black",
                       strokeWidth: 0.5,
@@ -225,9 +272,9 @@ document.addEventListener("alpine:init", () => {
 
     updateEvaluationsTableData() {
       if (this.selectedProgram === "all") {
-        this.tableData_eval = this.data;
+        this.tableData_eval = this.evalData;
       } else {
-        this.tableData_eval = this.data.filter(
+        this.tableData_eval = this.evalData.filter(
           (d) => d.Program === this.selectedProgram
         );
       }

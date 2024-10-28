@@ -52,14 +52,13 @@ update_date: 09/19/2024
                 ><strong>Program Characteristic 1</strong></label
               >
               <select id="characteristic1" x-model="selectedCharacteristic1">
-                <option value="Topic">Topic</option>
-                <option value="Agency">Agency</option>
+                <option value="Topic (short)">Topic</option>
+                <option value="Agency (short)">Agency</option>
                 <option value="Program Type">Program Type</option>
-                <option value="Intended Population">
-                  Intended Populations
+                <option value="Intended Population">Intended Population</option>
+                <option value="Funding Recipient(s)">
+                  Funding Recipient(s)
                 </option>
-                <option value="Funding Recipient">Funding Recipient</option>
-                <option value="Funding Flow">Funding Flow</option>
               </select>
             </div>
 
@@ -68,14 +67,13 @@ update_date: 09/19/2024
                 ><strong>Program Characteristic 2</strong></label
               >
               <select id="characteristic2" x-model="selectedCharacteristic2">
-                <option value="Topic">Topic</option>
-                <option value="Agency">Agency</option>
+                <option value="Topic (short)">Topic</option>
+                <option value="Agency (short)">Agency</option>
                 <option value="Program Type">Program Type</option>
-                <option value="Intended Population">
-                  Intended Populations
+                <option value="Intended Population">Intended Population</option>
+                <option value="Funding Recipient(s)">
+                  Funding Recipient(s)
                 </option>
-                <option value="Funding Recipient">Funding Recipient</option>
-                <option value="Funding Flow">Funding Flow</option>
               </select>
             </div>
 
@@ -101,26 +99,30 @@ update_date: 09/19/2024
                   <th>Program</th>
                   <th>Agency</th>
                   <th>Program Type</th>
-                  <th>Intended Populations</th>
-                  <th>Funding Recipients</th>
-                  <th>Funding Flow</th>
+                  <th>Intended Population</th>
+                  <th>Funding Recipient(s)</th>
                   <th>Funding Level</th>
                 </tr>
               </thead>
               <tbody>
                 <template
-                  x-for="(program, index) in data"
+                  x-for="(program, index) in programData"
                   :key="program.Program+index"
                 >
                   <tr>
-                    <td x-text="program.Topic"></td>
+                    <td>
+                      <a
+                        :href="'/arp/programs/' + program['Topic'].toLowerCase().replace(/\s+/g, '-') + '/' + program.Program.toLowerCase().replace(/\s+/g, '-')"
+                        x-text="program['Topic (short)']"
+                      >
+                      </a>
+                    </td>
                     <td x-text="program.Program"></td>
-                    <td x-text="program.Agency"></td>
+                    <td x-text="program['Agency (short)']"></td>
                     <td x-text="program['Program Type']"></td>
                     <td x-text="program['Intended Population']"></td>
-                    <td x-text="program['Funding Recipient']"></td>
-                    <td x-text="program['Funding Flow']"></td>
-                    <td x-text="program['Funding Level1']"></td>
+                    <td x-text="program['Funding Recipient(s)']"></td>
+                    <td x-text="program['Funding Level']"></td>
                   </tr>
                 </template>
               </tbody>
@@ -150,14 +152,13 @@ update_date: 09/19/2024
                 id="characteristic1_eval"
                 x-model="selectedCharacteristic1_eval"
               >
-                <option value="Agency">Agency</option>
-                <option value="Topic">Topic</option>
+                <option value="Agency (short)">Agency</option>
+                <option value="Topic (short)">Topic</option>
                 <option value="Program Type">Program Type</option>
-                <option value="Intended Population">
-                  Intended Populations
+                <option value="Intended Population">Intended Population</option>
+                <option value="Funding Recipient(s)">
+                  Funding Recipient(s)
                 </option>
-                <option value="Funding Flow">Funding Flow</option>
-                <option value="Funding Recipient">Funding Recipient</option>
               </select>
             </div>
 
@@ -169,14 +170,13 @@ update_date: 09/19/2024
                 id="characteristic2_eval"
                 x-model="selectedCharacteristic2_eval"
               >
-                <option value="Agency">Agency</option>
-                <option value="Topic">Topic</option>
+                <option value="Agency (short)">Agency</option>
+                <option value="Topic (short)">Topic</option>
                 <option value="Program Type">Program Type</option>
-                <option value="Intended Population">
-                  Intended Populations
+                <option value="Intended Population">Intended Population</option>
+                <option value="Funding Recipient(s)">
+                  Funding Recipient(s)
                 </option>
-                <option value="Funding Flow">Funding Flow</option>
-                <option value="Funding Recipient">Funding Recipient</option>
               </select>
             </div>
           </div>
@@ -210,8 +210,8 @@ update_date: 09/19/2024
                   <th>Topic</th>
                   <th>Agency</th>
                   <th>Program Type</th>
-                  <th>Funding Recipients</th>
-                  <th>Intended Populations</th>
+                  <th>Funding Recipient(s)</th>
+                  <th>Intended Population</th>
                 </tr>
               </thead>
               <tbody>
@@ -223,13 +223,13 @@ update_date: 09/19/2024
                     <!-- I use column "Evaluation Type1 (group)" for "Evaluation name" and "Evaluation Type1 (group) 1 for "Evaluator".
                      This will change eventually when data is updated. -->
                     <td x-text="program.Program"></td>
-                    <td x-text="program['Evaluation Type1 (group)']"></td>
+                    <td x-text="program['Evaluation Name']"></td>
                     <td x-text="program['Evaluation Type']"></td>
-                    <td x-text="program['Evaluation Type1 (group) 1']"></td>
-                    <td x-text="program.Topic"></td>
-                    <td x-text="program.Agency"></td>
+                    <td x-text="program['Evaluator(s)']"></td>
+                    <td x-text="program['Topic (short)']"></td>
+                    <td x-text="program['Agency (short)']"></td>
                     <td x-text="program['Program Type']"></td>
-                    <td x-text="program['Funding Recipient']"></td>
+                    <td x-text="program['Funding Recipient(s)']"></td>
                     <td x-text="program['Intended Population']"></td>
                   </tr>
                 </template>

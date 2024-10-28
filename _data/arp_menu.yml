@@ -69,19 +69,19 @@ menu_items:
         url: /arp/programs/topics/closing-disparities
         submenu:
           - title: Family Violence Prevention and Services Program
-            url: /arp/programs/closing-disparities/family-violence-prevention-and-services-program
+            url: /arp/programs/closing-health-disparities/family-violence-prevention-and-services-program
           - title: Medicaid and Children's Health Insurance Program Coverage for Pregnant and Postpartum Individuals
-            url: /arp/programs/closing-disparities/medicaid-and-childrens-health-insurance-program-coverage-for-pregnant-and-postpartum-individuals
+            url: /arp/programs/closing-health-disparities/medicaid-and-chip-coverage-for-pregnant-and-postpartum-individuals
           - title: Prevention and Treatment of Substance Abuse
-            url: /arp/programs/closing-disparities/prevention-and-treatment-of-substance-abuse
+            url: /arp/programs/closing-health-disparities/prevention-and-treatment-of-substance-abuse
           - title: Community-Based Mobile Crisis Intervention
-            url: /arp/programs/closing-disparities/community-based-mobile-crisis-intervention
+            url: /arp/programs/closing-health-disparities/community-based-mobile-crisis-intervention
           - title: Special Supplemental Nutrition Program for Women, Infants, and Children Modernization
-            url: /arp/programs/closing-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization
+            url: /arp/programs/closing-health-disparities/special-supplemental-nutrition-program-for-women-infants-and-children-modernization
           - title: Health Insurance Premium Tax Credit
-            url: /arp/programs/closing-disparities/health-insurance-premium-tax-credit
+            url: /arp/programs/closing-health-disparities/health-insurance-premium-tax-credit
           - title: Increase in Access to Home and Community-Based Services
-            url: /arp/programs/closing-disparities/increase-in-access-to-home-and-community-based-services
+            url: /arp/programs/closing-health-disparities/increase-in-access-to-home-and-community-based-services
   - title: Program documents and data
     url: /arp/docs-and-data/
   - title: Our studies

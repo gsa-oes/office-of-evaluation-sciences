@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/health-insurance-premium-tax-credit
+permalink: /arp/programs/closing-health-disparities/health-insurance-premium-tax-credit
 title: "Program: Health Insurance Premium Tax Credit | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Health Insurance Premium Tax Credit
 image_path: /assets/img/arp/placeholder.png

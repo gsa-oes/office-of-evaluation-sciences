@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/increase-in-access-to-home-and-community-based-services
+permalink: /arp/programs/closing-health-disparities/increase-in-access-to-home-and-community-based-services
 title: "Program: Increase in Access to Home and Community-Based Services | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Increase in Access to Home and Community-Based Services
 image_path: /assets/img/arp/placeholder.png

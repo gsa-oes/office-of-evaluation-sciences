@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/closing-disparities/family-violence-prevention-and-services-program
+permalink: /arp/programs/closing-health-disparities/family-violence-prevention-and-services-program
 title: "Program: Family Violence Prevention and Services Program | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Family Violence Prevention and Services Program
 image_path: /assets/img/arp/placeholder.png
