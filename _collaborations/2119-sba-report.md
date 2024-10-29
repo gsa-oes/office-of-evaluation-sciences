@@ -1,5 +1,5 @@
 ---
-title: Challenges and opportunities for pursuing equitable distribution of small business relief
+title: Challenges and opportunities for pursuing distribution of small business relief to those who need and qualify for it
 permalink: /collaborations/sba-equity-report/
 tags:
   - project

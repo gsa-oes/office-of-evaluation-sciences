@@ -1,5 +1,5 @@
 ---
-title: Supporting NOAA’s Equity Assessment Teams
+title: Supporting evidence building at NOAA
 permalink: /collaborations/noaa-equity-assessment/
 tags:
   - resources
@@ -14,10 +14,10 @@ type: Evaluation design
 status: Complete
 domain: 
 agency: 
-summary: Evaluation options to build evidence for equity action plans at NOAA
+summary: Evaluation options to identify and address program barriers
 ---
 ## What was the challenge? 
-In response to Executive Order 13985, *On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government (The Equity EO)*, Equity Assessment Teams within the National Weather Service, the National Sea Grant College Program, and the Office for Coastal Management conducted service equity assessments for their programs. Their goal was to understand what aspects of their programs perpetuate systemic barriers for members of underserved communities and identify program changes  to address these barriers in their upcoming Equity Action Plans. 
+In response to Executive Order 13985, Equity Assessment Teams within the National Weather Service, the National Sea Grant College Program, and the Office for Coastal Management conducted service equity assessments for their programs. Their goal was to understand what aspects of their programs perpetuate systemic barriers for members of underserved communities and identify program changes  to address these barriers in their upcoming Equity Action Plans. 
 
 ## What did we do? 
 We partnered with three NOAA Equity Assessment Teams to develop several evaluations that could build evidence about each program’s upcoming Equity Action Plan and NOAA’s efforts to address equity barriers. The recommendations include evaluation approaches based on each program’s service equity objectives, specific definitions of underserved communities, equity baselines and benchmarks, and potential data sources for evaluations.

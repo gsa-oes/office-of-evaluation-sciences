@@ -1,5 +1,5 @@
 ---
-title:  Equity in the distribution of the Emergency Rental Assistance program
+title: Describing the distribution of Emergency Rental Assistance funds to those who need and qualify for it
 permalink: /projects/era-equity/
 tags: 
  - project
@@ -19,7 +19,7 @@ domain:
 - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
-summary: A descriptive study of equity in the first-ever nationwide eviction prevention program
+summary: A descriptive study of the first-ever nationwide eviction prevention program
 featured:
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: How documentation burdens affect the equitable distribution of small business relief funding
+title: How documentation burdens affect the distribution of small business relief funding
 permalink: /projects/business-relief-distribution/
 tags: 
   - project

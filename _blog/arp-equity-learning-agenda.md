@@ -1,6 +1,6 @@
 ---
 layout: page	
-title: Learning What Works to Build an Equitable Recovery
+title: Learning what works to build a recovery ensuring access for all Americans
 permalink: /blog/build-equitable-recovery/	
 share_image: /assets/img/project-images/arp-equity-la.png
 image: /assets/img/project-images/arp-equity-la.webp
