@@ -1084,9 +1084,39 @@
           }
 
           .program-explorer-table {
+            margin: 20px 0 0 0;
             overflow: auto;
             max-height: 600px;
-            margin: 20px 0 0 0;
+            table {
+              th,
+              td {
+                border: none;
+                border-right: 0.75px solid #8b8680;
+                &:last-child {
+                  border-right: none;
+                }
+                font-size: 14px;
+              }
+              .text-with-tooltip {
+                cursor: help;
+                color: #19677f;
+                text-decoration: underline;
+              }
+              thead {
+                tr {
+                  th {
+                    text-align: center;
+                  }
+                }
+              }
+              tbody {
+                tr:nth-child(odd) {
+                  td {
+                    background-color: #efeff0;
+                  }
+                }
+              }
+            }
           }
         }
       }

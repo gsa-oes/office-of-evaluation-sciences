@@ -36,6 +36,48 @@ document.addEventListener("alpine:init", () => {
     return lines.join("\n");
   }
 
+  function addTooltipsToAxisLabels(chartId, data, characteristic) {
+    if (!characteristic.includes("(short)")) return;
+
+    const tooltip = d3.select("#program-explorer-custom-tooltip");
+
+    // store all unique values for this characteristic
+    const valueMap = new Map(
+      data.map((d) => [
+        wrapText(d[characteristic], 12).replace(/\n/g, ""), // wrapped text get rid of line breaks
+        d[characteristic], // original value
+      ])
+    );
+
+    d3.selectAll(`#${chartId} svg [aria-label="x-axis tick label"] text`).each(
+      function () {
+        const wrappedText = d3.select(this).text(); // this value is wrapped text without line breaks
+        const shortName = valueMap.get(wrappedText); // Get original value
+        const fullName = data.find((p) => p[characteristic] === shortName)?.[
+          characteristic.replace(" (short)", "")
+        ];
+
+        d3.select(this)
+          .style("cursor", "pointer")
+          .on("mouseover", (event) => {
+            tooltip
+              .style("visibility", "visible")
+              .text(fullName)
+              .style("left", `${event.pageX + 20}px`)
+              .style("top", `${event.pageY + 10}px`);
+          })
+          .on("mousemove", (event) => {
+            tooltip
+              .style("left", `${event.pageX + 20}px`)
+              .style("top", `${event.pageY + 10}px`);
+          })
+          .on("mouseout", () => {
+            tooltip.style("visibility", "hidden");
+          });
+      }
+    );
+  }
+
   const programsChartLabels = {
     total_funding: "Total Funding (In Billions of USD)",
     average_funding: "Average Funding (In Billions of USD)",
@@ -144,7 +186,7 @@ document.addEventListener("alpine:init", () => {
                   },
                   {
                     x: (d) => d[this.selectedCharacteristic1],
-                    y: (d) => d["Funding Level"], // ignored when "counts" is selected for data aggregation
+                    y: (d) => d["Funding Level"], // ignored when y data aggregation is "count"
                     fill: (d) => d[this.selectedCharacteristic1],
                     stroke: "black",
                     strokeWidth: 0.5,
@@ -163,7 +205,15 @@ document.addEventListener("alpine:init", () => {
                     {
                       x: (d) => d[this.selectedCharacteristic1],
                       y: (d) => d["Funding Level"],
-                      fill: (d) => d[this.selectedCharacteristic2],
+                      fill: (d) =>
+                        d[
+                          this.selectedCharacteristic2.includes(" (short)")
+                            ? this.selectedCharacteristic2.replace(
+                                " (short)",
+                                ""
+                              )
+                            : this.selectedCharacteristic2
+                        ],
                       stroke: "black",
                       strokeWidth: 0.5,
                     }
@@ -174,7 +224,14 @@ document.addEventListener("alpine:init", () => {
       });
 
       programsChartDiv.appendChild(plot);
+
+      addTooltipsToAxisLabels(
+        "programs-chart",
+        this.programData,
+        this.selectedCharacteristic1
+      );
     },
+
     programsChartDependencies() {
       return [
         this.selectedCharacteristic1,
@@ -218,7 +275,7 @@ document.addEventListener("alpine:init", () => {
           labelArrow: "none",
         },
         x: {
-          label: this.selectedCharacteristic1_eval,
+          label: this.selectedCharacteristic1_eval.replace(" (short)", ""),
           labelOffset: 55,
           line: true,
           tickSize: 0,
@@ -251,7 +308,15 @@ document.addEventListener("alpine:init", () => {
                     },
                     {
                       x: (d) => d[this.selectedCharacteristic1_eval],
-                      fill: (d) => d[this.selectedCharacteristic2_eval],
+                      fill: (d) =>
+                        d[
+                          this.selectedCharacteristic2_eval.includes(" (short)")
+                            ? this.selectedCharacteristic2_eval.replace(
+                                " (short)",
+                                ""
+                              )
+                            : this.selectedCharacteristic2_eval
+                        ],
                       stroke: "black",
                       strokeWidth: 0.5,
                     }
@@ -262,7 +327,14 @@ document.addEventListener("alpine:init", () => {
       });
 
       evaluationsChartDiv.appendChild(plot);
+
+      addTooltipsToAxisLabels(
+        "evaluations-chart",
+        this.evalData,
+        this.selectedCharacteristic1_eval
+      );
     },
+
     evaluationsChartDependencies() {
       return [
         this.selectedCharacteristic1_eval,

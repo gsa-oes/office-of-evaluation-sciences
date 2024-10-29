@@ -55,6 +55,10 @@
 
   <!--  More info: https://github.com/audreyr/favicon-cheat-sheet -->
     
+  {% if page.url contains '/arp/program-explorer' %}
+    <script defer src="{{ site.baseurl }}/assets/js/arp/alpine-tooltip@2.0.1.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css" />
+  {% endif %}
   {% if page.url contains '/arp' %}
     <script defer src="{{ site.baseurl }}/assets/js/arp/alpinejs@3.14.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/arp/scripts.js"></script>

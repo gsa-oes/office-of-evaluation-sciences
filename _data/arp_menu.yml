@@ -66,7 +66,7 @@ menu_items:
           - title: Extension and Expansion of Pandemic Electronic Benefit Transfer
             url: /arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer
       - title: Closing health disparities
-        url: /arp/programs/topics/closing-disparities
+        url: /arp/programs/topics/closing-health-disparities
         submenu:
           - title: Family Violence Prevention and Services Program
             url: /arp/programs/closing-health-disparities/family-violence-prevention-and-services-program

@@ -112,13 +112,24 @@ update_date: 09/19/2024
                   <tr>
                     <td>
                       <a
-                        :href="'/arp/programs/' + program['Topic'].toLowerCase().replace(/\s+/g, '-') + '/' + program.Program.toLowerCase().replace(/\s+/g, '-')"
+                        :href="'/arp/programs/topics/' + program['Topic'].toLowerCase().replace(/\s+/g, '-')"
                         x-text="program['Topic (short)']"
-                      >
-                      </a>
+                        x-tooltip="program['Topic']"
+                      ></a>
                     </td>
-                    <td x-text="program.Program"></td>
-                    <td x-text="program['Agency (short)']"></td>
+                    <td>
+                      <a
+                        :href="'/arp/programs/' + program['Topic'].toLowerCase().replace(/\s+/g, '-') + '/' + program.Program.toLowerCase().replace(/\s+/g, '-')"
+                        x-text="program.Program"
+                      ></a>
+                    </td>
+                    <td>
+                      <span
+                        class="text-with-tooltip"
+                        x-text="program['Agency (short)']"
+                        x-tooltip="program['Agency']"
+                      ></span>
+                    </td>
                     <td x-text="program['Program Type']"></td>
                     <td x-text="program['Intended Population']"></td>
                     <td x-text="program['Funding Recipient(s)']"></td>
@@ -226,8 +237,20 @@ update_date: 09/19/2024
                     <td x-text="program['Evaluation Name']"></td>
                     <td x-text="program['Evaluation Type']"></td>
                     <td x-text="program['Evaluator(s)']"></td>
-                    <td x-text="program['Topic (short)']"></td>
-                    <td x-text="program['Agency (short)']"></td>
+                    <td>
+                      <span
+                        class="text-with-tooltip"
+                        x-text="program['Topic (short)']"
+                        x-tooltip="program['Topic']"
+                      ></span>
+                    </td>
+                    <td>
+                      <span
+                        class="text-with-tooltip"
+                        x-text="program['Agency (short)']"
+                        x-tooltip="program['Agency']"
+                      ></span>
+                    </td>
                     <td x-text="program['Program Type']"></td>
                     <td x-text="program['Funding Recipient(s)']"></td>
                     <td x-text="program['Intended Population']"></td>
@@ -242,4 +265,18 @@ update_date: 09/19/2024
       <p class="page-update-date">Webpage updated on {{ page.update_date }}</p>
     </div>
   </div>
+
+  <div
+    id="program-explorer-custom-tooltip"
+    style="
+      position: absolute;
+      visibility: hidden;
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 5px;
+      border-radius: 4px;
+      font-size: 12px;
+      pointer-events: none;
+    "
+  ></div>
 </div>

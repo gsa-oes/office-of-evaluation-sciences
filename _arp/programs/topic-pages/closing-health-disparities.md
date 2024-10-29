@@ -1,6 +1,6 @@
 ---
 layout: arp_program_topic
-permalink: /arp/programs/topics/closing-disparities
+permalink: /arp/programs/topics/closing-health-disparities
 title: "Topic: Closing health disparities | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Closing health disparities
 order: 5
