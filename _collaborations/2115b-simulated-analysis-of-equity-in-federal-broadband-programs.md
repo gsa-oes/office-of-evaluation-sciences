@@ -1,5 +1,5 @@
 ---
-title: Simulated analysis of equity in federal broadband programs
+title: Simulated analysis of program implementation and delivery in federal broadband programs
 permalink: /collaborations/simulated-analysis-broadband/
 tags:
   - collaborations
