@@ -1080,14 +1080,27 @@
                   font-size: 8.5px;
                 }
               }
+              [aria-label="x-axis label"],
+              [aria-label="y-axis label"] {
+                text {
+                  font-size: 11px;
+                  font-weight: bold;
+                }
+              }
             }
           }
 
+          .table-scroll-instructions {
+            font-size: 15px;
+            font-style: italic;
+            margin: 20px 0 10px 0;
+          }
           .program-explorer-table {
-            margin: 20px 0 0 0;
+            margin: 0;
             overflow: auto;
             max-height: 600px;
             table {
+              margin: 0;
               th,
               td {
                 border: none;
@@ -1103,6 +1116,11 @@
                 text-decoration: underline;
               }
               thead {
+                position: sticky;
+                top: 0;
+                z-index: 1; // Ensure headers stay above table content
+                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+
                 tr {
                   th {
                     text-align: center;

@@ -58,7 +58,7 @@ document.addEventListener("alpine:init", () => {
         ];
 
         d3.select(this)
-          .style("cursor", "pointer")
+          .style("cursor", "help")
           .on("mouseover", (event) => {
             tooltip
               .style("visibility", "visible")
@@ -127,13 +127,15 @@ document.addEventListener("alpine:init", () => {
       let chartData = [...this.programData];
       if (
         this.selectedCharacteristic1 === "Intended Population" ||
-        this.selectedCharacteristic1 === "Funding Recipient(s)"
+        this.selectedCharacteristic1 === "Funding Recipient(s)" ||
+        this.selectedCharacteristic1 === "Program Type"
       ) {
         chartData = explodeField(chartData, this.selectedCharacteristic1);
       }
       if (
         this.selectedCharacteristic2 === "Intended Population" ||
-        this.selectedCharacteristic2 === "Funding Recipient(s)"
+        this.selectedCharacteristic2 === "Funding Recipient(s)" ||
+        this.selectedCharacteristic2 === "Program Type"
       ) {
         chartData = explodeField(chartData, this.selectedCharacteristic2);
       }
@@ -247,13 +249,15 @@ document.addEventListener("alpine:init", () => {
       let chartData = [...this.evalData];
       if (
         this.selectedCharacteristic1_eval === "Intended Population" ||
-        this.selectedCharacteristic1_eval === "Funding Recipient(s)"
+        this.selectedCharacteristic1_eval === "Funding Recipient(s)" ||
+        this.selectedCharacteristic1_eval === "Program Type"
       ) {
         chartData = explodeField(chartData, this.selectedCharacteristic1_eval);
       }
       if (
         this.selectedCharacteristic2_eval === "Intended Population" ||
-        this.selectedCharacteristic2_eval === "Funding Recipient(s)"
+        this.selectedCharacteristic2_eval === "Funding Recipient(s)" ||
+        this.selectedCharacteristic2_eval === "Program Type"
       ) {
         chartData = explodeField(chartData, this.selectedCharacteristic2_eval);
       }

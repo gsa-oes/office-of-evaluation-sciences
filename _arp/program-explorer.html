@@ -91,6 +91,9 @@ update_date: 09/19/2024
             <div id="programs-chart"></div>
           </div>
 
+          <p class="table-scroll-instructions">
+            Scroll or swipe horizontally to view all columns
+          </p>
           <div class="program-explorer-table">
             <table>
               <thead>
@@ -133,7 +136,14 @@ update_date: 09/19/2024
                     <td x-text="program['Program Type']"></td>
                     <td x-text="program['Intended Population']"></td>
                     <td x-text="program['Funding Recipient(s)']"></td>
-                    <td x-text="program['Funding Level']"></td>
+                    <td
+                      x-text="program['Funding Level'] === 'N/A' ? 'N/A' : new Intl.NumberFormat('en-US', {
+                      style: 'currency',
+                      currency: 'USD',
+                      minimumFractionDigits: 0,
+                      maximumFractionDigits: 0
+                    }).format(program['Funding Level'])"
+                    ></td>
                   </tr>
                 </template>
               </tbody>
@@ -210,6 +220,9 @@ update_date: 09/19/2024
             </div>
           </div>
 
+          <p class="table-scroll-instructions">
+            Scroll or swipe horizontally to view all columns
+          </p>
           <div class="program-explorer-table">
             <table>
               <thead>
