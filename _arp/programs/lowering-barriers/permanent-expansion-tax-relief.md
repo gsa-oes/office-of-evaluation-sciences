@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/lowering-barriers/permanent-expansion-of-tax-relief-to-puerto-rico-families
+permalink: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/permanent-expansion-of-tax-relief-to-puerto-rico-families
 title: "Program: Permanent Expansion of Tax Relief to Puerto Rico Families | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Permanent Expansion of Tax Relief to Puerto Rico Families
 image_path: /assets/img/arp/placeholder.png

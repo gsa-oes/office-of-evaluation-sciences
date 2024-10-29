@@ -1,6 +1,6 @@
 ---
 layout: arp_program_topic
-permalink: /arp/programs/topics/lowering-barriers
+permalink: /arp/programs/topics/lowering-barriers-to-work-and-providing-security-to-working-families
 title: "Topic: Lowering barriers to work and providing security to working families | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Lowering barriers to work and providing security to working families
 order: 1
@@ -8,19 +8,19 @@ image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Permanent Expansion of Tax Relief to Puerto Rico Families
     image_path: placeholder.png
-    link: /arp/programs/lowering-barriers/permanent-expansion-of-tax-relief-to-puerto-rico-families
+    link: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/permanent-expansion-of-tax-relief-to-puerto-rico-families
   - display_title: COVID-19 Funeral Assistance
     image_path: placeholder.png
-    link: /arp/programs/lowering-barriers/covid-19-funeral-assistance
+    link: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/covid-19-funeral-assistance
   - display_title: Unemployment Insurance
     image_path: placeholder.png
-    link: /arp/programs/lowering-barriers/unemployment-insurance
+    link: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/unemployment-insurance
   - display_title: Child Care Stabilization
     image_path: placeholder.png
-    link: /arp/programs/lowering-barriers/child-care-stabilization
+    link: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/child-care-stabilization
   - display_title: Enhancements of the Child Tax Credit
     image_path: placeholder.png
-    link: /arp/programs/lowering-barriers/enhancements-of-the-child-tax-credit
+    link: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/enhancements-of-the-child-tax-credit
 update_date: 09/19/2024
 ---
 

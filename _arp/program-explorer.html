@@ -136,14 +136,24 @@ update_date: 09/19/2024
                     <td x-text="program['Program Type']"></td>
                     <td x-text="program['Intended Population']"></td>
                     <td x-text="program['Funding Recipient(s)']"></td>
-                    <td
-                      x-text="program['Funding Level'] === 'N/A' ? 'N/A' : new Intl.NumberFormat('en-US', {
-                      style: 'currency',
-                      currency: 'USD',
-                      minimumFractionDigits: 0,
-                      maximumFractionDigits: 0
-                    }).format(program['Funding Level'])"
-                    ></td>
+                    <td>
+                      <template
+                        x-if="program['Tool Tip for Funding level'] !== 'NA'"
+                      >
+                        <span
+                          class="text-with-tooltip"
+                          x-text="formatFunding(program['Funding Level'])"
+                          x-tooltip="program['Tool Tip for Funding level']"
+                        ></span>
+                      </template>
+                      <template
+                        x-if="program['Tool Tip for Funding level'] === 'NA'"
+                      >
+                        <span
+                          x-text="formatFunding(program['Funding Level'])"
+                        ></span>
+                      </template>
+                    </td>
                   </tr>
                 </template>
               </tbody>
@@ -244,18 +254,21 @@ update_date: 09/19/2024
                   :key="program.Program+index"
                 >
                   <tr>
-                    <!-- I use column "Evaluation Type1 (group)" for "Evaluation name" and "Evaluation Type1 (group) 1 for "Evaluator".
-                     This will change eventually when data is updated. -->
-                    <td x-text="program.Program"></td>
+                    <td>
+                      <a
+                        :href="'/arp/programs/' + program['Topic'].toLowerCase().replace(/\s+/g, '-') + '/' + program.Program.toLowerCase().replace(/\s+/g, '-')"
+                        x-text="program.Program"
+                      ></a>
+                    </td>
                     <td x-text="program['Evaluation Name']"></td>
                     <td x-text="program['Evaluation Type']"></td>
                     <td x-text="program['Evaluator(s)']"></td>
                     <td>
-                      <span
-                        class="text-with-tooltip"
-                        x-text="program['Topic (short)']"
+                      <a
+                        :href="'/arp/programs/topics/' + program['Topic'].toLowerCase().replace(/\s+/g, '-')"
                         x-tooltip="program['Topic']"
-                      ></span>
+                        x-text="program['Topic (short)']"
+                      ></a>
                     </td>
                     <td>
                       <span

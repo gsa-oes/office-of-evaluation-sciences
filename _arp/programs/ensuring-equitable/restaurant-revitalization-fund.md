@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/restaurant-revitalization-fund
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/restaurant-revitalization-fund
 title: "Program: Restaurant Revitalization Fund | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Restaurant Revitalization Fund
 image_path: /assets/img/arp/placeholder.png

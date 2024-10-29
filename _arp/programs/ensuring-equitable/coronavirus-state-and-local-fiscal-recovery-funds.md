@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/coronavirus-state-and-local-fiscal-recovery-funds
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/coronavirus-state-and-local-fiscal-recovery-funds
 title: "Program: Coronavirus State and Local Fiscal Recovery Funds | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Coronavirus State and Local Fiscal Recovery Funds
 image_path: /assets/img/arp/placeholder.png

@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/investing-equity/individuals-with-disabilities-education-act
+permalink: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/individuals-with-disabilities-education-act
 title: "Program: Individuals with Disabilities Education Act | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Individuals with Disabilities Education Act
 image_path: /assets/img/arp/placeholder.png

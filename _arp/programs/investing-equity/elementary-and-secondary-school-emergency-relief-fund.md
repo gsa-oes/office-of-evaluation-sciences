@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund
+permalink: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/elementary-and-secondary-school-emergency-relief-fund
 title: "Program: Elementary and Secondary School Emergency Relief Fund | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Elementary and Secondary School Emergency Relief Fund
 image_path: /assets/img/arp/placeholder.png

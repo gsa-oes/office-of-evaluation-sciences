@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/lowering-barriers/unemployment-insurance
+permalink: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/unemployment-insurance
 title: "Program: Unemployment Insurance | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Unemployment Insurance
 image_path: /assets/img/arp/placeholder.png

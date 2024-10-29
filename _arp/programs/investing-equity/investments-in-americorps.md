@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/investing-equity/investments-in-americorps
+permalink: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/investments-in-americorps
 title: "Program: Investments in AmeriCorps | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Investments in AmeriCorps
 image_path: /assets/img/arp/placeholder.png

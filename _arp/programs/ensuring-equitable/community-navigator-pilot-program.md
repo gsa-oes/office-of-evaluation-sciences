@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/community-navigator-pilot-program
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/community-navigator-pilot-program
 title: "Program: Community Navigator Pilot Program | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Community Navigator Pilot Program
 image_path: /assets/img/arp/placeholder.png

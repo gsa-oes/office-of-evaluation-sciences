@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer
+permalink: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/extension-and-expansion-of-pandemic-electronic-benefit-transfer
 title: "Program: Extension and Expansion of Pandemic Electronic Benefit Transfer | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Extension and Expansion of Pandemic Electronic Benefit Transfer
 image_path: /assets/img/arp/placeholder.png

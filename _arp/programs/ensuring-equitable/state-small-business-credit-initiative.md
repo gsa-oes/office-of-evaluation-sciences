@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/state-small-business-credit-initiative
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/state-small-business-credit-initiative
 title: "Program: State Small Business Credit Initiative | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: State Small Business Credit Initiative
 image_path: /assets/img/arp/placeholder.png

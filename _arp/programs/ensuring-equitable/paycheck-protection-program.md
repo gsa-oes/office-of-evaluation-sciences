@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/paycheck-protection-program
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/paycheck-protection-program
 title: "Program: Paycheck Protection Program | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Paycheck Protection Program
 image_path: /assets/img/arp/placeholder.png

@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/lowering-barriers/child-care-stabilization
+permalink: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/child-care-stabilization
 title: "Program: Child Care Stabilization | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Child Care Stabilization
 image_path: /assets/img/arp/placeholder.png

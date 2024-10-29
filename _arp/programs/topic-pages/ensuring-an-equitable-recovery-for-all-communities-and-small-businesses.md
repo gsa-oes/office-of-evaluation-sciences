@@ -1,6 +1,6 @@
 ---
 layout: arp_program_topic
-permalink: /arp/programs/topics/ensuring-equitable
+permalink: /arp/programs/topics/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses
 title: "Topic: Ensuring an equitable recovery for all communities and small businesses | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Ensuring an equitable recovery for all communities and small businesses
 order: 2
@@ -8,28 +8,28 @@ image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Community Navigator Pilot Program
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/community-navigator-pilot-program
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/community-navigator-pilot-program
   - display_title: Coronavirus State and Local Fiscal Recovery Funds
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/coronavirus-state-and-local-fiscal-recovery-funds
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/coronavirus-state-and-local-fiscal-recovery-funds
   - display_title: Paycheck Protection Program
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/paycheck-protection-program
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/paycheck-protection-program
   - display_title: USDA Assistance and Support for Farmers, Ranchers, Forest Landowners, Operators, and Groups
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/usda-assistance-and-support
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/usda-assistance-and-support
   - display_title: Economic Adjustment Assistance
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/economic-adjustment-assistance
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/economic-adjustment-assistance
   - display_title: State Small Business Credit Initiative
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/state-small-business-credit-initiative
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/state-small-business-credit-initiative
   - display_title: Restaurant Revitalization Fund
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/restaurant-revitalization-fund
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/restaurant-revitalization-fund
   - display_title: National Endowment for the Arts
     image_path: placeholder.png
-    link: /arp/programs/ensuring-equitable/national-endowment-for-the-arts
+    link: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/national-endowment-for-the-arts
 update_date: 09/19/2024
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/investing-equity/higher-education-emergency-relief-fund
+permalink: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/higher-education-emergency-relief-fund
 title: "Program: Higher Education Emergency Relief Fund | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Higher Education Emergency Relief Fund
 image_path: /assets/img/arp/placeholder.png

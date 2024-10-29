@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/economic-adjustment-assistance
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/economic-adjustment-assistance
 title: "Program: Economic Adjustment Assistance | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Economic Adjustment Assistance
 image_path: /assets/img/arp/placeholder.png

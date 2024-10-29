@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/lowering-barriers/enhancements-of-the-child-tax-credit
+permalink: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/enhancements-of-the-child-tax-credit
 title: "Program: Enhancements of the Child Tax Credit | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Enhancements of the Child Tax Credit
 image_path: /assets/img/arp/placeholder.png

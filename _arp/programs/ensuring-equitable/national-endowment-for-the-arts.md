@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/national-endowment-for-the-arts
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/national-endowment-for-the-arts
 title: "Program: National Endowment for the Arts | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: National Endowment for the Arts
 image_path: /assets/img/arp/placeholder.png

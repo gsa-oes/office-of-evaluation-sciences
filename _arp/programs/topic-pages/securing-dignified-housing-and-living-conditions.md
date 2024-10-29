@@ -1,6 +1,6 @@
 ---
 layout: arp_program_topic
-permalink: /arp/programs/topics/securing-difnified
+permalink: /arp/programs/topics/securing-dignified-housing-and-living-conditions
 title: "Topic: Securing dignified housing | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Securing dignified housing
 order: 3

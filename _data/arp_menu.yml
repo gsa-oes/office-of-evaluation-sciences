@@ -6,39 +6,39 @@ menu_items:
       - title: All programs
         url: /arp/programs/
       - title: Lowering barriers to work and providing security to working families
-        url: /arp/programs/topics/lowering-barriers
+        url: /arp/programs/topics/lowering-barriers-to-work-and-providing-security-to-working-families
         submenu:
           - title: Permanent Expansion of Tax Relief to Puerto Rico Families
-            url: /arp/programs/lowering-barriers/permanent-expansion-of-tax-relief-to-puerto-rico-families
+            url: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/permanent-expansion-of-tax-relief-to-puerto-rico-families
           - title: COVID-19 Funeral Assistance
-            url: /arp/programs/lowering-barriers/covid-19-funeral-assistance
+            url: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/covid-19-funeral-assistance
           - title: Unemployment Insurance
-            url: /arp/programs/lowering-barriers/unemployment-insurance
+            url: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/unemployment-insurance
           - title: Child Care Stabilization
-            url: /arp/programs/lowering-barriers/child-care-stabilization
+            url: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/child-care-stabilization
           - title: Enhancements of the Child Tax Credit
-            url: /arp/programs/lowering-barriers/enhancements-of-the-child-tax-credit
+            url: /arp/programs/lowering-barriers-to-work-and-providing-security-to-working-families/enhancements-of-the-child-tax-credit
       - title: Ensuring an equitable recovery for all communities and small businesses
-        url: /arp/programs/topics/ensuring-equitable
+        url: /arp/programs/topics/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses
         submenu:
           - title: Community Navigator Pilot Program
-            url: /arp/programs/ensuring-equitable/community-navigator-pilot-program
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/community-navigator-pilot-program
           - title: Coronavirus State and Local Fiscal Recovery Funds
-            url: /arp/programs/ensuring-equitable/coronavirus-state-and-local-fiscal-recovery-funds
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/coronavirus-state-and-local-fiscal-recovery-funds
           - title: Paycheck Protection Program
-            url: /arp/programs/ensuring-equitable/paycheck-protection-program
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/paycheck-protection-program
           - title: USDA Assistance and Support for Farmers, Ranchers, Forest Landowners, Operators, and Groups
-            url: /arp/programs/ensuring-equitable/usda-assistance-and-support
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/usda-assistance-and-support
           - title: Economic Adjustment Assistance
-            url: /arp/programs/ensuring-equitable/economic-adjustment-assistance
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/economic-adjustment-assistance
           - title: State Small Business Credit Initiative
-            url: /arp/programs/ensuring-equitable/state-small-business-credit-initiative
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/state-small-business-credit-initiative
           - title: Restaurant Revitalization Fund
-            url: /arp/programs/ensuring-equitable/restaurant-revitalization-fund
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/restaurant-revitalization-fund
           - title: National Endowment for the Arts
-            url: /arp/programs/ensuring-equitable/national-endowment-for-the-arts
+            url: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/national-endowment-for-the-arts
       - title: Securing dignified housing and living conditions
-        url: /arp/programs/topics/securing-difnified
+        url: /arp/programs/topics/securing-dignified-housing-and-living-conditions
         submenu:
           - title: Low Income Home Energy Assistance Program
             url: /arp/programs/securing-dignified/low-income-home-energy-assistance-program
@@ -53,18 +53,18 @@ menu_items:
           - title: Housing Assistance and Supportive Services for Native Americans and Native Hawaiians
             url: /arp/programs/securing-dignified/housing-assistance-and-supportive-services-for-native-americans-and-native-hawaiians
       - title: Investing in equity and opportunity for our children and young adults
-        url: /arp/programs/topics/investing-equity
+        url: /arp/programs/topics/investing-in-equity-and-opportunity-for-our-children-and-young-adults
         submenu:
           - title: Individuals with Disabilities Education Act
-            url: /arp/programs/investing-equity/individuals-with-disabilities-education-act
+            url: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/individuals-with-disabilities-education-act
           - title: Higher Education Emergency Relief Fund
-            url: /arp/programs/investing-equity/higher-education-emergency-relief-fund
+            url: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/higher-education-emergency-relief-fund
           - title: Elementary and Secondary School Emergency Relief Fund
-            url: /arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund
+            url: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/elementary-and-secondary-school-emergency-relief-fund
           - title: Investments in AmeriCorps
-            url: /arp/programs/investing-equity/investments-in-americorps
+            url: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/investments-in-americorps
           - title: Extension and Expansion of Pandemic Electronic Benefit Transfer
-            url: /arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer
+            url: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/extension-and-expansion-of-pandemic-electronic-benefit-transfer
       - title: Closing health disparities
         url: /arp/programs/topics/closing-health-disparities
         submenu:

@@ -1,6 +1,6 @@
 ---
 layout: arp_program_topic
-permalink: /arp/programs/topics/investing-equity
+permalink: /arp/programs/topics/investing-in-equity-and-opportunity-for-our-children-and-young-adults
 title: "Topic: Investing in equity and opportunity for our children and young adults | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: Investing in equity and opportunity for our children and young adults
 order: 4
@@ -8,19 +8,19 @@ image_path: /assets/img/arp/placeholder.png
 programs:
   - display_title: Individuals with Disabilities Education Act
     image_path: placeholder.png
-    link: /arp/programs/investing-equity/individuals-with-disabilities-education-act
+    link: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/individuals-with-disabilities-education-act
   - display_title: Higher Education Emergency Relief Fund
     image_path: placeholder.png
-    link: /arp/programs/investing-equity/higher-education-emergency-relief-fund
+    link: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/higher-education-emergency-relief-fund
   - display_title: Elementary and Secondary School Emergency Relief Fund
     image_path: placeholder.png
-    link: /arp/programs/investing-equity/elementary-and-secondary-school-emergency-relief-fund
+    link: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/elementary-and-secondary-school-emergency-relief-fund
   - display_title: Investments in AmeriCorps
     image_path: placeholder.png
-    link: /arp/programs/investing-equity/investments-in-americorps
+    link: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/investments-in-americorps
   - display_title: Extension and Expansion of Pandemic Electronic Benefit Transfer
     image_path: placeholder.png
-    link: /arp/programs/investing-equity/extension-and-expansion-of-pandemic-electronic-benefit-transfer
+    link: /arp/programs/investing-in-equity-and-opportunity-for-our-children-and-young-adults/extension-and-expansion-of-pandemic-electronic-benefit-transfer
 update_date: 09/19/2024
 ---
 

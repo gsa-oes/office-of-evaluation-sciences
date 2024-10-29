@@ -1,6 +1,6 @@
 ---
 layout: arp_program
-permalink: /arp/programs/ensuring-equitable/usda-assistance-and-support
+permalink: /arp/programs/ensuring-an-equitable-recovery-for-all-communities-and-small-businesses/usda-assistance-and-support
 title: "Program: USDA Assistance and Support for Farmers, Ranchers, Forest Landowners, Operators, and Groups | American Rescue Plan National Evaluation | Office of Evaluation Sciences"
 display_title: USDA Assistance and Support for Farmers, Ranchers, Forest Landowners, Operators, and Groups
 image_path: /assets/img/arp/placeholder.png
