@@ -78,6 +78,94 @@ document.addEventListener("alpine:init", () => {
     );
   }
 
+  function calculateTotalFunding(data) {
+    return data.reduce((sum, v) => sum + (+v["Funding Level"] || 0), 0);
+  }
+  function calculateAverageFunding(data) {
+    return calculateTotalFunding(data) / data.length;
+  }
+  function formatFundingInBillions(amount) {
+    return `$${(amount / 1e9).toFixed(1)}B`;
+  }
+
+  function addTooltipsToBars(
+    chartId,
+    chartData,
+    selectedMeasure,
+    selectedCharacteristic1,
+    selectedCharacteristic2
+  ) {
+    const tooltip = d3.select("#program-explorer-custom-tooltip");
+    const sameOption = selectedCharacteristic1 === selectedCharacteristic2;
+
+    d3.selectAll(`#${chartId} svg g[aria-label="bar"] rect`).each(function () {
+      const bar = d3.select(this);
+      const ariaLabel = bar.attr("aria-label");
+
+      // Parse the values from aria-label
+      const [char1Value, char2Value] = sameOption
+        ? [ariaLabel, ariaLabel]
+        : ariaLabel.split(" | ");
+
+      // Filter data based on both characteristics
+      const filteredData = sameOption
+        ? chartData.filter((d) => d[selectedCharacteristic1] === char1Value)
+        : chartData.filter(
+            (d) =>
+              d[selectedCharacteristic1] === char1Value &&
+              d[selectedCharacteristic2] === char2Value
+          );
+
+      let formattedValue;
+      switch (selectedMeasure) {
+        case "count_of_programs":
+          formattedValue = `${filteredData.length} programs`;
+          break;
+        case "average_funding":
+          formattedValue = `Average Funding: ${formatFundingInBillions(
+            calculateAverageFunding(filteredData)
+          )}`;
+          break;
+        default: // total_funding
+          formattedValue = `Total Funding: ${formatFundingInBillions(
+            calculateTotalFunding(filteredData)
+          )}`;
+      }
+
+      bar
+        .style("cursor", "pointer")
+        .on("mouseover", (event) => {
+          tooltip
+            .style("visibility", "visible")
+            .html(
+              sameOption
+                ? `${selectedCharacteristic1.replace(
+                    " (short)",
+                    ""
+                  )}: ${char1Value}<br>${formattedValue}`
+                : `${selectedCharacteristic1.replace(
+                    " (short)",
+                    ""
+                  )}: ${char1Value}<br>` +
+                    `${selectedCharacteristic2.replace(
+                      " (short)",
+                      ""
+                    )}: ${char2Value}<br>${formattedValue}`
+            )
+            .style("left", `${event.pageX + 20}px`)
+            .style("top", `${event.pageY + 10}px`);
+        })
+        .on("mousemove", (event) => {
+          tooltip
+            .style("left", `${event.pageX + 20}px`)
+            .style("top", `${event.pageY + 10}px`);
+        })
+        .on("mouseout", () => {
+          tooltip.style("visibility", "hidden");
+        });
+    });
+  }
+
   const programsChartLabels = {
     total_funding: "Total Funding (In Billions of USD)",
     average_funding: "Average Funding (In Billions of USD)",
@@ -89,6 +177,8 @@ document.addEventListener("alpine:init", () => {
     selectedCharacteristic1: "Agency (short)",
     selectedCharacteristic2: "Program Type",
     selectedMeasure: "total_funding",
+    selectedBarFilter: null,
+    tableData: [],
 
     selectedCharacteristic1_eval: "Agency (short)",
     allPrograms: [],
@@ -110,6 +200,8 @@ document.addEventListener("alpine:init", () => {
           this.allPrograms = [...new Set(this.evalData.map((d) => d.Program))];
 
           this.updateProgramsChart();
+          this.updateTableData();
+
           this.updateEvaluationsChart();
           this.updateEvaluationsTableData();
         })
@@ -126,6 +218,29 @@ document.addEventListener("alpine:init", () => {
         minimumFractionDigits: 0,
         maximumFractionDigits: 0,
       }).format(value);
+    },
+
+    getFilterIndicatorText() {
+      if (!this.selectedBarFilter) return "";
+
+      const sameOption =
+        this.selectedCharacteristic1 === this.selectedCharacteristic2;
+      const [char1Value, char2Value] = sameOption
+        ? [this.selectedBarFilter.value, this.selectedBarFilter.value]
+        : this.selectedBarFilter.value.split(" | ");
+
+      return sameOption
+        ? `<em>Filtered by</em>: ${this.selectedCharacteristic1.replace(
+            " (short)",
+            ""
+          )} = ${char1Value}`
+        : `<em>Filtered by</em>: ${this.selectedCharacteristic1.replace(
+            " (short)",
+            ""
+          )} = ${char1Value}, ${this.selectedCharacteristic2.replace(
+            " (short)",
+            ""
+          )} = ${char2Value}`;
     },
 
     updateProgramsChart() {
@@ -201,6 +316,7 @@ document.addEventListener("alpine:init", () => {
                     fill: (d) => d[this.selectedCharacteristic1],
                     stroke: "black",
                     strokeWidth: 0.5,
+                    ariaLabel: (d) => d[0][this.selectedCharacteristic1],
                   }
                 )
               : Plot.stackY(
@@ -219,6 +335,68 @@ document.addEventListener("alpine:init", () => {
                       fill: (d) => d[this.selectedCharacteristic2],
                       stroke: "black",
                       strokeWidth: 0.5,
+                      ariaLabel: (d) =>
+                        `${d[0][this.selectedCharacteristic1]} | ${
+                          d[0][this.selectedCharacteristic2]
+                        }`,
+                    }
+                  )
+                )
+          ),
+          Plot.text(
+            chartData,
+            sameOption
+              ? Plot.groupX(
+                  {
+                    y:
+                      this.selectedMeasure === "count_of_programs"
+                        ? "count"
+                        : this.selectedMeasure === "average_funding"
+                        ? "mean"
+                        : "sum",
+                    text: (d) =>
+                      this.selectedMeasure === "count_of_programs"
+                        ? d.length.toString()
+                        : formatFundingInBillions(
+                            this.selectedMeasure === "average_funding"
+                              ? calculateAverageFunding(d)
+                              : calculateTotalFunding(d)
+                          ),
+                  },
+                  {
+                    x: (d) => d[this.selectedCharacteristic1],
+                    y: (d) => d["Funding Level"],
+                    dy: -10,
+                  }
+                )
+              : Plot.stackY(
+                  Plot.groupX(
+                    {
+                      y:
+                        this.selectedMeasure === "count_of_programs"
+                          ? "count"
+                          : this.selectedMeasure === "average_funding"
+                          ? "mean"
+                          : "sum",
+                      text: (d) =>
+                        this.selectedMeasure === "count_of_programs"
+                          ? d.length.toString()
+                          : this.selectedMeasure === "average_funding"
+                          ? calculateAverageFunding(d) / 1e9 > 28
+                            ? formatFundingInBillions(
+                                calculateAverageFunding(d)
+                              )
+                            : ""
+                          : calculateTotalFunding(d) / 1e9 > 28
+                          ? formatFundingInBillions(calculateTotalFunding(d))
+                          : "",
+                    },
+                    {
+                      x: (d) => d[this.selectedCharacteristic1],
+                      y: (d) => d["Funding Level"],
+                      z: (d) => d[this.selectedCharacteristic2],
+                      fontSize: 9,
+                      pointerEvents: "none",
                     }
                   )
                 )
@@ -233,6 +411,30 @@ document.addEventListener("alpine:init", () => {
         this.programData,
         this.selectedCharacteristic1
       );
+
+      // Add tooltips to bars
+      addTooltipsToBars(
+        "programs-chart",
+        chartData,
+        this.selectedMeasure,
+        this.selectedCharacteristic1,
+        this.selectedCharacteristic2
+      );
+
+      d3.selectAll(`#programs-chart svg g[aria-label="bar"] rect`)
+        .style("cursor", "pointer") // Add pointer cursor
+        .on("click", (event, d) => {
+          const clickedBar = d3.select(event.currentTarget);
+          const value = clickedBar.attr("aria-label");
+
+          this.selectedBarFilter = {
+            characteristic: sameOption
+              ? this.selectedCharacteristic1
+              : this.selectedCharacteristic2,
+            value: value,
+          };
+          this.updateTableData();
+        });
     },
 
     programsChartDependencies() {
@@ -241,6 +443,51 @@ document.addEventListener("alpine:init", () => {
         this.selectedCharacteristic2,
         this.selectedMeasure,
       ];
+    },
+
+    updateTableData() {
+      if (!this.selectedBarFilter) {
+        this.tableData = this.programData; // Show all data when no filter
+        return;
+      }
+
+      const sameOption =
+        this.selectedCharacteristic1 === this.selectedCharacteristic2;
+
+      // Parse the values from selectedBarFilter
+      const [char1Value, char2Value] = sameOption
+        ? [this.selectedBarFilter.value, this.selectedBarFilter.value]
+        : this.selectedBarFilter.value.split(" | ");
+
+      // Helper function to check if a field contains a value
+      const fieldContains = (fieldValue, searchValue) => {
+        if (!fieldValue) return false;
+        return fieldValue
+          .split(",")
+          .map((v) => v.trim())
+          .includes(searchValue);
+      };
+
+      // Filter by both characteristics when stacked
+      this.tableData = this.programData.filter((program) => {
+        const char1Match =
+          this.selectedCharacteristic1 === "Intended Population" ||
+          this.selectedCharacteristic1 === "Funding Recipient(s)" ||
+          this.selectedCharacteristic1 === "Program Type"
+            ? fieldContains(program[this.selectedCharacteristic1], char1Value)
+            : program[this.selectedCharacteristic1] === char1Value;
+
+        if (sameOption) return char1Match;
+
+        const char2Match =
+          this.selectedCharacteristic2 === "Intended Population" ||
+          this.selectedCharacteristic2 === "Funding Recipient(s)" ||
+          this.selectedCharacteristic2 === "Program Type"
+            ? fieldContains(program[this.selectedCharacteristic2], char2Value)
+            : program[this.selectedCharacteristic2] === char2Value;
+
+        return char1Match && char2Match;
+      });
     },
 
     updateEvaluationsChart() {
@@ -291,6 +538,19 @@ document.addEventListener("alpine:init", () => {
               }
             )
           ),
+          Plot.text(
+            chartData,
+            Plot.groupX(
+              {
+                y: "count",
+                text: (d) => d.length.toString(),
+              },
+              {
+                x: (d) => d[this.selectedCharacteristic1_eval],
+                dy: -10,
+              }
+            )
+          ),
         ],
       });
 
@@ -319,13 +579,17 @@ document.addEventListener("alpine:init", () => {
 
     async init() {
       this.loadData();
-      this.$watch("programsChartDependencies", () =>
-        this.updateProgramsChart()
-      );
 
-      this.$watch("evaluationsChartDependencies", () =>
-        this.updateEvaluationsChart()
-      );
+      this.$watch("programsChartDependencies", () => {
+        this.selectedBarFilter = null;
+        this.updateProgramsChart();
+      });
+      this.$watch("selectedBarFilter", () => this.updateTableData());
+
+      this.$watch("evaluationsChartDependencies", () => {
+        this.selectedProgram = "all";
+        this.updateEvaluationsChart();
+      });
       this.$watch("selectedProgram", () => this.updateEvaluationsTableData());
     },
   }));

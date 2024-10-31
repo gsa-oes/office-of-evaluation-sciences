@@ -92,24 +92,28 @@ update_date: 09/19/2024
           </div>
 
           <p class="table-scroll-instructions">
-            Scroll or swipe horizontally to view all columns
+            <em>Scroll</em> or <em>swipe</em> horizontally to view all columns
           </p>
+          <div x-show="selectedBarFilter" class="table-filters-indicator">
+            <div x-html="getFilterIndicatorText()"></div>
+            <button @click="selectedBarFilter = null">Clear</button>
+          </div>
           <div class="program-explorer-table">
             <table>
               <thead>
                 <tr>
                   <th>Topic</th>
-                  <th>Program</th>
+                  <th style="min-width: 250px">Program</th>
                   <th>Agency</th>
-                  <th>Program Type</th>
-                  <th>Intended Population</th>
-                  <th>Funding Recipient(s)</th>
+                  <th style="min-width: 160px">Program Type</th>
+                  <th style="min-width: 250px">Intended Population</th>
+                  <th style="min-width: 250px">Funding Recipient(s)</th>
                   <th>Funding Level</th>
                 </tr>
               </thead>
               <tbody>
                 <template
-                  x-for="(program, index) in programData"
+                  x-for="(program, index) in tableData"
                   :key="program.Program+index"
                 >
                   <tr>
@@ -220,14 +224,14 @@ update_date: 09/19/2024
               <thead>
                 <tr>
                   <th>Program</th>
-                  <th>Evaluation Name</th>
+                  <th style="min-width: 250px">Evaluation Name</th>
                   <th>Evaluation Type</th>
-                  <th>Evaluator</th>
+                  <th style="min-width: 250px">Evaluator</th>
                   <th>Topic</th>
                   <th>Agency</th>
-                  <th>Program Type</th>
-                  <th>Funding Recipient(s)</th>
-                  <th>Intended Population</th>
+                  <th style="min-width: 150px">Program Type</th>
+                  <th style="min-width: 250px">Funding Recipient(s)</th>
+                  <th style="min-width: 250px">Intended Population</th>
                 </tr>
               </thead>
               <tbody>
