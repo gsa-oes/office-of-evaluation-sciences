@@ -5,10 +5,10 @@ permalink: /media/
 image: /assets/img/icons/oes-red.webp
 hide_image: true
 class:
-summary: Read more about OES through media coverage or contact our press office.
+summary: Read more about OES through media coverage or contact our press office
 ---
 
-## Selected Coverage of OES
+## Selected coverage of OES
 
 <a class="usa-link usa-link--external" href="https://blogs.worldbank.org/impactevaluations/how-sensitive-are-policymakers-impact?CID=WBW_AL_BlogNotification_EN_EXT?cid=SHR_BlogSiteShare_EN_EXT" target="_blank">How sensitive are policymakers to impact?</a>
 <br/><i>Development Impact</i> by the World Bank, March 2022
@@ -112,7 +112,7 @@ Organizational logos:
 
 
 
-## Linking Policy
+## Linking policy
 
 Our site contains links to information created and maintained by other public or private organizations. We provide these links solely for your information and convenience. If you select a link to an outside website, you’re leaving the GSA.gov website and are subject to the privacy and security policies of the external website.
 
