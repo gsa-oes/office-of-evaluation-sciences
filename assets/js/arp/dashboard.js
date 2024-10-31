@@ -91,7 +91,6 @@ document.addEventListener("alpine:init", () => {
     selectedMeasure: "total_funding",
 
     selectedCharacteristic1_eval: "Agency (short)",
-    selectedCharacteristic2_eval: "Program Type",
     allPrograms: [],
     selectedProgram: "all",
     tableData_eval: [],
@@ -217,15 +216,7 @@ document.addEventListener("alpine:init", () => {
                     {
                       x: (d) => d[this.selectedCharacteristic1],
                       y: (d) => d["Funding Level"],
-                      fill: (d) =>
-                        d[
-                          this.selectedCharacteristic2.includes(" (short)")
-                            ? this.selectedCharacteristic2.replace(
-                                " (short)",
-                                ""
-                              )
-                            : this.selectedCharacteristic2
-                        ],
+                      fill: (d) => d[this.selectedCharacteristic2],
                       stroke: "black",
                       strokeWidth: 0.5,
                     }
@@ -264,16 +255,6 @@ document.addEventListener("alpine:init", () => {
       ) {
         chartData = explodeField(chartData, this.selectedCharacteristic1_eval);
       }
-      if (
-        this.selectedCharacteristic2_eval === "Intended Population" ||
-        this.selectedCharacteristic2_eval === "Funding Recipient(s)" ||
-        this.selectedCharacteristic2_eval === "Program Type"
-      ) {
-        chartData = explodeField(chartData, this.selectedCharacteristic2_eval);
-      }
-
-      const sameOption =
-        this.selectedCharacteristic1_eval === this.selectedCharacteristic2_eval;
 
       const plot = Plot.plot({
         style: {
@@ -295,47 +276,20 @@ document.addEventListener("alpine:init", () => {
           tickSize: 0,
           tickFormat: (d) => wrapText(d, 12),
         },
-        color: {
-          legend: sameOption ? false : true,
-          label: sameOption ? null : this.selectedCharacteristic2_eval,
-          className: "legend-item",
-        },
         marks: [
           Plot.barY(
             chartData,
-            sameOption
-              ? Plot.groupX(
-                  {
-                    y: "count",
-                  },
-                  {
-                    x: (d) => d[this.selectedCharacteristic1_eval],
-                    fill: (d) => d[this.selectedCharacteristic1_eval],
-                    stroke: "black",
-                    strokeWidth: 0.5,
-                  }
-                )
-              : Plot.stackY(
-                  Plot.groupX(
-                    {
-                      y: "count",
-                    },
-                    {
-                      x: (d) => d[this.selectedCharacteristic1_eval],
-                      fill: (d) =>
-                        d[
-                          this.selectedCharacteristic2_eval.includes(" (short)")
-                            ? this.selectedCharacteristic2_eval.replace(
-                                " (short)",
-                                ""
-                              )
-                            : this.selectedCharacteristic2_eval
-                        ],
-                      stroke: "black",
-                      strokeWidth: 0.5,
-                    }
-                  )
-                )
+            Plot.groupX(
+              {
+                y: "count",
+              },
+              {
+                x: (d) => d[this.selectedCharacteristic1_eval],
+                fill: (d) => d[this.selectedCharacteristic1_eval],
+                stroke: "black",
+                strokeWidth: 0.5,
+              }
+            )
           ),
         ],
       });
@@ -350,10 +304,7 @@ document.addEventListener("alpine:init", () => {
     },
 
     evaluationsChartDependencies() {
-      return [
-        this.selectedCharacteristic1_eval,
-        this.selectedCharacteristic2_eval,
-      ];
+      return [this.selectedCharacteristic1_eval];
     },
 
     updateEvaluationsTableData() {
