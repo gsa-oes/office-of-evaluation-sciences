@@ -78,6 +78,44 @@ document.addEventListener("alpine:init", () => {
     );
   }
 
+  function addTooltipsToLegends(chartId, data, characteristic) {
+    if (!characteristic.includes("(short)")) return;
+
+    const tooltip = d3.select("#program-explorer-custom-tooltip");
+
+    const valueMap = new Map(
+      data.map((d) => [
+        d[characteristic], // short value
+        d[characteristic.replace(" (short)", "")], // full value
+      ])
+    );
+
+    d3.selectAll(`#${chartId} .legend-item-swatch`).each(function () {
+      const swatch = d3.select(this);
+      // Get text content directly from the span, excluding SVG content
+      const shortName = this.textContent.trim();
+      const fullName = valueMap.get(shortName);
+
+      swatch
+        .style("cursor", "help")
+        .on("mouseover", (event) => {
+          tooltip
+            .style("visibility", "visible")
+            .text(fullName)
+            .style("left", `${event.pageX + 20}px`)
+            .style("top", `${event.pageY + 10}px`);
+        })
+        .on("mousemove", (event) => {
+          tooltip
+            .style("left", `${event.pageX + 20}px`)
+            .style("top", `${event.pageY + 10}px`);
+        })
+        .on("mouseout", () => {
+          tooltip.style("visibility", "hidden");
+        });
+    });
+  }
+
   function calculateTotalFunding(data) {
     return data.reduce((sum, v) => sum + (+v["Funding Level"] || 0), 0);
   }
@@ -412,7 +450,14 @@ document.addEventListener("alpine:init", () => {
         this.selectedCharacteristic1
       );
 
-      // Add tooltips to bars
+      if (!sameOption) {
+        addTooltipsToLegends(
+          "programs-chart",
+          this.programData,
+          this.selectedCharacteristic2
+        );
+      }
+
       addTooltipsToBars(
         "programs-chart",
         chartData,
