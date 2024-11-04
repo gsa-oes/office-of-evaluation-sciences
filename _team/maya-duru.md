@@ -8,7 +8,7 @@ year:
   - 2024
 agency:
 home: Government
-title: Behavioral Scientist - Senior Portfolio Lead
+title: Behavioral Scientist - Portfolio Lead
 status: Current
 ---
 
