@@ -6,9 +6,9 @@ tags:
   - arp
   - housing
 share_image: /assets/img/project-images/2407.png
-image: /assets/img/project-images/2407.webp
-image_alt_text: Person warming hands in front of fire
-image-credit: https://www.rawpixel.com/image/3286329/free-photo-image-freezing-apparel-bake-fire
+image: /assets/img/project-images/2407-new.webp
+image-credit: https://www.flickr.com/photos/151653494@N04/32459483054/
+image_alt_text: Person adjusting thermostat
 analysis-plan: /assets/analysis/2407-liheap-summer-fill-analysis-plan.pdf
 abstract: 
 year: 2024  
