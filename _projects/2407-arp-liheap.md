@@ -9,7 +9,7 @@ share_image: /assets/img/project-images/2407.png
 image: /assets/img/project-images/2407.webp
 image_alt_text: Person warming hands in front of fire
 image-credit: https://www.rawpixel.com/image/3286329/free-photo-image-freezing-apparel-bake-fire
-analysis-plan:
+analysis-plan: /assets/analysis/2407-liheap-summer-fill-analysis-plan.pdf
 abstract: 
 year: 2024  
 domain:
@@ -30,7 +30,7 @@ ACF received an additional $4.5 billion for LIHEAP under the American Rescue Pla
 Grant recipients made a variety of changes to LIHEAP with the increased funding, which more than doubled the typical annual funding available. These changes included increasing benefit amounts to households, implementing new program components such as cooling assistance, or changing eligibility criteria to serve more households).<sup>2,3</sup> We are working with ACF and one state grant recipient to examine the effectiveness of a program change on residents’ home energy needs.
 
 ## How did the evaluation work?
-Analysis plan forthcoming.
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/blob/master/assets/analysis/2407-liheap-summer-fill-analysis-plan">on GitHub</a>.
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
