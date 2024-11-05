@@ -8,7 +8,7 @@ year:
   - 2024
 agency:
 home: Government
-title: Senior Evaluator
+title: Behavioral Scientist - Portfolio Lead
 status: Current
 ---
 
