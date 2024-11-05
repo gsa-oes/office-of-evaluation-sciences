@@ -1095,24 +1095,6 @@
             margin: 20px 0 10px 0;
             font-weight: bold;
           }
-          .table-filters-indicator {
-            font-size: 13px;
-            color: grey;
-            margin: 0 0 7px 0;
-            display: flex;
-            align-items: center;
-            gap: 7px;
-            button {
-              background-color: transparent;
-              border: none;
-              cursor: pointer;
-              color: #19677f;
-              text-decoration: underline;
-              font-size: 12px;
-              margin: 0;
-              padding: 0;
-            }
-          }
           .program-explorer-table {
             margin: 0;
             overflow: auto;

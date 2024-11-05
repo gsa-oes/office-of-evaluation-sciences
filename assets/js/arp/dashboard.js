@@ -171,7 +171,7 @@ document.addEventListener("alpine:init", () => {
       }
 
       bar
-        .style("cursor", "pointer")
+        .style("cursor", "help")
         .on("mouseover", (event) => {
           tooltip
             .style("visibility", "visible")
@@ -215,8 +215,25 @@ document.addEventListener("alpine:init", () => {
     selectedCharacteristic1: "Agency (short)",
     selectedCharacteristic2: "Program Type",
     selectedMeasure: "total_funding",
-    selectedBarFilter: null,
+    allAgencies: [],
+    allTopics: [],
+    selectedAgency: "all",
+    selectedTopic: "all",
     tableData: [],
+    // Computed properties for filter options
+    getAvailableTopics() {
+      if (this.selectedAgency === "all") {
+        return this.allTopics;
+      }
+      // Get topics available for selected agency
+      return [
+        ...new Set(
+          this.programData
+            .filter((d) => d.Agency === this.selectedAgency)
+            .map((d) => d.Topic)
+        ),
+      ].sort();
+    },
 
     selectedCharacteristic1_eval: "Agency (short)",
     allPrograms: [],
@@ -234,6 +251,14 @@ document.addEventListener("alpine:init", () => {
         .then(([programData, evaluationData]) => {
           this.programData = programData;
           this.evalData = evaluationData;
+
+          this.allPrograms = [...new Set(this.evalData.map((d) => d.Program))];
+          this.allAgencies = [
+            ...new Set(this.programData.map((d) => d.Agency)),
+          ].sort();
+          this.allTopics = [
+            ...new Set(this.programData.map((d) => d.Topic)),
+          ].sort();
 
           this.allPrograms = [...new Set(this.evalData.map((d) => d.Program))];
 
@@ -256,29 +281,6 @@ document.addEventListener("alpine:init", () => {
         minimumFractionDigits: 0,
         maximumFractionDigits: 0,
       }).format(value);
-    },
-
-    getFilterIndicatorText() {
-      if (!this.selectedBarFilter) return "";
-
-      const sameOption =
-        this.selectedCharacteristic1 === this.selectedCharacteristic2;
-      const [char1Value, char2Value] = sameOption
-        ? [this.selectedBarFilter.value, this.selectedBarFilter.value]
-        : this.selectedBarFilter.value.split(" | ");
-
-      return sameOption
-        ? `<em>Filtered by</em>: ${this.selectedCharacteristic1.replace(
-            " (short)",
-            ""
-          )} = ${char1Value}`
-        : `<em>Filtered by</em>: ${this.selectedCharacteristic1.replace(
-            " (short)",
-            ""
-          )} = ${char1Value}, ${this.selectedCharacteristic2.replace(
-            " (short)",
-            ""
-          )} = ${char2Value}`;
     },
 
     updateProgramsChart() {
@@ -465,74 +467,19 @@ document.addEventListener("alpine:init", () => {
         this.selectedCharacteristic1,
         this.selectedCharacteristic2
       );
-
-      d3.selectAll(`#programs-chart svg g[aria-label="bar"] rect`)
-        .style("cursor", "pointer") // Add pointer cursor
-        .on("click", (event, d) => {
-          const clickedBar = d3.select(event.currentTarget);
-          const value = clickedBar.attr("aria-label");
-
-          this.selectedBarFilter = {
-            characteristic: sameOption
-              ? this.selectedCharacteristic1
-              : this.selectedCharacteristic2,
-            value: value,
-          };
-          this.updateTableData();
-        });
-    },
-
-    programsChartDependencies() {
-      return [
-        this.selectedCharacteristic1,
-        this.selectedCharacteristic2,
-        this.selectedMeasure,
-      ];
     },
 
     updateTableData() {
-      if (!this.selectedBarFilter) {
-        this.tableData = this.programData; // Show all data when no filter
-        return;
+      let filtered = this.programData;
+      // Apply master filter (Agency) first
+      if (this.selectedAgency !== "all") {
+        filtered = filtered.filter((d) => d.Agency === this.selectedAgency);
       }
-
-      const sameOption =
-        this.selectedCharacteristic1 === this.selectedCharacteristic2;
-
-      // Parse the values from selectedBarFilter
-      const [char1Value, char2Value] = sameOption
-        ? [this.selectedBarFilter.value, this.selectedBarFilter.value]
-        : this.selectedBarFilter.value.split(" | ");
-
-      // Helper function to check if a field contains a value
-      const fieldContains = (fieldValue, searchValue) => {
-        if (!fieldValue) return false;
-        return fieldValue
-          .split(",")
-          .map((v) => v.trim())
-          .includes(searchValue);
-      };
-
-      // Filter by both characteristics when stacked
-      this.tableData = this.programData.filter((program) => {
-        const char1Match =
-          this.selectedCharacteristic1 === "Intended Population" ||
-          this.selectedCharacteristic1 === "Funding Recipient(s)" ||
-          this.selectedCharacteristic1 === "Program Type"
-            ? fieldContains(program[this.selectedCharacteristic1], char1Value)
-            : program[this.selectedCharacteristic1] === char1Value;
-
-        if (sameOption) return char1Match;
-
-        const char2Match =
-          this.selectedCharacteristic2 === "Intended Population" ||
-          this.selectedCharacteristic2 === "Funding Recipient(s)" ||
-          this.selectedCharacteristic2 === "Program Type"
-            ? fieldContains(program[this.selectedCharacteristic2], char2Value)
-            : program[this.selectedCharacteristic2] === char2Value;
-
-        return char1Match && char2Match;
-      });
+      // Then apply detail filter (Topic)
+      if (this.selectedTopic !== "all") {
+        filtered = filtered.filter((d) => d.Topic === this.selectedTopic);
+      }
+      this.tableData = filtered;
     },
 
     updateEvaluationsChart() {
@@ -608,10 +555,6 @@ document.addEventListener("alpine:init", () => {
       );
     },
 
-    evaluationsChartDependencies() {
-      return [this.selectedCharacteristic1_eval];
-    },
-
     updateEvaluationsTableData() {
       if (this.selectedProgram === "all") {
         this.tableData_eval = this.evalData;
@@ -625,13 +568,30 @@ document.addEventListener("alpine:init", () => {
     async init() {
       this.loadData();
 
-      this.$watch("programsChartDependencies", () => {
-        this.selectedBarFilter = null;
-        this.updateProgramsChart();
+      this.$watch(
+        "selectedCharacteristic1, selectedCharacteristic2, selectedMeasure",
+        () => {
+          this.updateProgramsChart();
+        }
+      );
+      // When Agency (master) changes, reset and update Topic options
+      this.$watch("selectedAgency", () => {
+        const availableTopics = this.getAvailableTopics();
+        // Reset topic to 'all' if current selection isn't available
+        if (
+          this.selectedTopic !== "all" &&
+          !availableTopics.includes(this.selectedTopic)
+        ) {
+          this.selectedTopic = "all";
+        }
+        this.updateTableData();
       });
-      this.$watch("selectedBarFilter", () => this.updateTableData());
+      // Topic only filters within current Agency selection
+      this.$watch("selectedTopic", () => {
+        this.updateTableData();
+      });
 
-      this.$watch("evaluationsChartDependencies", () => {
+      this.$watch("selectedCharacteristic1_eval", () => {
         this.selectedProgram = "all";
         this.updateEvaluationsChart();
       });

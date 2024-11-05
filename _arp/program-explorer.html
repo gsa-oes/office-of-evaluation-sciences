@@ -91,13 +91,35 @@ update_date: 11/01/2024
             <div id="programs-chart"></div>
           </div>
 
+          <div class="filters">
+            <div class="filter-item">
+              <label for="table_program_agency_filter"
+                ><strong>Filter by Agency</strong></label
+              >
+              <select id="table_program_agency_filter" x-model="selectedAgency">
+                <option value="all">(All)</option>
+                <template x-for="agency in allAgencies" :key="agency">
+                  <option x-text="agency" :value="agency"></option>
+                </template>
+              </select>
+            </div>
+            <div class="filter-item">
+              <label for="table_program_topic_filter"
+                ><strong>Filter by Topic</strong></label
+              >
+              <select id="table_program_topic_filter" x-model="selectedTopic">
+                <option value="all">(All)</option>
+                <template x-for="topic in getAvailableTopics()" :key="topic">
+                  <option x-text="topic" :value="topic"></option>
+                </template>
+              </select>
+            </div>
+          </div>
+
           <p class="table-scroll-instructions">
             <em>Scroll</em> or <em>swipe</em> horizontally to view all columns
           </p>
-          <div x-show="selectedBarFilter" class="table-filters-indicator">
-            <div x-html="getFilterIndicatorText()"></div>
-            <button @click="selectedBarFilter = null">Clear</button>
-          </div>
+
           <div class="program-explorer-table">
             <table>
               <thead>
