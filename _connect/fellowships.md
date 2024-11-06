@@ -86,7 +86,7 @@ What is the difference between Associate Evaluators, Evaluators, and Senior Eval
 <li><u>Evaluators</u> typically have a master’s degree and 5-7 years of relevant experience.</li>
 <li><u>Senior Evaluators</u> typically have a master’s degree and 8 or more years of experience.</li>
 </ul>
-When determining which role they are applying for, candidates who are currently enrolled in a doctoral program may substitute education for 1 year of relevant experience. Those with a doctoral degree may substitute education for 2 years of relevant experience.
+    <p>When determining which role they are applying for, candidates who are currently enrolled in a doctoral program may substitute education for 1 year of relevant experience. Those with a doctoral degree may substitute education for 2 years of relevant experience.</p>
     </p>
    </div>
 </section>
@@ -126,9 +126,9 @@ Through the Intergovernmental Personnel Act (IPA) Mobility Program, those select
 <li><u>Evaluators</u>: Up to $155,000 for the employee’s salary and benefits per year of full-time work.</li>
 <li><u>Senior Evaluators</u>: Up to $180,000 for the employee’s salary and benefits per year of full-time work.</li>
 </ul>
-For amounts that exceed these reimbursement caps, cost-sharing arrangements will be determined with individual institutions. 
-
-Current federal employees will continue to be paid by their agency, with reimbursement to the agency determined under an Interagency Agreement (IAA). Please note that this is not a temporary promotion opportunity.
+    <p>For amounts that exceed these reimbursement caps, cost-sharing arrangements will be determined with individual institutions.
+        
+Current federal employees will continue to be paid by their agency, with reimbursement to the agency determined under an Interagency Agreement (IAA). Please note that this is not a temporary promotion opportunity.</p>
     </p>
    </div>
 </section>
@@ -214,7 +214,7 @@ An ideal writing sample would demonstrate three things:
 <li>knowledge of the relevant subject matter area</li>
 <li>precision, conciseness, and clarity in writing.</li>
 </ul>
-An academic paper (working or published) that you personally wrote is most helpful, as are any shorter pieces you might have written for a broader audience (such as a memo or blog).
+    <p>An academic paper (working or published) that you personally wrote is most helpful, as are any shorter pieces you might have written for a broader audience (such as a memo or blog).</p>
     </p>
    </div>
 </section>
