@@ -32,7 +32,7 @@ Employees of state, local, or Tribal governments, academic institutions, or non-
 Current federal employees can join the team on a temporary, reimbursable detail assignment via an Inter-Agency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
 
 ### Office Hours
-Our team will also be holding hour-long office hours sessions to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required. If you have any trouble registering, please reach out to oes@gsa.gov.
+Our team will also be holding hour-long office hours sessions to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required. If you have any trouble registering, please reach out to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>.
 
 | Date | Time | Registration link |
 | :---- | :---- | :----------------- |
@@ -81,11 +81,11 @@ What is the difference between Associate Evaluators, Evaluators, and Senior Eval
   <div id="b3" class="usa-accordion__content usa-prose">
 <p>
     OES recruits individuals for this position at different levels of education and experience:
-    
-* <u>Associate Evaluators</u> typically have a masters degree and 2-4 years of relevant experience in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).
-* <u>Evaluators</u> typically have a master’s degree and 5-7 years of relevant experience.
-* <u>Senior Evaluators</u> typically have a master’s degree and 8 or more years of experience.
-
+<ul>    
+<li><u>Associate Evaluators</u> typically have a masters degree and 2-4 years of relevant experience in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).</li>
+<li><u>Evaluators</u> typically have a master’s degree and 5-7 years of relevant experience.</li>
+<li><u>Senior Evaluators</u> typically have a master’s degree and 8 or more years of experience.</li>
+</ul>
 When determining which role they are applying for, candidates who are currently enrolled in a doctoral program may substitute education for 1 year of relevant experience. Those with a doctoral degree may substitute education for 2 years of relevant experience.
     </p>
    </div>
@@ -121,11 +121,11 @@ Is the position paid?
   <div id="b5" class="usa-accordion__content usa-prose">
 <p>
 Through the Intergovernmental Personnel Act (IPA) Mobility Program, those selected for the position will continue to be paid by their host institution, and OES will reimburse the institution for the direct costs associated with your rotation. OES will reimburse institutions up to the following limits:
-    
-* <u>Associate Evaluators</u>: Up to $125,000 for the employee’s salary and benefits, with additional reimbursement for travel and remote work expenses, per year of full-time work.
-* <u>Evaluators</u>: Up to $155,000 for the employee’s salary and benefits per year of full-time work.
-* <u>Senior Evaluators</u>: Up to $180,000 for the employee’s salary and benefits per year of full-time work.
-
+<ul>    
+<li><u>Associate Evaluators</u>: Up to $125,000 for the employee’s salary and benefits, with additional reimbursement for travel and remote work expenses, per year of full-time work.</li>
+<li><u>Evaluators</u>: Up to $155,000 for the employee’s salary and benefits per year of full-time work.</li>
+<li><u>Senior Evaluators</u>: Up to $180,000 for the employee’s salary and benefits per year of full-time work.</li>
+</ul>
 For amounts that exceed these reimbursement caps, cost-sharing arrangements will be determined with individual institutions. 
 
 Current federal employees will continue to be paid by their agency, with reimbursement to the agency determined under an Interagency Agreement (IAA). Please note that this is not a temporary promotion opportunity.
@@ -209,11 +209,11 @@ What type of writing sample should I submit with my application?
   <div id="b10" class="usa-accordion__content usa-prose">
 <p>
 An ideal writing sample would demonstrate three things:
-    
-* the ability to conduct rigorous research
-* knowledge of the relevant subject matter area
-* precision, conciseness, and clarity in writing.
-    
+<ul>  
+<li>the ability to conduct rigorous research</li>
+<li>knowledge of the relevant subject matter area</li>
+<li>precision, conciseness, and clarity in writing.</li>
+</ul>
 An academic paper (working or published) that you personally wrote is most helpful, as are any shorter pieces you might have written for a broader audience (such as a memo or blog).
     </p>
    </div>
