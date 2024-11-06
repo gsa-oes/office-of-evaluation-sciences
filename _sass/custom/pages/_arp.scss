@@ -305,6 +305,10 @@
       }
       gap: 30px;
       .arp-explore-findings-card {
+        transition: transform 0.2s;
+        &:hover {
+          transform: translateY(-3px);
+        }
         display: flex;
         flex-direction: column;
         justify-content: space-between;
