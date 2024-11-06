@@ -298,61 +298,68 @@
       }
     }
 
-    .arp-explore-findings-card {
-      box-shadow: 0 4px 20px -1px rgb(0 0 0 / 0.1),
-        0 2px 4px -2px rgb(0 0 0 / 0.1);
-      padding: 40px 30px;
-      margin: 30px 0;
-
-      h2 {
-        color: #19677f;
-        font-size: 24px;
-        line-height: 28px;
+    .explore-findings-cards {
+      display: flex;
+      @media (max-width: 650px) {
+        flex-direction: column;
       }
-
-      a {
-        color: #19677f;
-        font-size: 16px;
-        line-height: 25px;
-      }
-
-      .learn-more-anchor {
-        font-weight: bold;
-      }
-
-      .arp-card-container {
+      gap: 30px;
+      .arp-explore-findings-card {
         display: flex;
+        flex-direction: column;
         justify-content: space-between;
-        align-items: center;
-        gap: 40px;
-
-        img {
-          width: 100%;
-          max-width: 350px;
-          @media (max-width: 768px) {
-            max-width: unset;
+        &:first-child {
+          background-color: #074b69;
+          h2,
+          p {
+            color: white;
+          }
+          p {
+            a {
+              color: white;
+              font-weight: bold;
+            }
+          }
+          .learn-more-anchor {
+            background-color: #f2c446;
+            color: #074b69;
           }
         }
-
-        @media (max-width: 768px) {
-          flex-direction: column;
-          align-items: flex-start;
-          gap: 20px;
+        &:nth-child(2) {
+          background-color: #f2c446;
+          h2 {
+            color: #074b69;
+          }
+          p {
+            color: #414042;
+          }
+          .learn-more-anchor {
+            background-color: #19677f;
+            color: white;
+          }
         }
-      }
-
-      @media (max-width: 480px) {
-        padding: 20px;
-        margin: 20px 0;
+        box-shadow: 0 4px 20px -1px rgb(0 0 0 / 0.1),
+          0 2px 4px -2px rgb(0 0 0 / 0.1);
+        padding: 40px 30px;
 
         h2 {
-          font-size: 20px;
-          line-height: 24px;
+          font-size: 24px;
+          line-height: 28px;
         }
 
         a {
-          font-size: 14px;
-          line-height: 22px;
+          font-size: 16px;
+          line-height: 25px;
+          text-decoration: none;
+          display: inline-block;
+        }
+
+        .learn-more-anchor {
+          text-decoration: none;
+          padding: 10px;
+          border-radius: 3px;
+          margin: 20px 0 0 0;
+          max-width: fit-content;
         }
       }
     }
