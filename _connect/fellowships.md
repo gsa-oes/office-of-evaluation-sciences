@@ -20,7 +20,8 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
 </div>
 
 ### Join OES - Apply now
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View solicitation (PDF)</a> Deadline: 11:59pm ET on Friday, December 13, 2024.
+<p>The deadline to apply is 11:59pm ET on Friday, December 13, 2024.</p>
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View solicitation (PDF)</a>
 
 <a class="usa-button" href="https://forms.gle/1mPuBVfSSmk7xcQt9">Submit application here</a>
 
