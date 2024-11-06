@@ -118,7 +118,7 @@ Note that current federal employees can join OES on detail from their agency via
 Is the position paid?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b5" class="usa-accordion__content usa-prose">
 <p>
 Through the Intergovernmental Personnel Act (IPA) Mobility Program, those selected for the position will continue to be paid by their host institution, and OES will reimburse the institution for the direct costs associated with your rotation. OES will reimburse institutions up to the following limits:
     
@@ -142,7 +142,7 @@ Current federal employees will continue to be paid by their agency, with reimbur
 My fall semester (Fall 2025) is already scheduled - could I join OES in January 2026?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b6" class="usa-accordion__content usa-prose">
 <p>
 We understand academic timelines are locked well in advance and some candidates have already made commitments for this fall. We encourage you to apply for the 2025 fellowship, and are open to discussing onboarding timelines with selected candidates. In general, we will prioritize individuals that are available in fall 2025, but are open to year-long fellowships which start a bit later in some cases.
     </p>
@@ -158,7 +158,7 @@ We understand academic timelines are locked well in advance and some candidates 
 Do I need to be a U.S. citizen to apply?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b7" class="usa-accordion__content usa-prose">
 <p>
 No, we encourage candidates that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. The Intergovernmental Personnel Agreement (IPA), requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and visa, and allows for the onboarding of non-residents and non-citizens.
     </p>
@@ -174,7 +174,7 @@ No, we encourage candidates that have authorization for employment or course-of-
 What are the types of projects OES has worked on in the past?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b8" class="usa-accordion__content usa-prose">
 <p>
 To see our past work, please visit our <a href="https://oes.gsa.gov/work">evaluations page</a> and <a href="https://oes.gsa.gov/portfolios">portfolio page</a>.
     </p>
@@ -190,7 +190,7 @@ To see our past work, please visit our <a href="https://oes.gsa.gov/work">evalua
 Do you offer summer internships?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b9" class="usa-accordion__content usa-prose">
 <p>
 OES is not currently seeking summer interns, as we believe the value derived from supporting our work lends itself to a longer timeline — individual projects often take longer than 2-3 months to complete.
     </p>
@@ -206,7 +206,7 @@ OES is not currently seeking summer interns, as we believe the value derived fro
 What type of writing sample should I submit with my application?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b10" class="usa-accordion__content usa-prose">
 <p>
 An ideal writing sample would demonstrate three things:
     
@@ -224,11 +224,11 @@ An academic paper (working or published) that you personally wrote is most helpf
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b10">
+      aria-controls="b11">
 Do you have guidance for people with active grants or other ongoing commitments?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b11" class="usa-accordion__content usa-prose">
 <p>
 Those selected for the position will undergo a briefing with the GSA Office of General Counsel to identify and mitigate any conflicts of interest arising from active grants or other obligations. From a time commitment perspective, while schedules at OES are flexible, please let us know during the selection process whether your ongoing work prevents you from serving at OES in a full-time capacity. 
     </p>
