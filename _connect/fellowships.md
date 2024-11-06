@@ -36,8 +36,8 @@ Our team will also be holding hour-long office hours sessions to answer any ques
 
 | Date | Time | Registration link |
 | :---- | :---- | :----------------- |
-| Tuesday, December 3rd, 2024 | 1pm EST | Register now |
-| Thursday, December 5th, 2024 | 3pm EST | Register now |
+| Tuesday, December 3rd, 2024 | 1pm EST | <a class="usa-link usa-link--external" href="https://gsa.zoomgov.com/meeting/register/vJIsde2gqTwoHUubt_fmkFdtmbL4HNnB5zM">Register now</a> |
+| Thursday, December 5th, 2024 | 3pm EST | <a class="usa-link usa-link--external" href="https://gsa.zoomgov.com/meeting/register/vJItdeqrrTkpGvr5R2aWGC8nIJLhTCye5yw">Register now</a> |
 
 ## Frequently Asked Questions
 <section class="usa-accordion featured bg-white padding-1">
