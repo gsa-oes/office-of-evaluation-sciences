@@ -18,7 +18,7 @@ agency: Health and Human Services
 status: Complete
 summary: Support-based interventions increase health insurance enrollment
 featured: 
-  - services
+
 ---
 
 ## What did we evaluate? 
