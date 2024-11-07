@@ -15,6 +15,8 @@ domain: Economic Opportunity
 agency: Treasury
 status: Complete
 summary: Relief funds were awarded to financial institutions that serve low- and moderate-income and minority communities
+featured:
+- services
 ---
 ## What was the challenge?
 The Consolidated Appropriations Act of 2021 (Pub. L. 116-260) established emergency funding programs for financial institutions that serve low- and moderate-income communities. The Rapid Response Program (RRP) was established to award $1.25 billion to Community Development Financial Institutions (CDFIs), and the Emergency Capital Investment Program (ECIP) was established to award $9 billion to CDFIs and Minority Deposit Institutions (MDIs). This descriptive evaluation seeks to understand whether the RRP and ECIP met their intended goal of providing credit to low- and moderate-income and minority populations that have disproportionately suffered from the impacts of the COVID-19 pandemic.
