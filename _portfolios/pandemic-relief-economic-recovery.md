@@ -21,7 +21,6 @@ We’ve built a pandemic relief and economic recovery portfolio consisting of do
 The evidence briefs and additional resources below include insights related to pandemic relief and economic recovery from across our portfolios of work. 
 - <a href="https://oes.gsa.gov/assets/files/oes-health-communications.pdf">Designing effective health communications (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/abstracts/OEScovidinsightssummaryNov2020.pdf">Encouraging COVID-19 prevention behaviors (PDF)</a>
-- <a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons learned from the OES portfolio on equity and small business recovery (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/files/Learning-what-works-to-reduce-administrative-burden.pdf">Reducing administrative burden in pandemic relief and economic recovery programs (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/files/use-of-proxies-for-eligibility-verification.pdf">Use of proxies for eligibility verification (PDF)</a>
 - <a href="https://oes.gsa.gov/assets/publications/OES-vaccine-paper-2-page-summary.pdf">Using behavioral science to increase COVID-19 vaccination uptake (PDF)</a>
