@@ -18,7 +18,6 @@ agency: Treasury
 status: Complete
 summary: Streamlining income verification for application processors in Kentucky increased application approval rates by at least 7 percentage points
 featured:
-  - homepage
 ---
 ## What is the agency priority? 
 At the outset of the COVID-19 pandemic, housing advocacy groups warned that 20% of renting households would be at <a class="usa-link usa-link--external" href="https://www.aspeninstitute.org/blog-posts/20-million-renters-are-at-risk-of-eviction/">risk of eviction</a> by the end of 2020 if the government did not act. Housing instability was <a class="usa-link usa-link--external" href="https://files.consumerfinance.gov/f/documents/cfpb_Housing_insecurity_and_the_COVID-19_pandemic.pdf">especially high</a> among renters with low incomes and renters who identified as people of color. 
