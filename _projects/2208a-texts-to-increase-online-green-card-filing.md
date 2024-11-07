@@ -15,8 +15,7 @@ type: Impact evaluation of program change
 agency: Homeland Security
 status: Complete
 summary: Evaluating methods to increase online filing for Permanent Resident Card renewals
-featured:
-- homepage
+featured: 
 ---
 ## What is the agency priority?
 The U.S. Department of Homeland Security’s U.S. Citizenship and Immigration Services (USCIS) aims to increase customer satisfaction by encouraging the effective and efficient use of USCIS’ online services and contact centers as part of their mission to uphold America’s promise as a nation of welcome and possibility with fairness, integrity, and respect for all they serve. Increasing the number of customers who use USCIS’ online portal is a key agency priority, as part of their efforts to reduce the paperwork burden on customers and agency staff. The agency has identified Lawful Permanent Residents (LPRs) as one key target group to increase use of online services, as they may benefit from opportunities to renew their Green Cards online. Despite the online availability of Form I-90 [Application to Replace Permanent Resident Card (Green Card)] since 2015, online filing rates had hovered at an average of approximately 60% over the two years preceding this evaluation.

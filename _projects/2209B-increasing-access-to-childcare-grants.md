@@ -18,6 +18,7 @@ agency: Health and Human Services
 status: Complete
 summary: Texts and calls increased funding awards for child care providers
 featured:
+- homepage
 ---
 ## What is the agency priority?
 The American Rescue Plan (ARP) allocated approximately $24 billion in Child Care Stabilization Base Grants (CCSBG) to the Department of Health and Human Services to help stabilize the child care labor market in the face of the COVID-19 pandemic. Stabilizing the child care market and providing higher wages to child care workers has several important equity implications. Nearly all child care providers are small businesses, are overwhelmingly owned by women, and are disproportionately owned by people of color.<sup>1</sup> Recent evidence found that CCSBGs were effective at increasing child care employment and wages nationally.<sup>2</sup> However, about a third of child care providers failed to take-up these grants in Minnesota. Minnesota’s Department of Human Services (MN DHS) aimed to identify methods to enhance equitable access to CCSBG among child care providers in the state. 
