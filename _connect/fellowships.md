@@ -11,6 +11,7 @@ summary:
 <a class="usa-button" href="https://forms.gle/1mPuBVfSSmk7xcQt9">Apply now</a>
 
 We are currently accepting applications for one-year evaluation fellowships beginning in the fall of 2025. Selected applicants will serve their fellowship term as Evaluators, joining a team of interdisciplinary experts at the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
+
 Our team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. We’re uniquely situated at the center of government to share leading practices, develop resources, and build skills related to evidence and evaluation in the federal workforce. To date, we’ve completed <a href="http://oes.gsa.gov/work">over 130 collaborations</a>, including over 100 impact evaluations, with dozens of agency partners. We follow the best practices in social science research to build evidence in order to be <a href="https://oes.gsa.gov/methods">a leader in transparency and accountability</a>. We form innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as decreasing abandonment of calls to the 988 Suicide & Crisis Lifeline, increasing access to grants for child care providers, and improving government efficiency.
 
 Fellows join the OES team on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis, and have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for federal employees applying for a rotational detail.
@@ -30,9 +31,9 @@ Please apply via the button above. If you are not able to access the Google Form
 The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES Evaluators’ experiences on our blog</a>.
 
 ### Eligibilty
-Employees of state, local, or Tribal governments, academic institutions, or non-profit organizations are eligible to join the team via the Intergovernmental Personnel Act (IPA) Mobility Program. Through the IPA, Fellows join OES on loan from their home institutions on either a reimbursable or non-reimbursable basis. OES Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University, and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science, and MDRC), and federal departments (e.g., the U.S. Department of Labor, the U.S. Forest Service, and the National Science Foundation). Current team member bios are available on our staff page. Full-time Fellowships begin in Fall 2025.
+Employees of state, local, or Tribal governments, academic institutions, or non-profit organizations are eligible to join the team via the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act (IPA) Mobility Program</a>. Through the IPA, fellows join OES on loan from their home institutions on either a reimbursable or non-reimbursable basis. OES fellows have come from a variety of universities, non-profits, and federal agencies. Current team member bios are available on our staff page. Full-time fellowships begin in Fall 2025.
 
-Current federal employees can join the team on a temporary, reimbursable detail assignment via an Inter-Agency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
+Current federal employees can join the team on a temporary, reimbursable detail assignment via an Interagency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
 
 ### Office Hours
 Our team will also be holding hour-long office hours sessions to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required. If you have any trouble registering, please reach out to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>.
@@ -85,7 +86,7 @@ What is the difference between Associate Evaluators, Evaluators, and Senior Eval
 <p>
     OES recruits individuals for this position at different levels of education and experience:
 <ul>    
-<li><u>Associate Evaluators</u> typically have a masters degree and 2-4 years of relevant experience in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).</li>
+<li><u>Associate Evaluators</u> typically have a master's degree and 2-4 years of relevant experience in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).</li>
 <li><u>Evaluators</u> typically have a master’s degree and 5-7 years of relevant experience.</li>
 <li><u>Senior Evaluators</u> typically have a master’s degree and 8 or more years of experience.</li>
 </ul>
@@ -105,7 +106,7 @@ I saw from the description that Evaluators join OES "on-loan" from other institu
   </h2>
   <div id="b4" class="usa-accordion__content usa-prose">
 <p>
-This position will be filled primarily through the Intergovernmental Personnel Act (IPA) Mobility Program, which requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. You can find more information about the IPA in the OES IPA toolkit. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview. 
+This position will be filled primarily through the Intergovernmental Personnel Act (IPA) Mobility Program, which requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. You can find more information about the IPA in the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">OES IPA toolkit</a> or on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview. 
     
 Note that current federal employees can join OES on detail from their agency via an Interagency Agreement (IAA).
     </p>
@@ -179,7 +180,7 @@ What are the types of projects OES has worked on in the past?
   </h2>
   <div id="b8" class="usa-accordion__content usa-prose">
 <p>
-To see our past work, please visit our <a href="https://oes.gsa.gov/work">evaluations page</a> and <a href="https://oes.gsa.gov/portfolios">portfolio page</a>.
+To see our past work, please visit our <a href="https://oes.gsa.gov/work">evaluations page</a> and <a href="https://oes.gsa.gov/portfolios">portfolios page</a>.
     </p>
    </div>
 </section>
