@@ -1,6 +1,6 @@
 ---
-title: Learning from Tribal governments’ experiences with American Rescue Plan programs
-permalink: /2311-tribal-govt-experience-arp-1/
+title: Learning from Tribal governments’ experiences with federal grant programs
+permalink: /2311-tribal-govt-experience-federal-grant-programs/
 tags: 
   - project
   - arp
