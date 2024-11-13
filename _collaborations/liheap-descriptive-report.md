@@ -8,7 +8,7 @@ image-credit: https://www.flickr.com/photos/151653494@N04/32459483054/
 image_alt_text: Person adjusting thermostat
 image_full: true
 year: 2024
-domain: American Rescue Plan
+domain: 
 agency: Health and Human Services
 academic-pub: /assets/publications/LIHEAP-descriptive-report.pdf
 summary: An evaluation report for the Administration for Children and Families (ACF), Department of Health and Human Services (HHS)
