@@ -12,8 +12,7 @@ Below are resources we’ve developed through our work building evidence governm
 OES sends out regular newsletters with upcoming events, recent project results, and other news. <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">Subscribe to our newsletter.</a>
 
 ### 2024
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3b4bc1a" target="_blank">September 2024: 
-Announcing our newest portfolio: Pandemic relief and economic recovery</a>
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3b4bc1a" target="_blank">September 2024: Announcing our newest portfolio: Pandemic relief and economic recovery</a>
 
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3ad1811" target="_blank">August 2024: Building evidence to help support the prevention of homelessness and housing instability</a>
 
@@ -24,24 +23,20 @@ Announcing our newest portfolio: Pandemic relief and economic recovery</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3815f3c" target="_blank">January 2024: Effective intervention for the 988 Suicide & Crisis Lifeline connects more people to care</a>
 
 ### 2023
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/37524e7?reqfrom=share" target="_blank">October 2023: Outreach interventions increase ACA marketplace enrollment</a>
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/35c2703?reqfrom=share" target="_blank">May 2023: OES Leads a National Evaluation of the American Rescue Plan and Publishes Equity Evaluation Series Memos</a>
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/349ef73?reqfrom=share" target="_blank">February 2023: Results from four evaluations of the American Rescue Plan’s State and Local Fiscal Recovery Funds Program</a>
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/349ef73?reqfrom=share" target="_blank">February 2023: Results from four evaluations of the State and Local Fiscal Recovery Funds Program</a>
 
 ### 2022
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/33d8e04?reqfrom=share" target="_blank">December 2022: Results from a descriptive study of equity and efforts to improve Supplemental Security Income outreach</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/338510f?reqfrom=share" target="_blank">November 2022: The Office of Evaluation Sciences (OES) is Hiring!</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/325c020?reqfrom=share" target="_blank">August 2022: Sharing the purpose of a default increases responses</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/31bf701?reqfrom=share" target="_blank">June 2022: Reminder cards increased the return of unused prescription opioids</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/314f329?reqfrom=share" target="_blank">April 2022: A series of emails and a letter increased take-up of the American Opportunity Tax Credit</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/310d80b?reqfrom=share" target="_blank">March 2022: How much do low-cost, behaviorally informed letters increase health insurance enrollment?</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/30bcc58?reqfrom=share" target="_blank">February 2022: What are the best ways to encourage COVID-19 vaccination?</a>
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/30690f8?reqfrom=share" target="_blank">January 2022: Supporting NOAA’s Equity Assessment Teams</a>
 
 ### 2021
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3005258?reqfrom=share" target="_blank">December 2021: A Community Toolkit for Addressing Health Misinformation from the Office of the Surgeon General</a>
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2f99f82?reqfrom=share" target="_blank">November 2021: A Behavioral Insights Guide for Improving Payment Integrity</a>
-- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2f99f82?reqfrom=share" target="_blank">October 2021: OES@100: Celebrating 100 Collaborations Across Government</a>
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3005258?reqfrom=share" target="_blank">December 2021: A community toolkit for addressing health misinformation from the Office of the Surgeon General</a>
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2f99f82?reqfrom=share" target="_blank">November 2021: A behavioral insights guide for improving payment integrity</a>
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2f99f82?reqfrom=share" target="_blank">October 2021: OES@100: Celebrating 100 collaborations across government</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2ee35fe?reqfrom=share" target="_blank">August 2021: Text reminders increased clinic visits for family planning services in Mozambique</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2e6fed5?reqfrom=share" target="_blank">July 2021: Using behavioral insights to improve customer experience within government</a>
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/2cc7dff?reqfrom=share" target="_blank">April 2021: New working paper shows how OES letters tripled SSI awards</a>
