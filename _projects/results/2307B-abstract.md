@@ -4,8 +4,8 @@ layout: page
 permalink: /results/income-reporting-mods-multiple-income/
 tags: 
   - abstract
-share_image: /assets/img/project-images/2307B-form-mods.png
-image: /assets/img/project-images/2307B-form-mods.webp
+share_image: /assets/img/project-images/2307B-image.png
+image: /assets/img/project-images/2307B-image.webp 
 image_alt_text: Hands typing on laptop
 summary:
 
