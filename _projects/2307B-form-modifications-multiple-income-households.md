@@ -1,5 +1,5 @@
 ---
-title: Modifying income reporting on benefits applications - Evidence from households with multiple jobs
+title: Modifying income reporting on benefits applications — Evidence from households with multiple jobs
 permalink: /projects/2307B-form-modifications-multiple-income-households/
 tags: 
  - project
