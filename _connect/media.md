@@ -111,10 +111,9 @@ Organizational logos:
   - <a href="{{ site.baseurl }}/assets/img/gsa-logo-dark.webp" target="_blank">GSA (JPG)</a>
 
 
-
 ## Linking policy
 
 Our site contains links to information created and maintained by other public or private organizations. We provide these links solely for your information and convenience. If you select a link to an outside website, you’re leaving the GSA.gov website and are subject to the privacy and security policies of the external website.
 
-GSA's complete linking policy and website guidelines are <a href="https://www.gsa.gov/website-information/website-policies" target="_blank">available here.</a>
+GSA's complete linking policy and website guidelines are available <a href="https://www.gsa.gov/website-information/website-policies" target="_blank">at gsa.gov.</a>
 
