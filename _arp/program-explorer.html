@@ -32,7 +32,7 @@ update_date: 11/01/2024
             @click="selectedType = 'evaluations'"
             :class="{ 'selected': selectedType === 'evaluations' }"
           >
-            Evaluations
+            National Evaluations and Studies
           </button>
         </div>
       </div>
@@ -45,13 +45,23 @@ update_date: 11/01/2024
           tempor placerat tincidunt. Suspendisse elementum nibh orci, sit amet
           mattis.
         </p>
+        <p>
+          <em>
+            Please note that programs may appear in multiple categories of
+            Program Type, Intended Population, and Funding Recipient(s).
+          </em>
+        </p>
         <div class="viz-and-table">
           <div class="filters">
             <div class="filter-item">
               <label for="characteristic1"
                 ><strong>Program Characteristic 1</strong></label
               >
-              <select id="characteristic1" x-model="selectedCharacteristic1">
+              <select
+                id="characteristic1"
+                x-model="selectedCharacteristic1"
+                @change="selectedCharacteristic2 = selectedCharacteristic1"
+              >
                 <option value="Topic (short)">Topic</option>
                 <option value="Agency (short)">Agency</option>
                 <option value="Program Type">Program Type</option>
@@ -119,7 +129,6 @@ update_date: 11/01/2024
           <p class="table-scroll-instructions">
             <em>Scroll</em> or <em>swipe</em> horizontally to view all columns
           </p>
-
           <div class="program-explorer-table">
             <table>
               <thead>
@@ -192,7 +201,7 @@ update_date: 11/01/2024
         class="viz-and-table-container"
         x-show="selectedType === 'evaluations'"
       >
-        <h2>Evaluations</h2>
+        <h2>National Evaluations and Studies</h2>
         <p>
           Dolor sit amet, consectetur adipiscing elit. Vestibulum eget purus
           mattis, efficitur eros rutrum, convallis sapien. Maecenas tempor
@@ -238,8 +247,12 @@ update_date: 11/01/2024
             </div>
           </div>
 
+          <p style="font-size: 15px">
+            NOTE: Programs without a corresponding evaluation or study will not
+            will not appear below.
+          </p>
           <p class="table-scroll-instructions">
-            Scroll or swipe horizontally to view all columns
+            <em>Scroll</em> or <em>swipe</em> horizontally to view all columns
           </p>
           <div class="program-explorer-table">
             <table>

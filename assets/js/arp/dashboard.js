@@ -213,7 +213,7 @@ document.addEventListener("alpine:init", () => {
   Alpine.data("dashboardData", () => ({
     selectedType: "programs", // values: "programs" and "evaluations"
     selectedCharacteristic1: "Agency (short)",
-    selectedCharacteristic2: "Program Type",
+    selectedCharacteristic2: "Agency (short)",
     selectedMeasure: "total_funding",
     allAgencies: [],
     allTopics: [],
