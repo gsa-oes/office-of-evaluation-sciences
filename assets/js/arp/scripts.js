@@ -31,27 +31,29 @@ document.addEventListener("alpine:init", () => {
         .filter((doc) => {
           return (
             (this.filters.programs.length === 0 ||
-              this.filters.programs.includes(doc.program_name)) &&
+              this.filters.programs.includes(doc["Program"])) &&
             (this.filters.topics.length === 0 ||
-              this.filters.topics.includes(doc.topic_area)) &&
+              this.filters.topics.includes(doc["Topic"])) &&
             (this.filters.documentTypes.length === 0 ||
-              this.filters.documentTypes.includes(doc.file_type)) &&
+              this.filters.documentTypes.includes(doc["Document Type"])) &&
             (this.filters.informationTypes.length === 0 ||
-              this.filters.informationTypes.includes(doc.information_type)) &&
+              this.filters.informationTypes.includes(
+                doc["Information Type"]
+              )) &&
             (this.filters.startDate === "" ||
-              new Date(doc.publish_date) >= new Date(this.filters.startDate)) &&
+              new Date(doc["Date"]) >= new Date(this.filters.startDate)) &&
             (this.filters.endDate === "" ||
-              new Date(doc.publish_date) <= new Date(this.filters.endDate))
+              new Date(doc["Date"]) <= new Date(this.filters.endDate))
           );
         })
         .sort((a, b) => {
-          const dateA = new Date(a.publish_date);
-          const dateB = new Date(b.publish_date);
+          const dateA = new Date(a["Date"]);
+          const dateB = new Date(b["Date"]);
 
           if (dateA > dateB) return -1;
           if (dateA < dateB) return 1;
 
-          return a.program_name.localeCompare(b.program_name);
+          return a["Program"].localeCompare(b["Program"]);
         });
 
       return filtered.slice(
@@ -109,11 +111,13 @@ document.addEventListener("alpine:init", () => {
         .then((response) => response.json())
         .then((data) => {
           this.docs = data;
-          this.programs = [...new Set(data.map((doc) => doc.program_name))];
-          this.topics = [...new Set(data.map((doc) => doc.topic_area))];
-          this.documentTypes = [...new Set(data.map((doc) => doc.file_type))];
+          this.programs = [...new Set(data.map((doc) => doc["Program"]))];
+          this.topics = [...new Set(data.map((doc) => doc["Topic"]))];
+          this.documentTypes = [
+            ...new Set(data.map((doc) => doc["Doc Type - Actual"])),
+          ];
           this.informationTypes = [
-            ...new Set(data.map((doc) => doc.information_type)),
+            ...new Set(data.map((doc) => doc["Document Type"])),
           ];
         });
     },

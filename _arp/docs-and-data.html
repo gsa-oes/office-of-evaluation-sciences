@@ -212,17 +212,17 @@ title: Program Documents and Data | American Rescue Plan National Evaluation | O
         <!-- Results -->
         <template x-for="(doc, index) in filteredDocs" :key="index">
           <div class="doc-item">
-            <h2 x-text="doc.program_name"></h2>
-            <p class="program-name">Program Name</p>
+            <h2 x-text="doc['Document Name']"></h2>
+            <p class="program-name" x-text="doc['Program']"></p>
             <p class="author-name">
-              <span x-text="doc.author_name"></span>
+              <span x-text="doc['Author']"></span>
             </p>
-            <p class="description" x-text="doc.description"></p>
+            <p class="description" x-text="doc['Description']"></p>
             <div class="date-and-type">
               <span class="publish-date">
-                Published on: <span x-text="doc.publish_date"></span>
+                Published on: <span x-text="doc['Date']"></span>
               </span>
-              <span class="file-type" x-text="doc.file_type"></span>
+              <span class="file-type" x-text="doc['Document Type']"></span>
             </div>
           </div>
         </template>
