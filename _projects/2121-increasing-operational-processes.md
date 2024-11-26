@@ -1,6 +1,6 @@
 ---
-title: Increasing naturalization rates for lawful permanent residents
-permalink: /projects/increasing-naturalization/
+title: Improving operational processes at USCIS
+permalink: /projects/increasing-operational-processes/
 tags:
   - project
 share_image: /assets/img/project-images/2121-image.jpg
