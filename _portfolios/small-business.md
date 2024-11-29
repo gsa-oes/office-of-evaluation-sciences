@@ -20,8 +20,4 @@ Nearly half of American employees work for a business with fewer than 500 employ
 ## Portfolio
 Projects in this portfolio have focused on improving access to economic and non-economic resources for small businesses, such as encouraging farmers to apply for microloans. Some projects focused specifically on how to connect groups that have faced higher barriers in establishing and growing a business, including women, with the resources they need for business success. 
 
-During COVID-19, OES worked with the Small Business Administration to evaluate the impact of relief funding disbursed by local governments, to identify barriers to getting this funding to businesses owned by members of historically underserved groups, and to evaluate methods to overcome those barriers. 
-
-### Relevant guides
-<a href="https://oes.gsa.gov/assets/files/OES-small-business-access-and-equity-two-pager.pdf">Lessons learned from the OES portfolio on equity and small business recovery (PDF)</a>
-<br><br>
+During COVID-19, OES worked with the Small Business Administration to evaluate the impact of relief funding disbursed by local governments, to identify barriers to getting this funding to businesses owned by members of historically underserved groups, and to evaluate methods to overcome those barriers.
