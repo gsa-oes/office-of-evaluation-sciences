@@ -1,5 +1,5 @@
 ---
-title: Increasing satisfaction survey response rate from federal renants - subject lines and day of week
+title: Increasing satisfaction survey response rate from federal tenants - subject lines and day of week
 permalink: /projects/tenant-satisfaction-survey-subject-lines/
 tags: project
 share_image: /assets/img/project-images/gsa-tenant2.jpg
