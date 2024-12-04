@@ -1,5 +1,5 @@
 ---
-title:  Descriptive report of Low Income Home Energy Assistance Program changes with the introduction of the American Rescue Plan
+title: Descriptive report of changes to the Low Income Home Energy Assistance Program
 permalink: /collaborations/liheap-descriptive/
 tags:
   - collaborations
