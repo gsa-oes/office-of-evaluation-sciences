@@ -9,7 +9,8 @@ image: /assets/img/project-images/2310-snap.webp
 image_alt_text: Sign that says we welcome SNAP benefits
 image-credit: https://www.pexels.com/photo/a-close-up-shot-of-paper-clipped-documents-7054757/
 analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.pdf
-abstract-web: /results/decreasing-snap-denials/ 
+abstract-web: /results/decreasing-snap-denials/
+intervention: /assets/interventions/2310-decreasing-snap-denial-rates-intervention-pack.pdf
 year: 2024  
 domain: Pandemic Relief and Recovery, Payment Integrity
 type: Impact evaluation of program change
