@@ -47,7 +47,7 @@ Do I need to be able to relocate to Washington, D.C.?
     </button>
   </h2>
   <div id="b1" class="usa-accordion__content usa-prose">
-<p>No, you do not need to relocate to Washington, D.C. All positions will be remote within the United States.</p>
+<p>No, you do not need to relocate to Washington, D.C. IPA detail assignments with OES are remote within the United States.</p>
    </div>
 </section>
 
@@ -93,13 +93,15 @@ What is the difference between Associate Evaluators, Evaluators, and Senior Eval
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b4">
-I saw from the description that Evaluators join OES "on-loan" from other institutions. Does that mean that I cannot apply if I am going to be completing my graduate program before the fellowship starts?
+I saw from the description that Evaluators join OES "on-loan" from other institutions. What does this mean?
       </button>
   </h2>
   <div id="b4" class="usa-accordion__content usa-prose">
 <p>
-This position will be filled primarily through the Intergovernmental Personnel Act (IPA) Mobility Program, which requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. You can find more information about the IPA in the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">OES IPA toolkit</a> or on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview. 
+This is a detail opportunity through the Intergovernmental Personnel Act (IPA) Mobility Program for employees of eligible organizations. The IPA requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. Those joining OES via the IPA remain employees of their organization and are not federal employees.
     
+You can find more information about the IPA in the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">OES IPA toolkit</a> or on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview. 
+
 Note that current federal employees can join OES on detail from their agency via an Interagency Agreement (IAA).
     </p>
    </div>
