@@ -21,7 +21,7 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
 </div>
 
 ### Join OES - Apply now
-<p>The deadline to apply is 11:59pm ET on Friday, December 13, 2024.</p>
+<p>The deadline to apply is 11:59pm ET on Friday, January 17, 2025.</p>
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View solicitation (PDF)</a>
 
 <a class="usa-button" href="https://forms.gle/1mPuBVfSSmk7xcQt9">Submit application here</a>
@@ -34,14 +34,6 @@ The work and role of OES is unique and includes directly designing, implementing
 Employees of state, local, or Tribal governments, academic institutions, or non-profit organizations are eligible to join the team via the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act (IPA) Mobility Program</a>. Through the IPA, fellows join OES on loan from their home institutions on either a reimbursable or non-reimbursable basis. OES fellows have come from a variety of universities, non-profits, and federal agencies. Current team member bios are available on our staff page. Full-time fellowships begin in Fall 2025.
 
 Current federal employees can join the team on a temporary, reimbursable detail assignment via an Interagency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
-
-### Office Hours
-Our team will also be holding hour-long office hours sessions to answer any questions you may have about our team, work, or the application process. These sessions will be held via Zoom, and registration is required. If you have any trouble registering, please reach out to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>.
-
-| Date | Time | Registration link |
-| :---- | :---- | :----------------- |
-| Tuesday, December 3rd, 2024 | 1pm EST | <a class="usa-link usa-link--external" href="https://gsa.zoomgov.com/meeting/register/vJIsde2gqTwoHUubt_fmkFdtmbL4HNnB5zM">Register now</a> |
-| Thursday, December 5th, 2024 | 3pm EST | <a class="usa-link usa-link--external" href="https://gsa.zoomgov.com/meeting/register/vJItdeqrrTkpGvr5R2aWGC8nIJLhTCye5yw">Register now</a> |
 
 ## Frequently Asked Questions
 <section class="usa-accordion featured bg-white padding-1">
