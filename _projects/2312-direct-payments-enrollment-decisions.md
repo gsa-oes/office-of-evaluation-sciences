@@ -8,7 +8,8 @@ share_image: /assets/img/project-images/2312.png
 image: /assets/img/project-images/2312.webp
 image_alt_text: graduation caps and confetti scattered on a gym floor
 image-credit: https://www.pexels.com/photo/photo-of-graduation-caps-on-wooden-floor-7944120/
-analysis-plan:
+analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf
+analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-analysis-plan.pdf
 abstract: 
 year: 2024  
 domain: Pandemic Relief and Recovery
