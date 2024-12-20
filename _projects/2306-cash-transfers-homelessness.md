@@ -25,6 +25,9 @@ The COVID-19 pandemic created significant economic impacts for many families, su
 ## What did we evaluate?
 The county program used a lottery to allocate a one-time unconditional payment of $4,000 to 2,250 eligible applicants identified as individuals at risk of homelessness, low-income families, and seniors living in areas disproportionately affected by the pandemic. Other localities in the United States are beginning to adopt similar programs.<sup>4</sup> Although the literature on the effects in high income countries is just emerging, there is suggestive evidence that these programs decrease material hardship and homelessness for very low income populations.<sup>5,6</sup>
 
+## How did the evaluation work?
+The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://oes.gsa.gov/assets/analysis/2306-decreasing-homelessness-with-cash-transfers-analysis-plan.pdf">on GitHub</a>.
+
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
 Results forthcoming (2025).
