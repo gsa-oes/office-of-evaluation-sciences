@@ -34,7 +34,7 @@ The Analysis Plan at the right indicates the date locked, and you can verify our
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
-Results forthcoming (2024).
+Results forthcoming (2025).
 
 Notes:
 1. <a class="usa-link usa-link--external" href="https://www.acf.hhs.gov/ocs/law-regulation/liheap-statute-and-regulations">The LIHEAP statute</a> defines vulnerable households as those who have household members who are elderly (aged 60 or over), have a disability, and/or are a young child (under the age of 6).
