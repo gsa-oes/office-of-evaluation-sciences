@@ -29,7 +29,7 @@ Analysis plan forthcoming.
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
-Results forthcoming (2024).
+Results forthcoming (2025).
 
 Notes:
 1. <a class="usa-link usa-link--external" href="https://www.gao.gov/products/gao-22-106044">Stimulus Checks: Direct Payments to Individuals during the COVID-19 Pandemic</a>
