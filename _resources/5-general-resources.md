@@ -12,6 +12,8 @@ Below are resources we’ve developed through our work building evidence governm
 OES sends out regular newsletters with upcoming events, recent project results, and other news. <a href="https://goo.gl/forms/VgSGvpAZZn61oxy62" target="_blank">Subscribe to our newsletter.</a>
 
 ### 2024
+- <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3c034e4" target="_blank">December 2024: The Office of Evaluation Sciences is hiring!</a>
+
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3b4bc1a" target="_blank">September 2024: Announcing our newest portfolio: Pandemic relief and economic recovery</a>
 
 - <a class="usa-link usa-link--external" href="https://content.govdelivery.com/accounts/USGSA/bulletins/3ad1811" target="_blank">August 2024: Building evidence to help support the prevention of homelessness and housing instability</a>
