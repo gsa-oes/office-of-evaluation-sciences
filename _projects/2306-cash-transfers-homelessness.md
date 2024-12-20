@@ -16,7 +16,7 @@ domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Treasury
 status: Ongoing
-summary: 
+summary: Analysis plan registration
 featured: 
 ---
 ## What is the agency priority?
@@ -24,9 +24,6 @@ The COVID-19 pandemic created significant economic impacts for many families, su
 
 ## What did we evaluate?
 The county program used a lottery to allocate a one-time unconditional payment of $4,000 to 2,250 eligible applicants identified as individuals at risk of homelessness, low-income families, and seniors living in areas disproportionately affected by the pandemic. Other localities in the United States are beginning to adopt similar programs.<sup>4</sup> Although the literature on the effects in high income countries is just emerging, there is suggestive evidence that these programs decrease material hardship and homelessness for very low income populations.<sup>5,6</sup>
-
-## How did the evaluation work?
-Analysis plan forthcoming.
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
