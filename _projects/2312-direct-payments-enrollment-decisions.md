@@ -8,14 +8,14 @@ share_image: /assets/img/project-images/2312.png
 image: /assets/img/project-images/2312.webp
 image_alt_text: graduation caps and confetti scattered on a gym floor
 image-credit: https://www.pexels.com/photo/photo-of-graduation-caps-on-wooden-floor-7944120/
-analysis-plan:
+analysis-plan: /assets/analysis/2312-analysis-plans.pdf
 abstract: 
 year: 2024  
 domain: Pandemic Relief and Recovery
 type: Impact evaluation of program change
 agency: Treasury
 status: Ongoing
-summary: 
+summary: Analysis plan registration
 featured: 
 ---
 ## What is the agency priority?
@@ -25,7 +25,7 @@ In 2020 and 2021, the Internal Revenue Service (IRS) issued $931 billion dollars
 We will evaluate whether eligibility for these COVID-era payments impacted college enrollment decisions and tax filing behaviors among young adults and their families. Access to tax benefits when families are making college choice decisions appears to influence young adults’ decisions to enroll in college.<sup>4</sup> Take-up of benefits also tends to increase as the expected benefit amount and information about benefits increases.<sup>5</sup> Families with qualifying teenage dependents could receive up to $1,100 in additional tax benefits from the first and second EIPs, and up to $3,000 in additional tax benefits from the E/ACTC. To evaluate the effects of these programs, we will use individual-level tax data to compare outcomes for households with qualifying teenage dependents who were just young enough to be eligible to receive the benefits to otherwise similar households with teenage dependents who were slightly too old to receive the benefits. We also will examine the extent to which the impacts of eligibility for these programs differ for different taxpayer segments. 
 
 ## How did the evaluation work?
-Analysis plan forthcoming.
+The Analysis Plans at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2312-analysis-plans.pdf">on GitHub</a>.
 
 ## What did we learn?
 This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
