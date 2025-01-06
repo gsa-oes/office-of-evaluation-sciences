@@ -34,7 +34,7 @@ Employees of state, local, or Tribal governments, academic institutions, or non-
 Current federal employees can join the team on a temporary, reimbursable detail assignment via an Interagency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
 
 ### Office Hours
-Our team will also be holding one hour-long office hours session to answer any questions you may have about our team, work, or the application process. This session will be held via Zoom, and registration is required. If you have any trouble registering, please reach out to oes@gsa.gov.
+Our team will also be holding one hour-long office hours session to answer any questions you may have about our team, work, or the application process. This session will be held via Zoom, and registration is required. If you have any trouble registering, please reach out to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>.
 
 | Date  | Time | Registration |
 | :------------- | :------------- | :------------- |
