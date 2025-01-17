@@ -21,9 +21,9 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
 ### Submit an application
 <p>The application deadline for the Fall 2025 Evaluation Fellowship has passed. Applications will be accepted on an ongoing basis and will remain on file until the Fall 2026 application period. Eligible applicants may be considered for additional opportunities on an as-needed basis.</p>
 
-<a class="usa-button" href="https://forms.gle/1mPuBVfSSmk7xcQt9">Apply now</a>
+<a class="usa-button" href="https://forms.gle/eyUpjBBBPeaCypEi6">Apply now</a>
 
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View solicitation (PDF)</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View 2025 solicitation (PDF)</a>
 
 If you would like to be considered for the Fall 2025 Evaluation Fellowship and could not apply by the original deadline of January 17th due to extenuating circumstances, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> by Thursday, January 23rd at 11:59pm ET to request an application for the Fall 2025 cycle.
 
