@@ -59,7 +59,7 @@ Can I submit my application after the deadline?
       </button>
   </h2>
   <div id="b2" class="usa-accordion__content usa-prose">
-<p>We are holding to a firm application deadline at this time. We do sometimes have need for off-cycle support — if you would like to send your CV and a cover letter to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>, we are happy to consider you for future opportunities.</p>
+<p>If you cannot apply by the January 17th deadline due to extenuating circumstances (such as a natural disaster, health, or other emergency), please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> by Thursday, January 23rd at 11:59pm ET to request an extension.</p>
    </div>
 </section>
 
