@@ -24,7 +24,7 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
 
 <a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View solicitation (PDF)</a>
 
-Please apply via the button above. If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out before the deadline above.
+Please apply via the button above. If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out before the deadline above. If you would like to be considered for the Fall 2025 Evaluation Fellowship and cannot apply by the deadline due to extenuating circumstances, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> by Thursday, January 23rd at 11:59pm ET to request an extension.
 
 The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES Evaluators’ experiences on our blog</a>.
 
