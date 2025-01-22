@@ -14,17 +14,17 @@ OES is made up of interdisciplinary experts from federal agencies and academic, 
 
 ### Where are you working now and what are you working on? 
 
-**<a href="https://oes.gsa.gov/team/jake-bowers/" target="_blank">Jake Bowers</a>:** University of Illinois @ Urbana-Champaign, Departments of Political Science and Statistics. Among many projects a paper on testing many hypotheses in experiments with thousands of blocks/strata.
+**Jake Bowers:** University of Illinois @ Urbana-Champaign, Departments of Political Science and Statistics. Among many projects a paper on testing many hypotheses in experiments with thousands of blocks/strata.
 
-**<a href="https://oes.gsa.gov/team/amira-boland/" target="_blank">Amira Boland</a>:** Lead, Federal Customer Experience at the Office of Management and Budget. The Customer Experience team at OMB works to view government through the lens of people – and the life experiences they have – to identify ways to more meaningfully improve government. When someone survives a natural disaster, has a child, turns 65 – they don’t think about individual federal, state, or local government entities they need to interact with – they just expect government to work to meet their needs.
+**Amira Boland:** Lead, Federal Customer Experience at the Office of Management and Budget. The Customer Experience team at OMB works to view government through the lens of people – and the life experiences they have – to identify ways to more meaningfully improve government. When someone survives a natural disaster, has a child, turns 65 – they don’t think about individual federal, state, or local government entities they need to interact with – they just expect government to work to meet their needs.
 
-**<a href="https://oes.gsa.gov/team/russ-burnett/" target="_blank">Russ Burnett</a>:** I am currently a Senior Advisor for Evaluation at the U.S. Department of Justice, where I help to lead the Department’s efforts around evidence-based policymaking, particularly by promoting and supporting evaluation across the agency.
+**Russ Burnett:** I am currently a Senior Advisor for Evaluation at the U.S. Department of Justice, where I help to lead the Department’s efforts around evidence-based policymaking, particularly by promoting and supporting evaluation across the agency.
 
-**<a href="https://oes.gsa.gov/team/dennis-kramer/" target="_blank">Dennis Kramer</a>:** Senior Policy Advisor, Federal Student Aid U.S. Department of Education and Visiting Associate Professor of Education Policy at Johns Hopkins University. My primary work with the U.S. Department of Education is working on large-scale policy evaluations to support the implementation of the FAFSA Simplification and FUTURE Act legislations as well as the designing and implementation of policies to assist student loan borrowers as they re-enter into repayment after the payment pause for the COVID-19 global pandemic. I have several papers that utilize skills and insights I enhanced while at OES in my academic role.
+**Dennis Kramer:** Senior Policy Advisor, Federal Student Aid U.S. Department of Education and Visiting Associate Professor of Education Policy at Johns Hopkins University. My primary work with the U.S. Department of Education is working on large-scale policy evaluations to support the implementation of the FAFSA Simplification and FUTURE Act legislations as well as the designing and implementation of policies to assist student loan borrowers as they re-enter into repayment after the payment pause for the COVID-19 global pandemic. I have several papers that utilize skills and insights I enhanced while at OES in my academic role.
 
-**<a href="https://oes.gsa.gov/team/nuole-chen/" target="_blank">Lula Chen</a>:** I’m a Postdoctoral Associate at MIT's Governance Lab (GOV/LAB) and Department of Political Science.  I work on projects related to trust, governance, and COVID-19 in Africa.  At GOV/LAB, we collaborate with civil society, funders, and governments on research that builds and tests theories about how innovative programs and interventions affect political behavior and make governments more accountable to citizens.
+**Lula Chen:** I’m a Postdoctoral Associate at MIT's Governance Lab (GOV/LAB) and Department of Political Science.  I work on projects related to trust, governance, and COVID-19 in Africa.  At GOV/LAB, we collaborate with civil society, funders, and governments on research that builds and tests theories about how innovative programs and interventions affect political behavior and make governments more accountable to citizens.
 
-**<a href="https://oes.gsa.gov/team/rebecca-kruse/" target="_blank">Rebecca Kruse</a>:** I joined the Department of Homeland Security (DHS) in November 2020 as the Assistant Director for Evaluation for the Program Analysis and Evaluation Division in the Office of the Chief Financial Officer. In partnership with the DHS Evaluation Officer, I currently lead the Department’s development of evaluation and evidence infrastructure to implement Evidence Act Title 1. 
+**Rebecca Kruse:** I joined the Department of Homeland Security (DHS) in November 2020 as the Assistant Director for Evaluation for the Program Analysis and Evaluation Division in the Office of the Chief Financial Officer. In partnership with the DHS Evaluation Officer, I currently lead the Department’s development of evaluation and evidence infrastructure to implement Evidence Act Title 1. 
 
 
 ### Why did you originally join the OES team?
@@ -74,5 +74,5 @@ Also, that we don’t know as much as we’d like to think we know about strateg
 **Jake:** Do it! You’ll love it!
 
 
-*For more information on OES fellowships, visit our <a href="https://oes.gsa.gov/opps" target="_blank">Opportunities page</a>. The deadline to apply for Fall 2022 fellowships is January 3. 2022.*
+*For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps" target="_blank">Opportunities page</a>. The deadline to apply for Fall 2022 fellowships was January 3. 2022.*
 
