@@ -23,10 +23,6 @@ Agency representatives will showcase how evaluation is integrated into the imple
 ### What to Do When You Can't Randomize
 While randomized experiments are the best way to prove a program’s impact, they are not always feasible. This workshop will explore other research designs that can help evaluators understand a program’s impact.
 - July 19, 2023
-
-### Evaluating Agency Equity Initiatives
-As agencies implement Equity Action Plans, this workshop will highlight approaches to evaluating activities on these plans, including those related to DEIA activities, to determine whether they are having their intended effects and offer about how agencies can evaluate these activities moving forward.
-- May 17, 2023
   
 ### Why Randomize? A Case Study
 This presentation uses an interactive case study to motivate the need for rigorous evaluation and familiarize participants with various impact evaluation methodologies.
