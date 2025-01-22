@@ -25,8 +25,6 @@ Leveraging administrative data to measure impacts makes it possible to answer pr
 Having worked frequently with administrative datasets, we have found that projected sample sizes do not always provide a good indication of how big your sample will ultimately be—there is a lot more to sample size than merely counting the number of participants or people reached by an intervention. Anticipating the many ways that sample sizes grow and shrink is instrumental to a successful evaluation.
 
 ### 4. Being transparent about implementation — as well as results — has enormous value.
-Since the earliest evaluations, we have published all of its collaborations and evaluation results. Then in 2018, we began pre-registering every project by posting our analysis plans on <a href="http://oes.gsa.gov/work" target="_blank">our website</a>. Finally, we now deliver transparency in implementation, by publishing an intervention pack and record of implementation for many evaluations.
+Since the earliest evaluations, we have published all of its collaborations and evaluation results. Then in 2018, we began pre-registering every project by posting our analysis plans on our website. Finally, we now deliver transparency in implementation, by publishing an intervention pack and record of implementation for many evaluations.
 
-As agencies build their evaluation capacity, we hope our lessons learned and <a href="http://oes.gsa.gov/resources/" target="_blank">resources</a> can be of use. 
-
-*<a href="/assets/files/Reflections-from-100-OES-collaborations.pdf" target="_blank">Read more here</a>.*
+As agencies build their evaluation capacity, we hope our lessons learned and <a href="http://oes.gsa.gov/resources/" target="_blank">resources</a> can be of use.
