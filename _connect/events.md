@@ -67,7 +67,7 @@ Formative and Process Evaluations can be important tools for assessing whether a
 ![image]({{site.baseurl}}/assets/img/oesat100-subtitle-cropped.webp)
 OES celebrated completing 100 collaborations across government this year. Distinguished speakers discussed insights gained from OES’ evaluation portfolio to date and future priorities for evidence-building. 
  - **Panel 1:** What leads to a successful evaluation? Reflections from 100 OES collaborations
- - **Panel 2:** Portfolio of evidence on equity and economic recovery 
+ - **Panel 2:** Portfolio of evidence on economic recovery 
  - **Panel 3:** New frontier for evidence in government: what’s next?
 
 ## What is the impact of applying behavioral insights in government? 
@@ -83,4 +83,3 @@ In addition to discussing the findings in detail, the conversation will underlin
 ## <a href="https://oes.gsa.gov/2019annualevent" target="_blank">Using evidence: Learning from low-cost federal evidence building activities</a>
 The U.S. General Services Administration’s (GSA) Office of Evaluation Sciences (OES) and numerous agency collaborators presented on how the federal government uses low-cost evaluations, unexpected results, and administrative data to inform policy and program decisions. OES staff, collaborators from multiple agencies, and distinguished academic partners presented new results and lessons learned from over 10 OES evaluations in three sessions: Learning from Low-Cost Evaluations, Learning from Unexpected Results, and Learning from Administrative Data. All sessions included information and examples relevant to meeting the requirements of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act)
 - October 30, 2019 at GSA
-
