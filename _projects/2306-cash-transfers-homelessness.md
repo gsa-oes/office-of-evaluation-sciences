@@ -19,23 +19,8 @@ status: Ongoing
 summary: Analysis plan registration
 featured: 
 ---
-## What is the agency priority?
-The COVID-19 pandemic created significant economic impacts for many families, such as job loss, reduction in income, and increased risk of homelessness.<sup>1</sup> In response, the U.S. Department of the Treasury administered the Coronavirus State and Local Fiscal Recovery Funds (SLFRF) program, which delivered $350 billion to state, territorial, local, and Tribal governments across the country.<sup>2</sup> The SLFRF program funding aims to address the unique needs of local communities and create a strong national economy. One county recipient allocated $10 million in SLFRF funding to administer an unconditional cash transfer program with the goals of increasing economic security and well-being, and preventing homelessness.<sup>3</sup>
+This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
 
-## What did we evaluate?
-The county program used a lottery to allocate a one-time unconditional payment of $4,000 to 2,250 eligible applicants identified as individuals at risk of homelessness, low-income families, and seniors living in areas disproportionately affected by the pandemic. Other localities in the United States are beginning to adopt similar programs.<sup>4</sup> Although the literature on the effects in high income countries is just emerging, there is suggestive evidence that these programs decrease material hardship and homelessness for very low income populations.<sup>5,6</sup>
-
-## How did the evaluation work?
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://oes.gsa.gov/assets/analysis/2306-decreasing-homelessness-with-cash-transfers-analysis-plan.pdf">on GitHub</a>.
 
-## What did we learn?
-This evaluation is currently being implemented and is part of our <a href="https://oes.gsa.gov/pandemic-relief-economic-recovery/">Pandemic Relief and Recovery portfolio</a>. 
-Results forthcoming (2025).
-
-Notes:
-1. U.S. Department of the Treasury <a class="usa-link usa-link--external" href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-funds">“State and Local Fiscal Recovery Funds”</a>.
-2. <i>Ibid.</i>
-3. <i>Ibid.</i>
-4. Kline, Sean. 2022. <a class="usa-link usa-link--external" href="https://basicincome.stanford.edu/uploads/basic-income-and-cities-toolkit_digital.pdf">“Basic Income and Local Government: A Guide to Municipal Pilots.”</a> <i>Stanford Basic Income Lab</i>.
-5. Pilkauskas, Natasha V., et al. "The COVID Cash Transfer Study: The impacts of a one‐time unconditional cash transfer on the well‐being of families receiving SNAP in twelve states." <i>Journal of Policy Analysis and Management</i> 42.3 (2023): 771-795.
-6. Dwyer, Ryan, et al. "Unconditional cash transfers reduce homelessness." <i>Proceedings of the National Academy of Sciences</i> 120.36 (2023): e2222103120.
+Check back for results!
