@@ -33,6 +33,7 @@ Employees of state, local, or Tribal governments, academic institutions, or non-
 Current federal employees can join the team on a temporary, reimbursable detail assignment via an Interagency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
 
 ## Frequently Asked Questions
+
 <section class="usa-accordion featured bg-white padding-1">
   <h2 class="usa-accordion__heading">
     <button
@@ -42,7 +43,7 @@ Current federal employees can join the team on a temporary, reimbursable detail 
 If I submit an application now, when will it be considered?
       </button>
   </h2>
-  <div id="b2" class="usa-accordion__content usa-prose">
+  <div id="b1" class="usa-accordion__content usa-prose">
 <p>Applications received after the most recent Evaluation Fellowship (Fall 2025) application window will be considered for the following year's Evaluation Fellowship (Fall 2026). OES will begin selecting candidates for the next Evaluation Fellowship in January 2026. Eligible applicants may also be contacted regarding additional opportunities on an as-needed basis.</p>
    </div>
 </section>
@@ -56,7 +57,7 @@ If I submit an application now, when will it be considered?
 What is the difference between Associate Evaluators, Evaluators, and Senior Evaluators?
       </button>
   </h2>
-  <div id="b3" class="usa-accordion__content usa-prose">
+  <div id="b2" class="usa-accordion__content usa-prose">
 <p>
     OES recruits individuals for this position at different levels of education and experience:
 <ul>    
@@ -78,7 +79,7 @@ What is the difference between Associate Evaluators, Evaluators, and Senior Eval
 I saw from the description that Evaluators join OES "on-loan" from other institutions. What does this mean?
       </button>
   </h2>
-  <div id="b4" class="usa-accordion__content usa-prose">
+  <div id="b3" class="usa-accordion__content usa-prose">
 <p>
 This is a detail opportunity through the Intergovernmental Personnel Act (IPA) Mobility Program for employees of eligible organizations. The IPA requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. Those joining OES via the IPA remain employees of their organization and are not federal employees.
     
@@ -98,7 +99,7 @@ Note that current federal employees can join OES on detail from their agency via
 Is the position paid?
       </button>
   </h2>
-  <div id="b5" class="usa-accordion__content usa-prose">
+  <div id="b4" class="usa-accordion__content usa-prose">
 <p>
 Through the Intergovernmental Personnel Act (IPA) Mobility Program, those selected for the position will continue to be paid by their host institution, and OES will reimburse the institution for the direct costs associated with your rotation. OES will reimburse institutions up to the following limits:
 <ul>    
@@ -122,7 +123,7 @@ Current federal employees will continue to be paid by their agency, with reimbur
 Are there opportunities to join OES other than the Evaluation Fellowship?
       </button>
   </h2>
-  <div id="b6" class="usa-accordion__content usa-prose">
+  <div id="b5" class="usa-accordion__content usa-prose">
 <p>
 As needed, OES will post vacancies for other IPA-eligible positions on this page. We will also link to any federal vacancies, which must be applied to through <a class="usa-link usa-link--external" href="https://www.usajobs.gov/">USAJOBS</a>.
     </p>
@@ -138,7 +139,7 @@ As needed, OES will post vacancies for other IPA-eligible positions on this page
 Do I need to be a U.S. citizen to apply?
       </button>
   </h2>
-  <div id="b7" class="usa-accordion__content usa-prose">
+  <div id="b6" class="usa-accordion__content usa-prose">
 <p>
 No, we encourage candidates that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. The Intergovernmental Personnel Agreement (IPA), requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and visa, and allows for the onboarding of non-residents and non-citizens.
     </p>
@@ -154,7 +155,7 @@ No, we encourage candidates that have authorization for employment or course-of-
 What are the types of projects OES has worked on in the past?
       </button>
   </h2>
-  <div id="b8" class="usa-accordion__content usa-prose">
+  <div id="b7" class="usa-accordion__content usa-prose">
 <p>
 To see our past work, please visit our <a href="https://oes.gsa.gov/work">evaluations page</a> and <a href="https://oes.gsa.gov/portfolios">portfolios page</a>.
     </p>
@@ -170,7 +171,7 @@ To see our past work, please visit our <a href="https://oes.gsa.gov/work">evalua
 What type of writing sample should I submit with my application?
       </button>
   </h2>
-  <div id="b10" class="usa-accordion__content usa-prose">
+  <div id="b8" class="usa-accordion__content usa-prose">
 <p>
 An ideal writing sample would demonstrate three things:
 <ul>  
@@ -192,7 +193,7 @@ An ideal writing sample would demonstrate three things:
 Do you have guidance for people with active grants or other ongoing commitments?
       </button>
   </h2>
-  <div id="b11" class="usa-accordion__content usa-prose">
+  <div id="b9" class="usa-accordion__content usa-prose">
 <p>
 Those selected for the position will undergo a briefing with the GSA Office of General Counsel to identify and mitigate any conflicts of interest arising from active grants or other obligations. From a time commitment perspective, while schedules at OES are flexible, please let us know during the selection process whether your ongoing work prevents you from serving at OES in a full-time capacity. 
     </p>
