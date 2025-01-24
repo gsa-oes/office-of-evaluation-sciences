@@ -8,7 +8,7 @@ class:
 summary: 
 ---
 ## OES Evaluation Fellowship
-OES applications for one-year evaluation fellowships beginning in the fall of each year. Selected applicants will serve their fellowship term as Evaluators, joining a team of interdisciplinary experts at the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
+OES Evaluation Fellowships begin in the fall of each year. Selected applicants will serve their one-year fellowship term as Evaluators, joining a team of interdisciplinary experts at the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
 
 Our team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. We’re uniquely situated at the center of government to share leading practices, develop resources, and build skills related to evidence and evaluation in the federal workforce. To date, we’ve completed <a href="http://oes.gsa.gov/work">over 130 collaborations</a>, including over 100 impact evaluations, with dozens of agency partners. We follow the best practices in social science research to build evidence in order to be <a href="https://oes.gsa.gov/methods">a leader in transparency and accountability</a>. We form innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as decreasing abandonment of calls to the 988 Suicide & Crisis Lifeline, increasing access to grants for child care providers, and improving government efficiency.
 
@@ -23,15 +23,11 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
 
 <a class="usa-button" href="https://forms.gle/eyUpjBBBPeaCypEi6">Apply now</a>
 
-<a class="usa-button" href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">View 2025 solicitation (PDF)</a>
-
-If you would like to be considered for the Fall 2025 Evaluation Fellowship and could not apply by the original deadline of January 17th due to extenuating circumstances, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> by Thursday, January 23rd at 11:59pm ET to request an application for the Fall 2025 cycle.
-
 If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out.
 
-The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES Evaluators’ experiences on our blog</a>.
+The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES Evaluators’ experiences on our blog</a> and <a href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">view the 2025 solicitation (PDF)</a> for more details on the position and the typical applicant profile.
 
-### Eligibilty
+### Eligibility
 Employees of state, local, or Tribal governments, academic institutions, or non-profit organizations are eligible to join the team via the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act (IPA) Mobility Program</a>. Fellows joining OES through the IPA are not federal employees. OES fellows have come from a variety of universities, non-profits, and government agencies.
 
 Current federal employees can join the team on a temporary, reimbursable detail assignment via an Interagency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
@@ -42,22 +38,7 @@ Current federal employees can join the team on a temporary, reimbursable detail 
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b1"
-    >
-Do I need to be able to relocate to Washington, D.C.?
-    </button>
-  </h2>
-  <div id="b1" class="usa-accordion__content usa-prose">
-<p>No, you do not need to relocate to Washington, D.C. IPA detail assignments with OES are remote within the United States.</p>
-   </div>
-</section>
-
-<section class="usa-accordion featured bg-white padding-1">
-  <h2 class="usa-accordion__heading">
-    <button
-      class="usa-accordion__button"
-      aria-expanded="false"
-      aria-controls="b2">
+      aria-controls="b1">
 If I submit an application now, when will it be considered?
       </button>
   </h2>
@@ -71,7 +52,7 @@ If I submit an application now, when will it be considered?
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b3">
+      aria-controls="b2">
 What is the difference between Associate Evaluators, Evaluators, and Senior Evaluators?
       </button>
   </h2>
@@ -93,7 +74,7 @@ What is the difference between Associate Evaluators, Evaluators, and Senior Eval
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b4">
+      aria-controls="b3">
 I saw from the description that Evaluators join OES "on-loan" from other institutions. What does this mean?
       </button>
   </h2>
@@ -113,7 +94,7 @@ Note that current federal employees can join OES on detail from their agency via
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b5">
+      aria-controls="b4">
 Is the position paid?
       </button>
   </h2>
@@ -137,7 +118,7 @@ Current federal employees will continue to be paid by their agency, with reimbur
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b6">
+      aria-controls="b5">
 Are there opportunities to join OES other than the Evaluation Fellowship?
       </button>
   </h2>
@@ -153,7 +134,7 @@ As needed, OES will post vacancies for other IPA-eligible positions on this page
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b7">
+      aria-controls="b6">
 Do I need to be a U.S. citizen to apply?
       </button>
   </h2>
@@ -169,7 +150,7 @@ No, we encourage candidates that have authorization for employment or course-of-
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b8">
+      aria-controls="b7">
 What are the types of projects OES has worked on in the past?
       </button>
   </h2>
@@ -185,23 +166,7 @@ To see our past work, please visit our <a href="https://oes.gsa.gov/work">evalua
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b9">
-Do you offer summer internships?
-      </button>
-  </h2>
-  <div id="b9" class="usa-accordion__content usa-prose">
-<p>
-OES is not currently seeking summer interns, as we believe the value derived from supporting our work lends itself to a longer timeline — individual projects often take longer than 2-3 months to complete.
-    </p>
-   </div>
-</section>
-
-<section class="usa-accordion featured bg-white padding-1">
-  <h2 class="usa-accordion__heading">
-    <button
-      class="usa-accordion__button"
-      aria-expanded="false"
-      aria-controls="b10">
+      aria-controls="b8">
 What type of writing sample should I submit with my application?
       </button>
   </h2>
@@ -223,7 +188,7 @@ An ideal writing sample would demonstrate three things:
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="b11">
+      aria-controls="b9">
 Do you have guidance for people with active grants or other ongoing commitments?
       </button>
   </h2>
