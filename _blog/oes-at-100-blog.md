@@ -9,7 +9,7 @@ year: 2028
 class:	
 summary: 	
 ---	
-On November 16, 2021, we held an event <a href="https://oes.gsa.gov/oes-at-100/" target="_blank">OES@100</a> that celebrated the completion of 100 collaborations across government, involving a total sample size of over 44 million individuals. Distinguished speakers discussed insights gained from the evaluation portfolio to date and future priorities for evidence-building.
+On November 16, 2021, we held an event OES@100 that celebrated the completion of 100 collaborations across government, involving a total sample size of over 44 million individuals. Distinguished speakers discussed insights gained from the evaluation portfolio to date and future priorities for evidence-building.
 
 “The federal government is learning extremely rich and impactful lessons from these 100 studies — and we’ve only scratched the surface,” GSA Administrator Robin Carnahan said <a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsas-office-of-evaluation-sciences-shares-lessons-learned-and-new-frontiers-from-100-collaborations-across-government-11162021" target="_blank">in a GSA press release</a>. “Great outcomes start with good data, and the Office of Evaluation Sciences is a prime example of GSA’s commitment to using data and technology to improve service delivery governmentwide. OES is gathering the evidence we need to make recommendations that improve how the government delivers for the American people.”
 
