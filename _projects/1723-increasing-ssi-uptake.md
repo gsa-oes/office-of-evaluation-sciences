@@ -10,7 +10,7 @@ image_alt_text: People sitting on bench with ocean in background
 image-credit: https://pixabay.com/photo-3113574/
 analysis-plan: /assets/analysis/1723-Increasing-SSI-Uptake.pdf
 abstract: /assets/abstracts/1723-Increasing-SSI-Uptake.pdf
-academic-pub: /assets/publications/1723 - Hemmeter et al (2021) - Communicating Program Eligibility A Supplemental Security Income (SSI) Field Experiment.pdf
+academic-pub: /assets/publications/1723.pdf
 intervention: /assets/interventions/1723-intervention-pack-ssi-65plus.pdf
 year: 2018  
 type: Impact evaluation of program change
@@ -42,10 +42,10 @@ All of the letters had a large and statistically significant impact on applicati
 <p>
 <a class="usa-button" href="https://oes.gsa.gov/blog/ssi-awards/" target="_blank">Read the blog: OES letters quadrupled SSI awards</a>
 
-  <a class="usa-button" href="https://oes.gsa.gov/blog/ssi-utilization/">Read the blog: Using OES evidence to inform SSA outreach</a>
+<a class="usa-button" href="https://oes.gsa.gov/blog/ssi-utilization/">Read the blog: Using OES evidence to inform SSA outreach</a>
 </p>
 
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1723-Increasing-SSI-Uptake.pdf">on GitHub</a>.
 
-Related Working Paper:<br>
-Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="/assets/publications/1723%20-%20Hemmeter%20et%20al%20(2021)%20-%20Communicating%20Program%20Eligibility%20A%20Supplemental%20Security%20Income%20(SSI)%20Field%20Experiment.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment</a>." 2021.
+Related paper:<br>
+Hemmeter, Jeffrey, John Phillips, Elana Safran, and Nicholas Wilson. "<a href="/assets/publications/1723.pdf">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment</a>." 2024.
