@@ -9,7 +9,7 @@ summary: Below are selected publications resulting from OES collaborations.
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners. More information about publications resulting from OES collaborations can be found on our <a class="usa-link usa-link--external" href="https://scholar.google.com/citations?user=ti96pvAAAAAJ&hl=en">Google Scholar page</a>.
 
 ## 2024
-Jeffrey Hemmeter, John Phillips, Elana Safran, and Nicholas Wilson. "<a class="usa-link usa-link--external" href="/assets/publications/1723.pdf" target="_blank">Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment</a>." (2024).
+Jeffrey Hemmeter, John Phillips, Elana Safran, and Nicholas Wilson. "Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment." (2024). Available at <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/pol.20210560&from=f" target="_blank">aeaweb.org</a>.
 - We conducted a randomized controlled direct mail field experiment with 4,016,461 individuals to test several key hypotheses about why take-up of this program is low. We find that communicating likely eligibility in a basic letter generated substantial increases in take-up in relative terms, yet the application rate in our study sample during the full nine-month follow-up period remained at less than 7%. Adding behaviorally-informed statements increased the effectiveness of these communications.
 
 ## 2023
