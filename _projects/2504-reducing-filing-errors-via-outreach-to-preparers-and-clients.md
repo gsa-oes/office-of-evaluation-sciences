@@ -7,7 +7,7 @@ share_image: /assets/img/project-images/2504.png
 image: /assets/img/project-images/2504.jpg
 image-credit: https://www.pexels.com/photo/man-couple-people-woman-6963909/
 image_alt_text: Two people reviewing tax forms
-analysis-plan: /assets/analysis/2504.pdf
+analysis-plan: /assets/analysis/2504-analysis-plan.pdf
 abstract:
 year: 2025
 domain:
