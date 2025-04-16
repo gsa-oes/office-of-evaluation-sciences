@@ -1,5 +1,5 @@
 ---
-title: Reducing filing errors via outreach to tax preparers
+title: Reducing filing errors via education and outreach to tax preparers
 permalink: /-reducing-filing-errors-via-outreach-to-preparers/
 tags:
   - project
