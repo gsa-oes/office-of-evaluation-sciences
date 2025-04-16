@@ -7,7 +7,7 @@ share_image: /assets/img/project-images/2505.jpg
 image: /assets/img/project-images/2505.jpg
 image-credit: https://www.pexels.com/photo/white-printer-paper-on-brown-wooden-table-6964138/
 image_alt_text: Tax form next to calculator
-analysis-plan: /assets/analysis/2505.pdf
+analysis-plan: /assets/analysis/2505-analysis-plan.pdf
 abstract:
 year: 2025
 domain:
