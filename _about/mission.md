@@ -6,8 +6,9 @@ tags:
 image: /assets/img/icons/oes-green.webp
 hide_image: true
 class:
-summary: Our mission is to build and use evidence to improve the effectiveness and efficiency of government programs, leading to cost savings. We ensure GSA meets its statutory requirements set forth in the Foundations for Evidence-Based Policymaking Act.
+summary: Our mission is to build and use evidence to improve the effectiveness and efficiency of government programs, leading to cost savings.
 ---
+Our mission is to build and use evidence to improve the effectiveness and efficiency of government programs, leading to cost savings. We ensure GSA meets its statutory requirements set forth in the Foundations for Evidence-Based Policymaking Act.
 
 ## Who we are
 The OES team is composed of interdisciplinary evaluation experts and includes a mix of federal employees, fellows, and academic affiliates, often on loan from a university or research institution.
