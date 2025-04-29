@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2504-analysis-plan.pdf
 abstract:
 year: 2025
 domain:
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Treasury
 status: Ongoing
 summary: Analysis plan registration
