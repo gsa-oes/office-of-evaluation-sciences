@@ -13,7 +13,7 @@ abstract-web: /results/decreasing-abandonment-of-calls-to-988/
 intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2024 
 domain: Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Health and Human Services
 status: Complete
 summary: An updated caller experience resulted in more people being connected to a 988 counselor
