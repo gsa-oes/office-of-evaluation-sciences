@@ -12,7 +12,7 @@ abstract:
 year: 2023
 domain:
 agency: Homeland Security
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Ongoing
 summary: Analysis Plan Registration
 featured:
