@@ -11,7 +11,7 @@ image-credit: https://www.publicdomainpictures.net/en/view-image.php?image=39129
 analysis-plan: /assets/analysis/2112G-3-analysis-plan.pdf
 abstract-web: /results/slfrf-tribal-govs-neus/
 year: 2022 
-type: Descriptive study
+type: Descriptive evaluation
 domain:
  - Economic Opportunity
  - Pandemic Relief and Recovery
@@ -46,11 +46,11 @@ The quantitative results support the qualitative findings showing that Tribes an
 <br><img src="{{ '/assets/img/project-images/2112G-fig5.svg' | prepend: site.baseurl }}" alt="" width="1500">
 <br><i><a href="/assets/img/project-images/2112G-fig3.svg">Expand image</a></i>
 
-_Note:_ Blue markers represent the average number of new Help Desk ticket submissions per day, where days are centered relative to the April 2022 deadline grantees had to submit spending reports; markers are connected by a LOWESS line. Red markers represent the average number of days it took Treasury to close Help Desk ticket submissions per day of ticket submission, again centered relative to the April 2022 deadline. 
+Note: Blue markers represent the average number of new Help Desk ticket submissions per day, where days are centered relative to the April 2022 deadline grantees had to submit spending reports; markers are connected by a LOWESS line. Red markers represent the average number of days it took Treasury to close Help Desk ticket submissions per day of ticket submission, again centered relative to the April 2022 deadline. 
 
 Treasury and OES undertook this analysis early in the life cycle of the SLFRF program. Using these findings, OES and Treasury will identify methods to further support Tribes and NEUs to most effectively use and report on their SLFRF funds.
 
-_Notes:_
+Notes:
 1.  As defined in section 602(g)(7) of the Social Security Act, as added by section 9901 of the American Rescue plan Act of 2021.
 2. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments. 
 3. Prior to ARP, the U.S. last implemented a General Revenue Sharing (GRS) program in 1972 that expired in 1986. GRS is commonly defined as a program of federal transfers to state and local governments that does not impose specific or categorical spending requirements on the recipient government. See the <a class="usa-link usa-link--external" href="https://crsreports.congress.gov/product/pdf/RL/RL31936" target="blank_">Congressional Research Service report on General Revenue Sharing</a>.
