@@ -10,7 +10,7 @@ image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/dhsgov/
 abstract: /assets/abstracts/1602-Public-Service-Loan-Forgiveness-Pilot.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Education
 agency: Education
