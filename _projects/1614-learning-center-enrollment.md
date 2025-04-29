@@ -10,14 +10,14 @@ image_alt_text: People sitting in front of PC
 image-credit: https://www.flickr.com/photos/seattlecommunitytech/
 abstract: /assets/abstracts/1614-SBA-Learning-Center.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: Small Business Administration
 summary: Simplifying a registration form increased learning course completion and data collection
 ---
 ## What was the challenge?
-In response small business owners’ need for relevant training, SBA created the Learning Center, which hosts nearly 60 courses on a variety of topics. Learning Center users must complete a registration form prior to taking any courses. While this form is not mandatory, research suggests that the burden of completing the form led to 43% of users exiting from the course without starting.
+In response small business owners’ need for relevant training, the U.S. Small Business Administration (SBA) created the Learning Center, which hosts nearly 60 courses on a variety of topics. Learning Center users must complete a registration form prior to taking any courses. While this form is not mandatory, research suggests that the burden of completing the form led to 43% of users exiting from the course without starting.
 
 ## What was the program change?
 We created two versions of the form that decreased free-form fields and the number of multiple choice questions while still collecting the same information, and reordered the questions to simplify completion.
