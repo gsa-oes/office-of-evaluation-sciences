@@ -20,7 +20,7 @@ agency:
     - Housing and Urban Development
 summary: Targeting incentives increased the response rate but did not decrease nonresponse bias
 featured: 
-  - services
+
 ---
 
 ## What is the agency priority? 
