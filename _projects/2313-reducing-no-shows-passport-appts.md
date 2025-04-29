@@ -12,7 +12,7 @@ abstract:
 year: 2024
 domain:
  - Government Efficiency
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: State
 status: Ongoing
 summary: Analysis Plan Registration
