@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2308-measuring-impact-of-ARI-in-MN-analysis-plan
 abstract: 
 year: 2024  
 domain: Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Treasury
 status: Ongoing
 summary: Analysis Plan Registration
