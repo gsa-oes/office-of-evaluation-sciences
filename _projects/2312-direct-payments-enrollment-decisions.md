@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2312-analysis-plans.pdf
 abstract: 
 year: 2024  
 domain: Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Treasury
 status: Ongoing
 summary: Analysis plan registration
