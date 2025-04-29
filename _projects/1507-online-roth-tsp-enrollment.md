@@ -9,14 +9,14 @@ image: /assets/img/project-images/roth-tsp-enrollment.webp
 image_alt_text: Roth TSP enrollment
 abstract: /assets/abstracts/1507-Servicemember-TSP-Enrollment.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
 summary: A single email to military Servicemembers nearly doubled the rate of savings plan enrollment
 ---
 ## What was the challenge?
-The Federal Government operates a workplace savings program called the Thrift Savings Plan (TSP) for all of its employees. While civilian employees are automatically enrolled in TSP, Servicemembers are not. Just 42% of Servicemembers, compared to 87% of civilians, are enrolled in TSP. To enroll, Servicemembers need to know about the program, login to the website, and select a contribution percentage.
+The federal government operates a workplace savings program called the Thrift Savings Plan (TSP) for all of its employees. While civilian employees are automatically enrolled in TSP, Servicemembers are not. Just 42% of Servicemembers, compared to 87% of civilians, are enrolled in TSP. To enroll, Servicemembers need to know about the program, login to the website, and select a contribution percentage.
 
 ## What was the program change?
 We developed eight different email messages that utilized different combinations of proven insights: clear action steps, fresh-start messaging, presentation of the decision to enroll in TSP as a choice between two options, and emphasis on short- and long-term benefits.
