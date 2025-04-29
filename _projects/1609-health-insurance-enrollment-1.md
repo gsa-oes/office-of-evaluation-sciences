@@ -10,14 +10,14 @@ image_alt_text: Healthcare gov website
 image-credit: https://www.healthcare.gov/
 abstract: /assets/abstracts/1609-Federal-Health-Insurance-Marketplace-Enrollment-Emails.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Modified emails encourage open rates about health insurance enrollment
 ---
 ## What was the challenge?
-As the open enrollment period for purchasing health insurance through the Federal Health Insurance Marketplace (FHIM) neared its end, many people had visited HealthCare.gov and started an online account,  but had not yet selected a plan.
+As the open enrollment period for purchasing health insurance through the Federal Health Insurance Marketplace (FHIM) neared its end, many people had visited HealthCare.gov and started an online account, but had not yet selected a plan.
 
 ## What was the program change?
 We developed, sent, and tested email variations that utilize framing approaches, individual motivations, and social motivations to assist individuals with completing FHIM applications before the end of open enrollment.
