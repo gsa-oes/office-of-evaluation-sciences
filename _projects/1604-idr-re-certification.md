@@ -10,7 +10,7 @@ image_alt_text: Person sitting with laptop
 image-credit: https://www.flickr.com/photos/niallkennedy/
 abstract: /assets/abstracts/1604-Income-Driven Repayment-Recertification.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Education
 agency: Education
@@ -20,7 +20,7 @@ summary: Including required payment amount increased IDR recertification by 8.4%
 Student borrowers who enroll in income-driven repayment (IDR) plans are required to complete an annual recertification process to update their income and family size. More than 50% of borrowers fail to recertify their IDR plan each year.
 
 ## What was the program change?
-We worked with ED’s Office of Federal Student Aid (FSA) to develop an email outreach program to contact borrowers nearing their recertification dates who would see an increased monthly payment if they did not recertify their income.
+We worked with the U.S. Department of Education's (ED) Office of Federal Student Aid (FSA) to develop an email outreach program to contact borrowers nearing their recertification dates who would see an increased monthly payment if they did not recertify their income.
 
 ## How did the evaluation work?
 Nearly 300,000 eligible borrowers were divided into three cohorts and then randomly assigned to be sent one of three different email approach variants that utilized individual or average payment increase comparisons, follow up emails, and inclusion of signatures.
