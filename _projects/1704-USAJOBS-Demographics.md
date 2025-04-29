@@ -9,18 +9,17 @@ image_alt_text: USA Jobs website
 image-credit: https://www.usajobs.gov/
 abstract: /assets/abstracts/1704-USAJobs-abstract.pdf
 year: 2017
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: Office of Personnel Management
 summary: The combination of default settings and simplified language increases voluntary submission of demographics information by 19%
 ---
 ## What was the challenge?
-
 The federal hiring platform USAJOBS does not require applicants to submit demographic information. This lack of data can lead to knowledge gaps regarding federal hiring, diversity and inclusion. Increased knowledge of applicant demographics received via USAJOBS would enable agencies to better meet hiring needs.
 
 ## What was the program change?
-OPM and OES implemented two main structural changes to USAJOBS: 1) applicants were prompted to voluntarily opt-out of submitting demographic information instead of voluntarily opting-in to submit demographic information, and 2) applicants receive simplified language about why USAJOBS collects demographic information.
+The Office of Personnel Management (OPM) and OES implemented two main structural changes to USAJOBS: 1. applicants were prompted to voluntarily opt-out of submitting demographic information instead of voluntarily opting-in to submit demographic information, and 2. applicants receive simplified language about why USAJOBS collects demographic information.
 
 ## How did the evaluation work?
 Roughly 2.6 million applicants were randomly assigned to one of four variants: V1- No change, V2- Voluntary opt-out of demographics submission, V3- Voluntary opt-in + simplified language, and V4- Voluntary opt-out + simplified language.
