@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2208B-analysis-plan.pdf
 abstract-web: /results/encouraging-uscis-online-accounts/ 
 year: 2024  
 domain: Communications
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Homeland Security
 status: Complete
 summary: Evaluating the impact of communications on online account creation and case linkage
