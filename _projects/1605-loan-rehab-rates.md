@@ -10,14 +10,14 @@ image_alt_text: Person filling out paper form
 image-credit: https://unsplash.com/@helloquence
 abstract: /assets/abstracts/1605-Defaulted-Student-Loan-Borrowers.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Education
 agency: Education
 summary: Emphasizing the negative consequences of loan default increases entry into loan rehabilitation programs
 ---
 ## What was the challenge?
-Each month, roughly 125,000 federal student loan borrowers who have not made a payment in 360 days enter into default. If a borrower fails to act, their loans are transferred to a private collections agency, and they face serious penalties. To avoid these penalties, ED offers a loan rehabilitation agreement that allows them to exit default if they make nine out of 10 payments based on income (payments can be as low as $5).
+Each month, roughly 125,000 federal student loan borrowers who have not made a payment in 360 days enter into default. If a borrower fails to act, their loans are transferred to a private collections agency, and they face serious penalties. To avoid these penalties, the U.S. Department of Education (ED) offers a loan rehabilitation agreement that allows them to exit default if they make nine out of 10 payments based on income (payments can be as low as $5).
 
 ## What was the program change?
 We developed emails with four different subject lines informed by research insights prompting eligible borrowers to enter a loan rehabilitation agreement.
