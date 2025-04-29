@@ -10,7 +10,7 @@ image_alt_text: People sitting in front of computer
 image-credit: https://www.flickr.com/photos/armymedicine/
 abstract: /assets/abstracts/1607-Increasing-Patient-Use-of-Health-IT.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
