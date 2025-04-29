@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/1901-Analysis-Plan.pdf
 abstract-web: /results/incentives-to-reduce-nonresponse-bias-ahs/
 year: 2023
 status: Complete
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Government Efficiency
 agency:
