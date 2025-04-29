@@ -10,14 +10,14 @@ image_alt_text: Military personnel
 image-credit: https://www.flickr.com/photos/usaghumphreys/
 abstract: /assets/abstracts/1601-Military-Retiree-myPay-Reactivation.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
 summary: Emails increased myPay account reactivation by military retirees
 ---
 ## What was the challenge?
-DOD maintains an online platform called myPay to help military retirees manage their finances. While all military retirees automatically have myPay accounts, ~55% of the retiree population had inactive accounts (1.4 million of 2.5 million total retirees). This poses a problem during tax season, when the number of retirees contacting the Defense Finance and Accounting Service (DFAS) surges as retirees try to either regain access to myPay or request copies of their tax documents.
+The U.S. Department of Defense (DOD) maintains an online platform called myPay to help military retirees manage their finances. While all military retirees automatically have myPay accounts, ~55% of the retiree population had inactive accounts (1.4 million of 2.5 million total retirees). This poses a problem during tax season, when the number of retirees contacting the Defense Finance and Accounting Service (DFAS) surges as retirees try to either regain access to myPay or request copies of their tax documents.
 
 ## What was the program change?
 We designed 9 different emails to encourage reactivation of myPay accounts prior to the beginning of tax season. We created a baseline email template that added clear action steps to the existing myPay language. Eight additional email variants applied proven insights including: signature variants, emphasizing security, social proofs, and framing.
