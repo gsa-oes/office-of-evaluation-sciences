@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
 year: 2022
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Veterans Affairs
@@ -44,4 +44,4 @@ Additional cost effectiveness analysis indicated that the reminder cards **reduc
 <p>
 <a class="usa-button" href="https://oes.gsa.gov/blog/1804-costing/" target="_blank">Read the blog: Incorporating costing information</a>
 </p>
-Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>. 
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>.
