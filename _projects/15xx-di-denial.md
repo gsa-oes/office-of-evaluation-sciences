@@ -12,11 +12,11 @@ year: 2019
 status: Complete
 domain: Employment
 agency: Social Security Administration
-type: Impact evaluation of program change
+type: Impact evaluation
 summary: Letters to denied disability applicants about employment support programs did not reduce appeals
 ---
 ## What was the challenge?
-Disability insurance (DI) both provides for those unable to work and supports self-sufficiency. Applicants to DI who are denied have poor subsequent labor force participation rates and earnings. The Social Security Administration (SSA) aimed to provide denied applicants resources to help them stay in the labor market or return to work.
+Disability insurance (DI) both provides for those unable to work and supports self-sufficiency. Applicants to DI who are denied have poor subsequent labor force participation rates and earnings. The U.S. Social Security Administration (SSA) aimed to provide denied applicants resources to help them stay in the labor market or return to work.
 
 ## What was the program change?
 We helped design new outreach to DI applicants who were determined to be ineligible for the program. The outreach provided information about other services for which they may be eligible, including Vocational Rehabilitation and employment support through American Job Centers. 
