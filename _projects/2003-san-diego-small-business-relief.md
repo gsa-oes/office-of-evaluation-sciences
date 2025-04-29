@@ -19,7 +19,7 @@ agency:
   - Small Business Administration
 summary: A selection on observables analysis was unable to determine the effect of funding for small businesses on business outcomes during the pandemic
 featured: 
-  - services
+
 ---
 ## What was the challenge? 
 The U.S. Small Business Administration (SBA) aims to support small business revenue and job growth and restore small businesses and communities after disasters. SBA is interested in understanding the impact of community-based approaches to help small businesses respond and recover to the COVID-19 pandemic. In March 2020, the City of San Diego used CARES Act funding to create the Small Business Relief Fund (SBRF) to help small businesses affected by the economic fallout from the COVID‐19 pandemic. By December 2020, the city had disbursed nearly 17 million in grants and loans of up to $20,000. Yet demand for funds far exceeded supply: of the roughly 10,500 applications submitted between March 27 and April 14, 2020, funds could only be extended to just over 2,300 businesses. We partnered with the City of San Diego to estimate the effect of funding on business resilience using quasi‐experimental methods to compare the outcomes of those applicants who were and were not funded. 
