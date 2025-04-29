@@ -14,7 +14,7 @@ abstract: /assets/abstracts/1725-concurrent-rx-abstract.pdf
 academic-pub-web: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898
 status: Complete
 year: 2021
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Health
 agency: Defense
 summary: Targeted messages to providers did not reduce concurrent prescriptions
