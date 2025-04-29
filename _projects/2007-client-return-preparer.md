@@ -11,7 +11,7 @@ image-credit: https://www.pexels.com/photo/calculator-and-tax-forms-inside-the-c
 analysis-plan: /assets/analysis/2007-analysis-plan.pdf
 abstract: /assets/abstracts/2007-abstract.pdf
 year: 2023  
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Communications
 agency: Treasury
 status: Complete
