@@ -11,20 +11,20 @@ analysis-plan: /assets/analysis/2107-describing-candidate-assessments-analysis-p
 abstract: /assets/abstracts/2107-describing-candidate-assessments-and-hiring-outcomes-doi.pdf
 year: 2023  
 domain: Government Operations
-type: Descriptive study
+type: Descriptive evaluation
 agency: Interior
 status: Complete
-summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the Department of the Interior
+summary: Exploring means and proportions of recruitment success, time-to-hire, and candidate characteristics for hiring efforts at the U.S. Department of the Interior
 featured:
 - services
 ---
 ## What was the challenge? 
 <a href="https://www.federalregister.gov/documents/2020/07/01/2020-14337/modernizing-and-reforming-the-assessment-and-hiring-of-federal-job-candidates.htm" target="_blank">Executive Order 13932</a> calls for the increased use of skills- and competency-based assessments in the federal hiring process and requires agencies to use alternative methods to assess applicants’ qualifications for federal jobs.
 
-The Department of Interior (DOI) began implementing EO 13932 in 2021 by using one of two types of candidate assessment methods: (1) subject-matter experts (SMEs) to manually evaluate candidate resumes; or (2) USA Hire scored assessments of general competencies. These assessment methods were coupled with questionnaires typically used for candidates to self-assess their technical competencies. 
+The U.S. Department of Interior (DOI) began implementing EO 13932 in 2021 by using one of two types of candidate assessment methods: (1) subject-matter experts (SMEs) to manually evaluate candidate resumes; or (2) USA Hire scored assessments of general competencies. These assessment methods were coupled with questionnaires typically used for candidates to self-assess their technical competencies. 
 
 ## What did we do?
-A descriptive study can provide a baseline understanding of DOI’s implementation of EO-compliant assessments and how key hiring outcomes vary across the population of hiring actions. We compiled and analyzed administrative data to explore means and proportions of outcome variables of interest. The evaluation was designed to examine the use of different assessment tools used by DOI and key hiring outcomes over the past two years, and answer three research questions: 
+A descriptive evaluation can provide a baseline understanding of DOI’s implementation of EO-compliant assessments and how key hiring outcomes vary across the population of hiring actions. We compiled and analyzed administrative data to explore means and proportions of outcome variables of interest. The evaluation was designed to examine the use of different assessment tools used by DOI and key hiring outcomes over the past two years, and answer three research questions: 
 - How are candidate assessments being implemented at DOI?
 - How long does the hiring process take and how often are positions filled for each candidate assessment method? 
 - Does the representation of female, people of color, and Veteran candidates change at key stages of the recruitment process within each assessment method?
