@@ -11,11 +11,11 @@ image-credit: https://unsplash.com/photos/people-sitting-on-blue-carpet-gsRi9cWC
 analysis-plan: /assets/analysis/1809-analysis-plan.pdf
 abstract: /assets/abstracts/1809-abstract-school-attendance-seattle.pdf
 year: 2020
-type: Impact evaluation of program change
+type: Impact evaluation 
 status: Complete
 domain: Education
 agency: Housing and Urban Development
-summary: Proactive communications do not change attendance outcomes
+summary: Proactive communications did not change attendance outcomes
 ---
 ## What was the challenge?
 The U.S. Department of Housing and Urban Development’s (HUD) strategic plan promotes educational advancement among HUD-assisted residents as a pathway to self-sufficiency. In the United States there are approximately 350,000 Public Housing units in which school aged children reside, presenting an opportunity to reach many students with education-focused interventions. Prior research has shown that school attendance is an important factor for both student achievement and high school dropout rates. In collaboration with HUD, the Seattle Housing Authority (SHA) and Seattle Public Schools (SPS) implemented three pilots during the 2018-2019 school year aimed at identifying effective strategies to increase attendance and reduce chronic absenteeism.
