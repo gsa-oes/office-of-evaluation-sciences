@@ -9,7 +9,7 @@ image-credit:
 analysis-plan: /assets/analysis/1801-USAGov-survey-analysis-plan-updated.pdf
 abstract: /assets/abstracts/1801_USAGov_survey_abstract.pdf
 year: 2019  
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Communications
 status: Complete
 agency: General Services Administration
@@ -17,7 +17,7 @@ summary: A timeline making government operations transparent increased survey re
 
 ---
 ## What was the challenge?
-To better learn about the U.S. General Services Administration's USAGov email audience, a bilingual survey was developed to include questions on preferred topics, preferred frequency of email communications, utility of emails, and audience demographics. USAGov sought to learn more about their email audience through the survey and by using behavioral insights to increase survey response.
+To better learn about the U.S. General Services Administration's (GSA) USAGov email audience, a bilingual survey was developed to include questions on preferred topics, preferred frequency of email communications, utility of emails, and audience demographics. USAGov sought to learn more about their email audience through the survey and by using behavioral insights to increase survey response.
 
 ## What was the program change?
 Evidence-based insights informed the design of three emails. One email included a photo of the USAGov team and personalized signature to make the request more personal, real, and trustworthy. A second email expressed gratitude before the personal survey request to promote survey completion through reciprocity. A third email included a timeline to show the process of how and when responses would be used to make government operations transparent.
