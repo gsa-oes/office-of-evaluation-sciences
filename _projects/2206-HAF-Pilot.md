@@ -16,7 +16,7 @@ domain:
  - Housing
  - Pandemic Relief and Recovery
 agency: Treasury
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 summary: Sending postcards did not increase applications from at-risk homeowners
 featured:
