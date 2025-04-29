@@ -10,14 +10,14 @@ image_alt_text: Service member re-enrollment
 image-credit: https://www.flickr.com/photos/usaghumphreys
 abstract: /assets/abstracts/1502-Servicemember-Roth-TSP-Re-Enrollment.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
 summary: One email enables 22% more Servicemembers to re-enroll in their Thrift Savings Plans
 ---
 ## What was the challenge?
-The Federal Government operates a workplace savings program called the Thrift Savings Plan (TSP) for all of its employees. While civilian employees are automatically enrolled in TSP, Servicemembers are not. Due to a change in the military pay system, nearly 140,000 active duty Armed Forces members needed to re-enroll in their Roth TSP to avoid indefinite suspension of their contributions.
+The federal government operates a workplace savings program called the Thrift Savings Plan (TSP) for all of its employees. While civilian employees are automatically enrolled in TSP, Servicemembers are not. Due to a change in the military pay system, nearly 140,000 active duty Armed Forces members needed to re-enroll in their Roth TSP to avoid indefinite suspension of their contributions.
 
 ## What was the program change?
 We redesigned the email notification, emphasizing the New Year as a fresh start, identifying the simple steps for re-enrollment, and encouraging action to avoid losing savings.
