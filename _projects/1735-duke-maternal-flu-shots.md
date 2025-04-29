@@ -12,22 +12,19 @@ analysis-plan: /assets/analysis/1735-duke-maternal-flu-shots.pdf
 abstract: /assets/abstracts/1735-flu-shot-abstract.pdf
 intervention: /assets/interventions/1735-Duke-Maternal-Flu-Immunizations-Intervention-Pack.pdf
 year: 2018
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
 summary: Targeted email outreach via an electronic medical record messaging system did not increase uptake of the flu vaccine among pregnant women
 ---
 ## What was the challenge?
-
-The Centers for Disease Control and Prevention set a target for influenza vaccination rates among pregnant women of 80% as part of the Healthy People 2020 objectives. In the 2016-17 influenza season, the influenza vaccination rate among pregnant women in the Duke University health system was 68%. Identifying new strategies to increase vaccination rates is a goal of the National Vaccine Program Office in the U.S. Department of Health and Human Service.
+The Centers for Disease Control and Prevention (CDC) set a target for influenza vaccination rates among pregnant women of 80% as part of the Healthy People 2020 objectives. In the 2016-17 influenza season, the influenza vaccination rate among pregnant women in the Duke University health system was 68%. Identifying new strategies to increase vaccination rates is a goal of the National Vaccine Program Office in the U.S. Department of Health and Human Service.
 
 ## What was the program change?
-
 In collaboration with the Duke University health system, we designed a simple message delivered via the electronic health records messaging system, encouraging pregnant women to receive a flu shot.
 
 ## How did the evaluation work?
-
 Patients were randomly assigned to the treatment condition, in which they received the newly developed targeted message highlighting the importance of the flu vaccine, or a control condition in which they did not receive this targeted message.
 
 ![image]({{site.baseurl}}/assets/img/project-images/1735-graph1.webp)<br>
@@ -37,7 +34,6 @@ Patients were randomly assigned to the treatment condition, in which they receiv
 *Figure 2: Flu vaccine uptake by arm (restricted sample)*
 
 ## What was the impact?
-
 The results indicate that targeted communications around the importance of accessing the flu vaccine did not lead to increased uptake of the vaccine. In the full experimental sample, uptake of the flu vaccine was 40% in the control group and 38% in the treatment arm. The difference between the two enrollment rates is statistically insignificant (p=.475, 95% CI [-.056, .026]).
 
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1735-duke-maternal-flu-shots.pdf">on GitHub</a>.
