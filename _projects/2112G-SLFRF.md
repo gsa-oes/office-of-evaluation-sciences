@@ -16,6 +16,7 @@ domain:
  - Economic Opportunity
  - Pandemic Relief and Recovery
 agency: Treasury
+summary: A descriptive evaluation of the State and Local Fiscal Recovery Funds program
 status: Complete
 featured:
 - services
@@ -27,7 +28,7 @@ As part of the American Rescue Plan Act of 2021 (ARP), the U.S. Department of th
 The size and scope of this transfer presents an unprecedented opportunity, but also a challenge to implement, owing to diverse capacity for implementation and reporting. For NEUs, SLFRF is the largest one-time transfer of federal funds in nearly 40 years and, for many NEUs, SLFRF was the first time they needed to report on their use of federal funds.³ In order to promote transparency, responsibility, and equity in the use of funds, recipients must submit spending reports to Treasury. 
 
 ## What did we do?
-We collaborated with Treasury  to understand Tribes’ and NEUs’ experience using and reporting on their SLFRF funds. Given the lack of data and the number and diversity of Tribes and NEUs, we used qualitative and quantitative methods to undertake an in-depth study of Tribes’ and NEUs’ experience. We consulted with members of Tribal nations and Treasury’s Tribal liaison team on the research design, questionnaire, and synthesis.
+We collaborated with Treasury to understand Tribes’ and NEUs’ experience using and reporting on their SLFRF funds. Given the lack of data and the number and diversity of Tribes and NEUs, we used qualitative and quantitative methods to undertake an in-depth study of Tribes’ and NEUs’ experience. We consulted with members of Tribal nations and Treasury’s Tribal liaison team on the research design, questionnaire, and synthesis.
 
 ## What did we learn?
 ### Qualitative results
