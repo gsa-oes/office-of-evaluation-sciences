@@ -19,7 +19,7 @@ agency:
   - Small Business Administration
 summary: Analysis of a pre-existing lottery for small business grants and loans was unable to determine impact on business resilience
 featured: 
-  - services
+
 ---
 
 ## What was the challenge? 
