@@ -13,7 +13,7 @@ analysis-plan: /assets/analysis/2306-decreasing-homelessness-with-cash-transfers
 abstract: 
 year: 2024  
 domain: Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation 
 agency: Treasury
 status: Ongoing
 summary: Analysis plan registration
