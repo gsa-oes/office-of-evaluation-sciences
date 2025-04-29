@@ -10,18 +10,16 @@ image_alt_text: Person typing on laptop
 image-credit: https://www.pexels.com/photo/person-typing-on-laptop-1174775/
 abstract: /assets/abstracts/16xx-anchoring-tsp-enrollment.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Retirement Security
 agency: Defense
 summary: Suggesting contribution rates increases savings enrollment and contributions
 ---
 ## What was the challenge?
-
 The Thrift Savings Plan (TSP) is a retirement savings and investment plan for Federal employees and members of the uniformed services. Servicemembers’ enrollment rates average roughly 42 percent, compared to 87% among civilians, and many Servicemembers **have insufficient retirement savings.**
 
 ## What was the program change?
-
 We designed several versions of an email message about how and why to enroll in TSP. **Some of the emails included a suggested contribution rate,** which may act as an *anchor* value and affect decisions about whether and how much to contribute.
 
 ## How did the evaluation work?
