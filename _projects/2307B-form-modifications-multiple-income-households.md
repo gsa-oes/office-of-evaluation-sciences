@@ -12,7 +12,7 @@ abstract-web: /results/income-reporting-mods-multiple-income/
 year: 2024  
 domain:
  - Government Operations
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Agriculture
 status: Complete
 summary: Providing applicants with a more structured way to report their income did not increase submission rates for an online application for SNAP benefits
