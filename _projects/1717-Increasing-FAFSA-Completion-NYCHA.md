@@ -10,11 +10,11 @@ image-credit: https://www.flickr.com/photos/aaronrhawkins/34251338901
 analysis-plan: /assets/analysis/1717-increasing-fafsa-completion-phase-2.pdf
 abstract: /assets/abstracts/1717-Abstract-NYCHA.pdf
 year: 2019
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Education
 agency: Housing and Urban Development
-summary: A series of communications do not change FAFSA completion rates
+summary: A series of communications did not change FAFSA completion rates
 ---
 
 ## What was the challenge?
