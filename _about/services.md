@@ -50,24 +50,20 @@ We conduct an impact evaluation to understand the effect of an activity on an im
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
-   <section class="usa-accordion featured bg-white padding-1">
   <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="a3"
+      aria-controls="a1"
     >
       Recent examples
     </button>
   </h2>
-  <div id="a3" class="usa-accordion__content usa-prose">
+  <div id="a1" class="usa-accordion__content usa-prose">
       <div class="grid-row grid-gap-lg">
-        {% for project in featured_design %}
+        {% for project in featured_change %}
           {% include project-card.html %}
-{% endfor %}
-                {% for project in featured_design2 %}
-          {% include project-card.html %}
-{% endfor %}
+        {% endfor %}
   </div>
    </div>
 </section>
