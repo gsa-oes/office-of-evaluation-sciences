@@ -37,83 +37,12 @@ We conduct a descriptive evaluation to help better measure and understand what i
 {% endif %}
 <h2>Formative evaluation</h2>
 We conduct a formative evaluation to help assess whether your program is feasible and appropriate before it’s fully implemented.
-{% assign featured_evaluation= site.projects | where: "featured" , "services" | where: "type", "Formative evaluation" %}
-{% if featuredprojects.size == 0 %}
-{% else %}
- <section class="usa-accordion featured bg-white padding-1">
-  <h2 class="usa-accordion__heading">
-    <button
-      class="usa-accordion__button"
-      aria-expanded="false"
-      aria-controls="a2"
-    >
-      Recent examples
-    </button>
-  </h2>
-  <div id="a2" class="usa-accordion__content usa-prose">
-      <div class="grid-row grid-gap-lg">
-        {% for project in featured_evaluation %}
-          {% include project-card.html %}
-        {% endfor %}
-  </div>
-   </div>
-</section>
-{% endif %}
+
 <h2>Process or implementation evaluation</h2>
 We conduct a process or implementation evaluation to assess whether your program was implemented as intended.
-{% assign featured_design = site.projects | where: "featured" , "services" | where: "type", "Process or implementation evaluation" %}
-   {% assign featured_design2 = site.collaborations | where: "featured" , "services" | where: "type", "Descriptive study" %}
-{% if featuredprojects.size == 0 %}
-{% else %}
- <section class="usa-accordion featured bg-white padding-1">
-  <h2 class="usa-accordion__heading">
-    <button
-      class="usa-accordion__button"
-      aria-expanded="false"
-      aria-controls="a3"
-    >
-      Recent examples
-    </button>
-  </h2>
-  <div id="a3" class="usa-accordion__content usa-prose">
-      <div class="grid-row grid-gap-lg">
-        {% for project in featured_design %}
-          {% include project-card.html %}
-{% endfor %}
-                {% for project in featured_design2 %}
-          {% include project-card.html %}
-{% endfor %}
-  </div>
-   </div>
-</section>
-{% endif %}
-
 
 <h2>Outcome evaluation</h2>
 We conduct an outcome evaluation to measure the extent to which a program has achieved its intended purpose/outcome(s).
-{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Outcome evaluation" %}
-{% if featuredprojects.size == 0 %}
-{% else %}
-  <section class="usa-accordion featured bg-white padding-1">
-  <h2 class="usa-accordion__heading">
-    <button
-      class="usa-accordion__button"
-      aria-expanded="false"
-      aria-controls="a1"
-    >
-      Recent examples
-    </button>
-  </h2>
-  <div id="a1" class="usa-accordion__content usa-prose">
-      <div class="grid-row grid-gap-lg">
-        {% for project in featured_change %}
-          {% include project-card.html %}
-        {% endfor %}
-  </div>
-   </div>
-</section>
-{% endif %}
-
 
 <h2>Impact evaluation</h2>
 We conduct an impact evaluation to understand the effect of an activity on an important outcome.
@@ -143,5 +72,6 @@ We conduct an impact evaluation to understand the effect of an activity on an im
    </div>
 </section>
 {% endif %}
+
 ## Become an agency partner
 We’re excited to work with agency partners across government. Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Evaluation support">oes@gsa.gov</a> to start the conversation.
