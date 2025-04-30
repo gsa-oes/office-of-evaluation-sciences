@@ -11,7 +11,6 @@ summary:
 
 We partner with agencies across government to provide the following evaluation services:
 
-
 <h2>Descriptive evaluation</h2>
 We conduct a descriptive evaluation to help better measure and understand what is occurring with your program. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Descriptive evaluation" %}
@@ -122,25 +121,27 @@ We conduct an impact evaluation to understand the effect of an activity on an im
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
+   <section class="usa-accordion featured bg-white padding-1">
   <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="a1"
+      aria-controls="a3"
     >
       Recent examples
     </button>
   </h2>
-  <div id="a1" class="usa-accordion__content usa-prose">
+  <div id="a3" class="usa-accordion__content usa-prose">
       <div class="grid-row grid-gap-lg">
-        {% for project in featured_change %}
+        {% for project in featured_design %}
           {% include project-card.html %}
-        {% endfor %}
+{% endfor %}
+                {% for project in featured_design2 %}
+          {% include project-card.html %}
+{% endfor %}
   </div>
    </div>
 </section>
 {% endif %}
-
-
 ## Become an agency partner
 We’re excited to work with agency partners across government. Email us at <a href="mailto:oes@gsa.gov?subject=Partnering with OES: Evaluation support">oes@gsa.gov</a> to start the conversation.
