@@ -22,4 +22,6 @@ This evaluation is currently being implemented. We have created this project pag
 
 The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2121-dhs-increasing-naturalization-analysis-plan-final.pdf">on GitHub</a>. 
 
+See the [technical appendix]({{site.baseurl}}/assets/files/2121_technical-appendix.pdf).
+
 Check back for results!
