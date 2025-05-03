@@ -10,8 +10,8 @@ summary:
 ---
 
 We partner with agencies across government to provide the following evaluation services:
+
 <h2>Descriptive evaluation</h2>
-We conduct a descriptive evaluation to help better measure and understand what is occurring with your program. 
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Descriptive evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
@@ -35,13 +35,22 @@ We conduct a descriptive evaluation to help better measure and understand what i
 </section>
 {% endif %}
 
+<h2>Formative evaluation</h2>
+We conduct a formative evaluation to help assess whether your program is feasible and appropriate before it’s fully implemented.
+
+<h2>Process or implementation evaluation</h2>
+We conduct a process or implementation evaluation to assess whether your program was implemented as intended.
+
+<h2>Outcome evaluation</h2>
+We conduct an outcome evaluation to measure the extent to which a program has achieved its intended purpose/outcome(s).
+
 <h2>Impact evaluation</h2>
-We conduct a descriptive evaluation to help better measure and understand what is occurring with your program. 
-{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Impact evaluation" %}
+We conduct an impact evaluation to understand the effect of an activity on an important outcome.
+{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Descriptive evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
-  <h2 class="usa-accordion__heading">
+ <h2 class="usa-accordion__heading">
     <button
       class="usa-accordion__button"
       aria-expanded="false"
