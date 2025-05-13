@@ -34,4 +34,6 @@ About 4,700 apartment units in NYCHA developments have wireless energy modules (
 ## What was the impact?
 Energy use was not significantly different among households that were sent the flyers compared to those that were not sent any flyers. Energy use was compared between the two groups in the first week immediately after the first flyer was sent in August 2018, and during the eight weeks of the study period when all four flyers were sent. No significant differences were detected in either outcome period.
 
+Read the [technical appendix]({{site.baseurl}}/assets/files/1808_technical-appendix.pdf).
+
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1808-energy-use-feedback.pdf">on GitHub.</a>
