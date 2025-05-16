@@ -18,8 +18,6 @@ domain:
 agency: Treasury
 summary: A descriptive evaluation of the State and Local Fiscal Recovery Funds program
 status: Complete
-featured:
-- services
 ---
 
 ## What priority outcome did we evaluate?
