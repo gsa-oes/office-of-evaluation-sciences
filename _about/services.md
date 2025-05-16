@@ -46,7 +46,7 @@ We conduct an outcome evaluation to measure the extent to which a program has ac
 
 <h2>Impact evaluation</h2>
 We conduct an impact evaluation to understand the effect of an activity on an important outcome.
-{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Descriptive evaluation" %}
+{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Impact evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
   <section class="usa-accordion featured bg-white padding-1">
