@@ -8,7 +8,7 @@ image_alt_text: Front of building
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 abstract: /assets/abstracts/1512-3-Tenant-Satisfaction-Survey-Response-Time-of-Day.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration
@@ -16,7 +16,7 @@ summary: Emails sent at lunchtime saw 1.5% more federal employees click through 
 ---
 
 ## What was the challenge?
-GSA’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over one million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which inform the Federal facilities strategy.
+The U.S. General Services Administration's (GSA) Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over one million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which inform the Federal facilities strategy.
 
 ## What was the program change?
 Small details, such as the framing or timing of an email, can matter more than might be expected. Varying the time of workplace email requests can affect email open and click-through rates. Using this research, we reconfigured the TSS "send out" to assess what time of day resulted in the highest open and click-through rates.

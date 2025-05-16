@@ -10,7 +10,7 @@ analysis-plan: /assets/analysis/2412-fema-visitation-trends-analysis-plan.pdf
 abstract: 
 year: 2024
 domain:
-type: Descriptive study
+type: Descriptive evaluation
 agency: Homeland Security
 status: Ongoing
 summary: Analysis Plan Registration

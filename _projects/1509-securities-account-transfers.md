@@ -8,14 +8,14 @@ image_alt_text: Treasury building front
 image-credit: https://www.flickr.com/photos/71380981@N06/
 abstract: /assets/abstracts/1509-Legacy-Treasury-Direct-Accounts.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: Treasury
 summary: Scheduling appointments to transfer securities increased call-in rates by 2.37%
 ---
 ## What was the challenge?
-The Department of the Treasury’s Legacy Treasury Direct (LTD) program allowed investors to purchase marketable securities directly from Treasury, via mail, fax, and phone. LTD was phased out starting in 2011, before being decommissioned in late 2014. Before and during the phase out, Treasury sent several letters to LTD account holders encouraging them to transition their accounts to TreasuryDirect, an online system.
+The U.S. Department of the Treasury’s Legacy Treasury Direct (LTD) program allowed investors to purchase marketable securities directly from Treasury, via mail, fax, and phone. LTD was phased out starting in 2011, before being decommissioned in late 2014. Before and during the phase out, Treasury sent several letters to LTD account holders encouraging them to transition their accounts to TreasuryDirect, an online system.
 
 ## What was the program change?
 We developed two letters for LTD account holders applying the research insight that individuals are more likely to follow through on plans that identify specific moments of action, such as appointments.

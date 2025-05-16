@@ -1,5 +1,5 @@
 ---
-title: Increasing duplex printing among federal workforce
+title: Increasing duplex printing among the federal workforce
 permalink: /projects/duplex-printing/
 tags: project
 share_image: /assets/img/project-images/duplex-printing.jpg
@@ -8,11 +8,11 @@ image_alt_text: Duplex printing
 image-credit: https://www.flickr.com/photos/featheredtar/
 abstract: /assets/abstracts/1505-Double-Sided-Printing.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: Agriculture
-summary: A digital pop up significantly lowers office-wide printing costs
+summary: A digital pop-up significantly lowers office-wide printing costs
 ---
 ## What was the challenge?
 A 2009 survey indicated that the average government employee printed about 30 pages per day; at 2.6 million executive branch employees and 240 working days per year, that amounts to over 18 billion pages printed per year. Estimates suggest that duplex printing was only 46% of all print jobs, implying significant opportunity to reduce paper use - and costs.

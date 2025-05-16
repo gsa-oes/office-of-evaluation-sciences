@@ -11,13 +11,14 @@ analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
 year: 2022
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Veterans Affairs
 summary: Reminder cards increased the return of unused prescription opioids
 featured:
 - homepage
+- services
 ---
 ## What was the challenge?
 Unused prescription opioid pills stored in the home can contribute to opioid abuse. It's estimated that between one quarter and three quarters of patients prescribed opioids either misplace unused pills or store them for future use, presenting a risk to those who may later find them. In an effort to encourage proper disposal, the White River Junction Veterans Affairs Medical Center implemented a cash buyback program, called “Cash for Your Stash,” in which patients who return unused opioid pills to the VA pharmacy can receive $5 per returned pill, up to $50. The program is offered to patients who receive one-time, short-term prescriptions for opioids to manage pain following outpatient surgery. 
@@ -44,4 +45,4 @@ Additional cost effectiveness analysis indicated that the reminder cards **reduc
 <p>
 <a class="usa-button" href="https://oes.gsa.gov/blog/1804-costing/" target="_blank">Read the blog: Incorporating costing information</a>
 </p>
-Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>. 
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>.

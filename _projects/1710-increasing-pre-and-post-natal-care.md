@@ -10,7 +10,7 @@ image-credit: https://www.nursefamilypartnership.org/wp-content/uploads/2017/01/
 analysis-plan: /assets/analysis/1710-increasing-pre-and-post-natal-care.pdf
 abstract: /assets/abstracts/1710-reaching-low-income-mothers-abstract.pdf
 year: 2018  
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services
@@ -28,7 +28,6 @@ To increase take up, a new evidence-based postcard was sent to eligible expectan
 The evidence-based postcard was evaluated with an individual level randomized controlled trial. 6,846 IIK referrals were randomly assigned to receive the business as usual outreach or the behaviorally-informed postcard prior to the standard IIK phone call. The evaluation was fielded between July 2016 to March 2017.
 
 ## What was the impact?
-
 The postcard intervention did not lead to a significant increase in the take-up rate of IIK services in Colorado during the study period. The control group (N= 4,165) had a take-up rate of 5.3% (95% CI [4.77% to 5.83%]) versus the treatment (N= 2,681) rate of 6.5% (95% CI [5.92% to 7.08%]). These differences were not statistically significant. 
 
 This partnership underlines the challenge of obtaining and maintaining reliable contact information for priority populations and the importance of improving the accuracy of contact information for individuals that are potentially eligible for home visiting services. The low take up rates documented in this partnership, of less than 10%, further underline the challenge of low take up and low completion rates for home visiting programs. More intensive interventions may be necessary to substantially increase access to these important programs. 

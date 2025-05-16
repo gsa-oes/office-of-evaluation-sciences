@@ -9,7 +9,7 @@ image_alt_text: Person sitting down with US flag
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1616-Process-Improvements-for-Virtual-PEER-Forums.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Communications
 agency: Defense

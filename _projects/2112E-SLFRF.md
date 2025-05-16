@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112E-SLFRF-abstract.pdf
 intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Economic Opportunity
  - Pandemic Relief and Recovery
@@ -21,7 +21,7 @@ status: Complete
 summary: Adding peer comparisons and information that registering is quick and easy to emails did not increase submission of spending reports
 ---
 ## What was the challenge? 
-As part of the American Rescue Plan (ARP), the Department of the Treasury (“Treasury”) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹
+As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹
 
 NEUs must submit their Project & Expenditure reports (“spending reports”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. Treasury seeks to support NEUs to meet their reporting requirements in order to promote <b>transparency, responsibility, and equity in the use of funds.</b> 
 
@@ -38,7 +38,7 @@ We find no evidence that the alternative messaging increased timely report submi
 
 Future work can investigate why the messaging treatments were not effective in getting recipients to submit their spending reports and caused recipients to delay submission.
 
-_Notes:_
+Notes:
 1. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments.
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2112E-3-Analysis-Plan-SLFRF.pdf">on GitHub</a>. 

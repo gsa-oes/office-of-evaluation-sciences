@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2112D-3-Analysis-Plan-SLFRF.pdf
 abstract: /assets/abstracts/2112D-SLFRF-abstract.pdf
 intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Economic Opportunity
  - Pandemic Relief and Recovery
@@ -21,12 +21,12 @@ status: Complete
 summary: Adding to-do lists and calls to action to emails increased signup on an online expenditure reporting portal
 ---
 ## What was the challenge? 
-As part of the American Rescue Plan (ARP), the Department of the Treasury (“Treasury”) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
+As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
 
 In order to submit the required spending reports, recipients must first register (“sign up”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. To ensure that NEUs know how to complete their reporting requirements on time, Treasury communications should <b>clearly and concisely lay out the steps NEUs need to take.</b>
 
 ## What did we do?
-We collaborated with Treasury to redesign emails to encourage signing up on Treasury’s portal. We made two changes to the email: 1) including step-by-step instructions at the beginning of the email (“to-do list”); and 2) including a “call to action” in the subject lines (“call to action”). These additions quickly educate recipients on the necessary actions they need to undertake and the required steps.
+We collaborated with Treasury to redesign emails to encourage signing up on Treasury’s portal. We made two changes to the email: 1. including step-by-step instructions at the beginning of the email (“to-do list”); and 2. including a “call to action” in the subject lines (“call to action”). These additions quickly educate recipients on the necessary actions they need to undertake and the required steps.
 
 ## What did we learn?
 We find statistically significant evidence that both the to-do list and call to action treatments increase portal signup. The emails were sent on February 10th, well ahead of the April 30th reporting deadline. One day after the email was sent, the rate of signup was one percentage point higher for those who got the <b>to-do list treatment</b> compared to those who did not. Two weeks later this difference was even larger. Portal signup was 26.9% among those who got the <b>to-do list treatment</b> and 23.8% among those who did not, a statistically significant increase of 3.1 percentage points. This represents a 13% increase in signups relative to the group that did not receive the to-do list email.
@@ -46,7 +46,7 @@ We found that simplifying instructions through a bulleted to-do list increased r
 
 OES and Treasury worked quickly to generate these insights ahead of the April 30 deadline for spending report submissions by NEUs. The speed with which we were able to generate results meant that Treasury could incorporate findings into planned campaigns and is now including to-do lists in its reporting emails to SLFRF recipients.
 
-_Notes:_
+Notes:
 1. Non-entitlement units of local government (NEUs), defined in section 603(g)(5) of the Social Security Act, as added by section 9901 of the American Rescue Plan Act of 2021, are local governments typically serving populations of less than 50,000. NEUs include cities, villages, towns, townships, or other types of local governments. 
 2. <a class="usa-link usa-link--external" href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-funds" target="_blank">U.S. Department of the Treasury, Coronavirus State and Local Fiscal Recovery Funds.</a>
 

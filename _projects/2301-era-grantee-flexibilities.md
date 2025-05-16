@@ -12,7 +12,7 @@ image-credit: https://www.pexels.com/photo/a-person-wearing-wristwatch-filling-u
 analysis-plan: /assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.pdf
 abstract-web: /results/reducing-documentation-burdens-era/
 year: 2024
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Housing
  - Pandemic Relief and Recovery

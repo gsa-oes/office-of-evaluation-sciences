@@ -11,11 +11,11 @@ image_alt_text: Laptops on a desk
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-Industrial-Funding-Fee-Reports-update-dec2021.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration
-summary: Adding the signature box resulted in an extra $1.59 million paid to government by vendors.
+summary: Adding the signature box resulted in an extra $1.59 million paid to government by vendors
 ---
 ## What was the challenge?
 Federal vendors making sales through the Federal Supply Schedules are required to pay a fee—the industrial funding fee (IFF)—that covers program operations costs. IFF payments owed are a fraction of the total sales made. To accurately determine how much vendors sold, and thus the correct IFF amount, the government uses a website where vendors are asked to self-report the quantity of total sales. 

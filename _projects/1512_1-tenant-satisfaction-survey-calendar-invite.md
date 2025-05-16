@@ -8,7 +8,7 @@ image_alt_text: Front of building
 image-credit: https://www.gsa.gov/portal/content/163627
 abstract: /assets/abstracts/1512-1-Tenant-Satisfaction-Survey-Response-Calendar-Invite.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration
@@ -16,7 +16,7 @@ summary: Emails including a calendar invite reminder led to increased survey res
 ---
 
 ## What was the challenge?
-GSA’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370M square feet of space for over one million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which inform the Federal facilities strategy.
+The U.S. General Services Administration's (GSA’s) Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370M square feet of space for over one million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which inform the Federal facilities strategy.
 
 ## What was the program change?
 Small details, such as the framing of an email, can matter more than might be expected. Varying delivery methods (e.g., a calendar-based reminder) of workplace email requests can affect email open and click-through rates. We created a calendar reminder feature for the TSS to see if it resulted in higher open and click-through rates.

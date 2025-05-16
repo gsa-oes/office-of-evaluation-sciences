@@ -13,7 +13,7 @@ abstract-web: /results/decreasing-snap-denials/
 intervention: /assets/interventions/2310-decreasing-snap-denial-rates-intervention-pack.pdf
 year: 2024  
 domain: Pandemic Relief and Recovery, Payment Integrity
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Agriculture
 status: Complete
 summary: A text campaign encouraging the use of a redesigned document uploader decreased SNAP denial rates due to incomplete eligibility information

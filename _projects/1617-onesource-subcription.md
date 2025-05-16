@@ -9,14 +9,14 @@ image_alt_text: Military users on laptop
 image-credit: https://www.flickr.com/photos/usnavy/
 abstract: /assets/abstracts/1617-Military-OneSource-Subscription.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Communications
 agency: Defense
 summary: Clear communications emphasizing active choice increase subscription rates
 ---
 ## What was the challenge?
-Military OneSource is a DOD-funded program that provides information on military life to Servicemembers and their families. Its monthly OneSource eNewsletter offers a simple way to stay up to date on resources and programs. The current 60,000 subscribers are a relatively small fraction of the potential audience.
+Military OneSource is a U.S. Department of Defense (DOD) funded program that provides information on military life to Servicemembers and their families. Its monthly OneSource eNewsletter offers a simple way to stay up to date on resources and programs. The current 60,000 subscribers are a relatively small fraction of the potential audience.
 
 ## What was the program change?
 We designed six email variants applying research insights to be sent to active duty servicemembers. Email variations included opt-in requirements, active choice subscription, and differing formats including lists and quizzes. 

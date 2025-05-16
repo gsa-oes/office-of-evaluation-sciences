@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2208A-analysis-plan.pdf
 abstract-web: /results/encouraging-uscis-online-forms/ 
 year: 2024  
 domain: Communications
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Homeland Security
 status: Complete
 summary: Evaluating methods to increase online filing for Permanent Resident Card renewals
@@ -31,14 +31,12 @@ New customers were enrolled into the evaluation monthly over the course of five 
 enrolled in May) were included in the evaluation.
 
 ## What did we learn?
-Overall, 26,372 customers filed a Form I-90 through any filing method, and we found no significant difference in the likelihood of filing online between the customers assigned to receive either text message and those assigned to receive no text message. Additionally, there was no
-significant difference in likelihood of online filing between customers assigned to the status quo group and customers assigned to the modified message group. Through our exploratory analyses, we found that older adults (age 64+), those born in Hispanic countries, and those who had assistance filing their forms (i.e., an attorney or preparer) were much less likely to file online.
+Overall, 26,372 customers filed a Form I-90 through any filing method, and we found no significant difference in the likelihood of filing online between the customers assigned to receive either text message and those assigned to receive no text message. Additionally, there was no significant difference in likelihood of online filing between customers assigned to the status quo group and customers assigned to the modified message group. Through our exploratory analyses, we found that older adults (age 64+), those born in Hispanic countries, and those who had assistance filing their forms (i.e., an attorney or preparer) were much less likely to file online.
 
 The results suggest that the sending outreach messages about online services two months before customers’ Green Card expiration dates did not meaningfully affect online filing rates. This could be due to the phrasing, modality, or timing, or it could be that the barriers customers face to using online services are too high to be influenced by light-touch methods. Eliminating ineffective outreach could result in savings, given the costs involved with sending text messages. However, our evaluation was limited by a smaller than expected sample size, so further evidence is needed to corroborate these findings. We were able to highlight groups for whom online filing rates lag behind the average customer, suggesting future avenues for more targeted outreach efforts. Future research could evaluate the optimal combination of outreach that balances message costs.
 
 Notes:
 1. Herd, P., & Moynihan, D. P. (2019). Administrative Burden: Policymaking by Other Means. Russell Sage Foundation. <a class="usa-link usa-link--external" href="https://doi.org/10.7758/9781610448789">https://doi.org/10.7758/9781610448789</a>.
-2. Ryan W. Buell, Ethan Porter, Michael I. Norton. Surfacing the submerged State: Operational Transparency Increases Trust in and
-Engagement with Government. <i>Manufacturing & Service Operations Management</i>, Volume 23, Issue 4, July-August 2021, Pages 745-1004. <a class="usa-link usa-link--external" href="https://doi.org/10.1287/msom.2020.0877">https://doi.org/10.1287/msom.2020.0877</a>.
+2. Ryan W. Buell, Ethan Porter, Michael I. Norton. Surfacing the submerged State: Operational Transparency Increases Trust in and Engagement with Government. <i>Manufacturing & Service Operations Management</i>, Volume 23, Issue 4, July-August 2021, Pages 745-1004. <a class="usa-link usa-link--external" href="https://doi.org/10.1287/msom.2020.0877">https://doi.org/10.1287/msom.2020.0877</a>.
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2208A-analysis-plan.pdf">on GitHub</a>.

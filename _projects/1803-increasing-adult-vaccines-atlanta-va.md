@@ -13,7 +13,7 @@ analysis-plan: /assets/analysis/1803-increasing-adult-vaccines-atlanta-va-analys
 abstract: /assets/abstracts/1803-vaccine-uptake-atlanta-va-abstract.pdf
 intervention: /assets/interventions/1803-Atlanta-VA-Intervention-Pack.pdf
 year: 2019
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Veterans Affairs
@@ -21,7 +21,7 @@ summary: A modified clinical reminder did not increase patient vaccine uptake
 
 ---
 ## What was the challenge?
-The Department of Veterans Affairs (VA) National Center for Health Promotion and Disease Prevention promotes vaccinations for Veterans, in line with the Centers for Disease Control recommendations. Despite the availability of free flu vaccines at VA health care facilities, Veterans’ rates of vaccination for flu and many other adult vaccinations fall below the Healthy People 2020 targets of 70%. 
+The U.S. Department of Veterans Affairs (VA) National Center for Health Promotion and Disease Prevention promotes vaccinations for Veterans, in line with the Centers for Disease Control recommendations. Despite the availability of free flu vaccines at VA health care facilities, Veterans’ rates of vaccination for flu and many other adult vaccinations fall below the Healthy People 2020 targets of 70%. 
 
 ## What was the program change?
 We collaborated with the Atlanta VA to develop a modified clinical reminder that bundled separate clinical reminders for three adult vaccines (Influenza, Pneumococcal, and Tdap), decreasing the overall number of reminders presented to clinicians. This single reminder included a vaccination dashboard relaying patient vaccination history and status and talking points providers could use to address patient refusal or vaccine hesitancy. The reminder was designed to increase vaccination rates by making it easier for providers to recommend and order vaccines.

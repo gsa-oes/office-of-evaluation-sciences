@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/1743-flu-shots-va-new-york-harbor-analysis-plan.
 abstract: /assets/abstracts/1743-flu-shots-va-new-york-harbor.pdf
 intervention: /assets/interventions/1743-VA-NY-Harbor-Intervention-Pack.pdf
 year: 2018
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Health
 status: Complete
 agency: Veterans Affairs
@@ -25,7 +25,7 @@ Flu causes more than 9 million illnesses and more than 12,000 deaths in the Unit
 In collaboration with the New York Harbor VA Health Care System, we) designed email messages to send to enrolled Veterans. These included information about how to get a flu shot, and elements, based on evidence from the behavioral sciences, that were designed to increase individuals’ motivation and follow-through.
 
 ## How did the evaluation work?
-Veterans were randomly assigned to an email (treatment) group and a no-email (control) group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
+Veterans were randomly assigned to an email group and a no-email group. The email group received three emails during the flu season. Data from VA electronic health records were used to compare flu shot uptake and timing between the two groups from October 1, 2017, through May 24, 2018.
 
 ![image]({{site.baseurl}}/assets/img/project-images/1743-graph.webp)
 

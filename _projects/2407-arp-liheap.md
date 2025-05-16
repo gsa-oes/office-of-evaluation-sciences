@@ -17,7 +17,7 @@ year: 2024
 domain:
   - Housing
   - Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Health and Human Services
 status: Ongoing
 summary: Analysis plan registration

@@ -13,12 +13,13 @@ abstract-web: /results/decreasing-abandonment-of-calls-to-988/
 intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2024 
 domain: Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Health and Human Services
 status: Complete
 summary: An updated caller experience resulted in more people being connected to a 988 counselor
 featured:
 - homepage
+- services
 ---
 ## What is the agency priority? 
 Strengthening crisis care and suicide prevention infrastructure – including improving the efficacy of the 988 Suicide & Crisis Lifeline (“988”) – is a high priority for SAMHSA, situated within HHS. The American Rescue Plan invested $282 million to support transition to the 988 dialing code as a replacement for the 10-digit National Suicide Prevention Lifeline.

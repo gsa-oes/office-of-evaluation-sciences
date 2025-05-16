@@ -11,7 +11,7 @@ image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.we
 analysis-plan: /assets/analysis/1742-reducing-energy-costs-R1.pdf
 abstract: /assets/abstracts/1742-reducing-energy-costs.pdf
 year: 2018  
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Communications
  - Housing

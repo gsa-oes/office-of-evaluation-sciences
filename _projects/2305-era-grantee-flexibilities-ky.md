@@ -11,7 +11,7 @@ image-credit: https://www.pexels.com/photo/black-handled-key-on-key-hole-101808/
 analysis-plan: /assets/analysis/2305-era-grantee-flexibilities-ky-analysis-plan.pdf
 abstract-web: /results/streamlining-income-verification-to-broaden-access-to-rental-assistance/
 year: 2024
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Housing
 agency: Treasury
@@ -22,7 +22,7 @@ featured:
 ## What is the agency priority? 
 At the outset of the COVID-19 pandemic, housing advocacy groups warned that 20% of renting households would be at <a class="usa-link usa-link--external" href="https://www.aspeninstitute.org/blog-posts/20-million-renters-are-at-risk-of-eviction/">risk of eviction</a> by the end of 2020 if the government did not act. Housing instability was <a class="usa-link usa-link--external" href="https://files.consumerfinance.gov/f/documents/cfpb_Housing_insecurity_and_the_COVID-19_pandemic.pdf">especially high</a> among renters with low incomes and renters who identified as people of color. 
 
-The U.S. Department of the Treasury administered the Emergency Rental Assistance (ERA) programs, which collectively provided over $46 billion to state, local, territorial and Tribal governments (grantees) to prevent eviction and housing instability in the wake of the pandemic. The ERA grantees provided direct cash assistance to renters, landlords, and utility providers to assist with rent, utilities, and other housing-related expenses. Individuals were eligible for ERA assistance if their household income fell below an area-specific threshold, in addition to being at risk of housing instability and experiencing hardship due to the pandemic. 
+The U.S. Department of the Treasury (Treasury) administered the Emergency Rental Assistance (ERA) programs, which collectively provided over $46 billion to state, local, territorial and Tribal governments (grantees) to prevent eviction and housing instability in the wake of the pandemic. The ERA grantees provided direct cash assistance to renters, landlords, and utility providers to assist with rent, utilities, and other housing-related expenses. Individuals were eligible for ERA assistance if their household income fell below an area-specific threshold, in addition to being at risk of housing instability and experiencing hardship due to the pandemic. 
 
 When the procedures used to verify income caused a bottleneck in distributing much-needed assistance, Treasury encouraged grantees to streamline their income verification procedures. Several <a class="usa-link usa-link--external" href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program/promising-practices/fact-specific-proxies">program design flexibilities</a> were proposed to enable more efficient delivery of ERA program benefits to communities disproportionately impacted by the pandemic.
 

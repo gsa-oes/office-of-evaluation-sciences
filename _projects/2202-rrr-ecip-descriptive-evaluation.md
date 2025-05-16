@@ -10,7 +10,7 @@ image-credit: https://www.pexels.com/photo/person-holding-gray-twist-pen-and-whi
 analysis-plan: 
 abstract-web: 
 year: 2023 
-type: Descriptive study
+type: Descriptive evaluation
 domain: Economic Opportunity
 agency: Treasury
 status: Complete
@@ -29,7 +29,6 @@ We ask two primary research questions:
 To answer these questions, we describe institutions’ expected ability to serve low- and moderate-income and minority populations that have disproportionately suffered from the health and economic impacts of the COVID-19 pandemic (referred to as Act-priority communities).
 
 ## What did we learn?
-
 Institutions that have been approved for awards are similar to other eligible institutions in terms of how they serve Act-priority communities. Results suggest that a summary index measure of institutions’ expected ability to serve Act-priority communities is similar for awarded and all eligible institutions. 
 
 Program eligibility rules resulted in a pool of eligible institutions with greater expected ability to serve priority communities than other similar institutions. Results suggest that eligibility based on existing certification and community investment programs may be an effective way to target institutions with a demonstrated record of serving Act-priority communities.

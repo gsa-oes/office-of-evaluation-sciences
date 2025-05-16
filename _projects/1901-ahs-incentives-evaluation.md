@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/1901-Analysis-Plan.pdf
 abstract-web: /results/incentives-to-reduce-nonresponse-bias-ahs/
 year: 2023
 status: Complete
-type: Impact evaluation of program change
+type: Impact evaluation
 domain:
  - Government Efficiency
 agency:
@@ -20,7 +20,7 @@ agency:
     - Housing and Urban Development
 summary: Targeting incentives increased the response rate but did not decrease nonresponse bias
 featured: 
-  - services
+
 ---
 
 ## What is the agency priority? 

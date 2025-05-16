@@ -11,7 +11,7 @@ image-credit: https://www.pexels.com/photo/wood-man-people-woman-7821676/
 analysis-plan: /assets/analysis/2004-analysis-plan.pdf
 abstract: /assets/abstracts/2004-return-preparers-abstract.pdf
 year: 2022  
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Communications
 agency: Treasury
 status: Complete
@@ -27,8 +27,8 @@ The IRS sends a letter, called the Letter 5025, to preparers prior to the filing
 Tax preparers were randomly assigned to be sent either a treatment-as-usual (TAU) version of the Letter 5025, an updated version of the letter with additional insights from the behavioral sciences (referred to as the behavioral insights or BI letter), or no letter, in order to learn whether letters can lead to improvements in tax compliance, and whether different letter contents has differential impacts.  The evaluation measures the effects of the Letter 5025 for preparers who had recently received other IRS outreach (and were eligible for follow-up outreach) separately from those who had not received other outreach. 
 
 ## What was the impact?
-Among preparers who had not received other recent IRS outreach, sending the Letter 5025 reduced the percent of returns with likely errors, the dollar amount of credits claimed with likely errors, and the average total refund amount per preparer.  Sending the letter to these preparers resulted in an estimated cost savings of $129 million in filing season 2021. Sending the Letter 5025 had no impact among the preparers who had recently received other IRS outreach. The impacts of the letter did not differ by the version of the letter sent.
+Among preparers who had not received other recent IRS outreach, sending the Letter 5025 reduced the percent of returns with likely errors, the dollar amount of credits claimed with likely errors, and the average total refund amount per preparer. Sending the letter to these preparers resulted in an estimated cost savings of $129 million in filing season 2021. Sending the Letter 5025 had no impact among the preparers who had recently received other IRS outreach. The impacts of the letter did not differ by the version of the letter sent.
 
 Read the [technical appendix]({{site.baseurl}}/assets/files/2004_technical-appendix.pdf).
 
-Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2004-analysis-plan.pdf">on Github</a>. 
+Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2004-analysis-plan.pdf">on Github</a>.

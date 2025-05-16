@@ -10,7 +10,7 @@ image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/abstracts/1515-Summer-Melt.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Education
 agency: Education

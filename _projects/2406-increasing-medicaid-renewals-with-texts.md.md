@@ -12,7 +12,7 @@ abstract:
 year: 2024
 domain:
  - Health
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: General Services Administration
 status: Ongoing
 summary: Analysis Plan Registration

@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2002-3-analysis-plan.pdf
 abstract: /assets/abstracts/2002-CMS-reducing-nappropriate-co-prescribing-behaviors-abstract.pdf
 intervention: /assets/interventions/2002-CMS-intervention-pack.pdf
 year: 2022
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Health
 agency: Health and Human Services
 status: Complete

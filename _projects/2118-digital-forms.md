@@ -11,7 +11,7 @@ analysis-plan: /assets/analysis/2118-digital-forms-analysis-plan.pdf
 abstract-web: /results/incorporating-evaluation-into-digital-forms/
 year: 2022
 domain: Government Operations
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: General Services Administration
 status: Complete
 summary: Five GSA offices and the American public worked together to improve federal forms
@@ -29,7 +29,7 @@ We implemented a randomized control trial (RCT) to build evidence on the magnitu
 To generate a sample of users, we conducted outreach among the general public and federal employees. Between July 19 and August 19, 2022, there were 3,203 individuals randomly assigned to the two versions of the form.
 
 ## What was the impact?
-This evaluation — a first of its kind  in the federal government — brought together multiple GSA offices and the American public to learn about the feasibility of incorporating A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
+This evaluation — a first of its kind in the federal government — brought together multiple offices within the U.S. General Services Administration (GSA) and the American public to learn about the feasibility of incorporating A/B testing into federal forms and to show that form design matters for form completion. The empirical findings indicate that where instructions are placed impacts form submission, a substantive finding on the most fundamental outcome on filling out a form. 
 
 <b>Figure 1:</b> Form submission by form version
 <img src="{{ '/assets/img/project-images/2118-results-graph.svg' | prepend: site.baseurl }}" alt="Form submission by form version" width="1500">

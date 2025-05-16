@@ -13,7 +13,7 @@ abstract-web: /results/income-reporting-mods-single-income/
 year: 2024  
 domain:
  - Government Operations
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Agriculture
 status: Complete
 summary: Providing applicants with different alternatives to reporting an hourly wage did not increase submission rates for an online application for SNAP benefits

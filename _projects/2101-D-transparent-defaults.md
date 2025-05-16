@@ -10,7 +10,7 @@ image-credit: https://blog.hubspot.com/hubfs/persuasive-presentation.webp
 analysis-plan: /assets/analysis/2101-d-Analysis-Plan-transparent-defaults.pdf
 abstract: /assets/abstracts/2101-d-project-abstract-transparent-defaults.pdf
 year: 2022
-type: Impact evaluation of program change
+type: Impact evaluation
 domain: Government Operations
 agency: General Services Administration
 status: Complete

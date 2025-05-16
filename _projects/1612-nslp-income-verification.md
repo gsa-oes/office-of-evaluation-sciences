@@ -10,14 +10,14 @@ image_alt_text: School lunch
 image-credit: https://www.flickr.com/photos/usdagov/
 abstract: /assets/abstracts/1612-National-School-Lunch-Program-Verification.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Economic Opportunity
 agency: Agriculture
 summary: Simplifying the income verification letter for National School Lunch Program recipients increased response rate by 2.1%
 ---
 ## What was the challenge?
-The National School Lunch Program (NSLP) is a Federally-assisted meal program operating in over 100,000 public and nonprofit private schools and residential child care institutions. Prior studies have demonstrated that some NSLP-eligible households do not respond to requests to provide proof of eligibility due to confusing procedures and instructions, not because they do not have the documentation.
+The National School Lunch Program (NSLP) is a federally-assisted meal program operating in over 100,000 public and nonprofit private schools and residential child care institutions. Prior studies have demonstrated that some NSLP-eligible households do not respond to requests to provide proof of eligibility due to confusing procedures and instructions, not because they do not have the documentation.
 
 ## What was the program change?
 To make the request for verification clearer and easier to understand, we designed a new request letter that used simpler language, pictures meant to cue an association with NSLP, a new visual summary of materials the household was required to submit, and a personalized message from Local Education Agencies (LEA).

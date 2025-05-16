@@ -10,14 +10,14 @@ image_alt_text: Student graduation
 image-credit: https://www.flickr.com/photos/whatcouldgowrong/
 abstract: /assets/abstracts/1513-Missed-Student-Loan-Payments.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Education
 agency: Education
 summary: Emails sent to student loan borrowers at risk of default increased payments
 ---
 ## What was the challenge?
-Federal student loan borrowers who miss initial loan payments are in danger of defaulting on their loans. To assist these borrowers, ED’s Office of Federal Student Aid (FSA) ran an email campaign to determine whether having FSA send reminder emails to borrowers—in addition to the communications from loan servicers they already receive—could help borrowers get back on track after missing their initial payments. 
+Federal student loan borrowers who miss initial loan payments are in danger of defaulting on their loans. To assist these borrowers, ED’s Office of Federal Student Aid (FSA) ran an email campaign to determine whether having FSA send reminder emails to borrowers—in addition to the communications from loan servicers they already receive — could help borrowers get back on track after missing their initial payments. 
 
 ## What was the program change?
 We designed emails using proven insights that included simplified language, a clarification of the relationship between borrower and loan servicer, and linking directly to the login page to make payments.

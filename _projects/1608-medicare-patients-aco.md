@@ -9,7 +9,7 @@ image_alt_text: Person sitting in front of PC
 image-credit: https://www.flickr.com/photos/thenationalguard/
 abstract: /assets/abstracts/1608-Accountable-Care-Organization-Voluntary-Alignment.pdf
 year: 2016
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Health
 agency: Health and Human Services

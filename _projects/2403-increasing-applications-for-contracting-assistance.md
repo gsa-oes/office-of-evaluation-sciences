@@ -12,7 +12,7 @@ abstract-web: /results/increasing-8a-applications/
 year: 2024  
 domain:
  - Economic Opportunity
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Small Business Administration
 status: Complete
 summary: Sending emails to business owners who had initiated applications to the 8(a) business development program did not increase their likelihood of submitting those applications

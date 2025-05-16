@@ -8,14 +8,14 @@ image_alt_text: Front of building
 image-credit: https://gsablogs.gsa.gov/gsablog/2012/11/08/gsa-completes-restoration-of-hipolito-federal-building/
 abstract: /assets/abstracts/1512-2-Tenant-Satisfaction-Survey-Response-Subject-Lines-and-Day-of-Week.pdf
 year: 2015
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration
 summary: Emails with subject lines that included the word "please" increased federal employees responses to a workplace survey
 ---
 ## What was the challenge?
-GSA’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over one million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which inform the Federal facilities strategy.
+The U.S. General Services Administration's (GSA’s) Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over one million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which inform the Federal facilities strategy.
 
 ## What was the program change?
 Small details, such as the framing or timing of an email, can matter more than might be expected. Varying subject line wording (e.g., including “please”) of workplace email requests can affect email open and click-through rates. Using this research, we redesigned and reconfigured the TSS to assess what subject lines, as well as what day of the week on which the email is sent, resulted in the highest open and click-through rates.

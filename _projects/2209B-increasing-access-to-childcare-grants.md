@@ -13,7 +13,7 @@ abstract-web: /results/increasing-access-to-mn-ccsbg/
 intervention: /assets/interventions/2209b-increasing-access-to-mn-ccsbg-intervention-pack.pdf
 year: 2024  
 domain: Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Health and Human Services
 status: Complete
 summary: Texts and calls increased funding awards for child care providers

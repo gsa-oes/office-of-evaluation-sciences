@@ -15,7 +15,7 @@ year: 2024
 domain:
  - Communications
  - Pandemic Relief and Recovery
-type: Impact evaluation of program change
+type: Impact evaluation
 agency: Health and Human Services
 status: Complete
 summary: Measuring delivery and opt out-rates for a text message campaign with a state partner 

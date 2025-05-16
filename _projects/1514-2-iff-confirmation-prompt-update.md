@@ -10,7 +10,7 @@ image_alt_text: Laptop on a desk
 image-credit: https://www.flickr.com/photos/el_paulio/
 abstract: /assets/abstracts/1514-2-iff-confirmation-prompt-update-dec2021.pdf
 year: 2017
-type: Impact evaluation of program change
+type: Impact evaluation
 status: Complete
 domain: Government Operations
 agency: General Services Administration
@@ -20,7 +20,7 @@ summary: A confirmation prompt initially reduced financial self-reporting errors
 Federal vendors making sales through the Federal Supply Schedules are required to pay a fee—the industrial funding fee (IFF)—that covers program operations costs. IFF payments owed are a fraction of the total sales made. To accurately determine how much vendors sold, and thus the correct IFF amount, the government uses a website where vendors are asked to self-report the quantity of total sales.
 
 ## What was the program change?
-At no material cost, we designed an electronic signature box included at the beginning of GSA’s online reporting portal to promote vigilant and accurate self-reporting of sales and reduce errors.
+At no material cost, we designed an electronic signature box included at the beginning of the U.S. General Services Administration (GSA’s) online reporting portal to promote vigilant and accurate self-reporting of sales and reduce errors.
 
 ## How did the evaluation work?
 Vendors were randomly assigned to use one of two options: 1) the existing reporting system (control); or 2) a modified interface (treatment) with the redesigned electronic signature box.
