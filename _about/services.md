@@ -54,12 +54,12 @@ We conduct an impact evaluation to understand the effect of an activity on an im
     <button
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="a1"
+      aria-controls="a2"
     >
       Recent examples
     </button>
   </h2>
-  <div id="a1" class="usa-accordion__content usa-prose">
+  <div id="a2" class="usa-accordion__content usa-prose">
       <div class="grid-row grid-gap-lg">
         {% for project in featured_change %}
           {% include project-card.html %}
