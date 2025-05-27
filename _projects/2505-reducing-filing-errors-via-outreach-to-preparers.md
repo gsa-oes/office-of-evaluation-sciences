@@ -10,7 +10,7 @@ image_alt_text: Tax form next to calculator
 analysis-plan: /assets/analysis/2505-analysis-plan.pdf
 abstract:
 year: 2025
-domain:
+domain: Cost savings
 type: Impact evaluation
 agency: Treasury
 status: Ongoing
