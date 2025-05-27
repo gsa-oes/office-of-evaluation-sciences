@@ -10,7 +10,7 @@ image_alt_text: Two people reviewing tax forms
 analysis-plan: /assets/analysis/2504-analysis-plan.pdf
 abstract:
 year: 2025
-domain:
+domain: Cost savings
 type: Impact evaluation
 agency: Treasury
 status: Ongoing
