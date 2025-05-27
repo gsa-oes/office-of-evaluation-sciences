@@ -10,8 +10,7 @@ image-credit: https://www.pexels.com/photo/a-woman-and-child-looking-at-a-cell-p
 analysis-plan: /assets/analysis/2406-increasing-medicaid-renewals-analysis-plan.pdf
 abstract: 
 year: 2024
-domain:
- - Health
+domain: Efficiency and effectiveness
 type: Impact evaluation
 agency: General Services Administration
 status: Ongoing
