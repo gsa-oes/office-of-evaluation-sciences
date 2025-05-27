@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2310-decreasing-SNAP-denial-rates_analysis-plan.
 abstract-web: /results/decreasing-snap-denials/
 intervention: /assets/interventions/2310-decreasing-snap-denial-rates-intervention-pack.pdf
 year: 2024  
-domain: Pandemic Relief and Recovery, Payment Integrity
+domain: Payment Integrity
 type: Impact evaluation
 agency: Agriculture
 status: Complete
