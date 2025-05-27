@@ -14,7 +14,7 @@ behavioral-map: /assets/files/1902-increasing-participation-in-ttw-behavioral-ma
 intervention: /assets/files/1902-increasing-participation-in-ttw-intervention-pack.pdf
 year: 2023
 type: Impact evaluation
-domain: Economic Opportunity, Employment, Health
+domain: Economic Opportunity
 status: Complete
 agency: Social Security Administration
 summary: Redesigned mailings did not increase Ticket assignments, but had a small impact on Helpline calls
