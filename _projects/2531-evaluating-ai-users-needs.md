@@ -26,11 +26,13 @@ GSA is a leader in modernizing and streamlining technology across government, in
 We partnered with GSA’s Office of Information Technology (IT) to evaluate how users in GSA’s Gemini AI pilot interacted with AI tools to inform GSA’s future AI investments, strategies, and support. GSA IT launched the pilot in October 2024 and gave about 250 GSA employees access to Gemini in a secure test environment for 90 days. At the pilot’s midpoint, we interviewed 10 of the top 13 most frequent users of Gemini to understand how they interacted with the tool, what they used it for, and types of implementation challenges. 
 
 ## What we learned
-Even among frequent users, we found that experience, expectations, and knowledge of AI tools varied significantly. For example, while users largely expected some iteration with Gemini to get the output they wanted, their approach to that back and forth varied in terms of tolerance for refinement and conversational style. Most interaction happened through the web app, rather than workspace integrations. 
+<b>Even among frequent users, we found that experience, expectations, and knowledge of AI tools varied significantly.</b> For example, while users largely expected some iteration with Gemini to get the output they wanted, their approach to that back and forth varied in terms of tolerance for refinement and conversational style. Most interaction happened through the web app, rather than workspace integrations. 
 
-Users found that Gemini worked best at concrete, bite-sized tasks, such as helping with coding. Similarly, users found that breaking down a task, such as asking Gemini to summarize specific parts of a document rather than the whole document, was more effective than asking Gemini to take on a more complex or abstract task. 
-When asked about risks, users were most aware of the risk of getting inaccurate or incomplete information from Gemini, and stressed the importance of training and having a human review Gemini’s output. However, the process by which users checked Gemini’s outputs varied depending on their use case and experience. 
-Users wanted more examples of ways they can use Gemini and more opportunities to learn from their peers. A few users suggested providing clear guardrails, rules, and GSA specific examples to help others feel confident in experimenting with Gemini to develop novel and effective use cases. 
+<b>Users found that Gemini worked best at concrete, bite-sized tasks,</b> such as helping with coding. Similarly, users found that breaking down a task, such as asking Gemini to summarize specific parts of a document rather than the whole document, was more effective than asking Gemini to take on a more complex or abstract task. 
+
+<b>When asked about risks, users were most aware of the risk of getting inaccurate or incomplete information from Gemini,</b> and stressed the importance of training and having a human review Gemini’s output. However, the process by which users checked Gemini’s outputs varied depending on their use case and experience. 
+
+<b>Users wanted more examples of ways they can use Gemini and more opportunities to learn from their peers.</b> A few users suggested providing clear guardrails, rules, and GSA specific examples to help others feel confident in experimenting with Gemini to develop novel and effective use cases. 
 
 ## Applying the findings
 Given that most interaction happened in the web app, meet demand by providing a general-use chatbot before workspace integration (e.g., AI embedded into Google Docs).
