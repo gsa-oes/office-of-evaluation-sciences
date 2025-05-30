@@ -5,8 +5,8 @@ tags:
  - project
 share_image: /assets/img/project-images/2313-image.png
 image: /assets/img/project-images/2503.jpg
-image_alt_text: Scrabble Tiles Spelling Gemini and AI on Wooden Surface
-image-credit: https://www.pexels.com/photo/scrabble-tiles-spelling-gemini-and-ai-on-wooden-surface-30869085/
+image_alt_text: Artificial intelligence theme
+image-credit: https://commons.wikimedia.org/wiki/File:Artificial-Intelligence.jpg
 abstract: /assets/abstracts/2531-evaluation-summary.pdf
 year: 2025
 domain:
