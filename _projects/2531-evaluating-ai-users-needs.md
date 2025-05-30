@@ -14,6 +14,8 @@ type: Formative evaluation
 agency: GSA
 status: Complete
 summary: Learning about employees’ experience and support needs while using AI
+featured:
+- services
 ---
 ## Summary
 The goal of this evaluation was to understand how individuals in the U.S. General Services Administration’s (GSA) Gemini artificial intelligence (AI) pilot interacted with AI tools to inform GSA’s future investments and strategy. We found that frequent AI users' experience varied, they were aware of risks associated with getting inaccurate output, and they wanted more training resources and support.
