@@ -4,13 +4,12 @@ permalink: /projects/2531-evaluating-ai-users-needs/
 tags: 
  - project
 share_image: /assets/img/project-images/2313-image.png
-image: /assets/img/project-images/2313-image.webp 
-image_alt_text: Two people holding passports
-image-credit: https://www.pexels.com/photo/anonymous-tourists-showing-us-passports-on-street-on-sunny-day-4353813/
-abstract: /assets/abstracts/2313-abstract.pdf
+image: /assets/img/project-images/2503.jpg
+image_alt_text: Scrabble Tiles Spelling Gemini and AI on Wooden Surface
+image-credit: https://www.pexels.com/photo/scrabble-tiles-spelling-gemini-and-ai-on-wooden-surface-30869085/
+abstract: /assets/abstracts/2531-evaluation-summary.pdf
 year: 2025
 domain:
- - Government Efficiency
 type: Formative evaluation
 agency: GSA
 status: Complete
