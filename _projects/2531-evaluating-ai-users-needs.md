@@ -35,9 +35,9 @@ We partnered with GSA’s Office of Information Technology (IT) to evaluate how 
 <b>Users wanted more examples of ways they can use Gemini and more opportunities to learn from their peers.</b> A few users suggested providing clear guardrails, rules, and GSA specific examples to help others feel confident in experimenting with Gemini to develop novel and effective use cases. 
 
 ## Applying the findings
-Given that most interaction happened in the web app, meet demand by providing a general-use chatbot before workspace integration (e.g., AI embedded into Google Docs).
-Since users vary in how they interact with AI tools, future training and tools could be tailored based on characteristics including previous AI use, primary use case/goals in using AI, and frequency of use.
-Help users develop rules of thumb about checking the accuracy of AI output. Develop guardrails, reminders, and/or defaults to manage other risks (e.g., data security, bias, malicious output), which users may be less aware of.
-In the roll out of future AI tools, focus on: 1. validating the benefits to users (e.g., time savings), 2. understanding how variations in user behavior affect those benefits, and 3. understanding how users integrate AI output into their work.
+- Given that most interaction happened in the web app, meet demand by providing a general-use chatbot before workspace integration (e.g., AI embedded into Google Docs).
+- Since users vary in how they interact with AI tools, future training and tools could be tailored based on characteristics including previous AI use, primary use case/goals in using AI, and frequency of use.
+- Help users develop rules of thumb about checking the accuracy of AI output. Develop guardrails, reminders, and/or defaults to manage other risks (e.g., data security, bias, malicious output), which users may be less aware of.
+- In the roll out of future AI tools, focus on: 1. validating the benefits to users (e.g., time savings), 2. understanding how variations in user behavior affect those benefits, and 3. understanding how users integrate AI output into their work.
 
-As a formative evaluation, this study did not have an analysis plan.
+This formative evaluation did not have an analysis plan.
