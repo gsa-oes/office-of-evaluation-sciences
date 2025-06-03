@@ -1,6 +1,6 @@
 ---
 title: Boost the Made in America Manufacturing Initiative by identifying bottlenecks in the small manufacturer pipeline
-permalink: /projects/2412-fema-drc-visitation-trends/
+permalink: /projects/2501-identifying-manufacturing-bottlenecks/
 tags: 
  - project
 image: /assets/img/project-images/2501.jpg
