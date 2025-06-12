@@ -4,8 +4,8 @@ permalink: /projects/2410-epa-electronic-manifests/
 tags: 
  - project
 image: /assets/img/project-images/2410.jpg
-image_alt_text: Manufacturing equipment
-image-credit: https://commons.wikimedia.org/wiki/File:Manufacturing_equipment_070.jpg
+image_alt_text: eManifest
+image-credit: https://www.epa.gov/
 analysis-plan: /assets/analysis/2410-analysis-plan.pdf
 abstract: 
 year: 2025
