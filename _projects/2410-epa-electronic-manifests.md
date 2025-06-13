@@ -4,8 +4,8 @@ permalink: /projects/2410-epa-electronic-manifests/
 tags: 
  - project
 image: /assets/img/project-images/2410.jpg
-image_alt_text: eManifest
-image-credit: https://www.epa.gov/
+image_alt_text: Superfund site
+image-credit: https://www.flickr.com/photos/anthonyalbright/30839643481
 analysis-plan: /assets/analysis/2410-analysis-plan.pdf
 abstract: 
 year: 2025
