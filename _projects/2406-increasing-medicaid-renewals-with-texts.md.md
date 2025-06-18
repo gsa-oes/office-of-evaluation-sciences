@@ -16,7 +16,6 @@ agency: General Services Administration
 status: Complete
 summary: Additional messages and phone calls aimed at improving credibility of government communications did not affect the rate of health coverage renewals
 ---
----
 ## What is the agency priority? 
 Some families who are eligible for federal health coverage miss the deadline to renew their coverage. States often use paper mail to inform people of renewal deadlines, which can be costly and slow. Sending low-cost, automated text messages could ensure families get important information at the right time.
 
