@@ -8,11 +8,11 @@ image:
 image_alt_text: 
 image-credit: 
 abstract: 
-year: 
+year: 2025
 domain:
 type: 
 agency: 
-status: 
+status: Complete
 summary:
 featured:
 - services
