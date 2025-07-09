@@ -1,19 +1,19 @@
 ---
-title: Evaluating Artificial Intelligence users needs
+title: Evaluating capability statements
 permalink: /projects/2531-evaluating-ai-users-needs/
 tags: 
  - project
-share_image: /assets/img/project-images/2531.jpg
-image: /assets/img/project-images/2531.jpg
-image_alt_text: Artificial intelligence theme
-image-credit: https://commons.wikimedia.org/wiki/File:Artificial-Intelligence.jpg
-abstract: /assets/abstracts/2531-evaluation-summary.pdf
-year: 2025
+share_image:
+image: 
+image_alt_text: 
+image-credit: 
+abstract: 
+year: 
 domain:
-type: Formative evaluation
-agency: GSA
-status: Complete
-summary: Learning about employees’ experience and support needs while using AI
+type: 
+agency: 
+status: 
+summary:
 featured:
 - services
 ---
