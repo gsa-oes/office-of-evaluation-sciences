@@ -3,7 +3,7 @@ title: Describing disaster survivor visitation trends at FEMA Disaster Recovery 
 permalink: /projects/2412-fema-drc-visitation-trends/
 tags: 
  - project
- - natural resources
+ - resources
 image: /assets/img/project-images/2412.webp 
 image_alt_text: FEMA sign
 image-credit: https://www.flickr.com/photos/daquellamanera/66202622/in/photolist-6RiJw-9QLyAG-2gJvL3h-4F2XFc-dkiaNZ-9Qr3Fj-XcsuWU-7Einod-4dqCV7-k3RtR-6kxZbM-7iHu83-6jb2Na-7iDuvV-7iDtYZ-dGWezz-7iHqNL-7iHq5J-7iDvUe-7iDz6k-34wXqV-34wTeM-7iHtwd-34Br4W-5cA6n-34Bhif-34wSBP-34Bvu7-34wXFM-34wSer-34wR3i-34wToK-34Bswq-34BnsU-34BucU-34wQfc-34wMPZ-34BtPq-34wRL6-34wJYc-34BuB9-34BjmW-34wNCr-34BsXG-34wU7n-LQM7Fm-uvFcA-LLLNq2-LJf2t1-KWStJH
