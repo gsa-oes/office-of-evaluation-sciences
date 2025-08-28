@@ -1,11 +1,11 @@
 <footer class="usa-footer usa-section background-light padding-y-1" role="contentinfo">
   <div class="grid-container">
-    <div class="grid-row grid-gap">
+    <div class="grid-row grid-gap-6">
       <div class="tablet:grid-col-4 desktop:grid-col-5">
-        <div class="footer-logo-links margin-top-5">
-          <a href="https://gsa.gov" class="usa-footer-logo-img">
+        <div class="footer-logo-links margin-y-5 flex-align-center text-left">
+          <a href="https://gsa.gov" class="usa-footer-logo-img margin-left-0">
             <img
-              class="usa-footer-logo-img"
+              class="usa-footer-logo-img margin-left-0"
               src="{{ site.footer.image | prepend: site.baseurl }}"
               alt="GSA logo"
               role="img"
@@ -18,36 +18,30 @@
           {% endif %}
         </div>
       </div>
-      <div class="tablet:grid-col text-center bg-white">
-        <div class="footer-links margin-top-2 margin-y-5 text-no-bold">
-          <span class="font-sans-lg">Contact Us</span>
-          <ul class="add-list-reset">
+      <div class="tablet:grid-col-auto flex-align-center text-no-wrap bg-white">
+        <div class="footer-links flex-align-center margin-y-5 text-no-bold">
+          <span class="font-sans-lg text-left">Contact Us</span>
+          <ul class="add-list-reset text-left">
             <li>
               <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>
             </li>
           </ul>
       </div>
       </div>
-        <div class="tablet:grid-col-auto text-no-wrap bg-white">
-          <div class="footer-links margin-top-2 margin-y-5">
-            <span class="font-sans-lg">Stay Informed</span>
-            <ul class="add-list-reset">
+        <div class="tablet:grid-col-auto flex-align-center text-no-wrap bg-white">
+          <div class="footer-links flex-align-center margin-y-5">
+            <span class="font-sans-lg text-left">Stay Informed</span>
+            <ul class="add-list-reset text-left">
               <li>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform?c=0&w=1">Subscribe to our newsletter</a>
               </li>
             </ul>
         </div>
       </div>
-      <div class="tablet:grid-col padding-right-auto bg-white">
-        <div class="footer-links margin-top-2 margin-y-5">
-          <div class="grid-col-12 tablet:grid-col-auto">
-            <div class="grid-row flex-justify-center">
-                <div class="grid-col flex flex-row">
-                  <a href="http://x.com/OESatGSA">{% include icons/twitter.svg %}</a>
-                  <a href="http://linkedin.com/company/office-of-evaluation-sciences">{% include icons/linkedin.svg %}</a>
-                </div>     
-            </div>        
-          </div>
+      <div class="tablet:grid-col-3 desktop:grid-col-2 flex-align-center text-no-wrap bg-white">
+        <div class="footer-links flex-align-center margin-y-5 text-left">
+          <a href="http://x.com/OESatGSA">{% include icons/twitter.svg %}</a>
+          <a href="http://linkedin.com/company/office-of-evaluation-sciences">{% include icons/linkedin.svg %}</a>           
         </div>
       </div>  
     </div>
