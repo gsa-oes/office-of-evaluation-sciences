@@ -115,13 +115,6 @@ forms:
       name: fbzx
       value: -7861934959779167198
 
-# Social Media
-social-media:
-  - service: twitter
-    link: "http://x.com/OESatGSA"
-  - service: linkedin
-    link: "http://linkedin.com/company/office-of-evaluation-sciences"
-
 # jekyll plugins
 plugins:
   - jekyll-paginate
