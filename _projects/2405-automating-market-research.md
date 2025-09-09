@@ -41,7 +41,7 @@ The percentage of contracts going to SBA-certified small businesses was 4.9% for
 We found some evidence from one exploratory test that an office assigned to receive the AMR email, instead of the Encouragement email, obligated more funding to SBA-certified small businesses, though this result is not statistically significant. 
 
 Figure 1. Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses
-<img src="{{ '/assets/img/project-images/2405-fig1.svg' | prepend: site.baseurl }}" alt="Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses" width="1500">
+<img src="{{ '/assets/img/project-images/2405-fig1.svg' | prepend: site.baseurl }}" alt="Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses" width="500">
 
 Note: *p < 0.05
 
