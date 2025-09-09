@@ -8,6 +8,7 @@ image: /assets/img/project-images/2405-image.jpg
 image_alt_text: Market research
 image-credit: https://creativecommons.org/licenses/by-nc/4.0/
 analysis-plan: /assets/analysis/2405-increasing-set-asides-analysis-plan.pdf
+abstract: /assets/abstracts/2405-abstract.pdf
 year: 2025  
 domain:
  - Economic Opportunity
