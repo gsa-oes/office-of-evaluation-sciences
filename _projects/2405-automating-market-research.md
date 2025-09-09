@@ -40,6 +40,8 @@ The percentage of contracts going to SBA-certified small businesses was 4.9% for
 
 Figure 1. Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses
 
+Note: *p < 0.05
+
 We found some evidence from one exploratory test that an office assigned to receive the AMR email, instead of the Encouragement email, obligated more funding to SBA-certified small businesses, though this result is not statistically significant. 
 
 Additionally, a descriptive analysis of engagement with the market research web pages revealed that 4.52% of the market research links were viewed by those we sent them to, and that many people also visited the webpages through searches independently of the links we sent.<sup>5</sup> This suggests that there is demand for market research tools. Further, analysis of the engagement data from web analytics provides suggestive evidence that there may be a correlation between engagement with the market research links and awards to SBA-certified small businesses.
@@ -52,11 +54,11 @@ There were several noteworthy limitations in this evaluation. First, we believe 
 Second, we were able to match fewer opportunities to their subsequent contracts than we anticipated (50% instead of the anticipated 60-80%), and the intervention period was shorter than we planned (12 email cycles rather than 18); two challenges that reduced our statistical power. However, while we can rule out large positive effects we cannot rule out that there are moderate-sized positive effects from automating market research. Future evaluations could further assess the precise impact of automation on federal procurement and small businesses.
 
 Notes:
-1.  We sampled opportunities at the sources sought or pre-solicitation stages that were not yet designated for SBA-certified small businesses. Opportunities were only sampled once, even if posted multiple times during our evaluation.
+1. We sampled opportunities at the sources sought or pre-solicitation stages that were not yet designated for SBA-certified small businesses. Opportunities were only sampled once, even if posted multiple times during our evaluation.
 2. North American Industry Classification System (NAICS) and Product or Service Code (PSC).
-3.  We anticipated that we would only be able to match a subset of opportunities to awards due to limited linking variables across the two data sets, and followed our pre-registered analysis plan to account for this.
-4.  As pre-specified in the analysis plan, we conduct randomization inference for our primary hypotheses tests. One of these is a test of the difference in effects across the two treatment groups. The RI p-value for this test is 0.739, indicating the two treatment effects are not statistically significantly different.
-5.   Marketing companies suggest that effective email marketing campaigns might expect click-through rates (the rate at which recipients click on a link in an email) of about 2-5%. 
+3. We anticipated that we would only be able to match a subset of opportunities to awards due to limited linking variables across the two data sets, and followed our pre-registered analysis plan to account for this.
+4. As pre-specified in the analysis plan, we conduct randomization inference for our primary hypotheses tests. One of these is a test of the difference in effects across the two treatment groups. The RI p-value for this test is 0.739, indicating the two treatment effects are not statistically significantly different.
+5. Marketing companies suggest that effective email marketing campaigns might expect click-through rates (the rate at which recipients click on a link in an email) of about 2-5%. 
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2405-increasing-set-asides-analysis-plan.pdf">on Github</a>.
 
