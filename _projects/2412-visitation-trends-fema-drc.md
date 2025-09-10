@@ -27,6 +27,6 @@ We described the lifecycles of DRCs, the number of visits to DRCs, and the servi
 ## What did we learn?
 The results provide a baseline understanding of the lifecycle of DRCs, when disaster survivors visit DRCs over the course of their lifecycles, and the purpose of DRC visits. While the findings do not support any causal inferences about the effects of DRC visits on disaster survivor outcomes, they provide insights about the variation in DRC lifecycles, the volume of visits over time, and visit purposes. These insights can assist FEMA in optimizing the setup of DRCs to better support survivors (e.g., understanding what services/activities are sought out most for different types of disasters, and when).
 
-For more information, read the supplemental report. 
+For more information, read the [supplemental report]({{site.baseurl}}/assets/abstracts/2412-supplemental-report.pdf).
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2412-fema-visitation-trends-analysis-plan.pdf">on Github</a>.
