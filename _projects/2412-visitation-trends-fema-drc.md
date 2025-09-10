@@ -3,12 +3,11 @@ title: Describing disaster survivor visitation trends at FEMA Disaster Recovery 
 permalink: /projects/2412-fema-drc-visitation-trends/
 tags: 
  - project
- - resources
 image: /assets/img/project-images/2412.webp 
 image_alt_text: FEMA sign
 image-credit: https://www.flickr.com/photos/daquellamanera/66202622/in/photolist-6RiJw-9QLyAG-2gJvL3h-4F2XFc-dkiaNZ-9Qr3Fj-XcsuWU-7Einod-4dqCV7-k3RtR-6kxZbM-7iHu83-6jb2Na-7iDuvV-7iDtYZ-dGWezz-7iHqNL-7iHq5J-7iDvUe-7iDz6k-34wXqV-34wTeM-7iHtwd-34Br4W-5cA6n-34Bhif-34wSBP-34Bvu7-34wXFM-34wSer-34wR3i-34wToK-34Bswq-34BnsU-34BucU-34wQfc-34wMPZ-34BtPq-34wRL6-34wJYc-34BuB9-34BjmW-34wNCr-34BsXG-34wU7n-LQM7Fm-uvFcA-LLLNq2-LJf2t1-KWStJH
 analysis-plan: /assets/analysis/2412-fema-visitation-trends-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/2412-abstract.pdf
 year: 2025
 domain: Government Operations
 type: Descriptive evaluation
@@ -27,5 +26,7 @@ We described the lifecycles of DRCs, the number of visits to DRCs, and the servi
 
 ## What did we learn?
 The results provide a baseline understanding of the lifecycle of DRCs, when disaster survivors visit DRCs over the course of their lifecycles, and the purpose of DRC visits. While the findings do not support any causal inferences about the effects of DRC visits on disaster survivor outcomes, they provide insights about the variation in DRC lifecycles, the volume of visits over time, and visit purposes. These insights can assist FEMA in optimizing the setup of DRCs to better support survivors (e.g., understanding what services/activities are sought out most for different types of disasters, and when).
+
+For more information, read the supplemental report. 
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2412-fema-visitation-trends-analysis-plan.pdf">on Github</a>.
