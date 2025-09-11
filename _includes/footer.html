@@ -5,7 +5,10 @@
   <div class="grid-container">
     <div class="grid-row">
       <div class="tablet:grid-col-4">
-        <div class="footer-logo-links margin-y-5 flex-align-center text-left">
+        <div class="footer-logo-links margin-y-5 padding-y-2 padding-x-2 flex-align-center text-left">
+          {% if site.footer.image %}
+          <a href="https://oes.gsa.gov/"> {% include icons/oes.svg %} </a>
+          {% endif %}
           <a href="https://gsa.gov" class="usa-footer-logo-img margin-left-0">
             <img
               class="usa-footer-logo-img margin-left-0"
@@ -14,19 +17,16 @@
               role="img"
             />
           </a>
-          {% if site.footer.image %}
-          <a href="https://oes.gsa.gov/"> {% include icons/oes.svg %} </a>
-          {% endif %}
         </div>
       </div>
 
-      <div class="tablet:grid-col-8 bg-white padding-2 tablet:padding-x-4">
+      <div class="tablet:grid-col-8 padding-2 tablet:padding-x-4">
         <div class="grid-row flex-justify">
           <div class="tablet:grid-col-auto flex-align-center">
             <div
               class="footer-links flex-align-center tablet:margin-y-5 text-no-bold"
             >
-              <span class="font-sans-lg text-left">Contact Us</span>
+              <span class="font-sans-lg text-left">Contact us</span>
               <ul class="add-list-reset text-left">
                 <li>
                   <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>
@@ -36,7 +36,7 @@
           </div>
           <div class="tablet:grid-col-auto flex-align-center">
             <div class="footer-links flex-align-center tablet:margin-y-5">
-              <span class="font-sans-lg text-left">Stay Informed</span>
+              <span class="font-sans-lg text-left">Stay informed</span>
               <ul class="add-list-reset text-left">
                 <li>
                   <a
