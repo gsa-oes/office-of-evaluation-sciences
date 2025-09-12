@@ -30,6 +30,9 @@
   }
 }
 
+// these styles don't work well on the mobile menu
+@include at-media("desktop") {
+
 // Custom styles --------- //
 .usa-nav__primary-item {
   button[aria-expanded='true'] {
@@ -62,10 +65,6 @@
 
 .usa-nav__submenu {
   background-color: #247f9b!important;
-
-  a:hover {
-    background-color: #fff;
-  }
 
   .usa-nav__submenu-item > a, button[aria-expanded='true'] {
     color: #FFF;
@@ -103,3 +102,4 @@
  }
 }
 
+}

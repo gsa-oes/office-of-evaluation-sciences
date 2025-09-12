@@ -4,6 +4,14 @@
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
 
   {% include head.html %}
+  {% comment %} 
+  alternatives from original uswds-jekyll theme:
+    {% include meta.html %}
+    {% include styles.html %}
+    {%  if site.google_analytics_ua or site.dap_agency %}
+      {% include analytics.html %}
+    {% endif %}
+  {% endcomment %} 
 
   <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
 

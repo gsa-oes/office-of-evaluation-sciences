@@ -8,6 +8,8 @@
 // @use "../../_sass/uswds/src/uswds.scss" with (
 // @use "uswds/src/uswds" with (
 
+$theme-show-notifications: false,
+
   // What follows is every *possible* setting, not every *used* setting.
   // With version 3, USWDS requires all settings set within a single file
   /*
@@ -212,7 +214,7 @@
   ----------------------------------------
   */
 
-  $theme-show-compile-warnings: true,
+  $theme-show-compile-warnings: false,
 
   /*
   ----------------------------------------
@@ -454,20 +456,22 @@
   ----------------------------------------
   */
 
-  // $theme-typeface-tokens: (
-  //   example-serif-token: (
-  //     display-name: 'Example Serif Display Name',
-  //     cap-height: 364px,
-  //   ),
-  //   example-sans-token: (
-  //     display-name: 'Example Sans Display Name',
-  //     cap-height: 364px,
-  //   ),
-  //   lato: (
-  //     display-name: 'Lato',
-  //     cap-height: 364px,
-  //   ),
-  // ),
+  $theme-typeface-tokens: (
+    // example-serif-token: (
+    //   display-name: 'Example Serif Display Name',
+    //   cap-height: 364px,
+    // ),
+    // example-sans-token: (
+    //   display-name: 'Example Sans Display Name',
+    //   cap-height: 364px,
+    // ),
+    lato: (
+      display-name: 'Lato',
+      cap-height: 364px,
+    ),
+  ),
+  
+
 
   /*
   ----------------------------------------
@@ -503,11 +507,13 @@
   // // monospace
   // $theme-font-type-mono:  'roboto-mono',
 
-  // // sans-serif
-  // $theme-font-type-sans:  'lato',
+  // sans-serif
+  $theme-font-type-sans:  'lato',
 
-  // // serif
-  // $theme-font-type-serif: 'lato',
+  // serif
+  $theme-font-type-serif: 'lato',
+  // agency wants no serifs
+
 
   // /*
   // ----------------------------------------
@@ -535,8 +541,8 @@
   // $theme-font-icon-custom-stack:  false,
   // $theme-font-lang-custom-stack:  false,
   // $theme-font-mono-custom-stack:  false,
-  // $theme-font-sans-custom-stack:  "Lato, 'Helvetica Neue', Helvetica, Arial, sans",
-  // $theme-font-serif-custom-stack: false,
+  $theme-font-sans-custom-stack:  "'Helvetica Neue', Helvetica, Arial, sans",
+  $theme-font-serif-custom-stack:  "'Helvetica Neue', Helvetica, Arial, sans",
 
   // /*
   // ----------------------------------------
@@ -637,15 +643,15 @@
   // ----------------------------------------
   // */
 
-  // $theme-type-scale-3xs:      1,
-  // $theme-type-scale-2xs:      3,
-  // $theme-type-scale-xs:       4,
-  // $theme-type-scale-sm:       5,
-  // $theme-type-scale-md:       6,
-  // $theme-type-scale-lg:       7,
-  // $theme-type-scale-xl:       9,
-  // $theme-type-scale-2xl:      11,
-  // $theme-type-scale-3xl:      14,
+  $theme-type-scale-3xs:      1,
+  $theme-type-scale-2xs:      3,
+  $theme-type-scale-xs:       4,
+  $theme-type-scale-sm:       5,
+  $theme-type-scale-md:       6,
+  $theme-type-scale-lg:       7,
+  $theme-type-scale-xl:       9,
+  $theme-type-scale-2xl:      11,
+  $theme-type-scale-3xl:      14,
 
   // /*
   // ----------------------------------------
@@ -656,13 +662,13 @@
   // ----------------------------------------
   // */
 
-  // $theme-font-weight-thin:          false,
-  // $theme-font-weight-light:         300,
-  // $theme-font-weight-normal:        400,
-  // $theme-font-weight-medium:        false,
-  // $theme-font-weight-semibold:      false,
-  // $theme-font-weight-bold:          700,
-  // $theme-font-weight-heavy:         900,
+  $theme-font-weight-thin:          false,
+  $theme-font-weight-light:         300,
+  $theme-font-weight-normal:        400,
+  $theme-font-weight-medium:        false,
+  $theme-font-weight-semibold:      false,
+  $theme-font-weight-bold:          700,
+  $theme-font-weight-heavy:         900,
 
   // // If USWDS is generating your @font-face rules,
   // // should we generate all available weights

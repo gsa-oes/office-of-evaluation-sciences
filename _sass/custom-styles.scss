@@ -4,9 +4,9 @@
 
 @forward 'custom/all';
 
-// why does this need an override?
 .usa-header .usa-logo .usa-logo-img {
-  height: auto;
+  float: left;
+  margin-right: .5rem;
 }
 
 .usa-logo-img>* {

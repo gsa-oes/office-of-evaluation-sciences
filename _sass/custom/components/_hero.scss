@@ -20,7 +20,7 @@
   h1 {
     @include typeset('heading', 12, 3);
     color: color($color-white);
-    font-weight: font-weight('bold');
+    font-weight: font-weight('heavy');
     letter-spacing: ls($display-kerning);
     @include at-media('desktop') {
       @include u-font-size('heading', 15);
