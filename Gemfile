@@ -1,11 +1,14 @@
 source 'https://rubygems.org'
 gem 'jekyll' # latest version
-gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git', :branch => 'main'
+gem 'mini_racer'
+gem 'bundler'
+gem 'rake'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-redirect-from'
   # gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
+  gem 'jekyll-last-modified-at', '>= 1.3.0'
 end
 

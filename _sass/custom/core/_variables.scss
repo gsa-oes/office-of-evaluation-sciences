@@ -1,3 +1,6 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+
 // Typography ------------- //
 
 $font-heavy: 'heavy';
@@ -34,3 +37,4 @@ $small-screen: 'mobile-lg';
 $medium-screen: 'tablet';
 
 $focus-shadow: 0 0 0 1px color("primary");
+$theme-identifier-foreground-color: "white",

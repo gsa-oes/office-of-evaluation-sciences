@@ -7,8 +7,6 @@ share_image: /assets/img/project-images
 feature_image: /assets/img/logos/logo-name.png
 permalink: pretty
 
-# Site theme
-theme: uswds-jekyll
 
 # Styles
 # styles:
@@ -132,3 +130,9 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+sass:
+  style: compressed
+  load_paths:
+    - ./node_modules/@uswds
+    - ./node_modules/@uswds/uswds/packages
+    

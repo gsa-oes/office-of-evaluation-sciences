@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use '../core/variables' as *;
+
 // Hero feature ------------- //
 .usa-hero {
   background: unset!important;
@@ -16,7 +20,7 @@
   h1 {
     @include typeset('heading', 12, 3);
     color: color($color-white);
-    font-weight: fw($font-heavy);
+    font-weight: font-weight('bold');
     letter-spacing: ls($display-kerning);
     @include at-media('desktop') {
       @include u-font-size('heading', 15);

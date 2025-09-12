@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use '../core/variables' as *;
+
 // Contact ------------- //
 
 .contact {
@@ -13,7 +17,7 @@
 
   label {
     @include u-font('alt', 'md');
-    font-weight: fw('bold');
+    font-weight: font-weight('bold');
   }
 }
 
