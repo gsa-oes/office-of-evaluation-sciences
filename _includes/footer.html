@@ -1,86 +1,69 @@
-<footer class="usa-footer usa-section background-light" role="contentinfo">
+<footer
+  class="usa-footer usa-section background-light padding-y-1"
+  role="contentinfo"
+>
   <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-4 desktop:grid-col-6">
-        <div class="footer-logo-links">
-          <a href="https://gsa.gov" class="usa-footer-logo-img">
+    <div class="grid-row">
+      <div class="tablet:grid-col-4">
+        <div class="footer-logo-links margin-y-5 padding-y-2 padding-x-2 flex-align-center text-left">
+          <a href="https://gsa.gov" class="usa-footer-logo-img margin-left-0">
             <img
-              class="usa-footer-logo-img"
+              class="usa-footer-logo-img margin-left-0"
               src="{{ site.footer.image | prepend: site.baseurl }}"
               alt="GSA logo"
               role="img"
             />
+            {% if site.footer.image %}
+              <a href="https://oes.gsa.gov/"> {% include icons/oes.svg %} </a>
+            {% endif %}
           </a>
-          {% if site.footer.image %}
-            <a href="https://oes.gsa.gov/">
-              {% include icons/oes.svg %}
-            </a>
-          {% endif %}
         </div>
       </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">About</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/about/">Mission</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/services/">Services</a>
-            </li>
-          </ul>
+
+      <div class="tablet:grid-col-8 padding-2 tablet:padding-x-4">
+        <div class="grid-row flex-justify">
+          <div class="tablet:grid-col-auto flex-align-center">
+            <div
+              class="footer-links flex-align-center tablet:margin-y-5 text-no-bold"
+            >
+              <span class="font-sans-lg text-left">Contact us</span>
+              <ul class="add-list-reset text-left">
+                <li>
+                  <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="tablet:grid-col-auto flex-align-center">
+            <div class="footer-links flex-align-center tablet:margin-y-5">
+              <span class="font-sans-lg text-left">Stay informed</span>
+              <ul class="add-list-reset text-left">
+                <li>
+                  <a
+                    href="https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform?c=0&w=1"
+                    >Subscribe to our newsletter</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="tablet:grid-col-auto flex-align-center">
+            <div
+              class="footer-links flex-align-center tablet:margin-y-5 text-left"
+            >
+              <a href="http://x.com/OESatGSA"
+                >{% include icons/twitter.svg %}</a
+              >
+              <a
+                href="http://linkedin.com/company/office-of-evaluation-sciences"
+                >{% include icons/linkedin.svg %}</a
+              >
+            </div>
+          </div>
         </div>
       </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">Our work</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="{{ site.baseurl }}/work/">Evaluations</a>
-            </li>
-             <li>
-              <a href="{{ site.baseurl }}/portfolios/">Portfolios</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}/collaborations/">Collaborations</a>
-            </li>
-          </ul>
-      </div>
-      </div>
-        <div class="tablet:grid-col">
-          <div class="footer-links">
-            <p class="footer-links-heading">Connect</p>
-            <ul class="add-list-reset">
-              <li>
-                <a href="{{ site.baseurl }}/resources/">Resources</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/opps/">Opportunities</a>
-              </li>
-              <li>
-                <a href="{{ site.baseurl }}/blog/">OES Blog</a>
-              </li>
-            </ul>
-        </div>
-      </div>
-      <div class="tablet:grid-col">
-        <div class="footer-links">
-          <p class="footer-links-heading">Links</p>
-          <ul class="add-list-reset">
-            <li>
-              <a href="https://twitter.com/OESatGSA" target="_blank">@OESatGSA</a>
-            </li>
-            <li>
-              <a href="mailto:oes@gsa.gov?subject=Inquiry" target="_blank">oes@gsa.gov</a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLScFqOQbifXJG5rSlt-OLetNP3qTJBgT7hPik8TPW6lD1APMHQ/viewform?c=0&w=1" target="_blank">Subscribe</a>
-            </li>
-          </ul>
-        </div>
-      </div>  
-      
     </div>
+
     <!-- <h2>Drop us a line.</h2>
     <p>To share your thoughts, email us any time at <a href="mailto:{{ site.footer.email }}">{{ site.footer.email }}</a>.</p>
     <p>
@@ -90,16 +73,15 @@
       <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="GSA">
     {% endif %} -->
   </div>
-</footer>
 
-<div class="usa-identifier">
+  <div class="usa-identifier">
     <section
       class="usa-identifier__section usa-identifier__section--masthead"
       aria-label="Agency identifier,"
     >
       <div class="usa-identifier__container">
         <div class="usa-identifier__logos">
-          <a href="https://gsa.gov"  class="usa-identifier__logo">
+          <a href="https://gsa.gov" class="usa-identifier__logo">
             <img
               class="usa-identifier__logo-img"
               src="{{ site.footer.image | prepend: site.baseurl }}"
@@ -108,10 +90,7 @@
             />
           </a>
         </div>
-        <section
-          class="usa-identifier__identity"
-          aria-label="Agency description"
-        >
+        <section class="usa-identifier__identity" aria-label="Agency description">
           <p class="usa-identifier__identity-domain">oes.gsa.gov</p>
           <p class="usa-identifier__identity-disclaimer">
             An official website of the
@@ -212,5 +191,6 @@
       </div>
     </section>
   </div>
+</footer>
 
 {% include javascript.html %}

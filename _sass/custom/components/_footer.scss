@@ -22,6 +22,10 @@ footer {
 
 .footer-links {
   margin-bottom: units(2);
+
+  a.private-link::after {
+      content: "";
+  }
 }
 
 .footer-logo-links {
