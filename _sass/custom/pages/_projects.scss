@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use "../core/variables" as *;
+
 .project-container {
   @include at-media($medium-screen) {
     display: flex;

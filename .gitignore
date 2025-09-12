@@ -2,3 +2,8 @@ _site
 .sass-cache
 .DS_Store
 .jekyll-cache/
+node_modules
+
+# this is copied at runtime / build
+_sass/uswds
+assets/uswds

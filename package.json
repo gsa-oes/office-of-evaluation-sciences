@@ -1,0 +1,18 @@
+{
+  "name": "oes-on-uswds-jekyll",
+  "private": true,
+  "author": "GSA",
+  "license": "CC0-1.0",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "copy-uswds": "node copy-uswds.js",
+    "pages": "npm run copy-uswds"
+  },
+  "dependencies": {
+    "@uswds/uswds": "^3.13.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.2.0",
+    "cached-path-relative": "^1.0.2"
+  }
+}

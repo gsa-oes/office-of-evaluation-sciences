@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use '../core/variables' as *;
+
 // Accordion ------------- //
 .usa-accordion__heading .usa-accordion__button[aria-expanded="false"] {
 

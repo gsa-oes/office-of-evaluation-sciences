@@ -1,28 +1,28 @@
 // Custom colors ------ //
-// @import "custom-colors";
+// @forward "custom-colors";
 //@forward "usa-identifier";
 
 // Core --------- //
-@import "core/variables";
-@import "core/typography";
+@forward "core/variables";
+@forward "core/typography";
 
 // Components --------- //
-@import "components/accordion";
-@import "components/billboard";
-@import "components/card";
-@import "components/contact";
-@import "components/filter";
-@import "components/footer";
-@import "components/hero";
-@import "components/identifier";
-@import "components/layout";
-@import "components/logo";
-@import "components/navigation";
-@import "components/project-single";
-@import "components/wrapper";
-@import "components/toolkits";
-@import "components/lists";
+@forward "components/accordion";
+@forward "components/billboard";
+@forward "components/card";
+@forward "components/contact";
+@forward "components/filter";
+@forward "components/footer";
+@forward "components/hero";
+@forward "components/identifier";
+@forward "components/layout";
+@forward "components/logo";
+@forward "components/navigation";
+@forward "components/project-single";
+@forward "components/wrapper";
+@forward "components/toolkits";
+@forward "components/lists";
 
 // Pages --------- //
-@import "pages/projects";
-@import "pages/team";
+@forward "pages/projects";
+@forward "pages/team";
