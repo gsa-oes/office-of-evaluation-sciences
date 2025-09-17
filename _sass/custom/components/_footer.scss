@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use '../core/variables' as *;
+
 // Footer ------------- //
 
 footer {
@@ -5,7 +9,7 @@ footer {
   @include u-line-height('body', 6);
   a {
     @include u-font('alt', '2xs');
-    font-weight: fw('bold') !important;
+    font-weight: font-weight('bold') !important;
     text-decoration: none;
     &:hover {
       text-decoration: underline;
@@ -34,7 +38,7 @@ footer {
 
 .footer-links-heading {
   @include u-font('alt', '2xs');
-  font-weight: fw('normal');
+  font-weight: font-weight('normal');
   margin-bottom: units(1);
 
   @include at-media('tablet') {
