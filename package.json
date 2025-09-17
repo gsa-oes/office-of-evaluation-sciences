@@ -12,7 +12,6 @@
     "@uswds/uswds": "^3.13.0"
   },
   "devDependencies": {
-    "fs-extra": "^11.2.0",
-    "cached-path-relative": "^1.0.2"
+    "fs-extra": "^11.2.0"
   }
 }

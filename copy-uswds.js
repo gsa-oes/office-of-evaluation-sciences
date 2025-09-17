@@ -8,7 +8,6 @@ async function copyUSWDS() {
   const sassDir = path.resolve(__dirname, '_sass/uswds/src');
 
   try {
-    // Copy assets
     console.log('Copying USWDS fonts, images, and scripts...');
     fs.copySync(uswdsDist, assetsDir, {
       filter: (src, dest) => {
@@ -19,11 +18,6 @@ async function copyUSWDS() {
       },
       overwrite: true,
     });
-
-    // Copy Sass -- but Jekyll & Dart Sass don't need you to copy them 
-    // console.log('Copying USWDS themable Sass...');
-    // fs.copySync(uswdsSass, sassDir, { overwrite: true });
-
     console.log('USWDS install complete.');
   } catch (error) {
     console.error('Error copying USWDS:', error);

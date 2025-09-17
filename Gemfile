@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 gem 'jekyll' # latest version
-gem 'mini_racer'
-gem 'bundler'
-gem 'rake'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
