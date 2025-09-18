@@ -1,6 +1,6 @@
 ---
 title: Understanding rural small businesses in the federal marketplace 
-permalink: /projects/2502-rural-small-bus-federal-contracts/
+permalink: /projects/2502-rural-small-bus-federal-marketplace/
 tags: 
  - project
 image: /assets/img/project-images/2502.jpg
@@ -27,7 +27,7 @@ We partnered with the SBA on a descriptive evaluation of the current state of ru
 ## What we learned
 We found that there are 49,075 rural and small firms registered on SAM.gov, representing 8.5% of all registered firms. The number of registered rural small businesses varies considerably by industry — as does the proportion of each industry that are rural and small (Figure 1). NAICS codes 23 (Construction) and 54 (Professional, Scientific, and Technical Services) comprise 19% and 14% of all registered rural small businesses. However, this reflects the size of these industries rather than the strength of rural small businesses in these areas. The NAICS codes in which rural small businesses comprise the largest percentage of all registered businesses are 11 (Agriculture, Forestry, Fishing, and Hunting, 43%) and 21 (Mining, Quarrying, and Oil and Gas Extraction, 28%). 
 
-Figure 1. The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code 
+Figure 1. The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code <br>
 <img src="{{ '/assets/img/project-images/2502-fig1.svg' | prepend: site.baseurl }}" alt="The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code" width="500">
 
 We also found that only 2.8% of all prime awards and 3.5% of all subcontracts go to rural small businesses (Figure 2).<sup>1</sup> In contrast, in NAICS code 11 (Agriculture, Forestry, Fishing and Hunting), 45% of prime awards go to rural small businesses. While rural small businesses win a small fraction of all awards (prime and subcontracts), they win a large share of the awards that go to rural firms of any size. Of the prime awards going to rural businesses, 75% are going to rural small businesses. 
