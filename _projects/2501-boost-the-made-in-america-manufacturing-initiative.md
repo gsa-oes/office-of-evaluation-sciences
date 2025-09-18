@@ -7,7 +7,7 @@ image: /assets/img/project-images/2501.jpg
 image_alt_text: Manufacturing equipment
 image-credit: https://commons.wikimedia.org/wiki/File:Manufacturing_equipment_070.jpg
 analysis-plan: /assets/analysis/2501-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/2501-abstract.pdf
 year: 2025
 domain: 
 type: Descriptive evaluation
