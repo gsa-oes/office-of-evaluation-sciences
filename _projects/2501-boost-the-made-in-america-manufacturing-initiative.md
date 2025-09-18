@@ -1,6 +1,6 @@
 ---
-title: Boost the Made in America Manufacturing Initiative by identifying bottlenecks in the small manufacturer pipeline
-permalink: /projects/2501-identifying-manufacturing-bottlenecks/
+title: Understanding small manufacturers in the federal marketplace
+permalink: /projects/2501-understanding-small-manufacturers/
 tags: 
  - project
 image: /assets/img/project-images/2501.jpg
