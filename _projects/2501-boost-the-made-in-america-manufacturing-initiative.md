@@ -48,10 +48,8 @@ In addition to further analysis to address data limitations, actions the SBA cou
 
 Comparing the relative efficacy or cost-effectiveness of the interventions above could help the SBA determine which provide the greatest return on investment in terms of helping small businesses win more contracts and grow their capacity.
 
-Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2501-analysis-plan.pdf">on Github</a>.
-
 Notes:
 1. These SBA programs support small businesses as follows: HUBZone supports those in historically underutilized business zones; 8(a) supports those who are socially and economically disadvantaged; Veteran-Owned Small Business (VOSB); Service-Disabled Veteran-Owned Small Business (SDVOSB); Women-Owned Small Business (WOSB); and Socially-Disadvantaged Woman-Owned Small Business (SDWOSB).
 2.  Estimated counts and proportions should be interpreted with caution given data availability limits discussed in our analysis plan. However, this summary makes the best use of readily available data to help guide SBA decision-makers.
 
-
+Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2501-analysis-plan.pdf">on Github</a>.
