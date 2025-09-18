@@ -7,7 +7,7 @@ image: /assets/img/project-images/2502.jpg
 image_alt_text: Small business
 image-credit: https://www.flickr.com/photos/myoldpostcards/51948624675
 analysis-plan: /assets/analysis/2502-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/2502-abstract.pdf
 year: 2025
 domain: 
 type: Descriptive evaluation
