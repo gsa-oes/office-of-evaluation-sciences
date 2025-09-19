@@ -3,6 +3,7 @@ title: Increasing procurement efficiency by automating market research
 permalink: /projects/2405-automating-market-research/
 tags: 
  - project
+ - business
 share_image: /assets/img/project-images/2405-image.png
 image: /assets/img/project-images/2405-image.jpg 
 image_alt_text: Market research
