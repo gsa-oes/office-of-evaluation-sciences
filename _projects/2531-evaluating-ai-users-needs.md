@@ -11,7 +11,7 @@ abstract: /assets/abstracts/2531-evaluation-summary.pdf
 year: 2025
 domain:
 type: Formative evaluation
-agency: GSA
+agency: General Services Administration
 status: Complete
 summary: Learning about employees’ experience and support needs while using AI
 featured:
