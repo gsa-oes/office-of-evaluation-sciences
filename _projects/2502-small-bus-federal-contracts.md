@@ -3,6 +3,7 @@ title: Understanding rural small businesses in the federal marketplace
 permalink: /projects/2502-rural-small-bus-federal-marketplace/
 tags: 
  - project
+ - business
 image: /assets/img/project-images/2502.jpg
 image_alt_text: Small business
 image-credit: https://www.flickr.com/photos/myoldpostcards/51948624675
