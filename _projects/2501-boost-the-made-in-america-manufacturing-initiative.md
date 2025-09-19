@@ -3,6 +3,7 @@ title: Understanding small manufacturers in the federal marketplace
 permalink: /projects/2501-understanding-small-manufacturers/
 tags: 
  - project
+ - business
 image: /assets/img/project-images/2501.jpg
 image_alt_text: Manufacturing equipment
 image-credit: https://commons.wikimedia.org/wiki/File:Manufacturing_equipment_070.jpg
