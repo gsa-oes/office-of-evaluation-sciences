@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use './variables' as *;
+
 // Typography ------------- //
 
 $font-body: $theme-font-type-serif;
@@ -11,7 +15,7 @@ body {
 }
 
 h1 {
-  font-weight: fw($font-heavy);
+  font-weight: font-weight('bold');
 }
 
 .h4 {

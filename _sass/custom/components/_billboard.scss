@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use '../core/variables' as *;
+
 // Billboard ------------- //
 
 .billboard {
@@ -23,7 +27,7 @@
   @include u-font('heading', '3xl');
   @include u-measure(2);
   color: color('base');
-  font-weight: fw('bold');
+  font-weight: font-weight('bold');
   letter-spacing: ls(-1);
   line-height: lh('alt', $heading-line-height);
   margin: 0 auto;

@@ -1,3 +1,7 @@
+/* custom stylesheets all need core if using vars and mixins */
+@use "uswds-core" as *;
+@use '../core/variables' as *;
+
 // Filter ------------- //
 
 .filter {
@@ -37,7 +41,7 @@
     background-color: transparent;
     box-shadow: inset 0 0 0 units(2px) color($color-brand-dark);
     color: color('secondary-dark');
-    font-weight: fw('bold');
+    font-weight: font-weight('bold');
 
     &:hover {
       background-color: transparent;
@@ -82,7 +86,7 @@
 .filter-button-message {
   @include u-font('heading', 'xs');
   color: color('secondary');
-  font-weight: fw('bold');
+  font-weight: font-weight('bold');
 }
 
 .filter-section {
@@ -93,7 +97,7 @@
 
 .filter-category {
   @include u-font('heading', 'sm');
-  font-weight: fw('bold');
+  font-weight: font-weight('bold');
   margin-bottom: units(1);
   margin-top: units(1);
 }

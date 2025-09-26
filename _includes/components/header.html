@@ -37,7 +37,7 @@
     <div class="usa-nav__inner">
 
       <button class="usa-nav__close">
-        <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
+        <img src="{{ site.baseurl }}/assets/uswds/img/usa-icons/close.svg" alt="close">
       </button>
         
       {% if header.type == 'basic' or header.type == 'basic-mega' %}
@@ -69,10 +69,11 @@
               <button
                 class="usa-button"
                 type="submit"
-                name="commit"
-                role="img"
-                aria-label="Search Icon">
-                <span class="usa-sr-only">Search</span>
+                name="commit">
+                <img
+                  src="{{ '/assets/uswds/img/usa-icons-bg/search--white.svg' | prepend: site.baseurl }}"
+                  class="usa-search__submit-icon"
+                  alt="Search" />
               </button>
             </div>
           </form>
