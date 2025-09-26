@@ -40,12 +40,14 @@ We merged 4,484,661 manifest records with 345,209 manifest corrections filed in 
 3. <b>What do manifest corrections look like?</b> Overall, electronic manifests have a lower correction rate than non-electronic ones (6% vs. 7.7% across the evaluation period). However, the correction rates varied considerably in recent months (Figure 1). Most notably, the percentage of electronic manifests corrected increased to 20% between November 2024 and April 2025. This increase followed a jump in the correction rate for non-electronic manifests, which then subsided. 
 
 Figure 1. The percentage of electronic and non-electronic manifests corrected over time
+<img src="{{ '/assets/img/project-images/2410-fig1.svg' | prepend: site.baseurl }}" alt="The percentage of electronic and non-electronic manifests corrected over time" width="500">
 
 4.<b> What does the new policy rollout look like on the ground?</b> Electronic manifests were used for less than 1% of shipments before February 2025. The use of electronic manifests increased to approximately 15% for shipments from EPA-led cleanup sites by April 2025, with little change for shipments from other generator sites.  These electronic manifests come from a small minority of receivers. Fewer than 10% of receivers overall, and fewer than 20% of those who received waste from an EPA-led cleanup, used any electronic manifests. 
 
 5.<b> Who has adopted electronic manifests?</b> Very few receivers have started using electronic manifests since the EPA’s directive took effect. Only 11 out of more than 1,100 receivers (including 126 with EPA business) that had not adopted electronic manifests before FY25 have filed any electronic manifest in FY25. These 11 receivers tend to be larger, receive more frequent shipments, and are more likely to receive waste from EPA-led cleanups than receivers who have never used an electronic manifest. However, these differences do not apply when compared only to other EPA waste receivers. Electronic manifests have been consistently rare for waste from other generator sites, even among receivers who also have EPA business. Among receivers who have received waste from EPA-led cleanups, electronic manifests were used less than 1% of the time for waste from non-EPA-led cleanup sites (Figure 2). 
 
 Figure 2. The average percentage of electronic manifests for other generators (non-EPA) among receivers of at least one shipment from an EPA-led cleanup
+<img src="{{ '/assets/img/project-images/2410-fig2.svg' | prepend: site.baseurl }}" alt="The average percentage of electronic manifests for other generators (non-EPA) among receivers of at least one shipment from an EPA-led cleanup" width="500">
 
 Note: The vertical dashed line indicates when EPA began requiring electronic manifests for shipments from EPA-led cleanups (October 2024).
 
