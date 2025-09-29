@@ -58,4 +58,4 @@ Electronic manifest adoption has been slow to date, but has increased for EPA-le
 
 The recent increase in correction rates for electronic manifests points to the need for ongoing monitoring and industry engagement to reduce the costs of corrections. Corrections require staff time, and it is possible that the workload required for corrections could increase as more waste handlers use electronic manifests. Understanding the sources of corrections and time required to process them could help the EPA develop strategies to reduce costs and improve accuracy.
 
-Verify the upload date of our analysis plan<a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2410-analysis-plan.pdf"> on Github</a>.
+Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2410-analysis-plan.pdf">on Github</a>.
