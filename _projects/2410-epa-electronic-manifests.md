@@ -7,7 +7,7 @@ image: /assets/img/project-images/2410.jpg
 image_alt_text: Superfund site
 image-credit: https://www.flickr.com/photos/anthonyalbright/30839643481
 analysis-plan: /assets/analysis/2410-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/2412-evaluation-summary.pdf
 year: 2025
 domain: 
 type: Descriptive evaluation
