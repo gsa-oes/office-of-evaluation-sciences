@@ -72,3 +72,21 @@ Table 2. The most frequently selected benefits, barriers, drawbacks, and trainin
 | Top barriers selected | Output quality | Lack of features and inaccurate content | Lack of features |
 | Top drawbacks selected | Not integrated into existing workflow, poor quality content, and inaccurate content | Not integrated into existing workflow | Not integrated into existing workflow |
 | Top trainings selected | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for; over 40% selected five of seven trainings | Guidance on specific tasks and collaborative learning sessions |
+
+## Applying the findings
+Employee experiences and training needs differed depending on their level of GenAI use, which has implications for increasing AI adoption and use. Although there are some similarities across groups with varied levels of usage, these groups face different barriers to increasing AI use and have different training and support needs. To maximize the potential of GSA chat and encourage broader GenAI use, we recommend the actions below. 
+
+<b>Reduce barriers to AI adoption:</b> 
+- Gather additional input from employees who never use GenAI chat tools to better understand how to increase adoption among this group.
+- Implement consistent ways of tracking all forms of GenAI usage to better understand AI adoption across GSA. Most employees are using GSA chat in conjunction with other GenAI tools. 
+- Develop GSA chat as part of an ecosystem of other AI and productivity tools to address the top drawback that GSA chat was not integrated into existing workflows.  
+- Prioritize development of new product features based on needs of lower-usage groups to increase GenAI adoption. 
+Maintain human oversight of GenAI tools to monitor and improve accuracy and output quality, top barriers to increased use. 
+
+<b>Provide additional training and support:</b>
+- Provide concrete use cases for specific job functions to help employees understand how GSA chat can be useful in their jobs.
+- Continue to clarify what people are permitted to do in GSA chat.
+- Target training for users who have prior, but not extensive, experience with the tool. “Exploratory” users were most interested in trainings, so those will likely be most effective for that group.
+- Ensure availability of up-to-date GenAI trainings that include guidelines for GSA chat usage, practical applications, - and safeguards for inaccurate content and output quality. These could be stand-alone trainings and/or incorporated into existing mandatory trainings (e.g., data literacy).
+
+This formative evaluation did not have an analysis plan.
