@@ -89,4 +89,9 @@ Maintain human oversight of GenAI tools to monitor and improve accuracy and outp
 - Target training for users who have prior, but not extensive, experience with the tool. “Exploratory” users were most interested in trainings, so those will likely be most effective for that group.
 - Ensure availability of up-to-date GenAI trainings that include guidelines for GSA chat usage, practical applications, - and safeguards for inaccurate content and output quality. These could be stand-alone trainings and/or incorporated into existing mandatory trainings (e.g., data literacy).
 
+Notes:
+1. Includes any GenAI tools available during the evaluation period (GSA chat, Gemini chat, Gemini Workspace, ChatGPT).
+2. Online survey available to all GSA employees from May 5 - June 2, 2025. 
+3. The estimated number of GSA employees was 11,452, calculated using 13,113 employees as of April 30, 2025 (D2D “GSA Organization” data) minus 1,661 who had accepted the Deferred Resignation Program and were excluded from calculations. 
+
 This formative evaluation did not have an analysis plan.
