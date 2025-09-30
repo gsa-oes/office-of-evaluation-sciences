@@ -1,6 +1,6 @@
 ---
-title: Evaluating Artificial Intelligence users needs
-permalink: /projects/2531-evaluating-ai-users-needs/
+title: Evaluating Generative Artificial Intelligence (GenAI) chat tools
+permalink: /projects/2533-evaluating-gen-ai-chat-tools/
 tags: 
  - project
 share_image: /assets/img/project-images/2533.jpg
@@ -70,4 +70,3 @@ Ensure availability of up-to-date GenAI trainings that include guidelines for GS
 
 
 This formative evaluation did not have an analysis plan.
-
