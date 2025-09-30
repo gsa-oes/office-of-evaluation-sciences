@@ -68,4 +68,7 @@ Table 2. The most frequently selected benefits, barriers, drawbacks, and trainin
 
 |  | “Tried it” users (n=107) | “Exploratory” users (n=63) | “Power” users (n=39) | 
 | -------- | -------- | -------- | -------- |
-| X | X | X | X |
+| Top benefits selected | Efficiency and time savings |Efficiency and time savings, enhanced communications, and greater creativity  | Efficiency and time savings; over 40% selected all six benefits |
+| Top barriers selected | Output quality | Lack of features and inaccurate content | Lack of features |
+| Top drawbacks selected | Not integrated into existing workflow, poor quality content, and inaccurate content | Not integrated into existing workflow | Not integrated into existing workflow |
+| Top trainings selected | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for; over 40% selected five of seven trainings | Guidance on specific tasks and collaborative learning sessions |
