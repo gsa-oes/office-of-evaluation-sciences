@@ -24,3 +24,34 @@ The use of generative artificial intelligence (GenAI) in the federal government 
 GSA is a leader in modernizing and streamlining technology across government, including promoting responsible AI innovation in support of the Administration’s <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf">Executive Order</a> to accelerate federal AI use. To support AI innovation and enhance government efficiency, GSA developed an internal GenAI chatbot (GSA chat) and was interested in learning about employees’ experience using chat to improve the future product.
 
 ## What we evaluated
+We partnered with GSA’s Office of Information Technology, Voice of the Customer team, and Federal Acquisition Service’s Office of Strategy and Innovation to evaluate GSA’s use of GenAI tools, with particular interest in GSA chat.
+
+This evaluation had three primary goals:
+1. Understand GenAI usage, particularly GSA chat<sup>1</sup>,
+2. Catalog the barriers users face to engaging with GSA chat, and 
+3. Understand user interest in additional training and/or support.
+
+We analyzed three data sources for this evaluation. First, user logs from GSA chat’s database (telemetry data) from the first five weeks post-launch (March 21-April 25, 2025) were analyzed to understand how GSA employees engaged with GSA chat (e.g., prompt writing, AI model selection). Second, data from an online survey was analyzed to assess GSA employee attitudes and perceptions of GenAI tools, including GSA chat.<sup>2</sup> Third, we conducted six semi-structured follow-up interviews with survey respondents to better understand user needs and barriers.
+
+## What we learned
+We found that GSA chat was used by 3,959 employees within its initial five weeks, representing approximately 35% of GSA employees.<sup>3</sup> Of the 281 survey respondents, those who frequently used GSA chat were more likely to participate in the survey. Key findings are described below. 
+
+1. <b>GSA chat usage.</b> Most users only prompted GSA chat a few times, with a median of six prompts, and 82% of users used only the default AI model set by GSA chat. Only 16% of users provided feedback on GSA chat’s responses. Among survey respondents who used GSA chat, the most frequently cited benefit was efficiency and time savings, while the primary use cases reported were drafting/editing text, summarization, and research. More frequent GenAI use was associated with the belief that GSA chat would improve work productivity.
+2. <b>Barriers to increasing usage.</b> The top selected barriers to increased GSA chat use were inaccurate content (33%) and poor output quality (33%). The top selected drawback was that GSA chat was not integrated into existing workflows (52%).
+3. <b>Training or additional support.</b> Respondents were most interested in training and additional support on practical applications of GenAI tools (such as coding) and guidelines for GSA chat usage.
+
+<b>Types of GSA chat users:</b> To gain a clearer understanding of engagement with GSA chat, we categorized survey respondents based on their frequency of use. We then examined variations in their survey responses. Two overarching groups were created: those who had never used GSA chat (“Never” users) and those who had used GSA chat (GSA chat users).
+
+- <b>“Never” users.</b> Although telemetry data indicated about 65% of GSA employees never used GSA chat during the evaluation period, only 26% (n=72) of survey respondents reported not using GSA chat. We identified two distinct types of “Never” users in the survey:
+1. GenAI-avoidant users, who did not try any GenAI tools during the study period (n=33).
+2. GSA chat-avoidant users, who did not try GSA chat though used other AI tools (n=39). 
+
+There were key differences in perceived benefits, barriers, drawbacks, and training interests among the two “Never” user groups (Table 1).
+
+Table 1. The most frequently selected benefits, barriers, drawbacks, and training interests among two categories of “Never” user groups
+|  | GenAI-avoidant “Never” users (n=33) | GSA chat-avoidant “Never” users (n=39) |
+| :------- | :------- | :------- |
+| Top benefit selected | Efficiency and time savings; 27% selected no benefits | Efficiency and time savings |
+| Top barrier selected | I don’t think AI is useful for my work | I use a different GenAI tool instead |
+| Top drawback selected | Over reliance, leading to reduced critical thinking | Unsure |
+| Top training selected | Information about what you are and are not allowed to use GSA chat for | Examples of things you can do with GenAI |
