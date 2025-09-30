@@ -49,9 +49,9 @@ We found that GSA chat was used by 3,959 employees within its initial five weeks
 There were key differences in perceived benefits, barriers, drawbacks, and training interests among the two “Never” user groups (Table 1).
 
 Table 1. The most frequently selected benefits, barriers, drawbacks, and training interests among two categories of “Never” user groups
-|  | GenAI-avoidant “Never” users (n=33) | GSA chat-avoidant “Never” users (n=39) |
-| :------- | :------- | :------- |
-| Top benefit selected  | Efficiency and time savings; 27% selected no benefits  | Efficiency and time savings  |
-| Top barrier selected  | I don’t think AI is useful for my work  | I use a different GenAI tool instead  |
-| Top drawback selected  | Over reliance, leading to reduced critical thinking  | Unsure  |
-| Top training selected  | Information about what you are and are not allowed to use GSA chat for  | Examples of things you can do with GenAI  |
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 | Row 1, Cell 4 |
+| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 | Row 2, Cell 4 |
+| Row 3, Cell 1 | Row 3, Cell 2 | Row 3, Cell 3 | Row 3, Cell 4 |
