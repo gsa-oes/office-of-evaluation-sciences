@@ -5,8 +5,8 @@ tags:
  - project
 share_image: /assets/img/project-images/2533.jpg
 image: /assets/img/project-images/2533.jpg
-image_alt_text: Artificial intelligence theme
-image-credit: https://commons.wikimedia.org/wiki/File:Artificial-Intelligence.jpg
+image_alt_text: AI chat on cell phone
+image-credit: https://www.pexels.com/photo/smartphone-displaying-chat-interface-with-laptop-32021561/
 abstract: /assets/abstracts/2533-evaluation-summary.pdf
 year: 2025
 domain:
