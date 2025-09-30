@@ -48,7 +48,7 @@ We found that GSA chat was used by 3,959 employees within its initial five weeks
 
 There were key differences in perceived benefits, barriers, drawbacks, and training interests among the two “Never” user groups (Table 1).
 
-Table 1. The most frequently selected benefits, barriers, drawbacks, and training interests among two categories of “Never” user groups
+<b>Table 1.</b> The most frequently selected benefits, barriers, drawbacks, and training interests among two categories of “Never” user groups
 
 |  | GenAI-avoidant “Never” users (n=33) | GSA chat-avoidant “Never” users (n=39) |
 | -------- | -------- | -------- |
@@ -64,7 +64,7 @@ Table 1. The most frequently selected benefits, barriers, drawbacks, and trainin
 There were key differences in perceived benefits, barriers, drawbacks, and training interests among the three user groups
 (Table 2).
 
-Table 2. The most frequently selected benefits, barriers, drawbacks, and training interests for three GSA chat user groups
+<b>Table 2.</b> The most frequently selected benefits, barriers, drawbacks, and training interests for three GSA chat user groups
 
 |  | “Tried it” users (n=107) | “Exploratory” users (n=63) | “Power” users (n=39) | 
 | -------- | -------- | -------- | -------- |
