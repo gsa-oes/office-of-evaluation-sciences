@@ -7,16 +7,55 @@ image: /assets/img/project-images/2410.jpg
 image_alt_text: Superfund site
 image-credit: https://www.flickr.com/photos/anthonyalbright/30839643481
 analysis-plan: /assets/analysis/2410-analysis-plan.pdf
-abstract: 
+abstract: /assets/abstracts/2412-evaluation-summary.pdf
 year: 2025
 domain: 
 type: Descriptive evaluation
 agency: Environmental Protection Agency
-status: Ongoing
-summary: Analysis Plan Registration
+status: Complete
+summary: Tracking manifest submissions provides information about early adopters of electronic manifests and sources of manifest corrections
 ---
-This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
+## Summary
+The goal of this descriptive evaluation was to learn how hazardous waste handlers use different types of shipment manifests, in support of the U.S. Environmental Protection Agency’s (EPA) efforts to increase the use of electronic manifest technology. The findings can inform efforts to increase adoption of electronic manifests to provide more timely, reliable, and accurate information about waste shipments. We analyzed 4,484,661 manifests and found that less than one percent of all manifests since January 1, 2023, were electronic. For EPA-led cleanups, the use of electronic manifests increased to 15% in April 2025. Electronic manifests required fewer corrections than non-electronic manifests (6.0% vs. 7.7%), but correction rates for electronic manifests increased to 20% between November 2024 and April 2025.  
 
-The Analysis Plan at the right indicates the date locked, and you can verify our upload date <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2410-analysis-plan.pdf">on Github</a>.
+## Agency priority
+The EPA aims to increase the hazardous waste industry’s use of electronic manifests for hazardous waste shipments. Replacing older manifest technologies (such as PDFs of paper documents) with electronic manifests may reduce costs associated with reviewing and correcting manifests and provide more timely and reliable information about waste shipments.
 
-Check back for results!
+The EPA interacts with hazardous waste manifests in multiple ways. The EPA Office of Land and Emergency Management (OLEM) maintains the Hazardous Waste Electronic Manifest System (e-Manifest). This database tracks hazardous waste shipments in the U.S. via submitted manifests. The system currently accepts electronic and non-electronic manifests. The EPA is also a large waste generator through its subset of EPA-led hazardous waste cleanup sites. As of October 2024, the EPA requires electronic manifests for waste shipments from these EPA-led cleanups.
+
+## What we evaluated
+We partnered with OLEM to address key questions about hazardous waste generators and receivers, the overall use of electronic manifests, and how manifest use varies between cleanups led by the EPA and other generator sites.
+
+We asked five broad evaluation questions:
+1. What does the universe of waste receivers look like?
+2. What does the network of waste handler relationships look like?
+3. What do manifest corrections look like? 
+4. What does the new policy rollout look like on the ground? 
+5. Who has adopted electronic manifests?
+   
+We merged 4,484,661 manifest records with 345,209 manifest corrections filed in the e-Manifest system between January 2023 and April 2025. We analyzed quantities such as the average percentage of electronic manifests and the average manifest correction rate by month, split by EPA-led cleanups and other generator sites.
+
+## What we learned 
+1. <b>What does the universe of waste receivers look like?</b> During the evaluation period, 1,192 receivers had shipments, and 17% of them received at least one shipment from an EPA-led cleanup site. For all but a few receivers, the vast majority of manifests do not involve waste from EPA-led cleanups. 
+2. <b>What does the network of waste handler relationships look like?</b> Roughly half (48%) of generator-receiver pairs comprise only one shipment. Pairs with more than one shipment have partnerships that last 15.4 months on average between first and last shipment with approximately one shipment (0.9) per month. Pairings involving EPA-led cleanups are longer on average and have more frequent shipments (2.2 per month).  
+3. <b>What do manifest corrections look like?</b> Overall, electronic manifests have a lower correction rate than non-electronic ones (6% vs. 7.7% across the evaluation period). However, the correction rates varied considerably in recent months (Figure 1). Most notably, the percentage of electronic manifests corrected increased to 20% between November 2024 and April 2025. This increase followed a jump in the correction rate for non-electronic manifests, which then subsided. 
+
+Figure 1. The percentage of electronic and non-electronic manifests corrected over time
+
+<img src="{{ '/assets/img/project-images/2410-fig1.svg' | prepend: site.baseurl }}" alt="The percentage of electronic and non-electronic manifests corrected over time" width="800">
+
+4.<b> What does the new policy rollout look like on the ground?</b> Electronic manifests were used for less than 1% of shipments before February 2025. The use of electronic manifests increased to approximately 15% for shipments from EPA-led cleanup sites by April 2025, with little change for shipments from other generator sites.  These electronic manifests come from a small minority of receivers. Fewer than 10% of receivers overall, and fewer than 20% of those who received waste from an EPA-led cleanup, used any electronic manifests. 
+
+5.<b> Who has adopted electronic manifests?</b> Very few receivers have started using electronic manifests since the EPA’s directive took effect. Only 11 out of more than 1,100 receivers (including 126 with EPA business) that had not adopted electronic manifests before FY25 have filed any electronic manifest in FY25. These 11 receivers tend to be larger, receive more frequent shipments, and are more likely to receive waste from EPA-led cleanups than receivers who have never used an electronic manifest. However, these differences do not apply when compared only to other EPA waste receivers. Electronic manifests have been consistently rare for waste from other generator sites, even among receivers who also have EPA business. Among receivers who have received waste from EPA-led cleanups, electronic manifests were used less than 1% of the time for waste from non-EPA-led cleanup sites (Figure 2). 
+
+Figure 2. The average percentage of electronic manifests for other generators (non-EPA) among receivers of at least one shipment from an EPA-led cleanup
+<img src="{{ '/assets/img/project-images/2410-fig2.svg' | prepend: site.baseurl }}" alt="The average percentage of electronic manifests for other generators (non-EPA) among receivers of at least one shipment from an EPA-led cleanup" width="800">
+
+Note: The vertical dashed line indicates when EPA began requiring electronic manifests for shipments from EPA-led cleanups (October 2024).
+
+## Applying the findings
+Electronic manifest adoption has been slow to date, but has increased for EPA-led waste cleanups where the EPA has directed their use. However, few handlers have newly adopted electronic manifests. Understanding which receivers are more or less likely to increase their use of electronic manifests or adopt them could help identify the barriers to adoption and inform the EPA’s outreach efforts to waste handlers. Designing strategies and rules to increase adoption could also benefit from additional analyses of the costs of adoption for waste handlers and any differential impact on small businesses.
+
+The recent increase in correction rates for electronic manifests points to the need for ongoing monitoring and industry engagement to reduce the costs of corrections. Corrections require staff time, and it is possible that the workload required for corrections could increase as more waste handlers use electronic manifests. Understanding the sources of corrections and time required to process them could help the EPA develop strategies to reduce costs and improve accuracy.
+
+Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2410-analysis-plan.pdf">on Github</a>.
