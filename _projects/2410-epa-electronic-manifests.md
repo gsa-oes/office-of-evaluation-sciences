@@ -14,9 +14,14 @@ type: Descriptive evaluation
 agency: Environmental Protection Agency
 status: Complete
 summary: Tracking manifest submissions provides information about early adopters of electronic manifests and sources of manifest corrections
+summary_bullets:
+  - The goal of this descriptive evaluation was to learn how hazardous waste handlers use different types of shipment manifests, in support of the U.S. Environmental Protection Agency’s (EPA) efforts to increase the use of electronic manifest technology. 
+  - The findings can inform efforts to increase adoption of electronic manifests to provide more timely, reliable, and accurate information about waste shipments. 
+  - We analyzed 4,484,661 manifests and found that less than one percent of all manifests since January 1, 2023, were electronic. For EPA-led cleanups, the use of electronic manifests increased to 15% in April 2025. 
+  - Electronic manifests required fewer corrections than non-electronic manifests (6.0% vs. 7.7%), but correction rates for electronic manifests increased to 20% between November 2024 and April 2025.
 ---
 ## Summary
-The goal of this descriptive evaluation was to learn how hazardous waste handlers use different types of shipment manifests, in support of the U.S. Environmental Protection Agency’s (EPA) efforts to increase the use of electronic manifest technology. The findings can inform efforts to increase adoption of electronic manifests to provide more timely, reliable, and accurate information about waste shipments. We analyzed 4,484,661 manifests and found that less than one percent of all manifests since January 1, 2023, were electronic. For EPA-led cleanups, the use of electronic manifests increased to 15% in April 2025. Electronic manifests required fewer corrections than non-electronic manifests (6.0% vs. 7.7%), but correction rates for electronic manifests increased to 20% between November 2024 and April 2025.
+   
 
 ## Agency priority
 The EPA aims to increase the hazardous waste industry’s use of electronic manifests for hazardous waste shipments. Replacing older manifest technologies (such as PDFs of paper documents) with electronic manifests may reduce costs associated with reviewing and correcting manifests and provide more timely and reliable information about waste shipments.
