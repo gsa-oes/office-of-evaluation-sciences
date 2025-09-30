@@ -56,3 +56,16 @@ Table 1. The most frequently selected benefits, barriers, drawbacks, and trainin
 | <b>Top barrier selected</b> | I don’t think AI is useful for my work | I use a different GenAI tool instead |
 | <b>Top drawback selected</b> | Over reliance, leading to reduced critical thinking | Unsure |
 | <b>Top training selected</b> | Information about what you are and are not allowed to use GSA chat for | Examples of things you can do with GenAI |
+
+- <b>GSA chat users.</b> We divided GSA employees who used GSA chat into three user groups: 
+1. “Tried it” users had tried GSA chat at least once (24% of GSA, 38% of survey respondents). 
+2. "Exploratory" users had used GSA chat weekly (9% of GSA, 22% of respondents).
+3. “Power” users who use GSA chat at least daily (2% of GSA, 14% of respondents). 
+There were key differences in perceived benefits, barriers, drawbacks, and training interests among the three user groups
+(Table 2).
+
+Table 2. The most frequently selected benefits, barriers, drawbacks, and training interests for three GSA chat user groups
+
+|  | “Tried it” users (n=107) | “Exploratory” users (n=63) | “Power” users (n=39) | 
+| -------- | -------- | -------- | -------- |
+| X | X | X | X |
