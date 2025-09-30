@@ -68,10 +68,10 @@ There were key differences in perceived benefits, barriers, drawbacks, and train
 
 |  | “Tried it” users (n=107) | “Exploratory” users (n=63) | “Power” users (n=39) | 
 | -------- | -------- | -------- | -------- |
-| Top benefits selected | Efficiency and time savings |Efficiency and time savings, enhanced communications, and greater creativity  | Efficiency and time savings; over 40% selected all six benefits |
-| Top barriers selected | Output quality | Lack of features and inaccurate content | Lack of features |
-| Top drawbacks selected | Not integrated into existing workflow, poor quality content, and inaccurate content | Not integrated into existing workflow | Not integrated into existing workflow |
-| Top trainings selected | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for; over 40% selected five of seven trainings | Guidance on specific tasks and collaborative learning sessions |
+| <b>Top benefits selected</b> | Efficiency and time savings |Efficiency and time savings, enhanced communications, and greater creativity  | Efficiency and time savings; over 40% selected all six benefits |
+| <b>Top barriers selected</b> | Output quality | Lack of features and inaccurate content | Lack of features |
+| <b>Top drawbacks selected</b> | Not integrated into existing workflow, poor quality content, and inaccurate content | Not integrated into existing workflow | Not integrated into existing workflow |
+| <b>Top trainings selected</b> | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for | Guidance on specific tasks and information about what you are and are not allowed to use GSA chat for; over 40% selected five of seven trainings | Guidance on specific tasks and collaborative learning sessions |
 
 ## Applying the findings
 Employee experiences and training needs differed depending on their level of GenAI use, which has implications for increasing AI adoption and use. Although there are some similarities across groups with varied levels of usage, these groups face different barriers to increasing AI use and have different training and support needs. To maximize the potential of GSA chat and encourage broader GenAI use, we recommend the actions below. 
