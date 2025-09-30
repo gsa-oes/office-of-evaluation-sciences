@@ -13,7 +13,7 @@ domain:
 type: Formative evaluation
 agency: General Services Administration
 status: Complete
-summary: Learning about U.S. General Services Administration employees’ GenAI usage and support needs
+summary: Learning about GSA employees’ GenAI usage and support needs
 featured:
 - 
 ---
