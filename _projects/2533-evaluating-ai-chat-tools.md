@@ -52,7 +52,7 @@ Table 1. The most frequently selected benefits, barriers, drawbacks, and trainin
 
 |  | GenAI-avoidant “Never” users (n=33) | GSA chat-avoidant “Never” users (n=39) |
 | -------- | -------- | -------- |
-| Top benefit selected | Efficiency and time savings; 27% selected no benefits | Efficiency and time savings |
-| Top barrier selected | I don’t think AI is useful for my work | I use a different GenAI tool instead |
-| Top drawback selected | Over reliance, leading to reduced critical thinking | Unsure |
-| Top training selected | Information about what you are and are not allowed to use GSA chat for | Examples of things you can do with GenAI |
+| <b>Top benefit selected</b> | Efficiency and time savings; 27% selected no benefits | Efficiency and time savings |
+| <b>Top barrier selected</b> | I don’t think AI is useful for my work | I use a different GenAI tool instead |
+| <b>Top drawback selected</b> | Over reliance, leading to reduced critical thinking | Unsure |
+| <b>Top training selected</b> | Information about what you are and are not allowed to use GSA chat for | Examples of things you can do with GenAI |
