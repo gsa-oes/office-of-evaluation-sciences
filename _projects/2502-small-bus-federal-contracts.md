@@ -15,9 +15,12 @@ type: Descriptive evaluation
 agency: Small Business Administration
 status: Complete
 summary: Identifying potential opportunities for SBA programs and outreach to support rural small businesses
+summarybox: true
+summary_bullets:
+  - The goal of this evaluation was to help the U.S. Small Business Administration (SBA) identify opportunities to support rural small businesses and increase their participation in federal procurement. 
+  - We found that many rural small businesses are potentially eligible for, but not participating in, SBA certification programs that support small businesses, are relatively under-registered in SAM.gov, and receive a small percent of prime federal awards. 
+  - Across sectors, we estimated that rural small businesses only register to compete for, and win, federal awards at high rates in a small number of sectors; in most sectors they have a very small presence in the federal market. 
 ---
-## Summary
-The goal of this evaluation was to help the U.S. Small Business Administration (SBA) identify opportunities to support rural small businesses and increase their participation in federal procurement. We found that many rural small businesses are potentially eligible for, but not participating in, SBA certification programs that support small businesses, are relatively under-registered in SAM.gov, and receive a small percent of prime federal awards. Across sectors, we estimated that rural small businesses only register to compete for, and win, federal awards at high rates in a small number of sectors; in most sectors they have a very small presence in the federal market. 
 
 ## Agency priority
 Promoting <a class="usa-link usa-link--external" href="https://www.sba.gov/business-guide/grow-your-business/rural-businesses">rural small businesses</a> is an SBA priority under the current Administration, and the agency is making additional resources and financial support available to them. To further these efforts, the SBA is seeking to identify opportunities for expanding the scope of rural small businesses in the federal marketplace and to support more of these firms by expanding the number participating in SBA programs. To better serve this population, the agency needs detailed descriptive information about the industries in which rural small businesses frequently win federal awards or may be undersupplied in the federal market, as well as cases in which rural small businesses are potentially missing out on SBA programs for which they are eligible.
