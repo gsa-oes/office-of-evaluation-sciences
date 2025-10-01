@@ -30,7 +30,7 @@ We partnered with the SBA on a descriptive evaluation of the current state of sm
 ## What we learned
 We found that 9.4% of all small manufacturing firms were registered to do business in SAM.gov. NAICS code 334 (Computer & Electronic Product Manufacturing) has the highest rate of small manufacturing firm participation (54%) followed by 335 (Electrical Equipment, Appliance, and Component Manufacturing) at 25%. Industries with the lowest participation include NAICS codes 321 (Wood Product Manufacturing), 312 (Beverage & Tobacco Product Manufacturing), 311 (Food Manufacturing), and 316 (Leather & Allied Product Manufacturing), all at 2-3%.
 
-Figure 1. The number of available awards and the proportion going to small manufacturing businesses by NAICS code (point labels)
+<b>Figure 1.</b> The number of available awards and the proportion going to small manufacturing businesses by NAICS code (point labels)
 <img src="{{ '/assets/img/project-images/2501-fig1.svg' | prepend: site.baseurl }}" alt="The number of available awards and the proportion going to small manufacturing businesses by NAICS code (point labels)" width="500">
 
 Although 40% of all manufacturing awards go to small manufacturers, the proportion varies considerably by industry (Figure 1); ranging from 6% in NAICS code 321 (Wood Product Manufacturing) to 75% in NAICS code 322 (Paper Manufacturing). NAICS code 311 (Food Manufacturing) includes a large number of awards, with 26% going to small manufacturers.
