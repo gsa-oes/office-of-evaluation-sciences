@@ -14,12 +14,13 @@ type: Formative evaluation
 agency: General Services Administration
 status: Complete
 summary: Learning about employees’ experience and support needs while using AI
+summarybox: true
+summary_bullets:
+  - The goal of this evaluation was to understand how individuals in the U.S. General Services Administration’s (GSA) Gemini artificial intelligence (AI) pilot interacted with AI tools to inform GSA’s future investments and strategy.
+  - We found that frequent AI users' experience varied, they were aware of risks associated with getting inaccurate output, and they wanted more training resources and support.
 featured:
 - services
 ---
-## Summary
-The goal of this evaluation was to understand how individuals in the U.S. General Services Administration’s (GSA) Gemini artificial intelligence (AI) pilot interacted with AI tools to inform GSA’s future investments and strategy. We found that frequent AI users' experience varied, they were aware of risks associated with getting inaccurate output, and they wanted more training resources and support.
-
 ## Agency priority
 GSA is a leader in modernizing and streamlining technology across government, including promoting responsible AI innovation in support of the Administration’s <a class="usa-link usa-link--external" href="https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf">Executive Order</a> to accelerate federal AI use. Providing GSA staff AI tools to support their daily work has the potential to increase efficiency and productivity. It is a GSA priority to learn from AI pilots to inform strategies that support responsible AI innovation during agency-wide rollout, and ultimately enhance government efficiency.
 
