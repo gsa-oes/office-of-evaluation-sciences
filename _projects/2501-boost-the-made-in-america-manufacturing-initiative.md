@@ -15,10 +15,12 @@ type: Descriptive evaluation
 agency: Small Business Administration
 status: Complete
 summary: Identifying potential opportunities for SBA programs and outreach to support small manufacturers
+summarybox: true
+summary_bullets:
+  - The goal of this evaluation was to help the U.S. Small Business Administration (SBA) identify opportunities to support small manufacturing businesses and increase their participation in federal procurement. 
+  - We estimated that 40% of federal manufacturing awards go to small manufacturers, that small manufacturers are relatively under-registered in SAM.gov, and that the prevalence of manufacturing opportunities and awards vary across examined industries. 
+  - We also found that a significant percent of small manufacturing businesses are likely eligible for, but not participating in, SBA certification programs that support small businesses. 
 ---
-## Summary
-The goal of this evaluation was to help the U.S. Small Business Administration (SBA) identify opportunities to support small manufacturing businesses and increase their participation in federal procurement. We estimated that 40% of federal manufacturing awards go to small manufacturers, that small manufacturers are relatively under-registered in SAM.gov, and that the prevalence of manufacturing opportunities and awards vary across examined industries. We also found that a significant percent of small manufacturing businesses are likely eligible for, but not participating in, SBA certification programs that support small businesses.
-
 ## Agency priority
 The SBA’s <a class="usa-link usa-link--external" href="https://www.sba.gov/priorities/american-manufacturers">Made in America Manufacturing Initiative</a> under the current Administration seeks to support small American manufacturing businesses with a variety of services and regulatory changes. Through this initiative, the SBA aims to be responsive to the realities and opportunities in the sector. To better serve this population, the agency needs detailed descriptive information about the number and industries of small manufacturing businesses, their participation in the federal marketplace, and how many are currently connected to their resources. Understanding which industries may be under-represented in federal procurement and which SBA programs may be underutilized by small manufacturers can help the SBA target and implement new initiatives.   
 
