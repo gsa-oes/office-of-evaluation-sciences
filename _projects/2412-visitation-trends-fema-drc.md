@@ -14,6 +14,8 @@ type: Descriptive evaluation
 agency: Homeland Security
 status: Complete
 summary: Exploring trends in the number, purpose, and timing of disaster survivor visits to FEMA DRCs
+featured:
+- services
 ---
 ## What is the agency priority?
 Federally-recognized natural disasters (e.g., wildfire, flood, tornado) can pose <a class="usa-link usa-link--external" href="https://www.dhs.gov/archive/natural-disasters">a significant threat</a> to human health and safety. Disaster survivors may face many challenges in the aftermath of a disaster, including damage to their homes, unemployment, and financial instability. Disaster Recovery Centers (DRCs) are set up by FEMA after federally declared disasters to support survivors as they navigate different supports they can apply for and receive. To date there has been no systematic analysis of the volume, timing, and purpose of visits to DRCs. In collaboration with FEMA, this study seeks to provide insights on trends in DRC visitation in the aftermath of declared disasters. 
