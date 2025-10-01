@@ -17,11 +17,11 @@ type: Impact evaluation
 agency: Small Business Administration
 status: Complete
 summary: Automating market research did not increase federal contracts to small businesses
-
+summarybox: true
+summary_bullets:
+  - The goal of this evaluation was to test whether automating market research, a primary bottleneck in the federal procurement process, increased federal contracts for small businesses. 
+  - We found that automating a key part of the market research process did not increase the probability of a contract to an SBA-certified small business, nor did it lead to a spillover effect on future contracts within the evaluation period. 
 ---
-## Summary 
-The goal of this evaluation was to test whether automating market research, a primary bottleneck in the federal procurement process, increased federal contracts for small businesses. We found that automating a key part of the market research process did not increase the probability of a contract to an SBA-certified small business, nor did it lead to a spillover effect on future contracts within the evaluation period.
-
 ## Agency priority
 Federal contracts accounted for <a class="usa-link usa-link--external" href="https://www.gao.gov/blog/snapshot-government-wide-contracting-fy-2024-interactive-dashboard">over $750 billion</a> in government spending in FY24. It is important that these funds are spent efficiently by optimizing the procurement process as well as awarding federal contracts to the best-suited businesses. 
 
@@ -41,7 +41,7 @@ The percentage of contracts going to SBA-certified small businesses was 4.9% for
 
 We found some evidence from one exploratory test that an office assigned to receive the AMR email, instead of the Encouragement email, obligated more funding to SBA-certified small businesses, though this result is not statistically significant. 
 
-Figure 1. Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses
+<b>Figure 1.</b> Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses
 <img src="{{ '/assets/img/project-images/2405-fig1.svg' | prepend: site.baseurl }}" alt="Automating market research did not significantly increase the proportion of contracts to SBA-certified small businesses" width="500">
 
 Note: *p < 0.05
