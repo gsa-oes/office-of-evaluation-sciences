@@ -14,6 +14,15 @@ The OES team had the pleasure of bringing on seven new fellows in 2020 from vari
  
 As we approach nearly nine months into the COVID-19 pandemic here in Washington D.C., we recognize that this is our first cohort of fellows working with the team entirely remotely. We asked a few of our fellows to reflect on their experiences working with the team this year.
 
+<div class="usa-alert usa-alert--no-icon border-x-0 border-y-1 margin-bottom-1">
+  <div class="usa-alert__body">
+   <p class="font-sans-lg line-height-sans-4 usa-alert__text">“As an academic in the behavioral sciences, I saw this fellowship as an ideal opportunity to execute rigorous evaluations at scale in settings where the findings are immediately relevant and impactful. .”
+   </p>
+   <p class="font-sans-md line-height-sans-3 margin-bottom-1 text-right">— Mattie
+   </p>
+  </div>
+</div>
+
 ### Why did you join OES?
 - **Erin**: The nationwide reach of OES projects has tremendous potential. In particular, building on the foundation laid by the 2018 Evidence Act to shape and deliver on learning agendas across many different government agencies is a unique and momentous opportunity.
 - **Heather**: I’ve been interested for a long time in doing research that’s relevant to public policy, but that can be pretty abstract when you’re sitting in a university. The OES Fellowship seemed like a great way to do that kind of work hands-on, and I’m learning a lot that will shape the research and teaching I do after I go back to my university job. Also, after 8 years at the same institution working on a specific set of projects, it’s been really energizing to dive into a fresh set of challenges with a new batch of collaborators.
