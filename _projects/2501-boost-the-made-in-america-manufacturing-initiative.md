@@ -14,6 +14,8 @@ domain:
 type: Descriptive evaluation
 agency: Small Business Administration
 status: Complete
+featured:
+- services
 summary: Identifying potential opportunities for SBA programs and outreach to support small manufacturers
 summarybox: true
 summary_bullets:
