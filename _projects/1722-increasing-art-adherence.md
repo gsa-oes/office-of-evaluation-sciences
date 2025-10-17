@@ -3,7 +3,6 @@ title: Increasing ART adherence and retention in care for HIV positive women in 
 permalink: /projects/increasing-art-adherence/
 tags:
   - project
-  - USAID
 share_image: /assets/img/project-images/1722.jpg
 image: /assets/img/project-images/1722.webp  
 image_alt_text: Doctor applying a vaccine
