@@ -3,7 +3,6 @@ title:  Increasing utilization of family planning services in Mozambique through
 permalink: /projects/sms-mozambique/
 tags: 
   - project 
-  - USAID
 share_image: /assets/img/project-images/1811updated.jpg
 image: /assets/img/project-images/1811.webp
 image_alt_text: Sliding phone
