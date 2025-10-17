@@ -3,7 +3,6 @@ title:  Preventing malaria during pregnancy
 permalink: /projects/preventing-malaria-during-pregnancy/
 tags:
   - project
-  - USAID
 share_image: /assets/img/project-images/1715.jpg
 image: /assets/img/project-images/1715.webp
 image_alt_text: Pills in palm of hand
