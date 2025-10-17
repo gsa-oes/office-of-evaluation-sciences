@@ -2,7 +2,7 @@
 title: Integrating health care services in Nigeria
 permalink: /projects/aligning-healthcare-services-nigeria/
 tags:
-  - projects
+  - project
 share_image: /assets/img/project-images/mis-nigeria.jpg
 image: /assets/img/project-images/mis-nigeria.webp  
 image_alt_text: Nigerian woman
