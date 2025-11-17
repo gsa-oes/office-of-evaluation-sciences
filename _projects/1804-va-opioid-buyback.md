@@ -45,4 +45,6 @@ Additional cost effectiveness analysis indicated that the reminder cards **reduc
 <p>
 <a class="usa-button" href="https://oes.gsa.gov/blog/1804-costing/" target="_blank">Read the blog: Incorporating costing information</a>
 </p>
+See the [technical appendix]({{site.baseurl}}/assets/files/1804_technical-appendix.pdf).
+
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>.
