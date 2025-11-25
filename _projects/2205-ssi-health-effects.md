@@ -14,12 +14,14 @@ domain: Efficiency and effectiveness
 agency: Social Security Administration
 type: Impact evaluation
 status: Complete
-summary: Enrollment in Supplemental Security Income decreases mortality 
+summary: Enrollment in Supplemental Security Income decreases mortality
+summarybox: true
+summary_bullets:
+  - In 2017, OES and the U.S. Social Security Administration (SSA) collaborated on an evaluation that sent informational letters to a random selection of 400,000 older adults. The letters notified them of their potential eligibility for Supplemental Security Income (SSI) and provided information about the application process, resulting in an increase in SSI enrollment of 1.8 percentage points. 
+  - This follow-up evaluation examined whether enrolling in SSI and receiving benefits reduced mortality among eligible older adults.
+  - Results indicate that enrollment in SSI due to the letter reduced the likelihood of death during the evaluation period, although the size and statistical significance of the estimated reduction in mortality differs between the two pre-registered estimation models. The findings provide evidence that improving service delivery for SSI-eligible older adults can decrease mortality.   
 featured: 
 ---
-## Summary
-In 2017, OES and the U.S. Social Security Administration (SSA) collaborated on an evaluation that sent informational letters to a random selection of 400,000 older adults. The letters notified them of their potential eligibility for Supplemental Security Income (SSI) and provided information about the application process, resulting in an increase in SSI enrollment of 1.8 percentage points. This follow-up evaluation examined whether enrolling in SSI and receiving benefits reduced mortality among eligible older adults. Results indicate that enrollment in SSI due to the letter reduced the likelihood of death during the evaluation period, although the size and statistical significance of the estimated reduction in mortality differs between the two pre-registered estimation models. The findings provide evidence that improving service delivery for SSI-eligible older adults can decrease mortality.  
-
 ## Agency priority
 The SSA is committed to improving the quality of service delivery and streamlining operations to deliver accurate, secure, and timely support to all Americans. This evaluation builds evidence on the impact of outreach to older adults by analyzing the effect of SSI enrollment on mortality.
 
