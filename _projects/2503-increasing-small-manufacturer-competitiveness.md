@@ -3,13 +3,13 @@ title: Increasing the competitiveness of small manufacturers via improved market
 permalink: /2503-increasing-small-manufacturer-competitiveness/
 tags: 
   - project
-share_image: /assets/img/project-images/2503.png
-image: /assets/img/project-images/2503.webp
-image_alt_text: Alt
-image-credit: 
+share_image: /assets/img/project-images/2503-image.png
+image: /assets/img/project-images/2503-image.jpg
+image_alt_text: Man in jacket holding binder of materials
+image-credit: https://www.pexels.com/photo/man-in-blue-suit-jacket-using-silver-macbook-9363125/
 analysis-plan: /assets/analysis/2503-analysis-plan.pdf
 abstract: 
-year: 2026
+year: 2025
 domain:
 type: Impact evaluation
 agency: Small Business Administration
