@@ -5,7 +5,7 @@ permalink: /work/
 image: /assets/img/icons/oes-green.webp
 hide_image: true
 tag: work
-summary: Since 2015, we have completed over 100 evaluations with dozens of agency partners.
+summary: Since 2015, we have completed over 120 evaluations with dozens of agency partners.
 
 filters:
   - key: year
