@@ -17,20 +17,8 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6RUXVPh-Hyc?si=KyCVA8Zss_M6M8d3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-### Submit an application
-<p>The application deadline for the Fall 2025 Evaluation Fellowship has passed. Applications for the Fall 2026 Evaluation Fellowship will be accepted on an ongoing basis and will remain on file until selection begins in January 2026. Eligible applicants may be considered for additional opportunities on an as-needed basis.</p>
-
-<a class="usa-button" href="https://forms.gle/eyUpjBBBPeaCypEi6">Apply now</a>
-
-If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out.
-
-The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment. <a href="https://oes.gsa.gov/blog/alumni/">Learn about former OES Evaluators’ experiences on our blog</a> and <a href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">view the 2025 solicitation (PDF)</a> for more details on the position and the typical applicant profile.
-
-### Eligibility
-Employees of state, local, or Tribal governments, academic institutions, or non-profit organizations are eligible to join the team via the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">Intergovernmental Personnel Act (IPA) Mobility Program</a>. Fellows joining OES through the IPA are not federal employees. OES fellows have come from a variety of universities, non-profits, and government agencies.
-
-Current federal employees can join the team on a temporary, reimbursable detail assignment via an Interagency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
+<br>
+We are not recruiting right now, but you can learn more about the position and what we look for by viewing the <a href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">2025 solicitation (PDF)</a> for more details on the position and the typical applicant profile. 
 
 ## Frequently Asked Questions
 
