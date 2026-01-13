@@ -32,7 +32,7 @@ If I submit an application now, when will it be considered?
       </button>
   </h2>
   <div id="b1" class="usa-accordion__content usa-prose">
-<p>Applications received after the most recent Evaluation Fellowship (Fall 2025) application window will be considered for the following year's Evaluation Fellowship (Fall 2026). OES will begin selecting candidates for the next Evaluation Fellowship in January 2026. Eligible applicants may also be contacted regarding additional opportunities on an as-needed basis.</p>
+<p>We are not recruiting right now, but you can learn more about the position and what we look for by viewing the <a href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">2025 solicitation (PDF)</a> for more details on the position and the typical applicant profile.</p>
    </div>
 </section>
 
