@@ -3,6 +3,7 @@ title: Increasing the competitiveness of small manufacturers via improved market
 permalink: /2503-increasing-small-manufacturer-competitiveness/
 tags: 
   - project
+  - business
 share_image: /assets/img/project-images/2503-image.png
 image: /assets/img/project-images/2503-image.jpg
 image_alt_text: Man in jacket holding binder of materials
