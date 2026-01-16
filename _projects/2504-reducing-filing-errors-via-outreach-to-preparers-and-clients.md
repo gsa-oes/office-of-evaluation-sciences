@@ -3,6 +3,7 @@ title: Reducing filing errors via outreach to tax preparers and clients
 permalink: /-reducing-filing-errors-via-outreach-to-preparers-and-clients/
 tags:
   - project
+  - payments
 share_image: /assets/img/project-images/2504.png
 image: /assets/img/project-images/2504.jpg
 image-credit: https://www.pexels.com/photo/man-couple-people-woman-6963909/
