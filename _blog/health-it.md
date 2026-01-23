@@ -25,5 +25,3 @@ The first intervention <a href="https://oes.gsa.gov/projects/patient-health-data
 ![image]({{site.baseurl}}/assets/img/project-images/blog1table2.webp)
 
 *Table 2: Reminder messages to patients significantly increased patient use of blood glucose flowsheets*
-
-*This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/" target="_blank">here.</a>*
