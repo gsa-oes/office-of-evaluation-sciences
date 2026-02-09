@@ -10,7 +10,7 @@ image_alt_text: Man in jacket holding binder of materials
 image-credit: https://www.pexels.com/photo/man-in-blue-suit-jacket-using-silver-macbook-9363125/
 analysis-plan: /assets/analysis/2503-analysis-plan.pdf
 abstract: 
-year: 2025
+year: 2026
 domain:
 type: Impact evaluation
 agency: Small Business Administration
@@ -34,18 +34,20 @@ The lack of evidence on effective marketing strategies is particularly challengi
 ## How We Evaluated
 We created a capabilities statement template, incorporating existing guidance from the SBA, insights from interviews with federal buyers, and principles of visual design. Working alongside SBA Business Opportunity Specialists and 21 small manufacturing businesses, we co-created updated capabilities statements for each of the firms using the template. We used public data on federal contract opportunities to gather contact information for a sample of 32,759 federal buyers, and then proactively emailed them from December 1-11, 2025. In these emails, we randomized whether the federal buyer was shown a firm’s original capabilities statement or the updated one co-designed with OES. The email included a link to an interest form, which displayed the capabilities statement and asked buyers if they would like to receive additional information about the firm. The main outcomes were clicks to open the interest form (click rate) and requests for additional information (submit rate) received by December 19, 2025, both of which indicate federal buyers’ engagement.
  
-## What we learned
+## What We Learned
 There was no difference in federal buyers’ engagement with the updated vs. original capabilities statements proactively shared via email. 
 
 Among the 32,759 federal buyers in our sample, only 238 (0.73%) clicked on the interest form. As shown in Figure 1, the federal buyers who received an email with an updated capabilities statement had a click rate of 0.65% compared to 0.80% of those shown an original capabilities statement. This represents a non-significant decrease in click rates of 0.15 percentage points among federal buyers shown an updated capabilities statement (p = 0.115, 95% CI [-0.33, 0.04]).
 
 Form submission rates were lower than click rates, with only 14 buyers (0.04%) ultimately submitting the interest form. As shown in Figure 2, 0.024% of federal buyers shown an updated capabilities statement submitted the form compared to 0.061% who were shown an original capabilities statement, a non-significant difference of -0.037 percentage points (p = 0.108, 95% CI [-0.082, 0.008]). 
 
-Figure 1
-The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Clicked To View The Interest Form 
+<b>Figure 1</b>
+<br>
+<i>The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Clicked To View The Interest Form</i> 
 
-Figure 2
-The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Submitted The Interest Form To Receive Additional Information About The Firm
+<b>Figure 2</b>
+<br>
+<i>The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Submitted The Interest Form To Receive Additional Information About The Firm</i> 
 
 In exploratory analysis, we considered several subgroup analyses, but we only observed differential engagement rates among buyers who received the original capabilities statement. Specifically, significantly lower click rates were observed for: (1) buyers whose posted opportunities matched to the firm’s primary NAICS (compared to non-matched); (2) buyers who had a posted an opportunity in a manufacturing NAICS in which the firm works (compared to those who had not); and (3) buyers with a DoD email address (compared to those who did not have a DoD email address). Higher click rates were observed for buyers whose location matched that of the firm (compared to non-location-matched).
 
