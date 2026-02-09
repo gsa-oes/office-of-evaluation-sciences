@@ -38,6 +38,7 @@ We created a capabilities statement template, incorporating existing guidance fr
 There was no difference in federal buyers’ engagement with the updated vs. original capabilities statements proactively shared via email. 
 
 Among the 32,759 federal buyers in our sample, only 238 (0.73%) clicked on the interest form. As shown in Figure 1, the federal buyers who received an email with an updated capabilities statement had a click rate of 0.65% compared to 0.80% of those shown an original capabilities statement. This represents a non-significant decrease in click rates of 0.15 percentage points among federal buyers shown an updated capabilities statement (p = 0.115, 95% CI [-0.33, 0.04]).
+
 Form submission rates were lower than click rates, with only 14 buyers (0.04%) ultimately submitting the interest form. As shown in Figure 2, 0.024% of federal buyers shown an updated capabilities statement submitted the form compared to 0.061% who were shown an original capabilities statement, a non-significant difference of -0.037 percentage points (p = 0.108, 95% CI [-0.082, 0.008]). 
 
 Figure 1
@@ -50,8 +51,9 @@ In exploratory analysis, we considered several subgroup analyses, but we only ob
 
 Finally, we received “undeliverable” notices and particular auto-replies, suggesting that at least 4% of emails did not reach a buyer (for example, because the email address was no longer active or the recipient was no longer in their position). The true rate is likely higher.
 
-## Applying the findings
+## Applying the Findings
 This evaluation provides evidence on the role of a capabilities statement template paired with proactive email marketing in improving federal buyers’ engagement with small manufacturing businesses. We found no effect of the email with the updated capabilities statement template on federal buyers’ engagement, indicating that efforts to support small manufacturing businesses focused on other marketing strategies may be more effective. Additionally, the extremely low engagement rate across all federal buyers, regardless of whether original or updated capabilities statements were presented, suggests that unsolicited emails are not an effective outreach strategy for connecting small businesses with federal buyers, especially during periods of significant change in the federal marketplace. This finding aligns with another recent OES-SBA evaluation that found low engagement rates with emailed content among federal buyers. Future interventions targeting federal buyers could leverage this study’s exploratory findings by prioritizing higher-engagement subgroups who demonstrated higher engagement with the emails. 
+
 The SBA could also explore alternative outreach methods such as warm introductions through existing procurement networks, integration with procurement platforms, and smaller-scale targeted outreach tailored towards federal buyers’ early-stage procurement needs. 
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/blob/master/assets/analysis/2503-analysis-plan.pdf">on GitHub</a>.
