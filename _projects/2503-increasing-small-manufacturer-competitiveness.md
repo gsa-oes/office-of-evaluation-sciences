@@ -46,12 +46,12 @@ Form submission rates were lower than click rates, with only 14 buyers (0.04%) u
 <b>Figure 1</b>
 <br>
 <i>The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Clicked To View The Interest Form</i> 
-<img src="{{ '/assets/img/project-images/2503-fig1.svg' | prepend: site.baseurl }}" alt="The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Clicked To View The Interest Form" width="500">
+<img src="{{ '/assets/img/project-images/2503-fig1.svg' | prepend: site.baseurl }}" alt="The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Clicked To View The Interest Form" width="800">
 
 <b>Figure 2</b>
 <br>
 <i>The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Submitted The Interest Form To Receive Additional Information About The Firm</i> 
-<img src="{{ '/assets/img/project-images/2503-fig2.svg' | prepend: site.baseurl }}" alt="The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Submitted The Interest Form To Receive Additional Information About The Firm" width="500">
+<img src="{{ '/assets/img/project-images/2503-fig2.svg' | prepend: site.baseurl }}" alt="The Updated Capabilities Statement (Received Updated CS) Had No Effect On The Number Of Federal Buyers Who Submitted The Interest Form To Receive Additional Information About The Firm" width="800">
 
 In exploratory analysis, we considered several subgroup analyses, but we only observed differential engagement rates among buyers who received the original capabilities statement. Specifically, significantly lower click rates were observed for: (1) buyers whose posted opportunities matched to the firm’s primary NAICS (compared to non-matched); (2) buyers who had posted an opportunity in a manufacturing NAICS in which the firm works (compared to those who had not); and (3) buyers with a DoD email address (compared to those who did not have a DoD email address). Higher click rates were observed for buyers whose location matched that of the firm (compared to non-location-matched).
 
