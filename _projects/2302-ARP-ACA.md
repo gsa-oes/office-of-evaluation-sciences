@@ -13,6 +13,7 @@ image_alt_text: Tip for enrollment
 image-credit: https://www.healthcare.gov/blog/2022-open-enrollment-days-away/
 analysis-plan: /assets/analysis/2302-ARP-ACA-analysis.pdf
 abstract-web: /results/aca-systematic-review-meta-analysis/
+academic-pub: /assets/publications/2302.pdf
 year: 2023
 type: Descriptive evaluation
 domain: Pandemic Relief and Recovery
