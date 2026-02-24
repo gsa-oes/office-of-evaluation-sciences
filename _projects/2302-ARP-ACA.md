@@ -43,4 +43,7 @@ Notes:
 2. McDermott, Daniel, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/a-closer-look-at-the-uninsured-marketplace-eligible-population-following-the-american-rescue-plan-act/">A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act.</a> 2021. KFF.
 3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/dc73e82abf7fc26b6a8e5cc52ae42d48/aspe-end-mcaid-continuous-coverage.pdf">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20)</a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.
 
+Related publication:
+Martin, L., Feher, A., Schultz, W., Safran, E., & Cohen, A. K. (2024). Interventions to increase Affordable Care Act Marketplace enrollment: A systematic review and meta-analysis. <i>Population Health Management</i>, 27(5), 327–337. https://doi.org/10.1089/pop.2024.0091
+
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2302-ARP-ACA-analysis.pdf">on GitHub</a>.
