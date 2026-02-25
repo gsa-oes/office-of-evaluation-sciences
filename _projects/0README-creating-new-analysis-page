@@ -1,5 +1,12 @@
-Steps to create a new project page for an analysis plan and post to the website:
+Steps to upload an analysis plan
+In the office-of-evaluation-sciences public repo, click into the assets folder. 
+From there, click into the analysis folder.
+On the top right side of the screen, click the button that says Add File.
+Click upload file.
+Drag over the file you want upload into the screen that prompts you to upload.
+Below that, click the green button that says commit changes.
 
+Steps to create a new project page for an analysis plan and post to the website:
 1) In the _projects folder, click "create new file" in the upper right corner
 2) Once the new page opens, in the text box after "/assets/_projects/", type in:
   - the project number (all four digits), followed by a dash
