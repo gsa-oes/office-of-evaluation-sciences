@@ -48,6 +48,6 @@ Additional cost effectiveness analysis indicated that the reminder cards **reduc
 </p>
 See the [technical appendix]({{site.baseurl}}/assets/files/1804_technical-appendix.pdf).
 
-Related publication: Mattie Toma, Russell Burnett, Pompa Debroy, Eugen Dimant, Jean Liu, Elana Safran, Uzaib Saya, and Bill Schultz. "Promoting Safe Opioid Disposal: Experimental Evidence on Behavioral Messaging With Financial Incentives." _Health Economics_ (2026): 1–10. Available at [https://doi.org/10.1002/hec.70085](url).
+Related publication: Mattie Toma, Russell Burnett, Pompa Debroy, Eugen Dimant, Jean Liu, Elana Safran, Uzaib Saya, and Bill Schultz. "Promoting Safe Opioid Disposal: Experimental Evidence on Behavioral Messaging With Financial Incentives." _Health Economics_ (2026): 1–10. Available at <a class="usa-link usa-link--external" href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70085"> https://doi/10.1002/hec.70085</a>.
 
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>.
