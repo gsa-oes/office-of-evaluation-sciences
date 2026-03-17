@@ -9,7 +9,7 @@ summary: Below are selected publications resulting from OES collaborations.
 All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners. More information about publications resulting from OES collaborations can be found on our <a class="usa-link usa-link--external" href="https://scholar.google.com/citations?user=ti96pvAAAAAJ&hl=en">Google Scholar page</a>.
 
 ## 2026
-Mattie Toma, Russell Burnett, Pompa Debroy, Eugen Dimant, Jean Liu, Elana Safran, Uzaib Saya, and Bill Schultz. "Promoting Safe Opioid Disposal: Experimental Evidence on Behavioral Messaging With Financial Incentives." _Health Economics_ (2026): 1–10. Available at [https://doi.org/10.1002/hec.70085](url).
+Mattie Toma, Russell Burnett, Pompa Debroy, Eugen Dimant, Jean Liu, Elana Safran, Uzaib Saya, and Bill Schultz. "Promoting Safe Opioid Disposal: Experimental Evidence on Behavioral Messaging With Financial Incentives." _Health Economics_ (2026): 1–10. Available at <a class="usa-link usa-link--external" href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70085"> https://onlinelibrary.wiley.com/doi/10.1002/hec.70085.</a>
 - This field experiment tested whether behaviorally informed reminder cards increase participation in a financial incentive program for returning unused opioid pills among U.S. Veterans. Relative to a cash incentive alone, the reminder cards increase both the likelihood that patients return unused pills (the extensive margin) and the number of pills returned (the intensive margin). 
 
 ## 2024
