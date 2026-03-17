@@ -10,7 +10,7 @@ image-credit: https://healthesystems.com/workerscomprehensive/jama-examines-pers
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
-publication: /assets/publications/1804.pdf
+academic-pub: /assets/publications/1804.pdf
 year: 2022
 type: Impact evaluation
 status: Complete
