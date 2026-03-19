@@ -3,6 +3,7 @@ title: Increasing Medicaid renewals with text message reminders
 permalink: /projects/2406-increasing-medicaid-renewals-with-texts/
 tags: 
  - project
+ - health insurance
 share_image: /assets/img/project-images/2406.png
 image: /assets/img/project-images/2406.webp 
 image_alt_text: A woman holding her baby and her phone
