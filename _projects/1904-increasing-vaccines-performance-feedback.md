@@ -38,4 +38,6 @@ The results suggest that there was no statistically significant difference in fl
 
 ![image](/assets/img/project-images/1904-graph.webp)
 
+Related publication: Pompa Debroy, Rekha Balu, Russ Burnett, Rebecca Johnson, Heather Barry Kappes, J. M. Wallace, and V. C. Marconi. (2022). “A cluster randomized controlled trial of a modified vaccination clinical reminder for primary care providers.” _Health Psychology_. 
+
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1904-increasing-vaccines-through-performance-feedback.pdf">on GitHub</a>.
