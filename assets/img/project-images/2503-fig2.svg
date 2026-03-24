@@ -98,8 +98,8 @@
 	<rect x="1433.90" y="1646.19" width="1455.23" height="633.93" style="fill:none;stroke:#000000;stroke-opacity:0.00;stroke-width:6.48"/>
 	<rect x="3054.71" y="2028.71" width="1461.71" height="254.64" style="fill:#C55454"/>
 	<rect x="3057.95" y="2031.95" width="1455.23" height="248.16" style="fill:none;stroke:#000000;stroke-opacity:0.00;stroke-width:6.48"/>
-	<text x="2232.23" y="1602.11" style="font-family:'Helvetica';font-size:89.94px;fill:#000000">0.061%</text>
-	<text x="3856.28" y="1987.88" style="font-family:'Helvetica';font-size:89.94px;fill:#000000">0.024%</text>
+	<text x="2232.23" y="1602.11" style="font-family:'Lato';font-size:89.94px;fill:#000000">0.061%</text>
+	<text x="3856.28" y="1987.88" style="font-family:'Lato';font-size:89.94px;fill:#000000">0.024%</text>
 	<line x1="2161.52" y1="1246.05" x2="2161.52" y2="2039.85" style="stroke:#000000;stroke-width:9.72"/>
 	<line x1="2144.64" y1="2039.85" x2="2178.39" y2="2039.85" stroke-linecap="round" style="stroke:#000000;stroke-width:9.72"/>
 	<line x1="2144.64" y1="1246.05" x2="2178.39" y2="1246.05" stroke-linecap="round" style="stroke:#000000;stroke-width:9.72"/>
@@ -108,17 +108,17 @@
 	<line x1="3768.69" y1="1558.41" x2="3802.44" y2="1558.41" stroke-linecap="round" style="stroke:#000000;stroke-width:9.72"/>
 	<line x1="1359.28" y1="2570.23" x2="1359.28" y2="113.40" style="stroke:#000000;stroke-width:6.48"/>
 	<line x1="1359.28" y1="2283.36" x2="1314.39" y2="2283.36" style="stroke:#000000;stroke-width:6.48"/>
-	<text x="1291.78" y="2323.09" style="font-family:'Helvetica';font-size:113.40px;fill:#000000" text-anchor="end">0%</text>
+	<text x="1291.78" y="2323.09" style="font-family:'Lato';font-size:113.40px;fill:#000000" text-anchor="end">0%</text>
 	<line x1="1359.28" y1="184.61" x2="1314.39" y2="184.61" style="stroke:#000000;stroke-width:6.48"/>
-	<text x="1291.78" y="224.34" style="font-family:'Helvetica';font-size:113.40px;fill:#000000" text-anchor="end">1%</text>
-	<text x="914.10" y="1341.90" style="font-family:'Helvetica';font-size:113.40px;fill:#000000" transform="rotate(-90 914.10,1341.90)" text-anchor="middle">Submit rate (%)</text>
-	<text x="1027.50" y="1341.90" style="font-family:'Helvetica';font-size:113.40px;fill:#000000" transform="rotate(-90 1027.50,1341.90)" text-anchor="middle">(95% Confidence Intervals)</text>
+	<text x="1291.78" y="224.34" style="font-family:'Lato';font-size:113.40px;fill:#000000" text-anchor="end">1%</text>
+	<text x="914.10" y="1341.90" style="font-family:'Lato';font-size:113.40px;fill:#000000" transform="rotate(-90 914.10,1341.90)" text-anchor="middle">Submit rate (%)</text>
+	<text x="1027.50" y="1341.90" style="font-family:'Lato';font-size:113.40px;fill:#000000" transform="rotate(-90 1027.50,1341.90)" text-anchor="middle">(95% Confidence Intervals)</text>
 	<line x1="1359.28" y1="2570.23" x2="4587.64" y2="2570.23" style="stroke:#000000;stroke-width:6.48"/>
 	<line x1="2161.52" y1="2570.23" x2="2161.52" y2="2615.29" style="stroke:#000000;stroke-width:6.48"/>
-	<text x="2161.52" y="2716.44" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Original CS</text>
+	<text x="2161.52" y="2716.44" style="font-family:'Lato';font-size:112.56px;fill:#000000" text-anchor="middle">Original CS</text>
 	<line x1="3785.57" y1="2570.23" x2="3785.57" y2="2615.29" style="stroke:#000000;stroke-width:6.48"/>
-	<text x="3785.57" y="2716.44" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Received Updated CS</text>
-	<text x="1378.69" y="2900.07" style="font-family:'Helvetica';font-size:89.94px;fill:#000000"> </text>
-	<text x="1378.69" y="2990.18" style="font-family:'Helvetica';font-size:89.94px;fill:#000000">* p ≤ 0.05 (two-tailed)</text>
-	<text x="1378.69" y="3080.13" style="font-family:'Helvetica';font-size:89.94px;fill:#000000">Note that figure is on a scale from 0-1% for better visualization.</text>
+	<text x="3785.57" y="2716.44" style="font-family:'Lato';font-size:112.56px;fill:#000000" text-anchor="middle">Received Updated CS</text>
+	<text x="1378.69" y="2900.07" style="font-family:'Lato';font-size:89.94px;fill:#000000"> </text>
+	<text x="1378.69" y="2990.18" style="font-family:'Lato';font-size:89.94px;fill:#000000">* p ≤ 0.05 (two-tailed)</text>
+	<text x="1378.69" y="3080.13" style="font-family:'Lato';font-size:89.94px;fill:#000000">Note that figure is on a scale from 0-1% for better visualization.</text>
 </svg>
