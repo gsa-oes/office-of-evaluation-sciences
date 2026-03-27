@@ -12,6 +12,7 @@ summary:
 We partner with agencies across government to provide the following evaluation services:
 
 <h2>Descriptive evaluation</h2>
+We conduct a descriptive evaluation to help better measure and understand what is occurring with your program.
 {% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Descriptive evaluation" %}
 {% if featuredprojects.size == 0 %}
 {% else %}
