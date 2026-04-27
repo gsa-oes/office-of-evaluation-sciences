@@ -34,7 +34,7 @@ Sacarny, A., Safran, E., Steffel, M., Dunham, J. R., Abili, O. D., Mohajeri, L.,
 - In this randomized clinical trial, email alerts failed to detectably reduce concurrent prescribing of opioids and benzodiazepines, which can put patients at risk of overdose. The email alerts had no statistically significant effect on patient receipt of these medications or on practitioner prescribing.
 
 Root, A., Connolly, C., Majors, S., Ahmed, H., & Toma, M. (2022). Electronic blood glucose monitoring impacts on provider and patient behavior. *Journal of the American Medical Informatics Association*, ocac069.
-<a class="usa-link usa-link--external" href=https://academic.oup.com/jamia/article-abstract/29/8/1381/6587354"> https://doi.org/10.1093/jamia/ocac069.</a>
+<a class="usa-link usa-link--external" href="https://doi.org/10.1093/jamia/ocac069"> https://doi.org/10.1093/jamia/ocac069.</a>
 - A large randomized controlled trial tested the impact of multiple interventions to promote use of electronic blood glucose tracking on both health providers and patients.
 -  Available at <a href="https://oes.gsa.gov/assets/publications/1729-publication-electronic-blood-glucose-monitoring-impacts-on-provider-and-patient-behavior.pdf">oes.gsa.gov</a>. 
 
