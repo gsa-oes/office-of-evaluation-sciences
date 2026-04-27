@@ -27,6 +27,7 @@ Kappes, H. B., Toma, M., Balu, R., Burnett, R., Chen, N., Johnson, R., Leight, J
 
 Debroy, P., Balu, R., Burnett, R., Johnson, R., Kappes, H. B., Wallace, J. M., & Marconi, V. C. (2023). A cluster randomized controlled trial of a modified vaccination clinical reminder for primary care providers. <i>Health Psychology</i>, 42(3), 195–204. <a class="usa-link usa-link--external" href="https://doi.org/10.1037/hea0001218"> https://doi.org/10.1037/hea0001218.</a>
 -  We tested a provider-focused vaccination uptake intervention: a modified electronic health record clinical reminder that bundled together three adult vaccination reminders, presented patient vaccination history, and included talking points for providers to address vaccine hesitancy. Conclusion: Provider-focused interventions are a promising way to address vaccine hesitancy, but they may need to be more intensive than a modified clinical reminder to have appreciable effects on vaccination uptake.
+-  Available at <a href="https://oes.gsa.gov/assets/publications/1904.pdf">oes.gsa.gov</a>. 
 
 ## 2022
 Adam Sacarny, Elana Safran, Mary Steffel, Jacob R. Dunham, Orolo D. Abili, Lobat Mohajeri, Patricia T. Oh, Alan Sim, Robert E. Brutcher, and Christopher Spevak. "<a class="usa-link usa-link--external" href="https://jamanetwork.com/journals/jama-health-forum/fullarticle/2796898">Effect of Pharmacist Email Alerts on Concurrent Prescribing of Opioids and Benzodiazepines by Prescribers and Primary Care Managers: A Randomized Clinical Trial</a>." <i>JAMA Health Forum.</i> 3(9):e223378 (2022).
