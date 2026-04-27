@@ -94,7 +94,7 @@ Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). <a class="usa-lin
 - This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 ## 2016
-Boland, A.C. (2016). Behavioral insights for better implementation in government. *Public Administration Review* 76, no. 4 (June 2016).	 
+Boland, A. C. (2016). Behavioral insights for better implementation in government. *Public Administration Review* 76, no. 4 (June 2016).	 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
 U.S. Department of Agriculture. Economic Research Service. (2016). <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/pub-details/?pubid=81870" target="_blank">USDA Microloans for Farmers: Participation Patterns and Effects of Outreach</a>, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. (accessed May 16, 2019).	
