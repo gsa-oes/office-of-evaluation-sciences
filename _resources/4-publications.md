@@ -18,7 +18,7 @@ Hemmeter, J., Phillips, J., Safran, E., & Wilson, N. (2025). Communicating progr
 - Available at <a href="https://oes.gsa.gov/assets/publications/1723.pdf">oes.gsa.gov</a>. 
 
 ## 2024
-Lizzie Martin, Andrew Feher, William Schultz, Elana Safran, and Alison K. Cohen. (2024). Interventions to increase Affordable Care Act Marketplace enrollment: A systematic review and meta-analysis. <i>Population Health Management</i>, 27(5), 327–337. Available at <a class="usa-link usa-link--external" href="https://doi.org/10.1089/pop.2024.0091">https://doi.org/10.1089/pop.2024.0091</a>. 
+Martin, L., Feher, A., Schultz, W., Safran, E., & Cohen, A. K. (2024). Interventions to increase Affordable Care Act Marketplace enrollment: A systematic review and meta-analysis. <i>Population Health Management</i>, 27(5), 327–337. <a class="usa-link usa-link--external" href="https://doi.org/10.1089/pop.2024.0091">https://doi.org/10.1089/pop.2024.0091</a>. 
 - This study summarizes published and unpublished evidence on the efficacy of behaviorally informed interventions designed to encourage enrollment in subsidized health insurance coverage through the Affordable Care Act (ACA) marketplaces, and suggests which administrative burdens might be most relevant for potential enrollees. The meta-analysis found that behaviorally informed interventions can increase ACA marketplace enrollment. Interventions aimed at alleviating compliance costs by providing enrollment support were about three times as effective as information alone.
 
 ## 2023
