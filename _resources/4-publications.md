@@ -81,17 +81,17 @@ Yokum, D., Lauffenburger, J. C., Ghazinouri, R., & Choudhry, N. K. (2018). <a hr
 - This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 ## 2017
-Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025" target="_blank">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> *Health Affairs* 35 no. 3 (2017): 471-479. 
-- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
-
-Sacarny, A., Yokum, D., & Agrawal, S. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061" target="_blank">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> *American Economic Review* 107, no. 5, (2017): 466-470.	
-- This study conducted several randomized letter interventions targeting high-volume prescribers of drugs that can harm patients. It utilized a continuous improvement approach that rapidly evaluates each round and uses the results to inform subsequent work.
+Bowers, J., Higgins, N., Karlan, D., Tulman, S., & Zinman, J. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171060" target="_blank">Challenges to replication and iteration in field experiments: evidence from two direct mail shots,</a> *American Economic Review* 107, no. 5: (2017): 462-465. 	
+- This study conducted field experiments to analyze the effect of two direct mailing techniques on enrollment rates in microloans to farmers. The study found that while borrowing from a government program increased the first year, the direct effect did not replicate in the second year, thus lowering the likelihood of information spillover. 
 
 Goldin, J., Homonoff, T., & Tucker-Ray, W. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171059" target="_blank">Retirement contribution rate nudges and plan participation: evidence from a field experiment,</a> *American Economic Review* 107, no. 5 (2017): 456-461. 	
 - This field experiment analyzes how short messages can increase retirement savings by U.S. military service-members. The study finds that service-members who received a message emphasizing a low contribution rate were more likely to participate in a savings plan than were. service-members whose message emphasized a high contribution rate, or no rate at all. 
 
-Bowers, J., Higgins, N., Karlan, D., Tulman, S., & Zinman, J. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171060" target="_blank">Challenges to replication and iteration in field experiments: evidence from two direct mail shots,</a> *American Economic Review* 107, no. 5: (2017): 462-465. 	
-- This study conducted field experiments to analyze the effect of two direct mailing techniques on enrollment rates in microloans to farmers. The study found that while borrowing from a government program increased the first year, the direct effect did not replicate in the second year, thus lowering the likelihood of information spillover. 
+Sacarny, A., Yokum, D., & Agrawal, S. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061" target="_blank">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> *American Economic Review* 107, no. 5, (2017): 466-470.	
+- This study conducted several randomized letter interventions targeting high-volume prescribers of drugs that can harm patients. It utilized a continuous improvement approach that rapidly evaluates each round and uses the results to inform subsequent work.
+
+Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025" target="_blank">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> *Health Affairs* 35 no. 3 (2017): 471-479. 
+- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 ## 2016
 Boland, A.C. (2016). Behavioral insights for better implementation in government. *Public Administration Review* 76, no. 4 (June 2016).	 
