@@ -82,16 +82,16 @@ Yokum, D., Lauffenburger, J. C., Ghazinouri, R., & Choudhry, N. K. (2018). Lette
 - Ungated access: <a href="https://oes.gsa.gov/assets/publications/15xx%20-%20Yokum%20et%20al%20(2018)%20-%20Letters%20designed%20with%20behavioural%20science%20increase%20influenza%20vaccination%20in%20Medicare%20beneficiaries.pdf">oes.gsa.gov</a>. 
 
 ## 2017
-Bowers, J., Higgins, N., Karlan, D., Tulman, S., & Zinman, J. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171060" target="_blank">Challenges to replication and iteration in field experiments: evidence from two direct mail shots</a>. *American Economic Review, 107*(5): 462-465. 	
+Bowers, J., Higgins, N., Karlan, D., Tulman, S., & Zinman, J. (2017). Challenges to replication and iteration in field experiments: evidence from two direct mail shots. *American Economic Review, 107*(5): 462-465. <a class="usa-link usa-link--external" href="https://doi.org/10.1257/aer.p20171060"> https://doi.org/10.1257/aer.p20171060.</a>
 - This study conducted field experiments to analyze the effect of two direct mailing techniques on enrollment rates in microloans to farmers. The study found that while borrowing from a government program increased the first year, the direct effect did not replicate in the second year, thus lowering the likelihood of information spillover. 
 
-Goldin, J., Homonoff, T., & Tucker-Ray, W. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171059" target="_blank">Retirement contribution rate nudges and plan participation: evidence from a field experiment,</a> *American Economic Review, 107*(5): 456-461. 	
+Goldin, J., Homonoff, T., & Tucker-Ray, W. (2017). Retirement contribution rate nudges and plan participation: evidence from a field experiment. *American Economic Review, 107*(5): 456-461. <a class="usa-link usa-link--external" href="https://doi.org/10.1257/aer.p20171059"> https://doi.org/10.1257/aer.p20171059.</a>
 - This field experiment analyzes how short messages can increase retirement savings by U.S. military service-members. The study finds that service-members who received a message emphasizing a low contribution rate were more likely to participate in a savings plan than were. service-members whose message emphasized a high contribution rate, or no rate at all. 
 
-Sacarny, A., Yokum, D., & Agrawal, S. (2017). <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061" target="_blank">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> *American Economic Review, 107*(5): 466-470.	
+Sacarny, A., Yokum, D., & Agrawal, S. (2017). Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing. *American Economic Review, 107*(5): 466-470. <a class="usa-link usa-link--external" href="https://doi.org/10.1257/aer.p20171061"> https://doi.org/10.1257/aer.p20171061.</a>
 - This study conducted several randomized letter interventions targeting high-volume prescribers of drugs that can harm patients. It utilized a continuous improvement approach that rapidly evaluates each round and uses the results to inform subsequent work.
 
-Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). <a class="usa-link usa-link--external" href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025" target="_blank">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> *Health Affairs, 35*(3): 471-479. 
+Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers. *Health Affairs, 35*(3): 471-479. <a class="usa-link usa-link--external" href="https://doi.org/10.1377/hlthaff.2015.1025"> https://doi.org/10.1377/hlthaff.2015.1025.</a>
 - This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
 
 ## 2016
