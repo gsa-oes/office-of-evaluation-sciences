@@ -10,17 +10,31 @@ summary:
 ## OES Evaluation Fellowship
 <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZc5oDoyAtZH5LEpXoctWVtCQTQQlwN8Vzg9fQXnmDkCe2Wg/viewform">Apply Now!</a></b>
 
-OES Evaluation Fellowships begin in the fall of each year. Selected applicants will serve their one-year fellowship term as Evaluators, joining a team of interdisciplinary experts at the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
+We are currently accepting applications for one-year evaluation fellowships beginning in the fall of 2026. Selected applicants will serve their fellowship term as Evaluators, joining a team of interdisciplinary experts in the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
 
-Our team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. We’re uniquely situated at the center of government to share leading practices, develop resources, and build skills related to evidence and evaluation in the federal workforce. To date, we’ve completed <a href="http://oes.gsa.gov/work">over 130 collaborations</a>, including over 100 impact evaluations, with dozens of agency partners. We follow the best practices in social science research to build evidence in order to be <a href="https://oes.gsa.gov/methods">a leader in transparency and accountability</a>. We form innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as decreasing abandonment of calls to the 988 Suicide & Crisis Lifeline, increasing access to grants for child care providers, and improving government efficiency.
+Our team members work alongside agency collaborators to apply evidence-based insights, make concrete recommendations on how to improve government, and evaluate impact using administrative data. We’re uniquely situated at the center of government to share leading practices, develop resources, and build skills related to evidence and evaluation in the federal workforce. To date, we’ve completed <a href="http://oes.gsa.gov/work">over 130 collaborations</a>, including over 100 impact evaluations, with dozens of agency partners. We follow the best practices in social science research to build evidence in order to be <a href="https://oes.gsa.gov/methods">a leader in transparency and accountability</a>. We form innovative partnerships to tackle some of the most pressing challenges in the United States and abroad, such as improving government efficiency,  reducing improper payments, and supporting veterans.
 
 Fellows join the OES team on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis, and have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for federal employees applying for a rotational detail.
+
+## Join OES - Apply now
+All positions will be remote and location flexible within the United States. Fellows will serve at least a one year term as an Evaluator, with interest and availability to serve full-time in additional years preferred.
+<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZc5oDoyAtZH5LEpXoctWVtCQTQQlwN8Vzg9fQXnmDkCe2Wg/viewform">Submit Your Application Now!</a></b>
+
+The deadline to submit is 11:59 PM ET, Wednesday, June 24, 2026. 
+
+Please apply via the link above. If you are not able to access the Google Forms application, please email oes@gsa.gov for a PDF document to fill out before the deadline.
+
+The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment.
+
+## Eligibility
+Employees of state, local, or Tribal governments, academic institutions, or non-profit organizations are eligible to join the team via the Intergovernmental Personnel Act (IPA) Mobility Program. Through the IPA, Fellows join OES on loan from their home institutions on either a reimbursable or non-reimbursable basis. OES Fellows have come from a variety of universities (e.g., Harvard University, Reed College, Miami University, and University of California, San Diego), non-profits (e.g., ideas42, Association for Psychological Science, and MDRC), and federal departments (e.g., the U.S. Department of Labor, the U.S. Forest Service, and the National Science Foundation). Full-time Fellowships begin in Fall 2026.
+
+Current federal employees can join the team on a temporary, reimbursable detail assignment via an Inter-Agency Agreement (IAA), with negotiable start dates and lengths of assignments (minimum of six months). We’ve had federal employees join the team as detailees from agencies including Treasury, HUD, USDA, DOL, and ED, and have hosted Presidential Management Fellows for rotations as well.
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6RUXVPh-Hyc?si=KyCVA8Zss_M6M8d3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
-We are not recruiting right now, but you can learn more about the position and what we look for by viewing the <a href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">2025 solicitation (PDF)</a> for more details on the position and the typical applicant profile. 
 
 ## Frequently Asked Questions
 
