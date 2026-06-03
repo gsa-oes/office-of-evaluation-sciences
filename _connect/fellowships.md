@@ -94,20 +94,14 @@ When determining which role they are applying for, candidates who are currently 
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b4">
-Is the position paid?
+I saw from the description that Evaluators join OES "on-loan" from other institutions. Does that mean that I cannot apply if I am going to be completing my graduate program before the fellowship starts?
       </button>
   </h2>
   <div id="b4" class="usa-accordion__content usa-prose">
 <p>
-Through the Intergovernmental Personnel Act (IPA) Mobility Program, those selected for the position will continue to be paid by their host institution, and OES will reimburse the institution for the direct costs associated with your rotation. OES will reimburse institutions up to the following limits:
-<ul>    
-<li><u>Associate Evaluators</u>: Up to $125,000 for the employee’s salary and benefits, with additional reimbursement for travel and remote work expenses, per year of full-time work.</li>
-<li><u>Evaluators</u>: Up to $155,000 for the employee’s salary and benefits per year of full-time work.</li>
-<li><u>Senior Evaluators</u>: Up to $180,000 for the employee’s salary and benefits per year of full-time work.</li>
-</ul>
-    <p>For amounts that exceed these reimbursement caps, cost-sharing arrangements will be determined with individual institutions.
-        
-Current federal employees will continue to be paid by their agency, with reimbursement to the agency determined under an Interagency Agreement (IAA). Please note that this is not a temporary promotion opportunity.</p>
+This position will be filled primarily through the Intergovernmental Personnel Act (IPA) Mobility Program, which requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. You can find more information about the IPA in the OES IPA toolkit. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview.
+
+Note that current federal employees can join OES on detail from their agency via an Interagency Agreement (IAA).
     </p>
    </div>
 </section>
@@ -118,12 +112,18 @@ Current federal employees will continue to be paid by their agency, with reimbur
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b5">
-Are there opportunities to join OES other than the Evaluation Fellowship?
+Is the position paid?
       </button>
   </h2>
   <div id="b5" class="usa-accordion__content usa-prose">
 <p>
-As needed, OES will post vacancies for other IPA-eligible positions on this page. We will also link to any federal vacancies, which must be applied to through <a class="usa-link usa-link--external" href="https://www.usajobs.gov/">USAJOBS</a>.
+Through the Intergovernmental Personnel Act (IPA) Mobility Program, selected candidates will continue to be paid by their host institution, and OES will reimburse the institution for the direct costs associated with your rotation. OES will reimburse institutions up to the following limits:
+<ul>
+<li>Associate Evaluators: Up to $125,000 for the employee’s salary and benefits, with additional reimbursement for travel and remote work expenses, per year of full-time work.</li>
+<li>Evaluators: Up to $155,000 for the employee’s salary and benefits per year of full-time work.</li>
+</ul>
+For amounts that exceed these reimbursement caps, cost-sharing arrangements will be determined with individual institutions. 
+Current federal employees will continue to be paid by their agency, with reimbursement to the agency determined under an Interagency Agreement (IAA). Please note that this is not a temporary promotion opportunity.
     </p>
    </div>
 </section>
