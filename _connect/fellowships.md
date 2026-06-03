@@ -24,7 +24,7 @@ All positions will be remote and location flexible within the United States. Fel
 
 <b>The deadline to submit is 11:59 PM ET, Wednesday, June 24, 2026.</b>
 
-Please apply via the link above. If you are not able to access the Google Forms application, please email oes@gsa.gov for a PDF document to fill out before the deadline.
+Please apply via the link above. If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out before the deadline.
 
 The work and role of OES is unique and includes directly designing, implementing, and analyzing evidence-based interventions through impact evaluations in a large-scale federal policy environment. OES Evaluators apply promising interventions at a national scale, reach millions of people, and work closely with key decision makers in government. Evaluators design and direct high-impact evaluations, author academic publications, work on portfolios shaped by agency priorities, and benefit from a dynamic team and flexible federal work environment.
 
@@ -64,7 +64,7 @@ Can I submit my application after the deadline?
       </button>
   </h2>
   <div id="b2" class="usa-accordion__content usa-prose">
-<p>We are holding to a firm application deadline at this time. We do sometimes have need for off-cycle support — if you would like to send your CV and a cover letter to oes@gsa.gov, we are happy to consider you for future opportunities.</p>
+<p>We are holding to a firm application deadline at this time. We do sometimes have need for off-cycle support — if you would like to send your CV and a cover letter to <a href="mailto:oes@gsa.gov">oes@gsa.gov</a>, we are happy to consider you for future opportunities.</p>
    </div>
 </section>
 
@@ -155,7 +155,7 @@ Do I need to be a U.S. citizen to apply?
   </h2>
   <div id="b7" class="usa-accordion__content usa-prose">
 <p>
-No, we encourage candidates that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the OPM website. The Intergovernmental Personnel Agreement (IPA), requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and visa, and allows for the onboarding of non-residents and non-citizens.
+No, we encourage candidates that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the <a href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. The Intergovernmental Personnel Agreement (IPA), requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and visa, and allows for the onboarding of non-residents and non-citizens.
     </p>
    </div>
 </section>
@@ -170,7 +170,7 @@ What are the types of projects OES has worked on in the past?
       </button>
   </h2>
   <div id="b8" class="usa-accordion__content usa-prose">
-<p>To see our past work, please visit our evaluations page and portfolio page.
+<p>To see our past work, please visit our <a href="http://oes.gsa.gov/work">evaluations page</a> and <a href="https://oes.gsa.gov/portfolios/">portfolios page</a>.
     </p>
    </div>
 </section>
