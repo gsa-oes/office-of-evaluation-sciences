@@ -134,12 +134,12 @@ Current federal employees will continue to be paid by their agency, with reimbur
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b6">
-Do I need to be a U.S. citizen to apply?
+My fall semester (Fall 2026) is already scheduled — could I join OES in January 2027?
       </button>
   </h2>
   <div id="b6" class="usa-accordion__content usa-prose">
 <p>
-No, we encourage candidates that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. The Intergovernmental Personnel Agreement (IPA), requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and visa, and allows for the onboarding of non-residents and non-citizens.
+We understand academic timelines are locked well in advance and some candidates have already made commitments for this fall. We encourage you to apply for the 2026 fellowship, and are open to discussing onboarding timelines with selected candidates. In general, we will prioritize individuals that are available in fall 2026, but are open to year-long fellowships which start a bit later in some cases.
     </p>
    </div>
 </section>
@@ -150,12 +150,12 @@ No, we encourage candidates that have authorization for employment or course-of-
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b7">
-What are the types of projects OES has worked on in the past?
+Do I need to be a U.S. citizen to apply?
       </button>
   </h2>
   <div id="b7" class="usa-accordion__content usa-prose">
 <p>
-To see our past work, please visit our <a href="https://oes.gsa.gov/work">evaluations page</a> and <a href="https://oes.gsa.gov/portfolios">portfolios page</a>.
+No, we encourage candidates that have authorization for employment or course-of-study-related work in the United States to apply. You can find more information on the OPM website. The Intergovernmental Personnel Agreement (IPA), requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and visa, and allows for the onboarding of non-residents and non-citizens.
     </p>
    </div>
 </section>
@@ -166,18 +166,11 @@ To see our past work, please visit our <a href="https://oes.gsa.gov/work">evalua
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b8">
-What type of writing sample should I submit with my application?
+What are the types of projects OES has worked on in the past?
       </button>
   </h2>
   <div id="b8" class="usa-accordion__content usa-prose">
-<p>
-An ideal writing sample would demonstrate three things:
-<ul>  
-<li>the ability to conduct rigorous research</li>
-<li>knowledge of the relevant subject matter area</li>
-<li>precision, conciseness, and clarity in writing.</li>
-</ul>
-    <p>An academic paper (working or published) that you personally wrote is most helpful, as are any shorter pieces you might have written for a broader audience (such as a memo or blog).</p>
+<p>To see our past work, please visit our evaluations page and portfolio page.
     </p>
    </div>
 </section>
@@ -188,15 +181,54 @@ An ideal writing sample would demonstrate three things:
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b9">
-Do you have guidance for people with active grants or other ongoing commitments?
+Do you offer summer internships?
       </button>
   </h2>
   <div id="b9" class="usa-accordion__content usa-prose">
 <p>
-Those selected for the position will undergo a briefing with the GSA Office of General Counsel to identify and mitigate any conflicts of interest arising from active grants or other obligations. From a time commitment perspective, while schedules at OES are flexible, please let us know during the selection process whether your ongoing work prevents you from serving at OES in a full-time capacity. 
+OES is not currently seeking summer interns, as we believe the value derived from supporting our work lends itself to a longer timeline — individual projects often take longer than 2-3 months to complete.
     </p>
    </div>
 </section>
+
+<section class="usa-accordion featured bg-white padding-1">
+  <h2 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b10">
+What type of writing sample should I submit with my application?
+      </button>
+  </h2>
+  <div id="b10" class="usa-accordion__content usa-prose">
+<p>
+An ideal writing sample would demonstrate three things:
+<ul>
+<li>The ability to conduct rigorous research</li>
+<li>Knowledge of the relevant subject matter area</li>
+<li>Precision, conciseness, and clarity in writing</li>
+</ul>
+An academic paper (working or published) that you personally wrote is most helpful, as are any shorter pieces you might have written for a broader audience (such as a memo or blog).
+    </p>
+   </div>
+</section>
+
+<section class="usa-accordion featured bg-white padding-1">
+  <h2 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b11">
+Do you have guidance for people with active grants or other ongoing commitments?
+      </button>
+  </h2>
+  <div id="b11" class="usa-accordion__content usa-prose">
+<p>
+Selected candidates will undergo a briefing with the GSA Office of General Counsel to identify and mitigate any conflicts of interest arising from active grants or other obligations. From a time commitment perspective, while schedules at OES are flexible, please let us know during the selection process whether your ongoing work prevents you from serving at OES in a full-time capacity. 
+    </p>
+   </div>
+</section>
+
 
 <section class="usa-section bg-white">
   {% include contact.html %}
