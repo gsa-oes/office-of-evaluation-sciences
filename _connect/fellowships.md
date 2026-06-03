@@ -46,11 +46,11 @@ Current federal employees can join the team on a temporary, reimbursable detail 
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b1">
-If I submit an application now, when will it be considered?
+Do I need to be able to relocate to Washington, D.C.?
       </button>
   </h2>
   <div id="b1" class="usa-accordion__content usa-prose">
-<p>We are not recruiting right now, but you can learn more about the position and what we look for by viewing the <a href="https://oes.gsa.gov/assets/files/FY25-fellowship-solicitation.pdf">2025 solicitation (PDF)</a> for more details on the position and the typical applicant profile.</p>
+<p>No, you do not need to relocate to Washington, D.C. All positions will be remote within the United States.</p>
    </div>
 </section>
 
