@@ -74,17 +74,17 @@ Can I submit my application after the deadline?
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b3">
-I saw from the description that Evaluators join OES "on-loan" from other institutions. What does this mean?
+What is the difference between Associate Evaluators and Evaluators?
       </button>
   </h2>
   <div id="b3" class="usa-accordion__content usa-prose">
 <p>
-This is a detail opportunity through the Intergovernmental Personnel Act (IPA) Mobility Program for employees of eligible organizations. The IPA requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. Those joining OES via the IPA remain employees of their organization and are not federal employees.
-    
-You can find more information about the IPA in the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">OES IPA toolkit</a> or on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview. 
-
-Note that current federal employees can join OES on detail from their agency via an Interagency Agreement (IAA).
-    </p>
+OES recruits individuals for this position at different levels of education and experience:
+<ul>
+<li>Associate Evaluators typically have a masters degree and 2-4 years of relevant experience in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).</li>
+<li>Evaluators typically have a master’s degree and 5-7 years of relevant experience.</li>
+</ul>
+When determining which role they are applying for, candidates who are currently enrolled in a doctoral program may substitute education for 1 year of relevant experience. Those with a doctoral degree may substitute education for 2 years of relevant experience.</p>
    </div>
 </section>
 
