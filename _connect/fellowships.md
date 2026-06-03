@@ -60,19 +60,11 @@ Do I need to be able to relocate to Washington, D.C.?
       class="usa-accordion__button"
       aria-expanded="false"
       aria-controls="b2">
-What is the difference between Associate Evaluators, Evaluators, and Senior Evaluators?
+Can I submit my application after the deadline?
       </button>
   </h2>
   <div id="b2" class="usa-accordion__content usa-prose">
-<p>
-    OES recruits individuals for this position at different levels of education and experience:
-<ul>    
-<li><u>Associate Evaluators</u> typically have a master's degree and 2-4 years of relevant experience in a social or behavioral science field (e.g., economics, psychology, political science, statistics, sociology, public policy, business, etc.).</li>
-<li><u>Evaluators</u> typically have a master’s degree and 5-7 years of relevant experience.</li>
-<li><u>Senior Evaluators</u> typically have a master’s degree and 8 or more years of experience.</li>
-</ul>
-    <p>When determining which role they are applying for, candidates who are currently enrolled in a doctoral program may substitute education for 1 year of relevant experience. Those with a doctoral degree may substitute education for 2 years of relevant experience.</p>
-    </p>
+<p>We are holding to a firm application deadline at this time. We do sometimes have need for off-cycle support — if you would like to send your CV and a cover letter to oes@gsa.gov, we are happy to consider you for future opportunities.</p>
    </div>
 </section>
 
