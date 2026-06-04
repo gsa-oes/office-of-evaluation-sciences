@@ -16,8 +16,10 @@ Our team members work alongside agency collaborators to apply evidence-based ins
 
 Fellows join the OES team on-loan from academic, nonprofit, or government offices on either a reimbursable or non-reimbursable basis, and have come from a variety of universities, non-profits, and federal departments. There is additional flexibility for federal employees applying for a rotational detail.
 
+<a href="https://oes.gsa.gov/assets/files/FY26-fellowship-solicitation.pdf">Read the solicitation (PDF)</a> to learn more.
+
 ## Join OES - Apply now
-All positions will be remote and location flexible within the United States. Fellows will serve at least a one year term as an Evaluator, with interest and availability to serve full-time in additional years preferred.
+All positions will be remote and location flexible within the United States. Fellows will serve at least a one year term as an Evaluator, with interest and availability to serve full-time in additional years preferred. 
 <br>
 <br>
 ## <b><a href="https://docs.google.com/forms/d/1RTnyhercGO4G3mE-diS4TWv4aPjpehD4_-knYoVnJ6s/edit">Submit Your Application Now!</a></b>
