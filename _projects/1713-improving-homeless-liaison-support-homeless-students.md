@@ -32,3 +32,5 @@ LEAs were randomly assigned to use one of two conditions: 1. less frequent, more
 
 ## What was the impact?
 After the school year, LEAs in the intervention group identified on average 3.62 more homeless students, a 12% relative change compared to the control group baseline average.
+
+<b>Related publication:</b> Shephard, D. D., Hall, C. C., & Lamberton, C. (2020). Increasing identification of homeless students: An experimental evaluation of increased communication incorporating behavioral insights. Educational Researcher, 50(4), 239-248. <a class="usa-link usa-link--external" href="https://doi.org/10.3102/0013189X20981067">https://doi.org/10.3102/0013189X20981067</a>.

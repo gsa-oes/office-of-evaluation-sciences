@@ -50,4 +50,6 @@ In summary, a FSP can be an important tool to accelerate and broaden access to a
 
 Read the [technical appendix]({{site.baseurl}}/assets/abstracts/2301-technical-appendix.pdf).
 
+<b>Related publication:</b> Simko, T., & Johnson, R. A. (2026). Alleviating administrative burdens in rental assistance promotes access and program efficiency. Proceedings of the National Academy of Sciences, 123(20). <a class="usa-link usa-link--external" href="https://doi.org/10.1073/pnas.2512756123">https://doi.org/10.1073/pnas.2512756123</a>.
+
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2301-era-grantee-flexibilities-va-analysis-plan.pdf">on GitHub</a>.
