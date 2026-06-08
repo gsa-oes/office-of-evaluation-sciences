@@ -10,7 +10,6 @@ image-credit: https://healthesystems.com/workerscomprehensive/jama-examines-pers
 analysis-plan: /assets/analysis/1804-analysis-plan.pdf
 abstract: /results/opioid-buyback/
 intervention: /assets/interventions/1804-VA-opioid-buyback-intervention-pack.pdf
-academic-pub: /assets/publications/1804.pdf
 year: 2022
 type: Impact evaluation
 status: Complete
@@ -18,7 +17,6 @@ domain: Health
 agency: Veterans Affairs
 summary: Reminder cards increased the return of unused prescription opioids
 featured:
-- homepage
 - services
 ---
 ## What was the challenge?
@@ -43,11 +41,11 @@ Additional cost effectiveness analysis indicated that the reminder cards **reduc
 - When using reminder cards, the cost per pill returned was $12.57.
 - When no reminder cards were used, the cost per pill returned was $15.66.
 <br>
-<p>
+
 <a class="usa-button" href="https://oes.gsa.gov/blog/1804-costing/" target="_blank">Read the blog: Incorporating costing information</a>
-</p>
+
 See the [technical appendix]({{site.baseurl}}/assets/files/1804_technical-appendix.pdf).
 
-Related publication: Mattie Toma, Russell Burnett, Pompa Debroy, Eugen Dimant, Jean Liu, Elana Safran, Uzaib Saya, and Bill Schultz. "Promoting Safe Opioid Disposal: Experimental Evidence on Behavioral Messaging With Financial Incentives." _Health Economics_ (2026): 1–10. Available at <a class="usa-link usa-link--external" href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70085"> https://doi/10.1002/hec.70085</a>.
+<b>Related publication:</b> Mattie Toma, Russell Burnett, Pompa Debroy, Eugen Dimant, Jean Liu, Elana Safran, Uzaib Saya, and Bill Schultz. "Promoting Safe Opioid Disposal: Experimental Evidence on Behavioral Messaging With Financial Incentives." <i><Health Economics</i> (2026): 1–10. <a class="usa-link usa-link--external" href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70085"> https://doi/10.1002/hec.70085</a>.
 
 Verify the upload date of our Analysis Plan <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/1804-analysis-plan.pdf">on GitHub</a>.
