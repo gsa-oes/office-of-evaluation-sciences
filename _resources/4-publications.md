@@ -63,7 +63,7 @@ Shephard, D. D., Hall, C. C., & Lamberton, C. (2020). Increasing identification 
 <a href="https://oes.gsa.gov/assets/publications/1713.pdf">Ungated access</a>. 
 
 ## 2019
-Chen, N., Debroy, P., Hall, S., & Le, Q. (2019, March-April). Postcards-increasing vaccination rates among elderly: U.S. Office of Evaluation Sciences and LDH Immunization Program. _Louisiana Morbidity Report, 30_(2):3. <a class="usa-link usa-link--external" href="http://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/infectious-epi/LMR/2011-2020/2019/marapr19.pdf#page=3"> https://ldh.la.gov/news/.</a>
+<b>Related publication:</b> Chen, N., Debroy, P., Hall, S., & Le, Q. (2019, March-April). Postcards-increasing vaccination rates among elderly: U.S. Office of Evaluation Sciences and LDH Immunization Program. Louisiana Morbidity Report, 30(2):3. <a class="usa-link usa-link--external" href="https://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/infectious-epi/LMR/2011-2020/2019/marapr19.pdf#page=3">https://ldh.la.gov/news/</a>
 - This collaboration between OES and the Louisiana Department of Health Immunization Program evaluated the effect of sending a postcard reminder on elderly vaccination rates. This study showed that a postcard reminder can encourage the elderly to vaccinate, and that the timing of that reminder matters.
 
 Leight, J., & Safran, E. (2019). Increasing immunization compliance among schools and day care centers: Evidence from a randomized controlled trial. *Journal of Behavioral Public Administration, 2*(2). <a class="usa-link usa-link--external" href="https://doi.org/10.30636/jbpa.22.55"> https://doi.org/10.30636/jbpa.22.55</a>.
