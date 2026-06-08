@@ -30,9 +30,7 @@ CMS identified potential improper prescribers (those who prescribed far more tha
 ## What was the impact?
 Using data collected over the 90 days after the letter was mailed, comparisons failed to detect an effect of the letter on Schedule II prescribing.
 
-Related publications:
-<br>
-Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Agrawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> <i>Health Affairs</i> 35 no. 3 (2017): 471-479. 
-<br>
-
-Adam Sacarny, David Yokum, and Shantanu Agrawal. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> <i>American Economic Review</i> 107, no. 5, (2017): 466-470.	
+<b>Related publications:</b> 
+- Sacarny, A., Barnett, M. L., & Agrawal, S. (2019). New evidence on stemming low-value prescribing. NEJM Catalyst, April 10, 2019. <a class="usa-link usa-link--external" href="catalyst.nejm.org/new-evidence-stemming-overprescribing/">catalyst.nejm.org/new-evidence-stemming-overprescribing/</a>.
+- Adam Sacarny, David Yokum, Amy Finkelstein, and Shantanu Agrawal. <a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2015.1025">Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers.</a> Health Affairs 35 no. 3 (2017): 471-479. 
+- Adam Sacarny, David Yokum, and Shantanu Agrawal. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171061">Government-academic partnerships in randomized evaluations: the case of inappropriate prescribing,</a> American Economic Review 107, no. 5, (2017): 466-470.	
