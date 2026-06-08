@@ -17,7 +17,8 @@ Simko, T., & Johnson, R. A. (2026). Alleviating administrative burdens in rental
 
 
 ## 2025
-Hemmeter, J., Phillips, J., Safran, E., & Wilson, N. (2025). Communicating program eligibility: A Supplemental Security Income (SSI) field experiment. American Economic Journal: Economic Policy, 17 (2): 446–70. <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/pol.20210560&from=f"> https://doi.org/10.1257/pol.20210560</a>.
+
+Hemmeter, J., Phillips, J., Safran, E., & Wilson, N. (2025). Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment. American Economic Journal: Economic Policy, 17(2), 446–470. <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/pol.20210560&from=f"> https://doi.org/10.1257/pol.20210560</a>.
 - We conducted a direct mail field experiment with 4,016,461 individuals to test several key hypotheses about why take-up of Supplemental Security Income among individuals age 65 and above is so low. Communicating likely eligibility in a basic letter generated substantial increases in take-up in relative terms. Yet, the application rate in our study sample during the full 24-month follow-up period remained no greater than 7%. Our results reveal a modest tradeoff between increasing applications and the conditional likelihood of award, as well as the award amount.
 <a href="https://oes.gsa.gov/assets/publications/1723.pdf">Ungated access</a>. 
 
