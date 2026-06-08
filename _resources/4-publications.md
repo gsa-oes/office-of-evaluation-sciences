@@ -102,5 +102,6 @@ Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). Medicare letters 
 Boland, A. C. (2016). Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016). 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
-USDA Microloans for Farmers: Participation Patterns and Effects of Outreach | <i>Economic Research Service</i>. (2016). Usda.gov. <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/81870">https://www.ers.usda.gov/publications/81870</a>.
+Tulman, Sarah, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. USDA Microloans for Farmers: Participation Patterns and Effects
+of Outreach, ERR-222, U.S. Department of Agriculture, Economic Research Service, December 2016. <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/81870">https://www.ers.usda.gov/publications/81870</a>.
 - U.S. Department of Agriculture, Farm Service Agency’s (FSA) Microloan program, launched in 2013, aims to better serve the credit needs of several types of farmers: small, beginning, veteran, and/or from historically socially disadvantaged groups (women and minorities). ERS researchers investigate the composition of Microloan borrowers and the receipt of these loans by new FSA borrowers.
