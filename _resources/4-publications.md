@@ -62,7 +62,6 @@ Leight, J., & Wilson, N. (2020). Framing flexible spending accounts: A large-sca
 
 Shephard, D. D., Hall, C. C., & Lamberton, C. (2020). Increasing identification of homeless students: An experimental evaluation of increased communication incorporating behavioral insights. Educational Researcher, 50(4), 239-248. <a class="usa-link usa-link--external" href="https://doi.org/10.3102/0013189X20981067">https://doi.org/10.3102/0013189X20981067</a>.
 - Across 1,732 local education agencies in New Jersey, New Mexico, and New York, we conducted a randomized controlled trial of increased email communication incorporating behavioral insights targeting homeless liaison staff in order to increase the identification of homeless students. The intervention had an impact on the mean number of identified homeless students among the treatment local education agencies.
-<a href="https://oes.gsa.gov/assets/publications/1713.pdf">Ungated access</a>. 
 
 ## 2019
 Chen, N., Debroy, P., Hall, S., & Le, Q. (2019, March-April). Postcards-increasing vaccination rates among elderly: U.S. Office of Evaluation Sciences and LDH Immunization Program. Louisiana Morbidity Report, 30(2):3. <a class="usa-link usa-link--external" href="https://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/infectious-epi/LMR/2011-2020/2019/marapr19.pdf#page=3">https://ldh.la.gov/news/</a>.
