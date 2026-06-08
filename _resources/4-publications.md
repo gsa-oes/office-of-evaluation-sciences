@@ -17,7 +17,8 @@ Simko, T., & Johnson, R. A. (2026). Alleviating administrative burdens in rental
 
 
 ## 2025
-Hemmeter, J., Phillips, J., Safran, E., & Wilson, N. (2025). Communicating program eligibility: A Supplemental Security Income (SSI) field experiment. American Economic Journal: Economic Policy, 17 (2): 446–70. <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/pol.20210560&from=f"> https://doi.org/10.1257/pol.20210560</a>.
+
+Hemmeter, J., Phillips, J., Safran, E., & Wilson, N. (2025). Communicating Program Eligibility: A Supplemental Security Income (SSI) Field Experiment. American Economic Journal: Economic Policy, 17(2), 446–470. <a class="usa-link usa-link--external" href="https://www.aeaweb.org/articles?id=10.1257/pol.20210560&from=f"> https://doi.org/10.1257/pol.20210560</a>.
 - We conducted a direct mail field experiment with 4,016,461 individuals to test several key hypotheses about why take-up of Supplemental Security Income among individuals age 65 and above is so low. Communicating likely eligibility in a basic letter generated substantial increases in take-up in relative terms. Yet, the application rate in our study sample during the full 24-month follow-up period remained no greater than 7%. Our results reveal a modest tradeoff between increasing applications and the conditional likelihood of award, as well as the award amount.
 <a href="https://oes.gsa.gov/assets/publications/1723.pdf">Ungated access</a>. 
 
@@ -62,7 +63,6 @@ Leight, J., & Wilson, N. (2020). Framing flexible spending accounts: A large-sca
 
 Shephard, D. D., Hall, C. C., & Lamberton, C. (2020). Increasing identification of homeless students: An experimental evaluation of increased communication incorporating behavioral insights. Educational Researcher, 50(4), 239-248. <a class="usa-link usa-link--external" href="https://doi.org/10.3102/0013189X20981067">https://doi.org/10.3102/0013189X20981067</a>.
 - Across 1,732 local education agencies in New Jersey, New Mexico, and New York, we conducted a randomized controlled trial of increased email communication incorporating behavioral insights targeting homeless liaison staff in order to increase the identification of homeless students. The intervention had an impact on the mean number of identified homeless students among the treatment local education agencies.
-<a href="https://oes.gsa.gov/assets/publications/1713.pdf">Ungated access</a>. 
 
 ## 2019
 Chen, N., Debroy, P., Hall, S., & Le, Q. (2019, March-April). Postcards-increasing vaccination rates among elderly: U.S. Office of Evaluation Sciences and LDH Immunization Program. Louisiana Morbidity Report, 30(2):3. <a class="usa-link usa-link--external" href="https://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/infectious-epi/LMR/2011-2020/2019/marapr19.pdf#page=3">https://ldh.la.gov/news/</a>.
@@ -96,11 +96,12 @@ Sacarny, A., Yokum, D., & Agrawal, S. (2017). Government-academic partnerships i
 - This study conducted several randomized letter interventions targeting high-volume prescribers of drugs that can harm patients. It utilized a continuous improvement approach that rapidly evaluates each round and uses the results to inform subsequent work.
 
 Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers. Health Affairs, 35(3): 471-479. <a class="usa-link usa-link--external" href="URL">https://doi.org/10.1377/hlthaff.2015.1025</a>.
-- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program.  <a href="https://oes.gsa.gov/assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf">Ungated access.</a>
+- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. <a href="https://oes.gsa.gov/assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf">Ungated access.</a>
 
 ## 2016
 Boland, A. C. (2016). Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016). 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
-U.S. Department of Agriculture. Economic Research Service. (2016). <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/81870">USDA Microloans for Farmers: Participation Patterns and Effects of Outreach</a>, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. (accessed May 16, 2019).	
-- U.S. Department of Agriculture, Farm Service Agency’s (FSA) Microloan program, launched in 2013, aims to better serve the credit needs of several types of farmers: small, beginning, veteran, and/or from historically socially disadvantaged groups (women and minorities). ERS researchers investigate the composition of Microloan borrowers and the receipt of these loans by new FSA borrowers.
+Tulman, Sarah, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. USDA Microloans for Farmers: Participation Patterns and Effects
+of Outreach, ERR-222, U.S. Department of Agriculture, Economic Research Service, December 2016. <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/81870">https://www.ers.usda.gov/publications/81870</a>.
+- U.S. Department of Agriculture, Farm Service Agency’s (FSA) Microloan program, launched in 2013, aims to better serve the credit needs of several types of farmers: small, beginning, veteran, and/or from historically socially disadvantaged groups (women and minorities). ERS researchers investigate the composition of Microloan borrowers and the receipt of these loans by new FSA borrowers. <a href="https://oes.gsa.gov/assets/publications/ERR-222.pdf">Ungated access</a>.
