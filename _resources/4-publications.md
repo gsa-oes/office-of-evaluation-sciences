@@ -96,11 +96,11 @@ Sacarny, A., Yokum, D., & Agrawal, S. (2017). Government-academic partnerships i
 - This study conducted several randomized letter interventions targeting high-volume prescribers of drugs that can harm patients. It utilized a continuous improvement approach that rapidly evaluates each round and uses the results to inform subsequent work.
 
 Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers. Health Affairs, 35(3): 471-479. <a class="usa-link usa-link--external" href="URL">https://doi.org/10.1377/hlthaff.2015.1025</a>.
-- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program.  <a href="https://oes.gsa.gov/assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf">Ungated access.</a>
+- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. <a href="https://oes.gsa.gov/assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf">Ungated access.</a>
 
 ## 2016
 Boland, A. C. (2016). Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016). 
 - This article discusses the behavioral insights learned and successful interventions implemented from the Social and Behavioral Sciences Team one year after its establishment.
 
-U.S. Department of Agriculture. Economic Research Service. (2016). <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/81870">USDA Microloans for Farmers: Participation Patterns and Effects of Outreach</a>, by Sarah Tulman, Nathaniel Higgins, Robert Williams, Michael Gerling, Charles Dodson, and Bruce McWilliams. Economic Research Report No. (ERR-222). Washington DC: USDA, 2016. (accessed May 16, 2019).	
+USDA Microloans for Farmers: Participation Patterns and Effects of Outreach | <i>Economic Research Service</i>. (2016). Usda.gov. <a class="usa-link usa-link--external" href="https://www.ers.usda.gov/publications/81870">https://www.ers.usda.gov/publications/81870</a>.
 - U.S. Department of Agriculture, Farm Service Agency’s (FSA) Microloan program, launched in 2013, aims to better serve the credit needs of several types of farmers: small, beginning, veteran, and/or from historically socially disadvantaged groups (women and minorities). ERS researchers investigate the composition of Microloan borrowers and the receipt of these loans by new FSA borrowers.
