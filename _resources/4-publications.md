@@ -96,7 +96,7 @@ Sacarny, A., Yokum, D., & Agrawal, S. (2017). Government-academic partnerships i
 - This study conducted several randomized letter interventions targeting high-volume prescribers of drugs that can harm patients. It utilized a continuous improvement approach that rapidly evaluates each round and uses the results to inform subsequent work.
 
 Sacarny, A., Yokum, D., Finkelstein, A., & Agrawal, S. (2017). Medicare letters to curb overprescribing of controlled substances had no detectable effect on providers. Health Affairs, 35(3): 471-479. <a class="usa-link usa-link--external" href="URL">https://doi.org/10.1377/hlthaff.2015.1025</a>.
-- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program. 
+- This study used a randomized controlled trial approach to evaluate a low-cost, light-touch intervention aimed at reducing the inappropriate provision of Schedule II controlled substances in the Medicare Part D Program.  <a href="https://oes.gsa.gov/assets/publications/1510-medicare-letters-to-curb-overprescribing.pdf">Ungated access.</a>
 
 ## 2016
 Boland, A. C. (2016). Behavioral insights for better implementation in government. Public Administration Review 76, no. 4 (June 2016). 
