@@ -23,12 +23,10 @@ This study tested whether a behaviorally-informed letter would encourage SSI rec
 
 ![image]({{site.baseurl}}/assets/img/project-images/blog3table1.webp)
 
-*Table 1: Letters to SSI recipients significantly increased timely reporting of wages*
+*Table 1 .Letters to SSI recipients significantly increased timely reporting of wages*
 
 Taking on this type of evidence-building project to meet a specific agency goal—reducing improper payments demonstrates the Agency’s commitment to being a good steward of the programs it administers. SSA plans to build on this experience in at least two ways: 
 First, by making further improvements to the letters by highlighting other important reporting responsibilities. 
 Second, by improving the target efficiency of the notice using administrative data and the results of this evaluation. 
 
-Once SSA has refined the letters, they will develop a proposal to send the letters to the entire target population on a regular basis.  
-
-*This project was presented at the 2019 Annual Event. See the recording and presentation slides <a href="https://oes.gsa.gov/2019annualevent/" target="_blank">here.</a>*
+Once SSA has refined the letters, they will develop a proposal to send the letters to the entire target population on a regular basis.
