@@ -16,6 +16,7 @@ type: Impact evaluation
 agency: Small Business Administration
 status: Complete
 featured:
+- homepage
 summary: Emailing federal buyers with templated capabilities statements did not increase federal buyers’ engagement with small businesses
 summarybox: true
 summary_bullets:
