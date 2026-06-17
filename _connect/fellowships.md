@@ -24,7 +24,7 @@ All positions will be remote and location flexible within the United States. Fel
 <br>
 ## <b><a href="https://docs.google.com/forms/d/1RTnyhercGO4G3mE-diS4TWv4aPjpehD4_-knYoVnJ6s/edit">Submit Your Application Now!</a></b>
 
-<b>The deadline to submit is 11:59 PM ET, Wednesday, June 24, 2026.</b>
+<b>The deadline to submit is 11:59 PM ET, Sunday, June 28, 2026.</b>
 
 Please apply via the link above. If you are not able to access the Google Forms application, please email <a href="mailto:oes@gsa.gov">oes@gsa.gov</a> for a PDF document to fill out before the deadline.
 
