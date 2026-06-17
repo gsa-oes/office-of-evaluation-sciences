@@ -6,7 +6,7 @@ hide_image: true
 class: color orange
 summary: Below are selected publications resulting from OES collaborations.
 ---
-All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners. More information about publications resulting from OES collaborations can be found on our <a class="usa-link usa-link--external" href="https://scholar.google.com/citations?user=ti96pvAAAAAJ&hl=en">Google Scholar page</a>.
+All of our work is available on our website, regardless of outcome, in line with research best practices. Our first priority is to make project results accessible and actionable for agency partners.
 
 ## 2026
 Toma, M., Burnett, R., Debroy, P., Dimant, E., Liu, J., Safran, E., Saya, U., & Schultz, B. (2026). Promoting safe opioid disposal: Experimental evidence on behavioral messaging with financial incentives. Health Economics, 1–10. <a class="usa-link usa-link--external" href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70085"> https://doi/10.1002/hec.70085</a>.
