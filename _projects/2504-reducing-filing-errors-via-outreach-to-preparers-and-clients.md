@@ -30,9 +30,10 @@ IRS outreach includes Letter 6138, which the IRS sends to individuals (clients) 
 
 ## How We Evaluated
 We conducted two evaluations to answer two separate but related policy questions: 
-Client Letter evaluation: Can sending Letter 6138 to some clients influence other clients who used the same tax preparer, achieving compliance gains while reducing program costs? If so, is the cost-benefit tradeoff improved by sending letters to a larger or smaller share of a preparer’s clients? 
-
-Preparer Outreach evaluation: Can we improve compliance more by targeting outreach only to preparers (in the form of a letter followed by a phone call) or by targeting outreach to both preparers and their clients? 
+<ol>
+<li><b>Client Letter evaluation:</b> Can sending Letter 6138 to some clients influence other clients who used the same tax preparer, achieving compliance gains while reducing program costs? If so, is the cost-benefit tradeoff improved by sending letters to a larger or smaller share of a preparer’s clients?</li>
+<li><b>Preparer Outreach evaluation:</b> Can we improve compliance more by targeting outreach only to preparers (in the form of a letter followed by a phone call) or by targeting outreach to both preparers and their clients?</li>
+</ol>
 
 In the Client Letter evaluation, we randomized tax preparers into one of three outreach groups: (1) a control group with no outreach to the preparer or the preparer’s clients (N = 180 preparers, 9,192 clients); (2) a high-saturation client letter group (N = 379 preparers, 18,515 clients); and (3) a low-saturation client letter group (N = 371 preparers, 19,090 clients). In the high-saturation client letter group, 80% of the preparer’s eligible clients were randomly assigned to be sent the Letter 6138; in the low-saturation client letter group, 40% were assigned to be sent the letter. The remaining eligible clients–20% in the high saturation group and 60% in the low saturation group–were not sent the letter and are referred to as  “spillover” clients. Analyzing outcomes for these clients allows us to test whether the effects of the letters “spilled over” to other clients who used the same preparer. 
 
@@ -48,12 +49,12 @@ In the Preparer Outreach evaluation, we randomized tax preparers into one of thr
 
 We used administrative data maintained by the IRS, plus tax return-level data processed by the IRS’s Taxpayer Services Division, to construct our outcome measures. The primary outcomes were (1) the dollar amount of refunds returned to the clients, and (2) the dollar amount of EITC, ACTC, and AOTC that were likely claimed erroneously. These are both measured at the end of the 2025 tax filing season. We estimated effects separately for clients in the Client Letter and Preparer Outreach evaluations.
 
-## What we learned
+## What We Learned
 We found that mailing Letter 6138 reduced the amount of likely erroneous tax credit dollars claimed by clients who were sent the letter by an average of $209. However, there were no effects on clients who were not sent Letter 6138 (spillover clients), regardless of the share of a preparer’s clients who were sent letters. These results indicate that Letter 6138 must be sent directly to clients to affect behavior, limiting opportunities for cost savings through spillover effects. 
 
 We found no impact of letters and phone calls directed at preparers. Combining preparer outreach with client letters reduced likely erroneous tax credit dollars. These results fall just shy of thresholds for statistical reliability; nevertheless, they imply that pairing outreach to preparers with outreach to their clients may be more effective than preparer outreach alone. 
 
-Client Letter Evaluation Results
+<b>Client Letter Evaluation Results</b>
 
 Clients who were sent Letter 6138 saw a reduction in erroneous dollars claimed of $209, a 4.7% reduction from the control mean of $4,481 (p < 0.01, 95% CI [-333, -86]). They also saw a reduction in refund amount of $129, a 2.4% reduction from the control mean of $5,447. While this result is statistically significant on its own (p=0.014, 95% CI [-233, -26]), it does not remain significant after adjusting for multiple comparisons. 
 
@@ -63,7 +64,7 @@ We found no evidence of spillover effects on clients who were not sent a letter.
 <i>Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly</i>
 <img src="{{ '/assets/img/project-images/2502-fig1.svg' | prepend: site.baseurl }}" alt="The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code" width="500">
 
-Preparer Outreach Evaluation Results
+<b>Preparer Outreach Evaluation Results</b>
 Contacting preparers directly via a letter and a phone call did not affect erroneous dollars claimed by their clients. These clients saw a statistically insignificant increase in erroneous dollars claimed of $31, from a control mean of $4,827 (p=0.68, 95% CI [-119, 183]). However, the preparer outreach in combination with the client letters reduced erroneous dollars claimed by $184, a 3.8% reduction(p=0.03, CI [-346, -21]). The difference between these estimates ($215) was significant (p=0.009), although neither estimate remains statistically significant after accounting for multiple comparisons. There were no statistically significant effects on refund amounts.
 
 <b>Figure 4.</b>
@@ -71,7 +72,7 @@ Contacting preparers directly via a letter and a phone call did not affect erron
 <img src="{{ '/assets/img/project-images/2502-fig1.svg' | prepend: site.baseurl }}" alt="The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code" width="500">
 
 
-## Applying the findings
+## Applying the Findings
 Our findings show that direct outreach to clients of high-risk tax preparers is a reliable way to reduce erroneous tax credit claims. 
 
 We find no evidence of spillover effects on clients not sent letters. This contrasts with large spillover effects observed in our previous evaluation of Letter 6138, indicating that spillover effects may depend on letter content, implementation, or the characteristics of the preparers and clients involved. As a result, spillovers (and resulting cost savings) should not be assumed when designing outreach strategies, and further analysis is needed to understand when they may arise.
