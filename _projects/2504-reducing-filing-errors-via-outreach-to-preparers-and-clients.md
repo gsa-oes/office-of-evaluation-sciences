@@ -20,13 +20,15 @@ summary: Letters sent to clients of high-risk tax preparers reduced tax credits 
 summarybox: true
 summary_bullets:
 - The goal of this evaluation was to compare two strategies for improving tax compliance among clients of high-risk tax preparers.
+- The goal of this evaluation was to compare two strategies for improving tax compliance among clients of high-risk tax preparers.
+- The goal of this evaluation was to compare two strategies for improving tax compliance among clients of high-risk tax preparers.
 
 ---
 
 ## Agency Priority
-In 2023, the Internal Revenue Service (IRS) estimated that there were over $24 billion dollars in overpayments from three high-priority refundable tax credit programs: the Additional Child Tax Credit (ACTC), American Opportunity Tax Credit (AOTC), and the Earned Income Tax Credit (EITC). Individual tax filers (“clients”) often use paid tax return preparers to help prepare their returns. The IRS, through their Return Integrity and Compliance Services - Return Preparer Strategy (RPS), aims to improve compliance and reduce overclaims of refundable tax credits among tax preparers and their clients through education and outreach. 
+In 2023, the Internal Revenue Service (IRS) estimated that there were <a class="usa-link usa-link--external" href="https://home.treasury.gov/system/files/266/Treasury-FY-2023-AFR-111523.pdf">over $24 billion dollars in overpayments</a> from three high-priority refundable tax credit programs: the Additional Child Tax Credit (ACTC), American Opportunity Tax Credit (AOTC), and the Earned Income Tax Credit (EITC). Individual tax filers (“clients”) often use paid tax return preparers to help prepare their returns. The IRS, through their <a class="usa-link usa-link--external" href="https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered">Return Integrity and Compliance Services - Return Preparer Strategy (RPS)</a>, aims to improve compliance and reduce overclaims of refundable tax credits among tax preparers and their clients through education and outreach. 
 
-IRS outreach includes Letter 6138, which the IRS sends to individuals (clients) who (1) used a tax preparer during the previous tax season who was identified as preparing returns with likely errors (“high-risk” preparers), and (2) who had likely errors in their own tax return. Letter 6138 is sent in the winter before the tax season. It informs the client that their previous return may have contained errors, and encourages them to find a different way to prepare their taxes in upcoming tax seasons. In a previous evaluation, we found that Letter 6138 was effective in reducing likely filing errors. 
+IRS outreach includes Letter 6138, which the IRS sends to individuals (clients) who (1) used a tax preparer during the previous tax season who was identified as preparing returns with likely errors (“high-risk” preparers), and (2) who had likely errors in their own tax return. Letter 6138 is sent in the winter before the tax season. It informs the client that their previous return may have contained errors, and encourages them to find a different way to prepare their taxes in upcoming tax seasons. In a previous evaluation, we found that <a href="https://oes.gsa.gov/projects/client-tax-compliance/">Letter 6138</a> was effective in reducing likely filing errors. 
 
 ## How We Evaluated
 We conducted two evaluations to answer two separate but related policy questions: 
@@ -76,14 +78,14 @@ Contacting preparers directly via a letter and a phone call did not affect erron
 ## Applying the Findings
 Our findings show that direct outreach to clients of high-risk tax preparers is a reliable way to reduce erroneous tax credit claims. 
 
-We find no evidence of spillover effects on clients not sent letters. This contrasts with large spillover effects observed in our previous evaluation of Letter 6138, indicating that spillover effects may depend on letter content, implementation, or the characteristics of the preparers and clients involved. As a result, spillovers (and resulting cost savings) should not be assumed when designing outreach strategies, and further analysis is needed to understand when they may arise.
+We find no evidence of spillover effects on clients not sent letters. This contrasts with large spillover effects observed in our <a href="https://oes.gsa.gov/projects/client-tax-compliance/">previous evaluation</a> of Letter 6138, indicating that spillover effects may depend on letter content, implementation, or the characteristics of the preparers and clients involved. As a result, spillovers (and resulting cost savings) should not be assumed when designing outreach strategies, and further analysis is needed to understand when they may arise.
 
-Similarly, our finding of no impact from outreach to preparers contrasts with positive results from two evaluations (in FY2021 and FY2025) of preparer outreach in the form of IRS Letter 5025. So it may be that the form or content of the outreach changes its effectiveness; further evaluation is needed to fully understand these discrepancies. 
+Similarly, our finding of no impact from outreach to preparers contrasts with positive results from two evaluations (in <a href="https://oes.gsa.gov/projects/return-preparer-tax-compliance/">FY2021</a> and <a href="https://oes.gsa.gov/-reducing-filing-errors-via-outreach-to-preparers/">FY2025</a>) of preparer outreach in the form of IRS Letter 5025. So it may be that the form or content of the outreach changes its effectiveness; further evaluation is needed to fully understand these discrepancies. 
 
 Notes:
 1. Clients who had not had likely errors in their own returns were not eligible for letters. 
 2. Around 20% of calls are successful. 
-3. Errors can only be confirmed via an audit, which is outside the scope of this evaluation. The IRS identifies likely errors probabilistically based on common sources of error: https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered.
+3. Errors can only be confirmed via an audit, which is outside the scope of this evaluation. The IRS <a class="usa-link usa-link--external" href="https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered">identifies likely errors probabilistically</a> based on common sources of error.
 4. Unless noted otherwise, all of the analysis reported in this summary was prespecified in an <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2504-analysis-plan.pdf">analysis plan</a>.
 5. An IRS internal report on this project gives different numbers than what is presented here, as that report used a different unit of analysis and different regression specifications.
 6. This result remains significant after adjusting for multiple comparisons. To keep the family-wise error rate (FWER) below 0.05, statistical significance is evaluated at α = 0.009.
