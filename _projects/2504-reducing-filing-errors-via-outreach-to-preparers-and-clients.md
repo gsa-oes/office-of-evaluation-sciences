@@ -35,13 +35,13 @@ We conducted two evaluations to answer two separate but related policy questions
 <li><b>Preparer Outreach evaluation:</b> Can we improve compliance more by targeting outreach only to preparers (in the form of a letter followed by a phone call) or by targeting outreach to both preparers and their clients?</li>
 </ol>
 
-In the Client Letter evaluation, we randomized tax preparers into one of three outreach groups: (1) a control group with no outreach to the preparer or the preparer’s clients (N = 180 preparers, 9,192 clients); (2) a high-saturation client letter group (N = 379 preparers, 18,515 clients); and (3) a low-saturation client letter group (N = 371 preparers, 19,090 clients). In the high-saturation client letter group, 80% of the preparer’s eligible clients were randomly assigned to be sent the Letter 6138; in the low-saturation client letter group, 40% were assigned to be sent the letter. The remaining eligible clients–20% in the high saturation group and 60% in the low saturation group–were not sent the letter and are referred to as  “spillover” clients. Analyzing outcomes for these clients allows us to test whether the effects of the letters “spilled over” to other clients who used the same preparer. 
+In the <b>Client Letter evaluation</b>, we randomized tax preparers into one of three outreach groups: (1) a control group with no outreach to the preparer or the preparer’s clients (N = 180 preparers, 9,192 clients); (2) a high-saturation client letter group (N = 379 preparers, 18,515 clients); and (3) a low-saturation client letter group (N = 371 preparers, 19,090 clients). In the high-saturation client letter group, 80% of the preparer’s eligible clients were randomly assigned to be sent the Letter 6138; in the low-saturation client letter group, 40% were assigned to be sent the letter. The remaining eligible clients–20% in the high saturation group and 60% in the low saturation group–were not sent the letter and are referred to as  “spillover” clients. Analyzing outcomes for these clients allows us to test whether the effects of the letters “spilled over” to other clients who used the same preparer. 
 
 <b>Figure 1.</b>
 <i>Client Letter Evaluation Randomization Procedure</i>
 <img src="{{ '/assets/img/project-images/2502-fig1.svg' | prepend: site.baseurl }}" alt="The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code" width="500">
 
-In the Preparer Outreach evaluation, we randomized tax preparers into one of three outreach groups: (1) a control group with no outreach to preparers or their clients (N = 392 preparers, 6,961 clients); (2) a group in which preparers were sent a letter informing them that they would receive a phone call from the IRS, followed by an attempted call (the “preparer call” group, N = 295 preparers, 5,301 clients); and (3) a group in which the preparers were given the same letter and call as above, and 40% of their eligible clients were randomized to be sent Letter 6138 (the “call plus client letter” group, N = 300 preparers, 5,364 clients). 
+In the <b>Preparer Outreach evaluation</b>, we randomized tax preparers into one of three outreach groups: (1) a control group with no outreach to preparers or their clients (N = 392 preparers, 6,961 clients); (2) a group in which preparers were sent a letter informing them that they would receive a phone call from the IRS, followed by an attempted call (the “preparer call” group, N = 295 preparers, 5,301 clients); and (3) a group in which the preparers were given the same letter and call as above, and 40% of their eligible clients were randomized to be sent Letter 6138 (the “call plus client letter” group, N = 300 preparers, 5,364 clients). 
 
 <b>Figure 2.</b>
 <i>Preparer Outreach Randomization Procedure</i>
@@ -65,6 +65,7 @@ We found no evidence of spillover effects on clients who were not sent a letter.
 <img src="{{ '/assets/img/project-images/2502-fig1.svg' | prepend: site.baseurl }}" alt="The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code" width="500">
 
 <b>Preparer Outreach Evaluation Results</b>
+
 Contacting preparers directly via a letter and a phone call did not affect erroneous dollars claimed by their clients. These clients saw a statistically insignificant increase in erroneous dollars claimed of $31, from a control mean of $4,827 (p=0.68, 95% CI [-119, 183]). However, the preparer outreach in combination with the client letters reduced erroneous dollars claimed by $184, a 3.8% reduction(p=0.03, CI [-346, -21]). The difference between these estimates ($215) was significant (p=0.009), although neither estimate remains statistically significant after accounting for multiple comparisons. There were no statistically significant effects on refund amounts.
 
 <b>Figure 4.</b>
@@ -83,7 +84,7 @@ Notes:
 1. Clients who had not had likely errors in their own returns were not eligible for letters. 
 2. Around 20% of calls are successful. 
 3. Errors can only be confirmed via an audit, which is outside the scope of this evaluation. The IRS identifies likely errors probabilistically based on common sources of error: https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered.
-4. Unless noted otherwise, all of the analysis reported in this summary was prespecified in an analysis plan, which can be found at https://oes.gsa.gov/-reducing-filing-errors-via-outreach-to-preparers-and-clients/.
+4. Unless noted otherwise, all of the analysis reported in this summary was prespecified in an <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2504-analysis-plan.pdf">analysis plan</a>.
 5. An IRS internal report on this project gives different numbers than what is presented here, as that report used a different unit of analysis and different regression specifications.
 6. This result remains significant after adjusting for multiple comparisons. To keep the family-wise error rate (FWER) below 0.05, statistical significance is evaluated at α = 0.009.
 7. Adjusted α (controlling FWER at 0.05) = 0.009.
