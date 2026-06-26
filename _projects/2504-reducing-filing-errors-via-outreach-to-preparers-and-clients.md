@@ -19,7 +19,7 @@ featured:
 summary: Letters sent to clients of high-risk tax preparers reduced tax credits claimed erroneously but did not generate spillover effects; phone calls to preparers were not effective
 summarybox: true
 summary_bullets:
-- Test bullet.
+- The goal of this evaluation was to compare two strategies for improving tax compliance among clients of high-risk tax preparers: 1. sending warning letters to preparers’ clients and 2. conducting outreach directly to preparers.
 ---
 
 This evaluation is currently being implemented. We have created this project page as a mechanism to pre-specify what data will be collected, what we plan to measure, and how we’ll conduct our analysis. We believe this is a critical component of conducting transparent, replicable, and high-quality research; and aim to share our Analysis Plans whenever possible.
