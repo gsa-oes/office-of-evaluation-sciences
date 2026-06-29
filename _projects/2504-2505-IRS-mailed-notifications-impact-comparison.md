@@ -40,12 +40,12 @@ For both tax preparers and clients, we found that there were no differences in e
 <b>Figure 1</b>
 <br>
 <i>Sending Preparer Letters via the OLA or NDC Distribution Systems Did Not Impact the Likelihood That Preparers Would Continue to Prepare Enough Returns with Likely Errors During the Filing Season to Be Eligible for Outreach</i>
-<img src="{{ '/assets/img/project-images/2505-figure-1.svg' | prepend: site.baseurl }}" alt="Sending Preparer Letters via the OLA or NDC Distribution Systems Did Not Impact the Likelihood That Preparers Would Continue to Prepare Enough Returns with Likely Errors During the Filing Season to Be Eligible for Outreach" width="500">
+<img src="{{ '/assets/img/project-images/2504-2505-figure-1.svg' | prepend: site.baseurl }}" alt="Sending Preparer Letters via the OLA or NDC Distribution Systems Did Not Impact the Likelihood That Preparers Would Continue to Prepare Enough Returns with Likely Errors During the Filing Season to Be Eligible for Outreach" width="500">
 
 <b>Figure 2</b>
 <br>
 <i>Sending the Client Letters via the OLA or NDC Distribution Systems Did Not Impact Erroneous Dollars from Tax Credits Claimed with Likely Errors</i>
-<img src="{{ '/assets/img/project-images/2505-figure-1.svg' | prepend: site.baseurl }}" alt="Sending the Client Letters via the OLA or NDC Distribution Systems Did Not Impact Erroneous Dollars from Tax Credits Claimed with Likely Errors" width="500">
+<img src="{{ '/assets/img/project-images/2504-2505-figure-2.svg' | prepend: site.baseurl }}" alt="Sending the Client Letters via the OLA or NDC Distribution Systems Did Not Impact Erroneous Dollars from Tax Credits Claimed with Likely Errors" width="500">
 
 ## Applying the Findings
 Evaluation results showed no statistically significant differences in tax compliance outcomes between the clients and preparers mailed notices via different IRS distribution systems (OLA and NDC). This consistency across distribution systems suggests that the IRS's messaging is robust and effective, regardless of the specific channel used to distribute it via mail.
