@@ -43,14 +43,14 @@ We found no impact of letters and phone calls directed at preparers. Combining p
 
 <b>Among new preparers</b>, the letter + call treatment resulted in a reduction in total refund amount of $43,092, relative to a control group mean of $705,799. This result is statistically significant on its own (p=0.02, 95% CI [-77,814, -8,368]), but it does not remain significant after adjusting for multiple comparisons.<sup>7</sup> Sending Letter 5025 plus eligibility for the filing season Letter 4858 (letter + letter) reduced the total refund amount by $40,125 (p=0.06, 95% CI [-82,383, 2,132]), falling just short of statistical significance. The difference in impacts between the letter + letter treatment and the letter + call treatment is not statistically significant (p =0.87). Inviting preparers to the webinar increased their refund amount by $21,828, but this is not statistically significant (p=0.28, 95% CI [-17,761, 61,416]).
 
-<b>Figure 1.</b>
+<b>Figure 1</b>
 <br>
 <i>Letter 5025 Plus a Filing Season Call Reduced Total Refund Amount by $43,092 Among New Preparers</i>
 <img src="{{ '/assets/img/project-images/2505-figure-1.svg' | prepend: site.baseurl }}" alt="Letter 5025 Plus a Filing Season Call Reduced Total Refund Amount by $43,092 Among New Preparers" width="500">
 
 <b>Among returning preparers</b>, sending the pre-filing season Letter 5025 plus eligibility for the filing season call reduced the total refund amount by $57,470 relative to the comparison group mean of $1,063,713 (p=0.002, 95% CI [-94,105, -20,834]).<sup>8</sup> Sending Letter 5025 plus eligibility for the filing season Letter 4858 reduced the total refund amount by $40,283 (p=0.13, 95% CI [-92,204, 11,638]), but this result is not statistically significant. There was no statistically significant difference between the impacts of the two interventions (p=0.48). Inviting the preparers to the webinar reduced total refunds by $9,784, but this result is not statistically significant (p=0.62, 95% CI [-48,947, 29,378]). 
 
-<b>Figure 2.</b>
+<b>Figure 2</b>
 <br>
 <i>Letter 5025 Plus Filing Season Call Reduced the Total Refund Amount by $57,470 Among Returning Preparers</i>
 <img src="{{ '/assets/img/project-images/2505-figure-2.svg' | prepend: site.baseurl }}" alt="Letter 5025 Plus Filing Season Call Reduced the Total Refund Amount by $57,470 Among Returning Preparers" width="500">
@@ -59,7 +59,7 @@ We found similar results when assessing total erroneous dollars claimed. Among n
 
 Though not part of our preregistered analyses, the value of this outreach became more clear when we analyzed new and returning preparers together, and combined letter + call and letter + letter interventions. We found that sending the pre-filing season letter and either sending a second letter or calling preparers who continued to make errors during the filing season reduced the total refund amount claimed by either new or returning preparers by $44,032 on average, relative to a comparison group mean of $808,751 (p=0.001, 95% CI [-70,339, -17,725]).<sup>12</sup> 
 
-<b>Figure 3.</b>
+<b>Figure 3</b>
 <br>
 <i>Letter 5025 Plus Filing Season Call or Letter Reduced the Total Refund Amount by $44,032 Among New and Returning Preparers</i>
 <img src="{{ '/assets/img/project-images/2505-figure-3.svg' | prepend: site.baseurl }}" alt="Letter 5025 Plus Filing Season Call or Letter Reduced the Total Refund Amount by $44,032 Among New and Returning Preparers" width="500">
