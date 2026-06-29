@@ -55,6 +55,8 @@ Clients who were sent Letter 6138 saw a reduction in erroneous dollars claimed o
 We found no evidence of spillover effects on clients who were not sent a letter. Spillover clients saw a statistically insignificant reduction in erroneous dollars of $41 (p=0.51, 95% CI [-165, 83]). Among spillover clients in the high saturation group, there was an insignificant decrease in erroneous dollars of $12 (p=0.88, 95% CI [-169, 144]), while among spillover clients of preparers in the low saturation group, there was an insignificant decrease in erroneous dollars of $48 (p=0.47, 95% CI [-178, 82]). There was no significant difference in spillover effects between the high and low saturation groups (p=0.61). There were also no statistically significant impacts on refund amount for spillover clients.
 
 <b>Figure 1.</b>
+<br>
+</br>
 <i>Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly</i>
 <img src="{{ '/assets/img/project-images/2504-figure-3.svg' | prepend: site.baseurl }}" alt="Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly" width="500">
 
@@ -63,6 +65,8 @@ We found no evidence of spillover effects on clients who were not sent a letter.
 Contacting preparers directly via a letter and a phone call did not affect erroneous dollars claimed by their clients. These clients saw a statistically insignificant increase in erroneous dollars claimed of $31, from a control mean of $4,827 (p=0.68, 95% CI [-119, 183]). However, the preparer outreach in combination with the client letters reduced erroneous dollars claimed by $184, a 3.8% reduction(p=0.03, CI [-346, -21]). The difference between these estimates ($215) was significant (p=0.009), although neither estimate remains statistically significant after accounting for multiple comparisons.<sup>8</sup> There were no statistically significant effects on refund amounts.
 
 <b>Figure 2.</b>
+<br>
+</br>
 <i>A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation</i>
 <img src="{{ '/assets/img/project-images/2504-figure-4.svg' | prepend: site.baseurl }}" alt="A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation" width="500">
 
