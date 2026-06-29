@@ -9,7 +9,7 @@ image: /assets/img/project-images/2504.jpg
 image-credit: https://www.pexels.com/photo/man-couple-people-woman-6963909/
 image_alt_text: Two people reviewing tax forms
 analysis-plan: /assets/analysis/2504-analysis-plan.pdf
-abstract: /assets/abstracts/2502-abstract.pdf
+abstract: /assets/abstracts/2504-abstract.pdf
 year: 2026
 domain: Cost savings
 type: Impact evaluation
@@ -56,7 +56,7 @@ We found no evidence of spillover effects on clients who were not sent a letter.
 
 <b>Figure 1.</b>
 <i>Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly</i>
-<img src="{{ '/assets/img/project-images/2504-figure-4.svg' | prepend: site.baseurl }}" alt="Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly" width="500">
+<img src="{{ '/assets/img/project-images/2504-figure-3.svg' | prepend: site.baseurl }}" alt="Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly" width="500">
 
 <b>Preparer Outreach Evaluation Results</b>
 
@@ -64,7 +64,7 @@ Contacting preparers directly via a letter and a phone call did not affect erron
 
 <b>Figure 2.</b>
 <i>A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation</i>
-<img src="{{ '/assets/img/project-images/2504-figure-5.svg' | prepend: site.baseurl }}" alt="A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation" width="500">
+<img src="{{ '/assets/img/project-images/2504-figure-4.svg' | prepend: site.baseurl }}" alt="A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation" width="500">
 
 ## Applying the Findings
 Our findings show that direct outreach to clients of high-risk tax preparers is a reliable way to reduce erroneous tax credit claims. 
