@@ -8,7 +8,7 @@ share_image: /assets/img/project-images/2505.jpg
 image: /assets/img/project-images/2505.jpg
 image-credit: https://www.pexels.com/photo/white-printer-paper-on-brown-wooden-table-6964138/
 image_alt_text: Tax form next to calculator
-analysis-plan: /assets/analysis/2505-analysis-plan.pdf
+analysis-plan:
 abstract:
 year: 2026
 domain: Cost savings
@@ -19,14 +19,16 @@ featured:
 summary: Mailed notices from the IRS National Distribution Center and Online Accounts systems showed consistent impact on tax compliance
 summarybox: true
 summary_bullets:
-- Ensuring consistent and effective communication with tax preparers and their clients is crucial for promoting tax compliance. This evaluation examined the impact of mailed notices distributed through two different IRS systems. The results suggest the distribution method did not change the impacts of the notices on tax compliance. 
+- Ensuring consistent and effective communication with tax preparers and their clients is crucial for promoting tax compliance.
+- This evaluation examined the impact of mailed notices distributed through two different IRS systems.
+- The results suggest the distribution method did not change the impacts of the notices on tax compliance. 
 ---
 
 ## Agency Priority
-The Internal Revenue Service (IRS) Return Preparer Strategy (RPS) is an agency-wide effort to reduce errors made by paid tax return preparers in claiming refundable tax credits and other tax benefits. These include the Earned Income Tax Credit (EITC), the Additional Child Tax Credit (ACTC), the American Opportunity Tax Credit (AOTC), and Head of Household filing status. Compliance with rules around correctly claiming benefits is encouraged by providing targeted outreach and education to preparers whose filed returns have a high proportion of likely errors. The IRS RPS is interested in the feasibility of using letters/notices sent through online accounts (OLA), as opposed to the business-as-usual method of distribution via standard (USPS) mail through the National Distribution Center (NDC), as a potential means of cost savings. 
+The <a class="usa-link usa-link--external" href="https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered">Internal Revenue Service (IRS) Return Preparer Strategy (RPS)</a> is an agency-wide effort to reduce errors made by paid tax return preparers in claiming refundable tax credits and other tax benefits. These include the Earned Income Tax Credit (EITC), the Additional Child Tax Credit (ACTC), the American Opportunity Tax Credit (AOTC), and Head of Household filing status. Compliance with rules around correctly claiming benefits is encouraged by providing targeted outreach and education to preparers whose filed returns have a high proportion of likely errors. The IRS RPS is interested in the feasibility of using letters/notices sent through online accounts (OLA), as opposed to the business-as-usual method of distribution via standard (USPS) mail through the National Distribution Center (NDC), as a potential means of cost savings. 
 
-## How We Evaluated
-As part of their tiered strategy to improve the accuracy of claiming certain tax benefits, the IRS conducts outreach and education to paid tax return preparers and their clients. We partnered with the IRS to evaluate the impacts of two letters: Letter 5025, sent to tax preparers, and Letter 6138, sent to clients of tax preparers. We embedded an additional evaluation within each of the individual letter evaluations to assess whether sending the letters through OLA would be as effective as sending them through the NDC.
+## What We Evaluated
+As part of their tiered strategy to improve the accuracy of claiming certain tax benefits, the IRS conducts outreach and education to paid tax return preparers and their clients. We partnered with the IRS to evaluate the impacts of two letters: <a href="https://oes.gsa.gov/-reducing-filing-errors-via-outreach-to-preparers/">Letter 5025</a>, sent to tax preparers, and <a href="https://oes.gsa.gov/-reducing-filing-errors-via-outreach-to-preparers-and-clients/">Letter 6138</a>, sent to clients of tax preparers. We embedded an additional evaluation within each of the individual letter evaluations to assess whether sending the letters through OLA would be as effective as sending them through the NDC.
 
 Preparers and clients who had been randomly assigned to be sent letters, and who had signed up for online accounts prior to the start of the evaluations, were randomized to be sent the letters either online via the OLA system or mailed through the NDC. However, due to logistical constraints, the OLA letters were not able to be delivered online, and were instead sent via standard mail. Thus, we compared the effects of two similar letters that were delivered via standard (USPS) mail, but sent from two different distribution systems within the IRS. 
 
@@ -53,5 +55,3 @@ It is important to note that this evaluation did not directly compare online and
 Notes:
 1. Refundable tax credits include the American Opportunity Tax Credit (AOTC), Additional Child Tax Credit (ACTC), and Earned Income Tax Credit (EITC). 
 2. An IRS internal report on this project gives results based on using refund amount as the outcome for clients, instead of erroneous dollars.
-
-Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2505-analysis-plan.pdf">on GitHub</a>.
