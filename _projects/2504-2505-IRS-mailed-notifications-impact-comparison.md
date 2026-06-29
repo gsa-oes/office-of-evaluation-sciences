@@ -4,10 +4,10 @@ permalink: /-irs-mailed-notifications-impact-comparison/
 tags:
   - project
   - payments
-share_image: /assets/img/project-images/2505.jpg
-image: /assets/img/project-images/2505.jpg
-image-credit: https://www.pexels.com/photo/white-printer-paper-on-brown-wooden-table-6964138/
-image_alt_text: Tax form next to calculator
+share_image: /assets/img/project-images/2504-2505-combined.jpg
+image: /assets/img/project-images/2504-2505-combined.jpg
+image-credit: https://www.pexels.com/photo/a-person-holding-tax-forms-on-wooden-table-6963865/
+image_alt_text: Close-up of hands organizing tax forms on a desk with a calculator, laptop, and notebook
 analysis-plan:
 abstract:
 year: 2026
