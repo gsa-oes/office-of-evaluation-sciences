@@ -56,7 +56,6 @@ We found no evidence of spillover effects on clients who were not sent a letter.
 
 <b>Figure 1.</b>
 <br>
-</br>
 <i>Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly</i>
 <img src="{{ '/assets/img/project-images/2504-figure-3.svg' | prepend: site.baseurl }}" alt="Letter 6138 Reduced Erroneous Dollars Among Clients In The Client Letter Evaluation, But Only For Clients Who Were Sent The Letter Directly" width="500">
 
@@ -66,7 +65,6 @@ Contacting preparers directly via a letter and a phone call did not affect erron
 
 <b>Figure 2.</b>
 <br>
-</br>
 <i>A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation</i>
 <img src="{{ '/assets/img/project-images/2504-figure-4.svg' | prepend: site.baseurl }}" alt="A Combination Of Outreach To Preparers And Client Letters Showed A Potential Reduction In Erroneous Dollars For Clients In The Preparer Outreach Evaluation" width="500">
 
