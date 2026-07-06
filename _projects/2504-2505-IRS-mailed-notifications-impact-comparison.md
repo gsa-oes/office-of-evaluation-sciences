@@ -56,4 +56,4 @@ Notes:
 1. Refundable tax credits include the American Opportunity Tax Credit (AOTC), Additional Child Tax Credit (ACTC), and Earned Income Tax Credit (EITC). 
 2. An IRS internal report on this project gives results based on using refund amount as the outcome for clients, instead of erroneous dollars.
 
-Verify the upload date of <a class="usa-link usa-link--external" href="https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered">Analysis Plan 1</a> and <a class="usa-link usa-link--external" href="https://www.irs.gov/tax-professionals/eitc-central/preparer-compliance-focused-and-tiered">Analysis Plan 2</a> on GitHub.
+Verify the upload date of <a class="usa-link usa-link--external" href="https://oes.gsa.gov/assets/analysis/2504-analysis-plan.pdf">Analysis Plan 1</a> and <a class="usa-link usa-link--external" href="https://oes.gsa.gov/assets/analysis/2505-analysis-plan.pdf">Analysis Plan 2</a> on GitHub.
