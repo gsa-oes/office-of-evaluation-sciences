@@ -5,7 +5,6 @@ redirect_from:
   - /projects/ARP-ACA/
 tags:
   - project
-  - arp
   - health insurance
 share_image: /assets/img/project-images/2302-image.png
 image: /assets/img/project-images/2302-image.webp
@@ -16,7 +15,7 @@ abstract-web: /results/aca-systematic-review-meta-analysis/
 academic-pub: /assets/publications/2302.pdf
 year: 2023
 type: Descriptive evaluation
-domain: Pandemic Relief and Recovery
+domain: Health
 agency: Health and Human Services
 status: Complete
 summary: Support-based interventions increase health insurance enrollment
