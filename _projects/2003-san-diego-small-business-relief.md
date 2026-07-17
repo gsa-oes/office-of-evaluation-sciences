@@ -1,5 +1,5 @@
 ---
-title:  Evaluation of San Diego Small Business Relief Fund
+title: Evaluation of San Diego Small Business Relief Fund
 permalink: /projects/sd-small-business-relief/
 tags: 
   - project  
