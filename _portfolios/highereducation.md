@@ -1,13 +1,13 @@
 ---
 layout: portfolio
-title: Higher education
+title: Education
 permalink: /highereducation/
 share_image: /assets/img/project-images/1717.jpg
 image: /assets/img/project-images/1717.webp  
 image_alt_text: Graduates pointing in the distance
 hide_image: true
 year: 2018
-summary: Low-cost, evidence-based program changes to improve the experiences of postsecondary students
+summary: Low-cost, evidence-based program changes to improve the experiences of students
 project_tags:
   - highered
 collaborations_tags:
