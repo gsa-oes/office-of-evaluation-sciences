@@ -3,7 +3,6 @@ title:  Community Toolkit for Addressing Health Misinformation
 permalink: /collaborations/misinformation-toolkit/
 tags:
   - collaborations
-  - arp
 share_image: /assets/img/project-images/othercollabs/osg-toolkit.png
 image: /assets/img/project-images/othercollabs/osg-toolkit.webp
 image_full: true
@@ -15,10 +14,10 @@ academic-pub: /assets/publications/2120-health-misinformation-toolkit.pdf
 summary: A toolkit developed by the Office of the Surgeon General provides information and exercises to slow the spread of health misinformation.
 featured: 
 ---
-## What was the challenge? 
-People frequently interact with misinformation:  information that is false, inaccurate, or misleading according to the best available evidence at the time.¹  Over the course of the COVID-19 pandemic, misinformation has caused confusion and led people to decline COVID-19 vaccines, reject public health measures such as masking and physical distancing, and use unproven treatments.  Preventing and addressing health misinformation is a major priority for the U.S. Surgeon General, who has issued an Advisory to warn the American public about the urgent threat of health misinformation during the COVID-19 pandemic and beyond.
+## What Was The Challenge? 
+People frequently interact with misinformation:  information that is false, inaccurate, or misleading according to the best available evidence at the time.¹  Over the course of the COVID-19 pandemic, misinformation has caused confusion and led people to decline COVID-19 vaccines, reject public health measures such as masking and physical distancing, and use unproven treatments. Preventing and addressing health misinformation is a major priority for the U.S. Surgeon General, who has issued an Advisory to warn the American public about the urgent threat of health misinformation during the COVID-19 pandemic and beyond.
 
-## What did we do? 
+## What Did We Do? 
 The Office of the Surgeon General developed a Health Misinformation Toolkit to explain what motivates people to share misinformation and to help slow the spread of health misinformation. Research in the social and behavioral sciences has shown that people are prone to unknowingly sharing false information for several reasons, as described in the toolkit: 
 1. We like to feel that we have new information that others don’t know;
 2. We want to protect the people we care about; 
@@ -27,7 +26,7 @@ The Office of the Surgeon General developed a Health Misinformation Toolkit to e
 <br>
 <p>The toolkit provides information and exercises to help people recognize false health information and also to effectively talk with others prone to spreading misinformation. We supported the development of this toolkit through written feedback, cross-agency discussions, and team-wide review. </p>
 
-## What did we learn?
+## What Did We Learn?
 The toolkit provides five tips for community leaders and individuals interested in learning about how to talk to others who are sharing misinformation:
 1. **Listen** to people’s fears and why they believe what they do.
 2. **Empathize** with the fact that there are often reasons why people find it difficult to trust certain sources of information.
@@ -40,4 +39,4 @@ The toolkit provides five tips for community leaders and individuals interested 
 <br><br>
 <i>The toolkit is available in other languages along with additional resources on <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html#community-toolkit" target="_blank">HHS.gov</a>.</i>
 <h3>Notes:</h3>
-<p>1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” Research and Politics. 2019. 6(2): 1-8.</p>
+<p>1. H. Allcott, M. Gentzkow, and C. Yu. “Trends in the diffusion of misinformation on social media,” <i>Research and Politics</i>. 2019. 6(2): 1-8.</p>
