@@ -3,7 +3,6 @@ title: Decreasing Supplemental Nutrition Assistance Program (SNAP) denials due t
 permalink: /projects/2310-decreasing-snap-denial-rates/
 tags: 
   - project
-  - arp
 share_image: /assets/img/project-images/2310-snap.png
 image: /assets/img/project-images/2310-snap.webp
 image_alt_text: Sign that says we welcome SNAP benefits
