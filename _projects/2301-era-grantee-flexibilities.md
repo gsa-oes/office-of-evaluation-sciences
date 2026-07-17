@@ -3,7 +3,6 @@ title: Reducing documentation burdens to accelerate and broaden access to emerge
 permalink: /projects/era-grantee-flexibilities-va/
 tags:
   - project
-  - arp
   - housing
 share_image: /assets/img/project-images/2301-img.jpg
 image: /assets/img/project-images/2301-img.webp
@@ -15,7 +14,6 @@ year: 2024
 type: Impact evaluation
 domain:
  - Housing
- - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 summary: Simplifying income documentation reduced application processing times and increased application approval rates, but did not significantly increase new applications

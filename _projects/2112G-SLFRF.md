@@ -3,7 +3,6 @@ title:  Understanding and improving Tribal governments’ and non-entitlement un
 permalink: /projects/slfrf-tribal-govs-neus/
 tags: 
  - project
- - arp
 share_image: /assets/img/project-images/2112G-image.jpg
 image: /assets/img/project-images/2112G-image.webp
 image_alt_text: Residential street
@@ -14,7 +13,6 @@ year: 2022
 type: Descriptive evaluation
 domain:
  - Economic Opportunity
- - Pandemic Relief and Recovery
 agency: Treasury
 summary: A descriptive evaluation of the State and Local Fiscal Recovery Funds program
 status: Complete
@@ -41,7 +39,8 @@ The qualitative analysis revealed that there is significant variation among Trib
 ### Quantitative results
 The quantitative results support the qualitative findings showing that Tribes and NEUs are diverse, with average population sizes of 48,758 and 27,064, respectively. Tribes and NEUs submitted a significant number of Help Desk requests for technical support from Treasury, reflecting the challenges they experienced when registering and submitting their spending reports. On average, Tribes submitted six Help Desk tickets, NEUs submitted three, and other recipients submitted four. At the same time, not all Tribes and NEUs required the same level of support, as about 30% of all Help Desk tickets submitted by Tribes or NEUs came from just 10% of Tribes and NEUs. Despite the apparent challenges Tribes and NEUs faced submitting these reports, Treasury was able to respond to questions with sufficient expediency to not cause bottlenecks. As shown in Figure 3, about 60% and 70% of all Help Desk tickets were submitted within 20 days of the April spending report deadline, but Treasury was largely able to sustain Help Desk support for recipients despite the large surges in demand around key deadlines. 
 
-<b>Figure 3.</b> NEU help desk tickets and resolution times before and after the April 2022 submission deadline 
+<b>Figure 3</b>
+<i>NEU help desk tickets and resolution times before and after the April 2022 submission deadline</i> 
 <br><img src="{{ '/assets/img/project-images/2112G-fig5.svg' | prepend: site.baseurl }}" alt="" width="1500">
 <br><i><a href="/assets/img/project-images/2112G-fig3.svg">Expand image</a></i>
 

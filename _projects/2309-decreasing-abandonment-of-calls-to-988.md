@@ -3,7 +3,6 @@ title: Decreasing abandonment of calls to the 988 Suicide & Crisis Lifeline
 permalink: /2309-decreasing-abandonment-of-calls-to-988/
 tags: 
   - project
-  - arp
 share_image: /assets/img/project-images/2309-image.jpg
 image: /assets/img/project-images/2309-image.jpg  
 image_alt_text: woman holding a phone
@@ -12,7 +11,7 @@ analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-anal
 abstract-web: /results/decreasing-abandonment-of-calls-to-988/
 intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2024 
-domain: Pandemic Relief and Recovery
+domain: Efficiency and Effectiveness, Health
 type: Impact evaluation
 agency: Health and Human Services
 status: Complete

@@ -3,7 +3,6 @@ title: Streamlining income verification to broaden access to rental assistance
 permalink: /projects/2305-era-grantee-flexibilities-ky/
 tags:
   - project
-  - arp
   - housing
 share_image: /assets/img/project-images/2305-img.jpg
 image: /assets/img/project-images/2305-img.webp

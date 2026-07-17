@@ -3,7 +3,6 @@ title: Modifying income reporting on benefits applicants — Evidence from singl
 permalink: /2307A-evaluating-form-modifications-single-income-households/
 tags: 
   - project
-  - arp
 share_image: /assets/img/project-images/2307a-form-mods.png
 image: /assets/img/project-images/2307a-form-mods.webp
 image_alt_text: Hands typing on laptop
