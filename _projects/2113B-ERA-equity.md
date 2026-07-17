@@ -5,7 +5,6 @@ redirect_from:
   - /projects/era-equity/
 tags:
   - project
-  - arp
   - housing
 share_image: /assets/img/project-images/2113B-image.jpg
 image: /assets/img/project-images/2113B-image.webp
@@ -18,7 +17,6 @@ year: 2022
 type: Descriptive evaluation
 domain:
   - Economic Opportunity
-  - Pandemic Relief and Recovery
 agency: Treasury
 status: Complete
 summary: A descriptive evaluation of the first-ever nationwide eviction prevention program
@@ -49,11 +47,13 @@ Renters who identify as Native American, Alaska Native, Pacific Islander, or Haw
 
 Among eligible renters, ERA funds were much more likely to reach those with the lowest incomes. This matters for the representation of ethnic and racial groups, because income distributions vary by race and ethnicity. OES estimated underrepresentation of White and Latinx renters only at the higher end of the eligible income spectrum—extremely low income White and Latinx renters were overrepresented among recipients. For Asian renters, who were underrepresented in the program, gaps appeared less stark when accounting for income but remained nonetheless. The category “Asian” represents a diverse group of ERA-eligible renters who, according to analyses in the <a href="/assets/abstracts/2113B-technical-appendix.pdf">technical appendix</a>, generally have low uptake of other government programs. OES recommends further research focusing on ways to boost access to and receipt of government benefits among this group.
 
-<b>Figure 1.</b> Demographic characteristics of renters who received and renters who were eligible for ERA.
+<b>Figure 1</b>
+<i>Demographic characteristics of renters who received and renters who were eligible for ERA.</i>
 <img src="{{ '/assets/img/project-images/2113B-fig1.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>Note: height of bars represents estimated proportion of population falling into that demographic category for the ACS, CPS, and Treasury recipient data, respectively. Error bars represent 95% confidence intervals on the difference between the eligible and recipient proportions, calculated through bootstrapped imputation standard errors.</i>
 
-<b>Figure 2.</b> The intersection of income, race, and ethnicity among renters who received and renters who were eligible for ERA.
+<b>Figure 2</b>
+<i>The intersection of income, race, and ethnicity among renters who received and renters who were eligible for ERA.</i>
 <img src="{{ '/assets/img/project-images/2113B-fig2.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>See note on Figure 1. Columns are divided by eligible income brackets; rows by racial and ethnic groups.</i>
 
