@@ -3,7 +3,7 @@ title:  Reducing inappropriate prescribing and co-prescribing behaviors - A retr
 permalink: /projects/opioid-retrospective-analysis/
 tags: 
   - project 
-  - prescribing
+  - health insurance
 share_image: /assets/img/project-images/2002-image.jpg
 image: /assets/img/project-images/2002-image.webp  
 image_alt_text: Counter medication
