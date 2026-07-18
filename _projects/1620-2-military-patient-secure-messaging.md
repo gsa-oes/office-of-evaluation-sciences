@@ -3,7 +3,7 @@ title: Increasing military patient use of secure messaging through email reminde
 permalink: /projects/military-patient-messaging-emails/
 tags: 
   - project 
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/1620-2.jpg
 image: /assets/img/project-images/1620-2.webp
 image_alt_text: Computer screen with coding
