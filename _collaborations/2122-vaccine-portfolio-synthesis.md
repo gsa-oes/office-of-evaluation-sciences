@@ -3,7 +3,7 @@ title:  Lessons from eight direct communications evaluations
 permalink: /collaborations/vaccine-communications-synthesis/
 tags:
   - collaborations
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/othercollabs/vaccine-synthesis.png
 image: /assets/img/project-images/othercollabs/vaccine-synthesis.webp
 year: 2021
