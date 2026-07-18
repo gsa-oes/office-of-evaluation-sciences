@@ -13,7 +13,7 @@ intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
 type: Impact evaluation
 domain:
- - Economic Opportunity
+ - Government Operations
 agency: Treasury
 status: Complete
 summary: Adding peer comparisons and information that registering is quick and easy to emails did not increase submission of spending reports
@@ -21,7 +21,7 @@ summary: Adding peer comparisons and information that registering is quick and e
 ## What Was The Challenge? 
 As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹
 
-NEUs must submit their Project & Expenditure reports (“spending reports”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. Treasury seeks to support NEUs to meet their reporting requirements in order to promote <b>transparency, responsibility, and equity in the use of funds.</b> 
+NEUs must submit their Project & Expenditure reports (“spending reports”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. Treasury seeks to support NEUs to meet their reporting requirements in order to promote <b>transparency and responsibility in the use of funds.</b> 
 
 A major question for Treasury is how to best incentivize NEUs to comply with reporting requirements, given the sheer number of NEUs and their infrequent contact with federal agencies. We partnered with Treasury to test whether messages that encourage <b>NEUs to conform to peers’ behaviors or provide information on the time costs of submission</b> can influence them to submit reports in a more timely manner. These messages were easily incorporated into Treasury’s planned communications and have the potential to prevent the need to follow up with NEUs who did not submit on time.
 
