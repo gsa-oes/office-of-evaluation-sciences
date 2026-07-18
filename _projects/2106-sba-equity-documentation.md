@@ -19,10 +19,10 @@ summary: A city small business relief program that reduced documentation require
 ---
 
 ## What Was The Challenge? 
-Many government programs require applicants to provide documentation. Documentation requirements may disproportionately prevent people from historically underserved groups, such as racial and ethnic minorities and women, from accessing these programs. 
+Many government programs require applicants to provide documentation. Documentation requirements may disproportionately prevent people from accessing these programs.
 
 ## What Did We Do? 
-A program change reduced documentation requirements for a city’s COVID-19 small business relief program. We examined the likelihood of submitting a completed application as well as movement through subsequent stages of the application process. Success at each stage was observed for applicants from historically underserved groups (minority-owned, women-owned, Veteran-owned, and disabled-owned businesses), and compared to the likelihood of success for other applicants.
+A program change reduced documentation requirements for a city’s COVID-19 small business relief program. We examined the likelihood of submitting a completed application as well as movement through subsequent stages of the application process. Success at each stage was observed for applicants, and compared to the likelihood of success for other applicants.
 
 ## What Did We Learn? 
 The day before the program change, 21.6% of applications started by applicants from underserved groups were completed and submitted. The day of the program change, this increased to 47.7%, an increase of 26.1 percentage points in the likelihood that underserved applicants who started an application submitted it with complete documentation (p = .000, 95% CI [19.64, 32.56]). 
