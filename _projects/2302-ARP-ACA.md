@@ -33,7 +33,8 @@ Based on a meta-analysis of 34 studies with a combined sample size of over 18 mi
 
 Interventions providing enrollment support tended to be more effective than those providing information alone. Support-based interventions increased enrollment by 2 percentage points, while information-based interventions increased enrollment by 0.6 percentage points.
 
-<b>Figure 1.</b> Support-based interventions increased ACA enrollment more than information alone, based on a meta-analysis covering 58 interventions
+<b>Figure 1</b>
+<i>Support-based Interventions Increased ACA Enrollment More Than Information Alone, Based On A Meta-analysis Covering 58 Interventions</i>
 <img src="{{ '/assets/img/project-images/2302-aca-results-graph.svg' | prepend: site.baseurl }}" alt="Support-based interventions increased ACA enrollment more than information alone, based on a meta-analysis covering 58 interventions" width="1500">
 
 From this, we learned that outreach interventions can increase take-up. Increasing enrollment through addressing administrative burdens will be most effective when focused on providing information and support, rather than information alone.
@@ -43,7 +44,7 @@ Notes:
 2. McDermott, Daniel, Cynthia Cox. <a class="usa-link usa-link--external" href="https://www.kff.org/private-insurance/issue-brief/a-closer-look-at-the-uninsured-marketplace-eligible-population-following-the-american-rescue-plan-act/">A closer look at the uninsured Marketplace eligible population following the American Rescue Plan Act.</a> 2021. KFF.
 3. <a class="usa-link usa-link--external" href="https://aspe.hhs.gov/sites/default/files/documents/dc73e82abf7fc26b6a8e5cc52ae42d48/aspe-end-mcaid-continuous-coverage.pdf">Unwinding the Medicaid Continuous Enrollment Provision: Projected Enrollment Effects and Policy Approaches (Issue Brief HP-2022-20)</a> Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. August 19, 2022.
 
-Related publication:
+Related Publication:
 Martin, L., Feher, A., Schultz, W., Safran, E., & Cohen, A. K. (2024). Interventions to increase Affordable Care Act Marketplace enrollment: A systematic review and meta-analysis. <i>Population Health Management</i>, 27(5), 327–337. 
 <a class="usa-link usa-link--external" href="https://doi.org/10.1089/pop.2024.0091">https://doi.org/10.1089/pop.2024.0091</a>.
 
