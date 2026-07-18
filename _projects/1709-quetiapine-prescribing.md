@@ -3,7 +3,7 @@ title: Reducing overprescribing of Quetiapine in Medicare Part D
 permalink: /projects/quetiapine-prescribing/
 tags: 
   - project
-  - prescribing
+  - health insurance
 share_image: /assets/img/project-images/prescribe.jpg
 image: /assets/img/project-images/prescribe.webp
 image_alt_text: Person sitting in front of computer holding documents
