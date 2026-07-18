@@ -4,7 +4,6 @@ permalink: /projects/dallas-small-business/
 tags: 
   - project  
   - business
-  - arp
 share_image: /assets/img/project-images/2008-dallas.jpeg
 image: /assets/img/project-images/2008-dallas.jpeg
 image_alt_text: City of Dallas
@@ -23,14 +22,15 @@ featured:
 ---
 
 ## What was the challenge? 
-The U.S. Small Business Administration (SBA) aims to restore small business revenue and sustain jobs after disasters. SBA is interested in understanding the impact of community-based approaches to help small businesses respond and recover to the COVID-19 pandemic. In Spring 2020, the Dallas City Council used CARES Act funding to set up the Small Business Continuity Fund (SBCF) to help small businesses affected by the economic fallout from the COVID‐19 pandemic. We partnered with the City of Dallas to understand how receiving a grant or a loan affected businesses’ ability to generate revenue and remain open, as well as the differential impact of such funding for women-owned and black-and-hispanic-owned businesses.
+The U.S. Small Business Administration (SBA) aims to restore small business revenue and sustain jobs after disasters. SBA is interested in understanding the impact of community-based approaches to help small businesses respond and recover to the COVID-19 pandemic. In Spring 2020, the Dallas City Council used CARES Act funding to set up the Small Business Continuity Fund (SBCF) to help small businesses affected by the economic fallout from the COVID‐19 pandemic. We partnered with the City of Dallas to understand how receiving a grant or a loan affected businesses’ ability to generate revenue and remain open, as well as the differential impact of such funding for specific populations.
 
 ## What was the program change? 
 We worked with the City of Dallas to understand the lottery implementation in detail. This understanding allowed us to approximate the conditions of a randomized controlled trial by reconstructing the assignment probabilities implied by the lottery procedure.
 
 The grant and loan lotteries randomly assigned a rank to each business application that passed initial eligibility checks. That rank determined the order in which the City of Dallas sent businesses invitations to follow up with additional documentation for funding. By simulating the lottery process 10,000 times, we calculated each business’s probability of being invited to submit documentation for funding on a specific day in 2020. These probabilities are illustrated in Figure 1.
 
-<b>Figure 1.</b> Daily probability of receiving an invitation to submit documents for funding by lottery
+<b>Figure 1</b>
+<i>Daily Probability of Receiving an Invitation to Submit Documents for Funding by Lottery</i>
 ![image](/assets/img/project-images/2008-graph-1.webp)<br>
 Note: Solid green line is for grants in non-targeted areas, dotted blue line is for grants in targeted areas, dashed red line is for loans.
 
@@ -42,7 +42,8 @@ To assess how funding affected business resilience during the pandemic, we match
 ## What was the impact? 
 We did not find statistically significant evidence of program impact across any of the main analyses specified in the analysis plan: business closures, provision of online services, and bankruptcy filings (see Figure 2). This should not be mistaken with finding evidence that the program did not work: given the data, we cannot rule out either positive or negative program impacts. The inability to say more relates to the statistical uncertainty in the estimates. The large number of applications suggests business owners saw a great need for the funding.
 
-<b>Figure 2.</b> The estimated effect of funding on business closures, online services, and bankruptcy
+<b>Figure 2</b>
+<i>The Estimated Effect of Funding on Business Closures, Online Services, and Bankruptcy</i>
 ![image](/assets/img/project-images/2008-graph-2.webp)<br>
 
 Note: Blue circles show estimated effect of invitation, yellow triangles show estimated effect of funding, among businesses that would receive funding if invited. 

@@ -2,8 +2,7 @@
 title: Evaluating the effects of HEERF Aid to students
 permalink: /collaborations/HEERF-eval-design/
 tags:
-  - Education
-  - highered
+ - highered
 share_image: /assets/img/project-images/othercollabs/grad-photo-ed.png
 image: /assets/img/project-images/othercollabs/grad-photo-ed.webp
 image_alt_text: People graduation
@@ -27,7 +26,7 @@ Given the urgency and severity of the COVID-19 pandemic it was likely infeasible
 We designed an impact evaluation using a regression discontinuity (RD) design — a type of quasi-experimental method — to help ED and IHEs answer the question: _**What is the effect of providing HEERF aid on short- and medium-term student outcomes?**_ We identified that many institutions used strict eligibility cutoffs that lend themselves to an RD design that can be applied with many IHEs. 
 
 ## How Is The Evaluation Designed To Build Evidence?
-Several institutions determined aid eligibility using Estimated Family Contribution (EFC), which is part of a student’s financial aid record if they have submitted a Free Application for Federal Student Aid (FAFSA). Students just above and below an EFC threshold are likely similar on observable characteristics (e.g., gender, race, age, other support received) and unobservable characteristics (e.g., motivation, career aspirations). 
+Several institutions determined aid eligibility using Estimated Family Contribution (EFC), which is part of a student’s financial aid record if they have submitted a Free Application for Federal Student Aid (FAFSA). Students just above and below an EFC threshold are likely similar on observable characteristics and unobservable characteristics (e.g., motivation, career aspirations). 
 
 In most cases an ordinary least squares (OLS) regression of academic outcomes on an indicator of receipt of aid and a function of distance from the threshold can  yield unbiased estimates of the effect of HEERF aid among students close to the threshold (the local average treatment effect). Primary outcomes that can be observed with administrative data held by IHEs may include continued enrollment, credits earned, and enrollment intensity (credits as a proportion of full-time enrollment) in the Spring 2020 term; enrollment for the Fall 2020 term; and time to degree completion. 
 

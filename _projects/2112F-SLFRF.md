@@ -13,13 +13,13 @@ intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
 type: Impact evaluation
 domain:
- - Economic Opportunity
+ - Government Operations
 agency: Treasury
 status: Complete
 summary: Sending reminder emails did not increase submission of spending reports
 ---
 ## What Was The Challenge? 
-As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
+As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency and responsibility in the use of funds.²
 
 NEUs must submit their Project & Expenditure reports (“spending reports”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. To ensure that NEUs submit spending reports on time, Treasury sent out multiple emails to NEUs to remind them of their reporting obligations. <b>Sending reminders can make top of mind an action that busy individuals should take, but otherwise would forget. However, sending too many reminders may have the unintended effect of decreasing the saliency of the desired action by making the information redundant.</b>
 

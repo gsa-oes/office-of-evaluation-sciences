@@ -13,13 +13,13 @@ intervention: /assets/interventions/2112DEF-intervention-pack.pdf
 year: 2022 
 type: Impact evaluation
 domain:
- - Economic Opportunity
+ - Government Operations
 agency: Treasury
 status: Complete
 summary: Adding to-do lists and calls to action to emails increased signup on an online expenditure reporting portal
 ---
 ## What Was The Challenge? 
-As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency, responsibility, and equity in the use of funds.²
+As part of the American Rescue Plan (ARP), the U.S. Department of the Treasury (Treasury) is administering the State and Local Fiscal Recovery Funds program (SLFRF), which provides $350 billion in funding for eligible state, local, territorial, and Tribal governments to support their response to and recovery from the COVID-19 public health emergency. Approximately 27,000 small cities and towns – referred to as non-entitlement units (NEUs) of local government – were allocated $19.5 billion of this funding.¹ Treasury seeks to support NEUs to meet their reporting requirements in order to promote transparency and responsibility in the use of funds.²
 
 In order to submit the required spending reports, recipients must first register (“sign up”) on Treasury’s American Rescue Plan (ARP) Reporting and Compliance Portal. To ensure that NEUs know how to complete their reporting requirements on time, Treasury communications should <b>clearly and concisely lay out the steps NEUs need to take.</b>
 

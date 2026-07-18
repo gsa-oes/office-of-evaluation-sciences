@@ -3,6 +3,7 @@ title: Decreasing abandonment of calls to the 988 Suicide & Crisis Lifeline
 permalink: /2309-decreasing-abandonment-of-calls-to-988/
 tags: 
   - project
+  - health insurance
 share_image: /assets/img/project-images/2309-image.jpg
 image: /assets/img/project-images/2309-image.jpg  
 image_alt_text: woman holding a phone
