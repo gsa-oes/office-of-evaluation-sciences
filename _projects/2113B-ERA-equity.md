@@ -5,7 +5,7 @@ redirect_from:
   - /projects/era-equity/
 tags:
   - project
-  - housing
+  - payments
 share_image: /assets/img/project-images/2113B-image.jpg
 image: /assets/img/project-images/2113B-image.webp
 image_alt_text: Triple decker housing in Cambridge, MA
@@ -16,7 +16,7 @@ technical-appendix: /assets/abstracts/2113B-technical-appendix.pdf
 year: 2022
 type: Descriptive evaluation
 domain:
-  - Economic Opportunity
+  - Housing
 agency: Treasury
 status: Complete
 summary: A descriptive evaluation of the first-ever nationwide eviction prevention program
@@ -24,8 +24,7 @@ featured:
 ---
 
 ## What priority outcome did we evaluate?
-The first and second rounds of the Emergency Rental Assistance (ERA) program provided over $46 billion in funding to states, territories, Tribal governments, counties, and cities (“grantees”) to prevent eviction and housing instability in the wake of the pandemic. Overseen by the U.S. Department of the Treasury (Treasury), ERA provided direct cash assistance to renters and landlords to assist with rent, utilities, and other housing-related expenses. It was the first-ever nationwide program aimed at preventing eviction through direct assistance to renters.
-We partnered with Treasury to understand how the demographic profile of renters who were eligible for ERA compared to the demographic profile of renters who received ERA.
+The first and second rounds of the Emergency Rental Assistance (ERA) program provided over $46 billion in funding to states, territories, Tribal governments, counties, and cities (“grantees”) to prevent eviction and housing instability in the wake of the pandemic. Overseen by the U.S. Department of the Treasury (Treasury), ERA provided direct cash assistance to renters and landlords to assist with rent, utilities, and other housing-related expenses. It was the first-ever nationwide program aimed at preventing eviction through direct assistance to renters. We partnered with Treasury to understand how the demographic profile of renters who were eligible for ERA compared to the demographic profile of renters who received ERA.
 
 ## What were the key findings?
 - Extremely low income renters were overrepresented: at 64%, their share of the recipient population was twice their share of the eligible population.
@@ -48,12 +47,12 @@ Renters who identify as Native American, Alaska Native, Pacific Islander, or Haw
 Among eligible renters, ERA funds were much more likely to reach those with the lowest incomes. This matters for the representation of ethnic and racial groups, because income distributions vary by race and ethnicity. OES estimated underrepresentation of White and Latinx renters only at the higher end of the eligible income spectrum—extremely low income White and Latinx renters were overrepresented among recipients. For Asian renters, who were underrepresented in the program, gaps appeared less stark when accounting for income but remained nonetheless. The category “Asian” represents a diverse group of ERA-eligible renters who, according to analyses in the <a href="/assets/abstracts/2113B-technical-appendix.pdf">technical appendix</a>, generally have low uptake of other government programs. OES recommends further research focusing on ways to boost access to and receipt of government benefits among this group.
 
 <b>Figure 1</b>
-<i>Demographic characteristics of renters who received and renters who were eligible for ERA.</i>
+<i>Demographic Characteristics of Renters Who Received and Renters Who Were Eligible for ERA</i>
 <img src="{{ '/assets/img/project-images/2113B-fig1.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>Note: height of bars represents estimated proportion of population falling into that demographic category for the ACS, CPS, and Treasury recipient data, respectively. Error bars represent 95% confidence intervals on the difference between the eligible and recipient proportions, calculated through bootstrapped imputation standard errors.</i>
 
 <b>Figure 2</b>
-<i>The intersection of income, race, and ethnicity among renters who received and renters who were eligible for ERA.</i>
+<i>The Intersection of Income, Race, and Ethnicity Among Renters Who Received and Renters Who Were Eligible for ERA</i>
 <img src="{{ '/assets/img/project-images/2113B-fig2.webp' | prepend: site.baseurl }}" alt="" width="1500">
 <i>See note on Figure 1. Columns are divided by eligible income brackets; rows by racial and ethnic groups.</i>
 
