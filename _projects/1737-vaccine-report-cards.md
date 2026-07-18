@@ -3,7 +3,7 @@ title:  Increasing immunization compliance in schools
 permalink: /projects/vaccine-report-cards/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1737.jpg
 image: /assets/img/project-images/1737.webp
 image_alt_text: Doctor applying a vaccine
