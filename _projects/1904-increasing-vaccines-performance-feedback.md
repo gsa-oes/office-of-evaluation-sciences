@@ -3,7 +3,7 @@ title:  Increasing vaccine uptake through performance feedback
 permalink: /projects/1904-increasing-vaccines-performance-feedback/
 tags: 
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1904.jpg
 image: /assets/img/project-images/1904.webp
 image_alt_text: People getting vaccines
