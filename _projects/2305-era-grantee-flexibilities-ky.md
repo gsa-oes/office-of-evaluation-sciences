@@ -19,7 +19,7 @@ summary: Streamlining income verification for application processors in Kentucky
 featured:
 ---
 ## What is the agency priority? 
-At the outset of the COVID-19 pandemic, housing advocacy groups warned that 20% of renting households would be at <a class="usa-link usa-link--external" href="https://www.aspeninstitute.org/blog-posts/20-million-renters-are-at-risk-of-eviction/">risk of eviction</a> by the end of 2020 if the government did not act. Housing instability was <a class="usa-link usa-link--external" href="https://files.consumerfinance.gov/f/documents/cfpb_Housing_insecurity_and_the_COVID-19_pandemic.pdf">especially high</a> among renters with low incomes and renters who identified as people of color. 
+At the outset of the COVID-19 pandemic, housing advocacy groups warned that 20% of renting households would be at <a class="usa-link usa-link--external" href="https://www.aspeninstitute.org/blog-posts/20-million-renters-are-at-risk-of-eviction/">risk of eviction</a> by the end of 2020 if the government did not act.
 
 The U.S. Department of the Treasury (Treasury) administered the Emergency Rental Assistance (ERA) programs, which collectively provided over $46 billion to state, local, territorial and Tribal governments (grantees) to prevent eviction and housing instability in the wake of the pandemic. The ERA grantees provided direct cash assistance to renters, landlords, and utility providers to assist with rent, utilities, and other housing-related expenses. Individuals were eligible for ERA assistance if their household income fell below an area-specific threshold, in addition to being at risk of housing instability and experiencing hardship due to the pandemic. 
 
@@ -32,7 +32,8 @@ In June of 2021, KHC switched from having application reviewers examine a comple
 
 After the change, if applicants from those ZIP codes attested to having an income below that threshold, their applications were automatically flagged as income-eligible without further review. This system is referred to as a “fact-specific proxy” (FSP) because the fact of the neighborhood income proxies as proof of the applicant’s income. By removing the need to review, verify, and, in many cases, request follow-up income documentation, the FSP streamlined the process of income verification by application reviewers, while keeping the application form  and requirements for applicants the same.
 
-<b>Figure 1.</b> Before and after process flow chart
+<b>Figure 1</b>
+<i>Before and After Process Flow Chart</i>
 <img src="{{ '/assets/img/project-images/2305-flow-chart.svg' | prepend: site.baseurl }}" alt="Before and after process flow chart" width="1500">
 
 ## How did the evaluation work?
