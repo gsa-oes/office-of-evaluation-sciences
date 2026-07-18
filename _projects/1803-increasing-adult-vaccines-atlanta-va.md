@@ -3,8 +3,7 @@ title:  Increasing vaccine uptake among veterans at the Atlanta VA Health Care S
 permalink: /projects/increasing-adult-vaccines-atlanta-va/
 tags: 
   - project
-  - vaccines
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.jpg
 image: /assets/img/project-images/1803-increasing-adult-vaccines-atlanta-va-photo.webp
 image_alt_text: Patients/vaccines
