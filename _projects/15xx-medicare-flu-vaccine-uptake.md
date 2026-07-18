@@ -3,7 +3,7 @@ title:  Encouraging flu vaccine uptake among Medicare beneficiaries
 permalink: /projects/medicare-flu-vaccine-uptake/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/15xx-di.jpg
 image: /assets/img/project-images/15xx.webp
 image_alt_text: Doctor and patient interacting

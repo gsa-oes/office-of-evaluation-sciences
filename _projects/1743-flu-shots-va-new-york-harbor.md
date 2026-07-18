@@ -3,7 +3,7 @@ title:  Email sent via GovDelivery to Veterans enrolled with the VA New York Har
 permalink: /projects/flu-shots-va-new-york-harbor/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1743.jpg
 image: /assets/img/project-images/1743.webp
 image_alt_text: Doctor and patient

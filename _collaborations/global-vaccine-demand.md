@@ -3,11 +3,11 @@ title: Guiding evaluations of global vaccine demand and uptake
 permalink: /collaborations/global-vaccine-demand/
 tags:
   - collaborations
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/othercollabs/cdc-gid.png
 image: /assets/img/project-images/othercollabs/cdc-gid.webp
 year: 2023
-domain: Global Health
+domain: Health
 agency: 
   - Health and Human Services
 summary: A collaboration between OES and CDC's Demand for Immunization Team 

@@ -3,7 +3,7 @@ title: Increasing military patient use of secure messaging through personal appe
 permalink: /projects/military-secure-messaging/
 tags: 
   - project
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/1620.jpg
 image: /assets/img/project-images/1620.webp 
 image_alt_text: Hands typing on laptop

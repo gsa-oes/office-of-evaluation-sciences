@@ -3,7 +3,7 @@ title: Evaluating variations of maternal immunization messages
 permalink: /projects/pregnancy-vaccines-ads/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1736.jpg
 image: /assets/img/project-images/1736.webp
 image_alt_text: Vaccines.gov website

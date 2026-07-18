@@ -3,7 +3,7 @@ title: Increasing patient use of health IT
 permalink: /projects/patient-health-it/
 tags: 
   - project
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/health-it.jpg
 image: /assets/img/project-images/health-it.webp
 image_alt_text: People sitting in front of computer

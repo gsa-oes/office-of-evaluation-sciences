@@ -3,7 +3,7 @@ title:  Increasing flu vaccine uptake among Veterans at the St. Cloud VA
 permalink: /projects/flu-shots-va-st-cloud/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1740-image.jpg
 image: /assets/img/project-images/1740.webp
 image_alt_text: Doctor and patient

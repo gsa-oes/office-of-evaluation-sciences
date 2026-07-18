@@ -3,7 +3,7 @@ title:  Increasing flu shot uptake among pregnant women
 permalink: /projects/duke-maternal-flu-shots/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1735.jpg
 image: /assets/img/project-images/1735.webp
 image_alt_text: Nurse applying a vaccine

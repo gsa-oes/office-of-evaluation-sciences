@@ -3,7 +3,7 @@ title: Increasing use of patient generated health data through patient reminders
 permalink: /projects/patient-health-data-patient-reminders/
 tags: 
   - project
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/1729-2-graph.jpg
 image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of laptop

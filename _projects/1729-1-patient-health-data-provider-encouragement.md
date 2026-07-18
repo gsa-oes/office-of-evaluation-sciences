@@ -3,7 +3,7 @@ title: Increasing use of patient generated health data through provider encourag
 permalink: /projects/patient-health-data-provider-encouragement/
 tags: 
   - project
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/1729-2-graph.jpg
 image: /assets/img/project-images/1729.webp
 image_alt_text: People sitting in front of laptop

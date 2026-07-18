@@ -3,7 +3,7 @@ title: Increasing vaccine uptake among seniors in Louisiana
 permalink: /projects/increasing-vaccine-uptake-among-seniors/
 tags:
   - project
-  - vaccines
+  - health insurance
 share_image: /assets/img/project-images/1738.jpg
 image: /assets/img/project-images/1738.webp 
 image_alt_text: Doctor and patient

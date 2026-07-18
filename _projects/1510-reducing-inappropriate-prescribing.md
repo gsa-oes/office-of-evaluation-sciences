@@ -3,7 +3,7 @@ title: Reducing inappropriate prescribing of Schedule II substances in Medicare 
 permalink: /projects/reducing-inappropriate-prescribing/
 tags: 
   - project
-  - prescribing
+  - health insurance
 share_image: /assets/img/project-images/prescribe.jpg
 image: /assets/img/project-images/prescribe.webp
 image_alt_text: Man with prescriber letters
