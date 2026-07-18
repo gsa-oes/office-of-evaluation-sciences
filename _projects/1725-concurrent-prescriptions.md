@@ -3,8 +3,7 @@ title: Reducing concurrent opioid-benzodiazepine prescriptions through provider 
 permalink: /projects/concurrent-prescriptions/
 tags: 
   - project
-  - prescribing
-  - healthit
+  - health insurance
 share_image: /assets/img/project-images/1725.JPG
 image: /assets/img/project-images/1725.webp
 image_alt_text: Medical storage room
