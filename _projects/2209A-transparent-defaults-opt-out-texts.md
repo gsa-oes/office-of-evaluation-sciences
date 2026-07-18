@@ -3,7 +3,6 @@ title: Decreasing opt out from text messages about benefit programs
 permalink: /projects/2209A-transparent-defaults-opt-out-texts/
 tags: 
  - project
- - arp
 share_image: /assets/img/project-images/2209A-image.jpg
 image: /assets/img/project-images/2209A-image.webp 
 image_alt_text: Person on an iphone
@@ -14,7 +13,6 @@ intervention: /assets/interventions/2209a-decreasing-opt-out-mn-intervention-pac
 year: 2024  
 domain:
  - Communications
- - Pandemic Relief and Recovery
 type: Impact evaluation
 agency: Health and Human Services
 status: Complete
@@ -34,7 +32,8 @@ We saw no difference in opt-out rates between the standard and transparent messa
 
 Although text messages can be an effective tool to communicate with large numbers of individuals, throttling and other factors can affect whether outgoing text messages reach their intended audience. The low opt-out rate among providers who had messages delivered corroborates a well-established finding that individuals conform to defaults. Asking individuals to opt out of text messages rather than opt into them can increase subscription rates, enabling the sharing of information on important public benefits.
 
-<b>Figure 1.</b> Transparent defaults did not affect opt out rates or successful delivery of messages, but throttling was greater in the transparent message group
+<b>Figure 1</b>
+<i>Transparent Defaults Did Not Affect Opt Out Rates or Successful Delivery of Messages, But Throttling Was Greater In the Transparent Message Group</i>
 <img src="{{ '/assets/img/project-images/2209a-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing that transparent defaults did not affect opt out rates or successful delivery of messages, but throttling was greater in the transparent message group" width="1500">
 
 Verify the upload date of our Analysis Plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2209A-analysis-plan.pdf">on Github</a>.
