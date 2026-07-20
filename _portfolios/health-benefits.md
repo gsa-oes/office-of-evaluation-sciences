@@ -7,7 +7,7 @@ image: /assets/img/project-images/health-benefits.webp
 image_alt_text: Piggy bank
 hide_image: true
 year: 2015
-summary: Interventions to increase enrollment in health benefits programs
+summary: Interventions to increase health care
 project_tags:
   - health insurance
 ---
