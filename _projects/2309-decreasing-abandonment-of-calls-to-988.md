@@ -12,7 +12,7 @@ analysis-plan: /assets/analysis/2309-decreasing-abandonment-of-calls-to-988-anal
 abstract-web: /results/decreasing-abandonment-of-calls-to-988/
 intervention: /assets/interventions/2309-decreasing-abandonment-of-calls-to-988-intervention-pack.pdf
 year: 2024 
-domain: Efficiency and Effectiveness
+domain: Efficiency and effectiveness
 type: Impact evaluation
 agency: Health and Human Services
 status: Complete
