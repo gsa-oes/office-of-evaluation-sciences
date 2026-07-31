@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Resources
+title: Evaluation Resources
 permalink: /resources/
 image:
-summary: 
+summary: We develop resources
 ---
 
 <div class="margin-top-4">
