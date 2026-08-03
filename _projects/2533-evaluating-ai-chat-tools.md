@@ -21,6 +21,7 @@ summary_bullets:
   - We found that 35% of GSA employees used GSA chat (GSA’s internal GenAI tool) at least once during the first five weeks post-launch, and employee experiences and training needs differed depending on their level of use. 
   -    These insights can be used to increase GenAI use and employee knowledge to accelerate AI adoption.  
 featured:
+- services
 - homepage 
 ---
 ## Agency priority
