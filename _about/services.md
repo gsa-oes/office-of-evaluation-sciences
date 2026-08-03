@@ -38,6 +38,28 @@ We conduct a descriptive evaluation to help better measure and understand what i
 
 <h2>Formative evaluation</h2>
 We conduct a formative evaluation to help assess whether your program is feasible and appropriate before it’s fully implemented.
+{% assign featured_change = site.projects | where: "featured" , "services" | where: "type", "Formative evaluation" %}
+{% if featuredprojects.size == 0 %}
+{% else %}
+  <section class="usa-accordion featured bg-white padding-1">
+ <h2 class="usa-accordion__heading">
+    <button
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a2"
+    >
+      Recent examples
+    </button>
+  </h2>
+  <div id="a2" class="usa-accordion__content usa-prose">
+      <div class="grid-row grid-gap-lg">
+        {% for project in featured_change %}
+          {% include project-card.html %}
+        {% endfor %}
+  </div>
+   </div>
+</section>
+{% endif %}
 
 <h2>Process or implementation evaluation</h2>
 We conduct a process or implementation evaluation to assess whether your program was implemented as intended.
