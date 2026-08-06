@@ -17,7 +17,7 @@ As part of this evaluation, OES compared the cost of the Cash for Your Stash pro
 
 In order to build evidence on impact and identify cost effective program improvements across government, we think it is valuable to be transparent about how cost estimates are produced. In this post, we detail the methodology and assumptions to produce these cost estimates, using a project example. (See our previous blog post on <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">what it costs to incorporate behaviorally informed interventions</a>).
 
-## What did this analysis involve?
+## What Did This Analysis Involve?
 We can break our process of costing the program into four main steps:
 
 <b>1. Tabulating the costs at the original site:</b> In collaboration with our partner at the White River Junction VA Medical Center, we used the “ingredient method” of costing¹ to gather program costs by listing all of the “ingredients” necessary to implement the program, estimating the unit costs of each item, and determining how much of each ingredient was needed.  We broke down all costs for an average year of the program, for both the basic Cash for Your Stash program, and the additional reminder card: 
@@ -37,6 +37,4 @@ For other VA facilities considering implementing this program, we estimate that 
 
 ### Notes
 1. Dhaliwal, Iqbal, Esther Duflo, Rachel Glennerster, and Caitlin Tulloch. "Comparative cost-effectiveness analysis to inform policy in developing countries: a general framework with applications for education." <i>Education policy in developing countries</i> 17 (2013): 285-338, <a href="https://economics.mit.edu/sites/default/files/2022-08/cost-effectiveness-1.pdf" target="_blank">https://economics.mit.edu/sites/default/files/2022-08/cost-effectiveness-1.pdf</a>.
-2. Rounding errors may occur. 
-
-
+2. Rounding errors may occur.
