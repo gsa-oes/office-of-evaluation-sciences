@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: Census Community Outreach Toolkit targets various outreach barriers	
+title: Census Community Outreach Toolkit Targets Various Outreach Barriers	
 permalink: /blog/census-toolkit/	
 share_image: /assets/img/project-images/census.jpg
 image: /assets/img/project-images/census.webp
