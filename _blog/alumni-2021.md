@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: A discussion with OES alums - where are they now?
+title: A Discussion With OES Alums - Where Are They Now?
 permalink: /blog/alumni/	
 share_image: /assets/img/project-images/alumni-blog.png
 image: /assets/img/project-images/alumni-blog.webp
@@ -12,7 +12,7 @@ summary:
 ---	
 OES is made up of interdisciplinary experts from federal agencies and academic, non-profit, local government institutions. We believe that our different disciplinary perspectives make us stronger. 
 
-### Where are you working now and what are you working on? 
+### Where Are You Working Now and What Are You Working On? 
 
 **Jake Bowers:** University of Illinois @ Urbana-Champaign, Departments of Political Science and Statistics. Among many projects a paper on testing many hypotheses in experiments with thousands of blocks/strata.
 
@@ -27,7 +27,7 @@ OES is made up of interdisciplinary experts from federal agencies and academic, 
 **Rebecca Kruse:** I joined the Department of Homeland Security (DHS) in November 2020 as the Assistant Director for Evaluation for the Program Analysis and Evaluation Division in the Office of the Chief Financial Officer. In partnership with the DHS Evaluation Officer, I currently lead the Department’s development of evaluation and evidence infrastructure to implement Evidence Act Title 1. 
 
 
-### Why did you originally join the OES team?
+### Why Did You Originally Join the OES Team?
 
 **Amira:** It felt so obvious that we needed a part of government thinking about how to design itself knowing what we know about humans and how they work, to better deliver on the missions we are charged with. To get to be a part of an incredible team with folks from across the country and different disciplines and backgrounds unified in that vision, it was unlike any other job!
 
@@ -35,8 +35,7 @@ OES is made up of interdisciplinary experts from federal agencies and academic, 
 
 **Lula:** One reason I started my PhD was to learn how to evaluate government projects and programs more rigorously.  OES was an amazing opportunity to do that directly in government. 
 
-
-### What was your favorite part of working with OES? 
+### What Was Your Favorite Part of Working With OES? 
 
 **Amira:** Working on the <a href="https://obamawhitehouse.archives.gov/blog/2016/09/15/learn-how-behavioral-science-being-used-better-serve-american-people" target="_blank">Federal Re-Entry Guide</a> felt like one of the most meaningful things we could do. Returning community members are coming back into a world that sometimes has changed so dramatically, and so many “systems” are setup to fail them. Recreating that document into a pocket-sized booklet, with concrete and ordered actions, at three distinct points in time, hopefully helped to breakdown what can be an overwhelming experience into some manageable steps. 
 
@@ -50,20 +49,18 @@ I also really like the <a href="https://oes.gsa.gov/methods/" target="_blank">OE
 
 My collaboration with the VA Education Service division not only was a seamless project that I was able to see through from beginning to end but also had a significant impact on Post 9/11 GI Bill beneficiaries.
 
-
-### What are your biggest takeaways from working with the OES team and how does your time with OES impact your current work? 
+### What Are Your Biggest Takeaways From Working With the OES Team and How Does Your Time With OES Impact Your Current Work? 
 
 **Jake:** That practices of research integrity arising from academia are even more important and differently important in the world of evidence-based policy.
 Also, that we don’t know as much as we’d like to think we know about strategies for behavior change.
 
 **Lula:** Some of my biggest takeaways: 1) Treat constraints within government as an opportunity to develop creative evaluations/solutions. 2) Find a great team to work with. My current projects are very much influenced by my work at OES. I’m still working on projects that lead to government/policy outcomes. I’m also working on evaluations that are more embedded in an intervention.  
 
-
-### What advice would you give to individuals considering working with OES? 
+### What Advice Would You Give to Individuals Considering Working With OES? 
 
 **Amira:** This Administration, through an Executive Order on advancing racial equity and support for underserved communities, a Presidential Memorandum on increasing trust in government through scientific integrity, and so many other actions, has made OES’ work more important than ever. This is an exciting moment for the team to be able to do such good work. Importantly though, enjoy working with the amazing people around you who will make you better. It’s so much fun – just find the dancing chicken video.   
 
-**Lula:** Apply!  I approached the whole process as a chance to contribute to public service and as a great learning opportunity, and I found the experience very fulfilling.  
+**Lula:** Apply! I approached the whole process as a chance to contribute to public service and as a great learning opportunity, and I found the experience very fulfilling.  
 
 **Russ:** Crowdsource knowledge and insights--that is how you make the most of being on such an interdisciplinary and talented team.
 
@@ -73,6 +70,4 @@ Also, that we don’t know as much as we’d like to think we know about strateg
 
 **Jake:** Do it! You’ll love it!
 
-
 *For more information on our fellowships, visit our <a href="https://oes.gsa.gov/opps" target="_blank">Opportunities page</a>. The deadline to apply for Fall 2022 fellowships was January 3. 2022.*
-
