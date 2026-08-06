@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: What does it cost to incorporate behaviorally informed interventions within government programs?
+title: What Does It Cost To Incorporate Behaviorally Informed Interventions Within Government Programs?
 permalink: /blog/cost-analysis/	
 image: /assets/img/oes-banner-light.webp
 image_alt_text: OES illustration
