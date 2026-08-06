@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: Using behavioral insights to improve customer experience with government
+title: Using Behavioral Insights to Improve Customer Experience with Government
 permalink: /blog/cx-part-1/	
 share_image: /assets/img/project-images/customer-experience.png
 image: /assets/img/project-images/customer-experience.webp
