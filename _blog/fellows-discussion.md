@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: A discussion with OES fellows
+title: A Discussion With OES Fellows
 permalink: /blog/2020-fellows/	
 image: /assets/img/oes-banner-light.webp
 image_alt_text: OES illustration
@@ -10,7 +10,7 @@ class:
 summary: 	
 ---	
 
-The OES team had the pleasure of bringing on seven new fellows in 2020 from various disciplines -  including economics, public policy, marketing, and psychology - to support agencies build and use evidence. Our fellows provide rigorous academic expertise and ensure our projects meet the highest standards of evaluation rigor and research integrity. 
+The OES team had the pleasure of bringing on seven new fellows in 2020 from various disciplines - including economics, public policy, marketing, and psychology - to support agencies build and use evidence. Our fellows provide rigorous academic expertise and ensure our projects meet the highest standards of evaluation rigor and research integrity. 
  
 As we approach nearly nine months into the COVID-19 pandemic here in Washington D.C., we recognize that this is our first cohort of fellows working with the team entirely remotely. We asked a few of our fellows to reflect on their experiences working with the team this year.
 
