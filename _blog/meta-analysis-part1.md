@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: OES behavioral interventions found to be effective at improving government programs in recent large-scale review
+title: OES Behavioral Interventions Found to Be Effective At Improving Government Programs In Recent Large-scale Review
 permalink: /blog/meta-analysis-part-1/	
 image: /assets/img/kites.webp
 image_alt_text: Graphs and diagrams
@@ -18,4 +18,4 @@ This was the largest review of its kind and gives us a more complete and accurat
 
 The reason this review was able to provide  an accurate picture of behaviorally informed interventions is OES’ consistent commitment to report results from all completed evaluations.. All of our results can be found on our <a href="https://oes.gsa.gov/work/" target="_blank">website</a>. <a href="https://oes.gsa.gov/projectprocess/" target="_blank">OES’ project process</a> includes posting <a href="https://oes.gsa.gov/methodsdetail/#analysis-plans">analysis plans</a> before we work with data, so that users of our results can be confident that we didn’t cherry-pick results that appear to be significant but in fact reflect statistical noise. Transparency as an evaluation principle helps ensure that, over time, results  across studies yield an unbiased picture of what works to make government better.
  
-Additional OES analysis found that  87 percent of the OES interventions analyzed were of no or low marginal cost, meaning that applying behavioral insights can be very cost effective. A second blog on OES’ additional costing analysis can be found <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">here</a>.
+Additional OES analysis found that  87 percent of the OES interventions analyzed were of no or low marginal cost, meaning that applying behavioral insights can be very cost effective. Read the <a href="https://oes.gsa.gov/blog/cost-analysis/" target="_blank">next blog</a> on OES’ additional costing analysis.
