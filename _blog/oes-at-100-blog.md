@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: Reflections from 100 OES collaborations
+title: Reflections From 100 OES Collaborations
 permalink: /blog/100-oes-collaborations/	
 image: /assets/img/OESat100cropped.webp
 image_alt_text: Illustration with graphs
