@@ -35,14 +35,14 @@ We found that there are 49,075 rural and small firms registered on SAM.gov, repr
 
 <b>Figure 1</b>
 <br>
-The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code
+<i>The Number of Rural Small Businesses Registered on SAM.gov and the Proportion of Registered Firms That Are Rural Small Businesses, By 2-digit NAICS Industry Code</i>
 <img src="{{ '/assets/img/project-images/2502-fig1.svg' | prepend: site.baseurl }}" alt="The number of rural small businesses registered on SAM.gov and the proportion of registered firms that are rural small businesses, by 2-digit NAICS industry code" width="500">
 
 We also found that only 2.8% of all prime awards and 3.5% of all subcontracts go to rural small businesses (Figure 2).<sup>1</sup> In contrast, in NAICS code 11 (Agriculture, Forestry, Fishing and Hunting), 45% of prime awards go to rural small businesses. While rural small businesses win a small fraction of all awards (prime and subcontracts), they win a large share of the awards that go to rural firms of any size. Of the prime awards going to rural businesses, 75% are going to rural small businesses. 
 
 <b>Figure 2</b>
 <br>
-The proportion of prime awards going to rural small businesses and the proportion of all prime awards to rural businesses that go to small businesses, by 2-digit NAICS industry code
+<i>The Proportion of Prime Awards Going to Rural Small Businesses and the Proportion of All Prime Awards to Rural Businesses That Go to Small Businesses, By 2-digit NAICS Industry Code</i>
 <img src="{{ '/assets/img/project-images/2502-fig2.svg' | prepend: site.baseurl }}" alt="The proportion of prime awards going to rural small businesses and the proportion of all prime awards to rural businesses that go to small businesses, by 2-digit NAICS industry code" width="500">
 
 Finally, we found that 13% of rural small businesses registered on SAM.gov participate in at least one SBA program, while 83% of rural small businesses are potentially eligible for a SBA program they are not currently participating in. HUBZone (64%) and 8(a) (43%) have the highest percentage of non-participants who are potentially eligible.<sup>2</sup> Currently, only 7% and 2% of likely eligible small businesses participate in each program respectively. Smaller, but meaningful, percentages of rural small businesses are also potentially eligible for woman-owned (WOSB, 21%) and veteran-owned (VOSB, 9%) small business programs compared to the 2% and 5% that are currently participating.<sup>3</sup>
