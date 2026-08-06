@@ -1,6 +1,6 @@
 ---	
 layout: page	
-title: Three ways your agency can improve customer experience
+title: Three Ways Your Agency Can Improve Customer Experience
 permalink: /blog/cx-part-2/	
 share_image: /assets/img/project-images/customer_experience_2.png
 image: /assets/img/project-images/customer_experience_2.webp
