@@ -1,6 +1,6 @@
 ---
 layout: page	
-title: Using OES evidence to inform SSA’s outreach to low-income elderly populations
+title: Using OES Evidence to Inform SSA’s Outreach to Low-income Elderly Populations
 permalink: /blog/ssi-utilization/	
 share_image: /assets/img/project-images/2205-image.jpg
 image: /assets/img/project-images/2205-image.webp
@@ -10,7 +10,7 @@ year: 2033
 class:	
 summary: 	
 ---
-The Social Security Administration (SSA) administers the Supplemental Security Income (SSI), which provides an income supplement for meeting basic needs to about 8 million aged, blind, and disabled people who have little or no income and assets. In light of <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/" target="_blank"> Executive Order 13985</a>, making sure that everyone who is eligible for SSI benefits receives them is a priority and can be a challenge. OES is building evidence on what works to help ensure that those who are eligible for SSI receive it.
+The Social Security Administration (SSA) administers the Supplemental Security Income (SSI), which provides an income supplement for meeting basic needs to about 8 million aged, blind, and disabled people who have little or no income and assets. In light of <a href="https://www.govinfo.gov/content/pkg/DCPD-202100054/pdf/DCPD-202100054.pdf" target="_blank"> Executive Order 13985</a>, making sure that everyone who is eligible for SSI benefits receives them is a priority and can be a challenge. OES is building evidence on what works to help ensure that those who are eligible for SSI receive it.
 
 Research indicates that SSI has one of the lowest uptake rates among federal programs in the United States.¹ ² The COVID-19 pandemic posed new challenges for those that might be eligible, as limitations related to the pandemic made it even harder for already vulnerable groups to get information about their potential SSI eligibility.
 
