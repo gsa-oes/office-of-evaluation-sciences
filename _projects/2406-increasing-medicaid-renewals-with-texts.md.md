@@ -28,7 +28,7 @@ We ran a randomized evaluation from June to November 2024 among 7,468 Medicaid c
 1. Before a cohort’s renewal window opened, cases were randomized into a credibility text group or a no credibility text group.
 2. In the middle of a cohort’s renewal window, cases that had not yet renewed were randomized to a phone call outreach group (who received a pre-call text message and a phone call) and a no phone call group (who received neither a pre-call text nor a phone call).
 
-## What Did we Learn?
+## What Did We Learn?
 Out of 7,468 cases in our sample, 6,872 (91%) renewed coverage during the evaluation. The additional text messages and phone calls did not significantly affect the number of renewals. For similar programs, excluding additional credibility texts and phone calls from their existing series of reminders would not result in decreased renewal rates. Although the added outreach did not increase renewal behavior in this evaluation, it is possible that this outreach increased trust in Norfolk’s communications, an outcome we did not measure. Future programs may wish to weigh the costs of additional outreach with the benefits of increasing trust, since additional outreach may not affect renewal rates.
 
 Verify the upload date of our analysis plan <a class="usa-link usa-link--external" href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/2406-increasing-medicaid-renewals-analysis-plan.pdf">on Github</a>.
