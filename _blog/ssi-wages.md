@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using evidence to improve government efficiency through timely wage reporting
+title: Using Evidence To Improve Government Efficiency Through Timely Wage Reporting
 permalink: /blog/wage-reporting/
 share_image: /assets/img/project-images/xxxx-ssi-wage-reporting.jpg
 image: /assets/img/project-images/xxxx-ssi-wage-reporting.webp
@@ -21,9 +21,9 @@ This study tested whether a behaviorally-informed letter would encourage SSI rec
     4. A combination letter which included both behavioral components. 
  Three months after the intervention, SSI recipients who received any letter were **34 percent more likely to have reported any earnings for the previous three months, and they reported about 75 percent more in earnings.**
 
+**Table 1**
+*Letters To SSI Recipients Significantly Increased Timely Reporting Of Wages*
 ![image]({{site.baseurl}}/assets/img/project-images/blog3table1.webp)
-
-*Table 1 .Letters to SSI recipients significantly increased timely reporting of wages*
 
 Taking on this type of evidence-building project to meet a specific agency goal—reducing improper payments demonstrates the Agency’s commitment to being a good steward of the programs it administers. SSA plans to build on this experience in at least two ways: 
 First, by making further improvements to the letters by highlighting other important reporting responsibilities. 
