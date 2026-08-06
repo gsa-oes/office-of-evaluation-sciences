@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Retirement savings
+title: Retirement Savings
 permalink: /retirement-savings/
 share_image: /assets/img/project-images/1723.jpg
 image: /assets/img/project-images/1723.webp
@@ -20,4 +20,4 @@ The average American spends roughly 20 years in <a class="usa-link usa-link--ext
 <a class="usa-link usa-link--external" href="https://www.federalreserve.gov/econresdata/older-adults-survey/July-2013-Financial-Stress-and-Well-Being-of-Older-Adults.htm">Insufficient saving</a> puts pressure on Social Security benefits, burdens safety net programs, and creates financial stress.
 
 ## Portfolio
-OES worked with the Department of Defense, the Department of the Treasury, the United States Postal Service, and the Social Security Administration to increase enrollment in defined-contribution pension plans and prompt benefit claims by eligible older adults.
+We have worked with the Department of Defense, the Department of the Treasury, the United States Postal Service, and the Social Security Administration to increase enrollment in defined-contribution pension plans and prompt benefit claims by eligible older adults.
