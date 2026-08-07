@@ -22,7 +22,7 @@ summary: Emailing federal buyers with templated capabilities statements did not 
 summarybox: true
 summary_bullets:
   - Small manufacturing businesses sometimes struggle to engage in the federal marketplace. To market themselves for government contracting opportunities, small businesses often use capabilities statements. These are PDF documents with descriptions of the firm’s core strengths and prior experience, showcasing the firm’s services to federal buyers.
-  - In this evaluation, we tested whether redesigning capabilities statements using a template and proactively sharing them with federal buyers led to greater buyer engagement–essentially, whether the new format better captured buyers’ attention.  We found that proactively sharing the templated capabilities statements via email made no difference in federal buyer engagement, measured by whether buyers clicked to view and/or submitted the form.
+  - In this evaluation, we tested whether redesigning capabilities statements using a template and proactively sharing them with federal buyers led to greater buyer engagement–essentially, whether the new format better captured buyers’ attention.  We found that proactively sharing the templated capabilities statements via email made no difference in federal buyer engagement, measured by whether buyers clicked to view and then submit the interest form.
   - Overall, emailing federal buyers with templated capabilities statements may not be an effective strategy for improving small business marketing, and alternative methods of reaching federal buyers for evaluations should be explored.   
 ---
 
