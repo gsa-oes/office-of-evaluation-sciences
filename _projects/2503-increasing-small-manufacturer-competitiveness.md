@@ -10,6 +10,7 @@ image_alt_text: Man in jacket holding binder of materials
 image-credit: https://www.pexels.com/photo/man-in-blue-suit-jacket-using-silver-macbook-9363125/
 analysis-plan: /assets/analysis/2503-analysis-plan.pdf
 abstract: /assets/abstracts/2503-evaluation-summary.pdf
+intervention: /assets/interventions/2503-small-manufacturing-business-marketing-intervention-pack.pdf
 year: 2026
 domain:
 type: Impact evaluation
