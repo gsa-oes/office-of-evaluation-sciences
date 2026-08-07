@@ -8,6 +8,11 @@ class:
 summary: 
 ---
 
+## Apply to work at OES!
+We have a Data Scientist position open to join our GSA Evaluations Team. Information about duties and necessary specialized experience and how to apply can be found on USAJobs.
+
+<b><a class="usa-link usa-link--external" href="https://www.usajobs.gov/job/879652600">Apply on USAJOBS</a></b> by August 13, 2026. 
+
 ## OES Evaluation Fellowship
 OES Evaluation Fellowships begin in the fall of each year. Selected applicants will serve their one-year fellowship term as Evaluators, joining a team of interdisciplinary experts at the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
 
