@@ -1,6 +1,6 @@
 ---
 title: Increasing Awareness of GSA Resources for Small Businesses on the Multiple Award Schedule
-permalink: /-increasing-awareness-of-GSA-MAS-resources/
+permalink: /2604-increasing-awareness-of-GSA-MAS-resources/
 tags:
   - project
   - business
