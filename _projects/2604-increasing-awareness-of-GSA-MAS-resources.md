@@ -8,7 +8,7 @@ share_image: /assets/img/project-images/2604.png
 image: /assets/img/project-images/2604.jpg
 image-credit: https://buy.gsa.gov/interact/community/6/activity-feed
 image_alt_text: American flag flying above a rural field
-analysis-plan: /assets/analysis/2605-analysis-plan.pdf
+analysis-plan: /assets/analysis/2604-analysis-plan.pdf
 abstract:
 year: 2026
 domain: Economic Opportunity
