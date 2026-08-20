@@ -11,7 +11,7 @@ image_alt_text: Gray and red factory building under a calm blue sky
 analysis-plan: /assets/analysis/2603-analysis-plan.pdf
 abstract:
 year: 2026
-domain: 
+domain: Economic Opportunity
 type: Impact evaluation
 agency: Small Business Administration
 status: Ongoing
