@@ -1,6 +1,6 @@
 ---
 title: Assessing Procurement Readiness for Small Manufacturing Firms
-permalink: /-assessing-procurement-readiness-for-small-manufacturing-firms/
+permalink: /2603-assessing-procurement-readiness-for-small-manufacturing-firms/
 tags:
   - project
   - business
