@@ -1,6 +1,6 @@
 ---
 title: Bringing Rural Small Businesses Already Selling to States Into Federal Procurement
-permalink: /-assessing-procurement-readiness-for-small-manufacturing-firms/
+permalink: /2605-assessing-procurement-readiness-for-small-manufacturing-firms/
 tags:
   - project
   - business
