@@ -5,13 +5,8 @@ permalink: /opps/
 image: /assets/img/icons/oes-green.webp
 hide_image: true
 class:
-summary: 
+summary:
 ---
-
-## Apply to Work At OES!
-We have a Data Scientist position open to join our GSA Evaluations Team. Information about duties and necessary specialized experience and how to apply can be found on USAJobs.
-
-<b><a class="usa-link usa-link--external" href="https://www.usajobs.gov/job/879652600">Apply on USAJOBS</a></b> by August 13, 2026. 
 
 ## OES Evaluation Fellowship
 OES Evaluation Fellowships begin in the fall of each year. Selected applicants will serve their one-year fellowship term as Evaluators, joining a team of interdisciplinary experts at the U.S. General Services Administration (GSA) that works across government to help agencies build and use evidence.
@@ -24,7 +19,7 @@ Fellows join the OES team on-loan from academic, nonprofit, or government office
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6RUXVPh-Hyc?si=KyCVA8Zss_M6M8d3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
-We are not recruiting right now, but you can learn more about the position and what we look for by viewing the <a href="https://oes.gsa.gov/assets/files/FY26-fellowship-solicitation.pdf">2026 solicitation (PDF)</a> for more details on the position and the typical applicant profile. 
+We are not recruiting right now, but you can learn more about the position and what we look for by viewing the <a href="https://oes.gsa.gov/assets/files/FY26-fellowship-solicitation.pdf">2026 solicitation (PDF)</a> for more details on the position and the typical applicant profile.
 
 ## Frequently Asked Questions
 
@@ -76,8 +71,8 @@ I saw from the description that Evaluators join OES "on-loan" from other institu
   <div id="b3" class="usa-accordion__content usa-prose">
 <p>
 This is a detail opportunity through the Intergovernmental Personnel Act (IPA) Mobility Program for employees of eligible organizations. The IPA requires a state, local, or Tribal government; academic institution; or non-profit organization to finance the employee and administer their salary/stipend, benefits, and (if applicable) visa. OES then reimburses the home institution for any allowable costs. Those joining OES via the IPA remain employees of their organization and are not federal employees.
-    
-You can find more information about the IPA in the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">OES IPA toolkit</a> or on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview. 
+   
+You can find more information about the IPA in the <a href="https://oes.gsa.gov/assets/files/ipa-toolkit-oes.pdf">OES IPA toolkit</a> or on the <a class="usa-link usa-link--external" href="https://www.opm.gov/policy-data-oversight/hiring-information/intergovernment-personnel-act/">OPM website</a>. If you have not yet verified what organization you will be affiliated with next year, we encourage you to still apply to the fellowship. We plan to discuss candidates' intended IPA institutions during the final interview.
 
 Note that current federal employees can join OES on detail from their agency via an Interagency Agreement (IAA).
     </p>
@@ -102,7 +97,7 @@ Through the Intergovernmental Personnel Act (IPA) Mobility Program, those select
 <li><u>Senior Evaluators</u>: Up to $180,000 for the employee’s salary and benefits per year of full-time work.</li>
 </ul>
     <p>For amounts that exceed these reimbursement caps, cost-sharing arrangements will be determined with individual institutions.
-        
+       
 Current federal employees will continue to be paid by their agency, with reimbursement to the agency determined under an Interagency Agreement (IAA). Please note that this is not a temporary promotion opportunity.</p>
     </p>
    </div>
@@ -189,7 +184,7 @@ Do you have guidance for people with active grants or other ongoing commitments?
   </h2>
   <div id="b9" class="usa-accordion__content usa-prose">
 <p>
-Those selected for the position will undergo a briefing with the GSA Office of General Counsel to identify and mitigate any conflicts of interest arising from active grants or other obligations. From a time commitment perspective, while schedules at OES are flexible, please let us know during the selection process whether your ongoing work prevents you from serving at OES in a full-time capacity. 
+Those selected for the position will undergo a briefing with the GSA Office of General Counsel to identify and mitigate any conflicts of interest arising from active grants or other obligations. From a time commitment perspective, while schedules at OES are flexible, please let us know during the selection process whether your ongoing work prevents you from serving at OES in a full-time capacity.
     </p>
    </div>
 </section>
@@ -197,4 +192,3 @@ Those selected for the position will undergo a briefing with the GSA Office of G
 <section class="usa-section bg-white">
   {% include contact.html %}
 </section>
-
