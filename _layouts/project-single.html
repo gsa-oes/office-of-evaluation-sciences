@@ -8,65 +8,46 @@ class: page-project-single
   {% endif %}
 </div>
 
+{% if page.summarybox %}
+<div class="grid-row grid-gap-lg">
+  <div class="tablet:grid-col-8 usa-prose">
+    {% include summarybox.html %}
+  </div>
+  <div class="tablet:grid-col-4 single-sidebar">
+    {% include project-details.html %}
+  </div>
+</div>
+
 <div class="grid-row grid-gap-lg">
   <div class="tablet:grid-col-8 margin-bottom-2">
-    <div class="usa-prose">
-    {% if page.summarybox %}{% include summarybox.html %}{% endif %}
+    <div class="usa-prose" id="project-content">
       {{ content }}
     </div>
   </div>
-  <div class="tablet:grid-col single-sidebar">
-  {% if page.year %}
-    <h3 class="h4">Year</h3>
-    <p>{{ page.year }}</p>
-    {% endif %}
-  {% if page.status %}
-    <h3 class="h4">Status</h3>
-    <p>{{ page.status }}</p>
-  {% endif %}
-     {% if page.type %}
-    <h3 class="h4">Project Type</h3>
-    <p>{{ page.type }}</p>
-  {% endif %}
-  {% if page.agency %}
-    <h3 class="h4">Agency</h3>
-    <p>{{ page.agency  | join: ', ' }}</p>
-  {% endif %}
-  {% if page.domain %}
-    <h3 class="h4">Domain</h3>
-    <p>{{ page.domain  | join: ', ' }}</p>
-  {% endif %}
-  {% if page.analysis-plan %}
-  <h3 class="h4">Resources</h3>
-    <a class="usa-button margin-bottom-2" href="{{ page.analysis-plan | prepend: site.baseurl }}" target="_blank">View Analysis Plan (PDF)</a>
-  {% endif %}
-
-  {% if page.abstract %}
-    <a class="usa-button margin-bottom-2" href="{{ page.abstract | prepend: site.baseurl }}" target="_blank">View Evaluation Summary (PDF)</a>
-  {% endif %}
-
-  {% if page.abstract-web %}
-    <a class="usa-button margin-bottom-2" href="{{ page.abstract-web | prepend: site.baseurl }}" target="_blank">View Evaluation Summary</a>
-  {% endif %}
-
-  {% if page.intervention %}
-    <a class="usa-button margin-bottom-2" href="{{ page.intervention | prepend: site.baseurl }}" target="_blank">View Intervention Pack (PDF)</a>
-  {% endif %}
-    
-  {% if page.technical-appendix %}
-    <a class="usa-button margin-bottom-2" href="{{ page.technical-appendix | prepend: site.baseurl }}" target="_blank">View Technical Appendix (PDF)</a>
-  {% endif %}
-    
-  {% if page.academic-pub %}
-    <a class="usa-button margin-bottom-2" href="{{ page.academic-pub | prepend: site.baseurl }}" target="_blank">View Publication (PDF)</a>
-  {% endif %}
-    
-  {% if page.academic-pub-web %}
-    <a class="usa-button margin-bottom-2" href="{{ page.academic-pub-web }}" target="_blank">View Publication</a>
-  {% endif %}
-
-  {% if page.behavioral-map %}
-  <a class="usa-button" href="{{ page.behavioral-map | prepend: site.baseurl }}" target="_blank">View Behavioral Map (PDF)</a>
-{% endif %}
+  <div class="tablet:grid-col-4 single-sidebar">
+    <aside
+      class="usa-in-page-nav position-sticky top-4 margin-left-0 margin-top-0"
+      data-main-content-selector="#project-content"
+      data-heading-elements="h2"
+      data-title-text="On this page">
+    </aside>
   </div>
 </div>
+{% else %}
+<div class="grid-row grid-gap-lg">
+  <div class="tablet:grid-col-8 margin-bottom-2">
+    <div class="usa-prose" id="project-content">
+      {{ content }}
+    </div>
+  </div>
+  <div class="tablet:grid-col-4 single-sidebar">
+    {% include project-details.html %}
+    <aside
+      class="usa-in-page-nav position-sticky top-4 margin-left-0 margin-top-4"
+      data-main-content-selector="#project-content"
+      data-heading-elements="h2"
+      data-title-text="On this page">
+    </aside>
+  </div>
+</div>
+{% endif %}
