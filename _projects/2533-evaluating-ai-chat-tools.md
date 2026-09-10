@@ -102,4 +102,4 @@ Notes:
 2. Online survey available to all GSA employees from May 5 - June 2, 2025. 
 3. The estimated number of GSA employees was 11,452, calculated using 13,113 employees as of April 30, 2025 (D2D “GSA Organization” data) minus 1,661 who had accepted the Deferred Resignation Program and were excluded from calculations. 
 
-This formative evaluation did not have an analysis plan.
+This formative evaluation did not pre-register an analysis plan.
