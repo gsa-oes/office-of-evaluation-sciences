@@ -42,4 +42,4 @@ We partnered with GSA’s Office of Information Technology (IT) to evaluate how 
 - Help users develop rules of thumb about checking the accuracy of AI output. Develop guardrails, reminders, and/or defaults to manage other risks (e.g., data security, bias, malicious output), which users may be less aware of.
 - In the roll out of future AI tools, focus on: 1. validating the benefits to users (e.g., time savings), 2. understanding how variations in user behavior affect those benefits, and 3. understanding how users integrate AI output into their work.
 
-This formative evaluation did not have an analysis plan.
+This formative evaluation did not pre-register an analysis plan.
