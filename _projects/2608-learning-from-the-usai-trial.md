@@ -4,9 +4,9 @@ permalink: /2608-learning-from-the-usai-trial/
 tags:
   - project
 share_image: /assets/img/project-images/2608.png
-image: /assets/img/project-images/2608.jpg
-image-credit: https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0
-image_alt_text: AI concept; a computer circuit board with a brain on it
+image: /assets/img/project-images/2608.png
+image-credit: https://pixnio.com/media/head-graphic-digital-database-information
+image_alt_text: Digital AI concept
 analysis-plan: 
 abstract:
 year: 2026
