@@ -51,7 +51,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col usa-prose">
         <h3>Step 2: Translate evidence-based insights into concrete recommendations</h3>
         <p>Our collaborators, who are civil servants with years of experience working to deliver programs across the government, are experts on how their programs work and often have the best ideas for how to improve them. OES team members support their efforts by bringing diverse academic and applied expertise to more deeply understand program bottlenecks and offer recommendations drawn from peer-reviewed evidence in the social and behavioral sciences.</p>
-        <p><a href="{{ '/assets/files/ProjectDesign.pdf' | prepend: site.baseurl }}" target="_blank">Evaluation design template</a></p>
+        <p><a href="{{ '/assets/files/oes-evaluation-design-template.pdf' | prepend: site.baseurl }}" target="_blank">Evaluation design template</a></p>
       </div>
     </div>
   </div>
@@ -69,7 +69,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
         <p>- Whenever possible, we aim to <a href="https://oes.gsa.gov/methodsdetail/#randomization-code-review" target="_blank">randomly assign</a> individuals or groups to a treatment condition (the evidence-based program change). This is what enables us to conclude that improvements in outcomes were actually caused by the program change(s) that we tested.</p>
         <p>- In designing evaluations, we give particular attention to <a href="https://oes.gsa.gov/methodsdetail/#statistical-power" target="_blank">statistical power</a>. Briefly, statistical power is a test’s ability to correctly detect that a program change was effective (assuming that it was indeed effective).</p>
         <p>- Finally, one of the most important steps we take is committing to a detailed <a href="https://oes.gsa.gov/methodsdetail/#analysis-plans" target="_blank">analysis plan</a> before we begin working with the data. As the recent replication crisis in the social sciences has shown, if scientists allow themselves too much flexibility in analyzing data they may get results that are not reliable but instead reflect inadvertent “fishing” or “p-hacking.”</p>
-        <p><a href="{{ '/assets/files/AnalysisPlan.pdf' | prepend: site.baseurl }}" target="_blank">Analysis plan template</a></p>
+        <p><a href="{{ '/assets/files/oes-analysis-plan-template.pdf' | prepend: site.baseurl }}" target="_blank">Analysis plan template</a></p>
       </div>
     </div>
   </div>
@@ -114,7 +114,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col usa-prose">
         <h3>Step 6: Measure impact and build evidence to continuously improve</h3>
         <p>As part of our commitment to transparency and learning, OES shares findings from every completed evaluation. This helps ensure Federal collaborators can learn what works and, just as importantly, what does not. Results which are surprising or run counter to our expectations are just as important to share and often offer valuable lessons. Our first priority is producing materials that enable decision makers to quickly digest results and understand their implications in a policy relevant time-frame. We produce a number of project summary documents - from high-level summaries, to one-page abstracts, to presentations - that our agency collaborators can use to circulate among their program teams, peers, and leadership, to facilitate learning and evidence-based policy making.</p>
-        <p><a href="{{ '/assets/files/Abstract.pdf' | prepend: site.baseurl }}" target="_blank">Evaluation summary template</a></p>
+        <p><a href="{{ '/assets/files/oes-evaluation-summary-template.pdf' | prepend: site.baseurl }}" target="_blank">Evaluation summary template</a></p>
       </div>
     </div>
   </div>
