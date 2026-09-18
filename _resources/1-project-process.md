@@ -84,7 +84,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col usa-prose">
         <h3>Step 4: Analyze results utilizing existing administrative data</h3>
         <p>OES team members work with agency collaborators to leverage existing data to measure the effect of a program change on a priority outcome of interest. As OES seeks to embed evaluations into ongoing operations, new data collections are generally not an option as they can be costly, time-intensive, and can require extensive approval processes. However, administrative data collected by government entities offer rich information that is often underutilized.</p>
-        <p><a href="{{ '/assets/files/RecordAnalysis.pdf' | prepend: site.baseurl }}" target="_blank">Record of analysis template</a></p>
+        <p><a href="{{ '/assets/files/oes-record-of-analysis-template.pdf' | prepend: site.baseurl }}" target="_blank">Record of analysis template</a></p>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col usa-prose">
         <h3>Step 5: Ensure our work meets evaluation best practice</h3>
         <p>In keeping with our team’s commitment to reproducibility, before we finalize an analysis, we conduct an internal replication that we call Reanalysis. An independent reanalyst — an analyst who does not know the results of the initial analysis — writes new code to analyze the administrative data and independently generate results that address the study’s research objectives. Reanalysis serves as a check on (1) the computer code that the first analyst used to analyze the data, (2) any exploratory analyses that might have been conducted, and (3) any departures from the Analysis Plan that might have been necessary due to unanticipated features of the data. The reanalyst’s goal is to replicate the initial analysis from scratch, working only from the raw data and the Analysis Plan. Discrepancies between the analyses are resolved through careful discussion, generating a more reliable outcome.</p>
-        <p><a href="{{ '/assets/files/RecordReanalysis.pdf' | prepend: site.baseurl }}" target="_blank">Record of reanalysis template</a></p>
+        <p><a href="{{ '/assets/files/oes-record-of-reanalysis-template.pdf' | prepend: site.baseurl }}" target="_blank">Record of reanalysis template</a></p>
       </div>
     </div>
   </div>
