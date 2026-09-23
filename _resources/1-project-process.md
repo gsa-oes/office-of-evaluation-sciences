@@ -35,7 +35,7 @@ summary: We follow a number of steps to ensure our findings are relevant and rel
       <div class="tablet:grid-col usa-prose">
         <h3>Step 1: Partner with federal agencies to target priority outcomes</h3>
         <p>In conversations with collaborators, we discuss the most important questions that need to be answered in order to improve program implementation and performance, and define a meaningful outcome at the start. Agencies maintain priorities through their Congressional Justifications, Annual Performance Plans, Strategic Plans, Agency Priority Goals, Cross-Agency Priority Goals, Learning Agendas, and many other planning efforts. Each evaluation is vetted for feasibility and potential impact on a key priority in a federal program or policy.</p>
-        <p><a href="{{ '/assets/files/ProjectInitiation.pdf' | prepend: site.baseurl }}" target="_blank">Evaluation initiation template</a></p>
+        <p><a href="{{ '/assets/files/oes-project-initiation-template.pdf' | prepend: site.baseurl }}" target="_blank">Evaluation initiation template</a></p>
       </div>
     </div>
   </div>
